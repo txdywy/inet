@@ -1,18 +1,22 @@
 {
-  "totalItems": 60,
-  "last24h": 0,
-  "last7d": 5,
+  "totalItems": 90,
+  "last24h": 1,
+  "last7d": 8,
   "byCategory": {
-    "core": 28,
-    "client": 22,
+    "core": 40,
+    "client": 29,
     "router": 0,
-    "protocol": 3,
+    "protocol": 7,
     "dns_rules": 0,
-    "security": 1,
-    "ecosystem": 6,
+    "security": 2,
+    "ecosystem": 12,
     "trend": 0
   },
   "topProjects": [
+    {
+      "project": "naiveproxy",
+      "count": 5
+    },
     {
       "project": "v2rayNG",
       "count": 5
@@ -34,42 +38,42 @@
       "count": 5
     },
     {
+      "project": "gost",
+      "count": 5
+    },
+    {
       "project": "dae",
+      "count": 5
+    },
+    {
+      "project": "sudoku",
       "count": 5
     },
     {
       "project": "mihomo",
       "count": 5
-    },
-    {
-      "project": "v2ray-core",
-      "count": 5
-    },
-    {
-      "project": "NekoBoxForAndroid",
-      "count": 5
-    },
-    {
-      "project": "shadowsocks-rust",
-      "count": 5
     }
   ],
   "hotTags": [
+    {
+      "tag": "Android",
+      "count": 14
+    },
     {
       "tag": "sing-box",
       "count": 12
     },
     {
-      "tag": "Android",
-      "count": 10
+      "tag": "DNS",
+      "count": 9
     },
     {
       "tag": "Xray",
       "count": 8
     },
     {
-      "tag": "DNS",
-      "count": 7
+      "tag": "网络代理",
+      "count": 8
     },
     {
       "tag": "Windows",
@@ -77,7 +81,19 @@
     },
     {
       "tag": "网络协议",
+      "count": 7
+    },
+    {
+      "tag": "TLS",
       "count": 6
+    },
+    {
+      "tag": "rust",
+      "count": 6
+    },
+    {
+      "tag": "naiveproxy",
+      "count": 5
     },
     {
       "tag": "v2rayNG",
@@ -108,36 +124,20 @@
       "count": 5
     },
     {
+      "tag": "go-gost",
+      "count": 5
+    },
+    {
       "tag": "代理工具",
       "count": 5
     },
     {
       "tag": "dae",
       "count": 5
-    },
-    {
-      "tag": "MetaCubeX",
-      "count": 5
-    },
-    {
-      "tag": "mihomo",
-      "count": 5
-    },
-    {
-      "tag": "shadowsocks",
-      "count": 5
-    },
-    {
-      "tag": "rust",
-      "count": 5
-    },
-    {
-      "tag": "juicity",
-      "count": 5
     }
   ],
-  "importantCount": 40,
-  "breakingCount": 11,
-  "securityCount": 5,
-  "updatedAt": "2026-05-06T14:52:52.796Z"
+  "importantCount": 47,
+  "breakingCount": 14,
+  "securityCount": 6,
+  "updatedAt": "2026-05-06T20:06:00.599Z"
 }

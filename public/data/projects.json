@@ -135,6 +135,85 @@
     ]
   },
   {
+    "slug": "sudoku",
+    "name": "sudoku",
+    "repo": "SUDOKU-ASCII/sudoku",
+    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
+    "category": "core",
+    "platforms": [
+      "linux",
+      "windows",
+      "macos",
+      "android"
+    ],
+    "tags": [
+      "sudoku",
+      "obfuscation"
+    ]
+  },
+  {
+    "slug": "naiveproxy",
+    "name": "naiveproxy",
+    "repo": "klzgrad/naiveproxy",
+    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
+    "category": "core",
+    "platforms": [
+      "linux",
+      "windows",
+      "macos",
+      "android"
+    ],
+    "tags": [
+      "naiveproxy"
+    ]
+  },
+  {
+    "slug": "tuic",
+    "name": "tuic",
+    "repo": "tuic-protocol/tuic",
+    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
+    "category": "core",
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "tags": [
+      "tuic",
+      "quic"
+    ]
+  },
+  {
+    "slug": "shadow-tls",
+    "name": "shadow-tls",
+    "repo": "ihciah/shadow-tls",
+    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
+    "category": "core",
+    "platforms": [
+      "linux"
+    ],
+    "tags": [
+      "shadow-tls",
+      "tls"
+    ]
+  },
+  {
+    "slug": "gost",
+    "name": "gost",
+    "repo": "go-gost/gost",
+    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
+    "category": "core",
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "tags": [
+      "gost",
+      "tunnel"
+    ]
+  },
+  {
     "slug": "v2rayng",
     "name": "v2rayNG",
     "repo": "2dust/v2rayNG",
@@ -195,6 +274,21 @@
     ]
   },
   {
+    "slug": "clashmetaforandroid",
+    "name": "ClashMetaForAndroid",
+    "repo": "MetaCubeX/ClashMetaForAndroid",
+    "description": "各平台代理客户端应用",
+    "category": "client",
+    "platforms": [
+      "android"
+    ],
+    "tags": [
+      "clash",
+      "android",
+      "mihomo"
+    ]
+  },
+  {
     "slug": "clash",
     "name": "clash",
     "repo": "Dreamacro/clash",
@@ -210,18 +304,20 @@
     ]
   },
   {
-    "slug": "clashmetaforandroid",
-    "name": "ClashMetaForAndroid",
-    "repo": "MetaCubeX/ClashMetaForAndroid",
-    "description": "各平台代理客户端应用",
-    "category": "client",
+    "slug": "amneziawg-go",
+    "name": "amneziawg-go",
+    "repo": "amnezia-vpn/amneziawg-go",
+    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
+    "category": "core",
     "platforms": [
-      "android"
+      "linux",
+      "windows",
+      "macos"
     ],
     "tags": [
-      "clash",
-      "android",
-      "mihomo"
+      "amneziawg",
+      "wireguard",
+      "obfuscation"
     ]
   },
   {
@@ -239,6 +335,89 @@
       "clash-verge",
       "mihomo",
       "desktop"
+    ]
+  },
+  {
+    "slug": "hiddify-next",
+    "name": "hiddify-next",
+    "repo": "hiddify/hiddify-next",
+    "description": "各平台代理客户端应用",
+    "category": "client",
+    "platforms": [
+      "android",
+      "ios",
+      "windows",
+      "macos",
+      "linux"
+    ],
+    "tags": [
+      "hiddify",
+      "sing-box",
+      "universal"
+    ]
+  },
+  {
+    "slug": "v2raya",
+    "name": "v2rayA",
+    "repo": "v2rayA/v2rayA",
+    "description": "各平台代理客户端应用",
+    "category": "client",
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "tags": [
+      "v2raya",
+      "web",
+      "transparent-proxy"
+    ]
+  },
+  {
+    "slug": "mihomo-party",
+    "name": "mihomo-party",
+    "repo": "mihomo-party-org/mihomo-party",
+    "description": "各平台代理客户端应用",
+    "category": "client",
+    "platforms": [
+      "windows",
+      "macos",
+      "linux"
+    ],
+    "tags": [
+      "mihomo-party",
+      "mihomo",
+      "desktop"
+    ]
+  },
+  {
+    "slug": "sing-box-for-android",
+    "name": "sing-box-for-android",
+    "repo": "SagerNet/sing-box-for-android",
+    "description": "各平台代理客户端应用",
+    "category": "client",
+    "platforms": [
+      "android"
+    ],
+    "tags": [
+      "sing-box",
+      "android"
+    ]
+  },
+  {
+    "slug": "sing-box-for-apple",
+    "name": "sing-box-for-apple",
+    "repo": "SagerNet/sing-box-for-apple",
+    "description": "各平台代理客户端应用",
+    "category": "client",
+    "platforms": [
+      "ios",
+      "macos"
+    ],
+    "tags": [
+      "sing-box",
+      "ios",
+      "macos"
     ]
   },
   {
@@ -323,6 +502,24 @@
     ]
   },
   {
+    "slug": "shellcrash",
+    "name": "ShellCrash",
+    "repo": "juewuy/ShellCrash",
+    "description": "OpenWrt / 路由器固件及插件",
+    "category": "router",
+    "platforms": [
+      "linux",
+      "openwrt",
+      "router"
+    ],
+    "tags": [
+      "shellcrash",
+      "shellclash",
+      "mihomo",
+      "sing-box"
+    ]
+  },
+  {
     "slug": "immortalwrt",
     "name": "immortalwrt",
     "repo": "immortalwrt/immortalwrt",
@@ -368,6 +565,115 @@
       "tailscale",
       "wireguard",
       "mesh"
+    ]
+  },
+  {
+    "slug": "shadowsocks-specs",
+    "name": "shadowsocks-specs",
+    "repo": "Shadowsocks-NET/shadowsocks-specs",
+    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
+    "category": "ecosystem",
+    "platforms": [],
+    "tags": [
+      "shadowsocks",
+      "shadowsocks-2022",
+      "specs"
+    ]
+  },
+  {
+    "slug": "3x-ui",
+    "name": "3x-ui",
+    "repo": "MHSanaei/3x-ui",
+    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
+    "category": "ecosystem",
+    "platforms": [
+      "linux"
+    ],
+    "tags": [
+      "x-ui",
+      "panel",
+      "xray-core"
+    ]
+  },
+  {
+    "slug": "sub-store",
+    "name": "Sub-Store",
+    "repo": "sub-store-org/Sub-Store",
+    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
+    "category": "ecosystem",
+    "platforms": [
+      "ios",
+      "android",
+      "macos",
+      "windows",
+      "linux"
+    ],
+    "tags": [
+      "sub-store",
+      "subscription"
+    ]
+  },
+  {
+    "slug": "v2ray-agent",
+    "name": "v2ray-agent",
+    "repo": "mack-a/v2ray-agent",
+    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
+    "category": "ecosystem",
+    "platforms": [
+      "linux"
+    ],
+    "tags": [
+      "v2ray-agent",
+      "script",
+      "vps"
+    ]
+  },
+  {
+    "slug": "cloudflarespeedtest",
+    "name": "CloudflareSpeedTest",
+    "repo": "XIU2/CloudflareSpeedTest",
+    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
+    "category": "ecosystem",
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "tags": [
+      "cloudflare",
+      "speedtest",
+      "optimization"
+    ]
+  },
+  {
+    "slug": "subconverter",
+    "name": "subconverter",
+    "repo": "tindy2013/subconverter",
+    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
+    "category": "ecosystem",
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "tags": [
+      "subconverter",
+      "subscription"
+    ]
+  },
+  {
+    "slug": "metacubexd",
+    "name": "metacubexd",
+    "repo": "MetaCubeX/metacubexd",
+    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
+    "category": "ecosystem",
+    "platforms": [
+      "web"
+    ],
+    "tags": [
+      "dashboard",
+      "mihomo",
+      "clash"
     ]
   },
   {
