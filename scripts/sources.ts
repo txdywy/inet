@@ -20,6 +20,10 @@ export const GITHUB_REPOS: RepoSource[] = [
   { owner: "shadowsocks", repo: "shadowsocks-rust", category: "core", platforms: ["linux", "windows", "macos"], tags: ["shadowsocks", "rust"], priority: 3 },
   { owner: "daeuniverse", repo: "dae", category: "core", platforms: ["linux"], tags: ["dae", "ebpf", "linux"], priority: 3 },
   { owner: "juicity", repo: "juicity", category: "core", platforms: ["linux", "windows", "macos"], tags: ["juicity", "quic"], priority: 2 },
+  { owner: "SUDOKU-ASCII", repo: "sudoku", category: "core", platforms: ["linux", "windows", "macos", "android"], tags: ["sudoku", "obfuscation"], priority: 3 },
+  { owner: "klzgrad", repo: "naiveproxy", category: "core", platforms: ["linux", "windows", "macos", "android"], tags: ["naiveproxy"], priority: 4 },
+  { owner: "tuic-protocol", repo: "tuic", category: "core", platforms: ["linux", "windows", "macos"], tags: ["tuic", "quic"], priority: 4 },
+  { owner: "ihciah", repo: "shadow-tls", category: "core", platforms: ["linux"], tags: ["shadow-tls", "tls"], priority: 3 },
 
   // Client
   { owner: "2dust", repo: "v2rayNG", category: "client", platforms: ["android"], tags: ["v2rayng", "android", "xray-core"], priority: 4 },
@@ -40,6 +44,7 @@ export const GITHUB_REPOS: RepoSource[] = [
   { owner: "immortalwrt", repo: "immortalwrt", category: "ecosystem", platforms: ["openwrt", "router"], tags: ["immortalwrt", "openwrt"], priority: 3 },
   { owner: "openwrt", repo: "openwrt", category: "ecosystem", platforms: ["openwrt", "router"], tags: ["openwrt"], priority: 3 },
   { owner: "tailscale", repo: "tailscale", category: "ecosystem", platforms: ["linux", "windows", "macos", "android", "ios"], tags: ["tailscale", "wireguard", "mesh"], priority: 4 },
+  { owner: "Shadowsocks-NET", repo: "shadowsocks-specs", category: "ecosystem", platforms: [], tags: ["shadowsocks", "shadowsocks-2022", "specs"], priority: 4 },
 
   // DNS / Rules
   { owner: "Loyalsoldier", repo: "v2ray-rules-dat", category: "dns_rules", platforms: ["linux", "windows", "macos"], tags: ["ruleset", "geosite", "geoip"], priority: 3 },
@@ -68,7 +73,7 @@ export const MANUAL_SOURCES: ManualSource[] = [
 ];
 
 export const KEYWORDS = {
-  protocol: ["anytls", "vless", "xhttp", "reality", "vision", "hysteria2", "tuic", "ech", "shadowtls", "naiveproxy", "quic", "http/3", "grpc", "wireguard", "shadowsocks"],
+  protocol: ["anytls", "vless", "xhttp", "reality", "vision", "hysteria2", "tuic", "ech", "shadowtls", "shadow-tls", "naiveproxy", "quic", "http/3", "grpc", "wireguard", "shadowsocks", "shadowsocks-2022", "sudoku"],
   security: ["cve", "security", "vulner", "exploit", "attack", "fingerprint", "tls", "certificate"],
   breaking: ["breaking", "incompatible", "remove", "deprecated", "migration", "migrate", "breaking change"],
   noise: ["typo", "docs", "readme", "ci", "workflow", "test", "chore", "bump version", "update readme"],
