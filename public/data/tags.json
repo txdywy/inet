@@ -1,23 +1,78 @@
 [
   {
+    "tag": "sing-box",
+    "count": 12,
+    "category": "core"
+  },
+  {
+    "tag": "Android",
+    "count": 10,
+    "category": "client"
+  },
+  {
+    "tag": "Xray",
+    "count": 8,
+    "category": "client"
+  },
+  {
+    "tag": "DNS",
+    "count": 7,
+    "category": "core"
+  },
+  {
+    "tag": "Windows",
+    "count": 7,
+    "category": "client"
+  },
+  {
+    "tag": "网络协议",
+    "count": 6,
+    "category": "core"
+  },
+  {
+    "tag": "v2rayNG",
+    "count": 5,
+    "category": "client"
+  },
+  {
+    "tag": "SOCKS",
+    "count": 5,
+    "category": "client"
+  },
+  {
     "tag": "SagerNet",
     "count": 5,
     "category": "core"
   },
   {
-    "tag": "sing-box",
+    "tag": "v2rayN",
     "count": 5,
-    "category": "core"
+    "category": "client"
   },
   {
-    "tag": "网络协议",
+    "tag": "xray",
     "count": 5,
-    "category": "core"
+    "category": "client"
+  },
+  {
+    "tag": "TUN",
+    "count": 5,
+    "category": "client"
   },
   {
     "tag": "Hysteria",
     "count": 5,
     "category": "security"
+  },
+  {
+    "tag": "代理工具",
+    "count": 5,
+    "category": "core"
+  },
+  {
+    "tag": "dae",
+    "count": 5,
+    "category": "ecosystem"
   },
   {
     "tag": "MetaCubeX",
@@ -40,6 +95,11 @@
     "category": "core"
   },
   {
+    "tag": "juicity",
+    "count": 5,
+    "category": "ecosystem"
+  },
+  {
     "tag": "TLS",
     "count": 4,
     "category": "core"
@@ -50,7 +110,7 @@
     "category": "core"
   },
   {
-    "tag": "代理工具",
+    "tag": "网络代理",
     "count": 4,
     "category": "core"
   },
@@ -60,9 +120,24 @@
     "category": "protocol"
   },
   {
+    "tag": "quic-go",
+    "count": 4,
+    "category": "protocol"
+  },
+  {
+    "tag": "nekoray",
+    "count": 4,
+    "category": "client"
+  },
+  {
     "tag": "QUIC",
     "count": 3,
     "category": "security"
+  },
+  {
+    "tag": "IPv6",
+    "count": 3,
+    "category": "client"
   },
   {
     "tag": "xhttp",
@@ -70,7 +145,22 @@
     "category": "core"
   },
   {
+    "tag": "NaiveProxy",
+    "count": 3,
+    "category": "client"
+  },
+  {
+    "tag": "v2ray",
+    "count": 3,
+    "category": "core"
+  },
+  {
     "tag": "BBR",
+    "count": 3,
+    "category": "core"
+  },
+  {
+    "tag": "Linux",
     "count": 3,
     "category": "core"
   },
@@ -85,9 +175,9 @@
     "category": "core"
   },
   {
-    "tag": "DNS",
-    "count": 2,
-    "category": "core"
+    "tag": "NekoBoxForAndroid",
+    "count": 3,
+    "category": "client"
   },
   {
     "tag": "nftables",
@@ -95,9 +185,9 @@
     "category": "security"
   },
   {
-    "tag": "v2ray",
+    "tag": "CI",
     "count": 2,
-    "category": "core"
+    "category": "ecosystem"
   },
   {
     "tag": "golang",
@@ -105,7 +195,17 @@
     "category": "core"
   },
   {
+    "tag": "vless",
+    "count": 2,
+    "category": "protocol"
+  },
+  {
     "tag": "Reno",
+    "count": 2,
+    "category": "core"
+  },
+  {
+    "tag": "UDP",
     "count": 2,
     "category": "core"
   },
@@ -115,19 +215,49 @@
     "category": "core"
   },
   {
-    "tag": "quic-go",
-    "count": 2,
-    "category": "protocol"
-  },
-  {
-    "tag": "网络代理",
+    "tag": "DoT",
     "count": 2,
     "category": "core"
   },
   {
-    "tag": "Xray",
-    "count": 1,
+    "tag": "hysteria2",
+    "count": 2,
     "category": "core"
+  },
+  {
+    "tag": "网络优化",
+    "count": 2,
+    "category": "core"
+  },
+  {
+    "tag": "dns",
+    "count": 2,
+    "category": "core"
+  },
+  {
+    "tag": "NekoBox",
+    "count": 2,
+    "category": "client"
+  },
+  {
+    "tag": "持续集成",
+    "count": 2,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "bug修复",
+    "count": 2,
+    "category": "core"
+  },
+  {
+    "tag": "bugfix",
+    "count": 2,
+    "category": "core"
+  },
+  {
+    "tag": "命令行工具",
+    "count": 2,
+    "category": "ecosystem"
   },
   {
     "tag": "代理",
@@ -155,7 +285,22 @@
     "category": "security"
   },
   {
-    "tag": "Windows",
+    "tag": "控制平面",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "发布候选",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "BPF",
+    "count": 1,
+    "category": "core"
+  },
+  {
+    "tag": "AnyTLS",
     "count": 1,
     "category": "core"
   },
@@ -165,14 +310,14 @@
     "category": "core"
   },
   {
-    "tag": "IPv6",
+    "tag": "CDN",
     "count": 1,
     "category": "core"
   },
   {
-    "tag": "CDN",
+    "tag": "TUN模式",
     "count": 1,
-    "category": "core"
+    "category": "client"
   },
   {
     "tag": "RRPIT",
@@ -185,11 +330,6 @@
     "category": "core"
   },
   {
-    "tag": "vless",
-    "count": 1,
-    "category": "protocol"
-  },
-  {
     "tag": "流媒体",
     "count": 1,
     "category": "core"
@@ -200,27 +340,12 @@
     "category": "core"
   },
   {
-    "tag": "UDP",
-    "count": 1,
-    "category": "core"
-  },
-  {
-    "tag": "Linux",
-    "count": 1,
-    "category": "core"
-  },
-  {
     "tag": "网络性能",
     "count": 1,
     "category": "core"
   },
   {
     "tag": "STUN",
-    "count": 1,
-    "category": "core"
-  },
-  {
-    "tag": "DoT",
     "count": 1,
     "category": "core"
   },
@@ -240,11 +365,6 @@
     "category": "core"
   },
   {
-    "tag": "TUN",
-    "count": 1,
-    "category": "core"
-  },
-  {
     "tag": "IP解析",
     "count": 1,
     "category": "core"
@@ -253,11 +373,6 @@
     "tag": "测速工具",
     "count": 1,
     "category": "protocol"
-  },
-  {
-    "tag": "hysteria2",
-    "count": 1,
-    "category": "core"
   },
   {
     "tag": "最少延迟",
@@ -270,9 +385,14 @@
     "category": "core"
   },
   {
-    "tag": "网络优化",
+    "tag": "翻墙工具",
     "count": 1,
-    "category": "core"
+    "category": "client"
+  },
+  {
+    "tag": "预览版本",
+    "count": 1,
+    "category": "client"
   },
   {
     "tag": "logging",
@@ -285,6 +405,26 @@
     "category": "core"
   },
   {
+    "tag": "anytls",
+    "count": 1,
+    "category": "core"
+  },
+  {
+    "tag": "udp",
+    "count": 1,
+    "category": "core"
+  },
+  {
+    "tag": "bpf",
+    "count": 1,
+    "category": "core"
+  },
+  {
+    "tag": "grpc",
+    "count": 1,
+    "category": "client"
+  },
+  {
     "tag": "vpn",
     "count": 1,
     "category": "core"
@@ -295,12 +435,7 @@
     "category": "core"
   },
   {
-    "tag": "dns",
-    "count": 1,
-    "category": "core"
-  },
-  {
-    "tag": "bugfix",
+    "tag": "特权提升",
     "count": 1,
     "category": "core"
   },
@@ -320,6 +455,26 @@
     "category": "core"
   },
   {
+    "tag": "ClashMeta",
+    "count": 1,
+    "category": "client"
+  },
+  {
+    "tag": "VPN",
+    "count": 1,
+    "category": "client"
+  },
+  {
+    "tag": "DoH",
+    "count": 1,
+    "category": "core"
+  },
+  {
+    "tag": "xudp",
+    "count": 1,
+    "category": "core"
+  },
+  {
     "tag": "HTTP/2",
     "count": 1,
     "category": "protocol"
@@ -328,5 +483,50 @@
     "tag": "VLESS",
     "count": 1,
     "category": "protocol"
+  },
+  {
+    "tag": "nekobox",
+    "count": 1,
+    "category": "client"
+  },
+  {
+    "tag": "Qt",
+    "count": 1,
+    "category": "client"
+  },
+  {
+    "tag": "gso",
+    "count": 1,
+    "category": "client"
+  },
+  {
+    "tag": "utls",
+    "count": 1,
+    "category": "client"
+  },
+  {
+    "tag": "softwind",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "Nekoray",
+    "count": 1,
+    "category": "client"
+  },
+  {
+    "tag": "多开检查",
+    "count": 1,
+    "category": "client"
+  },
+  {
+    "tag": "MatsuriDayo",
+    "count": 1,
+    "category": "client"
+  },
+  {
+    "tag": "vmess",
+    "count": 1,
+    "category": "client"
   }
 ]

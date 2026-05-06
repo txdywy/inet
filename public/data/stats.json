@@ -1,18 +1,22 @@
 {
-  "totalItems": 30,
+  "totalItems": 60,
   "last24h": 0,
-  "last7d": 2,
+  "last7d": 5,
   "byCategory": {
-    "core": 24,
-    "client": 0,
+    "core": 28,
+    "client": 22,
     "router": 0,
     "protocol": 3,
     "dns_rules": 0,
     "security": 1,
-    "ecosystem": 2,
+    "ecosystem": 6,
     "trend": 0
   },
   "topProjects": [
+    {
+      "project": "v2rayNG",
+      "count": 5
+    },
     {
       "project": "Xray-core",
       "count": 5
@@ -22,7 +26,15 @@
       "count": 5
     },
     {
+      "project": "v2rayN",
+      "count": 5
+    },
+    {
       "project": "hysteria",
+      "count": 5
+    },
+    {
+      "project": "dae",
       "count": 5
     },
     {
@@ -34,25 +46,73 @@
       "count": 5
     },
     {
+      "project": "NekoBoxForAndroid",
+      "count": 5
+    },
+    {
       "project": "shadowsocks-rust",
       "count": 5
     }
   ],
   "hotTags": [
     {
+      "tag": "sing-box",
+      "count": 12
+    },
+    {
+      "tag": "Android",
+      "count": 10
+    },
+    {
+      "tag": "Xray",
+      "count": 8
+    },
+    {
+      "tag": "DNS",
+      "count": 7
+    },
+    {
+      "tag": "Windows",
+      "count": 7
+    },
+    {
+      "tag": "网络协议",
+      "count": 6
+    },
+    {
+      "tag": "v2rayNG",
+      "count": 5
+    },
+    {
+      "tag": "SOCKS",
+      "count": 5
+    },
+    {
       "tag": "SagerNet",
       "count": 5
     },
     {
-      "tag": "sing-box",
+      "tag": "v2rayN",
       "count": 5
     },
     {
-      "tag": "网络协议",
+      "tag": "xray",
+      "count": 5
+    },
+    {
+      "tag": "TUN",
       "count": 5
     },
     {
       "tag": "Hysteria",
+      "count": 5
+    },
+    {
+      "tag": "代理工具",
+      "count": 5
+    },
+    {
+      "tag": "dae",
       "count": 5
     },
     {
@@ -72,56 +132,12 @@
       "count": 5
     },
     {
-      "tag": "TLS",
-      "count": 4
-    },
-    {
-      "tag": "Xray-core",
-      "count": 4
-    },
-    {
-      "tag": "代理工具",
-      "count": 4
-    },
-    {
-      "tag": "gRPC",
-      "count": 4
-    },
-    {
-      "tag": "QUIC",
-      "count": 3
-    },
-    {
-      "tag": "xhttp",
-      "count": 3
-    },
-    {
-      "tag": "BBR",
-      "count": 3
-    },
-    {
-      "tag": "v2fly",
-      "count": 3
-    },
-    {
-      "tag": "v2ray-core",
-      "count": 3
-    },
-    {
-      "tag": "DNS",
-      "count": 2
-    },
-    {
-      "tag": "nftables",
-      "count": 2
-    },
-    {
-      "tag": "v2ray",
-      "count": 2
+      "tag": "juicity",
+      "count": 5
     }
   ],
-  "importantCount": 18,
-  "breakingCount": 1,
-  "securityCount": 4,
-  "updatedAt": "2026-05-06T03:58:49.428Z"
+  "importantCount": 40,
+  "breakingCount": 11,
+  "securityCount": 5,
+  "updatedAt": "2026-05-06T14:52:52.796Z"
 }
