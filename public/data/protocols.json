@@ -1,0 +1,138 @@
+[
+  {
+    "slug": "xhttp",
+    "name": "XHTTP",
+    "description": "Xray-core 引入的 HTTP 传输协议",
+    "relatedProjects": [
+      "XTLS/Xray-core"
+    ],
+    "tags": [
+      "xhttp",
+      "xray-core"
+    ],
+    "status": "active"
+  },
+  {
+    "slug": "anytls",
+    "name": "AnyTLS",
+    "description": "通用 TLS 伪装方案",
+    "relatedProjects": [
+      "XTLS/Xray-core"
+    ],
+    "tags": [
+      "anytls",
+      "tls"
+    ],
+    "status": "experimental"
+  },
+  {
+    "slug": "vless",
+    "name": "VLESS",
+    "description": "轻量级代理协议，Xray-core 和 v2ray-core 支持",
+    "relatedProjects": [
+      "XTLS/Xray-core",
+      "v2fly/v2ray-core",
+      "SagerNet/sing-box"
+    ],
+    "tags": [
+      "vless"
+    ],
+    "status": "active"
+  },
+  {
+    "slug": "reality",
+    "name": "REALITY",
+    "description": "TLS 握手伪装方案，无需自签证书",
+    "relatedProjects": [
+      "XTLS/Xray-core",
+      "SagerNet/sing-box"
+    ],
+    "tags": [
+      "reality",
+      "tls"
+    ],
+    "status": "active"
+  },
+  {
+    "slug": "hysteria2",
+    "name": "Hysteria 2",
+    "description": "基于 QUIC 的高速代理协议",
+    "relatedProjects": [
+      "apernet/hysteria",
+      "SagerNet/sing-box"
+    ],
+    "tags": [
+      "hysteria2",
+      "quic"
+    ],
+    "status": "active"
+  },
+  {
+    "slug": "tuic",
+    "name": "TUIC",
+    "description": "基于 QUIC 的代理协议",
+    "relatedProjects": [
+      "SagerNet/sing-box",
+      "juicity/juicity"
+    ],
+    "tags": [
+      "tuic",
+      "quic"
+    ],
+    "status": "active"
+  },
+  {
+    "slug": "ech",
+    "name": "ECH",
+    "description": "Encrypted Client Hello，TLS 隐私增强",
+    "relatedProjects": [
+      "SagerNet/sing-box",
+      "XTLS/Xray-core"
+    ],
+    "tags": [
+      "ech",
+      "tls"
+    ],
+    "status": "experimental"
+  },
+  {
+    "slug": "shadowtls",
+    "name": "ShadowTLS",
+    "description": "TLS 伪装方案，让代理流量看起来像正常 TLS",
+    "relatedProjects": [
+      "SagerNet/sing-box"
+    ],
+    "tags": [
+      "shadowtls",
+      "tls"
+    ],
+    "status": "active"
+  },
+  {
+    "slug": "naiveproxy",
+    "name": "NaiveProxy",
+    "description": "基于 Chromium 网络栈的代理",
+    "relatedProjects": [
+      "SagerNet/sing-box"
+    ],
+    "tags": [
+      "naiveproxy",
+      "chromium"
+    ],
+    "status": "active"
+  },
+  {
+    "slug": "quic",
+    "name": "QUIC / HTTP/3",
+    "description": "下一代传输协议，被 Hysteria2、TUIC 等使用",
+    "relatedProjects": [
+      "apernet/hysteria",
+      "SagerNet/sing-box"
+    ],
+    "tags": [
+      "quic",
+      "http/3"
+    ],
+    "status": "active"
+  }
+]

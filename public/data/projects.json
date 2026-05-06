@@ -1,0 +1,521 @@
+[
+  {
+    "slug": "xray-core",
+    "name": "Xray-core",
+    "repo": "XTLS/Xray-core",
+    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
+    "category": "core",
+    "platforms": [
+      "linux",
+      "windows",
+      "macos",
+      "android"
+    ],
+    "tags": [
+      "xray-core",
+      "vless",
+      "xtls",
+      "xhttp"
+    ]
+  },
+  {
+    "slug": "sing-box",
+    "name": "sing-box",
+    "repo": "SagerNet/sing-box",
+    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
+    "category": "core",
+    "platforms": [
+      "linux",
+      "windows",
+      "macos",
+      "android",
+      "ios"
+    ],
+    "tags": [
+      "sing-box",
+      "vless",
+      "hysteria2",
+      "tuic"
+    ]
+  },
+  {
+    "slug": "mihomo",
+    "name": "mihomo",
+    "repo": "MetaCubeX/mihomo",
+    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
+    "category": "core",
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "tags": [
+      "mihomo",
+      "clash",
+      "meta"
+    ]
+  },
+  {
+    "slug": "clash",
+    "name": "clash",
+    "repo": "Dreamacro/clash",
+    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
+    "category": "core",
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "tags": [
+      "clash"
+    ]
+  },
+  {
+    "slug": "v2ray-core",
+    "name": "v2ray-core",
+    "repo": "v2fly/v2ray-core",
+    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
+    "category": "core",
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "tags": [
+      "v2ray-core",
+      "vless"
+    ]
+  },
+  {
+    "slug": "hysteria",
+    "name": "hysteria",
+    "repo": "apernet/hysteria",
+    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
+    "category": "core",
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "tags": [
+      "hysteria2",
+      "quic"
+    ]
+  },
+  {
+    "slug": "shadowsocks-rust",
+    "name": "shadowsocks-rust",
+    "repo": "shadowsocks/shadowsocks-rust",
+    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
+    "category": "core",
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "tags": [
+      "shadowsocks",
+      "rust"
+    ]
+  },
+  {
+    "slug": "dae",
+    "name": "dae",
+    "repo": "daeuniverse/dae",
+    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
+    "category": "core",
+    "platforms": [
+      "linux"
+    ],
+    "tags": [
+      "dae",
+      "ebpf",
+      "linux"
+    ]
+  },
+  {
+    "slug": "juicity",
+    "name": "juicity",
+    "repo": "juicity/juicity",
+    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
+    "category": "core",
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "tags": [
+      "juicity",
+      "quic"
+    ]
+  },
+  {
+    "slug": "v2rayng",
+    "name": "v2rayNG",
+    "repo": "2dust/v2rayNG",
+    "description": "各平台代理客户端应用",
+    "category": "client",
+    "platforms": [
+      "android"
+    ],
+    "tags": [
+      "v2rayng",
+      "android",
+      "xray-core"
+    ]
+  },
+  {
+    "slug": "v2rayn",
+    "name": "v2rayN",
+    "repo": "2dust/v2rayN",
+    "description": "各平台代理客户端应用",
+    "category": "client",
+    "platforms": [
+      "windows"
+    ],
+    "tags": [
+      "v2rayn",
+      "windows",
+      "xray-core"
+    ]
+  },
+  {
+    "slug": "nekoboxforandroid",
+    "name": "NekoBoxForAndroid",
+    "repo": "MatsuriDayo/NekoBoxForAndroid",
+    "description": "各平台代理客户端应用",
+    "category": "client",
+    "platforms": [
+      "android"
+    ],
+    "tags": [
+      "nekobox",
+      "android",
+      "sing-box"
+    ]
+  },
+  {
+    "slug": "nekoray",
+    "name": "nekoray",
+    "repo": "MatsuriDayo/nekoray",
+    "description": "各平台代理客户端应用",
+    "category": "client",
+    "platforms": [
+      "windows",
+      "linux"
+    ],
+    "tags": [
+      "nekoray",
+      "sing-box"
+    ]
+  },
+  {
+    "slug": "clashmetaforandroid",
+    "name": "ClashMetaForAndroid",
+    "repo": "MetaCubeX/ClashMetaForAndroid",
+    "description": "各平台代理客户端应用",
+    "category": "client",
+    "platforms": [
+      "android"
+    ],
+    "tags": [
+      "clash",
+      "android",
+      "mihomo"
+    ]
+  },
+  {
+    "slug": "clash-verge-rev",
+    "name": "clash-verge-rev",
+    "repo": "clash-verge-rev/clash-verge-rev",
+    "description": "各平台代理客户端应用",
+    "category": "client",
+    "platforms": [
+      "windows",
+      "macos",
+      "linux"
+    ],
+    "tags": [
+      "clash-verge",
+      "mihomo",
+      "desktop"
+    ]
+  },
+  {
+    "slug": "openwrt-passwall",
+    "name": "openwrt-passwall",
+    "repo": "xiaorouji/openwrt-passwall",
+    "description": "OpenWrt / 路由器固件及插件",
+    "category": "router",
+    "platforms": [
+      "openwrt",
+      "router"
+    ],
+    "tags": [
+      "passwall",
+      "openwrt",
+      "luci"
+    ]
+  },
+  {
+    "slug": "openwrt-passwall2",
+    "name": "openwrt-passwall2",
+    "repo": "xiaorouji/openwrt-passwall2",
+    "description": "OpenWrt / 路由器固件及插件",
+    "category": "router",
+    "platforms": [
+      "openwrt",
+      "router"
+    ],
+    "tags": [
+      "passwall2",
+      "openwrt",
+      "luci"
+    ]
+  },
+  {
+    "slug": "openclash",
+    "name": "OpenClash",
+    "repo": "vernesong/OpenClash",
+    "description": "OpenWrt / 路由器固件及插件",
+    "category": "router",
+    "platforms": [
+      "openwrt",
+      "router"
+    ],
+    "tags": [
+      "openclash",
+      "openwrt",
+      "luci",
+      "clash"
+    ]
+  },
+  {
+    "slug": "helloworld",
+    "name": "helloworld",
+    "repo": "fw876/helloworld",
+    "description": "OpenWrt / 路由器固件及插件",
+    "category": "router",
+    "platforms": [
+      "openwrt",
+      "router"
+    ],
+    "tags": [
+      "ssrplus",
+      "openwrt",
+      "luci"
+    ]
+  },
+  {
+    "slug": "luci-app-mosdns",
+    "name": "luci-app-mosdns",
+    "repo": "sbwml/luci-app-mosdns",
+    "description": "OpenWrt / 路由器固件及插件",
+    "category": "router",
+    "platforms": [
+      "openwrt",
+      "router"
+    ],
+    "tags": [
+      "mosdns",
+      "openwrt",
+      "dns"
+    ]
+  },
+  {
+    "slug": "immortalwrt",
+    "name": "immortalwrt",
+    "repo": "immortalwrt/immortalwrt",
+    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
+    "category": "ecosystem",
+    "platforms": [
+      "openwrt",
+      "router"
+    ],
+    "tags": [
+      "immortalwrt",
+      "openwrt"
+    ]
+  },
+  {
+    "slug": "openwrt",
+    "name": "openwrt",
+    "repo": "openwrt/openwrt",
+    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
+    "category": "ecosystem",
+    "platforms": [
+      "openwrt",
+      "router"
+    ],
+    "tags": [
+      "openwrt"
+    ]
+  },
+  {
+    "slug": "tailscale",
+    "name": "tailscale",
+    "repo": "tailscale/tailscale",
+    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
+    "category": "ecosystem",
+    "platforms": [
+      "linux",
+      "windows",
+      "macos",
+      "android",
+      "ios"
+    ],
+    "tags": [
+      "tailscale",
+      "wireguard",
+      "mesh"
+    ]
+  },
+  {
+    "slug": "v2ray-rules-dat",
+    "name": "v2ray-rules-dat",
+    "repo": "Loyalsoldier/v2ray-rules-dat",
+    "description": "DNS 解析、规则集、分流策略",
+    "category": "dns_rules",
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "tags": [
+      "ruleset",
+      "geosite",
+      "geoip"
+    ]
+  },
+  {
+    "slug": "meta-rules-dat",
+    "name": "meta-rules-dat",
+    "repo": "MetaCubeX/meta-rules-dat",
+    "description": "DNS 解析、规则集、分流策略",
+    "category": "dns_rules",
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "tags": [
+      "ruleset",
+      "geosite",
+      "geoip",
+      "mihomo"
+    ]
+  },
+  {
+    "slug": "ios_rule_script",
+    "name": "ios_rule_script",
+    "repo": "blackmatrix7/ios_rule_script",
+    "description": "DNS 解析、规则集、分流策略",
+    "category": "dns_rules",
+    "platforms": [
+      "ios",
+      "macos"
+    ],
+    "tags": [
+      "ruleset",
+      "ios",
+      "surge",
+      "quantumult-x"
+    ]
+  },
+  {
+    "slug": "domain-list-community",
+    "name": "domain-list-community",
+    "repo": "v2fly/domain-list-community",
+    "description": "DNS 解析、规则集、分流策略",
+    "category": "dns_rules",
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "tags": [
+      "geosite",
+      "domain-list"
+    ]
+  },
+  {
+    "slug": "shadowrocket",
+    "name": "Shadowrocket",
+    "repo": "shadowrocket",
+    "description": "iOS proxy client",
+    "homepage": "https://shadowrocket.me",
+    "category": "client",
+    "platforms": [
+      "ios"
+    ],
+    "tags": [
+      "shadowrocket",
+      "ios"
+    ]
+  },
+  {
+    "slug": "surge",
+    "name": "Surge",
+    "repo": "surge",
+    "description": "Network debugging and proxy tool for iOS/macOS",
+    "homepage": "https://nssurge.com",
+    "category": "client",
+    "platforms": [
+      "ios",
+      "macos"
+    ],
+    "tags": [
+      "surge",
+      "ios",
+      "macos"
+    ]
+  },
+  {
+    "slug": "stash",
+    "name": "Stash",
+    "repo": "stash",
+    "description": "Clash-based proxy client for iOS/macOS",
+    "homepage": "https://stash.ws",
+    "category": "client",
+    "platforms": [
+      "ios",
+      "macos"
+    ],
+    "tags": [
+      "stash",
+      "ios",
+      "macos",
+      "clash"
+    ]
+  },
+  {
+    "slug": "quantumult-x",
+    "name": "Quantumult X",
+    "repo": "quantumult-x",
+    "description": "iOS proxy and network utility",
+    "homepage": "https://quantumult.app",
+    "category": "client",
+    "platforms": [
+      "ios"
+    ],
+    "tags": [
+      "quantumult-x",
+      "ios"
+    ]
+  },
+  {
+    "slug": "loon",
+    "name": "Loon",
+    "repo": "loon",
+    "description": "iOS proxy client",
+    "homepage": "https://nsloon.com",
+    "category": "client",
+    "platforms": [
+      "ios"
+    ],
+    "tags": [
+      "loon",
+      "ios"
+    ]
+  }
+]

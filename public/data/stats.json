@@ -1,0 +1,21 @@
+{
+  "totalItems": 0,
+  "last24h": 0,
+  "last7d": 0,
+  "byCategory": {
+    "core": 0,
+    "client": 0,
+    "router": 0,
+    "protocol": 0,
+    "dns_rules": 0,
+    "security": 0,
+    "ecosystem": 0,
+    "trend": 0
+  },
+  "topProjects": [],
+  "hotTags": [],
+  "importantCount": 0,
+  "breakingCount": 0,
+  "securityCount": 0,
+  "updatedAt": "2026-05-06T03:26:22.527Z"
+}
