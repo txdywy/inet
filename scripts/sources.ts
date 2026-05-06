@@ -36,6 +36,9 @@ export const GITHUB_REPOS: RepoSource[] = [
   { owner: "clash-verge-rev", repo: "clash-verge-rev", category: "client", platforms: ["windows", "macos", "linux"], tags: ["clash-verge", "mihomo", "desktop"], priority: 4 },
   { owner: "hiddify", repo: "hiddify-next", category: "client", platforms: ["android", "ios", "windows", "macos", "linux"], tags: ["hiddify", "sing-box", "universal"], priority: 5 },
   { owner: "v2rayA", repo: "v2rayA", category: "client", platforms: ["linux", "windows", "macos"], tags: ["v2raya", "web", "transparent-proxy"], priority: 4 },
+  { owner: "mihomo-party-org", repo: "mihomo-party", category: "client", platforms: ["windows", "macos", "linux"], tags: ["mihomo-party", "mihomo", "desktop"], priority: 4 },
+  { owner: "SagerNet", repo: "sing-box-for-android", category: "client", platforms: ["android"], tags: ["sing-box", "android"], priority: 4 },
+  { owner: "SagerNet", repo: "sing-box-for-apple", category: "client", platforms: ["ios", "macos"], tags: ["sing-box", "ios", "macos"], priority: 4 },
 
   // Router
   { owner: "xiaorouji", repo: "openwrt-passwall", category: "router", platforms: ["openwrt", "router"], tags: ["passwall", "openwrt", "luci"], priority: 4 },
@@ -43,6 +46,7 @@ export const GITHUB_REPOS: RepoSource[] = [
   { owner: "vernesong", repo: "OpenClash", category: "router", platforms: ["openwrt", "router"], tags: ["openclash", "openwrt", "luci", "clash"], priority: 4 },
   { owner: "fw876", repo: "helloworld", category: "router", platforms: ["openwrt", "router"], tags: ["ssrplus", "openwrt", "luci"], priority: 2 },
   { owner: "sbwml", repo: "luci-app-mosdns", category: "router", platforms: ["openwrt", "router"], tags: ["mosdns", "openwrt", "dns"], priority: 3 },
+  { owner: "juewuy", repo: "ShellCrash", category: "router", platforms: ["linux", "openwrt", "router"], tags: ["shellcrash", "shellclash", "mihomo", "sing-box"], priority: 4 },
 
   // Ecosystem
   { owner: "immortalwrt", repo: "immortalwrt", category: "ecosystem", platforms: ["openwrt", "router"], tags: ["immortalwrt", "openwrt"], priority: 3 },
@@ -50,6 +54,11 @@ export const GITHUB_REPOS: RepoSource[] = [
   { owner: "tailscale", repo: "tailscale", category: "ecosystem", platforms: ["linux", "windows", "macos", "android", "ios"], tags: ["tailscale", "wireguard", "mesh"], priority: 4 },
   { owner: "Shadowsocks-NET", repo: "shadowsocks-specs", category: "ecosystem", platforms: [], tags: ["shadowsocks", "shadowsocks-2022", "specs"], priority: 4 },
   { owner: "MHSanaei", repo: "3x-ui", category: "ecosystem", platforms: ["linux"], tags: ["x-ui", "panel", "xray-core"], priority: 4 },
+  { owner: "sub-store-org", repo: "Sub-Store", category: "ecosystem", platforms: ["ios", "android", "macos", "windows", "linux"], tags: ["sub-store", "subscription"], priority: 4 },
+  { owner: "mack-a", repo: "v2ray-agent", category: "ecosystem", platforms: ["linux"], tags: ["v2ray-agent", "script", "vps"], priority: 3 },
+  { owner: "XIU2", repo: "CloudflareSpeedTest", category: "ecosystem", platforms: ["linux", "windows", "macos"], tags: ["cloudflare", "speedtest", "optimization"], priority: 3 },
+  { owner: "tindy2013", repo: "subconverter", category: "ecosystem", platforms: ["linux", "windows", "macos"], tags: ["subconverter", "subscription"], priority: 3 },
+  { owner: "MetaCubeX", repo: "metacubexd", category: "ecosystem", platforms: ["web"], tags: ["dashboard", "mihomo", "clash"], priority: 3 },
 
   // DNS / Rules
   { owner: "Loyalsoldier", repo: "v2ray-rules-dat", category: "dns_rules", platforms: ["linux", "windows", "macos"], tags: ["ruleset", "geosite", "geoip"], priority: 3 },
@@ -78,7 +87,7 @@ export const MANUAL_SOURCES: ManualSource[] = [
 ];
 
 export const KEYWORDS = {
-  protocol: ["anytls", "vless", "xhttp", "reality", "vision", "hysteria2", "tuic", "ech", "shadowtls", "shadow-tls", "naiveproxy", "quic", "http/3", "grpc", "wireguard", "shadowsocks", "shadowsocks-2022", "sudoku", "amneziawg", "gost", "hiddify", "v2raya", "x-ui", "panel"],
+  protocol: ["anytls", "vless", "xhttp", "reality", "vision", "hysteria2", "tuic", "ech", "shadowtls", "shadow-tls", "naiveproxy", "quic", "http/3", "grpc", "wireguard", "shadowsocks", "shadowsocks-2022", "sudoku", "amneziawg", "gost", "hiddify", "v2raya", "x-ui", "panel", "snell", "warp"],
   security: ["cve", "security", "vulner", "exploit", "attack", "fingerprint", "tls", "certificate"],
   breaking: ["breaking", "incompatible", "remove", "deprecated", "migration", "migrate", "breaking change"],
   noise: ["typo", "docs", "readme", "ci", "workflow", "test", "chore", "bump version", "update readme"],
