@@ -1,20 +1,36 @@
 {
-  "totalItems": 15,
+  "totalItems": 45,
   "last24h": 0,
-  "last7d": 1,
+  "last7d": 4,
   "byCategory": {
-    "core": 6,
+    "core": 24,
     "client": 0,
     "router": 0,
     "protocol": 0,
     "dns_rules": 0,
-    "security": 9,
+    "security": 21,
     "ecosystem": 0,
     "trend": 0
   },
   "topProjects": [
     {
+      "project": "v2rayNG",
+      "count": 5
+    },
+    {
       "project": "Xray-core",
+      "count": 5
+    },
+    {
+      "project": "sing-box",
+      "count": 5
+    },
+    {
+      "project": "hysteria",
+      "count": 5
+    },
+    {
+      "project": "dae",
       "count": 5
     },
     {
@@ -24,31 +40,79 @@
     {
       "project": "v2ray-core",
       "count": 5
+    },
+    {
+      "project": "shadowsocks-rust",
+      "count": 5
+    },
+    {
+      "project": "juicity",
+      "count": 5
     }
   ],
   "hotTags": [
     {
       "tag": "release",
-      "count": 15
+      "count": 45
     },
     {
       "tag": "vless",
-      "count": 13
+      "count": 18
+    },
+    {
+      "tag": "hysteria2",
+      "count": 14
+    },
+    {
+      "tag": "quic",
+      "count": 14
+    },
+    {
+      "tag": "xray-core",
+      "count": 10
     },
     {
       "tag": "xhttp",
       "count": 9
     },
     {
+      "tag": "tuic",
+      "count": 6
+    },
+    {
       "tag": "grpc",
       "count": 6
     },
     {
-      "tag": "xray-core",
+      "tag": "shadowsocks",
+      "count": 6
+    },
+    {
+      "tag": "v2rayng",
+      "count": 5
+    },
+    {
+      "tag": "android",
       "count": 5
     },
     {
       "tag": "xtls",
+      "count": 5
+    },
+    {
+      "tag": "sing-box",
+      "count": 5
+    },
+    {
+      "tag": "dae",
+      "count": 5
+    },
+    {
+      "tag": "ebpf",
+      "count": 5
+    },
+    {
+      "tag": "linux",
       "count": 5
     },
     {
@@ -66,34 +130,10 @@
     {
       "tag": "v2ray-core",
       "count": 5
-    },
-    {
-      "tag": "quic",
-      "count": 3
-    },
-    {
-      "tag": "hysteria2",
-      "count": 2
-    },
-    {
-      "tag": "wireguard",
-      "count": 2
-    },
-    {
-      "tag": "tuic",
-      "count": 1
-    },
-    {
-      "tag": "shadowsocks",
-      "count": 1
-    },
-    {
-      "tag": "reality",
-      "count": 1
     }
   ],
-  "importantCount": 6,
-  "breakingCount": 4,
-  "securityCount": 9,
-  "updatedAt": "2026-05-06T03:45:17.537Z"
+  "importantCount": 17,
+  "breakingCount": 7,
+  "securityCount": 21,
+  "updatedAt": "2026-05-06T03:49:59.599Z"
 }

@@ -19,6 +19,26 @@
     ]
   },
   {
+    "slug": "sing-box",
+    "name": "sing-box",
+    "repo": "SagerNet/sing-box",
+    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
+    "category": "core",
+    "platforms": [
+      "linux",
+      "windows",
+      "macos",
+      "android",
+      "ios"
+    ],
+    "tags": [
+      "sing-box",
+      "vless",
+      "hysteria2",
+      "tuic"
+    ]
+  },
+  {
     "slug": "mihomo",
     "name": "mihomo",
     "repo": "MetaCubeX/mihomo",
@@ -49,41 +69,6 @@
     "tags": [
       "v2ray-core",
       "vless"
-    ]
-  },
-  {
-    "slug": "sing-box",
-    "name": "sing-box",
-    "repo": "SagerNet/sing-box",
-    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
-    "category": "core",
-    "platforms": [
-      "linux",
-      "windows",
-      "macos",
-      "android",
-      "ios"
-    ],
-    "tags": [
-      "sing-box",
-      "vless",
-      "hysteria2",
-      "tuic"
-    ]
-  },
-  {
-    "slug": "clash",
-    "name": "clash",
-    "repo": "Dreamacro/clash",
-    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
-    "category": "core",
-    "platforms": [
-      "linux",
-      "windows",
-      "macos"
-    ],
-    "tags": [
-      "clash"
     ]
   },
   {
@@ -162,6 +147,21 @@
       "v2rayng",
       "android",
       "xray-core"
+    ]
+  },
+  {
+    "slug": "clash",
+    "name": "clash",
+    "repo": "Dreamacro/clash",
+    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
+    "category": "core",
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "tags": [
+      "clash"
     ]
   },
   {

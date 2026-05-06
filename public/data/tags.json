@@ -1,13 +1,28 @@
 [
   {
     "tag": "release",
-    "count": 15,
-    "category": "core"
+    "count": 45,
+    "category": "security"
   },
   {
     "tag": "vless",
-    "count": 13,
+    "count": 18,
     "category": "core"
+  },
+  {
+    "tag": "hysteria2",
+    "count": 14,
+    "category": "security"
+  },
+  {
+    "tag": "quic",
+    "count": 14,
+    "category": "security"
+  },
+  {
+    "tag": "xray-core",
+    "count": 10,
+    "category": "security"
   },
   {
     "tag": "xhttp",
@@ -15,17 +30,52 @@
     "category": "core"
   },
   {
+    "tag": "tuic",
+    "count": 6,
+    "category": "security"
+  },
+  {
     "tag": "grpc",
     "count": 6,
     "category": "core"
   },
   {
-    "tag": "xray-core",
+    "tag": "shadowsocks",
+    "count": 6,
+    "category": "security"
+  },
+  {
+    "tag": "v2rayng",
+    "count": 5,
+    "category": "security"
+  },
+  {
+    "tag": "android",
+    "count": 5,
+    "category": "security"
+  },
+  {
+    "tag": "xtls",
     "count": 5,
     "category": "core"
   },
   {
-    "tag": "xtls",
+    "tag": "sing-box",
+    "count": 5,
+    "category": "security"
+  },
+  {
+    "tag": "dae",
+    "count": 5,
+    "category": "core"
+  },
+  {
+    "tag": "ebpf",
+    "count": 5,
+    "category": "core"
+  },
+  {
+    "tag": "linux",
     "count": 5,
     "category": "core"
   },
@@ -50,12 +100,22 @@
     "category": "core"
   },
   {
-    "tag": "quic",
+    "tag": "rust",
+    "count": 5,
+    "category": "security"
+  },
+  {
+    "tag": "juicity",
+    "count": 5,
+    "category": "core"
+  },
+  {
+    "tag": "ech",
     "count": 3,
     "category": "security"
   },
   {
-    "tag": "hysteria2",
+    "tag": "anytls",
     "count": 2,
     "category": "security"
   },
@@ -65,18 +125,18 @@
     "category": "security"
   },
   {
-    "tag": "tuic",
-    "count": 1,
-    "category": "security"
-  },
-  {
-    "tag": "shadowsocks",
-    "count": 1,
-    "category": "security"
-  },
-  {
     "tag": "reality",
+    "count": 2,
+    "category": "security"
+  },
+  {
+    "tag": "naiveproxy",
     "count": 1,
     "category": "security"
+  },
+  {
+    "tag": "vision",
+    "count": 1,
+    "category": "core"
   }
 ]
