@@ -1,22 +1,18 @@
 {
-  "totalItems": 45,
+  "totalItems": 30,
   "last24h": 0,
-  "last7d": 4,
+  "last7d": 2,
   "byCategory": {
     "core": 24,
     "client": 0,
     "router": 0,
-    "protocol": 0,
+    "protocol": 3,
     "dns_rules": 0,
-    "security": 21,
-    "ecosystem": 0,
+    "security": 1,
+    "ecosystem": 2,
     "trend": 0
   },
   "topProjects": [
-    {
-      "project": "v2rayNG",
-      "count": 5
-    },
     {
       "project": "Xray-core",
       "count": 5
@@ -30,10 +26,6 @@
       "count": 5
     },
     {
-      "project": "dae",
-      "count": 5
-    },
-    {
       "project": "mihomo",
       "count": 5
     },
@@ -44,59 +36,11 @@
     {
       "project": "shadowsocks-rust",
       "count": 5
-    },
-    {
-      "project": "juicity",
-      "count": 5
     }
   ],
   "hotTags": [
     {
-      "tag": "release",
-      "count": 45
-    },
-    {
-      "tag": "vless",
-      "count": 18
-    },
-    {
-      "tag": "hysteria2",
-      "count": 14
-    },
-    {
-      "tag": "quic",
-      "count": 14
-    },
-    {
-      "tag": "xray-core",
-      "count": 10
-    },
-    {
-      "tag": "xhttp",
-      "count": 9
-    },
-    {
-      "tag": "tuic",
-      "count": 6
-    },
-    {
-      "tag": "grpc",
-      "count": 6
-    },
-    {
-      "tag": "shadowsocks",
-      "count": 6
-    },
-    {
-      "tag": "v2rayng",
-      "count": 5
-    },
-    {
-      "tag": "android",
-      "count": 5
-    },
-    {
-      "tag": "xtls",
+      "tag": "SagerNet",
       "count": 5
     },
     {
@@ -104,15 +48,15 @@
       "count": 5
     },
     {
-      "tag": "dae",
+      "tag": "网络协议",
       "count": 5
     },
     {
-      "tag": "ebpf",
+      "tag": "Hysteria",
       "count": 5
     },
     {
-      "tag": "linux",
+      "tag": "MetaCubeX",
       "count": 5
     },
     {
@@ -120,20 +64,64 @@
       "count": 5
     },
     {
-      "tag": "clash",
+      "tag": "shadowsocks",
       "count": 5
     },
     {
-      "tag": "meta",
+      "tag": "rust",
       "count": 5
+    },
+    {
+      "tag": "TLS",
+      "count": 4
+    },
+    {
+      "tag": "Xray-core",
+      "count": 4
+    },
+    {
+      "tag": "代理工具",
+      "count": 4
+    },
+    {
+      "tag": "gRPC",
+      "count": 4
+    },
+    {
+      "tag": "QUIC",
+      "count": 3
+    },
+    {
+      "tag": "xhttp",
+      "count": 3
+    },
+    {
+      "tag": "BBR",
+      "count": 3
+    },
+    {
+      "tag": "v2fly",
+      "count": 3
     },
     {
       "tag": "v2ray-core",
-      "count": 5
+      "count": 3
+    },
+    {
+      "tag": "DNS",
+      "count": 2
+    },
+    {
+      "tag": "nftables",
+      "count": 2
+    },
+    {
+      "tag": "v2ray",
+      "count": 2
     }
   ],
-  "importantCount": 17,
-  "breakingCount": 7,
-  "securityCount": 21,
-  "updatedAt": "2026-05-06T03:49:59.599Z"
+  "importantCount": 18,
+  "breakingCount": 1,
+  "securityCount": 4,
+  "updatedAt": "2026-05-06T03:58:49.428Z"
 }

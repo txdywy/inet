@@ -104,6 +104,21 @@
     ]
   },
   {
+    "slug": "clash",
+    "name": "clash",
+    "repo": "Dreamacro/clash",
+    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
+    "category": "core",
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "tags": [
+      "clash"
+    ]
+  },
+  {
     "slug": "dae",
     "name": "dae",
     "repo": "daeuniverse/dae",
@@ -147,21 +162,6 @@
       "v2rayng",
       "android",
       "xray-core"
-    ]
-  },
-  {
-    "slug": "clash",
-    "name": "clash",
-    "repo": "Dreamacro/clash",
-    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
-    "category": "core",
-    "platforms": [
-      "linux",
-      "windows",
-      "macos"
-    ],
-    "tags": [
-      "clash"
     ]
   },
   {
