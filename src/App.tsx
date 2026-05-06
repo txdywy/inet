@@ -1,4 +1,5 @@
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { BrowserRouter, Routes, Route, useNavigate, useLocation } from "react-router-dom";
+import { useEffect } from "react";
 import { Layout } from "./components/Layout";
 import { HomePage } from "./pages/HomePage";
 import { UpdatesPage } from "./pages/UpdatesPage";
@@ -9,9 +10,25 @@ import { ProtocolDetailPage } from "./pages/ProtocolDetailPage";
 import { TagsPage } from "./pages/TagsPage";
 import { NotFoundPage } from "./pages/NotFoundPage";
 
+function SPARedirect() {
+  const navigate = useNavigate();
+  const location = useLocation();
+
+  useEffect(() => {
+    const redirect = sessionStorage.getItem("spa-redirect");
+    if (redirect && location.pathname === "/") {
+      sessionStorage.removeItem("spa-redirect");
+      navigate("/" + redirect, { replace: true });
+    }
+  }, [navigate, location]);
+
+  return null;
+}
+
 export default function App() {
   return (
     <BrowserRouter>
+      <SPARedirect />
       <Routes>
         <Route element={<Layout />}>
           <Route path="/" element={<HomePage />} />
