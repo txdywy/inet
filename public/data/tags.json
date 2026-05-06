@@ -1,1 +1,82 @@
-[]
+[
+  {
+    "tag": "release",
+    "count": 15,
+    "category": "core"
+  },
+  {
+    "tag": "vless",
+    "count": 13,
+    "category": "core"
+  },
+  {
+    "tag": "xhttp",
+    "count": 9,
+    "category": "core"
+  },
+  {
+    "tag": "grpc",
+    "count": 6,
+    "category": "core"
+  },
+  {
+    "tag": "xray-core",
+    "count": 5,
+    "category": "core"
+  },
+  {
+    "tag": "xtls",
+    "count": 5,
+    "category": "core"
+  },
+  {
+    "tag": "mihomo",
+    "count": 5,
+    "category": "security"
+  },
+  {
+    "tag": "clash",
+    "count": 5,
+    "category": "security"
+  },
+  {
+    "tag": "meta",
+    "count": 5,
+    "category": "security"
+  },
+  {
+    "tag": "v2ray-core",
+    "count": 5,
+    "category": "core"
+  },
+  {
+    "tag": "quic",
+    "count": 3,
+    "category": "security"
+  },
+  {
+    "tag": "hysteria2",
+    "count": 2,
+    "category": "security"
+  },
+  {
+    "tag": "wireguard",
+    "count": 2,
+    "category": "security"
+  },
+  {
+    "tag": "tuic",
+    "count": 1,
+    "category": "security"
+  },
+  {
+    "tag": "shadowsocks",
+    "count": 1,
+    "category": "security"
+  },
+  {
+    "tag": "reality",
+    "count": 1,
+    "category": "security"
+  }
+]

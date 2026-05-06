@@ -1,21 +1,99 @@
 {
-  "totalItems": 0,
+  "totalItems": 15,
   "last24h": 0,
-  "last7d": 0,
+  "last7d": 1,
   "byCategory": {
-    "core": 0,
+    "core": 6,
     "client": 0,
     "router": 0,
     "protocol": 0,
     "dns_rules": 0,
-    "security": 0,
+    "security": 9,
     "ecosystem": 0,
     "trend": 0
   },
-  "topProjects": [],
-  "hotTags": [],
-  "importantCount": 0,
-  "breakingCount": 0,
-  "securityCount": 0,
-  "updatedAt": "2026-05-06T03:26:22.527Z"
+  "topProjects": [
+    {
+      "project": "Xray-core",
+      "count": 5
+    },
+    {
+      "project": "mihomo",
+      "count": 5
+    },
+    {
+      "project": "v2ray-core",
+      "count": 5
+    }
+  ],
+  "hotTags": [
+    {
+      "tag": "release",
+      "count": 15
+    },
+    {
+      "tag": "vless",
+      "count": 13
+    },
+    {
+      "tag": "xhttp",
+      "count": 9
+    },
+    {
+      "tag": "grpc",
+      "count": 6
+    },
+    {
+      "tag": "xray-core",
+      "count": 5
+    },
+    {
+      "tag": "xtls",
+      "count": 5
+    },
+    {
+      "tag": "mihomo",
+      "count": 5
+    },
+    {
+      "tag": "clash",
+      "count": 5
+    },
+    {
+      "tag": "meta",
+      "count": 5
+    },
+    {
+      "tag": "v2ray-core",
+      "count": 5
+    },
+    {
+      "tag": "quic",
+      "count": 3
+    },
+    {
+      "tag": "hysteria2",
+      "count": 2
+    },
+    {
+      "tag": "wireguard",
+      "count": 2
+    },
+    {
+      "tag": "tuic",
+      "count": 1
+    },
+    {
+      "tag": "shadowsocks",
+      "count": 1
+    },
+    {
+      "tag": "reality",
+      "count": 1
+    }
+  ],
+  "importantCount": 6,
+  "breakingCount": 4,
+  "securityCount": 9,
+  "updatedAt": "2026-05-06T03:45:17.537Z"
 }
