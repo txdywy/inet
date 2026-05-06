@@ -1,5 +1,6 @@
-import { ExternalLink, AlertTriangle, Shield } from "lucide-react";
+import { ExternalLink, AlertTriangle, Shield, ChevronDown, ChevronUp } from "lucide-react";
 import { Link } from "react-router-dom";
+import { useState } from "react";
 import type { RadarItem } from "../../types/radar";
 import { ImportanceBadge } from "./ImportanceBadge";
 import { TagBadge } from "./TagBadge";
@@ -11,6 +12,9 @@ interface RadarCardProps {
 }
 
 export function RadarCard({ item, onTagClick }: RadarCardProps) {
+  const [expanded, setExpanded] = useState(false);
+  const hasAnalysis = Boolean(item.analysis);
+
   return (
     <div
       className={`p-4 border rounded-lg transition-colors hover:bg-[var(--color-bg-secondary)] ${
@@ -54,8 +58,28 @@ export function RadarCard({ item, onTagClick }: RadarCardProps) {
           </h3>
 
           <p className="text-xs text-[var(--color-text-secondary)] mb-2 leading-relaxed">
-            {truncate(item.summary, 200)}
+            {item.summary}
           </p>
+
+          {/* Analysis section */}
+          {hasAnalysis && (
+            <div className="mb-2">
+              {expanded ? (
+                <div className="p-3 rounded-md bg-[var(--color-bg-tertiary)] border border-[var(--color-border)]">
+                  <p className="text-xs text-[var(--color-text-secondary)] leading-relaxed whitespace-pre-line">
+                    {item.analysis}
+                  </p>
+                </div>
+              ) : null}
+              <button
+                onClick={() => setExpanded(!expanded)}
+                className="flex items-center gap-1 text-xs text-[var(--color-accent)] hover:underline mt-1"
+              >
+                {expanded ? <ChevronUp className="w-3 h-3" /> : <ChevronDown className="w-3 h-3" />}
+                {expanded ? "收起分析" : "展开分析"}
+              </button>
+            </div>
+          )}
 
           <div className="flex items-center gap-2 flex-wrap">
             {item.project && (

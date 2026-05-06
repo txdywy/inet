@@ -29,6 +29,7 @@ export function normalizeItem(raw: RawItem, overrides: Partial<RadarItem> = {}):
     id: hash,
     title: overrides.title || raw.title,
     summary: overrides.summary || raw.rawTitle,
+    analysis: overrides.analysis,
     rawTitle: raw.rawTitle,
     rawBody: raw.rawBody,
     sourceType: raw.sourceType as RadarItem["sourceType"],

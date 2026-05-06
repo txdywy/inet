@@ -33,6 +33,7 @@ export interface RadarItem {
   id: string;
   title: string;
   summary: string;
+  analysis?: string;
   rawTitle: string;
   rawBody?: string;
   sourceType: SourceType;
