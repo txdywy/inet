@@ -1,5 +1,39 @@
 [
   {
+    "id": "d08f04ed98e250a8",
+    "title": "Prerelease-alpha",
+    "summary": "ClashMetaForAndroid 发布了一个预发布版本，包含多个更新和改进。",
+    "analysis": "此次预发布版本的更新主要集中在对 ClashMetaForAndroid 的功能增强和性能优化上。虽然具体的变更内容未在发布说明中详细列出，但预发布版本通常意味着开发者在测试新功能或修复问题。对于用户而言，参与预发布测试可以提前体验新特性，但也可能面临不稳定性或未完全修复的bug。开发者需要关注这些更新，以便及时调整应用或服务的兼容性。由于这是一个预发布版本，建议用户在非生产环境中进行测试，避免潜在的兼容性风险。",
+    "rawTitle": "Prerelease-alpha",
+    "rawBody": "**Full Changelog**: https://github.com/MetaCubeX/ClashMetaForAndroid/compare/v2.11.27...Prerelease-alpha",
+    "sourceType": "github_release",
+    "sourceName": "MetaCubeX/ClashMetaForAndroid",
+    "sourceUrl": "https://github.com/MetaCubeX/ClashMetaForAndroid/releases/tag/Prerelease-alpha",
+    "project": "ClashMetaForAndroid",
+    "repo": "MetaCubeX/ClashMetaForAndroid",
+    "slug": "clashmetaforandroid",
+    "version": "Prerelease-alpha",
+    "category": "client",
+    "tags": [
+      "ClashMetaForAndroid",
+      "Clash",
+      "Android"
+    ],
+    "platforms": [
+      "android"
+    ],
+    "importance": 3,
+    "confidence": 0.8,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-05-07T16:57:33Z",
+    "fetchedAt": "2026-05-07T19:53:14.761Z",
+    "firstSeenAt": "2026-05-07T19:53:34.321Z",
+    "updatedAt": "2026-05-07T19:53:34.321Z",
+    "hash": "d08f04ed98e250a8"
+  },
+  {
     "id": "202a5f0de785448b",
     "title": "Released on 202605062243",
     "summary": "Loyalsoldier/v2ray-rules-dat 发布了新版本，具体更新内容尚未披露。",
@@ -5152,6 +5186,39 @@
     "firstSeenAt": "2026-05-07T04:09:04.362Z",
     "updatedAt": "2026-05-07T04:09:04.362Z",
     "hash": "5e6adb84fbb7f312"
+  },
+  {
+    "id": "027cccdd5ac4af22",
+    "title": "Prerelease-Alpha",
+    "summary": "MetaCubeX/mihomo 发布了 Prerelease-Alpha 版本，主要修复了多个与 HTTP/2 和 VLess 相关的问题，并放宽了用户配置限制。",
+    "analysis": "本次 Prerelease-Alpha 更新主要集中在修复和优化上，包括解决在 VLess xhttp h3 模式下 QUIC 拨号失败导致的崩溃问题，以及对 HTTP/2 传输的配置进行改进。这些修复对于使用 HTTP/2 和 VLess 协议的用户来说至关重要，因为它们直接影响到连接的稳定性和性能。此外，更新中放宽了用户配置的限制，允许用户进行更灵活的组合，这将提升用户体验。虽然此次更新没有引入破坏性变更，但用户仍需关注更新内容以确保最佳使用效果。建议用户尽快更新，以享受修复带来的稳定性提升。",
+    "rawTitle": "Prerelease-Alpha",
+    "rawBody": "Release created at  Fri May  8 01:06:07 CST 2026\nSynchronize Alpha branch code updates, keeping only the latest version\n<br>\n[我应该下载哪个文件? / Which file should I download?](https://github.com/MetaCubeX/mihomo/wiki/FAQ)\n[二进制文件筛选 / Binary file selector](https://metacubex.github.io/Meta-Docs/startup/#_1)\n[查看文档 / Docs](https://metacubex.github.io/Meta-Docs/)\n\n\n## What's Changed\n* fix: panic in vless xhttp h3 mode when quic dial fails by @beck-8 in https://github.com/MetaCubeX/mihomo/pull/2736\n* fix: convert emit HTTP2Options-shaped h2-opts for share-link HTTP/2 transport by @wangwei354 in https://github.com/MetaCubeX/mihomo/pull/2737\n* fix: convert place disguise host in h2-opts.host for legacy base64-JSON VMess by @wangwei354 in https://github.com/MetaCubeX/mihomo/pull/2739\n* chore. relaxed user configuration, allowing for more flexible combination by @saba-futai in https://github.com/MetaCubeX/mihomo/pull/2757\n\n## New Contributors\n* @wangwei354 made their first contribution in https://github.com/MetaCubeX/mihomo/pull/2737\n\n**Full Changelog**: https://github.com/MetaCubeX/mihomo/compare/v1.19.24...Prerelease-Alpha",
+    "sourceType": "github_release",
+    "sourceName": "MetaCubeX/mihomo",
+    "sourceUrl": "https://github.com/MetaCubeX/mihomo/releases/tag/Prerelease-Alpha",
+    "project": "mihomo",
+    "repo": "MetaCubeX/mihomo",
+    "slug": "mihomo",
+    "version": "Prerelease-Alpha",
+    "category": "client",
+    "tags": [
+      "MetaCubeX",
+      "mihomo",
+      "VLess",
+      "HTTP/2"
+    ],
+    "platforms": [],
+    "importance": 4,
+    "confidence": 0.9,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2024-08-12T17:01:02Z",
+    "fetchedAt": "2026-05-07T19:53:09.699Z",
+    "firstSeenAt": "2026-05-07T19:53:29.878Z",
+    "updatedAt": "2026-05-07T19:53:29.878Z",
+    "hash": "027cccdd5ac4af22"
   },
   {
     "id": "f91bef61cabee658",

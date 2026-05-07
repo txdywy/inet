@@ -1,7 +1,7 @@
 [
   {
     "tag": "Android",
-    "count": 18,
+    "count": 19,
     "category": "client"
   },
   {
@@ -25,13 +25,13 @@
     "category": "client"
   },
   {
-    "tag": "sing-box",
+    "tag": "MetaCubeX",
     "count": 13,
     "category": "core"
   },
   {
-    "tag": "MetaCubeX",
-    "count": 12,
+    "tag": "sing-box",
+    "count": 13,
     "category": "core"
   },
   {
@@ -55,6 +55,11 @@
     "category": "core"
   },
   {
+    "tag": "Clash",
+    "count": 9,
+    "category": "client"
+  },
+  {
     "tag": "v2ray",
     "count": 8,
     "category": "ecosystem"
@@ -75,11 +80,6 @@
     "category": "security"
   },
   {
-    "tag": "Clash",
-    "count": 8,
-    "category": "client"
-  },
-  {
     "tag": "TUN",
     "count": 7,
     "category": "client"
@@ -90,9 +90,19 @@
     "category": "ecosystem"
   },
   {
+    "tag": "mihomo",
+    "count": 7,
+    "category": "core"
+  },
+  {
     "tag": "VPN",
     "count": 7,
     "category": "core"
+  },
+  {
+    "tag": "ClashMetaForAndroid",
+    "count": 6,
+    "category": "client"
   },
   {
     "tag": "网络工具",
@@ -111,11 +121,6 @@
   },
   {
     "tag": "Xray-core",
-    "count": 6,
-    "category": "core"
-  },
-  {
-    "tag": "mihomo",
     "count": 6,
     "category": "core"
   },
@@ -213,11 +218,6 @@
     "tag": "SUDOKU-ASCII",
     "count": 5,
     "category": "core"
-  },
-  {
-    "tag": "ClashMetaForAndroid",
-    "count": 5,
-    "category": "client"
   },
   {
     "tag": "OpenClash",
@@ -415,6 +415,11 @@
     "category": "client"
   },
   {
+    "tag": "HTTP/2",
+    "count": 3,
+    "category": "client"
+  },
+  {
     "tag": "Surge",
     "count": 3,
     "category": "ecosystem"
@@ -553,11 +558,6 @@
     "tag": "bugfix",
     "count": 2,
     "category": "core"
-  },
-  {
-    "tag": "HTTP/2",
-    "count": 2,
-    "category": "client"
   },
   {
     "tag": "命令行工具",
@@ -1218,6 +1218,11 @@
     "tag": "跨平台",
     "count": 1,
     "category": "ecosystem"
+  },
+  {
+    "tag": "VLess",
+    "count": 1,
+    "category": "client"
   },
   {
     "tag": "nekobox",

@@ -1,10 +1,10 @@
 {
-  "totalItems": 176,
-  "last24h": 1,
-  "last7d": 29,
+  "totalItems": 178,
+  "last24h": 2,
+  "last7d": 30,
   "byCategory": {
     "core": 49,
-    "client": 57,
+    "client": 59,
     "router": 0,
     "protocol": 7,
     "dns_rules": 0,
@@ -15,6 +15,10 @@
   "topProjects": [
     {
       "project": "mihomo",
+      "count": 7
+    },
+    {
+      "project": "ClashMetaForAndroid",
       "count": 6
     },
     {
@@ -48,16 +52,12 @@
     {
       "project": "metacubexd",
       "count": 5
-    },
-    {
-      "project": "v2rayNG",
-      "count": 5
     }
   ],
   "hotTags": [
     {
       "tag": "Android",
-      "count": 18
+      "count": 19
     },
     {
       "tag": "Windows",
@@ -76,12 +76,12 @@
       "count": 13
     },
     {
-      "tag": "sing-box",
+      "tag": "MetaCubeX",
       "count": 13
     },
     {
-      "tag": "MetaCubeX",
-      "count": 12
+      "tag": "sing-box",
+      "count": 13
     },
     {
       "tag": "DNS",
@@ -100,6 +100,10 @@
       "count": 10
     },
     {
+      "tag": "Clash",
+      "count": 9
+    },
+    {
       "tag": "v2ray",
       "count": 8
     },
@@ -116,10 +120,6 @@
       "count": 8
     },
     {
-      "tag": "Clash",
-      "count": 8
-    },
-    {
       "tag": "TUN",
       "count": 7
     },
@@ -128,16 +128,16 @@
       "count": 7
     },
     {
-      "tag": "VPN",
+      "tag": "mihomo",
       "count": 7
     },
     {
-      "tag": "网络工具",
-      "count": 6
+      "tag": "VPN",
+      "count": 7
     }
   ],
-  "importantCount": 81,
+  "importantCount": 82,
   "breakingCount": 21,
   "securityCount": 13,
-  "updatedAt": "2026-05-07T15:08:47.458Z"
+  "updatedAt": "2026-05-07T19:53:34.618Z"
 }
