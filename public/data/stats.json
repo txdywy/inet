@@ -1,15 +1,15 @@
 {
-  "totalItems": 120,
-  "last24h": 1,
-  "last7d": 11,
+  "totalItems": 150,
+  "last24h": 2,
+  "last7d": 19,
   "byCategory": {
-    "core": 40,
-    "client": 47,
+    "core": 46,
+    "client": 53,
     "router": 0,
     "protocol": 7,
     "dns_rules": 0,
     "security": 2,
-    "ecosystem": 24,
+    "ecosystem": 42,
     "trend": 0
   },
   "topProjects": [
@@ -18,7 +18,15 @@
       "count": 5
     },
     {
+      "project": "Sub-Store",
+      "count": 5
+    },
+    {
       "project": "naiveproxy",
+      "count": 5
+    },
+    {
+      "project": "3x-ui",
       "count": 5
     },
     {
@@ -44,14 +52,6 @@
     {
       "project": "v2rayN",
       "count": 5
-    },
-    {
-      "project": "hysteria",
-      "count": 5
-    },
-    {
-      "project": "gost",
-      "count": 5
     }
   ],
   "hotTags": [
@@ -64,11 +64,15 @@
       "count": 16
     },
     {
+      "tag": "网络代理",
+      "count": 14
+    },
+    {
       "tag": "Linux",
       "count": 13
     },
     {
-      "tag": "网络代理",
+      "tag": "代理工具",
       "count": 13
     },
     {
@@ -76,11 +80,15 @@
       "count": 12
     },
     {
+      "tag": "DNS",
+      "count": 12
+    },
+    {
       "tag": "macOS",
       "count": 10
     },
     {
-      "tag": "DNS",
+      "tag": "Xray",
       "count": 10
     },
     {
@@ -88,11 +96,7 @@
       "count": 10
     },
     {
-      "tag": "代理工具",
-      "count": 10
-    },
-    {
-      "tag": "Xray",
+      "tag": "Hysteria",
       "count": 8
     },
     {
@@ -100,7 +104,27 @@
       "count": 7
     },
     {
+      "tag": "VPN",
+      "count": 7
+    },
+    {
       "tag": "TLS",
+      "count": 6
+    },
+    {
+      "tag": "WireGuard",
+      "count": 6
+    },
+    {
+      "tag": "开源",
+      "count": 6
+    },
+    {
+      "tag": "Xray-core",
+      "count": 6
+    },
+    {
+      "tag": "OpenWrt",
       "count": 6
     },
     {
@@ -108,36 +132,12 @@
       "count": 6
     },
     {
-      "tag": "naiveproxy",
-      "count": 5
-    },
-    {
-      "tag": "v2rayA",
-      "count": 5
-    },
-    {
-      "tag": "v2rayNG",
-      "count": 5
-    },
-    {
-      "tag": "SOCKS",
-      "count": 5
-    },
-    {
-      "tag": "SagerNet",
-      "count": 5
-    },
-    {
-      "tag": "luci-app-mosdns",
-      "count": 5
-    },
-    {
-      "tag": "v2rayN",
+      "tag": "Mihomo",
       "count": 5
     }
   ],
-  "importantCount": 59,
-  "breakingCount": 18,
-  "securityCount": 6,
-  "updatedAt": "2026-05-07T04:11:43.640Z"
+  "importantCount": 75,
+  "breakingCount": 21,
+  "securityCount": 11,
+  "updatedAt": "2026-05-07T08:53:01.308Z"
 }

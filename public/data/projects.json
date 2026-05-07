@@ -392,6 +392,122 @@
     ]
   },
   {
+    "slug": "shellcrash",
+    "name": "ShellCrash",
+    "repo": "juewuy/ShellCrash",
+    "description": "OpenWrt / 路由器固件及插件",
+    "category": "router",
+    "platforms": [
+      "linux",
+      "openwrt",
+      "router"
+    ],
+    "tags": [
+      "shellcrash",
+      "shellclash",
+      "mihomo",
+      "sing-box"
+    ]
+  },
+  {
+    "slug": "openwrt",
+    "name": "openwrt",
+    "repo": "openwrt/openwrt",
+    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
+    "category": "ecosystem",
+    "platforms": [
+      "openwrt",
+      "router"
+    ],
+    "tags": [
+      "openwrt"
+    ]
+  },
+  {
+    "slug": "tailscale",
+    "name": "tailscale",
+    "repo": "tailscale/tailscale",
+    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
+    "category": "ecosystem",
+    "platforms": [
+      "linux",
+      "windows",
+      "macos",
+      "android",
+      "ios"
+    ],
+    "tags": [
+      "tailscale",
+      "wireguard",
+      "mesh"
+    ]
+  },
+  {
+    "slug": "3x-ui",
+    "name": "3x-ui",
+    "repo": "MHSanaei/3x-ui",
+    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
+    "category": "ecosystem",
+    "platforms": [
+      "linux"
+    ],
+    "tags": [
+      "x-ui",
+      "panel",
+      "xray-core"
+    ]
+  },
+  {
+    "slug": "sub-store",
+    "name": "Sub-Store",
+    "repo": "sub-store-org/Sub-Store",
+    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
+    "category": "ecosystem",
+    "platforms": [
+      "ios",
+      "android",
+      "macos",
+      "windows",
+      "linux"
+    ],
+    "tags": [
+      "sub-store",
+      "subscription"
+    ]
+  },
+  {
+    "slug": "v2ray-agent",
+    "name": "v2ray-agent",
+    "repo": "mack-a/v2ray-agent",
+    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
+    "category": "ecosystem",
+    "platforms": [
+      "linux"
+    ],
+    "tags": [
+      "v2ray-agent",
+      "script",
+      "vps"
+    ]
+  },
+  {
+    "slug": "cloudflarespeedtest",
+    "name": "CloudflareSpeedTest",
+    "repo": "XIU2/CloudflareSpeedTest",
+    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
+    "category": "ecosystem",
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "tags": [
+      "cloudflare",
+      "speedtest",
+      "optimization"
+    ]
+  },
+  {
     "slug": "clash",
     "name": "clash",
     "repo": "Dreamacro/clash",
@@ -502,24 +618,6 @@
     ]
   },
   {
-    "slug": "shellcrash",
-    "name": "ShellCrash",
-    "repo": "juewuy/ShellCrash",
-    "description": "OpenWrt / 路由器固件及插件",
-    "category": "router",
-    "platforms": [
-      "linux",
-      "openwrt",
-      "router"
-    ],
-    "tags": [
-      "shellcrash",
-      "shellclash",
-      "mihomo",
-      "sing-box"
-    ]
-  },
-  {
     "slug": "immortalwrt",
     "name": "immortalwrt",
     "repo": "immortalwrt/immortalwrt",
@@ -535,39 +633,6 @@
     ]
   },
   {
-    "slug": "openwrt",
-    "name": "openwrt",
-    "repo": "openwrt/openwrt",
-    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
-    "category": "ecosystem",
-    "platforms": [
-      "openwrt",
-      "router"
-    ],
-    "tags": [
-      "openwrt"
-    ]
-  },
-  {
-    "slug": "tailscale",
-    "name": "tailscale",
-    "repo": "tailscale/tailscale",
-    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
-    "category": "ecosystem",
-    "platforms": [
-      "linux",
-      "windows",
-      "macos",
-      "android",
-      "ios"
-    ],
-    "tags": [
-      "tailscale",
-      "wireguard",
-      "mesh"
-    ]
-  },
-  {
     "slug": "shadowsocks-specs",
     "name": "shadowsocks-specs",
     "repo": "Shadowsocks-NET/shadowsocks-specs",
@@ -578,71 +643,6 @@
       "shadowsocks",
       "shadowsocks-2022",
       "specs"
-    ]
-  },
-  {
-    "slug": "3x-ui",
-    "name": "3x-ui",
-    "repo": "MHSanaei/3x-ui",
-    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
-    "category": "ecosystem",
-    "platforms": [
-      "linux"
-    ],
-    "tags": [
-      "x-ui",
-      "panel",
-      "xray-core"
-    ]
-  },
-  {
-    "slug": "sub-store",
-    "name": "Sub-Store",
-    "repo": "sub-store-org/Sub-Store",
-    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
-    "category": "ecosystem",
-    "platforms": [
-      "ios",
-      "android",
-      "macos",
-      "windows",
-      "linux"
-    ],
-    "tags": [
-      "sub-store",
-      "subscription"
-    ]
-  },
-  {
-    "slug": "v2ray-agent",
-    "name": "v2ray-agent",
-    "repo": "mack-a/v2ray-agent",
-    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
-    "category": "ecosystem",
-    "platforms": [
-      "linux"
-    ],
-    "tags": [
-      "v2ray-agent",
-      "script",
-      "vps"
-    ]
-  },
-  {
-    "slug": "cloudflarespeedtest",
-    "name": "CloudflareSpeedTest",
-    "repo": "XIU2/CloudflareSpeedTest",
-    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
-    "category": "ecosystem",
-    "platforms": [
-      "linux",
-      "windows",
-      "macos"
-    ],
-    "tags": [
-      "cloudflare",
-      "speedtest",
-      "optimization"
     ]
   },
   {
