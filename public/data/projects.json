@@ -1,5 +1,22 @@
 [
   {
+    "slug": "mihomo",
+    "name": "mihomo",
+    "repo": "MetaCubeX/mihomo",
+    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
+    "category": "core",
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "tags": [
+      "mihomo",
+      "clash",
+      "meta"
+    ]
+  },
+  {
     "slug": "xray-core",
     "name": "Xray-core",
     "repo": "XTLS/Xray-core",
@@ -36,23 +53,6 @@
       "vless",
       "hysteria2",
       "tuic"
-    ]
-  },
-  {
-    "slug": "mihomo",
-    "name": "mihomo",
-    "repo": "MetaCubeX/mihomo",
-    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
-    "category": "core",
-    "platforms": [
-      "linux",
-      "windows",
-      "macos"
-    ],
-    "tags": [
-      "mihomo",
-      "clash",
-      "meta"
     ]
   },
   {
@@ -476,6 +476,87 @@
     ]
   },
   {
+    "slug": "cloudflarespeedtest",
+    "name": "CloudflareSpeedTest",
+    "repo": "XIU2/CloudflareSpeedTest",
+    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
+    "category": "ecosystem",
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "tags": [
+      "cloudflare",
+      "speedtest",
+      "optimization"
+    ]
+  },
+  {
+    "slug": "subconverter",
+    "name": "subconverter",
+    "repo": "tindy2013/subconverter",
+    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
+    "category": "ecosystem",
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "tags": [
+      "subconverter",
+      "subscription"
+    ]
+  },
+  {
+    "slug": "metacubexd",
+    "name": "metacubexd",
+    "repo": "MetaCubeX/metacubexd",
+    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
+    "category": "ecosystem",
+    "platforms": [
+      "web"
+    ],
+    "tags": [
+      "dashboard",
+      "mihomo",
+      "clash"
+    ]
+  },
+  {
+    "slug": "v2ray-rules-dat",
+    "name": "v2ray-rules-dat",
+    "repo": "Loyalsoldier/v2ray-rules-dat",
+    "description": "DNS 解析、规则集、分流策略",
+    "category": "dns_rules",
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "tags": [
+      "ruleset",
+      "geosite",
+      "geoip"
+    ]
+  },
+  {
+    "slug": "domain-list-community",
+    "name": "domain-list-community",
+    "repo": "v2fly/domain-list-community",
+    "description": "DNS 解析、规则集、分流策略",
+    "category": "dns_rules",
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "tags": [
+      "geosite",
+      "domain-list"
+    ]
+  },
+  {
     "slug": "v2ray-agent",
     "name": "v2ray-agent",
     "repo": "mack-a/v2ray-agent",
@@ -491,20 +572,21 @@
     ]
   },
   {
-    "slug": "cloudflarespeedtest",
-    "name": "CloudflareSpeedTest",
-    "repo": "XIU2/CloudflareSpeedTest",
-    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
-    "category": "ecosystem",
+    "slug": "meta-rules-dat",
+    "name": "meta-rules-dat",
+    "repo": "MetaCubeX/meta-rules-dat",
+    "description": "DNS 解析、规则集、分流策略",
+    "category": "dns_rules",
     "platforms": [
       "linux",
       "windows",
       "macos"
     ],
     "tags": [
-      "cloudflare",
-      "speedtest",
-      "optimization"
+      "ruleset",
+      "geosite",
+      "geoip",
+      "mihomo"
     ]
   },
   {
@@ -646,72 +728,6 @@
     ]
   },
   {
-    "slug": "subconverter",
-    "name": "subconverter",
-    "repo": "tindy2013/subconverter",
-    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
-    "category": "ecosystem",
-    "platforms": [
-      "linux",
-      "windows",
-      "macos"
-    ],
-    "tags": [
-      "subconverter",
-      "subscription"
-    ]
-  },
-  {
-    "slug": "metacubexd",
-    "name": "metacubexd",
-    "repo": "MetaCubeX/metacubexd",
-    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
-    "category": "ecosystem",
-    "platforms": [
-      "web"
-    ],
-    "tags": [
-      "dashboard",
-      "mihomo",
-      "clash"
-    ]
-  },
-  {
-    "slug": "v2ray-rules-dat",
-    "name": "v2ray-rules-dat",
-    "repo": "Loyalsoldier/v2ray-rules-dat",
-    "description": "DNS 解析、规则集、分流策略",
-    "category": "dns_rules",
-    "platforms": [
-      "linux",
-      "windows",
-      "macos"
-    ],
-    "tags": [
-      "ruleset",
-      "geosite",
-      "geoip"
-    ]
-  },
-  {
-    "slug": "meta-rules-dat",
-    "name": "meta-rules-dat",
-    "repo": "MetaCubeX/meta-rules-dat",
-    "description": "DNS 解析、规则集、分流策略",
-    "category": "dns_rules",
-    "platforms": [
-      "linux",
-      "windows",
-      "macos"
-    ],
-    "tags": [
-      "ruleset",
-      "geosite",
-      "geoip",
-      "mihomo"
-    ]
-  },
-  {
     "slug": "ios_rule_script",
     "name": "ios_rule_script",
     "repo": "blackmatrix7/ios_rule_script",
@@ -726,22 +742,6 @@
       "ios",
       "surge",
       "quantumult-x"
-    ]
-  },
-  {
-    "slug": "domain-list-community",
-    "name": "domain-list-community",
-    "repo": "v2fly/domain-list-community",
-    "description": "DNS 解析、规则集、分流策略",
-    "category": "dns_rules",
-    "platforms": [
-      "linux",
-      "windows",
-      "macos"
-    ],
-    "tags": [
-      "geosite",
-      "domain-list"
     ]
   },
   {

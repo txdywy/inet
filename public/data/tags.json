@@ -6,12 +6,12 @@
   },
   {
     "tag": "Windows",
-    "count": 16,
+    "count": 17,
     "category": "client"
   },
   {
     "tag": "网络代理",
-    "count": 14,
+    "count": 16,
     "category": "ecosystem"
   },
   {
@@ -26,6 +26,11 @@
   },
   {
     "tag": "sing-box",
+    "count": 13,
+    "category": "core"
+  },
+  {
+    "tag": "MetaCubeX",
     "count": 12,
     "category": "core"
   },
@@ -50,9 +55,29 @@
     "category": "core"
   },
   {
+    "tag": "v2ray",
+    "count": 8,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "v2fly",
+    "count": 8,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "开源",
+    "count": 8,
+    "category": "ecosystem"
+  },
+  {
     "tag": "Hysteria",
     "count": 8,
     "category": "security"
+  },
+  {
+    "tag": "Clash",
+    "count": 8,
+    "category": "client"
   },
   {
     "tag": "TUN",
@@ -60,8 +85,23 @@
     "category": "client"
   },
   {
+    "tag": "WireGuard",
+    "count": 7,
+    "category": "ecosystem"
+  },
+  {
     "tag": "VPN",
     "count": 7,
+    "category": "core"
+  },
+  {
+    "tag": "网络工具",
+    "count": 6,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "Go",
+    "count": 6,
     "category": "core"
   },
   {
@@ -70,17 +110,12 @@
     "category": "core"
   },
   {
-    "tag": "WireGuard",
-    "count": 6,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "开源",
-    "count": 6,
-    "category": "ecosystem"
-  },
-  {
     "tag": "Xray-core",
+    "count": 6,
+    "category": "core"
+  },
+  {
+    "tag": "mihomo",
     "count": 6,
     "category": "core"
   },
@@ -93,6 +128,11 @@
     "tag": "rust",
     "count": 6,
     "category": "core"
+  },
+  {
+    "tag": "Loyalsoldier",
+    "count": 5,
+    "category": "ecosystem"
   },
   {
     "tag": "Mihomo",
@@ -130,11 +170,6 @@
     "category": "client"
   },
   {
-    "tag": "网络工具",
-    "count": 5,
-    "category": "core"
-  },
-  {
     "tag": "SagerNet",
     "count": 5,
     "category": "core"
@@ -160,6 +195,11 @@
     "category": "client"
   },
   {
+    "tag": "CloudflareSpeedTest",
+    "count": 5,
+    "category": "client"
+  },
+  {
     "tag": "go-gost",
     "count": 5,
     "category": "ecosystem"
@@ -175,27 +215,12 @@
     "category": "core"
   },
   {
-    "tag": "MetaCubeX",
-    "count": 5,
-    "category": "core"
-  },
-  {
-    "tag": "mihomo",
-    "count": 5,
-    "category": "core"
-  },
-  {
     "tag": "ClashMetaForAndroid",
     "count": 5,
     "category": "client"
   },
   {
     "tag": "OpenClash",
-    "count": 5,
-    "category": "client"
-  },
-  {
-    "tag": "Clash",
     "count": 5,
     "category": "client"
   },
@@ -230,6 +255,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "subconverter",
+    "count": 5,
+    "category": "ecosystem"
+  },
+  {
     "tag": "shadow-tls",
     "count": 5,
     "category": "core"
@@ -238,6 +268,11 @@
     "tag": "tuic",
     "count": 5,
     "category": "protocol"
+  },
+  {
+    "tag": "rules",
+    "count": 4,
+    "category": "ecosystem"
   },
   {
     "tag": "Clash Verge",
@@ -255,14 +290,14 @@
     "category": "client"
   },
   {
-    "tag": "Go",
+    "tag": "代理",
     "count": 4,
     "category": "core"
   },
   {
-    "tag": "代理",
+    "tag": "QUIC",
     "count": 4,
-    "category": "core"
+    "category": "security"
   },
   {
     "tag": "nftables",
@@ -310,9 +345,29 @@
     "category": "client"
   },
   {
-    "tag": "QUIC",
+    "tag": "dat",
     "count": 3,
-    "category": "security"
+    "category": "ecosystem"
+  },
+  {
+    "tag": "Docker",
+    "count": 3,
+    "category": "core"
+  },
+  {
+    "tag": "metacubexd",
+    "count": 3,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "CI",
+    "count": 3,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "持续集成",
+    "count": 3,
+    "category": "ecosystem"
   },
   {
     "tag": "IPv6",
@@ -325,9 +380,9 @@
     "category": "client"
   },
   {
-    "tag": "v2ray",
+    "tag": "vless",
     "count": 3,
-    "category": "core"
+    "category": "protocol"
   },
   {
     "tag": "BBR",
@@ -345,14 +400,14 @@
     "category": "ecosystem"
   },
   {
-    "tag": "v2fly",
+    "tag": "v2ray-core",
     "count": 3,
     "category": "core"
   },
   {
-    "tag": "v2ray-core",
+    "tag": "测速工具",
     "count": 3,
-    "category": "core"
+    "category": "protocol"
   },
   {
     "tag": "NekoBoxForAndroid",
@@ -360,9 +415,24 @@
     "category": "client"
   },
   {
+    "tag": "Surge",
+    "count": 3,
+    "category": "ecosystem"
+  },
+  {
     "tag": "protocol",
     "count": 3,
     "category": "protocol"
+  },
+  {
+    "tag": "domain-list",
+    "count": 2,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "domain-list-community",
+    "count": 2,
+    "category": "ecosystem"
   },
   {
     "tag": "TinyTun",
@@ -375,9 +445,19 @@
     "category": "client"
   },
   {
-    "tag": "CI",
+    "tag": "配置管理",
+    "count": 2,
+    "category": "core"
+  },
+  {
+    "tag": "网络管理",
     "count": 2,
     "category": "ecosystem"
+  },
+  {
+    "tag": "测速",
+    "count": 2,
+    "category": "client"
   },
   {
     "tag": "NordVPN",
@@ -385,14 +465,14 @@
     "category": "ecosystem"
   },
   {
-    "tag": "golang",
+    "tag": "CDN",
     "count": 2,
     "category": "core"
   },
   {
-    "tag": "vless",
+    "tag": "golang",
     "count": 2,
-    "category": "protocol"
+    "category": "core"
   },
   {
     "tag": "依赖更新",
@@ -470,19 +550,29 @@
     "category": "client"
   },
   {
-    "tag": "持续集成",
-    "count": 2,
-    "category": "ecosystem"
-  },
-  {
     "tag": "bugfix",
     "count": 2,
     "category": "core"
   },
   {
+    "tag": "HTTP/2",
+    "count": 2,
+    "category": "client"
+  },
+  {
     "tag": "命令行工具",
     "count": 2,
     "category": "ecosystem"
+  },
+  {
+    "tag": "Loon",
+    "count": 2,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "Quantumult X",
+    "count": 2,
+    "category": "security"
   },
   {
     "tag": "流量请求",
@@ -493,6 +583,31 @@
     "tag": "自定义 headers",
     "count": 1,
     "category": "client"
+  },
+  {
+    "tag": "netdisk",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "IP地理检测",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "openspec.dev",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "GitHub",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "GitHub Copilot",
+    "count": 1,
+    "category": "ecosystem"
   },
   {
     "tag": "黑名单",
@@ -595,14 +710,19 @@
     "category": "security"
   },
   {
-    "tag": "CloudflareSpeedTest",
+    "tag": "构建",
     "count": 1,
-    "category": "client"
+    "category": "ecosystem"
   },
   {
-    "tag": "测速",
+    "tag": "镜像",
     "count": 1,
-    "category": "client"
+    "category": "ecosystem"
+  },
+  {
+    "tag": "数据分析",
+    "count": 1,
+    "category": "ecosystem"
   },
   {
     "tag": "HTTPing",
@@ -675,6 +795,16 @@
     "category": "core"
   },
   {
+    "tag": "TypeScript",
+    "count": 1,
+    "category": "core"
+  },
+  {
+    "tag": "错误处理",
+    "count": 1,
+    "category": "core"
+  },
+  {
     "tag": "clashverge",
     "count": 1,
     "category": "client"
@@ -686,11 +816,6 @@
   },
   {
     "tag": "HTTP/3",
-    "count": 1,
-    "category": "core"
-  },
-  {
-    "tag": "CDN",
     "count": 1,
     "category": "core"
   },
@@ -746,11 +871,6 @@
   },
   {
     "tag": "YAML",
-    "count": 1,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "配置管理",
     "count": 1,
     "category": "ecosystem"
   },
@@ -885,11 +1005,6 @@
     "category": "client"
   },
   {
-    "tag": "网络管理",
-    "count": 1,
-    "category": "ecosystem"
-  },
-  {
     "tag": "环境变量",
     "count": 1,
     "category": "client"
@@ -903,11 +1018,6 @@
     "tag": "规则统计",
     "count": 1,
     "category": "client"
-  },
-  {
-    "tag": "测速工具",
-    "count": 1,
-    "category": "protocol"
   },
   {
     "tag": "attended sysupgrade",
@@ -985,11 +1095,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "Docker",
-    "count": 1,
-    "category": "ecosystem"
-  },
-  {
     "tag": "http client",
     "count": 1,
     "category": "core"
@@ -1023,6 +1128,31 @@
     "tag": "连接管理",
     "count": 1,
     "category": "core"
+  },
+  {
+    "tag": "终端工具",
+    "count": 1,
+    "category": "client"
+  },
+  {
+    "tag": "XIU2",
+    "count": 1,
+    "category": "client"
+  },
+  {
+    "tag": "调试",
+    "count": 1,
+    "category": "client"
+  },
+  {
+    "tag": "兼容性",
+    "count": 1,
+    "category": "client"
+  },
+  {
+    "tag": "调试模式",
+    "count": 1,
+    "category": "ecosystem"
   },
   {
     "tag": "vpn",
@@ -1088,11 +1218,6 @@
     "tag": "跨平台",
     "count": 1,
     "category": "ecosystem"
-  },
-  {
-    "tag": "HTTP/2",
-    "count": 1,
-    "category": "protocol"
   },
   {
     "tag": "nekobox",
@@ -1168,6 +1293,31 @@
     "tag": "MatsuriDayo",
     "count": 1,
     "category": "client"
+  },
+  {
+    "tag": "libcurl",
+    "count": 1,
+    "category": "security"
+  },
+  {
+    "tag": "安全漏洞",
+    "count": 1,
+    "category": "security"
+  },
+  {
+    "tag": "网络库",
+    "count": 1,
+    "category": "security"
+  },
+  {
+    "tag": "SOCKS5",
+    "count": 1,
+    "category": "security"
+  },
+  {
+    "tag": "meta-rules-dat",
+    "count": 1,
+    "category": "ecosystem"
   },
   {
     "tag": "小米路由",
@@ -1258,5 +1408,25 @@
     "tag": "工具链",
     "count": 1,
     "category": "ecosystem"
+  },
+  {
+    "tag": "ShadowsocksR",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "Trojan",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "ARM",
+    "count": 1,
+    "category": "core"
+  },
+  {
+    "tag": "VMess",
+    "count": 1,
+    "category": "core"
   }
 ]

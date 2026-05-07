@@ -1,24 +1,36 @@
 {
-  "totalItems": 150,
-  "last24h": 2,
-  "last7d": 19,
+  "totalItems": 176,
+  "last24h": 1,
+  "last7d": 29,
   "byCategory": {
-    "core": 46,
-    "client": 53,
+    "core": 49,
+    "client": 57,
     "router": 0,
     "protocol": 7,
     "dns_rules": 0,
-    "security": 2,
-    "ecosystem": 42,
+    "security": 4,
+    "ecosystem": 59,
     "trend": 0
   },
   "topProjects": [
+    {
+      "project": "mihomo",
+      "count": 6
+    },
+    {
+      "project": "v2ray-rules-dat",
+      "count": 5
+    },
     {
       "project": "clash-verge-rev",
       "count": 5
     },
     {
       "project": "Sub-Store",
+      "count": 5
+    },
+    {
+      "project": "domain-list-community",
       "count": 5
     },
     {
@@ -34,23 +46,11 @@
       "count": 5
     },
     {
+      "project": "metacubexd",
+      "count": 5
+    },
+    {
       "project": "v2rayNG",
-      "count": 5
-    },
-    {
-      "project": "Xray-core",
-      "count": 5
-    },
-    {
-      "project": "sing-box",
-      "count": 5
-    },
-    {
-      "project": "luci-app-mosdns",
-      "count": 5
-    },
-    {
-      "project": "v2rayN",
       "count": 5
     }
   ],
@@ -61,11 +61,11 @@
     },
     {
       "tag": "Windows",
-      "count": 16
+      "count": 17
     },
     {
       "tag": "网络代理",
-      "count": 14
+      "count": 16
     },
     {
       "tag": "Linux",
@@ -77,6 +77,10 @@
     },
     {
       "tag": "sing-box",
+      "count": 13
+    },
+    {
+      "tag": "MetaCubeX",
       "count": 12
     },
     {
@@ -96,7 +100,23 @@
       "count": 10
     },
     {
+      "tag": "v2ray",
+      "count": 8
+    },
+    {
+      "tag": "v2fly",
+      "count": 8
+    },
+    {
+      "tag": "开源",
+      "count": 8
+    },
+    {
       "tag": "Hysteria",
+      "count": 8
+    },
+    {
+      "tag": "Clash",
       "count": 8
     },
     {
@@ -104,40 +124,20 @@
       "count": 7
     },
     {
+      "tag": "WireGuard",
+      "count": 7
+    },
+    {
       "tag": "VPN",
       "count": 7
     },
     {
-      "tag": "TLS",
+      "tag": "网络工具",
       "count": 6
-    },
-    {
-      "tag": "WireGuard",
-      "count": 6
-    },
-    {
-      "tag": "开源",
-      "count": 6
-    },
-    {
-      "tag": "Xray-core",
-      "count": 6
-    },
-    {
-      "tag": "OpenWrt",
-      "count": 6
-    },
-    {
-      "tag": "rust",
-      "count": 6
-    },
-    {
-      "tag": "Mihomo",
-      "count": 5
     }
   ],
-  "importantCount": 75,
+  "importantCount": 81,
   "breakingCount": 21,
-  "securityCount": 11,
-  "updatedAt": "2026-05-07T08:53:01.308Z"
+  "securityCount": 13,
+  "updatedAt": "2026-05-07T15:08:47.458Z"
 }
