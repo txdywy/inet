@@ -1,20 +1,28 @@
 {
-  "totalItems": 90,
+  "totalItems": 120,
   "last24h": 1,
-  "last7d": 8,
+  "last7d": 11,
   "byCategory": {
     "core": 40,
-    "client": 29,
+    "client": 47,
     "router": 0,
     "protocol": 7,
     "dns_rules": 0,
     "security": 2,
-    "ecosystem": 12,
+    "ecosystem": 24,
     "trend": 0
   },
   "topProjects": [
     {
+      "project": "clash-verge-rev",
+      "count": 5
+    },
+    {
       "project": "naiveproxy",
+      "count": 5
+    },
+    {
+      "project": "v2rayA",
       "count": 5
     },
     {
@@ -30,6 +38,10 @@
       "count": 5
     },
     {
+      "project": "luci-app-mosdns",
+      "count": 5
+    },
+    {
       "project": "v2rayN",
       "count": 5
     },
@@ -40,47 +52,51 @@
     {
       "project": "gost",
       "count": 5
-    },
-    {
-      "project": "dae",
-      "count": 5
-    },
-    {
-      "project": "sudoku",
-      "count": 5
-    },
-    {
-      "project": "mihomo",
-      "count": 5
     }
   ],
   "hotTags": [
     {
       "tag": "Android",
-      "count": 14
+      "count": 18
+    },
+    {
+      "tag": "Windows",
+      "count": 16
+    },
+    {
+      "tag": "Linux",
+      "count": 13
+    },
+    {
+      "tag": "网络代理",
+      "count": 13
     },
     {
       "tag": "sing-box",
       "count": 12
     },
     {
+      "tag": "macOS",
+      "count": 10
+    },
+    {
       "tag": "DNS",
-      "count": 9
+      "count": 10
+    },
+    {
+      "tag": "网络协议",
+      "count": 10
+    },
+    {
+      "tag": "代理工具",
+      "count": 10
     },
     {
       "tag": "Xray",
       "count": 8
     },
     {
-      "tag": "网络代理",
-      "count": 8
-    },
-    {
-      "tag": "Windows",
-      "count": 7
-    },
-    {
-      "tag": "网络协议",
+      "tag": "TUN",
       "count": 7
     },
     {
@@ -96,6 +112,10 @@
       "count": 5
     },
     {
+      "tag": "v2rayA",
+      "count": 5
+    },
+    {
       "tag": "v2rayNG",
       "count": 5
     },
@@ -108,36 +128,16 @@
       "count": 5
     },
     {
+      "tag": "luci-app-mosdns",
+      "count": 5
+    },
+    {
       "tag": "v2rayN",
-      "count": 5
-    },
-    {
-      "tag": "xray",
-      "count": 5
-    },
-    {
-      "tag": "TUN",
-      "count": 5
-    },
-    {
-      "tag": "Hysteria",
-      "count": 5
-    },
-    {
-      "tag": "go-gost",
-      "count": 5
-    },
-    {
-      "tag": "代理工具",
-      "count": 5
-    },
-    {
-      "tag": "dae",
       "count": 5
     }
   ],
-  "importantCount": 47,
-  "breakingCount": 14,
+  "importantCount": 59,
+  "breakingCount": 18,
   "securityCount": 6,
-  "updatedAt": "2026-05-06T20:06:00.599Z"
+  "updatedAt": "2026-05-07T04:11:43.640Z"
 }

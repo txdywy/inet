@@ -289,38 +289,6 @@
     ]
   },
   {
-    "slug": "clash",
-    "name": "clash",
-    "repo": "Dreamacro/clash",
-    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
-    "category": "core",
-    "platforms": [
-      "linux",
-      "windows",
-      "macos"
-    ],
-    "tags": [
-      "clash"
-    ]
-  },
-  {
-    "slug": "amneziawg-go",
-    "name": "amneziawg-go",
-    "repo": "amnezia-vpn/amneziawg-go",
-    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
-    "category": "core",
-    "platforms": [
-      "linux",
-      "windows",
-      "macos"
-    ],
-    "tags": [
-      "amneziawg",
-      "wireguard",
-      "obfuscation"
-    ]
-  },
-  {
     "slug": "clash-verge-rev",
     "name": "clash-verge-rev",
     "repo": "clash-verge-rev/clash-verge-rev",
@@ -391,6 +359,71 @@
     ]
   },
   {
+    "slug": "openclash",
+    "name": "OpenClash",
+    "repo": "vernesong/OpenClash",
+    "description": "OpenWrt / 路由器固件及插件",
+    "category": "router",
+    "platforms": [
+      "openwrt",
+      "router"
+    ],
+    "tags": [
+      "openclash",
+      "openwrt",
+      "luci",
+      "clash"
+    ]
+  },
+  {
+    "slug": "luci-app-mosdns",
+    "name": "luci-app-mosdns",
+    "repo": "sbwml/luci-app-mosdns",
+    "description": "OpenWrt / 路由器固件及插件",
+    "category": "router",
+    "platforms": [
+      "openwrt",
+      "router"
+    ],
+    "tags": [
+      "mosdns",
+      "openwrt",
+      "dns"
+    ]
+  },
+  {
+    "slug": "clash",
+    "name": "clash",
+    "repo": "Dreamacro/clash",
+    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
+    "category": "core",
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "tags": [
+      "clash"
+    ]
+  },
+  {
+    "slug": "amneziawg-go",
+    "name": "amneziawg-go",
+    "repo": "amnezia-vpn/amneziawg-go",
+    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
+    "category": "core",
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "tags": [
+      "amneziawg",
+      "wireguard",
+      "obfuscation"
+    ]
+  },
+  {
     "slug": "sing-box-for-android",
     "name": "sing-box-for-android",
     "repo": "SagerNet/sing-box-for-android",
@@ -453,23 +486,6 @@
     ]
   },
   {
-    "slug": "openclash",
-    "name": "OpenClash",
-    "repo": "vernesong/OpenClash",
-    "description": "OpenWrt / 路由器固件及插件",
-    "category": "router",
-    "platforms": [
-      "openwrt",
-      "router"
-    ],
-    "tags": [
-      "openclash",
-      "openwrt",
-      "luci",
-      "clash"
-    ]
-  },
-  {
     "slug": "helloworld",
     "name": "helloworld",
     "repo": "fw876/helloworld",
@@ -483,22 +499,6 @@
       "ssrplus",
       "openwrt",
       "luci"
-    ]
-  },
-  {
-    "slug": "luci-app-mosdns",
-    "name": "luci-app-mosdns",
-    "repo": "sbwml/luci-app-mosdns",
-    "description": "OpenWrt / 路由器固件及插件",
-    "category": "router",
-    "platforms": [
-      "openwrt",
-      "router"
-    ],
-    "tags": [
-      "mosdns",
-      "openwrt",
-      "dns"
     ]
   },
   {

@@ -1,8 +1,23 @@
 [
   {
     "tag": "Android",
-    "count": 14,
+    "count": 18,
     "category": "client"
+  },
+  {
+    "tag": "Windows",
+    "count": 16,
+    "category": "client"
+  },
+  {
+    "tag": "Linux",
+    "count": 13,
+    "category": "client"
+  },
+  {
+    "tag": "网络代理",
+    "count": 13,
+    "category": "ecosystem"
   },
   {
     "tag": "sing-box",
@@ -10,8 +25,23 @@
     "category": "core"
   },
   {
+    "tag": "macOS",
+    "count": 10,
+    "category": "client"
+  },
+  {
     "tag": "DNS",
-    "count": 9,
+    "count": 10,
+    "category": "core"
+  },
+  {
+    "tag": "网络协议",
+    "count": 10,
+    "category": "core"
+  },
+  {
+    "tag": "代理工具",
+    "count": 10,
     "category": "core"
   },
   {
@@ -20,19 +50,9 @@
     "category": "client"
   },
   {
-    "tag": "网络代理",
-    "count": 8,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "Windows",
+    "tag": "TUN",
     "count": 7,
     "category": "client"
-  },
-  {
-    "tag": "网络协议",
-    "count": 7,
-    "category": "core"
   },
   {
     "tag": "TLS",
@@ -50,6 +70,11 @@
     "category": "core"
   },
   {
+    "tag": "v2rayA",
+    "count": 5,
+    "category": "client"
+  },
+  {
     "tag": "v2rayNG",
     "count": 5,
     "category": "client"
@@ -65,17 +90,17 @@
     "category": "core"
   },
   {
+    "tag": "luci-app-mosdns",
+    "count": 5,
+    "category": "ecosystem"
+  },
+  {
     "tag": "v2rayN",
     "count": 5,
     "category": "client"
   },
   {
     "tag": "xray",
-    "count": 5,
-    "category": "client"
-  },
-  {
-    "tag": "TUN",
     "count": 5,
     "category": "client"
   },
@@ -90,9 +115,9 @@
     "category": "ecosystem"
   },
   {
-    "tag": "代理工具",
+    "tag": "开源",
     "count": 5,
-    "category": "core"
+    "category": "ecosystem"
   },
   {
     "tag": "dae",
@@ -120,6 +145,26 @@
     "category": "client"
   },
   {
+    "tag": "OpenClash",
+    "count": 5,
+    "category": "client"
+  },
+  {
+    "tag": "Clash",
+    "count": 5,
+    "category": "client"
+  },
+  {
+    "tag": "mihomo-party",
+    "count": 5,
+    "category": "client"
+  },
+  {
+    "tag": "Hiddify",
+    "count": 5,
+    "category": "ecosystem"
+  },
+  {
     "tag": "shadowsocks",
     "count": 5,
     "category": "core"
@@ -140,9 +185,19 @@
     "category": "protocol"
   },
   {
-    "tag": "开源",
+    "tag": "Clash Verge",
     "count": 4,
-    "category": "ecosystem"
+    "category": "client"
+  },
+  {
+    "tag": "Mihomo",
+    "count": 4,
+    "category": "client"
+  },
+  {
+    "tag": "网络工具",
+    "count": 4,
+    "category": "core"
   },
   {
     "tag": "Xray-core",
@@ -165,6 +220,11 @@
     "category": "core"
   },
   {
+    "tag": "Hiddify Next",
+    "count": 4,
+    "category": "ecosystem"
+  },
+  {
     "tag": "quic-go",
     "count": 4,
     "category": "protocol"
@@ -175,7 +235,7 @@
     "category": "client"
   },
   {
-    "tag": "网络工具",
+    "tag": "代理",
     "count": 3,
     "category": "core"
   },
@@ -186,6 +246,11 @@
   },
   {
     "tag": "QUIC",
+    "count": 3,
+    "category": "security"
+  },
+  {
+    "tag": "nftables",
     "count": 3,
     "category": "security"
   },
@@ -215,11 +280,6 @@
     "category": "core"
   },
   {
-    "tag": "Linux",
-    "count": 3,
-    "category": "core"
-  },
-  {
     "tag": "v2fly",
     "count": 3,
     "category": "core"
@@ -240,14 +300,14 @@
     "category": "protocol"
   },
   {
-    "tag": "代理",
+    "tag": "TinyTun",
     "count": 2,
-    "category": "core"
+    "category": "client"
   },
   {
-    "tag": "nftables",
+    "tag": "用户界面",
     "count": 2,
-    "category": "security"
+    "category": "client"
   },
   {
     "tag": "CI",
@@ -270,7 +330,17 @@
     "category": "client"
   },
   {
+    "tag": "性能优化",
+    "count": 2,
+    "category": "ecosystem"
+  },
+  {
     "tag": "Reno",
+    "count": 2,
+    "category": "core"
+  },
+  {
+    "tag": "iptables",
     "count": 2,
     "category": "core"
   },
@@ -278,6 +348,16 @@
     "tag": "Wireguard",
     "count": 2,
     "category": "core"
+  },
+  {
+    "tag": "用户体验",
+    "count": 2,
+    "category": "client"
+  },
+  {
+    "tag": "VPN",
+    "count": 2,
+    "category": "client"
   },
   {
     "tag": "DoT",
@@ -333,6 +413,16 @@
     "tag": "debugging",
     "count": 1,
     "category": "core"
+  },
+  {
+    "tag": "SQLite",
+    "count": 1,
+    "category": "client"
+  },
+  {
+    "tag": "Material 3",
+    "count": 1,
+    "category": "client"
   },
   {
     "tag": "mDNS",
@@ -445,6 +535,11 @@
     "category": "client"
   },
   {
+    "tag": "CI优化",
+    "count": 1,
+    "category": "client"
+  },
+  {
     "tag": "TUN模式",
     "count": 1,
     "category": "client"
@@ -465,7 +560,12 @@
     "category": "core"
   },
   {
-    "tag": "性能优化",
+    "tag": "YAML",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "配置管理",
     "count": 1,
     "category": "ecosystem"
   },
@@ -505,14 +605,14 @@
     "category": "core"
   },
   {
-    "tag": "iptables",
+    "tag": "网络性能",
     "count": 1,
     "category": "core"
   },
   {
-    "tag": "网络性能",
+    "tag": "User-Agent",
     "count": 1,
-    "category": "core"
+    "category": "client"
   },
   {
     "tag": "dot",
@@ -523,6 +623,31 @@
     "tag": "STUN",
     "count": 1,
     "category": "core"
+  },
+  {
+    "tag": "下载进度",
+    "count": 1,
+    "category": "client"
+  },
+  {
+    "tag": "SHA256",
+    "count": 1,
+    "category": "client"
+  },
+  {
+    "tag": "Bug修复",
+    "count": 1,
+    "category": "client"
+  },
+  {
+    "tag": "用户体验优化",
+    "count": 1,
+    "category": "client"
+  },
+  {
+    "tag": "mosdns",
+    "count": 1,
+    "category": "ecosystem"
   },
   {
     "tag": "信任隧道",
@@ -550,19 +675,54 @@
     "category": "client"
   },
   {
-    "tag": "用户体验",
-    "count": 1,
-    "category": "client"
-  },
-  {
     "tag": "IP解析",
     "count": 1,
     "category": "core"
   },
   {
+    "tag": "tproxy",
+    "count": 1,
+    "category": "client"
+  },
+  {
+    "tag": "Web UI",
+    "count": 1,
+    "category": "client"
+  },
+  {
+    "tag": "环境变量",
+    "count": 1,
+    "category": "client"
+  },
+  {
+    "tag": "连接稳定性",
+    "count": 1,
+    "category": "client"
+  },
+  {
+    "tag": "规则统计",
+    "count": 1,
+    "category": "client"
+  },
+  {
     "tag": "测速工具",
     "count": 1,
     "category": "protocol"
+  },
+  {
+    "tag": "Clash Verge Rev",
+    "count": 1,
+    "category": "client"
+  },
+  {
+    "tag": "流量隧道",
+    "count": 1,
+    "category": "client"
+  },
+  {
+    "tag": "Masque协议",
+    "count": 1,
+    "category": "client"
   },
   {
     "tag": "最少延迟",
@@ -575,12 +735,27 @@
     "category": "core"
   },
   {
+    "tag": "OpenWrt",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
     "tag": "翻墙工具",
     "count": 1,
     "category": "client"
   },
   {
+    "tag": "路由器",
+    "count": 1,
+    "category": "client"
+  },
+  {
     "tag": "预览版本",
+    "count": 1,
+    "category": "client"
+  },
+  {
+    "tag": "TUN服务",
     "count": 1,
     "category": "client"
   },
@@ -655,11 +830,6 @@
     "category": "client"
   },
   {
-    "tag": "VPN",
-    "count": 1,
-    "category": "client"
-  },
-  {
     "tag": "DoH",
     "count": 1,
     "category": "core"
@@ -668,6 +838,11 @@
     "tag": "xudp",
     "count": 1,
     "category": "core"
+  },
+  {
+    "tag": "跨平台",
+    "count": 1,
+    "category": "ecosystem"
   },
   {
     "tag": "HTTP/2",
