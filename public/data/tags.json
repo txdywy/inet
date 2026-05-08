@@ -6,23 +6,23 @@
   },
   {
     "tag": "Windows",
-    "count": 17,
+    "count": 18,
     "category": "client"
   },
   {
     "tag": "网络代理",
-    "count": 16,
-    "category": "ecosystem"
+    "count": 17,
+    "category": "client"
+  },
+  {
+    "tag": "MetaCubeX",
+    "count": 15,
+    "category": "core"
   },
   {
     "tag": "Linux",
     "count": 14,
     "category": "ecosystem"
-  },
-  {
-    "tag": "MetaCubeX",
-    "count": 14,
-    "category": "core"
   },
   {
     "tag": "代理工具",
@@ -70,6 +70,11 @@
     "category": "client"
   },
   {
+    "tag": "TUN",
+    "count": 8,
+    "category": "client"
+  },
+  {
     "tag": "开源",
     "count": 8,
     "category": "ecosystem"
@@ -80,14 +85,14 @@
     "category": "security"
   },
   {
+    "tag": "mihomo",
+    "count": 8,
+    "category": "core"
+  },
+  {
     "tag": "OpenWrt",
     "count": 7,
     "category": "ecosystem"
-  },
-  {
-    "tag": "TUN",
-    "count": 7,
-    "category": "client"
   },
   {
     "tag": "WireGuard",
@@ -95,14 +100,19 @@
     "category": "ecosystem"
   },
   {
-    "tag": "mihomo",
+    "tag": "VPN",
     "count": 7,
     "category": "core"
   },
   {
-    "tag": "VPN",
-    "count": 7,
-    "category": "core"
+    "tag": "v2rayN",
+    "count": 6,
+    "category": "client"
+  },
+  {
+    "tag": "xray",
+    "count": 6,
+    "category": "client"
   },
   {
     "tag": "Sub-Store",
@@ -195,19 +205,14 @@
     "category": "ecosystem"
   },
   {
-    "tag": "v2rayN",
-    "count": 5,
-    "category": "client"
-  },
-  {
-    "tag": "xray",
-    "count": 5,
-    "category": "client"
-  },
-  {
     "tag": "CloudflareSpeedTest",
     "count": 5,
     "category": "client"
+  },
+  {
+    "tag": "QUIC",
+    "count": 5,
+    "category": "security"
   },
   {
     "tag": "go-gost",
@@ -295,11 +300,6 @@
     "category": "client"
   },
   {
-    "tag": "QUIC",
-    "count": 4,
-    "category": "security"
-  },
-  {
     "tag": "nftables",
     "count": 4,
     "category": "security"
@@ -341,6 +341,11 @@
   },
   {
     "tag": "nekoray",
+    "count": 4,
+    "category": "client"
+  },
+  {
+    "tag": "HTTP/2",
     "count": 4,
     "category": "client"
   },
@@ -416,11 +421,6 @@
   },
   {
     "tag": "NekoBoxForAndroid",
-    "count": 3,
-    "category": "client"
-  },
-  {
-    "tag": "HTTP/2",
     "count": 3,
     "category": "client"
   },
@@ -573,6 +573,11 @@
     "tag": "bugfix",
     "count": 2,
     "category": "core"
+  },
+  {
+    "tag": "VMess",
+    "count": 2,
+    "category": "client"
   },
   {
     "tag": "命令行工具",
@@ -1471,11 +1476,6 @@
   },
   {
     "tag": "ARM",
-    "count": 1,
-    "category": "core"
-  },
-  {
-    "tag": "VMess",
     "count": 1,
     "category": "core"
   }

@@ -1,5 +1,41 @@
 [
   {
+    "id": "bb50c4416b8caade",
+    "title": "7.21.2",
+    "summary": "v2rayN 7.21.2 更新了内部数据结构，新增 xray tun 支持，并修复了一些功能，建议用户备份配置文件。",
+    "analysis": "此次 v2rayN 7.21.2 更新主要进行了内部数据结构的重构，并强烈建议用户在升级前备份 `guiConfigs` 文件夹，以防数据丢失。此外，Windows 版本新增了对 xray tun 的支持，但需要关闭旧版 TUN 保护。此更新还支持了一些 xray 的新特性，提升了软件的功能性和稳定性。值得注意的是，xray core 的 TLS 配置项 `allowInsecure` 被移除，用户需使用 `pinnedPeerCertSha256` 进行替代，这一变化可能影响到依赖于该配置的用户。整体来看，此次更新对用户和开发者都具有重要意义，尤其是在多网口环境下的应用场景。建议用户尽快更新以享受新特性和修复的功能，但需注意备份数据以防万一。",
+    "rawTitle": "7.21.2",
+    "rawBody": " ### 本次更新\r\n\r\n* 重构内部数据结构，强烈建议升级前备份文件夹 `guiConfigs`  https://github.com/2dust/v2rayN/pull/9004\r\n*  Windows 版本添加 xray tun 支持，（需关闭旧版 TUN 保护)  https://github.com/2dust/v2rayN/pull/9063 \r\n* -  xray tun 需要更新 xray core 版本至 https://github.com/XTLS/Xray-core/releases/tag/v26.4.17\r\n* 支持一些 xray 新特性和代码  https://github.com/2dust/v2rayN/pull/9113 https://github.com/2dust/v2rayN/pull/9122 https://github.com/2dust/v2rayN/pull/8998\r\n* 完善更多测试 https://github.com/2dust/v2rayN/pull/9162\r\n* 修复/路由取消确认行为 https://github.com/2dust/v2rayN/pull/9133\r\n* Avalonia 版本 重构 MessageBox https://github.com/2dust/v2rayN/pull/9147\r\n* 添加 UDP 测试 https://github.com/2dust/v2rayN/pull/8999\r\n* 移除 EchForceQuery https://github.com/2dust/v2rayN/pull/9214\r\n* 新增绑定网口，用于多网口环境，填写要绑定的网口名称，仅生效于 Windows 系统和 TUN 模式 https://github.com/2dust/v2rayN/pull/9222\r\n* 导出 v2rayN 内部分享链接至剪贴板 https://github.com/2dust/v2rayN/pull/9245\r\n\r\n\r\n### [发布文件介绍，不知道下载哪个文件的请看](https://github.com/2dust/v2rayN/wiki/Release-files-introduction)\r\n\r\n### 特别注意\r\n* xray core TLS 将移除了 allowInsecure 配置项，请使用 pinnedPeerCertSha256 代替，且支持分享，日志中会有明显提示\r\n \r\n ",
+    "sourceType": "github_release",
+    "sourceName": "2dust/v2rayN",
+    "sourceUrl": "https://github.com/2dust/v2rayN/releases/tag/7.21.2",
+    "project": "v2rayN",
+    "repo": "2dust/v2rayN",
+    "slug": "v2rayn",
+    "version": "7.21.2",
+    "category": "client",
+    "tags": [
+      "v2rayN",
+      "xray",
+      "Windows",
+      "TUN",
+      "网络代理"
+    ],
+    "platforms": [
+      "windows"
+    ],
+    "importance": 4,
+    "confidence": 0.9,
+    "isBreaking": true,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2026-05-08T12:13:05Z",
+    "fetchedAt": "2026-05-08T14:18:34.394Z",
+    "firstSeenAt": "2026-05-08T14:18:54.310Z",
+    "updatedAt": "2026-05-08T14:18:54.310Z",
+    "hash": "bb50c4416b8caade"
+  },
+  {
     "id": "3f0d0db97084bfde",
     "title": "2.22.21",
     "summary": "Sub-Store 2.22.21 版本优化了 artifact 同步配置和 GitHub API 地址处理。",
@@ -5354,6 +5390,40 @@
     "firstSeenAt": "2026-05-07T04:09:04.362Z",
     "updatedAt": "2026-05-07T04:09:04.362Z",
     "hash": "5e6adb84fbb7f312"
+  },
+  {
+    "id": "ed7016d31c7e7be4",
+    "title": "Prerelease-Alpha",
+    "summary": "MetaCubeX/mihomo 发布了 Prerelease-Alpha 版本，主要修复了多个与 HTTP/2 和 QUIC 相关的问题，并放宽了用户配置限制。",
+    "analysis": "本次 Prerelease-Alpha 版本的更新主要集中在修复与 HTTP/2 和 QUIC 相关的错误，确保在 QUIC 拨号失败时不会导致程序崩溃，同时优化了与 legacy base64-JSON VMess 相关的配置。这些修复对于使用 HTTP/2 传输的用户来说至关重要，因为它们提高了系统的稳定性和兼容性。此外，放宽用户配置的限制使得用户可以更灵活地组合设置，提升了用户体验。虽然此次更新没有引入破坏性变更，但仍建议用户尽快更新，以确保获得最新的修复和功能改进。该版本与 HTTP/2 和 QUIC 协议密切相关，适合所有使用这些协议的开发者和用户。",
+    "rawTitle": "Prerelease-Alpha",
+    "rawBody": "Release created at  Fri May  8 18:58:14 CST 2026\nSynchronize Alpha branch code updates, keeping only the latest version\n<br>\n[我应该下载哪个文件? / Which file should I download?](https://github.com/MetaCubeX/mihomo/wiki/FAQ)\n[二进制文件筛选 / Binary file selector](https://metacubex.github.io/Meta-Docs/startup/#_1)\n[查看文档 / Docs](https://metacubex.github.io/Meta-Docs/)\n\n\n## What's Changed\n* fix: panic in vless xhttp h3 mode when quic dial fails by @beck-8 in https://github.com/MetaCubeX/mihomo/pull/2736\n* fix: convert emit HTTP2Options-shaped h2-opts for share-link HTTP/2 transport by @wangwei354 in https://github.com/MetaCubeX/mihomo/pull/2737\n* fix: convert place disguise host in h2-opts.host for legacy base64-JSON VMess by @wangwei354 in https://github.com/MetaCubeX/mihomo/pull/2739\n* chore. relaxed user configuration, allowing for more flexible combination by @saba-futai in https://github.com/MetaCubeX/mihomo/pull/2757\n\n## New Contributors\n* @wangwei354 made their first contribution in https://github.com/MetaCubeX/mihomo/pull/2737\n\n**Full Changelog**: https://github.com/MetaCubeX/mihomo/compare/v1.19.24...Prerelease-Alpha",
+    "sourceType": "github_release",
+    "sourceName": "MetaCubeX/mihomo",
+    "sourceUrl": "https://github.com/MetaCubeX/mihomo/releases/tag/Prerelease-Alpha",
+    "project": "mihomo",
+    "repo": "MetaCubeX/mihomo",
+    "slug": "mihomo",
+    "version": "Prerelease-Alpha",
+    "category": "client",
+    "tags": [
+      "MetaCubeX",
+      "mihomo",
+      "HTTP/2",
+      "QUIC",
+      "VMess"
+    ],
+    "platforms": [],
+    "importance": 4,
+    "confidence": 0.9,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2024-08-12T17:01:02Z",
+    "fetchedAt": "2026-05-08T14:18:29.919Z",
+    "firstSeenAt": "2026-05-08T14:18:48.873Z",
+    "updatedAt": "2026-05-08T14:18:48.873Z",
+    "hash": "ed7016d31c7e7be4"
   },
   {
     "id": "027cccdd5ac4af22",

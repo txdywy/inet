@@ -1,10 +1,10 @@
 {
-  "totalItems": 184,
-  "last24h": 6,
+  "totalItems": 186,
+  "last24h": 7,
   "last7d": 34,
   "byCategory": {
     "core": 50,
-    "client": 59,
+    "client": 61,
     "router": 0,
     "protocol": 7,
     "dns_rules": 0,
@@ -15,7 +15,11 @@
   "topProjects": [
     {
       "project": "mihomo",
-      "count": 7
+      "count": 8
+    },
+    {
+      "project": "v2rayN",
+      "count": 6
     },
     {
       "project": "Sub-Store",
@@ -48,10 +52,6 @@
     {
       "project": "3x-ui",
       "count": 5
-    },
-    {
-      "project": "v2rayA",
-      "count": 5
     }
   ],
   "hotTags": [
@@ -61,18 +61,18 @@
     },
     {
       "tag": "Windows",
-      "count": 17
+      "count": 18
     },
     {
       "tag": "网络代理",
-      "count": 16
-    },
-    {
-      "tag": "Linux",
-      "count": 14
+      "count": 17
     },
     {
       "tag": "MetaCubeX",
+      "count": 15
+    },
+    {
+      "tag": "Linux",
       "count": 14
     },
     {
@@ -112,6 +112,10 @@
       "count": 9
     },
     {
+      "tag": "TUN",
+      "count": 8
+    },
+    {
       "tag": "开源",
       "count": 8
     },
@@ -120,24 +124,20 @@
       "count": 8
     },
     {
-      "tag": "OpenWrt",
-      "count": 7
+      "tag": "mihomo",
+      "count": 8
     },
     {
-      "tag": "TUN",
+      "tag": "OpenWrt",
       "count": 7
     },
     {
       "tag": "WireGuard",
       "count": 7
-    },
-    {
-      "tag": "mihomo",
-      "count": 7
     }
   ],
-  "importantCount": 83,
-  "breakingCount": 21,
+  "importantCount": 85,
+  "breakingCount": 22,
   "securityCount": 14,
-  "updatedAt": "2026-05-08T08:00:57.019Z"
+  "updatedAt": "2026-05-08T14:18:54.692Z"
 }
