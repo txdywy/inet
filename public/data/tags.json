@@ -1,7 +1,7 @@
 [
   {
     "tag": "Android",
-    "count": 19,
+    "count": 20,
     "category": "client"
   },
   {
@@ -16,8 +16,8 @@
   },
   {
     "tag": "MetaCubeX",
-    "count": 15,
-    "category": "core"
+    "count": 16,
+    "category": "ecosystem"
   },
   {
     "tag": "Linux",
@@ -90,6 +90,16 @@
     "category": "core"
   },
   {
+    "tag": "ClashMetaForAndroid",
+    "count": 7,
+    "category": "client"
+  },
+  {
+    "tag": "Sub-Store",
+    "count": 7,
+    "category": "ecosystem"
+  },
+  {
     "tag": "OpenWrt",
     "count": 7,
     "category": "ecosystem"
@@ -115,19 +125,9 @@
     "category": "client"
   },
   {
-    "tag": "Sub-Store",
-    "count": 6,
-    "category": "ecosystem"
-  },
-  {
     "tag": "naiveproxy",
     "count": 6,
     "category": "core"
-  },
-  {
-    "tag": "ClashMetaForAndroid",
-    "count": 6,
-    "category": "client"
   },
   {
     "tag": "网络工具",
@@ -350,6 +350,16 @@
     "category": "client"
   },
   {
+    "tag": "配置管理",
+    "count": 3,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "meta-rules-dat",
+    "count": 3,
+    "category": "ecosystem"
+  },
+  {
     "tag": "domain-list-community",
     "count": 3,
     "category": "ecosystem"
@@ -463,11 +473,6 @@
     "tag": "用户界面",
     "count": 2,
     "category": "client"
-  },
-  {
-    "tag": "配置管理",
-    "count": 2,
-    "category": "core"
   },
   {
     "tag": "网络管理",
@@ -595,8 +600,13 @@
     "category": "security"
   },
   {
-    "tag": "meta-rules-dat",
-    "count": 2,
+    "tag": "预发布",
+    "count": 1,
+    "category": "client"
+  },
+  {
+    "tag": "Gist",
+    "count": 1,
     "category": "ecosystem"
   },
   {

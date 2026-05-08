@@ -17,6 +17,39 @@
     ]
   },
   {
+    "slug": "clashmetaforandroid",
+    "name": "ClashMetaForAndroid",
+    "repo": "MetaCubeX/ClashMetaForAndroid",
+    "description": "各平台代理客户端应用",
+    "category": "client",
+    "platforms": [
+      "android"
+    ],
+    "tags": [
+      "clash",
+      "android",
+      "mihomo"
+    ]
+  },
+  {
+    "slug": "sub-store",
+    "name": "Sub-Store",
+    "repo": "sub-store-org/Sub-Store",
+    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
+    "category": "ecosystem",
+    "platforms": [
+      "ios",
+      "android",
+      "macos",
+      "windows",
+      "linux"
+    ],
+    "tags": [
+      "sub-store",
+      "subscription"
+    ]
+  },
+  {
     "slug": "naiveproxy",
     "name": "naiveproxy",
     "repo": "klzgrad/naiveproxy",
@@ -48,21 +81,6 @@
     ]
   },
   {
-    "slug": "clashmetaforandroid",
-    "name": "ClashMetaForAndroid",
-    "repo": "MetaCubeX/ClashMetaForAndroid",
-    "description": "各平台代理客户端应用",
-    "category": "client",
-    "platforms": [
-      "android"
-    ],
-    "tags": [
-      "clash",
-      "android",
-      "mihomo"
-    ]
-  },
-  {
     "slug": "openwrt",
     "name": "openwrt",
     "repo": "openwrt/openwrt",
@@ -74,24 +92,6 @@
     ],
     "tags": [
       "openwrt"
-    ]
-  },
-  {
-    "slug": "sub-store",
-    "name": "Sub-Store",
-    "repo": "sub-store-org/Sub-Store",
-    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
-    "category": "ecosystem",
-    "platforms": [
-      "ios",
-      "android",
-      "macos",
-      "windows",
-      "linux"
-    ],
-    "tags": [
-      "sub-store",
-      "subscription"
     ]
   },
   {

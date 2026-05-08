@@ -1,15 +1,15 @@
 {
-  "totalItems": 186,
-  "last24h": 7,
-  "last7d": 34,
+  "totalItems": 189,
+  "last24h": 9,
+  "last7d": 37,
   "byCategory": {
     "core": 50,
-    "client": 61,
+    "client": 62,
     "router": 0,
     "protocol": 7,
     "dns_rules": 0,
     "security": 4,
-    "ecosystem": 64,
+    "ecosystem": 66,
     "trend": 0
   },
   "topProjects": [
@@ -18,11 +18,15 @@
       "count": 8
     },
     {
-      "project": "v2rayN",
-      "count": 6
+      "project": "ClashMetaForAndroid",
+      "count": 7
     },
     {
       "project": "Sub-Store",
+      "count": 7
+    },
+    {
+      "project": "v2rayN",
       "count": 6
     },
     {
@@ -42,10 +46,6 @@
       "count": 6
     },
     {
-      "project": "ClashMetaForAndroid",
-      "count": 6
-    },
-    {
       "project": "clash-verge-rev",
       "count": 5
     },
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "Android",
-      "count": 19
+      "count": 20
     },
     {
       "tag": "Windows",
@@ -69,7 +69,7 @@
     },
     {
       "tag": "MetaCubeX",
-      "count": 15
+      "count": 16
     },
     {
       "tag": "Linux",
@@ -128,16 +128,16 @@
       "count": 8
     },
     {
-      "tag": "OpenWrt",
+      "tag": "ClashMetaForAndroid",
       "count": 7
     },
     {
-      "tag": "WireGuard",
+      "tag": "Sub-Store",
       "count": 7
     }
   ],
   "importantCount": 85,
   "breakingCount": 22,
   "securityCount": 14,
-  "updatedAt": "2026-05-08T14:18:54.692Z"
+  "updatedAt": "2026-05-08T19:44:55.066Z"
 }
