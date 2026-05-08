@@ -16,18 +16,18 @@
   },
   {
     "tag": "Linux",
-    "count": 13,
-    "category": "client"
+    "count": 14,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "MetaCubeX",
+    "count": 14,
+    "category": "core"
   },
   {
     "tag": "代理工具",
     "count": 13,
     "category": "client"
-  },
-  {
-    "tag": "MetaCubeX",
-    "count": 13,
-    "category": "core"
   },
   {
     "tag": "sing-box",
@@ -55,19 +55,19 @@
     "category": "core"
   },
   {
-    "tag": "Clash",
+    "tag": "v2fly",
     "count": 9,
-    "category": "client"
+    "category": "ecosystem"
   },
   {
     "tag": "v2ray",
-    "count": 8,
+    "count": 9,
     "category": "ecosystem"
   },
   {
-    "tag": "v2fly",
-    "count": 8,
-    "category": "ecosystem"
+    "tag": "Clash",
+    "count": 9,
+    "category": "client"
   },
   {
     "tag": "开源",
@@ -78,6 +78,11 @@
     "tag": "Hysteria",
     "count": 8,
     "category": "security"
+  },
+  {
+    "tag": "OpenWrt",
+    "count": 7,
+    "category": "ecosystem"
   },
   {
     "tag": "TUN",
@@ -97,6 +102,11 @@
   {
     "tag": "VPN",
     "count": 7,
+    "category": "core"
+  },
+  {
+    "tag": "naiveproxy",
+    "count": 6,
     "category": "core"
   },
   {
@@ -125,14 +135,14 @@
     "category": "core"
   },
   {
-    "tag": "OpenWrt",
-    "count": 6,
-    "category": "ecosystem"
-  },
-  {
     "tag": "rust",
     "count": 6,
     "category": "core"
+  },
+  {
+    "tag": "代理",
+    "count": 5,
+    "category": "ecosystem"
   },
   {
     "tag": "Loyalsoldier",
@@ -148,11 +158,6 @@
     "tag": "Sub-Store",
     "count": 5,
     "category": "client"
-  },
-  {
-    "tag": "naiveproxy",
-    "count": 5,
-    "category": "core"
   },
   {
     "tag": "3x-ui",
@@ -290,11 +295,6 @@
     "category": "client"
   },
   {
-    "tag": "代理",
-    "count": 4,
-    "category": "core"
-  },
-  {
     "tag": "QUIC",
     "count": 4,
     "category": "security"
@@ -343,6 +343,11 @@
     "tag": "nekoray",
     "count": 4,
     "category": "client"
+  },
+  {
+    "tag": "domain-list-community",
+    "count": 3,
+    "category": "ecosystem"
   },
   {
     "tag": "dat",
@@ -430,12 +435,17 @@
     "category": "protocol"
   },
   {
-    "tag": "domain-list",
+    "tag": "proxy",
+    "count": 2,
+    "category": "core"
+  },
+  {
+    "tag": "CVE",
     "count": 2,
     "category": "ecosystem"
   },
   {
-    "tag": "domain-list-community",
+    "tag": "domain-list",
     "count": 2,
     "category": "ecosystem"
   },
@@ -573,6 +583,46 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "meta-rules-dat",
+    "count": 2,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "Vodafone",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "geosite",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "debug",
+    "count": 1,
+    "category": "core"
+  },
+  {
+    "tag": "网络规则",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "mbedtls",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "OpenSSL",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "wolfSSL",
+    "count": 1,
+    "category": "ecosystem"
   },
   {
     "tag": "流量请求",
@@ -790,11 +840,6 @@
     "category": "core"
   },
   {
-    "tag": "proxy",
-    "count": 1,
-    "category": "core"
-  },
-  {
     "tag": "TypeScript",
     "count": 1,
     "category": "core"
@@ -956,11 +1001,6 @@
   },
   {
     "tag": "mosdns",
-    "count": 1,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "CVE",
     "count": 1,
     "category": "ecosystem"
   },
@@ -1318,11 +1358,6 @@
     "tag": "SOCKS5",
     "count": 1,
     "category": "security"
-  },
-  {
-    "tag": "meta-rules-dat",
-    "count": 1,
-    "category": "ecosystem"
   },
   {
     "tag": "小米路由",

@@ -1,15 +1,15 @@
 {
-  "totalItems": 178,
-  "last24h": 2,
-  "last7d": 30,
+  "totalItems": 183,
+  "last24h": 5,
+  "last7d": 33,
   "byCategory": {
-    "core": 49,
+    "core": 50,
     "client": 59,
     "router": 0,
     "protocol": 7,
     "dns_rules": 0,
     "security": 4,
-    "ecosystem": 59,
+    "ecosystem": 63,
     "trend": 0
   },
   "topProjects": [
@@ -18,12 +18,24 @@
       "count": 7
     },
     {
-      "project": "ClashMetaForAndroid",
+      "project": "domain-list-community",
+      "count": 6
+    },
+    {
+      "project": "naiveproxy",
       "count": 6
     },
     {
       "project": "v2ray-rules-dat",
-      "count": 5
+      "count": 6
+    },
+    {
+      "project": "openwrt",
+      "count": 6
+    },
+    {
+      "project": "ClashMetaForAndroid",
+      "count": 6
     },
     {
       "project": "clash-verge-rev",
@@ -34,23 +46,11 @@
       "count": 5
     },
     {
-      "project": "domain-list-community",
-      "count": 5
-    },
-    {
-      "project": "naiveproxy",
-      "count": 5
-    },
-    {
       "project": "3x-ui",
       "count": 5
     },
     {
       "project": "v2rayA",
-      "count": 5
-    },
-    {
-      "project": "metacubexd",
       "count": 5
     }
   ],
@@ -69,14 +69,14 @@
     },
     {
       "tag": "Linux",
-      "count": 13
-    },
-    {
-      "tag": "代理工具",
-      "count": 13
+      "count": 14
     },
     {
       "tag": "MetaCubeX",
+      "count": 14
+    },
+    {
+      "tag": "代理工具",
       "count": 13
     },
     {
@@ -100,16 +100,16 @@
       "count": 10
     },
     {
-      "tag": "Clash",
+      "tag": "v2fly",
       "count": 9
     },
     {
       "tag": "v2ray",
-      "count": 8
+      "count": 9
     },
     {
-      "tag": "v2fly",
-      "count": 8
+      "tag": "Clash",
+      "count": 9
     },
     {
       "tag": "开源",
@@ -118,6 +118,10 @@
     {
       "tag": "Hysteria",
       "count": 8
+    },
+    {
+      "tag": "OpenWrt",
+      "count": 7
     },
     {
       "tag": "TUN",
@@ -130,14 +134,10 @@
     {
       "tag": "mihomo",
       "count": 7
-    },
-    {
-      "tag": "VPN",
-      "count": 7
     }
   ],
-  "importantCount": 82,
+  "importantCount": 83,
   "breakingCount": 21,
-  "securityCount": 13,
-  "updatedAt": "2026-05-07T19:53:34.618Z"
+  "securityCount": 14,
+  "updatedAt": "2026-05-08T03:56:28.874Z"
 }

@@ -17,6 +17,22 @@
     ]
   },
   {
+    "slug": "naiveproxy",
+    "name": "naiveproxy",
+    "repo": "klzgrad/naiveproxy",
+    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
+    "category": "core",
+    "platforms": [
+      "linux",
+      "windows",
+      "macos",
+      "android"
+    ],
+    "tags": [
+      "naiveproxy"
+    ]
+  },
+  {
     "slug": "clashmetaforandroid",
     "name": "ClashMetaForAndroid",
     "repo": "MetaCubeX/ClashMetaForAndroid",
@@ -29,6 +45,53 @@
       "clash",
       "android",
       "mihomo"
+    ]
+  },
+  {
+    "slug": "openwrt",
+    "name": "openwrt",
+    "repo": "openwrt/openwrt",
+    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
+    "category": "ecosystem",
+    "platforms": [
+      "openwrt",
+      "router"
+    ],
+    "tags": [
+      "openwrt"
+    ]
+  },
+  {
+    "slug": "v2ray-rules-dat",
+    "name": "v2ray-rules-dat",
+    "repo": "Loyalsoldier/v2ray-rules-dat",
+    "description": "DNS 解析、规则集、分流策略",
+    "category": "dns_rules",
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "tags": [
+      "ruleset",
+      "geosite",
+      "geoip"
+    ]
+  },
+  {
+    "slug": "domain-list-community",
+    "name": "domain-list-community",
+    "repo": "v2fly/domain-list-community",
+    "description": "DNS 解析、规则集、分流策略",
+    "category": "dns_rules",
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "tags": [
+      "geosite",
+      "domain-list"
     ]
   },
   {
@@ -164,22 +227,6 @@
     "tags": [
       "sudoku",
       "obfuscation"
-    ]
-  },
-  {
-    "slug": "naiveproxy",
-    "name": "naiveproxy",
-    "repo": "klzgrad/naiveproxy",
-    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
-    "category": "core",
-    "platforms": [
-      "linux",
-      "windows",
-      "macos",
-      "android"
-    ],
-    "tags": [
-      "naiveproxy"
     ]
   },
   {
@@ -410,20 +457,6 @@
     ]
   },
   {
-    "slug": "openwrt",
-    "name": "openwrt",
-    "repo": "openwrt/openwrt",
-    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
-    "category": "ecosystem",
-    "platforms": [
-      "openwrt",
-      "router"
-    ],
-    "tags": [
-      "openwrt"
-    ]
-  },
-  {
     "slug": "tailscale",
     "name": "tailscale",
     "repo": "tailscale/tailscale",
@@ -521,39 +554,6 @@
       "dashboard",
       "mihomo",
       "clash"
-    ]
-  },
-  {
-    "slug": "v2ray-rules-dat",
-    "name": "v2ray-rules-dat",
-    "repo": "Loyalsoldier/v2ray-rules-dat",
-    "description": "DNS 解析、规则集、分流策略",
-    "category": "dns_rules",
-    "platforms": [
-      "linux",
-      "windows",
-      "macos"
-    ],
-    "tags": [
-      "ruleset",
-      "geosite",
-      "geoip"
-    ]
-  },
-  {
-    "slug": "domain-list-community",
-    "name": "domain-list-community",
-    "repo": "v2fly/domain-list-community",
-    "description": "DNS 解析、规则集、分流策略",
-    "category": "dns_rules",
-    "platforms": [
-      "linux",
-      "windows",
-      "macos"
-    ],
-    "tags": [
-      "geosite",
-      "domain-list"
     ]
   },
   {
