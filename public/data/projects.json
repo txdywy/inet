@@ -62,6 +62,24 @@
     ]
   },
   {
+    "slug": "sub-store",
+    "name": "Sub-Store",
+    "repo": "sub-store-org/Sub-Store",
+    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
+    "category": "ecosystem",
+    "platforms": [
+      "ios",
+      "android",
+      "macos",
+      "windows",
+      "linux"
+    ],
+    "tags": [
+      "sub-store",
+      "subscription"
+    ]
+  },
+  {
     "slug": "v2ray-rules-dat",
     "name": "v2ray-rules-dat",
     "repo": "Loyalsoldier/v2ray-rules-dat",
@@ -488,24 +506,6 @@
       "x-ui",
       "panel",
       "xray-core"
-    ]
-  },
-  {
-    "slug": "sub-store",
-    "name": "Sub-Store",
-    "repo": "sub-store-org/Sub-Store",
-    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
-    "category": "ecosystem",
-    "platforms": [
-      "ios",
-      "android",
-      "macos",
-      "windows",
-      "linux"
-    ],
-    "tags": [
-      "sub-store",
-      "subscription"
     ]
   },
   {

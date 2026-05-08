@@ -1,5 +1,38 @@
 [
   {
+    "id": "3f0d0db97084bfde",
+    "title": "2.22.21",
+    "summary": "Sub-Store 2.22.21 版本优化了 artifact 同步配置和 GitHub API 地址处理。",
+    "analysis": "在此次更新中，Sub-Store 进行了对 artifact 同步配置和 GitHub API 地址处理的优化。这一改进可能会提升用户在使用 GitHub 进行项目管理时的效率，尤其是在处理依赖和版本管理方面。对于开发者而言，优化的同步配置将有助于减少潜在的错误和提高自动化程度，从而简化工作流程。虽然更新内容相对较小，但在持续集成和持续部署的环境中，这种优化能够显著提升整体性能和用户体验。此次更新没有提及兼容性风险，因此用户可以放心更新。建议用户尽快更新到最新版本，以享受这些优化带来的便利。",
+    "rawTitle": "2.22.21",
+    "rawBody": "## <small>2.22.21 (2026-05-08)</small>\n\n* feat: 优化 artifact 同步配置和 GitHub API 地址处理 ([3ac78bd](https://github.com/sub-store-org/Sub-Store/commit/3ac78bd))\n",
+    "sourceType": "github_release",
+    "sourceName": "sub-store-org/Sub-Store",
+    "sourceUrl": "https://github.com/sub-store-org/Sub-Store/releases/tag/2.22.21",
+    "project": "Sub-Store",
+    "repo": "sub-store-org/Sub-Store",
+    "slug": "sub-store",
+    "version": "2.22.21",
+    "category": "ecosystem",
+    "tags": [
+      "Sub-Store",
+      "GitHub",
+      "artifact",
+      "API"
+    ],
+    "platforms": [],
+    "importance": 3,
+    "confidence": 0.9,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-05-08T06:54:20Z",
+    "fetchedAt": "2026-05-08T08:00:49.570Z",
+    "firstSeenAt": "2026-05-08T08:00:56.585Z",
+    "updatedAt": "2026-05-08T08:00:56.585Z",
+    "hash": "3f0d0db97084bfde"
+  },
+  {
     "id": "ce7c29012a778ce0",
     "title": "20260508015402",
     "summary": "本次更新为 Vodafone 荷兰添加了域名至 geosite:vodafone。",

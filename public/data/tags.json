@@ -105,6 +105,11 @@
     "category": "core"
   },
   {
+    "tag": "Sub-Store",
+    "count": 6,
+    "category": "ecosystem"
+  },
+  {
     "tag": "naiveproxy",
     "count": 6,
     "category": "core"
@@ -151,11 +156,6 @@
   },
   {
     "tag": "Mihomo",
-    "count": 5,
-    "category": "client"
-  },
-  {
-    "tag": "Sub-Store",
     "count": 5,
     "category": "client"
   },
@@ -435,6 +435,11 @@
     "category": "protocol"
   },
   {
+    "tag": "GitHub",
+    "count": 2,
+    "category": "ecosystem"
+  },
+  {
     "tag": "proxy",
     "count": 2,
     "category": "core"
@@ -590,6 +595,16 @@
     "category": "ecosystem"
   },
   {
+    "tag": "artifact",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "API",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
     "tag": "Vodafone",
     "count": 1,
     "category": "ecosystem"
@@ -646,11 +661,6 @@
   },
   {
     "tag": "openspec.dev",
-    "count": 1,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "GitHub",
     "count": 1,
     "category": "ecosystem"
   },

@@ -1,7 +1,7 @@
 {
-  "totalItems": 183,
-  "last24h": 5,
-  "last7d": 33,
+  "totalItems": 184,
+  "last24h": 6,
+  "last7d": 34,
   "byCategory": {
     "core": 50,
     "client": 59,
@@ -9,13 +9,17 @@
     "protocol": 7,
     "dns_rules": 0,
     "security": 4,
-    "ecosystem": 63,
+    "ecosystem": 64,
     "trend": 0
   },
   "topProjects": [
     {
       "project": "mihomo",
       "count": 7
+    },
+    {
+      "project": "Sub-Store",
+      "count": 6
     },
     {
       "project": "domain-list-community",
@@ -39,10 +43,6 @@
     },
     {
       "project": "clash-verge-rev",
-      "count": 5
-    },
-    {
-      "project": "Sub-Store",
       "count": 5
     },
     {
@@ -139,5 +139,5 @@
   "importantCount": 83,
   "breakingCount": 21,
   "securityCount": 14,
-  "updatedAt": "2026-05-08T03:56:28.874Z"
+  "updatedAt": "2026-05-08T08:00:57.019Z"
 }
