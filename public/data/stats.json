@@ -1,10 +1,10 @@
 {
-  "totalItems": 201,
+  "totalItems": 202,
   "last24h": 14,
-  "last7d": 46,
+  "last7d": 47,
   "byCategory": {
     "core": 51,
-    "client": 65,
+    "client": 66,
     "router": 0,
     "protocol": 9,
     "dns_rules": 0,
@@ -26,15 +26,15 @@
       "count": 9
     },
     {
+      "project": "ClashMetaForAndroid",
+      "count": 8
+    },
+    {
       "project": "v2rayNG",
       "count": 7
     },
     {
       "project": "v2ray-rules-dat",
-      "count": 7
-    },
-    {
-      "project": "ClashMetaForAndroid",
       "count": 7
     },
     {
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "Android",
-      "count": 21
+      "count": 22
     },
     {
       "tag": "MetaCubeX",
@@ -124,20 +124,20 @@
       "count": 9
     },
     {
+      "tag": "ClashMetaForAndroid",
+      "count": 8
+    },
+    {
       "tag": "TUN",
       "count": 8
     },
     {
       "tag": "Hysteria",
       "count": 8
-    },
-    {
-      "tag": "v2rayNG",
-      "count": 7
     }
   ],
   "importantCount": 89,
   "breakingCount": 22,
   "securityCount": 14,
-  "updatedAt": "2026-05-09T08:14:01.642Z"
+  "updatedAt": "2026-05-09T13:55:30.706Z"
 }

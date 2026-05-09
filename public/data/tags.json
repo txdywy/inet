@@ -1,7 +1,7 @@
 [
   {
     "tag": "Android",
-    "count": 21,
+    "count": 22,
     "category": "client"
   },
   {
@@ -85,6 +85,11 @@
     "category": "client"
   },
   {
+    "tag": "ClashMetaForAndroid",
+    "count": 8,
+    "category": "client"
+  },
+  {
     "tag": "TUN",
     "count": 8,
     "category": "client"
@@ -96,11 +101,6 @@
   },
   {
     "tag": "v2rayNG",
-    "count": 7,
-    "category": "client"
-  },
-  {
-    "tag": "ClashMetaForAndroid",
     "count": 7,
     "category": "client"
   },
@@ -360,6 +360,11 @@
     "category": "client"
   },
   {
+    "tag": "用户体验",
+    "count": 3,
+    "category": "client"
+  },
+  {
     "tag": "domain-list",
     "count": 3,
     "category": "ecosystem"
@@ -535,11 +540,6 @@
     "category": "core"
   },
   {
-    "tag": "用户体验",
-    "count": 2,
-    "category": "client"
-  },
-  {
     "tag": "安全修复",
     "count": 2,
     "category": "ecosystem"
@@ -603,6 +603,11 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "快捷方式",
+    "count": 1,
+    "category": "client"
   },
   {
     "tag": "政府域名",
