@@ -1,25 +1,33 @@
 {
-  "totalItems": 195,
-  "last24h": 10,
-  "last7d": 42,
+  "totalItems": 201,
+  "last24h": 14,
+  "last7d": 46,
   "byCategory": {
-    "core": 50,
-    "client": 64,
+    "core": 51,
+    "client": 65,
     "router": 0,
     "protocol": 9,
     "dns_rules": 0,
     "security": 4,
-    "ecosystem": 68,
+    "ecosystem": 72,
     "trend": 0
   },
   "topProjects": [
+    {
+      "project": "domain-list-community",
+      "count": 10
+    },
+    {
+      "project": "mihomo",
+      "count": 10
+    },
     {
       "project": "Sub-Store",
       "count": 9
     },
     {
-      "project": "mihomo",
-      "count": 9
+      "project": "v2rayNG",
+      "count": 7
     },
     {
       "project": "v2ray-rules-dat",
@@ -30,15 +38,7 @@
       "count": 7
     },
     {
-      "project": "v2rayNG",
-      "count": 6
-    },
-    {
       "project": "v2rayN",
-      "count": 6
-    },
-    {
-      "project": "domain-list-community",
       "count": 6
     },
     {
@@ -57,14 +57,14 @@
   "hotTags": [
     {
       "tag": "Android",
-      "count": 20
-    },
-    {
-      "tag": "网络代理",
-      "count": 18
+      "count": 21
     },
     {
       "tag": "MetaCubeX",
+      "count": 19
+    },
+    {
+      "tag": "网络代理",
       "count": 18
     },
     {
@@ -74,6 +74,10 @@
     {
       "tag": "Linux",
       "count": 14
+    },
+    {
+      "tag": "v2fly",
+      "count": 13
     },
     {
       "tag": "代理工具",
@@ -88,6 +92,10 @@
       "count": 12
     },
     {
+      "tag": "Xray",
+      "count": 11
+    },
+    {
       "tag": "v2ray",
       "count": 10
     },
@@ -96,11 +104,11 @@
       "count": 10
     },
     {
-      "tag": "Xray",
+      "tag": "网络协议",
       "count": 10
     },
     {
-      "tag": "网络协议",
+      "tag": "mihomo",
       "count": 10
     },
     {
@@ -112,15 +120,7 @@
       "count": 9
     },
     {
-      "tag": "v2fly",
-      "count": 9
-    },
-    {
       "tag": "Clash",
-      "count": 9
-    },
-    {
-      "tag": "mihomo",
       "count": 9
     },
     {
@@ -132,12 +132,12 @@
       "count": 8
     },
     {
-      "tag": "ClashMetaForAndroid",
+      "tag": "v2rayNG",
       "count": 7
     }
   ],
-  "importantCount": 87,
+  "importantCount": 89,
   "breakingCount": 22,
   "securityCount": 14,
-  "updatedAt": "2026-05-09T03:59:42.252Z"
+  "updatedAt": "2026-05-09T08:14:01.642Z"
 }

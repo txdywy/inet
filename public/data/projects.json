@@ -17,6 +17,22 @@
     ]
   },
   {
+    "slug": "domain-list-community",
+    "name": "domain-list-community",
+    "repo": "v2fly/domain-list-community",
+    "description": "DNS 解析、规则集、分流策略",
+    "category": "dns_rules",
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "tags": [
+      "geosite",
+      "domain-list"
+    ]
+  },
+  {
     "slug": "sub-store",
     "name": "Sub-Store",
     "repo": "sub-store-org/Sub-Store",
@@ -32,6 +48,21 @@
     "tags": [
       "sub-store",
       "subscription"
+    ]
+  },
+  {
+    "slug": "v2rayng",
+    "name": "v2rayNG",
+    "repo": "2dust/v2rayNG",
+    "description": "各平台代理客户端应用",
+    "category": "client",
+    "platforms": [
+      "android"
+    ],
+    "tags": [
+      "v2rayng",
+      "android",
+      "xray-core"
     ]
   },
   {
@@ -83,21 +114,6 @@
     ]
   },
   {
-    "slug": "v2rayng",
-    "name": "v2rayNG",
-    "repo": "2dust/v2rayNG",
-    "description": "各平台代理客户端应用",
-    "category": "client",
-    "platforms": [
-      "android"
-    ],
-    "tags": [
-      "v2rayng",
-      "android",
-      "xray-core"
-    ]
-  },
-  {
     "slug": "v2rayn",
     "name": "v2rayN",
     "repo": "2dust/v2rayN",
@@ -124,22 +140,6 @@
     ],
     "tags": [
       "openwrt"
-    ]
-  },
-  {
-    "slug": "domain-list-community",
-    "name": "domain-list-community",
-    "repo": "v2fly/domain-list-community",
-    "description": "DNS 解析、规则集、分流策略",
-    "category": "dns_rules",
-    "platforms": [
-      "linux",
-      "windows",
-      "macos"
-    ],
-    "tags": [
-      "geosite",
-      "domain-list"
     ]
   },
   {
