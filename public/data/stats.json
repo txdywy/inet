@@ -1,10 +1,10 @@
 {
-  "totalItems": 202,
-  "last24h": 14,
-  "last7d": 47,
+  "totalItems": 206,
+  "last24h": 13,
+  "last7d": 49,
   "byCategory": {
-    "core": 51,
-    "client": 66,
+    "core": 54,
+    "client": 67,
     "router": 0,
     "protocol": 9,
     "dns_rules": 0,
@@ -14,11 +14,11 @@
   },
   "topProjects": [
     {
-      "project": "domain-list-community",
-      "count": 10
+      "project": "mihomo",
+      "count": 11
     },
     {
-      "project": "mihomo",
+      "project": "domain-list-community",
       "count": 10
     },
     {
@@ -30,6 +30,10 @@
       "count": 8
     },
     {
+      "project": "Xray-core",
+      "count": 7
+    },
+    {
       "project": "v2rayNG",
       "count": 7
     },
@@ -38,20 +42,16 @@
       "count": 7
     },
     {
+      "project": "metacubexd",
+      "count": 6
+    },
+    {
       "project": "v2rayN",
       "count": 6
     },
     {
       "project": "naiveproxy",
       "count": 6
-    },
-    {
-      "project": "openwrt",
-      "count": 6
-    },
-    {
-      "project": "clash-verge-rev",
-      "count": 5
     }
   ],
   "hotTags": [
@@ -61,7 +61,7 @@
     },
     {
       "tag": "MetaCubeX",
-      "count": 19
+      "count": 21
     },
     {
       "tag": "网络代理",
@@ -72,6 +72,10 @@
       "count": 18
     },
     {
+      "tag": "代理工具",
+      "count": 15
+    },
+    {
       "tag": "Linux",
       "count": 14
     },
@@ -80,12 +84,12 @@
       "count": 13
     },
     {
-      "tag": "代理工具",
+      "tag": "sing-box",
       "count": 13
     },
     {
-      "tag": "sing-box",
-      "count": 13
+      "tag": "网络协议",
+      "count": 12
     },
     {
       "tag": "DNS",
@@ -96,19 +100,15 @@
       "count": 11
     },
     {
+      "tag": "mihomo",
+      "count": 11
+    },
+    {
       "tag": "v2ray",
       "count": 10
     },
     {
       "tag": "macOS",
-      "count": 10
-    },
-    {
-      "tag": "网络协议",
-      "count": 10
-    },
-    {
-      "tag": "mihomo",
       "count": 10
     },
     {
@@ -124,20 +124,20 @@
       "count": 9
     },
     {
+      "tag": "Xray-core",
+      "count": 8
+    },
+    {
       "tag": "ClashMetaForAndroid",
       "count": 8
     },
     {
       "tag": "TUN",
       "count": 8
-    },
-    {
-      "tag": "Hysteria",
-      "count": 8
     }
   ],
-  "importantCount": 89,
+  "importantCount": 90,
   "breakingCount": 22,
   "securityCount": 14,
-  "updatedAt": "2026-05-09T13:55:30.706Z"
+  "updatedAt": "2026-05-09T19:21:52.132Z"
 }

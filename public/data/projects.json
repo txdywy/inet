@@ -66,6 +66,25 @@
     ]
   },
   {
+    "slug": "xray-core",
+    "name": "Xray-core",
+    "repo": "XTLS/Xray-core",
+    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
+    "category": "core",
+    "platforms": [
+      "linux",
+      "windows",
+      "macos",
+      "android"
+    ],
+    "tags": [
+      "xray-core",
+      "vless",
+      "xtls",
+      "xhttp"
+    ]
+  },
+  {
     "slug": "v2rayng",
     "name": "v2rayNG",
     "repo": "2dust/v2rayNG",
@@ -143,22 +162,18 @@
     ]
   },
   {
-    "slug": "xray-core",
-    "name": "Xray-core",
-    "repo": "XTLS/Xray-core",
-    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
-    "category": "core",
+    "slug": "metacubexd",
+    "name": "metacubexd",
+    "repo": "MetaCubeX/metacubexd",
+    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
+    "category": "ecosystem",
     "platforms": [
-      "linux",
-      "windows",
-      "macos",
-      "android"
+      "web"
     ],
     "tags": [
-      "xray-core",
-      "vless",
-      "xtls",
-      "xhttp"
+      "dashboard",
+      "mihomo",
+      "clash"
     ]
   },
   {
@@ -539,21 +554,6 @@
     "tags": [
       "subconverter",
       "subscription"
-    ]
-  },
-  {
-    "slug": "metacubexd",
-    "name": "metacubexd",
-    "repo": "MetaCubeX/metacubexd",
-    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
-    "category": "ecosystem",
-    "platforms": [
-      "web"
-    ],
-    "tags": [
-      "dashboard",
-      "mihomo",
-      "clash"
     ]
   },
   {

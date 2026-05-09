@@ -6,8 +6,8 @@
   },
   {
     "tag": "MetaCubeX",
-    "count": 19,
-    "category": "ecosystem"
+    "count": 21,
+    "category": "core"
   },
   {
     "tag": "网络代理",
@@ -20,6 +20,11 @@
     "category": "client"
   },
   {
+    "tag": "代理工具",
+    "count": 15,
+    "category": "core"
+  },
+  {
     "tag": "Linux",
     "count": 14,
     "category": "ecosystem"
@@ -30,13 +35,13 @@
     "category": "ecosystem"
   },
   {
-    "tag": "代理工具",
-    "count": 13,
-    "category": "client"
-  },
-  {
     "tag": "sing-box",
     "count": 13,
+    "category": "core"
+  },
+  {
+    "tag": "网络协议",
+    "count": 12,
     "category": "core"
   },
   {
@@ -50,6 +55,11 @@
     "category": "client"
   },
   {
+    "tag": "mihomo",
+    "count": 11,
+    "category": "core"
+  },
+  {
     "tag": "v2ray",
     "count": 10,
     "category": "ecosystem"
@@ -58,16 +68,6 @@
     "tag": "macOS",
     "count": 10,
     "category": "client"
-  },
-  {
-    "tag": "网络协议",
-    "count": 10,
-    "category": "core"
-  },
-  {
-    "tag": "mihomo",
-    "count": 10,
-    "category": "core"
   },
   {
     "tag": "开源",
@@ -85,6 +85,11 @@
     "category": "client"
   },
   {
+    "tag": "Xray-core",
+    "count": 8,
+    "category": "core"
+  },
+  {
     "tag": "ClashMetaForAndroid",
     "count": 8,
     "category": "client"
@@ -100,9 +105,19 @@
     "category": "security"
   },
   {
+    "tag": "QUIC",
+    "count": 8,
+    "category": "security"
+  },
+  {
     "tag": "v2rayNG",
     "count": 7,
     "category": "client"
+  },
+  {
+    "tag": "VLESS",
+    "count": 7,
+    "category": "protocol"
   },
   {
     "tag": "OpenWrt",
@@ -115,14 +130,14 @@
     "category": "ecosystem"
   },
   {
-    "tag": "QUIC",
-    "count": 7,
-    "category": "security"
-  },
-  {
     "tag": "VPN",
     "count": 7,
     "category": "core"
+  },
+  {
+    "tag": "HTTP/2",
+    "count": 7,
+    "category": "client"
   },
   {
     "tag": "domain-list-community",
@@ -133,11 +148,6 @@
     "tag": "SOCKS",
     "count": 6,
     "category": "client"
-  },
-  {
-    "tag": "VLESS",
-    "count": 6,
-    "category": "protocol"
   },
   {
     "tag": "Mihomo",
@@ -180,17 +190,7 @@
     "category": "core"
   },
   {
-    "tag": "Xray-core",
-    "count": 6,
-    "category": "core"
-  },
-  {
     "tag": "rust",
-    "count": 6,
-    "category": "core"
-  },
-  {
-    "tag": "HTTP/2",
     "count": 6,
     "category": "core"
   },
@@ -300,6 +300,11 @@
     "category": "protocol"
   },
   {
+    "tag": "metacubexd",
+    "count": 4,
+    "category": "core"
+  },
+  {
     "tag": "meta-rules-dat",
     "count": 4,
     "category": "ecosystem"
@@ -360,6 +365,16 @@
     "category": "client"
   },
   {
+    "tag": "VMess",
+    "count": 4,
+    "category": "client"
+  },
+  {
+    "tag": "用户界面",
+    "count": 3,
+    "category": "core"
+  },
+  {
     "tag": "用户体验",
     "count": 3,
     "category": "client"
@@ -383,11 +398,6 @@
     "tag": "Docker",
     "count": 3,
     "category": "core"
-  },
-  {
-    "tag": "metacubexd",
-    "count": 3,
-    "category": "ecosystem"
   },
   {
     "tag": "CI",
@@ -445,11 +455,6 @@
     "category": "client"
   },
   {
-    "tag": "VMess",
-    "count": 3,
-    "category": "protocol"
-  },
-  {
     "tag": "Surge",
     "count": 3,
     "category": "ecosystem"
@@ -481,11 +486,6 @@
   },
   {
     "tag": "TinyTun",
-    "count": 2,
-    "category": "client"
-  },
-  {
-    "tag": "用户界面",
     "count": 2,
     "category": "client"
   },
@@ -603,6 +603,16 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "连接",
+    "count": 1,
+    "category": "core"
+  },
+  {
+    "tag": "功能增强",
+    "count": 1,
+    "category": "core"
   },
   {
     "tag": "快捷方式",
