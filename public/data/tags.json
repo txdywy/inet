@@ -5,19 +5,19 @@
     "category": "client"
   },
   {
-    "tag": "Windows",
+    "tag": "网络代理",
     "count": 18,
     "category": "client"
   },
   {
-    "tag": "网络代理",
-    "count": 17,
-    "category": "client"
+    "tag": "MetaCubeX",
+    "count": 18,
+    "category": "ecosystem"
   },
   {
-    "tag": "MetaCubeX",
-    "count": 16,
-    "category": "ecosystem"
+    "tag": "Windows",
+    "count": 18,
+    "category": "client"
   },
   {
     "tag": "Linux",
@@ -40,6 +40,11 @@
     "category": "core"
   },
   {
+    "tag": "v2ray",
+    "count": 10,
+    "category": "ecosystem"
+  },
+  {
     "tag": "macOS",
     "count": 10,
     "category": "client"
@@ -55,12 +60,17 @@
     "category": "core"
   },
   {
-    "tag": "v2fly",
+    "tag": "开源",
     "count": 9,
-    "category": "ecosystem"
+    "category": "client"
   },
   {
-    "tag": "v2ray",
+    "tag": "Sub-Store",
+    "count": 9,
+    "category": "client"
+  },
+  {
+    "tag": "v2fly",
     "count": 9,
     "category": "ecosystem"
   },
@@ -70,14 +80,14 @@
     "category": "client"
   },
   {
+    "tag": "mihomo",
+    "count": 9,
+    "category": "core"
+  },
+  {
     "tag": "TUN",
     "count": 8,
     "category": "client"
-  },
-  {
-    "tag": "开源",
-    "count": 8,
-    "category": "ecosystem"
   },
   {
     "tag": "Hysteria",
@@ -85,19 +95,9 @@
     "category": "security"
   },
   {
-    "tag": "mihomo",
-    "count": 8,
-    "category": "core"
-  },
-  {
     "tag": "ClashMetaForAndroid",
     "count": 7,
     "category": "client"
-  },
-  {
-    "tag": "Sub-Store",
-    "count": 7,
-    "category": "ecosystem"
   },
   {
     "tag": "OpenWrt",
@@ -113,6 +113,21 @@
     "tag": "VPN",
     "count": 7,
     "category": "core"
+  },
+  {
+    "tag": "v2rayNG",
+    "count": 6,
+    "category": "client"
+  },
+  {
+    "tag": "Mihomo",
+    "count": 6,
+    "category": "protocol"
+  },
+  {
+    "tag": "Loyalsoldier",
+    "count": 6,
+    "category": "ecosystem"
   },
   {
     "tag": "v2rayN",
@@ -145,6 +160,11 @@
     "category": "core"
   },
   {
+    "tag": "QUIC",
+    "count": 6,
+    "category": "security"
+  },
+  {
     "tag": "Xray-core",
     "count": 6,
     "category": "core"
@@ -155,19 +175,19 @@
     "category": "core"
   },
   {
+    "tag": "VLESS",
+    "count": 5,
+    "category": "protocol"
+  },
+  {
+    "tag": "rules",
+    "count": 5,
+    "category": "ecosystem"
+  },
+  {
     "tag": "代理",
     "count": 5,
     "category": "ecosystem"
-  },
-  {
-    "tag": "Loyalsoldier",
-    "count": 5,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "Mihomo",
-    "count": 5,
-    "category": "client"
   },
   {
     "tag": "3x-ui",
@@ -176,11 +196,6 @@
   },
   {
     "tag": "v2rayA",
-    "count": 5,
-    "category": "client"
-  },
-  {
-    "tag": "v2rayNG",
     "count": 5,
     "category": "client"
   },
@@ -208,11 +223,6 @@
     "tag": "CloudflareSpeedTest",
     "count": 5,
     "category": "client"
-  },
-  {
-    "tag": "QUIC",
-    "count": 5,
-    "category": "security"
   },
   {
     "tag": "go-gost",
@@ -265,6 +275,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "HTTP/2",
+    "count": 5,
+    "category": "protocol"
+  },
+  {
     "tag": "subconverter",
     "count": 5,
     "category": "ecosystem"
@@ -280,7 +295,7 @@
     "category": "protocol"
   },
   {
-    "tag": "rules",
+    "tag": "meta-rules-dat",
     "count": 4,
     "category": "ecosystem"
   },
@@ -291,11 +306,6 @@
   },
   {
     "tag": "v2ray-agent",
-    "count": 4,
-    "category": "client"
-  },
-  {
-    "tag": "VLESS",
     "count": 4,
     "category": "client"
   },
@@ -345,17 +355,7 @@
     "category": "client"
   },
   {
-    "tag": "HTTP/2",
-    "count": 4,
-    "category": "client"
-  },
-  {
     "tag": "配置管理",
-    "count": 3,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "meta-rules-dat",
     "count": 3,
     "category": "ecosystem"
   },
@@ -435,6 +435,11 @@
     "category": "client"
   },
   {
+    "tag": "VMess",
+    "count": 3,
+    "category": "protocol"
+  },
+  {
     "tag": "Surge",
     "count": 3,
     "category": "ecosystem"
@@ -443,6 +448,11 @@
     "tag": "protocol",
     "count": 3,
     "category": "protocol"
+  },
+  {
+    "tag": "Shadowrocket",
+    "count": 2,
+    "category": "client"
   },
   {
     "tag": "GitHub",
@@ -580,11 +590,6 @@
     "category": "core"
   },
   {
-    "tag": "VMess",
-    "count": 2,
-    "category": "client"
-  },
-  {
     "tag": "命令行工具",
     "count": 2,
     "category": "ecosystem"
@@ -598,6 +603,26 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "V2Ray",
+    "count": 1,
+    "category": "client"
+  },
+  {
+    "tag": "trusttunnel",
+    "count": 1,
+    "category": "client"
+  },
+  {
+    "tag": "XHTTP",
+    "count": 1,
+    "category": "client"
+  },
+  {
+    "tag": "ECH",
+    "count": 1,
+    "category": "protocol"
   },
   {
     "tag": "预发布",
@@ -698,11 +723,6 @@
     "tag": "xray-core",
     "count": 1,
     "category": "core"
-  },
-  {
-    "tag": "Shadowrocket",
-    "count": 1,
-    "category": "client"
   },
   {
     "tag": "加密协议",

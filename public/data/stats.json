@@ -1,29 +1,37 @@
 {
-  "totalItems": 189,
-  "last24h": 9,
-  "last7d": 37,
+  "totalItems": 195,
+  "last24h": 10,
+  "last7d": 42,
   "byCategory": {
     "core": 50,
-    "client": 62,
+    "client": 64,
     "router": 0,
-    "protocol": 7,
+    "protocol": 9,
     "dns_rules": 0,
     "security": 4,
-    "ecosystem": 66,
+    "ecosystem": 68,
     "trend": 0
   },
   "topProjects": [
     {
+      "project": "Sub-Store",
+      "count": 9
+    },
+    {
       "project": "mihomo",
-      "count": 8
+      "count": 9
+    },
+    {
+      "project": "v2ray-rules-dat",
+      "count": 7
     },
     {
       "project": "ClashMetaForAndroid",
       "count": 7
     },
     {
-      "project": "Sub-Store",
-      "count": 7
+      "project": "v2rayNG",
+      "count": 6
     },
     {
       "project": "v2rayN",
@@ -38,19 +46,11 @@
       "count": 6
     },
     {
-      "project": "v2ray-rules-dat",
-      "count": 6
-    },
-    {
       "project": "openwrt",
       "count": 6
     },
     {
       "project": "clash-verge-rev",
-      "count": 5
-    },
-    {
-      "project": "3x-ui",
       "count": 5
     }
   ],
@@ -60,16 +60,16 @@
       "count": 20
     },
     {
-      "tag": "Windows",
+      "tag": "网络代理",
       "count": 18
     },
     {
-      "tag": "网络代理",
-      "count": 17
+      "tag": "MetaCubeX",
+      "count": 18
     },
     {
-      "tag": "MetaCubeX",
-      "count": 16
+      "tag": "Windows",
+      "count": 18
     },
     {
       "tag": "Linux",
@@ -88,6 +88,10 @@
       "count": 12
     },
     {
+      "tag": "v2ray",
+      "count": 10
+    },
+    {
       "tag": "macOS",
       "count": 10
     },
@@ -100,11 +104,15 @@
       "count": 10
     },
     {
-      "tag": "v2fly",
+      "tag": "开源",
       "count": 9
     },
     {
-      "tag": "v2ray",
+      "tag": "Sub-Store",
+      "count": 9
+    },
+    {
+      "tag": "v2fly",
       "count": 9
     },
     {
@@ -112,11 +120,11 @@
       "count": 9
     },
     {
-      "tag": "TUN",
-      "count": 8
+      "tag": "mihomo",
+      "count": 9
     },
     {
-      "tag": "开源",
+      "tag": "TUN",
       "count": 8
     },
     {
@@ -124,20 +132,12 @@
       "count": 8
     },
     {
-      "tag": "mihomo",
-      "count": 8
-    },
-    {
       "tag": "ClashMetaForAndroid",
-      "count": 7
-    },
-    {
-      "tag": "Sub-Store",
       "count": 7
     }
   ],
-  "importantCount": 85,
+  "importantCount": 87,
   "breakingCount": 22,
   "securityCount": 14,
-  "updatedAt": "2026-05-08T19:44:55.066Z"
+  "updatedAt": "2026-05-09T03:59:42.252Z"
 }
