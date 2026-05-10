@@ -51,6 +51,22 @@
     ]
   },
   {
+    "slug": "naiveproxy",
+    "name": "naiveproxy",
+    "repo": "klzgrad/naiveproxy",
+    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
+    "category": "core",
+    "platforms": [
+      "linux",
+      "windows",
+      "macos",
+      "android"
+    ],
+    "tags": [
+      "naiveproxy"
+    ]
+  },
+  {
     "slug": "v2rayng",
     "name": "v2rayNG",
     "repo": "2dust/v2rayNG",
@@ -117,19 +133,19 @@
     ]
   },
   {
-    "slug": "naiveproxy",
-    "name": "naiveproxy",
-    "repo": "klzgrad/naiveproxy",
+    "slug": "hysteria",
+    "name": "hysteria",
+    "repo": "apernet/hysteria",
     "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
     "category": "core",
     "platforms": [
       "linux",
       "windows",
-      "macos",
-      "android"
+      "macos"
     ],
     "tags": [
-      "naiveproxy"
+      "hysteria2",
+      "quic"
     ]
   },
   {
@@ -145,22 +161,6 @@
       "v2rayn",
       "windows",
       "xray-core"
-    ]
-  },
-  {
-    "slug": "hysteria",
-    "name": "hysteria",
-    "repo": "apernet/hysteria",
-    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
-    "category": "core",
-    "platforms": [
-      "linux",
-      "windows",
-      "macos"
-    ],
-    "tags": [
-      "hysteria2",
-      "quic"
     ]
   },
   {
@@ -192,6 +192,21 @@
     ],
     "tags": [
       "openwrt"
+    ]
+  },
+  {
+    "slug": "3x-ui",
+    "name": "3x-ui",
+    "repo": "MHSanaei/3x-ui",
+    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
+    "category": "ecosystem",
+    "platforms": [
+      "linux"
+    ],
+    "tags": [
+      "x-ui",
+      "panel",
+      "xray-core"
     ]
   },
   {
@@ -506,21 +521,6 @@
       "tailscale",
       "wireguard",
       "mesh"
-    ]
-  },
-  {
-    "slug": "3x-ui",
-    "name": "3x-ui",
-    "repo": "MHSanaei/3x-ui",
-    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
-    "category": "ecosystem",
-    "platforms": [
-      "linux"
-    ],
-    "tags": [
-      "x-ui",
-      "panel",
-      "xray-core"
     ]
   },
   {

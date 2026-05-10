@@ -65,6 +65,16 @@
     "category": "core"
   },
   {
+    "tag": "Hysteria",
+    "count": 10,
+    "category": "core"
+  },
+  {
+    "tag": "Sub-Store",
+    "count": 10,
+    "category": "ecosystem"
+  },
+  {
     "tag": "macOS",
     "count": 10,
     "category": "client"
@@ -75,17 +85,7 @@
     "category": "client"
   },
   {
-    "tag": "Hysteria",
-    "count": 9,
-    "category": "core"
-  },
-  {
     "tag": "开源",
-    "count": 9,
-    "category": "client"
-  },
-  {
-    "tag": "Sub-Store",
     "count": 9,
     "category": "client"
   },
@@ -96,6 +96,11 @@
   },
   {
     "tag": "v2rayNG",
+    "count": 8,
+    "category": "client"
+  },
+  {
+    "tag": "naiveproxy",
     "count": 8,
     "category": "client"
   },
@@ -130,11 +135,6 @@
     "category": "client"
   },
   {
-    "tag": "naiveproxy",
-    "count": 7,
-    "category": "ecosystem"
-  },
-  {
     "tag": "domain-list-community",
     "count": 7,
     "category": "dns_rules"
@@ -167,6 +167,11 @@
   {
     "tag": "HTTP/2",
     "count": 7,
+    "category": "client"
+  },
+  {
+    "tag": "3x-ui",
+    "count": 6,
     "category": "client"
   },
   {
@@ -218,11 +223,6 @@
     "tag": "代理",
     "count": 5,
     "category": "ecosystem"
-  },
-  {
-    "tag": "3x-ui",
-    "count": 5,
-    "category": "core"
   },
   {
     "tag": "v2rayA",
@@ -470,9 +470,29 @@
     "category": "protocol"
   },
   {
+    "tag": "NAT",
+    "count": 2,
+    "category": "core"
+  },
+  {
+    "tag": "P2P",
+    "count": 2,
+    "category": "core"
+  },
+  {
+    "tag": "WebSocket",
+    "count": 2,
+    "category": "client"
+  },
+  {
     "tag": "配置文件",
     "count": 2,
     "category": "core"
+  },
+  {
+    "tag": "崩溃修复",
+    "count": 2,
+    "category": "client"
   },
   {
     "tag": "debug",
@@ -615,6 +635,41 @@
     "category": "security"
   },
   {
+    "tag": "自签名证书",
+    "count": 1,
+    "category": "core"
+  },
+  {
+    "tag": "Vue 3",
+    "count": 1,
+    "category": "client"
+  },
+  {
+    "tag": "Ant Design Vue",
+    "count": 1,
+    "category": "client"
+  },
+  {
+    "tag": "多节点部署",
+    "count": 1,
+    "category": "client"
+  },
+  {
+    "tag": "安全性",
+    "count": 1,
+    "category": "client"
+  },
+  {
+    "tag": "GitHub API",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "超时配置",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
     "tag": "MTU",
     "count": 1,
     "category": "core"
@@ -625,14 +680,9 @@
     "category": "ecosystem"
   },
   {
-    "tag": "NAT",
+    "tag": "preamble",
     "count": 1,
-    "category": "core"
-  },
-  {
-    "tag": "P2P",
-    "count": 1,
-    "category": "core"
+    "category": "client"
   },
   {
     "tag": "网络连接",
@@ -1005,11 +1055,6 @@
     "category": "client"
   },
   {
-    "tag": "崩溃修复",
-    "count": 1,
-    "category": "client"
-  },
-  {
     "tag": "CI优化",
     "count": 1,
     "category": "client"
@@ -1141,11 +1186,6 @@
   },
   {
     "tag": "信任隧道",
-    "count": 1,
-    "category": "core"
-  },
-  {
-    "tag": "WebSocket",
     "count": 1,
     "category": "core"
   },
