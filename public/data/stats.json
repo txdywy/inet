@@ -1,33 +1,41 @@
 {
-  "totalItems": 206,
-  "last24h": 13,
-  "last7d": 49,
+  "totalItems": 211,
+  "last24h": 12,
+  "last7d": 52,
   "byCategory": {
-    "core": 54,
+    "core": 55,
     "client": 67,
     "router": 0,
     "protocol": 9,
-    "dns_rules": 0,
+    "dns_rules": 1,
     "security": 4,
-    "ecosystem": 72,
+    "ecosystem": 75,
     "trend": 0
   },
   "topProjects": [
     {
-      "project": "mihomo",
+      "project": "domain-list-community",
       "count": 11
     },
     {
-      "project": "domain-list-community",
-      "count": 10
+      "project": "mihomo",
+      "count": 11
     },
     {
       "project": "Sub-Store",
       "count": 9
     },
     {
+      "project": "v2ray-rules-dat",
+      "count": 8
+    },
+    {
       "project": "ClashMetaForAndroid",
       "count": 8
+    },
+    {
+      "project": "naiveproxy",
+      "count": 7
     },
     {
       "project": "Xray-core",
@@ -38,30 +46,22 @@
       "count": 7
     },
     {
-      "project": "v2ray-rules-dat",
-      "count": 7
+      "project": "hysteria",
+      "count": 6
     },
     {
       "project": "metacubexd",
-      "count": 6
-    },
-    {
-      "project": "v2rayN",
-      "count": 6
-    },
-    {
-      "project": "naiveproxy",
       "count": 6
     }
   ],
   "hotTags": [
     {
-      "tag": "Android",
+      "tag": "MetaCubeX",
       "count": 22
     },
     {
-      "tag": "MetaCubeX",
-      "count": 21
+      "tag": "Android",
+      "count": 22
     },
     {
       "tag": "网络代理",
@@ -76,12 +76,12 @@
       "count": 15
     },
     {
-      "tag": "Linux",
+      "tag": "v2fly",
       "count": 14
     },
     {
-      "tag": "v2fly",
-      "count": 13
+      "tag": "Linux",
+      "count": 14
     },
     {
       "tag": "sing-box",
@@ -96,6 +96,10 @@
       "count": 12
     },
     {
+      "tag": "v2ray",
+      "count": 11
+    },
+    {
       "tag": "Xray",
       "count": 11
     },
@@ -104,12 +108,12 @@
       "count": 11
     },
     {
-      "tag": "v2ray",
+      "tag": "macOS",
       "count": 10
     },
     {
-      "tag": "macOS",
-      "count": 10
+      "tag": "Hysteria",
+      "count": 9
     },
     {
       "tag": "开源",
@@ -130,14 +134,10 @@
     {
       "tag": "ClashMetaForAndroid",
       "count": 8
-    },
-    {
-      "tag": "TUN",
-      "count": 8
     }
   ],
-  "importantCount": 90,
+  "importantCount": 91,
   "breakingCount": 22,
   "securityCount": 14,
-  "updatedAt": "2026-05-09T19:21:52.132Z"
+  "updatedAt": "2026-05-10T04:18:48.818Z"
 }

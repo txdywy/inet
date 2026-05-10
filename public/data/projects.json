@@ -66,6 +66,23 @@
     ]
   },
   {
+    "slug": "v2ray-rules-dat",
+    "name": "v2ray-rules-dat",
+    "repo": "Loyalsoldier/v2ray-rules-dat",
+    "description": "DNS 解析、规则集、分流策略",
+    "category": "dns_rules",
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "tags": [
+      "ruleset",
+      "geosite",
+      "geoip"
+    ]
+  },
+  {
     "slug": "xray-core",
     "name": "Xray-core",
     "repo": "XTLS/Xray-core",
@@ -85,6 +102,22 @@
     ]
   },
   {
+    "slug": "naiveproxy",
+    "name": "naiveproxy",
+    "repo": "klzgrad/naiveproxy",
+    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
+    "category": "core",
+    "platforms": [
+      "linux",
+      "windows",
+      "macos",
+      "android"
+    ],
+    "tags": [
+      "naiveproxy"
+    ]
+  },
+  {
     "slug": "v2rayng",
     "name": "v2rayNG",
     "repo": "2dust/v2rayNG",
@@ -100,36 +133,19 @@
     ]
   },
   {
-    "slug": "v2ray-rules-dat",
-    "name": "v2ray-rules-dat",
-    "repo": "Loyalsoldier/v2ray-rules-dat",
-    "description": "DNS 解析、规则集、分流策略",
-    "category": "dns_rules",
+    "slug": "hysteria",
+    "name": "hysteria",
+    "repo": "apernet/hysteria",
+    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
+    "category": "core",
     "platforms": [
       "linux",
       "windows",
       "macos"
     ],
     "tags": [
-      "ruleset",
-      "geosite",
-      "geoip"
-    ]
-  },
-  {
-    "slug": "naiveproxy",
-    "name": "naiveproxy",
-    "repo": "klzgrad/naiveproxy",
-    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
-    "category": "core",
-    "platforms": [
-      "linux",
-      "windows",
-      "macos",
-      "android"
-    ],
-    "tags": [
-      "naiveproxy"
+      "hysteria2",
+      "quic"
     ]
   },
   {
@@ -210,22 +226,6 @@
     "tags": [
       "v2ray-core",
       "vless"
-    ]
-  },
-  {
-    "slug": "hysteria",
-    "name": "hysteria",
-    "repo": "apernet/hysteria",
-    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
-    "category": "core",
-    "platforms": [
-      "linux",
-      "windows",
-      "macos"
-    ],
-    "tags": [
-      "hysteria2",
-      "quic"
     ]
   },
   {
@@ -557,21 +557,6 @@
     ]
   },
   {
-    "slug": "v2ray-agent",
-    "name": "v2ray-agent",
-    "repo": "mack-a/v2ray-agent",
-    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
-    "category": "ecosystem",
-    "platforms": [
-      "linux"
-    ],
-    "tags": [
-      "v2ray-agent",
-      "script",
-      "vps"
-    ]
-  },
-  {
     "slug": "meta-rules-dat",
     "name": "meta-rules-dat",
     "repo": "MetaCubeX/meta-rules-dat",
@@ -587,6 +572,21 @@
       "geosite",
       "geoip",
       "mihomo"
+    ]
+  },
+  {
+    "slug": "v2ray-agent",
+    "name": "v2ray-agent",
+    "repo": "mack-a/v2ray-agent",
+    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
+    "category": "ecosystem",
+    "platforms": [
+      "linux"
+    ],
+    "tags": [
+      "v2ray-agent",
+      "script",
+      "vps"
     ]
   },
   {
