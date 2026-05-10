@@ -1,21 +1,21 @@
 {
-  "totalItems": 212,
-  "last24h": 9,
+  "totalItems": 215,
+  "last24h": 11,
   "last7d": 53,
   "byCategory": {
-    "core": 55,
-    "client": 68,
+    "core": 56,
+    "client": 69,
     "router": 0,
     "protocol": 9,
     "dns_rules": 1,
     "security": 4,
-    "ecosystem": 75,
+    "ecosystem": 76,
     "trend": 0
   },
   "topProjects": [
     {
       "project": "domain-list-community",
-      "count": 11
+      "count": 12
     },
     {
       "project": "mihomo",
@@ -38,6 +38,10 @@
       "count": 8
     },
     {
+      "project": "v2rayN",
+      "count": 7
+    },
+    {
       "project": "naiveproxy",
       "count": 7
     },
@@ -46,11 +50,7 @@
       "count": 7
     },
     {
-      "project": "hysteria",
-      "count": 6
-    },
-    {
-      "project": "metacubexd",
+      "project": "sudoku",
       "count": 6
     }
   ],
@@ -64,20 +64,20 @@
       "count": 22
     },
     {
-      "tag": "网络代理",
-      "count": 18
+      "tag": "Windows",
+      "count": 19
     },
     {
-      "tag": "Windows",
-      "count": 18
+      "tag": "网络代理",
+      "count": 19
+    },
+    {
+      "tag": "v2fly",
+      "count": 15
     },
     {
       "tag": "代理工具",
       "count": 15
-    },
-    {
-      "tag": "v2fly",
-      "count": 14
     },
     {
       "tag": "Linux",
@@ -112,6 +112,10 @@
       "count": 10
     },
     {
+      "tag": "TUN",
+      "count": 9
+    },
+    {
       "tag": "Hysteria",
       "count": 9
     },
@@ -130,14 +134,10 @@
     {
       "tag": "v2rayNG",
       "count": 8
-    },
-    {
-      "tag": "Xray-core",
-      "count": 8
     }
   ],
-  "importantCount": 92,
-  "breakingCount": 22,
+  "importantCount": 93,
+  "breakingCount": 23,
   "securityCount": 14,
-  "updatedAt": "2026-05-10T08:23:22.642Z"
+  "updatedAt": "2026-05-10T13:57:51.768Z"
 }

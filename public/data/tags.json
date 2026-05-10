@@ -10,24 +10,24 @@
     "category": "ecosystem"
   },
   {
-    "tag": "网络代理",
-    "count": 18,
+    "tag": "Windows",
+    "count": 19,
     "category": "client"
   },
   {
-    "tag": "Windows",
-    "count": 18,
+    "tag": "网络代理",
+    "count": 19,
     "category": "client"
+  },
+  {
+    "tag": "v2fly",
+    "count": 15,
+    "category": "ecosystem"
   },
   {
     "tag": "代理工具",
     "count": 15,
     "category": "core"
-  },
-  {
-    "tag": "v2fly",
-    "count": 14,
-    "category": "dns_rules"
   },
   {
     "tag": "Linux",
@@ -70,6 +70,11 @@
     "category": "client"
   },
   {
+    "tag": "TUN",
+    "count": 9,
+    "category": "client"
+  },
+  {
     "tag": "Hysteria",
     "count": 9,
     "category": "core"
@@ -105,14 +110,19 @@
     "category": "client"
   },
   {
-    "tag": "TUN",
-    "count": 8,
-    "category": "client"
-  },
-  {
     "tag": "QUIC",
     "count": 8,
     "category": "security"
+  },
+  {
+    "tag": "v2rayN",
+    "count": 7,
+    "category": "client"
+  },
+  {
+    "tag": "xray",
+    "count": 7,
+    "category": "client"
   },
   {
     "tag": "SOCKS",
@@ -160,6 +170,11 @@
     "category": "client"
   },
   {
+    "tag": "SUDOKU-ASCII",
+    "count": 6,
+    "category": "core"
+  },
+  {
     "tag": "rules",
     "count": 6,
     "category": "ecosystem"
@@ -168,16 +183,6 @@
     "tag": "Mihomo",
     "count": 6,
     "category": "protocol"
-  },
-  {
-    "tag": "v2rayN",
-    "count": 6,
-    "category": "client"
-  },
-  {
-    "tag": "xray",
-    "count": 6,
-    "category": "client"
   },
   {
     "tag": "网络工具",
@@ -197,6 +202,11 @@
   {
     "tag": "rust",
     "count": 6,
+    "category": "core"
+  },
+  {
+    "tag": "sudoku",
+    "count": 5,
     "category": "core"
   },
   {
@@ -250,11 +260,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "SUDOKU-ASCII",
-    "count": 5,
-    "category": "core"
-  },
-  {
     "tag": "OpenClash",
     "count": 5,
     "category": "client"
@@ -305,6 +310,11 @@
     "category": "protocol"
   },
   {
+    "tag": "domain-list",
+    "count": 4,
+    "category": "ecosystem"
+  },
+  {
     "tag": "IPv6",
     "count": 4,
     "category": "client"
@@ -338,11 +348,6 @@
     "tag": "xhttp",
     "count": 4,
     "category": "client"
-  },
-  {
-    "tag": "sudoku",
-    "count": 4,
-    "category": "core"
   },
   {
     "tag": "gRPC",
@@ -393,11 +398,6 @@
     "tag": "用户体验",
     "count": 3,
     "category": "client"
-  },
-  {
-    "tag": "domain-list",
-    "count": 3,
-    "category": "ecosystem"
   },
   {
     "tag": "配置管理",
@@ -468,6 +468,11 @@
     "tag": "protocol",
     "count": 3,
     "category": "protocol"
+  },
+  {
+    "tag": "配置文件",
+    "count": 2,
+    "category": "core"
   },
   {
     "tag": "debug",
@@ -608,6 +613,16 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "MTU",
+    "count": 1,
+    "category": "core"
+  },
+  {
+    "tag": "getwsj.com",
+    "count": 1,
+    "category": "ecosystem"
   },
   {
     "tag": "NAT",
@@ -1523,11 +1538,6 @@
     "tag": "stream",
     "count": 1,
     "category": "protocol"
-  },
-  {
-    "tag": "配置文件",
-    "count": 1,
-    "category": "core"
   },
   {
     "tag": "域名解析",

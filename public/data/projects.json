@@ -1,5 +1,21 @@
 [
   {
+    "slug": "domain-list-community",
+    "name": "domain-list-community",
+    "repo": "v2fly/domain-list-community",
+    "description": "DNS 解析、规则集、分流策略",
+    "category": "dns_rules",
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "tags": [
+      "geosite",
+      "domain-list"
+    ]
+  },
+  {
     "slug": "mihomo",
     "name": "mihomo",
     "repo": "MetaCubeX/mihomo",
@@ -14,22 +30,6 @@
       "mihomo",
       "clash",
       "meta"
-    ]
-  },
-  {
-    "slug": "domain-list-community",
-    "name": "domain-list-community",
-    "repo": "v2fly/domain-list-community",
-    "description": "DNS 解析、规则集、分流策略",
-    "category": "dns_rules",
-    "platforms": [
-      "linux",
-      "windows",
-      "macos"
-    ],
-    "tags": [
-      "geosite",
-      "domain-list"
     ]
   },
   {
@@ -133,6 +133,21 @@
     ]
   },
   {
+    "slug": "v2rayn",
+    "name": "v2rayN",
+    "repo": "2dust/v2rayN",
+    "description": "各平台代理客户端应用",
+    "category": "client",
+    "platforms": [
+      "windows"
+    ],
+    "tags": [
+      "v2rayn",
+      "windows",
+      "xray-core"
+    ]
+  },
+  {
     "slug": "hysteria",
     "name": "hysteria",
     "repo": "apernet/hysteria",
@@ -149,18 +164,20 @@
     ]
   },
   {
-    "slug": "v2rayn",
-    "name": "v2rayN",
-    "repo": "2dust/v2rayN",
-    "description": "各平台代理客户端应用",
-    "category": "client",
+    "slug": "sudoku",
+    "name": "sudoku",
+    "repo": "SUDOKU-ASCII/sudoku",
+    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
+    "category": "core",
     "platforms": [
-      "windows"
+      "linux",
+      "windows",
+      "macos",
+      "android"
     ],
     "tags": [
-      "v2rayn",
-      "windows",
-      "xray-core"
+      "sudoku",
+      "obfuscation"
     ]
   },
   {
@@ -273,23 +290,6 @@
     "tags": [
       "juicity",
       "quic"
-    ]
-  },
-  {
-    "slug": "sudoku",
-    "name": "sudoku",
-    "repo": "SUDOKU-ASCII/sudoku",
-    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
-    "category": "core",
-    "platforms": [
-      "linux",
-      "windows",
-      "macos",
-      "android"
-    ],
-    "tags": [
-      "sudoku",
-      "obfuscation"
     ]
   },
   {
