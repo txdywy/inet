@@ -51,6 +51,21 @@
     ]
   },
   {
+    "slug": "v2rayng",
+    "name": "v2rayNG",
+    "repo": "2dust/v2rayNG",
+    "description": "各平台代理客户端应用",
+    "category": "client",
+    "platforms": [
+      "android"
+    ],
+    "tags": [
+      "v2rayng",
+      "android",
+      "xray-core"
+    ]
+  },
+  {
     "slug": "clashmetaforandroid",
     "name": "ClashMetaForAndroid",
     "repo": "MetaCubeX/ClashMetaForAndroid",
@@ -115,21 +130,6 @@
     ],
     "tags": [
       "naiveproxy"
-    ]
-  },
-  {
-    "slug": "v2rayng",
-    "name": "v2rayNG",
-    "repo": "2dust/v2rayNG",
-    "description": "各平台代理客户端应用",
-    "category": "client",
-    "platforms": [
-      "android"
-    ],
-    "tags": [
-      "v2rayng",
-      "android",
-      "xray-core"
     ]
   },
   {

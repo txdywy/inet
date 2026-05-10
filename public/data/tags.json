@@ -1,13 +1,13 @@
 [
   {
+    "tag": "Android",
+    "count": 23,
+    "category": "client"
+  },
+  {
     "tag": "MetaCubeX",
     "count": 22,
     "category": "ecosystem"
-  },
-  {
-    "tag": "Android",
-    "count": 22,
-    "category": "client"
   },
   {
     "tag": "网络代理",
@@ -40,6 +40,11 @@
     "category": "core"
   },
   {
+    "tag": "Xray",
+    "count": 12,
+    "category": "client"
+  },
+  {
     "tag": "网络协议",
     "count": 12,
     "category": "core"
@@ -53,11 +58,6 @@
     "tag": "v2ray",
     "count": 11,
     "category": "ecosystem"
-  },
-  {
-    "tag": "Xray",
-    "count": 11,
-    "category": "client"
   },
   {
     "tag": "mihomo",
@@ -90,6 +90,11 @@
     "category": "client"
   },
   {
+    "tag": "v2rayNG",
+    "count": 8,
+    "category": "client"
+  },
+  {
     "tag": "Xray-core",
     "count": 8,
     "category": "core"
@@ -110,6 +115,11 @@
     "category": "security"
   },
   {
+    "tag": "SOCKS",
+    "count": 7,
+    "category": "client"
+  },
+  {
     "tag": "naiveproxy",
     "count": 7,
     "category": "ecosystem"
@@ -123,11 +133,6 @@
     "tag": "Loyalsoldier",
     "count": 7,
     "category": "ecosystem"
-  },
-  {
-    "tag": "v2rayNG",
-    "count": 7,
-    "category": "client"
   },
   {
     "tag": "VLESS",
@@ -158,11 +163,6 @@
     "tag": "rules",
     "count": 6,
     "category": "ecosystem"
-  },
-  {
-    "tag": "SOCKS",
-    "count": 6,
-    "category": "client"
   },
   {
     "tag": "Mihomo",
@@ -305,6 +305,11 @@
     "category": "protocol"
   },
   {
+    "tag": "IPv6",
+    "count": 4,
+    "category": "client"
+  },
+  {
     "tag": "dat",
     "count": 4,
     "category": "ecosystem"
@@ -413,11 +418,6 @@
     "tag": "持续集成",
     "count": 3,
     "category": "ecosystem"
-  },
-  {
-    "tag": "IPv6",
-    "count": 3,
-    "category": "client"
   },
   {
     "tag": "NaiveProxy",

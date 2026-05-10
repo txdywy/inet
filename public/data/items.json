@@ -1,5 +1,41 @@
 [
   {
+    "id": "0aeb7748e80db7b0",
+    "title": "2.1.7",
+    "summary": "v2rayNG 2.1.7 更新了多项功能，包括本地 SOCKS 用户名/密码支持和动态端口选项，增强了路由功能。",
+    "analysis": "本次 v2rayNG 2.1.7 更新引入了多项新功能，特别是对本地 SOCKS 代理的支持，允许用户设置用户名和密码，这在安全性和灵活性上都有所提升。此外，动态本地 SOCKS 端口选项和基于进程的路由支持为用户提供了更大的配置自由度，尤其是在 Android 10 及以上版本中。更新还包括对 IPv6 的支持和链式代理功能，这对于需要复杂网络配置的用户来说非常重要。虽然更新中修复了一些问题，但用户在使用新功能时仍需注意与现有配置的兼容性，特别是在使用 Xray 的 TUN 模式时。总体来看，此次更新对用户体验有显著提升，建议用户尽快更新以享受新功能和改进。",
+    "rawTitle": "2.1.7",
+    "rawBody": "### 本次更新\r\n\r\n- 添加本地 SOCKS 用户名/密码支持\r\n- 添加动态本地 SOCKS 端口选项\r\n- 添加基于进程 (包名) 的路由支持，仅在使用 Xray 的 TUN、开启 routeOnly 且 Android 10+ 时可用\r\n- 添加支持路由中的出站可选别名，即支持分流到不同的服务器，请使用 Xray 的 TUN\r\n- 添加启动器快捷方式以启动/停止服务\r\n- 添加启用 IPv6 选项，区别 IPv6  优先\r\n- 增加路由包名可视化选择\r\n- 修复了一些问题\r\n- 添加 KCP  MTU and TTI  https://github.com/2dust/v2rayNG/pull/5539\r\n- 添加关闭本地代理或关闭 SOCKS5 中的 UDP 功能的选项  https://github.com/2dust/v2rayNG/pull/5548\r\n- 改进后台更新订阅 https://github.com/2dust/v2rayNG/pull/5567\r\n- 添加链式代理\r\n- 添加真连接延迟测试并发数量选项\r\n- 添加 Browser Dialer  https://github.com/2dust/v2rayNG/pull/5579\r\n- https://github.com/XTLS/Xray-core/releases/tag/v26.5.9",
+    "sourceType": "github_release",
+    "sourceName": "2dust/v2rayNG",
+    "sourceUrl": "https://github.com/2dust/v2rayNG/releases/tag/2.1.7",
+    "project": "v2rayNG",
+    "repo": "2dust/v2rayNG",
+    "slug": "v2rayng",
+    "version": "2.1.7",
+    "category": "client",
+    "tags": [
+      "v2rayNG",
+      "SOCKS",
+      "Xray",
+      "Android",
+      "IPv6"
+    ],
+    "platforms": [
+      "android"
+    ],
+    "importance": 4,
+    "confidence": 0.9,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-05-10T06:23:46Z",
+    "fetchedAt": "2026-05-10T08:23:09.678Z",
+    "firstSeenAt": "2026-05-10T08:23:22.204Z",
+    "updatedAt": "2026-05-10T08:23:22.204Z",
+    "hash": "0aeb7748e80db7b0"
+  },
+  {
     "id": "1eb58901eaf06d5f",
     "title": "v148.0.7778.96-5",
     "summary": "naiveproxy 发布了 v148.0.7778.96-5 版本，主要为调试版本。",
