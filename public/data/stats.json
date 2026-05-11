@@ -1,10 +1,10 @@
 {
-  "totalItems": 223,
-  "last24h": 11,
-  "last7d": 59,
+  "totalItems": 224,
+  "last24h": 9,
+  "last7d": 58,
   "byCategory": {
     "core": 57,
-    "client": 71,
+    "client": 72,
     "router": 0,
     "protocol": 9,
     "dns_rules": 1,
@@ -23,7 +23,7 @@
     },
     {
       "project": "mihomo",
-      "count": 11
+      "count": 12
     },
     {
       "project": "v2ray-rules-dat",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 23
+      "count": 24
     },
     {
       "tag": "Android",
@@ -109,7 +109,7 @@
     },
     {
       "tag": "mihomo",
-      "count": 11
+      "count": 12
     },
     {
       "tag": "Hysteria",
@@ -132,12 +132,12 @@
       "count": 9
     },
     {
-      "tag": "Loyalsoldier",
-      "count": 8
+      "tag": "QUIC",
+      "count": 9
     }
   ],
   "importantCount": 95,
   "breakingCount": 24,
   "securityCount": 15,
-  "updatedAt": "2026-05-11T04:39:27.548Z"
+  "updatedAt": "2026-05-11T10:01:51.902Z"
 }

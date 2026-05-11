@@ -1,7 +1,7 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 23,
+    "count": 24,
     "category": "ecosystem"
   },
   {
@@ -66,7 +66,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 11,
+    "count": 12,
     "category": "core"
   },
   {
@@ -95,6 +95,11 @@
     "category": "client"
   },
   {
+    "tag": "QUIC",
+    "count": 9,
+    "category": "security"
+  },
+  {
     "tag": "Loyalsoldier",
     "count": 8,
     "category": "ecosystem"
@@ -120,9 +125,14 @@
     "category": "client"
   },
   {
-    "tag": "QUIC",
+    "tag": "VLESS",
     "count": 8,
-    "category": "security"
+    "category": "protocol"
+  },
+  {
+    "tag": "HTTP/2",
+    "count": 8,
+    "category": "client"
   },
   {
     "tag": "rules",
@@ -150,11 +160,6 @@
     "category": "dns_rules"
   },
   {
-    "tag": "VLESS",
-    "count": 7,
-    "category": "protocol"
-  },
-  {
     "tag": "OpenWrt",
     "count": 7,
     "category": "ecosystem"
@@ -168,11 +173,6 @@
     "tag": "VPN",
     "count": 7,
     "category": "core"
-  },
-  {
-    "tag": "HTTP/2",
-    "count": 7,
-    "category": "client"
   },
   {
     "tag": "meta-rules-dat",
@@ -295,6 +295,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "VMess",
+    "count": 5,
+    "category": "client"
+  },
+  {
     "tag": "subconverter",
     "count": 5,
     "category": "ecosystem"
@@ -376,11 +381,6 @@
   },
   {
     "tag": "nekoray",
-    "count": 4,
-    "category": "client"
-  },
-  {
-    "tag": "VMess",
     "count": 4,
     "category": "client"
   },
