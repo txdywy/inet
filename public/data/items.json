@@ -1,5 +1,38 @@
 [
   {
+    "id": "c923ccfb0f42b640",
+    "title": "1.14.0-alpha.22",
+    "summary": "SagerNet/sing-box 1.14.0-alpha.22 更新了 Hysteria Realm 服务，增强了 Hysteria2 的 NAT 穿透支持。",
+    "analysis": "此次更新引入了 Hysteria Realm 服务，旨在改善 Hysteria2 的 NAT 穿透能力。通过新的 `realm` 字段，Hysteria2 服务器可以在 NAT 后注册其 STUN 发现的公共地址，客户端则可以查询该地址以实现 UDP 穿孔，从而建立直接的 QUIC 连接。这一功能对于需要在 NAT 环境中稳定连接的用户尤为重要，能够显著提升网络连接的可靠性和效率。对于开发者而言，这意味着可以更灵活地处理 NAT 环境下的连接问题，提升应用的可用性。此次更新并未提及兼容性风险，但由于是 alpha 版本，用户在生产环境中使用时需谨慎。建议对需要 NAT 穿透的用户尽快更新，以利用新功能。",
+    "rawTitle": "1.14.0-alpha.22",
+    "rawBody": "## :memo: Release Notes\r\n\r\n* Add Hysteria Realm service and Hysteria2 NAT traversal support **1**\r\n* Fixes and improvements\r\n\r\n**1**:\r\n\r\nThe new [Hysteria Realm service](https://sing-box.sagernet.org/configuration/service/hysteria-realm/) is a rendezvous service for Hysteria2 NAT traversal. A Hysteria2 server behind NAT registers its STUN-discovered public addresses on a stable realm endpoint via the new [`realm`](https://sing-box.sagernet.org/configuration/inbound/hysteria2/#realm) inbound field; clients query the realm via the new [`realm`](https://sing-box.sagernet.org/configuration/outbound/hysteria2/#realm) outbound field to learn the server's current addresses and perform UDP hole-punching to establish a direct QUIC connection. Once hole-punching succeeds, all proxy traffic flows directly between client and server.",
+    "sourceType": "github_release",
+    "sourceName": "SagerNet/sing-box",
+    "sourceUrl": "https://github.com/SagerNet/sing-box/releases/tag/v1.14.0-alpha.22",
+    "project": "sing-box",
+    "repo": "SagerNet/sing-box",
+    "slug": "sing-box",
+    "version": "1.14.0-alpha.22",
+    "category": "protocol",
+    "tags": [
+      "SagerNet",
+      "Hysteria",
+      "NAT",
+      "QUIC"
+    ],
+    "platforms": [],
+    "importance": 4,
+    "confidence": 0.9,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2026-05-11T16:42:34Z",
+    "fetchedAt": "2026-05-11T20:02:43.638Z",
+    "firstSeenAt": "2026-05-11T20:03:03.630Z",
+    "updatedAt": "2026-05-11T20:03:03.630Z",
+    "hash": "c923ccfb0f42b640"
+  },
+  {
     "id": "0b6257fb7e1f111b",
     "title": "v1.9.5",
     "summary": "Mihomo Party v1.9.5 更新了内核，新增多项功能和修复了多个兼容性问题，提升了用户体验。",

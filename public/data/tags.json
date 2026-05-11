@@ -71,8 +71,13 @@
   },
   {
     "tag": "Hysteria",
+    "count": 11,
+    "category": "protocol"
+  },
+  {
+    "tag": "QUIC",
     "count": 10,
-    "category": "core"
+    "category": "protocol"
   },
   {
     "tag": "macOS",
@@ -93,11 +98,6 @@
     "tag": "Clash",
     "count": 9,
     "category": "client"
-  },
-  {
-    "tag": "QUIC",
-    "count": 9,
-    "category": "security"
   },
   {
     "tag": "xray",
@@ -180,6 +180,11 @@
     "category": "core"
   },
   {
+    "tag": "SagerNet",
+    "count": 6,
+    "category": "protocol"
+  },
+  {
     "tag": "mihomo-party",
     "count": 6,
     "category": "client"
@@ -238,11 +243,6 @@
     "tag": "v2rayA",
     "count": 5,
     "category": "client"
-  },
-  {
-    "tag": "SagerNet",
-    "count": 5,
-    "category": "core"
   },
   {
     "tag": "网络优化",
@@ -395,6 +395,11 @@
     "category": "client"
   },
   {
+    "tag": "NAT",
+    "count": 3,
+    "category": "protocol"
+  },
+  {
     "tag": "性能优化",
     "count": 3,
     "category": "client"
@@ -498,11 +503,6 @@
     "tag": "Mocha",
     "count": 2,
     "category": "ecosystem"
-  },
-  {
-    "tag": "NAT",
-    "count": 2,
-    "category": "core"
   },
   {
     "tag": "P2P",

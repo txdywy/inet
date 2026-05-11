@@ -179,6 +179,26 @@
     ]
   },
   {
+    "slug": "sing-box",
+    "name": "sing-box",
+    "repo": "SagerNet/sing-box",
+    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
+    "category": "core",
+    "platforms": [
+      "linux",
+      "windows",
+      "macos",
+      "android",
+      "ios"
+    ],
+    "tags": [
+      "sing-box",
+      "vless",
+      "hysteria2",
+      "tuic"
+    ]
+  },
+  {
     "slug": "sudoku",
     "name": "sudoku",
     "repo": "SUDOKU-ASCII/sudoku",
@@ -257,26 +277,6 @@
       "geosite",
       "geoip",
       "mihomo"
-    ]
-  },
-  {
-    "slug": "sing-box",
-    "name": "sing-box",
-    "repo": "SagerNet/sing-box",
-    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
-    "category": "core",
-    "platforms": [
-      "linux",
-      "windows",
-      "macos",
-      "android",
-      "ios"
-    ],
-    "tags": [
-      "sing-box",
-      "vless",
-      "hysteria2",
-      "tuic"
     ]
   },
   {

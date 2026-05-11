@@ -1,12 +1,12 @@
 {
-  "totalItems": 228,
+  "totalItems": 229,
   "last24h": 8,
-  "last7d": 59,
+  "last7d": 60,
   "byCategory": {
     "core": 59,
     "client": 73,
     "router": 0,
-    "protocol": 9,
+    "protocol": 10,
     "dns_rules": 1,
     "security": 4,
     "ecosystem": 82,
@@ -113,6 +113,10 @@
     },
     {
       "tag": "Hysteria",
+      "count": 11
+    },
+    {
+      "tag": "QUIC",
       "count": 10
     },
     {
@@ -130,14 +134,10 @@
     {
       "tag": "Clash",
       "count": 9
-    },
-    {
-      "tag": "QUIC",
-      "count": 9
     }
   ],
-  "importantCount": 97,
+  "importantCount": 98,
   "breakingCount": 24,
   "securityCount": 15,
-  "updatedAt": "2026-05-11T15:40:29.916Z"
+  "updatedAt": "2026-05-11T20:03:03.972Z"
 }
