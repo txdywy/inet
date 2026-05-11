@@ -1,21 +1,21 @@
 [
   {
+    "tag": "MetaCubeX",
+    "count": 23,
+    "category": "ecosystem"
+  },
+  {
     "tag": "Android",
     "count": 23,
     "category": "client"
   },
   {
-    "tag": "MetaCubeX",
-    "count": 22,
+    "tag": "网络代理",
+    "count": 20,
     "category": "ecosystem"
   },
   {
     "tag": "Windows",
-    "count": 19,
-    "category": "client"
-  },
-  {
-    "tag": "网络代理",
     "count": 19,
     "category": "client"
   },
@@ -40,6 +40,16 @@
     "category": "core"
   },
   {
+    "tag": "Sub-Store",
+    "count": 12,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "v2ray",
+    "count": 12,
+    "category": "ecosystem"
+  },
+  {
     "tag": "Xray",
     "count": 12,
     "category": "client"
@@ -55,11 +65,6 @@
     "category": "core"
   },
   {
-    "tag": "v2ray",
-    "count": 11,
-    "category": "ecosystem"
-  },
-  {
     "tag": "mihomo",
     "count": 11,
     "category": "core"
@@ -68,11 +73,6 @@
     "tag": "Hysteria",
     "count": 10,
     "category": "core"
-  },
-  {
-    "tag": "Sub-Store",
-    "count": 10,
-    "category": "ecosystem"
   },
   {
     "tag": "macOS",
@@ -93,6 +93,11 @@
     "tag": "Clash",
     "count": 9,
     "category": "client"
+  },
+  {
+    "tag": "Loyalsoldier",
+    "count": 8,
+    "category": "ecosystem"
   },
   {
     "tag": "v2rayNG",
@@ -120,6 +125,11 @@
     "category": "security"
   },
   {
+    "tag": "rules",
+    "count": 7,
+    "category": "ecosystem"
+  },
+  {
     "tag": "v2rayN",
     "count": 7,
     "category": "client"
@@ -138,11 +148,6 @@
     "tag": "domain-list-community",
     "count": 7,
     "category": "dns_rules"
-  },
-  {
-    "tag": "Loyalsoldier",
-    "count": 7,
-    "category": "ecosystem"
   },
   {
     "tag": "VLESS",
@@ -170,6 +175,11 @@
     "category": "client"
   },
   {
+    "tag": "meta-rules-dat",
+    "count": 6,
+    "category": "ecosystem"
+  },
+  {
     "tag": "3x-ui",
     "count": 6,
     "category": "client"
@@ -178,11 +188,6 @@
     "tag": "SUDOKU-ASCII",
     "count": 6,
     "category": "core"
-  },
-  {
-    "tag": "rules",
-    "count": 6,
-    "category": "ecosystem"
   },
   {
     "tag": "Mihomo",
@@ -213,11 +218,6 @@
     "tag": "sudoku",
     "count": 5,
     "category": "core"
-  },
-  {
-    "tag": "meta-rules-dat",
-    "count": 5,
-    "category": "ecosystem"
   },
   {
     "tag": "代理",
@@ -385,6 +385,11 @@
     "category": "client"
   },
   {
+    "tag": "Gist",
+    "count": 3,
+    "category": "ecosystem"
+  },
+  {
     "tag": "proxy",
     "count": 3,
     "category": "ecosystem"
@@ -468,6 +473,16 @@
     "tag": "protocol",
     "count": 3,
     "category": "protocol"
+  },
+  {
+    "tag": "Node",
+    "count": 2,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "Mocha",
+    "count": 2,
+    "category": "ecosystem"
   },
   {
     "tag": "NAT",
@@ -768,11 +783,6 @@
     "tag": "预发布",
     "count": 1,
     "category": "client"
-  },
-  {
-    "tag": "Gist",
-    "count": 1,
-    "category": "ecosystem"
   },
   {
     "tag": "artifact",

@@ -1,7 +1,7 @@
 {
-  "totalItems": 219,
-  "last24h": 13,
-  "last7d": 56,
+  "totalItems": 223,
+  "last24h": 11,
+  "last7d": 59,
   "byCategory": {
     "core": 57,
     "client": 71,
@@ -9,10 +9,14 @@
     "protocol": 9,
     "dns_rules": 1,
     "security": 4,
-    "ecosystem": 77,
+    "ecosystem": 81,
     "trend": 0
   },
   "topProjects": [
+    {
+      "project": "Sub-Store",
+      "count": 12
+    },
     {
       "project": "domain-list-community",
       "count": 12
@@ -22,8 +26,8 @@
       "count": 11
     },
     {
-      "project": "Sub-Store",
-      "count": 10
+      "project": "v2ray-rules-dat",
+      "count": 9
     },
     {
       "project": "v2rayNG",
@@ -31,10 +35,6 @@
     },
     {
       "project": "naiveproxy",
-      "count": 8
-    },
-    {
-      "project": "v2ray-rules-dat",
       "count": 8
     },
     {
@@ -56,19 +56,19 @@
   ],
   "hotTags": [
     {
+      "tag": "MetaCubeX",
+      "count": 23
+    },
+    {
       "tag": "Android",
       "count": 23
     },
     {
-      "tag": "MetaCubeX",
-      "count": 22
+      "tag": "网络代理",
+      "count": 20
     },
     {
       "tag": "Windows",
-      "count": 19
-    },
-    {
-      "tag": "网络代理",
       "count": 19
     },
     {
@@ -88,6 +88,14 @@
       "count": 13
     },
     {
+      "tag": "Sub-Store",
+      "count": 12
+    },
+    {
+      "tag": "v2ray",
+      "count": 12
+    },
+    {
       "tag": "Xray",
       "count": 12
     },
@@ -100,19 +108,11 @@
       "count": 12
     },
     {
-      "tag": "v2ray",
-      "count": 11
-    },
-    {
       "tag": "mihomo",
       "count": 11
     },
     {
       "tag": "Hysteria",
-      "count": 10
-    },
-    {
-      "tag": "Sub-Store",
       "count": 10
     },
     {
@@ -132,12 +132,12 @@
       "count": 9
     },
     {
-      "tag": "v2rayNG",
+      "tag": "Loyalsoldier",
       "count": 8
     }
   ],
   "importantCount": 95,
   "breakingCount": 24,
   "securityCount": 15,
-  "updatedAt": "2026-05-10T19:22:21.412Z"
+  "updatedAt": "2026-05-11T04:39:27.548Z"
 }

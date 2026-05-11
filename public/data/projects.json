@@ -1,5 +1,23 @@
 [
   {
+    "slug": "sub-store",
+    "name": "Sub-Store",
+    "repo": "sub-store-org/Sub-Store",
+    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
+    "category": "ecosystem",
+    "platforms": [
+      "ios",
+      "android",
+      "macos",
+      "windows",
+      "linux"
+    ],
+    "tags": [
+      "sub-store",
+      "subscription"
+    ]
+  },
+  {
     "slug": "domain-list-community",
     "name": "domain-list-community",
     "repo": "v2fly/domain-list-community",
@@ -33,21 +51,20 @@
     ]
   },
   {
-    "slug": "sub-store",
-    "name": "Sub-Store",
-    "repo": "sub-store-org/Sub-Store",
-    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
-    "category": "ecosystem",
+    "slug": "v2ray-rules-dat",
+    "name": "v2ray-rules-dat",
+    "repo": "Loyalsoldier/v2ray-rules-dat",
+    "description": "DNS 解析、规则集、分流策略",
+    "category": "dns_rules",
     "platforms": [
-      "ios",
-      "android",
-      "macos",
+      "linux",
       "windows",
-      "linux"
+      "macos"
     ],
     "tags": [
-      "sub-store",
-      "subscription"
+      "ruleset",
+      "geosite",
+      "geoip"
     ]
   },
   {
@@ -94,23 +111,6 @@
       "clash",
       "android",
       "mihomo"
-    ]
-  },
-  {
-    "slug": "v2ray-rules-dat",
-    "name": "v2ray-rules-dat",
-    "repo": "Loyalsoldier/v2ray-rules-dat",
-    "description": "DNS 解析、规则集、分流策略",
-    "category": "dns_rules",
-    "platforms": [
-      "linux",
-      "windows",
-      "macos"
-    ],
-    "tags": [
-      "ruleset",
-      "geosite",
-      "geoip"
     ]
   },
   {
@@ -222,6 +222,24 @@
       "dashboard",
       "mihomo",
       "clash"
+    ]
+  },
+  {
+    "slug": "meta-rules-dat",
+    "name": "meta-rules-dat",
+    "repo": "MetaCubeX/meta-rules-dat",
+    "description": "DNS 解析、规则集、分流策略",
+    "category": "dns_rules",
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "tags": [
+      "ruleset",
+      "geosite",
+      "geoip",
+      "mihomo"
     ]
   },
   {
@@ -554,24 +572,6 @@
     "tags": [
       "subconverter",
       "subscription"
-    ]
-  },
-  {
-    "slug": "meta-rules-dat",
-    "name": "meta-rules-dat",
-    "repo": "MetaCubeX/meta-rules-dat",
-    "description": "DNS 解析、规则集、分流策略",
-    "category": "dns_rules",
-    "platforms": [
-      "linux",
-      "windows",
-      "macos"
-    ],
-    "tags": [
-      "ruleset",
-      "geosite",
-      "geoip",
-      "mihomo"
     ]
   },
   {
