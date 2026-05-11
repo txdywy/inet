@@ -164,6 +164,21 @@
     ]
   },
   {
+    "slug": "3x-ui",
+    "name": "3x-ui",
+    "repo": "MHSanaei/3x-ui",
+    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
+    "category": "ecosystem",
+    "platforms": [
+      "linux"
+    ],
+    "tags": [
+      "x-ui",
+      "panel",
+      "xray-core"
+    ]
+  },
+  {
     "slug": "sudoku",
     "name": "sudoku",
     "repo": "SUDOKU-ASCII/sudoku",
@@ -181,6 +196,23 @@
     ]
   },
   {
+    "slug": "mihomo-party",
+    "name": "mihomo-party",
+    "repo": "mihomo-party-org/mihomo-party",
+    "description": "各平台代理客户端应用",
+    "category": "client",
+    "platforms": [
+      "windows",
+      "macos",
+      "linux"
+    ],
+    "tags": [
+      "mihomo-party",
+      "mihomo",
+      "desktop"
+    ]
+  },
+  {
     "slug": "openwrt",
     "name": "openwrt",
     "repo": "openwrt/openwrt",
@@ -192,21 +224,6 @@
     ],
     "tags": [
       "openwrt"
-    ]
-  },
-  {
-    "slug": "3x-ui",
-    "name": "3x-ui",
-    "repo": "MHSanaei/3x-ui",
-    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
-    "category": "ecosystem",
-    "platforms": [
-      "linux"
-    ],
-    "tags": [
-      "x-ui",
-      "panel",
-      "xray-core"
     ]
   },
   {
@@ -452,23 +469,6 @@
       "v2raya",
       "web",
       "transparent-proxy"
-    ]
-  },
-  {
-    "slug": "mihomo-party",
-    "name": "mihomo-party",
-    "repo": "mihomo-party-org/mihomo-party",
-    "description": "各平台代理客户端应用",
-    "category": "client",
-    "platforms": [
-      "windows",
-      "macos",
-      "linux"
-    ],
-    "tags": [
-      "mihomo-party",
-      "mihomo",
-      "desktop"
     ]
   },
   {

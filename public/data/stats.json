@@ -1,28 +1,28 @@
 {
-  "totalItems": 224,
-  "last24h": 9,
-  "last7d": 58,
+  "totalItems": 228,
+  "last24h": 8,
+  "last7d": 59,
   "byCategory": {
-    "core": 57,
-    "client": 72,
+    "core": 59,
+    "client": 73,
     "router": 0,
     "protocol": 9,
     "dns_rules": 1,
     "security": 4,
-    "ecosystem": 81,
+    "ecosystem": 82,
     "trend": 0
   },
   "topProjects": [
     {
       "project": "Sub-Store",
-      "count": 12
-    },
-    {
-      "project": "domain-list-community",
-      "count": 12
+      "count": 13
     },
     {
       "project": "mihomo",
+      "count": 13
+    },
+    {
+      "project": "domain-list-community",
       "count": 12
     },
     {
@@ -42,15 +42,15 @@
       "count": 8
     },
     {
+      "project": "3x-ui",
+      "count": 7
+    },
+    {
       "project": "hysteria",
       "count": 7
     },
     {
       "project": "v2rayN",
-      "count": 7
-    },
-    {
-      "project": "Xray-core",
       "count": 7
     }
   ],
@@ -84,12 +84,16 @@
       "count": 14
     },
     {
+      "tag": "Sub-Store",
+      "count": 13
+    },
+    {
       "tag": "sing-box",
       "count": 13
     },
     {
-      "tag": "Sub-Store",
-      "count": 12
+      "tag": "mihomo",
+      "count": 13
     },
     {
       "tag": "v2ray",
@@ -105,10 +109,6 @@
     },
     {
       "tag": "DNS",
-      "count": 12
-    },
-    {
-      "tag": "mihomo",
       "count": 12
     },
     {
@@ -136,8 +136,8 @@
       "count": 9
     }
   ],
-  "importantCount": 95,
+  "importantCount": 97,
   "breakingCount": 24,
   "securityCount": 15,
-  "updatedAt": "2026-05-11T10:01:51.902Z"
+  "updatedAt": "2026-05-11T15:40:29.916Z"
 }

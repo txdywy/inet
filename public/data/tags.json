@@ -35,14 +35,19 @@
     "category": "ecosystem"
   },
   {
+    "tag": "Sub-Store",
+    "count": 13,
+    "category": "core"
+  },
+  {
     "tag": "sing-box",
     "count": 13,
     "category": "core"
   },
   {
-    "tag": "Sub-Store",
-    "count": 12,
-    "category": "ecosystem"
+    "tag": "mihomo",
+    "count": 13,
+    "category": "core"
   },
   {
     "tag": "v2ray",
@@ -61,11 +66,6 @@
   },
   {
     "tag": "DNS",
-    "count": 12,
-    "category": "core"
-  },
-  {
-    "tag": "mihomo",
     "count": 12,
     "category": "core"
   },
@@ -98,6 +98,11 @@
     "tag": "QUIC",
     "count": 9,
     "category": "security"
+  },
+  {
+    "tag": "xray",
+    "count": 8,
+    "category": "ecosystem"
   },
   {
     "tag": "Loyalsoldier",
@@ -135,17 +140,17 @@
     "category": "client"
   },
   {
+    "tag": "3x-ui",
+    "count": 7,
+    "category": "ecosystem"
+  },
+  {
     "tag": "rules",
     "count": 7,
     "category": "ecosystem"
   },
   {
     "tag": "v2rayN",
-    "count": 7,
-    "category": "client"
-  },
-  {
-    "tag": "xray",
     "count": 7,
     "category": "client"
   },
@@ -175,14 +180,14 @@
     "category": "core"
   },
   {
+    "tag": "mihomo-party",
+    "count": 6,
+    "category": "client"
+  },
+  {
     "tag": "meta-rules-dat",
     "count": 6,
     "category": "ecosystem"
-  },
-  {
-    "tag": "3x-ui",
-    "count": 6,
-    "category": "client"
   },
   {
     "tag": "SUDOKU-ASCII",
@@ -213,6 +218,11 @@
     "tag": "rust",
     "count": 6,
     "category": "core"
+  },
+  {
+    "tag": "用户体验",
+    "count": 5,
+    "category": "client"
   },
   {
     "tag": "sudoku",
@@ -260,12 +270,12 @@
     "category": "ecosystem"
   },
   {
-    "tag": "OpenClash",
+    "tag": "xhttp",
     "count": 5,
     "category": "client"
   },
   {
-    "tag": "mihomo-party",
+    "tag": "OpenClash",
     "count": 5,
     "category": "client"
   },
@@ -350,9 +360,9 @@
     "category": "security"
   },
   {
-    "tag": "xhttp",
+    "tag": "vless",
     "count": 4,
-    "category": "client"
+    "category": "protocol"
   },
   {
     "tag": "gRPC",
@@ -385,6 +395,11 @@
     "category": "client"
   },
   {
+    "tag": "性能优化",
+    "count": 3,
+    "category": "client"
+  },
+  {
     "tag": "Gist",
     "count": 3,
     "category": "ecosystem"
@@ -398,11 +413,6 @@
     "tag": "用户界面",
     "count": 3,
     "category": "core"
-  },
-  {
-    "tag": "用户体验",
-    "count": 3,
-    "category": "client"
   },
   {
     "tag": "配置管理",
@@ -428,11 +438,6 @@
     "tag": "NaiveProxy",
     "count": 3,
     "category": "client"
-  },
-  {
-    "tag": "vless",
-    "count": 3,
-    "category": "protocol"
   },
   {
     "tag": "BBR",
@@ -473,6 +478,16 @@
     "tag": "protocol",
     "count": 3,
     "category": "protocol"
+  },
+  {
+    "tag": "API",
+    "count": 2,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "AnyTLS",
+    "count": 2,
+    "category": "core"
   },
   {
     "tag": "Node",
@@ -565,11 +580,6 @@
     "category": "client"
   },
   {
-    "tag": "性能优化",
-    "count": 2,
-    "category": "ecosystem"
-  },
-  {
     "tag": "Reno",
     "count": 2,
     "category": "core"
@@ -648,6 +658,26 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "WebDAV",
+    "count": 1,
+    "category": "client"
+  },
+  {
+    "tag": "Windows 7",
+    "count": 1,
+    "category": "client"
+  },
+  {
+    "tag": "前端",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "网络过滤",
+    "count": 1,
+    "category": "core"
   },
   {
     "tag": "自签名证书",
@@ -786,11 +816,6 @@
   },
   {
     "tag": "artifact",
-    "count": 1,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "API",
     "count": 1,
     "category": "ecosystem"
   },
@@ -1001,11 +1026,6 @@
   },
   {
     "tag": "BPF",
-    "count": 1,
-    "category": "core"
-  },
-  {
-    "tag": "AnyTLS",
     "count": 1,
     "category": "core"
   },
@@ -1438,6 +1458,26 @@
     "tag": "跨平台",
     "count": 1,
     "category": "ecosystem"
+  },
+  {
+    "tag": "clash",
+    "count": 1,
+    "category": "core"
+  },
+  {
+    "tag": "meta",
+    "count": 1,
+    "category": "core"
+  },
+  {
+    "tag": "quic",
+    "count": 1,
+    "category": "core"
+  },
+  {
+    "tag": "release",
+    "count": 1,
+    "category": "core"
   },
   {
     "tag": "VLess",
