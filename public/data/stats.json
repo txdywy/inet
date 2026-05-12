@@ -1,33 +1,33 @@
 {
-  "totalItems": 235,
-  "last24h": 9,
-  "last7d": 63,
+  "totalItems": 245,
+  "last24h": 14,
+  "last7d": 71,
   "byCategory": {
-    "core": 60,
-    "client": 75,
+    "core": 61,
+    "client": 76,
     "router": 0,
     "protocol": 10,
     "dns_rules": 1,
     "security": 4,
-    "ecosystem": 85,
+    "ecosystem": 93,
     "trend": 0
   },
   "topProjects": [
     {
-      "project": "mihomo",
-      "count": 14
+      "project": "domain-list-community",
+      "count": 18
     },
     {
-      "project": "domain-list-community",
-      "count": 13
+      "project": "mihomo",
+      "count": 15
     },
     {
       "project": "Sub-Store",
-      "count": 13
+      "count": 14
     },
     {
       "project": "ClashMetaForAndroid",
-      "count": 10
+      "count": 11
     },
     {
       "project": "v2ray-rules-dat",
@@ -42,49 +42,57 @@
       "count": 8
     },
     {
+      "project": "sing-box",
+      "count": 7
+    },
+    {
       "project": "meta-rules-dat",
       "count": 7
     },
     {
       "project": "3x-ui",
       "count": 7
-    },
-    {
-      "project": "hysteria",
-      "count": 7
     }
   ],
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 26
+      "count": 27
     },
     {
       "tag": "Android",
-      "count": 25
+      "count": 26
+    },
+    {
+      "tag": "v2fly",
+      "count": 21
     },
     {
       "tag": "网络代理",
-      "count": 20
+      "count": 21
     },
     {
       "tag": "Windows",
       "count": 19
     },
     {
-      "tag": "v2fly",
-      "count": 16
-    },
-    {
       "tag": "代理工具",
       "count": 15
     },
     {
-      "tag": "Linux",
+      "tag": "mihomo",
+      "count": 15
+    },
+    {
+      "tag": "sing-box",
       "count": 14
     },
     {
-      "tag": "mihomo",
+      "tag": "Sub-Store",
+      "count": 14
+    },
+    {
+      "tag": "Linux",
       "count": 14
     },
     {
@@ -92,12 +100,8 @@
       "count": 13
     },
     {
-      "tag": "Sub-Store",
-      "count": 13
-    },
-    {
-      "tag": "sing-box",
-      "count": 13
+      "tag": "QUIC",
+      "count": 12
     },
     {
       "tag": "Xray",
@@ -112,15 +116,15 @@
       "count": 12
     },
     {
+      "tag": "ClashMetaForAndroid",
+      "count": 11
+    },
+    {
       "tag": "Hysteria",
       "count": 11
     },
     {
-      "tag": "QUIC",
-      "count": 11
-    },
-    {
-      "tag": "ClashMetaForAndroid",
+      "tag": "domain-list-community",
       "count": 10
     },
     {
@@ -128,16 +132,12 @@
       "count": 10
     },
     {
-      "tag": "Loyalsoldier",
-      "count": 9
-    },
-    {
-      "tag": "TUN",
-      "count": 9
+      "tag": "HTTP/2",
+      "count": 10
     }
   ],
-  "importantCount": 98,
+  "importantCount": 99,
   "breakingCount": 24,
   "securityCount": 15,
-  "updatedAt": "2026-05-12T09:14:01.148Z"
+  "updatedAt": "2026-05-12T15:11:52.686Z"
 }

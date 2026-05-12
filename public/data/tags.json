@@ -1,17 +1,22 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 26,
+    "count": 27,
     "category": "ecosystem"
   },
   {
     "tag": "Android",
-    "count": 25,
+    "count": 26,
     "category": "client"
   },
   {
+    "tag": "v2fly",
+    "count": 21,
+    "category": "ecosystem"
+  },
+  {
     "tag": "网络代理",
-    "count": 20,
+    "count": 21,
     "category": "ecosystem"
   },
   {
@@ -20,14 +25,24 @@
     "category": "client"
   },
   {
-    "tag": "v2fly",
-    "count": 16,
-    "category": "ecosystem"
-  },
-  {
     "tag": "代理工具",
     "count": 15,
     "category": "core"
+  },
+  {
+    "tag": "mihomo",
+    "count": 15,
+    "category": "core"
+  },
+  {
+    "tag": "sing-box",
+    "count": 14,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "Sub-Store",
+    "count": 14,
+    "category": "ecosystem"
   },
   {
     "tag": "Linux",
@@ -35,24 +50,14 @@
     "category": "ecosystem"
   },
   {
-    "tag": "mihomo",
-    "count": 14,
-    "category": "core"
-  },
-  {
     "tag": "v2ray",
     "count": 13,
     "category": "ecosystem"
   },
   {
-    "tag": "Sub-Store",
-    "count": 13,
-    "category": "core"
-  },
-  {
-    "tag": "sing-box",
-    "count": 13,
-    "category": "core"
+    "tag": "QUIC",
+    "count": 12,
+    "category": "protocol"
   },
   {
     "tag": "Xray",
@@ -70,24 +75,29 @@
     "category": "core"
   },
   {
+    "tag": "ClashMetaForAndroid",
+    "count": 11,
+    "category": "client"
+  },
+  {
     "tag": "Hysteria",
     "count": 11,
     "category": "protocol"
   },
   {
-    "tag": "QUIC",
-    "count": 11,
-    "category": "protocol"
-  },
-  {
-    "tag": "ClashMetaForAndroid",
+    "tag": "domain-list-community",
     "count": 10,
-    "category": "client"
+    "category": "ecosystem"
   },
   {
     "tag": "macOS",
     "count": 10,
     "category": "client"
+  },
+  {
+    "tag": "HTTP/2",
+    "count": 10,
+    "category": "core"
   },
   {
     "tag": "Loyalsoldier",
@@ -108,16 +118,6 @@
     "tag": "Clash",
     "count": 9,
     "category": "client"
-  },
-  {
-    "tag": "HTTP/2",
-    "count": 9,
-    "category": "core"
-  },
-  {
-    "tag": "domain-list-community",
-    "count": 8,
-    "category": "ecosystem"
   },
   {
     "tag": "rules",
@@ -148,6 +148,16 @@
     "tag": "VLESS",
     "count": 8,
     "category": "protocol"
+  },
+  {
+    "tag": "SagerNet",
+    "count": 7,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "domain-list",
+    "count": 7,
+    "category": "ecosystem"
   },
   {
     "tag": "meta-rules-dat",
@@ -190,11 +200,6 @@
     "category": "client"
   },
   {
-    "tag": "SagerNet",
-    "count": 6,
-    "category": "protocol"
-  },
-  {
     "tag": "mihomo-party",
     "count": 6,
     "category": "client"
@@ -228,6 +233,16 @@
     "tag": "rust",
     "count": 6,
     "category": "core"
+  },
+  {
+    "tag": "VMess",
+    "count": 6,
+    "category": "core"
+  },
+  {
+    "tag": "v2ray-agent",
+    "count": 5,
+    "category": "ecosystem"
   },
   {
     "tag": "sudoku",
@@ -310,11 +325,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "VMess",
-    "count": 5,
-    "category": "client"
-  },
-  {
     "tag": "subconverter",
     "count": 5,
     "category": "ecosystem"
@@ -330,7 +340,7 @@
     "category": "protocol"
   },
   {
-    "tag": "domain-list",
+    "tag": "Docker",
     "count": 4,
     "category": "ecosystem"
   },
@@ -351,11 +361,6 @@
   },
   {
     "tag": "Clash Verge",
-    "count": 4,
-    "category": "client"
-  },
-  {
-    "tag": "v2ray-agent",
     "count": 4,
     "category": "client"
   },
@@ -430,11 +435,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "Docker",
-    "count": 3,
-    "category": "core"
-  },
-  {
     "tag": "CI",
     "count": 3,
     "category": "ecosystem"
@@ -446,6 +446,11 @@
   },
   {
     "tag": "NaiveProxy",
+    "count": 3,
+    "category": "client"
+  },
+  {
+    "tag": "依赖更新",
     "count": 3,
     "category": "client"
   },
@@ -580,11 +585,6 @@
     "category": "core"
   },
   {
-    "tag": "依赖更新",
-    "count": 2,
-    "category": "client"
-  },
-  {
     "tag": "Reno",
     "count": 2,
     "category": "core"
@@ -663,6 +663,51 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "中国域名",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "ChinaPost",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "TLD",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "hbo",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "kz",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "ficbook",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "配置同步",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "分批上传",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "Reality",
+    "count": 1,
+    "category": "ecosystem"
   },
   {
     "tag": "多语言支持",

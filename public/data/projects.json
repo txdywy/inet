@@ -1,5 +1,21 @@
 [
   {
+    "slug": "domain-list-community",
+    "name": "domain-list-community",
+    "repo": "v2fly/domain-list-community",
+    "description": "DNS 解析、规则集、分流策略",
+    "category": "dns_rules",
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "tags": [
+      "geosite",
+      "domain-list"
+    ]
+  },
+  {
     "slug": "mihomo",
     "name": "mihomo",
     "repo": "MetaCubeX/mihomo",
@@ -32,22 +48,6 @@
     "tags": [
       "sub-store",
       "subscription"
-    ]
-  },
-  {
-    "slug": "domain-list-community",
-    "name": "domain-list-community",
-    "repo": "v2fly/domain-list-community",
-    "description": "DNS 解析、规则集、分流策略",
-    "category": "dns_rules",
-    "platforms": [
-      "linux",
-      "windows",
-      "macos"
-    ],
-    "tags": [
-      "geosite",
-      "domain-list"
     ]
   },
   {
@@ -133,6 +133,26 @@
     ]
   },
   {
+    "slug": "sing-box",
+    "name": "sing-box",
+    "repo": "SagerNet/sing-box",
+    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
+    "category": "core",
+    "platforms": [
+      "linux",
+      "windows",
+      "macos",
+      "android",
+      "ios"
+    ],
+    "tags": [
+      "sing-box",
+      "vless",
+      "hysteria2",
+      "tuic"
+    ]
+  },
+  {
     "slug": "hysteria",
     "name": "hysteria",
     "repo": "apernet/hysteria",
@@ -194,26 +214,6 @@
       "geosite",
       "geoip",
       "mihomo"
-    ]
-  },
-  {
-    "slug": "sing-box",
-    "name": "sing-box",
-    "repo": "SagerNet/sing-box",
-    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
-    "category": "core",
-    "platforms": [
-      "linux",
-      "windows",
-      "macos",
-      "android",
-      "ios"
-    ],
-    "tags": [
-      "sing-box",
-      "vless",
-      "hysteria2",
-      "tuic"
     ]
   },
   {
@@ -542,6 +542,21 @@
     ]
   },
   {
+    "slug": "v2ray-agent",
+    "name": "v2ray-agent",
+    "repo": "mack-a/v2ray-agent",
+    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
+    "category": "ecosystem",
+    "platforms": [
+      "linux"
+    ],
+    "tags": [
+      "v2ray-agent",
+      "script",
+      "vps"
+    ]
+  },
+  {
     "slug": "cloudflarespeedtest",
     "name": "CloudflareSpeedTest",
     "repo": "XIU2/CloudflareSpeedTest",
@@ -572,21 +587,6 @@
     "tags": [
       "subconverter",
       "subscription"
-    ]
-  },
-  {
-    "slug": "v2ray-agent",
-    "name": "v2ray-agent",
-    "repo": "mack-a/v2ray-agent",
-    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
-    "category": "ecosystem",
-    "platforms": [
-      "linux"
-    ],
-    "tags": [
-      "v2ray-agent",
-      "script",
-      "vps"
     ]
   },
   {
