@@ -1,5 +1,40 @@
 [
   {
+    "id": "5236d2225bd241b8",
+    "title": "Prerelease-alpha",
+    "summary": "ClashMetaForAndroid 发布了 Prerelease-alpha 版本，主要改进了快捷方式设置、图标替换和语言支持。",
+    "analysis": "本次更新主要集中在用户体验的优化上，包括将快捷方式设置推迟到 MainActivity、替换快捷方式图标以及修复解析 profile-update-interval HTTP 头的问题。此外，新增了对多语言的支持，这将使得应用在不同语言环境下的用户体验更佳。对于开发者而言，这些改动有助于提升应用的可用性和国际化程度。虽然此次更新没有涉及协议变化或安全修复，但由于是预发布版本，用户在使用时应注意可能存在的稳定性问题。建议对有兴趣的用户进行测试，但不建议在生产环境中立即更新。",
+    "rawTitle": "Prerelease-alpha",
+    "rawBody": "## What's Changed\n* Defer shortcut setup to MainActivity by @Goooler in https://github.com/MetaCubeX/ClashMetaForAndroid/pull/728\n* Replace shortcut icons by @Goooler in https://github.com/MetaCubeX/ClashMetaForAndroid/pull/729\n* Fix parse profile-update-interval http header by @AlexFozor in https://github.com/MetaCubeX/ClashMetaForAndroid/pull/732\n* Add supported languages to system settings by @Goooler in https://github.com/MetaCubeX/ClashMetaForAndroid/pull/733\n\n## New Contributors\n* @AlexFozor made their first contribution in https://github.com/MetaCubeX/ClashMetaForAndroid/pull/732\n\n**Full Changelog**: https://github.com/MetaCubeX/ClashMetaForAndroid/compare/v2.11.27...Prerelease-alpha",
+    "sourceType": "github_release",
+    "sourceName": "MetaCubeX/ClashMetaForAndroid",
+    "sourceUrl": "https://github.com/MetaCubeX/ClashMetaForAndroid/releases/tag/Prerelease-alpha",
+    "project": "ClashMetaForAndroid",
+    "repo": "MetaCubeX/ClashMetaForAndroid",
+    "slug": "clashmetaforandroid",
+    "version": "Prerelease-alpha",
+    "category": "client",
+    "tags": [
+      "ClashMetaForAndroid",
+      "Android",
+      "快捷方式",
+      "多语言支持"
+    ],
+    "platforms": [
+      "android"
+    ],
+    "importance": 3,
+    "confidence": 0.9,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-05-12T08:15:20Z",
+    "fetchedAt": "2026-05-12T09:13:46.517Z",
+    "firstSeenAt": "2026-05-12T09:14:00.736Z",
+    "updatedAt": "2026-05-12T09:14:00.736Z",
+    "hash": "5236d2225bd241b8"
+  },
+  {
     "id": "d39b4138dc36b264",
     "title": "20260512024130",
     "summary": "v2fly/domain-list-community 更新了一个新功能，增加了 nicegram 相关内容。",

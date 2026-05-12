@@ -6,7 +6,7 @@
   },
   {
     "tag": "Android",
-    "count": 24,
+    "count": 25,
     "category": "client"
   },
   {
@@ -80,13 +80,13 @@
     "category": "protocol"
   },
   {
-    "tag": "macOS",
+    "tag": "ClashMetaForAndroid",
     "count": 10,
     "category": "client"
   },
   {
-    "tag": "ClashMetaForAndroid",
-    "count": 9,
+    "tag": "macOS",
+    "count": 10,
     "category": "client"
   },
   {
@@ -395,6 +395,11 @@
     "category": "client"
   },
   {
+    "tag": "快捷方式",
+    "count": 3,
+    "category": "client"
+  },
+  {
     "tag": "NAT",
     "count": 3,
     "category": "protocol"
@@ -483,11 +488,6 @@
     "tag": "protocol",
     "count": 3,
     "category": "protocol"
-  },
-  {
-    "tag": "快捷方式",
-    "count": 2,
-    "category": "client"
   },
   {
     "tag": "API",
@@ -663,6 +663,11 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "多语言支持",
+    "count": 1,
+    "category": "client"
   },
   {
     "tag": "nicegram",

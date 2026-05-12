@@ -1,10 +1,10 @@
 {
-  "totalItems": 234,
-  "last24h": 10,
+  "totalItems": 235,
+  "last24h": 9,
   "last7d": 63,
   "byCategory": {
     "core": 60,
-    "client": 74,
+    "client": 75,
     "router": 0,
     "protocol": 10,
     "dns_rules": 1,
@@ -26,12 +26,12 @@
       "count": 13
     },
     {
-      "project": "v2ray-rules-dat",
+      "project": "ClashMetaForAndroid",
       "count": 10
     },
     {
-      "project": "ClashMetaForAndroid",
-      "count": 9
+      "project": "v2ray-rules-dat",
+      "count": 10
     },
     {
       "project": "v2rayNG",
@@ -61,7 +61,7 @@
     },
     {
       "tag": "Android",
-      "count": 24
+      "count": 25
     },
     {
       "tag": "网络代理",
@@ -120,12 +120,12 @@
       "count": 11
     },
     {
-      "tag": "macOS",
+      "tag": "ClashMetaForAndroid",
       "count": 10
     },
     {
-      "tag": "ClashMetaForAndroid",
-      "count": 9
+      "tag": "macOS",
+      "count": 10
     },
     {
       "tag": "Loyalsoldier",
@@ -139,5 +139,5 @@
   "importantCount": 98,
   "breakingCount": 24,
   "securityCount": 15,
-  "updatedAt": "2026-05-12T04:09:06.405Z"
+  "updatedAt": "2026-05-12T09:14:01.148Z"
 }
