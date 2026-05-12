@@ -1,32 +1,36 @@
 {
-  "totalItems": 229,
-  "last24h": 8,
-  "last7d": 60,
+  "totalItems": 234,
+  "last24h": 10,
+  "last7d": 63,
   "byCategory": {
-    "core": 59,
-    "client": 73,
+    "core": 60,
+    "client": 74,
     "router": 0,
     "protocol": 10,
     "dns_rules": 1,
     "security": 4,
-    "ecosystem": 82,
+    "ecosystem": 85,
     "trend": 0
   },
   "topProjects": [
+    {
+      "project": "mihomo",
+      "count": 14
+    },
+    {
+      "project": "domain-list-community",
+      "count": 13
+    },
     {
       "project": "Sub-Store",
       "count": 13
     },
     {
-      "project": "mihomo",
-      "count": 13
-    },
-    {
-      "project": "domain-list-community",
-      "count": 12
-    },
-    {
       "project": "v2ray-rules-dat",
+      "count": 10
+    },
+    {
+      "project": "ClashMetaForAndroid",
       "count": 9
     },
     {
@@ -38,8 +42,8 @@
       "count": 8
     },
     {
-      "project": "ClashMetaForAndroid",
-      "count": 8
+      "project": "meta-rules-dat",
+      "count": 7
     },
     {
       "project": "3x-ui",
@@ -48,20 +52,16 @@
     {
       "project": "hysteria",
       "count": 7
-    },
-    {
-      "project": "v2rayN",
-      "count": 7
     }
   ],
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 24
+      "count": 26
     },
     {
       "tag": "Android",
-      "count": 23
+      "count": 24
     },
     {
       "tag": "网络代理",
@@ -73,7 +73,7 @@
     },
     {
       "tag": "v2fly",
-      "count": 15
+      "count": 16
     },
     {
       "tag": "代理工具",
@@ -84,20 +84,20 @@
       "count": 14
     },
     {
+      "tag": "mihomo",
+      "count": 14
+    },
+    {
+      "tag": "v2ray",
+      "count": 13
+    },
+    {
       "tag": "Sub-Store",
       "count": 13
     },
     {
       "tag": "sing-box",
       "count": 13
-    },
-    {
-      "tag": "mihomo",
-      "count": 13
-    },
-    {
-      "tag": "v2ray",
-      "count": 12
     },
     {
       "tag": "Xray",
@@ -117,27 +117,27 @@
     },
     {
       "tag": "QUIC",
-      "count": 10
+      "count": 11
     },
     {
       "tag": "macOS",
       "count": 10
     },
     {
+      "tag": "ClashMetaForAndroid",
+      "count": 9
+    },
+    {
+      "tag": "Loyalsoldier",
+      "count": 9
+    },
+    {
       "tag": "TUN",
-      "count": 9
-    },
-    {
-      "tag": "开源",
-      "count": 9
-    },
-    {
-      "tag": "Clash",
       "count": 9
     }
   ],
   "importantCount": 98,
   "breakingCount": 24,
   "securityCount": 15,
-  "updatedAt": "2026-05-11T20:03:03.972Z"
+  "updatedAt": "2026-05-12T04:09:06.405Z"
 }

@@ -68,6 +68,21 @@
     ]
   },
   {
+    "slug": "clashmetaforandroid",
+    "name": "ClashMetaForAndroid",
+    "repo": "MetaCubeX/ClashMetaForAndroid",
+    "description": "各平台代理客户端应用",
+    "category": "client",
+    "platforms": [
+      "android"
+    ],
+    "tags": [
+      "clash",
+      "android",
+      "mihomo"
+    ]
+  },
+  {
     "slug": "naiveproxy",
     "name": "naiveproxy",
     "repo": "klzgrad/naiveproxy",
@@ -96,21 +111,6 @@
       "v2rayng",
       "android",
       "xray-core"
-    ]
-  },
-  {
-    "slug": "clashmetaforandroid",
-    "name": "ClashMetaForAndroid",
-    "repo": "MetaCubeX/ClashMetaForAndroid",
-    "description": "各平台代理客户端应用",
-    "category": "client",
-    "platforms": [
-      "android"
-    ],
-    "tags": [
-      "clash",
-      "android",
-      "mihomo"
     ]
   },
   {
@@ -176,6 +176,24 @@
       "x-ui",
       "panel",
       "xray-core"
+    ]
+  },
+  {
+    "slug": "meta-rules-dat",
+    "name": "meta-rules-dat",
+    "repo": "MetaCubeX/meta-rules-dat",
+    "description": "DNS 解析、规则集、分流策略",
+    "category": "dns_rules",
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "tags": [
+      "ruleset",
+      "geosite",
+      "geoip",
+      "mihomo"
     ]
   },
   {
@@ -259,24 +277,6 @@
       "dashboard",
       "mihomo",
       "clash"
-    ]
-  },
-  {
-    "slug": "meta-rules-dat",
-    "name": "meta-rules-dat",
-    "repo": "MetaCubeX/meta-rules-dat",
-    "description": "DNS 解析、规则集、分流策略",
-    "category": "dns_rules",
-    "platforms": [
-      "linux",
-      "windows",
-      "macos"
-    ],
-    "tags": [
-      "ruleset",
-      "geosite",
-      "geoip",
-      "mihomo"
     ]
   },
   {
