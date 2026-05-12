@@ -1,10 +1,10 @@
 {
-  "totalItems": 245,
-  "last24h": 14,
-  "last7d": 71,
+  "totalItems": 246,
+  "last24h": 13,
+  "last7d": 70,
   "byCategory": {
     "core": 61,
-    "client": 76,
+    "client": 77,
     "router": 0,
     "protocol": 10,
     "dns_rules": 1,
@@ -19,7 +19,7 @@
     },
     {
       "project": "mihomo",
-      "count": 15
+      "count": 16
     },
     {
       "project": "Sub-Store",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 27
+      "count": 28
     },
     {
       "tag": "Android",
@@ -76,11 +76,11 @@
       "count": 19
     },
     {
-      "tag": "代理工具",
-      "count": 15
+      "tag": "mihomo",
+      "count": 16
     },
     {
-      "tag": "mihomo",
+      "tag": "代理工具",
       "count": 15
     },
     {
@@ -101,7 +101,7 @@
     },
     {
       "tag": "QUIC",
-      "count": 12
+      "count": 13
     },
     {
       "tag": "Xray",
@@ -124,20 +124,20 @@
       "count": 11
     },
     {
+      "tag": "HTTP/2",
+      "count": 11
+    },
+    {
       "tag": "domain-list-community",
       "count": 10
     },
     {
       "tag": "macOS",
       "count": 10
-    },
-    {
-      "tag": "HTTP/2",
-      "count": 10
     }
   ],
-  "importantCount": 99,
+  "importantCount": 100,
   "breakingCount": 24,
   "securityCount": 15,
-  "updatedAt": "2026-05-12T15:11:52.686Z"
+  "updatedAt": "2026-05-12T20:06:44.131Z"
 }

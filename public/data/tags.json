@@ -1,7 +1,7 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 27,
+    "count": 28,
     "category": "ecosystem"
   },
   {
@@ -25,12 +25,12 @@
     "category": "client"
   },
   {
-    "tag": "代理工具",
-    "count": 15,
+    "tag": "mihomo",
+    "count": 16,
     "category": "core"
   },
   {
-    "tag": "mihomo",
+    "tag": "代理工具",
     "count": 15,
     "category": "core"
   },
@@ -56,7 +56,7 @@
   },
   {
     "tag": "QUIC",
-    "count": 12,
+    "count": 13,
     "category": "protocol"
   },
   {
@@ -85,6 +85,11 @@
     "category": "protocol"
   },
   {
+    "tag": "HTTP/2",
+    "count": 11,
+    "category": "client"
+  },
+  {
     "tag": "domain-list-community",
     "count": 10,
     "category": "ecosystem"
@@ -93,11 +98,6 @@
     "tag": "macOS",
     "count": 10,
     "category": "client"
-  },
-  {
-    "tag": "HTTP/2",
-    "count": 10,
-    "category": "core"
   },
   {
     "tag": "Loyalsoldier",
@@ -230,6 +230,11 @@
     "category": "core"
   },
   {
+    "tag": "vless",
+    "count": 6,
+    "category": "protocol"
+  },
+  {
     "tag": "rust",
     "count": 6,
     "category": "core"
@@ -293,11 +298,6 @@
     "tag": "OpenClash",
     "count": 5,
     "category": "client"
-  },
-  {
-    "tag": "vless",
-    "count": 5,
-    "category": "protocol"
   },
   {
     "tag": "Tailscale",
