@@ -1,15 +1,15 @@
 {
-  "totalItems": 246,
-  "last24h": 13,
-  "last7d": 70,
+  "totalItems": 249,
+  "last24h": 12,
+  "last7d": 71,
   "byCategory": {
     "core": 61,
-    "client": 77,
+    "client": 78,
     "router": 0,
     "protocol": 10,
     "dns_rules": 1,
     "security": 4,
-    "ecosystem": 93,
+    "ecosystem": 95,
     "trend": 0
   },
   "topProjects": [
@@ -26,12 +26,20 @@
       "count": 14
     },
     {
+      "project": "v2ray-rules-dat",
+      "count": 11
+    },
+    {
       "project": "ClashMetaForAndroid",
       "count": 11
     },
     {
-      "project": "v2ray-rules-dat",
-      "count": 10
+      "project": "v2rayN",
+      "count": 8
+    },
+    {
+      "project": "meta-rules-dat",
+      "count": 8
     },
     {
       "project": "v2rayNG",
@@ -44,31 +52,23 @@
     {
       "project": "sing-box",
       "count": 7
-    },
-    {
-      "project": "meta-rules-dat",
-      "count": 7
-    },
-    {
-      "project": "3x-ui",
-      "count": 7
     }
   ],
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 28
+      "count": 29
     },
     {
       "tag": "Android",
       "count": 26
     },
     {
-      "tag": "v2fly",
-      "count": 21
+      "tag": "网络代理",
+      "count": 22
     },
     {
-      "tag": "网络代理",
+      "tag": "v2fly",
       "count": 21
     },
     {
@@ -84,6 +84,10 @@
       "count": 15
     },
     {
+      "tag": "v2ray",
+      "count": 14
+    },
+    {
       "tag": "sing-box",
       "count": 14
     },
@@ -94,10 +98,6 @@
     {
       "tag": "Linux",
       "count": 14
-    },
-    {
-      "tag": "v2ray",
-      "count": 13
     },
     {
       "tag": "QUIC",
@@ -128,16 +128,16 @@
       "count": 11
     },
     {
-      "tag": "domain-list-community",
+      "tag": "开源",
       "count": 10
     },
     {
-      "tag": "macOS",
+      "tag": "Loyalsoldier",
       "count": 10
     }
   ],
-  "importantCount": 100,
+  "importantCount": 101,
   "breakingCount": 24,
   "securityCount": 15,
-  "updatedAt": "2026-05-12T20:06:44.131Z"
+  "updatedAt": "2026-05-13T04:15:29.318Z"
 }
