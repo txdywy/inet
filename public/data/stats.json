@@ -1,15 +1,15 @@
 {
-  "totalItems": 250,
-  "last24h": 11,
-  "last7d": 68,
+  "totalItems": 253,
+  "last24h": 5,
+  "last7d": 63,
   "byCategory": {
-    "core": 61,
-    "client": 79,
+    "core": 62,
+    "client": 80,
     "router": 0,
     "protocol": 10,
     "dns_rules": 1,
     "security": 4,
-    "ecosystem": 95,
+    "ecosystem": 96,
     "trend": 0
   },
   "topProjects": [
@@ -19,18 +19,18 @@
     },
     {
       "project": "mihomo",
-      "count": 17
+      "count": 18
     },
     {
       "project": "Sub-Store",
-      "count": 14
-    },
-    {
-      "project": "v2ray-rules-dat",
-      "count": 11
+      "count": 15
     },
     {
       "project": "ClashMetaForAndroid",
+      "count": 12
+    },
+    {
+      "project": "v2ray-rules-dat",
       "count": 11
     },
     {
@@ -57,11 +57,11 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 30
+      "count": 31
     },
     {
       "tag": "Android",
-      "count": 26
+      "count": 27
     },
     {
       "tag": "网络代理",
@@ -72,12 +72,16 @@
       "count": 21
     },
     {
+      "tag": "mihomo",
+      "count": 19
+    },
+    {
       "tag": "Windows",
       "count": 19
     },
     {
-      "tag": "mihomo",
-      "count": 17
+      "tag": "Sub-Store",
+      "count": 15
     },
     {
       "tag": "代理工具",
@@ -92,16 +96,20 @@
       "count": 14
     },
     {
-      "tag": "Sub-Store",
-      "count": 14
-    },
-    {
       "tag": "QUIC",
       "count": 14
     },
     {
       "tag": "Linux",
       "count": 14
+    },
+    {
+      "tag": "HTTP/2",
+      "count": 13
+    },
+    {
+      "tag": "ClashMetaForAndroid",
+      "count": 12
     },
     {
       "tag": "Xray",
@@ -116,14 +124,6 @@
       "count": 12
     },
     {
-      "tag": "HTTP/2",
-      "count": 12
-    },
-    {
-      "tag": "ClashMetaForAndroid",
-      "count": 11
-    },
-    {
       "tag": "Hysteria",
       "count": 11
     },
@@ -136,8 +136,8 @@
       "count": 10
     }
   ],
-  "importantCount": 102,
+  "importantCount": 104,
   "breakingCount": 24,
   "securityCount": 15,
-  "updatedAt": "2026-05-13T09:21:22.463Z"
+  "updatedAt": "2026-05-13T15:16:28.058Z"
 }

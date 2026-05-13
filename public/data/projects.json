@@ -1,21 +1,5 @@
 [
   {
-    "slug": "domain-list-community",
-    "name": "domain-list-community",
-    "repo": "v2fly/domain-list-community",
-    "description": "DNS 解析、规则集、分流策略",
-    "category": "dns_rules",
-    "platforms": [
-      "linux",
-      "windows",
-      "macos"
-    ],
-    "tags": [
-      "geosite",
-      "domain-list"
-    ]
-  },
-  {
     "slug": "mihomo",
     "name": "mihomo",
     "repo": "MetaCubeX/mihomo",
@@ -30,6 +14,22 @@
       "mihomo",
       "clash",
       "meta"
+    ]
+  },
+  {
+    "slug": "domain-list-community",
+    "name": "domain-list-community",
+    "repo": "v2fly/domain-list-community",
+    "description": "DNS 解析、规则集、分流策略",
+    "category": "dns_rules",
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "tags": [
+      "geosite",
+      "domain-list"
     ]
   },
   {
