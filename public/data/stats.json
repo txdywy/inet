@@ -1,7 +1,7 @@
 {
-  "totalItems": 253,
-  "last24h": 5,
-  "last7d": 63,
+  "totalItems": 254,
+  "last24h": 6,
+  "last7d": 64,
   "byCategory": {
     "core": 62,
     "client": 80,
@@ -9,7 +9,7 @@
     "protocol": 10,
     "dns_rules": 1,
     "security": 4,
-    "ecosystem": 96,
+    "ecosystem": 97,
     "trend": 0
   },
   "topProjects": [
@@ -23,7 +23,7 @@
     },
     {
       "project": "Sub-Store",
-      "count": 15
+      "count": 16
     },
     {
       "project": "ClashMetaForAndroid",
@@ -81,7 +81,7 @@
     },
     {
       "tag": "Sub-Store",
-      "count": 15
+      "count": 16
     },
     {
       "tag": "代理工具",
@@ -139,5 +139,5 @@
   "importantCount": 104,
   "breakingCount": 24,
   "securityCount": 15,
-  "updatedAt": "2026-05-13T15:16:28.058Z"
+  "updatedAt": "2026-05-13T20:07:44.424Z"
 }

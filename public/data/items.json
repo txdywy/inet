@@ -1,5 +1,38 @@
 [
   {
+    "id": "6838a54e39cf19cc",
+    "title": "2.23.2",
+    "summary": "Sub-Store 2.23.2 版本更新，新增 Loon 资源解析器支持 noCache 功能。",
+    "analysis": "在此次更新中，Sub-Store 引入了对 Loon 资源解析器的 noCache 支持。这一功能的添加使得用户在使用 Loon 进行资源解析时，可以选择不缓存数据，从而确保获取到最新的资源信息。这对于需要频繁更新资源的用户来说尤为重要，能够提升资源的实时性和准确性。对于开发者而言，这一更新可能会影响到现有的资源管理策略，尤其是在缓存机制的设计上。整体来看，此次更新没有明显的兼容性风险，建议用户尽快更新以利用新功能。",
+    "rawTitle": "2.23.2",
+    "rawBody": "## <small>2.23.2 (2026-05-13)</small>\n\n* feat: Loon 资源解析器支持 noCache ([e95a0f6](https://github.com/sub-store-org/Sub-Store/commit/e95a0f6))\n",
+    "sourceType": "github_release",
+    "sourceName": "sub-store-org/Sub-Store",
+    "sourceUrl": "https://github.com/sub-store-org/Sub-Store/releases/tag/2.23.2",
+    "project": "Sub-Store",
+    "repo": "sub-store-org/Sub-Store",
+    "slug": "sub-store",
+    "version": "2.23.2",
+    "category": "ecosystem",
+    "tags": [
+      "Sub-Store",
+      "Loon",
+      "资源解析",
+      "noCache"
+    ],
+    "platforms": [],
+    "importance": 3,
+    "confidence": 0.9,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-05-13T15:29:35Z",
+    "fetchedAt": "2026-05-13T20:07:35.100Z",
+    "firstSeenAt": "2026-05-13T20:07:43.986Z",
+    "updatedAt": "2026-05-13T20:07:43.986Z",
+    "hash": "6838a54e39cf19cc"
+  },
+  {
     "id": "6b4664bce8596860",
     "title": "2.23.1",
     "summary": "Sub-Store 2.23.1 更新了对 OpenVPN 的支持，增强了 mihomo 功能。",

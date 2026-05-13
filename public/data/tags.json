@@ -31,7 +31,7 @@
   },
   {
     "tag": "Sub-Store",
-    "count": 15,
+    "count": 16,
     "category": "ecosystem"
   },
   {
@@ -400,6 +400,11 @@
     "category": "client"
   },
   {
+    "tag": "Loon",
+    "count": 3,
+    "category": "ecosystem"
+  },
+  {
     "tag": "快捷方式",
     "count": 3,
     "category": "client"
@@ -660,14 +665,19 @@
     "category": "ecosystem"
   },
   {
-    "tag": "Loon",
-    "count": 2,
-    "category": "ecosystem"
-  },
-  {
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "资源解析",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "noCache",
+    "count": 1,
+    "category": "ecosystem"
   },
   {
     "tag": "功能修复",
