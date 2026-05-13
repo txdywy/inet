@@ -1,7 +1,7 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 29,
+    "count": 30,
     "category": "ecosystem"
   },
   {
@@ -26,7 +26,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 16,
+    "count": 17,
     "category": "core"
   },
   {
@@ -50,14 +50,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "QUIC",
+    "count": 14,
+    "category": "protocol"
+  },
+  {
     "tag": "Linux",
     "count": 14,
     "category": "ecosystem"
-  },
-  {
-    "tag": "QUIC",
-    "count": 13,
-    "category": "protocol"
   },
   {
     "tag": "Xray",
@@ -75,6 +75,11 @@
     "category": "core"
   },
   {
+    "tag": "HTTP/2",
+    "count": 12,
+    "category": "client"
+  },
+  {
     "tag": "ClashMetaForAndroid",
     "count": 11,
     "category": "client"
@@ -83,11 +88,6 @@
     "tag": "Hysteria",
     "count": 11,
     "category": "protocol"
-  },
-  {
-    "tag": "HTTP/2",
-    "count": 11,
-    "category": "client"
   },
   {
     "tag": "开源",
@@ -118,6 +118,11 @@
     "tag": "TUN",
     "count": 9,
     "category": "client"
+  },
+  {
+    "tag": "VLESS",
+    "count": 9,
+    "category": "protocol"
   },
   {
     "tag": "Clash",
@@ -155,11 +160,6 @@
     "category": "core"
   },
   {
-    "tag": "VLESS",
-    "count": 8,
-    "category": "protocol"
-  },
-  {
     "tag": "SagerNet",
     "count": 7,
     "category": "ecosystem"
@@ -193,6 +193,11 @@
     "tag": "VPN",
     "count": 7,
     "category": "core"
+  },
+  {
+    "tag": "VMess",
+    "count": 7,
+    "category": "client"
   },
   {
     "tag": "用户体验",
@@ -236,11 +241,6 @@
   },
   {
     "tag": "rust",
-    "count": 6,
-    "category": "core"
-  },
-  {
-    "tag": "VMess",
     "count": 6,
     "category": "core"
   },
