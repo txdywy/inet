@@ -1,33 +1,33 @@
 {
-  "totalItems": 259,
-  "last24h": 7,
-  "last7d": 67,
+  "totalItems": 263,
+  "last24h": 10,
+  "last7d": 70,
   "byCategory": {
-    "core": 63,
-    "client": 81,
+    "core": 64,
+    "client": 82,
     "router": 0,
     "protocol": 10,
     "dns_rules": 1,
     "security": 4,
-    "ecosystem": 100,
+    "ecosystem": 102,
     "trend": 0
   },
   "topProjects": [
+    {
+      "project": "mihomo",
+      "count": 20
+    },
     {
       "project": "domain-list-community",
       "count": 19
     },
     {
-      "project": "mihomo",
-      "count": 19
-    },
-    {
       "project": "Sub-Store",
-      "count": 16
+      "count": 17
     },
     {
       "project": "ClashMetaForAndroid",
-      "count": 13
+      "count": 14
     },
     {
       "project": "v2ray-rules-dat",
@@ -36,6 +36,10 @@
     {
       "project": "meta-rules-dat",
       "count": 9
+    },
+    {
+      "project": "3x-ui",
+      "count": 8
     },
     {
       "project": "v2rayN",
@@ -48,20 +52,16 @@
     {
       "project": "naiveproxy",
       "count": 8
-    },
-    {
-      "project": "sing-box",
-      "count": 7
     }
   ],
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 33
+      "count": 34
     },
     {
       "tag": "Android",
-      "count": 28
+      "count": 29
     },
     {
       "tag": "v2fly",
@@ -73,7 +73,7 @@
     },
     {
       "tag": "mihomo",
-      "count": 20
+      "count": 21
     },
     {
       "tag": "Windows",
@@ -81,7 +81,7 @@
     },
     {
       "tag": "Sub-Store",
-      "count": 16
+      "count": 17
     },
     {
       "tag": "v2ray",
@@ -90,6 +90,14 @@
     {
       "tag": "代理工具",
       "count": 15
+    },
+    {
+      "tag": "HTTP/2",
+      "count": 15
+    },
+    {
+      "tag": "ClashMetaForAndroid",
+      "count": 14
     },
     {
       "tag": "sing-box",
@@ -104,19 +112,15 @@
       "count": 14
     },
     {
-      "tag": "HTTP/2",
-      "count": 14
-    },
-    {
-      "tag": "ClashMetaForAndroid",
-      "count": 13
-    },
-    {
       "tag": "Xray",
       "count": 12
     },
     {
       "tag": "网络协议",
+      "count": 12
+    },
+    {
+      "tag": "VLESS",
       "count": 12
     },
     {
@@ -130,14 +134,10 @@
     {
       "tag": "Loyalsoldier",
       "count": 11
-    },
-    {
-      "tag": "Hysteria",
-      "count": 11
     }
   ],
-  "importantCount": 105,
+  "importantCount": 107,
   "breakingCount": 24,
-  "securityCount": 15,
-  "updatedAt": "2026-05-14T04:15:18.540Z"
+  "securityCount": 16,
+  "updatedAt": "2026-05-14T09:11:24.105Z"
 }
