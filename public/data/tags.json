@@ -1,13 +1,18 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 31,
+    "count": 33,
     "category": "ecosystem"
   },
   {
     "tag": "Android",
-    "count": 27,
+    "count": 28,
     "category": "client"
+  },
+  {
+    "tag": "v2fly",
+    "count": 22,
+    "category": "ecosystem"
   },
   {
     "tag": "网络代理",
@@ -15,13 +20,8 @@
     "category": "client"
   },
   {
-    "tag": "v2fly",
-    "count": 21,
-    "category": "ecosystem"
-  },
-  {
     "tag": "mihomo",
-    "count": 19,
+    "count": 20,
     "category": "ecosystem"
   },
   {
@@ -35,14 +35,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "v2ray",
+    "count": 15,
+    "category": "ecosystem"
+  },
+  {
     "tag": "代理工具",
     "count": 15,
     "category": "core"
-  },
-  {
-    "tag": "v2ray",
-    "count": 14,
-    "category": "ecosystem"
   },
   {
     "tag": "sing-box",
@@ -61,12 +61,12 @@
   },
   {
     "tag": "HTTP/2",
-    "count": 13,
+    "count": 14,
     "category": "core"
   },
   {
     "tag": "ClashMetaForAndroid",
-    "count": 12,
+    "count": 13,
     "category": "client"
   },
   {
@@ -85,9 +85,29 @@
     "category": "core"
   },
   {
+    "tag": "domain-list-community",
+    "count": 11,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "Loyalsoldier",
+    "count": 11,
+    "category": "ecosystem"
+  },
+  {
     "tag": "Hysteria",
     "count": 11,
     "category": "protocol"
+  },
+  {
+    "tag": "VLESS",
+    "count": 11,
+    "category": "protocol"
+  },
+  {
+    "tag": "rules",
+    "count": 10,
+    "category": "ecosystem"
   },
   {
     "tag": "开源",
@@ -95,27 +115,12 @@
     "category": "client"
   },
   {
-    "tag": "Loyalsoldier",
-    "count": 10,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "domain-list-community",
-    "count": 10,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "VLESS",
-    "count": 10,
-    "category": "protocol"
-  },
-  {
     "tag": "macOS",
     "count": 10,
     "category": "client"
   },
   {
-    "tag": "rules",
+    "tag": "meta-rules-dat",
     "count": 9,
     "category": "ecosystem"
   },
@@ -130,6 +135,11 @@
     "category": "client"
   },
   {
+    "tag": "用户体验",
+    "count": 8,
+    "category": "client"
+  },
+  {
     "tag": "VPN",
     "count": 8,
     "category": "ecosystem"
@@ -138,11 +148,6 @@
     "tag": "v2rayN",
     "count": 8,
     "category": "client"
-  },
-  {
-    "tag": "meta-rules-dat",
-    "count": 8,
-    "category": "ecosystem"
   },
   {
     "tag": "xray",
@@ -163,11 +168,6 @@
     "tag": "Xray-core",
     "count": 8,
     "category": "core"
-  },
-  {
-    "tag": "用户体验",
-    "count": 7,
-    "category": "client"
   },
   {
     "tag": "SagerNet",
@@ -203,6 +203,11 @@
     "tag": "VMess",
     "count": 7,
     "category": "client"
+  },
+  {
+    "tag": "dat",
+    "count": 6,
+    "category": "ecosystem"
   },
   {
     "tag": "mihomo-party",
@@ -243,11 +248,6 @@
     "tag": "rust",
     "count": 6,
     "category": "core"
-  },
-  {
-    "tag": "dat",
-    "count": 5,
-    "category": "ecosystem"
   },
   {
     "tag": "v2ray-agent",
@@ -405,6 +405,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "OpenVPN",
+    "count": 3,
+    "category": "ecosystem"
+  },
+  {
     "tag": "快捷方式",
     "count": 3,
     "category": "client"
@@ -500,7 +505,7 @@
     "category": "protocol"
   },
   {
-    "tag": "OpenVPN",
+    "tag": "nicegram",
     "count": 2,
     "category": "ecosystem"
   },
@@ -670,6 +675,11 @@
     "category": "security"
   },
   {
+    "tag": "广告过滤",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
     "tag": "资源解析",
     "count": 1,
     "category": "ecosystem"
@@ -738,11 +748,6 @@
     "tag": "多语言支持",
     "count": 1,
     "category": "client"
-  },
-  {
-    "tag": "nicegram",
-    "count": 1,
-    "category": "ecosystem"
   },
   {
     "tag": "data",

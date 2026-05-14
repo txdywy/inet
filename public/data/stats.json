@@ -1,25 +1,25 @@
 {
-  "totalItems": 254,
-  "last24h": 6,
-  "last7d": 64,
+  "totalItems": 259,
+  "last24h": 7,
+  "last7d": 67,
   "byCategory": {
-    "core": 62,
-    "client": 80,
+    "core": 63,
+    "client": 81,
     "router": 0,
     "protocol": 10,
     "dns_rules": 1,
     "security": 4,
-    "ecosystem": 97,
+    "ecosystem": 100,
     "trend": 0
   },
   "topProjects": [
     {
       "project": "domain-list-community",
-      "count": 18
+      "count": 19
     },
     {
       "project": "mihomo",
-      "count": 18
+      "count": 19
     },
     {
       "project": "Sub-Store",
@@ -27,18 +27,18 @@
     },
     {
       "project": "ClashMetaForAndroid",
-      "count": 12
+      "count": 13
     },
     {
       "project": "v2ray-rules-dat",
-      "count": 11
-    },
-    {
-      "project": "v2rayN",
-      "count": 8
+      "count": 12
     },
     {
       "project": "meta-rules-dat",
+      "count": 9
+    },
+    {
+      "project": "v2rayN",
       "count": 8
     },
     {
@@ -57,23 +57,23 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 31
+      "count": 33
     },
     {
       "tag": "Android",
-      "count": 27
+      "count": 28
+    },
+    {
+      "tag": "v2fly",
+      "count": 22
     },
     {
       "tag": "网络代理",
       "count": 22
     },
     {
-      "tag": "v2fly",
-      "count": 21
-    },
-    {
       "tag": "mihomo",
-      "count": 19
+      "count": 20
     },
     {
       "tag": "Windows",
@@ -84,12 +84,12 @@
       "count": 16
     },
     {
-      "tag": "代理工具",
+      "tag": "v2ray",
       "count": 15
     },
     {
-      "tag": "v2ray",
-      "count": 14
+      "tag": "代理工具",
+      "count": 15
     },
     {
       "tag": "sing-box",
@@ -105,11 +105,11 @@
     },
     {
       "tag": "HTTP/2",
-      "count": 13
+      "count": 14
     },
     {
       "tag": "ClashMetaForAndroid",
-      "count": 12
+      "count": 13
     },
     {
       "tag": "Xray",
@@ -124,20 +124,20 @@
       "count": 12
     },
     {
-      "tag": "Hysteria",
+      "tag": "domain-list-community",
       "count": 11
     },
     {
-      "tag": "开源",
-      "count": 10
+      "tag": "Loyalsoldier",
+      "count": 11
     },
     {
-      "tag": "Loyalsoldier",
-      "count": 10
+      "tag": "Hysteria",
+      "count": 11
     }
   ],
-  "importantCount": 104,
+  "importantCount": 105,
   "breakingCount": 24,
   "securityCount": 15,
-  "updatedAt": "2026-05-13T20:07:44.424Z"
+  "updatedAt": "2026-05-14T04:15:18.540Z"
 }

@@ -83,6 +83,24 @@
     ]
   },
   {
+    "slug": "meta-rules-dat",
+    "name": "meta-rules-dat",
+    "repo": "MetaCubeX/meta-rules-dat",
+    "description": "DNS 解析、规则集、分流策略",
+    "category": "dns_rules",
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "tags": [
+      "ruleset",
+      "geosite",
+      "geoip",
+      "mihomo"
+    ]
+  },
+  {
     "slug": "naiveproxy",
     "name": "naiveproxy",
     "repo": "klzgrad/naiveproxy",
@@ -126,24 +144,6 @@
       "v2rayn",
       "windows",
       "xray-core"
-    ]
-  },
-  {
-    "slug": "meta-rules-dat",
-    "name": "meta-rules-dat",
-    "repo": "MetaCubeX/meta-rules-dat",
-    "description": "DNS 解析、规则集、分流策略",
-    "category": "dns_rules",
-    "platforms": [
-      "linux",
-      "windows",
-      "macos"
-    ],
-    "tags": [
-      "ruleset",
-      "geosite",
-      "geoip",
-      "mihomo"
     ]
   },
   {
