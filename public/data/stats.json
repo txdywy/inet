@@ -1,21 +1,21 @@
 {
-  "totalItems": 263,
-  "last24h": 10,
-  "last7d": 70,
+  "totalItems": 266,
+  "last24h": 9,
+  "last7d": 72,
   "byCategory": {
     "core": 64,
-    "client": 82,
+    "client": 84,
     "router": 0,
     "protocol": 10,
     "dns_rules": 1,
     "security": 4,
-    "ecosystem": 102,
+    "ecosystem": 103,
     "trend": 0
   },
   "topProjects": [
     {
       "project": "mihomo",
-      "count": 20
+      "count": 21
     },
     {
       "project": "domain-list-community",
@@ -23,7 +23,7 @@
     },
     {
       "project": "Sub-Store",
-      "count": 17
+      "count": 18
     },
     {
       "project": "ClashMetaForAndroid",
@@ -38,6 +38,10 @@
       "count": 9
     },
     {
+      "project": "naiveproxy",
+      "count": 9
+    },
+    {
       "project": "3x-ui",
       "count": 8
     },
@@ -48,32 +52,28 @@
     {
       "project": "v2rayNG",
       "count": 8
-    },
-    {
-      "project": "naiveproxy",
-      "count": 8
     }
   ],
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 34
+      "count": 35
     },
     {
       "tag": "Android",
       "count": 29
     },
     {
+      "tag": "网络代理",
+      "count": 23
+    },
+    {
       "tag": "v2fly",
       "count": 22
     },
     {
-      "tag": "网络代理",
-      "count": 22
-    },
-    {
       "tag": "mihomo",
-      "count": 21
+      "count": 22
     },
     {
       "tag": "Windows",
@@ -81,7 +81,11 @@
     },
     {
       "tag": "Sub-Store",
-      "count": 17
+      "count": 18
+    },
+    {
+      "tag": "HTTP/2",
+      "count": 16
     },
     {
       "tag": "v2ray",
@@ -89,10 +93,6 @@
     },
     {
       "tag": "代理工具",
-      "count": 15
-    },
-    {
-      "tag": "HTTP/2",
       "count": 15
     },
     {
@@ -112,6 +112,10 @@
       "count": 14
     },
     {
+      "tag": "VLESS",
+      "count": 13
+    },
+    {
       "tag": "Xray",
       "count": 12
     },
@@ -120,24 +124,20 @@
       "count": 12
     },
     {
-      "tag": "VLESS",
-      "count": 12
-    },
-    {
       "tag": "DNS",
       "count": 12
     },
     {
-      "tag": "domain-list-community",
+      "tag": "开源",
       "count": 11
     },
     {
-      "tag": "Loyalsoldier",
+      "tag": "domain-list-community",
       "count": 11
     }
   ],
-  "importantCount": 107,
+  "importantCount": 108,
   "breakingCount": 24,
   "securityCount": 16,
-  "updatedAt": "2026-05-14T09:11:24.105Z"
+  "updatedAt": "2026-05-14T14:44:59.737Z"
 }

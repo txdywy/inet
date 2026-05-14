@@ -83,6 +83,22 @@
     ]
   },
   {
+    "slug": "naiveproxy",
+    "name": "naiveproxy",
+    "repo": "klzgrad/naiveproxy",
+    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
+    "category": "core",
+    "platforms": [
+      "linux",
+      "windows",
+      "macos",
+      "android"
+    ],
+    "tags": [
+      "naiveproxy"
+    ]
+  },
+  {
     "slug": "meta-rules-dat",
     "name": "meta-rules-dat",
     "repo": "MetaCubeX/meta-rules-dat",
@@ -98,22 +114,6 @@
       "geosite",
       "geoip",
       "mihomo"
-    ]
-  },
-  {
-    "slug": "naiveproxy",
-    "name": "naiveproxy",
-    "repo": "klzgrad/naiveproxy",
-    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
-    "category": "core",
-    "platforms": [
-      "linux",
-      "windows",
-      "macos",
-      "android"
-    ],
-    "tags": [
-      "naiveproxy"
     ]
   },
   {

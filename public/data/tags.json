@@ -1,7 +1,7 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 34,
+    "count": 35,
     "category": "ecosystem"
   },
   {
@@ -10,18 +10,18 @@
     "category": "client"
   },
   {
+    "tag": "网络代理",
+    "count": 23,
+    "category": "ecosystem"
+  },
+  {
     "tag": "v2fly",
     "count": 22,
     "category": "ecosystem"
   },
   {
-    "tag": "网络代理",
-    "count": 22,
-    "category": "client"
-  },
-  {
     "tag": "mihomo",
-    "count": 21,
+    "count": 22,
     "category": "ecosystem"
   },
   {
@@ -31,8 +31,13 @@
   },
   {
     "tag": "Sub-Store",
-    "count": 17,
+    "count": 18,
     "category": "ecosystem"
+  },
+  {
+    "tag": "HTTP/2",
+    "count": 16,
+    "category": "client"
   },
   {
     "tag": "v2ray",
@@ -41,11 +46,6 @@
   },
   {
     "tag": "代理工具",
-    "count": 15,
-    "category": "core"
-  },
-  {
-    "tag": "HTTP/2",
     "count": 15,
     "category": "core"
   },
@@ -70,6 +70,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "VLESS",
+    "count": 13,
+    "category": "protocol"
+  },
+  {
     "tag": "Xray",
     "count": 12,
     "category": "client"
@@ -80,14 +85,14 @@
     "category": "core"
   },
   {
-    "tag": "VLESS",
-    "count": 12,
-    "category": "protocol"
-  },
-  {
     "tag": "DNS",
     "count": 12,
     "category": "core"
+  },
+  {
+    "tag": "开源",
+    "count": 11,
+    "category": "ecosystem"
   },
   {
     "tag": "domain-list-community",
@@ -110,11 +115,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "开源",
-    "count": 10,
-    "category": "client"
-  },
-  {
     "tag": "macOS",
     "count": 10,
     "category": "client"
@@ -130,12 +130,22 @@
     "category": "client"
   },
   {
+    "tag": "naiveproxy",
+    "count": 9,
+    "category": "client"
+  },
+  {
     "tag": "Clash",
     "count": 9,
     "category": "client"
   },
   {
     "tag": "3x-ui",
+    "count": 8,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "Tailscale",
     "count": 8,
     "category": "ecosystem"
   },
@@ -165,19 +175,9 @@
     "category": "client"
   },
   {
-    "tag": "naiveproxy",
-    "count": 8,
-    "category": "client"
-  },
-  {
     "tag": "Xray-core",
     "count": 8,
     "category": "core"
-  },
-  {
-    "tag": "Tailscale",
-    "count": 7,
-    "category": "ecosystem"
   },
   {
     "tag": "SagerNet",
@@ -258,6 +258,11 @@
     "tag": "rust",
     "count": 6,
     "category": "core"
+  },
+  {
+    "tag": "OpenVPN",
+    "count": 5,
+    "category": "ecosystem"
   },
   {
     "tag": "v2ray-agent",
@@ -355,11 +360,6 @@
     "category": "client"
   },
   {
-    "tag": "OpenVPN",
-    "count": 4,
-    "category": "ecosystem"
-  },
-  {
     "tag": "Docker",
     "count": 4,
     "category": "ecosystem"
@@ -415,6 +415,11 @@
     "category": "client"
   },
   {
+    "tag": "Shadowrocket",
+    "count": 3,
+    "category": "ecosystem"
+  },
+  {
     "tag": "API",
     "count": 3,
     "category": "ecosystem"
@@ -438,6 +443,11 @@
     "tag": "Gist",
     "count": 3,
     "category": "ecosystem"
+  },
+  {
+    "tag": "崩溃修复",
+    "count": 3,
+    "category": "client"
   },
   {
     "tag": "proxy",
@@ -560,19 +570,9 @@
     "category": "core"
   },
   {
-    "tag": "崩溃修复",
-    "count": 2,
-    "category": "client"
-  },
-  {
     "tag": "debug",
     "count": 2,
     "category": "ecosystem"
-  },
-  {
-    "tag": "Shadowrocket",
-    "count": 2,
-    "category": "client"
   },
   {
     "tag": "GitHub",
@@ -823,6 +823,11 @@
     "tag": "getwsj.com",
     "count": 1,
     "category": "ecosystem"
+  },
+  {
+    "tag": "前导语",
+    "count": 1,
+    "category": "client"
   },
   {
     "tag": "preamble",
