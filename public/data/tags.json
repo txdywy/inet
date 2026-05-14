@@ -1,7 +1,7 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 35,
+    "count": 36,
     "category": "ecosystem"
   },
   {
@@ -15,12 +15,12 @@
     "category": "ecosystem"
   },
   {
-    "tag": "v2fly",
-    "count": 22,
+    "tag": "mihomo",
+    "count": 23,
     "category": "ecosystem"
   },
   {
-    "tag": "mihomo",
+    "tag": "v2fly",
     "count": 22,
     "category": "ecosystem"
   },
@@ -36,8 +36,8 @@
   },
   {
     "tag": "HTTP/2",
-    "count": 16,
-    "category": "client"
+    "count": 17,
+    "category": "core"
   },
   {
     "tag": "v2ray",
@@ -65,14 +65,14 @@
     "category": "protocol"
   },
   {
+    "tag": "VLESS",
+    "count": 14,
+    "category": "protocol"
+  },
+  {
     "tag": "Linux",
     "count": 14,
     "category": "ecosystem"
-  },
-  {
-    "tag": "VLESS",
-    "count": 13,
-    "category": "protocol"
   },
   {
     "tag": "Xray",
@@ -120,6 +120,11 @@
     "category": "client"
   },
   {
+    "tag": "Tailscale",
+    "count": 9,
+    "category": "ecosystem"
+  },
+  {
     "tag": "meta-rules-dat",
     "count": 9,
     "category": "ecosystem"
@@ -141,11 +146,6 @@
   },
   {
     "tag": "3x-ui",
-    "count": 8,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "Tailscale",
     "count": 8,
     "category": "ecosystem"
   },
@@ -220,6 +220,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "OpenVPN",
+    "count": 6,
+    "category": "ecosystem"
+  },
+  {
     "tag": "mihomo-party",
     "count": 6,
     "category": "client"
@@ -258,11 +263,6 @@
     "tag": "rust",
     "count": 6,
     "category": "core"
-  },
-  {
-    "tag": "OpenVPN",
-    "count": 5,
-    "category": "ecosystem"
   },
   {
     "tag": "v2ray-agent",

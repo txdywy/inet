@@ -1,9 +1,9 @@
 {
-  "totalItems": 266,
-  "last24h": 9,
-  "last7d": 72,
+  "totalItems": 267,
+  "last24h": 8,
+  "last7d": 71,
   "byCategory": {
-    "core": 64,
+    "core": 65,
     "client": 84,
     "router": 0,
     "protocol": 10,
@@ -15,7 +15,7 @@
   "topProjects": [
     {
       "project": "mihomo",
-      "count": 21
+      "count": 22
     },
     {
       "project": "domain-list-community",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 35
+      "count": 36
     },
     {
       "tag": "Android",
@@ -68,11 +68,11 @@
       "count": 23
     },
     {
-      "tag": "v2fly",
-      "count": 22
+      "tag": "mihomo",
+      "count": 23
     },
     {
-      "tag": "mihomo",
+      "tag": "v2fly",
       "count": 22
     },
     {
@@ -85,7 +85,7 @@
     },
     {
       "tag": "HTTP/2",
-      "count": 16
+      "count": 17
     },
     {
       "tag": "v2ray",
@@ -108,12 +108,12 @@
       "count": 14
     },
     {
-      "tag": "Linux",
+      "tag": "VLESS",
       "count": 14
     },
     {
-      "tag": "VLESS",
-      "count": 13
+      "tag": "Linux",
+      "count": 14
     },
     {
       "tag": "Xray",
@@ -136,8 +136,8 @@
       "count": 11
     }
   ],
-  "importantCount": 108,
+  "importantCount": 109,
   "breakingCount": 24,
   "securityCount": 16,
-  "updatedAt": "2026-05-14T14:44:59.737Z"
+  "updatedAt": "2026-05-14T20:01:45.762Z"
 }
