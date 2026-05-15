@@ -1,32 +1,37 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 39,
+    "count": 40,
     "category": "ecosystem"
   },
   {
     "tag": "Android",
-    "count": 29,
+    "count": 30,
     "category": "client"
   },
   {
     "tag": "mihomo",
-    "count": 25,
+    "count": 26,
     "category": "ecosystem"
   },
   {
     "tag": "网络代理",
-    "count": 24,
+    "count": 25,
     "category": "ecosystem"
   },
   {
     "tag": "v2fly",
-    "count": 22,
+    "count": 24,
     "category": "ecosystem"
   },
   {
     "tag": "Sub-Store",
-    "count": 19,
+    "count": 20,
+    "category": "core"
+  },
+  {
+    "tag": "HTTP/2",
+    "count": 20,
     "category": "ecosystem"
   },
   {
@@ -35,34 +40,29 @@
     "category": "client"
   },
   {
-    "tag": "HTTP/2",
-    "count": 19,
-    "category": "ecosystem"
+    "tag": "v2ray",
+    "count": 17,
+    "category": "core"
   },
   {
-    "tag": "v2ray",
-    "count": 16,
-    "category": "ecosystem"
+    "tag": "sing-box",
+    "count": 17,
+    "category": "core"
   },
   {
     "tag": "VLESS",
-    "count": 16,
+    "count": 17,
     "category": "protocol"
+  },
+  {
+    "tag": "ClashMetaForAndroid",
+    "count": 15,
+    "category": "client"
   },
   {
     "tag": "代理工具",
     "count": 15,
     "category": "core"
-  },
-  {
-    "tag": "ClashMetaForAndroid",
-    "count": 14,
-    "category": "client"
-  },
-  {
-    "tag": "sing-box",
-    "count": 14,
-    "category": "ecosystem"
   },
   {
     "tag": "QUIC",
@@ -76,11 +76,16 @@
   },
   {
     "tag": "开源",
-    "count": 12,
+    "count": 13,
     "category": "ecosystem"
   },
   {
     "tag": "Loyalsoldier",
+    "count": 12,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "Tailscale",
     "count": 12,
     "category": "ecosystem"
   },
@@ -105,11 +110,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "Tailscale",
-    "count": 11,
-    "category": "ecosystem"
-  },
-  {
     "tag": "domain-list-community",
     "count": 11,
     "category": "ecosystem"
@@ -118,6 +118,11 @@
     "tag": "Hysteria",
     "count": 11,
     "category": "protocol"
+  },
+  {
+    "tag": "naiveproxy",
+    "count": 10,
+    "category": "core"
   },
   {
     "tag": "meta-rules-dat",
@@ -130,12 +135,17 @@
     "category": "client"
   },
   {
-    "tag": "TUN",
+    "tag": "SagerNet",
     "count": 9,
-    "category": "client"
+    "category": "ecosystem"
   },
   {
-    "tag": "naiveproxy",
+    "tag": "OpenVPN",
+    "count": 9,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "TUN",
     "count": 9,
     "category": "client"
   },
@@ -143,6 +153,11 @@
     "tag": "Clash",
     "count": 9,
     "category": "client"
+  },
+  {
+    "tag": "domain-list",
+    "count": 8,
+    "category": "ecosystem"
   },
   {
     "tag": "OpenWrt",
@@ -158,11 +173,6 @@
     "tag": "用户体验",
     "count": 8,
     "category": "client"
-  },
-  {
-    "tag": "OpenVPN",
-    "count": 8,
-    "category": "ecosystem"
   },
   {
     "tag": "VPN",
@@ -195,16 +205,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "SagerNet",
-    "count": 7,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "domain-list",
-    "count": 7,
-    "category": "ecosystem"
-  },
-  {
     "tag": "SOCKS",
     "count": 7,
     "category": "client"
@@ -218,6 +218,11 @@
     "tag": "VMess",
     "count": 7,
     "category": "client"
+  },
+  {
+    "tag": "v2ray-agent",
+    "count": 6,
+    "category": "core"
   },
   {
     "tag": "luci-app-mosdns",
@@ -270,9 +275,14 @@
     "category": "core"
   },
   {
-    "tag": "v2ray-agent",
+    "tag": "UDP",
     "count": 5,
-    "category": "ecosystem"
+    "category": "core"
+  },
+  {
+    "tag": "快捷方式",
+    "count": 5,
+    "category": "client"
   },
   {
     "tag": "sudoku",
@@ -360,11 +370,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "快捷方式",
-    "count": 4,
-    "category": "client"
-  },
-  {
     "tag": "Docker",
     "count": 4,
     "category": "ecosystem"
@@ -395,11 +400,6 @@
     "category": "protocol"
   },
   {
-    "tag": "UDP",
-    "count": 4,
-    "category": "core"
-  },
-  {
     "tag": "Hiddify Next",
     "count": 4,
     "category": "ecosystem"
@@ -417,6 +417,11 @@
   {
     "tag": "nekoray",
     "count": 4,
+    "category": "client"
+  },
+  {
+    "tag": "多语言支持",
+    "count": 3,
     "category": "client"
   },
   {
@@ -530,6 +535,11 @@
     "category": "protocol"
   },
   {
+    "tag": "中国域名",
+    "count": 2,
+    "category": "ecosystem"
+  },
+  {
     "tag": "网络安全",
     "count": 2,
     "category": "router"
@@ -538,11 +548,6 @@
     "tag": "安全性",
     "count": 2,
     "category": "ecosystem"
-  },
-  {
-    "tag": "多语言支持",
-    "count": 2,
-    "category": "client"
   },
   {
     "tag": "域名解析",
@@ -695,6 +700,36 @@
     "category": "security"
   },
   {
+    "tag": "HSBC",
+    "count": 1,
+    "category": "dns_rules"
+  },
+  {
+    "tag": "PayMe",
+    "count": 1,
+    "category": "dns_rules"
+  },
+  {
+    "tag": "域名列表",
+    "count": 1,
+    "category": "dns_rules"
+  },
+  {
+    "tag": "下载问题",
+    "count": 1,
+    "category": "core"
+  },
+  {
+    "tag": "核心",
+    "count": 1,
+    "category": "core"
+  },
+  {
+    "tag": "网络转换",
+    "count": 1,
+    "category": "core"
+  },
+  {
     "tag": "openwrt",
     "count": 1,
     "category": "ecosystem"
@@ -733,11 +768,6 @@
     "tag": ".NET",
     "count": 1,
     "category": "client"
-  },
-  {
-    "tag": "中国域名",
-    "count": 1,
-    "category": "ecosystem"
   },
   {
     "tag": "ChinaPost",

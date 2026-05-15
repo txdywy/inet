@@ -1,33 +1,33 @@
 {
-  "totalItems": 274,
-  "last24h": 6,
-  "last7d": 71,
+  "totalItems": 282,
+  "last24h": 12,
+  "last7d": 77,
   "byCategory": {
-    "core": 66,
-    "client": 84,
+    "core": 69,
+    "client": 85,
     "router": 1,
     "protocol": 10,
-    "dns_rules": 1,
+    "dns_rules": 2,
     "security": 4,
-    "ecosystem": 108,
+    "ecosystem": 111,
     "trend": 0
   },
   "topProjects": [
     {
       "project": "mihomo",
-      "count": 24
-    },
-    {
-      "project": "Sub-Store",
-      "count": 19
+      "count": 25
     },
     {
       "project": "domain-list-community",
-      "count": 19
+      "count": 21
+    },
+    {
+      "project": "Sub-Store",
+      "count": 20
     },
     {
       "project": "ClashMetaForAndroid",
-      "count": 14
+      "count": 15
     },
     {
       "project": "v2ray-rules-dat",
@@ -36,6 +36,10 @@
     {
       "project": "meta-rules-dat",
       "count": 10
+    },
+    {
+      "project": "sing-box",
+      "count": 9
     },
     {
       "project": "naiveproxy",
@@ -48,64 +52,60 @@
     {
       "project": "v2rayN",
       "count": 8
-    },
-    {
-      "project": "v2rayNG",
-      "count": 8
     }
   ],
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 39
+      "count": 40
     },
     {
       "tag": "Android",
-      "count": 29
+      "count": 30
     },
     {
       "tag": "mihomo",
-      "count": 25
+      "count": 26
     },
     {
       "tag": "网络代理",
-      "count": 24
+      "count": 25
     },
     {
       "tag": "v2fly",
-      "count": 22
+      "count": 24
     },
     {
       "tag": "Sub-Store",
-      "count": 19
+      "count": 20
+    },
+    {
+      "tag": "HTTP/2",
+      "count": 20
     },
     {
       "tag": "Windows",
       "count": 19
     },
     {
-      "tag": "HTTP/2",
-      "count": 19
+      "tag": "v2ray",
+      "count": 17
     },
     {
-      "tag": "v2ray",
-      "count": 16
+      "tag": "sing-box",
+      "count": 17
     },
     {
       "tag": "VLESS",
-      "count": 16
+      "count": 17
+    },
+    {
+      "tag": "ClashMetaForAndroid",
+      "count": 15
     },
     {
       "tag": "代理工具",
       "count": 15
-    },
-    {
-      "tag": "ClashMetaForAndroid",
-      "count": 14
-    },
-    {
-      "tag": "sing-box",
-      "count": 14
     },
     {
       "tag": "QUIC",
@@ -117,10 +117,14 @@
     },
     {
       "tag": "开源",
-      "count": 12
+      "count": 13
     },
     {
       "tag": "Loyalsoldier",
+      "count": 12
+    },
+    {
+      "tag": "Tailscale",
       "count": 12
     },
     {
@@ -130,14 +134,10 @@
     {
       "tag": "网络协议",
       "count": 12
-    },
-    {
-      "tag": "DNS",
-      "count": 12
     }
   ],
   "importantCount": 112,
   "breakingCount": 24,
   "securityCount": 17,
-  "updatedAt": "2026-05-15T09:25:59.393Z"
+  "updatedAt": "2026-05-15T14:38:49.557Z"
 }
