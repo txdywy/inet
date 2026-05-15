@@ -17,22 +17,6 @@
     ]
   },
   {
-    "slug": "domain-list-community",
-    "name": "domain-list-community",
-    "repo": "v2fly/domain-list-community",
-    "description": "DNS 解析、规则集、分流策略",
-    "category": "dns_rules",
-    "platforms": [
-      "linux",
-      "windows",
-      "macos"
-    ],
-    "tags": [
-      "geosite",
-      "domain-list"
-    ]
-  },
-  {
     "slug": "sub-store",
     "name": "Sub-Store",
     "repo": "sub-store-org/Sub-Store",
@@ -48,6 +32,22 @@
     "tags": [
       "sub-store",
       "subscription"
+    ]
+  },
+  {
+    "slug": "domain-list-community",
+    "name": "domain-list-community",
+    "repo": "v2fly/domain-list-community",
+    "description": "DNS 解析、规则集、分流策略",
+    "category": "dns_rules",
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "tags": [
+      "geosite",
+      "domain-list"
     ]
   },
   {
@@ -262,6 +262,22 @@
       "mihomo-party",
       "mihomo",
       "desktop"
+    ]
+  },
+  {
+    "slug": "luci-app-mosdns",
+    "name": "luci-app-mosdns",
+    "repo": "sbwml/luci-app-mosdns",
+    "description": "OpenWrt / 路由器固件及插件",
+    "category": "router",
+    "platforms": [
+      "openwrt",
+      "router"
+    ],
+    "tags": [
+      "mosdns",
+      "openwrt",
+      "dns"
     ]
   },
   {
@@ -486,22 +502,6 @@
       "openwrt",
       "luci",
       "clash"
-    ]
-  },
-  {
-    "slug": "luci-app-mosdns",
-    "name": "luci-app-mosdns",
-    "repo": "sbwml/luci-app-mosdns",
-    "description": "OpenWrt / 路由器固件及插件",
-    "category": "router",
-    "platforms": [
-      "openwrt",
-      "router"
-    ],
-    "tags": [
-      "mosdns",
-      "openwrt",
-      "dns"
     ]
   },
   {

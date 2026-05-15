@@ -1,7 +1,7 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 38,
+    "count": 39,
     "category": "ecosystem"
   },
   {
@@ -11,12 +11,12 @@
   },
   {
     "tag": "mihomo",
-    "count": 24,
+    "count": 25,
     "category": "ecosystem"
   },
   {
     "tag": "网络代理",
-    "count": 23,
+    "count": 24,
     "category": "ecosystem"
   },
   {
@@ -25,19 +25,19 @@
     "category": "ecosystem"
   },
   {
+    "tag": "Sub-Store",
+    "count": 19,
+    "category": "ecosystem"
+  },
+  {
     "tag": "Windows",
     "count": 19,
     "category": "client"
   },
   {
-    "tag": "Sub-Store",
-    "count": 18,
-    "category": "ecosystem"
-  },
-  {
     "tag": "HTTP/2",
-    "count": 18,
-    "category": "core"
+    "count": 19,
+    "category": "ecosystem"
   },
   {
     "tag": "v2ray",
@@ -45,14 +45,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "VLESS",
+    "count": 16,
+    "category": "protocol"
+  },
+  {
     "tag": "代理工具",
     "count": 15,
     "category": "core"
-  },
-  {
-    "tag": "VLESS",
-    "count": 15,
-    "category": "protocol"
   },
   {
     "tag": "ClashMetaForAndroid",
@@ -72,6 +72,11 @@
   {
     "tag": "Linux",
     "count": 14,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "开源",
+    "count": 12,
     "category": "ecosystem"
   },
   {
@@ -100,7 +105,7 @@
     "category": "ecosystem"
   },
   {
-    "tag": "开源",
+    "tag": "Tailscale",
     "count": 11,
     "category": "ecosystem"
   },
@@ -116,11 +121,6 @@
   },
   {
     "tag": "meta-rules-dat",
-    "count": 10,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "Tailscale",
     "count": 10,
     "category": "ecosystem"
   },
@@ -160,6 +160,11 @@
     "category": "client"
   },
   {
+    "tag": "OpenVPN",
+    "count": 8,
+    "category": "ecosystem"
+  },
+  {
     "tag": "VPN",
     "count": 8,
     "category": "ecosystem"
@@ -190,11 +195,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "OpenVPN",
-    "count": 7,
-    "category": "ecosystem"
-  },
-  {
     "tag": "SagerNet",
     "count": 7,
     "category": "ecosystem"
@@ -218,6 +218,11 @@
     "tag": "VMess",
     "count": 7,
     "category": "client"
+  },
+  {
+    "tag": "luci-app-mosdns",
+    "count": 6,
+    "category": "ecosystem"
   },
   {
     "tag": "网络优化",
@@ -285,11 +290,6 @@
     "category": "client"
   },
   {
-    "tag": "luci-app-mosdns",
-    "count": 5,
-    "category": "ecosystem"
-  },
-  {
     "tag": "CloudflareSpeedTest",
     "count": 5,
     "category": "client"
@@ -348,6 +348,11 @@
     "tag": "tuic",
     "count": 5,
     "category": "protocol"
+  },
+  {
+    "tag": "Surge",
+    "count": 4,
+    "category": "ecosystem"
   },
   {
     "tag": "用户界面",
@@ -413,6 +418,11 @@
     "tag": "nekoray",
     "count": 4,
     "category": "client"
+  },
+  {
+    "tag": "dns",
+    "count": 3,
+    "category": "ecosystem"
   },
   {
     "tag": "CVE",
@@ -513,11 +523,6 @@
     "tag": "NekoBoxForAndroid",
     "count": 3,
     "category": "client"
-  },
-  {
-    "tag": "Surge",
-    "count": 3,
-    "category": "ecosystem"
   },
   {
     "tag": "protocol",
@@ -670,11 +675,6 @@
     "category": "core"
   },
   {
-    "tag": "dns",
-    "count": 2,
-    "category": "core"
-  },
-  {
     "tag": "NekoBox",
     "count": 2,
     "category": "client"
@@ -693,6 +693,11 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "openwrt",
+    "count": 1,
+    "category": "ecosystem"
   },
   {
     "tag": "dnsmasq",
