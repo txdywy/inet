@@ -1,8 +1,8 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 40,
-    "category": "ecosystem"
+    "count": 42,
+    "category": "client"
   },
   {
     "tag": "Android",
@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 26,
+    "count": 27,
     "category": "ecosystem"
   },
   {
@@ -25,19 +25,24 @@
     "category": "ecosystem"
   },
   {
+    "tag": "HTTP/2",
+    "count": 21,
+    "category": "client"
+  },
+  {
     "tag": "Sub-Store",
     "count": 20,
     "category": "core"
   },
   {
-    "tag": "HTTP/2",
-    "count": 20,
-    "category": "ecosystem"
-  },
-  {
     "tag": "Windows",
     "count": 19,
     "category": "client"
+  },
+  {
+    "tag": "VLESS",
+    "count": 18,
+    "category": "protocol"
   },
   {
     "tag": "v2ray",
@@ -48,11 +53,6 @@
     "tag": "sing-box",
     "count": 17,
     "category": "core"
-  },
-  {
-    "tag": "VLESS",
-    "count": 17,
-    "category": "protocol"
   },
   {
     "tag": "ClashMetaForAndroid",
@@ -80,12 +80,12 @@
     "category": "ecosystem"
   },
   {
-    "tag": "Loyalsoldier",
-    "count": 12,
+    "tag": "Tailscale",
+    "count": 13,
     "category": "ecosystem"
   },
   {
-    "tag": "Tailscale",
+    "tag": "Loyalsoldier",
     "count": 12,
     "category": "ecosystem"
   },
@@ -130,17 +130,17 @@
     "category": "ecosystem"
   },
   {
+    "tag": "OpenVPN",
+    "count": 10,
+    "category": "ecosystem"
+  },
+  {
     "tag": "macOS",
     "count": 10,
     "category": "client"
   },
   {
     "tag": "SagerNet",
-    "count": 9,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "OpenVPN",
     "count": 9,
     "category": "ecosystem"
   },
@@ -220,6 +220,11 @@
     "category": "client"
   },
   {
+    "tag": "代理",
+    "count": 6,
+    "category": "client"
+  },
+  {
     "tag": "v2ray-agent",
     "count": 6,
     "category": "core"
@@ -275,6 +280,11 @@
     "category": "core"
   },
   {
+    "tag": "metacubexd",
+    "count": 5,
+    "category": "client"
+  },
+  {
     "tag": "UDP",
     "count": 5,
     "category": "core"
@@ -288,11 +298,6 @@
     "tag": "sudoku",
     "count": 5,
     "category": "core"
-  },
-  {
-    "tag": "代理",
-    "count": 5,
-    "category": "ecosystem"
   },
   {
     "tag": "v2rayA",
@@ -378,11 +383,6 @@
     "tag": "IPv6",
     "count": 4,
     "category": "client"
-  },
-  {
-    "tag": "metacubexd",
-    "count": 4,
-    "category": "core"
   },
   {
     "tag": "Clash Verge",
@@ -698,6 +698,11 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "延迟工具提示",
+    "count": 1,
+    "category": "client"
   },
   {
     "tag": "HSBC",

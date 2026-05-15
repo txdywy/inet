@@ -1,10 +1,10 @@
 {
-  "totalItems": 282,
-  "last24h": 12,
-  "last7d": 77,
+  "totalItems": 284,
+  "last24h": 13,
+  "last7d": 75,
   "byCategory": {
     "core": 69,
-    "client": 85,
+    "client": 87,
     "router": 1,
     "protocol": 10,
     "dns_rules": 2,
@@ -15,7 +15,7 @@
   "topProjects": [
     {
       "project": "mihomo",
-      "count": 25
+      "count": 26
     },
     {
       "project": "domain-list-community",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 40
+      "count": 42
     },
     {
       "tag": "Android",
@@ -65,7 +65,7 @@
     },
     {
       "tag": "mihomo",
-      "count": 26
+      "count": 27
     },
     {
       "tag": "网络代理",
@@ -76,11 +76,11 @@
       "count": 24
     },
     {
-      "tag": "Sub-Store",
-      "count": 20
+      "tag": "HTTP/2",
+      "count": 21
     },
     {
-      "tag": "HTTP/2",
+      "tag": "Sub-Store",
       "count": 20
     },
     {
@@ -88,15 +88,15 @@
       "count": 19
     },
     {
+      "tag": "VLESS",
+      "count": 18
+    },
+    {
       "tag": "v2ray",
       "count": 17
     },
     {
       "tag": "sing-box",
-      "count": 17
-    },
-    {
-      "tag": "VLESS",
       "count": 17
     },
     {
@@ -120,11 +120,11 @@
       "count": 13
     },
     {
-      "tag": "Loyalsoldier",
-      "count": 12
+      "tag": "Tailscale",
+      "count": 13
     },
     {
-      "tag": "Tailscale",
+      "tag": "Loyalsoldier",
       "count": 12
     },
     {
@@ -136,8 +136,8 @@
       "count": 12
     }
   ],
-  "importantCount": 112,
+  "importantCount": 113,
   "breakingCount": 24,
   "securityCount": 17,
-  "updatedAt": "2026-05-15T14:38:49.557Z"
+  "updatedAt": "2026-05-15T19:53:21.834Z"
 }
