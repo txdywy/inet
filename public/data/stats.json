@@ -1,21 +1,21 @@
 {
-  "totalItems": 267,
-  "last24h": 8,
-  "last7d": 71,
+  "totalItems": 271,
+  "last24h": 7,
+  "last7d": 70,
   "byCategory": {
-    "core": 65,
+    "core": 66,
     "client": 84,
-    "router": 0,
+    "router": 1,
     "protocol": 10,
     "dns_rules": 1,
     "security": 4,
-    "ecosystem": 103,
+    "ecosystem": 105,
     "trend": 0
   },
   "topProjects": [
     {
       "project": "mihomo",
-      "count": 22
+      "count": 23
     },
     {
       "project": "domain-list-community",
@@ -31,11 +31,11 @@
     },
     {
       "project": "v2ray-rules-dat",
-      "count": 12
+      "count": 13
     },
     {
       "project": "meta-rules-dat",
-      "count": 9
+      "count": 10
     },
     {
       "project": "naiveproxy",
@@ -57,18 +57,18 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 36
+      "count": 38
     },
     {
       "tag": "Android",
       "count": 29
     },
     {
-      "tag": "网络代理",
-      "count": 23
+      "tag": "mihomo",
+      "count": 24
     },
     {
-      "tag": "mihomo",
+      "tag": "网络代理",
       "count": 23
     },
     {
@@ -85,14 +85,18 @@
     },
     {
       "tag": "HTTP/2",
-      "count": 17
+      "count": 18
     },
     {
       "tag": "v2ray",
-      "count": 15
+      "count": 16
     },
     {
       "tag": "代理工具",
+      "count": 15
+    },
+    {
+      "tag": "VLESS",
       "count": 15
     },
     {
@@ -108,12 +112,12 @@
       "count": 14
     },
     {
-      "tag": "VLESS",
+      "tag": "Linux",
       "count": 14
     },
     {
-      "tag": "Linux",
-      "count": 14
+      "tag": "Loyalsoldier",
+      "count": 12
     },
     {
       "tag": "Xray",
@@ -128,16 +132,12 @@
       "count": 12
     },
     {
-      "tag": "开源",
-      "count": 11
-    },
-    {
-      "tag": "domain-list-community",
+      "tag": "rules",
       "count": 11
     }
   ],
-  "importantCount": 109,
+  "importantCount": 111,
   "breakingCount": 24,
-  "securityCount": 16,
-  "updatedAt": "2026-05-14T20:01:45.762Z"
+  "securityCount": 17,
+  "updatedAt": "2026-05-15T04:30:34.716Z"
 }

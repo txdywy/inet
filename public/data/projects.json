@@ -83,22 +83,6 @@
     ]
   },
   {
-    "slug": "naiveproxy",
-    "name": "naiveproxy",
-    "repo": "klzgrad/naiveproxy",
-    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
-    "category": "core",
-    "platforms": [
-      "linux",
-      "windows",
-      "macos",
-      "android"
-    ],
-    "tags": [
-      "naiveproxy"
-    ]
-  },
-  {
     "slug": "meta-rules-dat",
     "name": "meta-rules-dat",
     "repo": "MetaCubeX/meta-rules-dat",
@@ -114,6 +98,22 @@
       "geosite",
       "geoip",
       "mihomo"
+    ]
+  },
+  {
+    "slug": "naiveproxy",
+    "name": "naiveproxy",
+    "repo": "klzgrad/naiveproxy",
+    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
+    "category": "core",
+    "platforms": [
+      "linux",
+      "windows",
+      "macos",
+      "android"
+    ],
+    "tags": [
+      "naiveproxy"
     ]
   },
   {
@@ -217,6 +217,20 @@
     ]
   },
   {
+    "slug": "openwrt",
+    "name": "openwrt",
+    "repo": "openwrt/openwrt",
+    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
+    "category": "ecosystem",
+    "platforms": [
+      "openwrt",
+      "router"
+    ],
+    "tags": [
+      "openwrt"
+    ]
+  },
+  {
     "slug": "sudoku",
     "name": "sudoku",
     "repo": "SUDOKU-ASCII/sudoku",
@@ -248,20 +262,6 @@
       "mihomo-party",
       "mihomo",
       "desktop"
-    ]
-  },
-  {
-    "slug": "openwrt",
-    "name": "openwrt",
-    "repo": "openwrt/openwrt",
-    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
-    "category": "ecosystem",
-    "platforms": [
-      "openwrt",
-      "router"
-    ],
-    "tags": [
-      "openwrt"
     ]
   },
   {

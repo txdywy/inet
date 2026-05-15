@@ -1,7 +1,7 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 36,
+    "count": 38,
     "category": "ecosystem"
   },
   {
@@ -10,12 +10,12 @@
     "category": "client"
   },
   {
-    "tag": "网络代理",
-    "count": 23,
+    "tag": "mihomo",
+    "count": 24,
     "category": "ecosystem"
   },
   {
-    "tag": "mihomo",
+    "tag": "网络代理",
     "count": 23,
     "category": "ecosystem"
   },
@@ -36,18 +36,23 @@
   },
   {
     "tag": "HTTP/2",
-    "count": 17,
+    "count": 18,
     "category": "core"
   },
   {
     "tag": "v2ray",
-    "count": 15,
+    "count": 16,
     "category": "ecosystem"
   },
   {
     "tag": "代理工具",
     "count": 15,
     "category": "core"
+  },
+  {
+    "tag": "VLESS",
+    "count": 15,
+    "category": "protocol"
   },
   {
     "tag": "ClashMetaForAndroid",
@@ -65,13 +70,13 @@
     "category": "protocol"
   },
   {
-    "tag": "VLESS",
-    "count": 14,
-    "category": "protocol"
-  },
-  {
     "tag": "Linux",
     "count": 14,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "Loyalsoldier",
+    "count": 12,
     "category": "ecosystem"
   },
   {
@@ -90,6 +95,11 @@
     "category": "core"
   },
   {
+    "tag": "rules",
+    "count": 11,
+    "category": "ecosystem"
+  },
+  {
     "tag": "开源",
     "count": 11,
     "category": "ecosystem"
@@ -100,17 +110,17 @@
     "category": "ecosystem"
   },
   {
-    "tag": "Loyalsoldier",
-    "count": 11,
-    "category": "ecosystem"
-  },
-  {
     "tag": "Hysteria",
     "count": 11,
     "category": "protocol"
   },
   {
-    "tag": "rules",
+    "tag": "meta-rules-dat",
+    "count": 10,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "Tailscale",
     "count": 10,
     "category": "ecosystem"
   },
@@ -118,16 +128,6 @@
     "tag": "macOS",
     "count": 10,
     "category": "client"
-  },
-  {
-    "tag": "Tailscale",
-    "count": 9,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "meta-rules-dat",
-    "count": 9,
-    "category": "ecosystem"
   },
   {
     "tag": "TUN",
@@ -143,6 +143,11 @@
     "tag": "Clash",
     "count": 9,
     "category": "client"
+  },
+  {
+    "tag": "OpenWrt",
+    "count": 8,
+    "category": "router"
   },
   {
     "tag": "3x-ui",
@@ -180,6 +185,16 @@
     "category": "core"
   },
   {
+    "tag": "dat",
+    "count": 7,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "OpenVPN",
+    "count": 7,
+    "category": "ecosystem"
+  },
+  {
     "tag": "SagerNet",
     "count": 7,
     "category": "ecosystem"
@@ -195,11 +210,6 @@
     "category": "client"
   },
   {
-    "tag": "OpenWrt",
-    "count": 7,
-    "category": "ecosystem"
-  },
-  {
     "tag": "WireGuard",
     "count": 7,
     "category": "ecosystem"
@@ -211,16 +221,6 @@
   },
   {
     "tag": "网络优化",
-    "count": 6,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "dat",
-    "count": 6,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "OpenVPN",
     "count": 6,
     "category": "ecosystem"
   },
@@ -415,6 +415,11 @@
     "category": "client"
   },
   {
+    "tag": "CVE",
+    "count": 3,
+    "category": "router"
+  },
+  {
     "tag": "Shadowrocket",
     "count": 3,
     "category": "ecosystem"
@@ -520,6 +525,11 @@
     "category": "protocol"
   },
   {
+    "tag": "网络安全",
+    "count": 2,
+    "category": "router"
+  },
+  {
     "tag": "安全性",
     "count": 2,
     "category": "ecosystem"
@@ -576,11 +586,6 @@
   },
   {
     "tag": "GitHub",
-    "count": 2,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "CVE",
     "count": 2,
     "category": "ecosystem"
   },
@@ -688,6 +693,16 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "dnsmasq",
+    "count": 1,
+    "category": "router"
+  },
+  {
+    "tag": "Linux kernel",
+    "count": 1,
+    "category": "router"
   },
   {
     "tag": "广告过滤",
@@ -1196,11 +1211,6 @@
   },
   {
     "tag": "黑名单机制",
-    "count": 1,
-    "category": "core"
-  },
-  {
-    "tag": "网络安全",
     "count": 1,
     "category": "core"
   },
