@@ -1,8 +1,8 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 42,
-    "category": "client"
+    "count": 43,
+    "category": "ecosystem"
   },
   {
     "tag": "Android",
@@ -40,14 +40,14 @@
     "category": "client"
   },
   {
+    "tag": "v2ray",
+    "count": 18,
+    "category": "ecosystem"
+  },
+  {
     "tag": "VLESS",
     "count": 18,
     "category": "protocol"
-  },
-  {
-    "tag": "v2ray",
-    "count": 17,
-    "category": "core"
   },
   {
     "tag": "sing-box",
@@ -75,6 +75,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "Loyalsoldier",
+    "count": 13,
+    "category": "ecosystem"
+  },
+  {
     "tag": "开源",
     "count": 13,
     "category": "ecosystem"
@@ -85,7 +90,7 @@
     "category": "ecosystem"
   },
   {
-    "tag": "Loyalsoldier",
+    "tag": "rules",
     "count": 12,
     "category": "ecosystem"
   },
@@ -105,7 +110,7 @@
     "category": "core"
   },
   {
-    "tag": "rules",
+    "tag": "meta-rules-dat",
     "count": 11,
     "category": "ecosystem"
   },
@@ -123,11 +128,6 @@
     "tag": "naiveproxy",
     "count": 10,
     "category": "core"
-  },
-  {
-    "tag": "meta-rules-dat",
-    "count": 10,
-    "category": "ecosystem"
   },
   {
     "tag": "OpenVPN",

@@ -1,7 +1,7 @@
 {
-  "totalItems": 284,
-  "last24h": 13,
-  "last7d": 75,
+  "totalItems": 286,
+  "last24h": 12,
+  "last7d": 71,
   "byCategory": {
     "core": 69,
     "client": 87,
@@ -9,7 +9,7 @@
     "protocol": 10,
     "dns_rules": 2,
     "security": 4,
-    "ecosystem": 111,
+    "ecosystem": 113,
     "trend": 0
   },
   "topProjects": [
@@ -31,11 +31,11 @@
     },
     {
       "project": "v2ray-rules-dat",
-      "count": 13
+      "count": 14
     },
     {
       "project": "meta-rules-dat",
-      "count": 10
+      "count": 11
     },
     {
       "project": "sing-box",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 42
+      "count": 43
     },
     {
       "tag": "Android",
@@ -88,12 +88,12 @@
       "count": 19
     },
     {
-      "tag": "VLESS",
+      "tag": "v2ray",
       "count": 18
     },
     {
-      "tag": "v2ray",
-      "count": 17
+      "tag": "VLESS",
+      "count": 18
     },
     {
       "tag": "sing-box",
@@ -116,6 +116,10 @@
       "count": 14
     },
     {
+      "tag": "Loyalsoldier",
+      "count": 13
+    },
+    {
       "tag": "开源",
       "count": 13
     },
@@ -124,20 +128,16 @@
       "count": 13
     },
     {
-      "tag": "Loyalsoldier",
+      "tag": "rules",
       "count": 12
     },
     {
       "tag": "Xray",
-      "count": 12
-    },
-    {
-      "tag": "网络协议",
       "count": 12
     }
   ],
   "importantCount": 113,
   "breakingCount": 24,
   "securityCount": 17,
-  "updatedAt": "2026-05-15T19:53:21.834Z"
+  "updatedAt": "2026-05-16T04:05:44.932Z"
 }
