@@ -1,7 +1,7 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 43,
+    "count": 44,
     "category": "ecosystem"
   },
   {
@@ -11,7 +11,12 @@
   },
   {
     "tag": "mihomo",
-    "count": 27,
+    "count": 28,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "v2fly",
+    "count": 25,
     "category": "ecosystem"
   },
   {
@@ -20,18 +25,13 @@
     "category": "ecosystem"
   },
   {
-    "tag": "v2fly",
-    "count": 24,
-    "category": "ecosystem"
-  },
-  {
     "tag": "HTTP/2",
-    "count": 21,
+    "count": 22,
     "category": "client"
   },
   {
     "tag": "Sub-Store",
-    "count": 20,
+    "count": 21,
     "category": "core"
   },
   {
@@ -40,19 +40,24 @@
     "category": "client"
   },
   {
+    "tag": "VLESS",
+    "count": 19,
+    "category": "protocol"
+  },
+  {
     "tag": "v2ray",
     "count": 18,
     "category": "ecosystem"
   },
   {
-    "tag": "VLESS",
-    "count": 18,
-    "category": "protocol"
-  },
-  {
     "tag": "sing-box",
     "count": 17,
     "category": "core"
+  },
+  {
+    "tag": "Linux",
+    "count": 15,
+    "category": "client"
   },
   {
     "tag": "ClashMetaForAndroid",
@@ -65,14 +70,14 @@
     "category": "core"
   },
   {
+    "tag": "Tailscale",
+    "count": 14,
+    "category": "ecosystem"
+  },
+  {
     "tag": "QUIC",
     "count": 14,
     "category": "protocol"
-  },
-  {
-    "tag": "Linux",
-    "count": 14,
-    "category": "ecosystem"
   },
   {
     "tag": "Loyalsoldier",
@@ -85,8 +90,8 @@
     "category": "ecosystem"
   },
   {
-    "tag": "Tailscale",
-    "count": 13,
+    "tag": "domain-list-community",
+    "count": 12,
     "category": "ecosystem"
   },
   {
@@ -115,7 +120,7 @@
     "category": "ecosystem"
   },
   {
-    "tag": "domain-list-community",
+    "tag": "OpenVPN",
     "count": 11,
     "category": "ecosystem"
   },
@@ -130,13 +135,13 @@
     "category": "core"
   },
   {
-    "tag": "OpenVPN",
-    "count": 10,
-    "category": "ecosystem"
-  },
-  {
     "tag": "macOS",
     "count": 10,
+    "category": "client"
+  },
+  {
+    "tag": "v2rayN",
+    "count": 9,
     "category": "client"
   },
   {
@@ -178,11 +183,6 @@
     "tag": "VPN",
     "count": 8,
     "category": "ecosystem"
-  },
-  {
-    "tag": "v2rayN",
-    "count": 8,
-    "category": "client"
   },
   {
     "tag": "xray",
@@ -535,6 +535,21 @@
     "category": "protocol"
   },
   {
+    "tag": "socket",
+    "count": 2,
+    "category": "core"
+  },
+  {
+    "tag": ".NET",
+    "count": 2,
+    "category": "client"
+  },
+  {
+    "tag": "跨平台",
+    "count": 2,
+    "category": "client"
+  },
+  {
     "tag": "中国域名",
     "count": 2,
     "category": "ecosystem"
@@ -700,6 +715,16 @@
     "category": "security"
   },
   {
+    "tag": "Arch Linux",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "脚本上下文",
+    "count": 1,
+    "category": "core"
+  },
+  {
     "tag": "延迟工具提示",
     "count": 1,
     "category": "client"
@@ -766,11 +791,6 @@
   },
   {
     "tag": "功能修复",
-    "count": 1,
-    "category": "client"
-  },
-  {
-    "tag": ".NET",
     "count": 1,
     "category": "client"
   },
@@ -1053,11 +1073,6 @@
     "tag": "加密协议",
     "count": 1,
     "category": "client"
-  },
-  {
-    "tag": "socket",
-    "count": 1,
-    "category": "core"
   },
   {
     "tag": "debugging",
@@ -1601,11 +1616,6 @@
   },
   {
     "tag": "Pushover",
-    "count": 1,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "跨平台",
     "count": 1,
     "category": "ecosystem"
   },

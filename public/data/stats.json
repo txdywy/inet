@@ -1,29 +1,29 @@
 {
-  "totalItems": 286,
-  "last24h": 10,
-  "last7d": 67,
+  "totalItems": 290,
+  "last24h": 7,
+  "last7d": 69,
   "byCategory": {
-    "core": 69,
-    "client": 87,
+    "core": 70,
+    "client": 89,
     "router": 1,
     "protocol": 10,
     "dns_rules": 2,
     "security": 4,
-    "ecosystem": 113,
+    "ecosystem": 114,
     "trend": 0
   },
   "topProjects": [
     {
       "project": "mihomo",
-      "count": 26
+      "count": 27
     },
     {
       "project": "domain-list-community",
-      "count": 21
+      "count": 22
     },
     {
       "project": "Sub-Store",
-      "count": 20
+      "count": 21
     },
     {
       "project": "ClashMetaForAndroid",
@@ -38,6 +38,10 @@
       "count": 11
     },
     {
+      "project": "v2rayN",
+      "count": 9
+    },
+    {
       "project": "sing-box",
       "count": 9
     },
@@ -48,16 +52,12 @@
     {
       "project": "3x-ui",
       "count": 8
-    },
-    {
-      "project": "v2rayN",
-      "count": 8
     }
   ],
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 43
+      "count": 44
     },
     {
       "tag": "Android",
@@ -65,26 +65,30 @@
     },
     {
       "tag": "mihomo",
-      "count": 27
+      "count": 28
+    },
+    {
+      "tag": "v2fly",
+      "count": 25
     },
     {
       "tag": "网络代理",
       "count": 25
     },
     {
-      "tag": "v2fly",
-      "count": 24
-    },
-    {
       "tag": "HTTP/2",
-      "count": 21
+      "count": 22
     },
     {
       "tag": "Sub-Store",
-      "count": 20
+      "count": 21
     },
     {
       "tag": "Windows",
+      "count": 19
+    },
+    {
+      "tag": "VLESS",
       "count": 19
     },
     {
@@ -92,12 +96,12 @@
       "count": 18
     },
     {
-      "tag": "VLESS",
-      "count": 18
-    },
-    {
       "tag": "sing-box",
       "count": 17
+    },
+    {
+      "tag": "Linux",
+      "count": 15
     },
     {
       "tag": "ClashMetaForAndroid",
@@ -108,11 +112,11 @@
       "count": 15
     },
     {
-      "tag": "QUIC",
+      "tag": "Tailscale",
       "count": 14
     },
     {
-      "tag": "Linux",
+      "tag": "QUIC",
       "count": 14
     },
     {
@@ -124,20 +128,16 @@
       "count": 13
     },
     {
-      "tag": "Tailscale",
-      "count": 13
+      "tag": "domain-list-community",
+      "count": 12
     },
     {
       "tag": "rules",
       "count": 12
-    },
-    {
-      "tag": "Xray",
-      "count": 12
     }
   ],
-  "importantCount": 113,
+  "importantCount": 114,
   "breakingCount": 24,
   "securityCount": 17,
-  "updatedAt": "2026-05-16T08:20:55.984Z"
+  "updatedAt": "2026-05-16T14:01:54.758Z"
 }
