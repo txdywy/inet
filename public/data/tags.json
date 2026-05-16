@@ -1,17 +1,17 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 44,
+    "count": 46,
     "category": "ecosystem"
   },
   {
     "tag": "Android",
-    "count": 30,
+    "count": 32,
     "category": "client"
   },
   {
     "tag": "mihomo",
-    "count": 28,
+    "count": 30,
     "category": "ecosystem"
   },
   {
@@ -25,14 +25,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "Sub-Store",
+    "count": 22,
+    "category": "ecosystem"
+  },
+  {
     "tag": "HTTP/2",
     "count": 22,
     "category": "client"
-  },
-  {
-    "tag": "Sub-Store",
-    "count": 21,
-    "category": "core"
   },
   {
     "tag": "Windows",
@@ -50,29 +50,29 @@
     "category": "ecosystem"
   },
   {
+    "tag": "ClashMetaForAndroid",
+    "count": 17,
+    "category": "client"
+  },
+  {
     "tag": "sing-box",
     "count": 17,
     "category": "core"
   },
   {
-    "tag": "Linux",
-    "count": 15,
-    "category": "client"
-  },
-  {
-    "tag": "ClashMetaForAndroid",
-    "count": 15,
-    "category": "client"
-  },
-  {
     "tag": "代理工具",
-    "count": 15,
-    "category": "core"
+    "count": 16,
+    "category": "ecosystem"
   },
   {
     "tag": "Tailscale",
-    "count": 14,
+    "count": 15,
     "category": "ecosystem"
+  },
+  {
+    "tag": "Linux",
+    "count": 15,
+    "category": "client"
   },
   {
     "tag": "QUIC",
@@ -87,6 +87,11 @@
   {
     "tag": "开源",
     "count": 13,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "OpenVPN",
+    "count": 12,
     "category": "ecosystem"
   },
   {
@@ -116,11 +121,6 @@
   },
   {
     "tag": "meta-rules-dat",
-    "count": 11,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "OpenVPN",
     "count": 11,
     "category": "ecosystem"
   },
@@ -200,6 +200,11 @@
     "category": "core"
   },
   {
+    "tag": "快捷方式",
+    "count": 7,
+    "category": "client"
+  },
+  {
     "tag": "dat",
     "count": 7,
     "category": "ecosystem"
@@ -218,6 +223,11 @@
     "tag": "VMess",
     "count": 7,
     "category": "client"
+  },
+  {
+    "tag": "shadowsocks",
+    "count": 6,
+    "category": "ecosystem"
   },
   {
     "tag": "代理",
@@ -290,11 +300,6 @@
     "category": "core"
   },
   {
-    "tag": "快捷方式",
-    "count": 5,
-    "category": "client"
-  },
-  {
     "tag": "sudoku",
     "count": 5,
     "category": "core"
@@ -340,11 +345,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "shadowsocks",
-    "count": 5,
-    "category": "core"
-  },
-  {
     "tag": "juicity",
     "count": 5,
     "category": "ecosystem"
@@ -363,6 +363,16 @@
     "tag": "tuic",
     "count": 5,
     "category": "protocol"
+  },
+  {
+    "tag": "依赖更新",
+    "count": 4,
+    "category": "client"
+  },
+  {
+    "tag": "多语言支持",
+    "count": 4,
+    "category": "client"
   },
   {
     "tag": "Surge",
@@ -420,9 +430,9 @@
     "category": "client"
   },
   {
-    "tag": "多语言支持",
+    "tag": "hysteria2",
     "count": 3,
-    "category": "client"
+    "category": "ecosystem"
   },
   {
     "tag": "dns",
@@ -491,11 +501,6 @@
   },
   {
     "tag": "NaiveProxy",
-    "count": 3,
-    "category": "client"
-  },
-  {
-    "tag": "依赖更新",
     "count": 3,
     "category": "client"
   },
@@ -610,6 +615,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "预发布",
+    "count": 2,
+    "category": "client"
+  },
+  {
     "tag": "GitHub",
     "count": 2,
     "category": "ecosystem"
@@ -680,11 +690,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "hysteria2",
-    "count": 2,
-    "category": "core"
-  },
-  {
     "tag": "vmess",
     "count": 2,
     "category": "ecosystem"
@@ -713,6 +718,16 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "深度链接",
+    "count": 1,
+    "category": "client"
+  },
+  {
+    "tag": "GOST",
+    "count": 1,
+    "category": "ecosystem"
   },
   {
     "tag": "Arch Linux",
@@ -983,11 +998,6 @@
     "tag": "ECH",
     "count": 1,
     "category": "protocol"
-  },
-  {
-    "tag": "预发布",
-    "count": 1,
-    "category": "client"
   },
   {
     "tag": "artifact",
@@ -1616,6 +1626,11 @@
   },
   {
     "tag": "Pushover",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "Alpha",
     "count": 1,
     "category": "ecosystem"
   },
