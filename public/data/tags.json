@@ -1,18 +1,18 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 48,
+    "count": 49,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "mihomo",
+    "count": 32,
     "category": "ecosystem"
   },
   {
     "tag": "Android",
     "count": 32,
     "category": "client"
-  },
-  {
-    "tag": "mihomo",
-    "count": 31,
-    "category": "ecosystem"
   },
   {
     "tag": "v2fly",
@@ -395,6 +395,11 @@
     "category": "client"
   },
   {
+    "tag": "预发布",
+    "count": 4,
+    "category": "client"
+  },
+  {
     "tag": "Clash Verge",
     "count": 4,
     "category": "client"
@@ -485,11 +490,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "预发布",
-    "count": 3,
-    "category": "client"
-  },
-  {
     "tag": "配置管理",
     "count": 3,
     "category": "ecosystem"
@@ -538,6 +538,11 @@
     "tag": "NekoBoxForAndroid",
     "count": 3,
     "category": "client"
+  },
+  {
+    "tag": "Alpha",
+    "count": 3,
+    "category": "ecosystem"
   },
   {
     "tag": "protocol",
@@ -708,11 +713,6 @@
     "tag": "bugfix",
     "count": 2,
     "category": "core"
-  },
-  {
-    "tag": "Alpha",
-    "count": 2,
-    "category": "ecosystem"
   },
   {
     "tag": "命令行工具",
