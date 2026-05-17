@@ -1,12 +1,12 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 49,
+    "count": 50,
     "category": "ecosystem"
   },
   {
     "tag": "mihomo",
-    "count": 32,
+    "count": 33,
     "category": "ecosystem"
   },
   {
@@ -26,7 +26,7 @@
   },
   {
     "tag": "Sub-Store",
-    "count": 22,
+    "count": 23,
     "category": "ecosystem"
   },
   {
@@ -90,17 +90,17 @@
     "category": "ecosystem"
   },
   {
+    "tag": "OpenVPN",
+    "count": 13,
+    "category": "ecosystem"
+  },
+  {
     "tag": "开源",
     "count": 13,
     "category": "ecosystem"
   },
   {
     "tag": "meta-rules-dat",
-    "count": 12,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "OpenVPN",
     "count": 12,
     "category": "ecosystem"
   },
@@ -550,6 +550,11 @@
     "category": "protocol"
   },
   {
+    "tag": "功能增强",
+    "count": 2,
+    "category": "ecosystem"
+  },
+  {
     "tag": "socket",
     "count": 2,
     "category": "core"
@@ -723,6 +728,11 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "响应处理",
+    "count": 1,
+    "category": "ecosystem"
   },
   {
     "tag": "深度链接",
@@ -946,11 +956,6 @@
   },
   {
     "tag": "连接",
-    "count": 1,
-    "category": "core"
-  },
-  {
-    "tag": "功能增强",
     "count": 1,
     "category": "core"
   },
@@ -1633,6 +1638,16 @@
     "tag": "Pushover",
     "count": 1,
     "category": "ecosystem"
+  },
+  {
+    "tag": "CHACHA20-POLY1305",
+    "count": 1,
+    "category": "protocol"
+  },
+  {
+    "tag": "加密算法",
+    "count": 1,
+    "category": "protocol"
   },
   {
     "tag": "clash",
