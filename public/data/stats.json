@@ -1,25 +1,25 @@
 {
-  "totalItems": 301,
+  "totalItems": 306,
   "last24h": 7,
-  "last7d": 63,
+  "last7d": 64,
   "byCategory": {
-    "core": 70,
-    "client": 91,
+    "core": 71,
+    "client": 93,
     "router": 1,
-    "protocol": 11,
+    "protocol": 12,
     "dns_rules": 2,
     "security": 4,
-    "ecosystem": 122,
+    "ecosystem": 123,
     "trend": 0
   },
   "topProjects": [
     {
       "project": "mihomo",
-      "count": 32
+      "count": 33
     },
     {
       "project": "Sub-Store",
-      "count": 23
+      "count": 26
     },
     {
       "project": "domain-list-community",
@@ -57,27 +57,27 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 50
+      "count": 51
     },
     {
       "tag": "mihomo",
-      "count": 33
+      "count": 34
     },
     {
       "tag": "Android",
       "count": 32
     },
     {
-      "tag": "v2fly",
-      "count": 25
+      "tag": "Sub-Store",
+      "count": 26
     },
     {
       "tag": "网络代理",
-      "count": 25
+      "count": 26
     },
     {
-      "tag": "Sub-Store",
-      "count": 23
+      "tag": "v2fly",
+      "count": 25
     },
     {
       "tag": "HTTP/2",
@@ -120,6 +120,10 @@
       "count": 14
     },
     {
+      "tag": "OpenVPN",
+      "count": 14
+    },
+    {
       "tag": "QUIC",
       "count": 14
     },
@@ -128,16 +132,12 @@
       "count": 13
     },
     {
-      "tag": "OpenVPN",
-      "count": 13
-    },
-    {
       "tag": "开源",
       "count": 13
     }
   ],
-  "importantCount": 115,
+  "importantCount": 117,
   "breakingCount": 24,
-  "securityCount": 17,
-  "updatedAt": "2026-05-17T13:59:54.947Z"
+  "securityCount": 19,
+  "updatedAt": "2026-05-17T19:35:16.879Z"
 }

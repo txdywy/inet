@@ -1,12 +1,12 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 50,
+    "count": 51,
     "category": "ecosystem"
   },
   {
     "tag": "mihomo",
-    "count": 33,
+    "count": 34,
     "category": "ecosystem"
   },
   {
@@ -15,18 +15,18 @@
     "category": "client"
   },
   {
-    "tag": "v2fly",
-    "count": 25,
-    "category": "ecosystem"
+    "tag": "Sub-Store",
+    "count": 26,
+    "category": "client"
   },
   {
     "tag": "网络代理",
-    "count": 25,
-    "category": "ecosystem"
+    "count": 26,
+    "category": "client"
   },
   {
-    "tag": "Sub-Store",
-    "count": 23,
+    "tag": "v2fly",
+    "count": 25,
     "category": "ecosystem"
   },
   {
@@ -80,17 +80,17 @@
     "category": "ecosystem"
   },
   {
+    "tag": "OpenVPN",
+    "count": 14,
+    "category": "ecosystem"
+  },
+  {
     "tag": "QUIC",
     "count": 14,
     "category": "protocol"
   },
   {
     "tag": "rules",
-    "count": 13,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "OpenVPN",
     "count": 13,
     "category": "ecosystem"
   },
@@ -225,6 +225,11 @@
     "category": "client"
   },
   {
+    "tag": "Surge",
+    "count": 6,
+    "category": "client"
+  },
+  {
     "tag": "shadowsocks",
     "count": 6,
     "category": "ecosystem"
@@ -287,6 +292,11 @@
   {
     "tag": "rust",
     "count": 6,
+    "category": "core"
+  },
+  {
+    "tag": "依赖更新",
+    "count": 5,
     "category": "core"
   },
   {
@@ -365,19 +375,14 @@
     "category": "protocol"
   },
   {
-    "tag": "依赖更新",
+    "tag": "v2ray-core",
     "count": 4,
-    "category": "client"
+    "category": "core"
   },
   {
     "tag": "多语言支持",
     "count": 4,
     "category": "client"
-  },
-  {
-    "tag": "Surge",
-    "count": 4,
-    "category": "ecosystem"
   },
   {
     "tag": "用户界面",
@@ -433,6 +438,16 @@
     "tag": "nekoray",
     "count": 4,
     "category": "client"
+  },
+  {
+    "tag": "网络安全",
+    "count": 3,
+    "category": "client"
+  },
+  {
+    "tag": "golang",
+    "count": 3,
+    "category": "core"
   },
   {
     "tag": "hysteria2",
@@ -525,11 +540,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "v2ray-core",
-    "count": 3,
-    "category": "core"
-  },
-  {
     "tag": "测速工具",
     "count": 3,
     "category": "protocol"
@@ -548,6 +558,11 @@
     "tag": "protocol",
     "count": 3,
     "category": "protocol"
+  },
+  {
+    "tag": "client-cert",
+    "count": 2,
+    "category": "client"
   },
   {
     "tag": "功能增强",
@@ -573,11 +588,6 @@
     "tag": "中国域名",
     "count": 2,
     "category": "ecosystem"
-  },
-  {
-    "tag": "网络安全",
-    "count": 2,
-    "category": "router"
   },
   {
     "tag": "安全性",
@@ -660,11 +670,6 @@
     "category": "core"
   },
   {
-    "tag": "golang",
-    "count": 2,
-    "category": "core"
-  },
-  {
     "tag": "Reno",
     "count": 2,
     "category": "core"
@@ -720,6 +725,11 @@
     "category": "core"
   },
   {
+    "tag": "CHACHA20-POLY1305",
+    "count": 2,
+    "category": "protocol"
+  },
+  {
     "tag": "命令行工具",
     "count": 2,
     "category": "ecosystem"
@@ -728,6 +738,16 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "Egern Hysteria 2",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "带宽管理",
+    "count": 1,
+    "category": "ecosystem"
   },
   {
     "tag": "响应处理",
@@ -1640,7 +1660,7 @@
     "category": "ecosystem"
   },
   {
-    "tag": "CHACHA20-POLY1305",
+    "tag": "加密",
     "count": 1,
     "category": "protocol"
   },
