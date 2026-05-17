@@ -1,7 +1,7 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 46,
+    "count": 48,
     "category": "ecosystem"
   },
   {
@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 30,
+    "count": 31,
     "category": "ecosystem"
   },
   {
@@ -35,6 +35,11 @@
     "category": "client"
   },
   {
+    "tag": "v2ray",
+    "count": 19,
+    "category": "ecosystem"
+  },
+  {
     "tag": "Windows",
     "count": 19,
     "category": "client"
@@ -43,11 +48,6 @@
     "tag": "VLESS",
     "count": 19,
     "category": "protocol"
-  },
-  {
-    "tag": "v2ray",
-    "count": 18,
-    "category": "ecosystem"
   },
   {
     "tag": "ClashMetaForAndroid",
@@ -75,12 +75,17 @@
     "category": "client"
   },
   {
+    "tag": "Loyalsoldier",
+    "count": 14,
+    "category": "ecosystem"
+  },
+  {
     "tag": "QUIC",
     "count": 14,
     "category": "protocol"
   },
   {
-    "tag": "Loyalsoldier",
+    "tag": "rules",
     "count": 13,
     "category": "ecosystem"
   },
@@ -90,17 +95,17 @@
     "category": "ecosystem"
   },
   {
+    "tag": "meta-rules-dat",
+    "count": 12,
+    "category": "ecosystem"
+  },
+  {
     "tag": "OpenVPN",
     "count": 12,
     "category": "ecosystem"
   },
   {
     "tag": "domain-list-community",
-    "count": 12,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "rules",
     "count": 12,
     "category": "ecosystem"
   },
@@ -118,11 +123,6 @@
     "tag": "DNS",
     "count": 12,
     "category": "core"
-  },
-  {
-    "tag": "meta-rules-dat",
-    "count": 11,
-    "category": "ecosystem"
   },
   {
     "tag": "Hysteria",
@@ -485,6 +485,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "预发布",
+    "count": 3,
+    "category": "client"
+  },
+  {
     "tag": "配置管理",
     "count": 3,
     "category": "ecosystem"
@@ -615,11 +620,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "预发布",
-    "count": 2,
-    "category": "client"
-  },
-  {
     "tag": "GitHub",
     "count": 2,
     "category": "ecosystem"
@@ -708,6 +708,11 @@
     "tag": "bugfix",
     "count": 2,
     "category": "core"
+  },
+  {
+    "tag": "Alpha",
+    "count": 2,
+    "category": "ecosystem"
   },
   {
     "tag": "命令行工具",
@@ -1626,11 +1631,6 @@
   },
   {
     "tag": "Pushover",
-    "count": 1,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "Alpha",
     "count": 1,
     "category": "ecosystem"
   },

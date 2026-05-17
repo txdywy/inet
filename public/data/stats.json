@@ -1,7 +1,7 @@
 {
-  "totalItems": 295,
+  "totalItems": 298,
   "last24h": 9,
-  "last7d": 71,
+  "last7d": 66,
   "byCategory": {
     "core": 70,
     "client": 91,
@@ -9,13 +9,13 @@
     "protocol": 10,
     "dns_rules": 2,
     "security": 4,
-    "ecosystem": 117,
+    "ecosystem": 120,
     "trend": 0
   },
   "topProjects": [
     {
       "project": "mihomo",
-      "count": 29
+      "count": 30
     },
     {
       "project": "Sub-Store",
@@ -31,11 +31,11 @@
     },
     {
       "project": "v2ray-rules-dat",
-      "count": 14
+      "count": 15
     },
     {
       "project": "meta-rules-dat",
-      "count": 11
+      "count": 12
     },
     {
       "project": "v2rayN",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 46
+      "count": 48
     },
     {
       "tag": "Android",
@@ -65,7 +65,7 @@
     },
     {
       "tag": "mihomo",
-      "count": 30
+      "count": 31
     },
     {
       "tag": "v2fly",
@@ -84,16 +84,16 @@
       "count": 22
     },
     {
+      "tag": "v2ray",
+      "count": 19
+    },
+    {
       "tag": "Windows",
       "count": 19
     },
     {
       "tag": "VLESS",
       "count": 19
-    },
-    {
-      "tag": "v2ray",
-      "count": 18
     },
     {
       "tag": "ClashMetaForAndroid",
@@ -116,11 +116,15 @@
       "count": 15
     },
     {
+      "tag": "Loyalsoldier",
+      "count": 14
+    },
+    {
       "tag": "QUIC",
       "count": 14
     },
     {
-      "tag": "Loyalsoldier",
+      "tag": "rules",
       "count": 13
     },
     {
@@ -128,16 +132,12 @@
       "count": 13
     },
     {
-      "tag": "OpenVPN",
-      "count": 12
-    },
-    {
-      "tag": "domain-list-community",
+      "tag": "meta-rules-dat",
       "count": 12
     }
   ],
   "importantCount": 115,
   "breakingCount": 24,
   "securityCount": 17,
-  "updatedAt": "2026-05-16T19:22:56.404Z"
+  "updatedAt": "2026-05-17T04:35:02.226Z"
 }
