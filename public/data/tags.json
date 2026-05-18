@@ -1,18 +1,23 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 55,
+    "count": 56,
     "category": "client"
   },
   {
     "tag": "mihomo",
-    "count": 36,
+    "count": 37,
     "category": "ecosystem"
   },
   {
     "tag": "Android",
     "count": 32,
     "category": "client"
+  },
+  {
+    "tag": "网络代理",
+    "count": 29,
+    "category": "core"
   },
   {
     "tag": "Sub-Store",
@@ -25,19 +30,14 @@
     "category": "ecosystem"
   },
   {
-    "tag": "网络代理",
-    "count": 27,
-    "category": "ecosystem"
-  },
-  {
     "tag": "HTTP/2",
     "count": 23,
     "category": "protocol"
   },
   {
     "tag": "v2ray",
-    "count": 20,
-    "category": "ecosystem"
+    "count": 21,
+    "category": "core"
   },
   {
     "tag": "Windows",
@@ -48,6 +48,11 @@
     "tag": "VLESS",
     "count": 19,
     "category": "protocol"
+  },
+  {
+    "tag": "OpenVPN",
+    "count": 17,
+    "category": "ecosystem"
   },
   {
     "tag": "ClashMetaForAndroid",
@@ -68,11 +73,6 @@
     "tag": "Linux",
     "count": 16,
     "category": "client"
-  },
-  {
-    "tag": "OpenVPN",
-    "count": 16,
-    "category": "ecosystem"
   },
   {
     "tag": "代理工具",
@@ -245,6 +245,11 @@
     "category": "client"
   },
   {
+    "tag": "v2ray-core",
+    "count": 6,
+    "category": "core"
+  },
+  {
     "tag": "metacubexd",
     "count": 6,
     "category": "client"
@@ -305,11 +310,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "v2ray-core",
-    "count": 5,
-    "category": "core"
-  },
-  {
     "tag": "依赖更新",
     "count": 5,
     "category": "core"
@@ -368,6 +368,11 @@
     "tag": "juicity",
     "count": 5,
     "category": "ecosystem"
+  },
+  {
+    "tag": "CHACHA20-POLY1305",
+    "count": 5,
+    "category": "protocol"
   },
   {
     "tag": "subconverter",
@@ -440,9 +445,14 @@
     "category": "client"
   },
   {
-    "tag": "CHACHA20-POLY1305",
-    "count": 4,
-    "category": "protocol"
+    "tag": "gdocsviewer",
+    "count": 3,
+    "category": "core"
+  },
+  {
+    "tag": "Google Docs",
+    "count": 3,
+    "category": "core"
   },
   {
     "tag": ".NET",
@@ -763,16 +773,6 @@
     "tag": "konami",
     "count": 1,
     "category": "ecosystem"
-  },
-  {
-    "tag": "gdocsviewer",
-    "count": 1,
-    "category": "core"
-  },
-  {
-    "tag": "Google Docs",
-    "count": 1,
-    "category": "core"
   },
   {
     "tag": "网络传输",

@@ -1,12 +1,12 @@
 {
-  "totalItems": 317,
+  "totalItems": 320,
   "last24h": 11,
-  "last7d": 66,
+  "last7d": 67,
   "byCategory": {
-    "core": 72,
+    "core": 74,
     "client": 95,
     "router": 1,
-    "protocol": 15,
+    "protocol": 16,
     "dns_rules": 2,
     "security": 4,
     "ecosystem": 128,
@@ -15,7 +15,7 @@
   "topProjects": [
     {
       "project": "mihomo",
-      "count": 35
+      "count": 36
     },
     {
       "project": "Sub-Store",
@@ -42,30 +42,34 @@
       "count": 10
     },
     {
+      "project": "v2ray-core",
+      "count": 9
+    },
+    {
       "project": "sing-box",
       "count": 9
     },
     {
       "project": "naiveproxy",
       "count": 9
-    },
-    {
-      "project": "metacubexd",
-      "count": 8
     }
   ],
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 55
+      "count": 56
     },
     {
       "tag": "mihomo",
-      "count": 36
+      "count": 37
     },
     {
       "tag": "Android",
       "count": 32
+    },
+    {
+      "tag": "网络代理",
+      "count": 29
     },
     {
       "tag": "Sub-Store",
@@ -76,16 +80,12 @@
       "count": 27
     },
     {
-      "tag": "网络代理",
-      "count": 27
-    },
-    {
       "tag": "HTTP/2",
       "count": 23
     },
     {
       "tag": "v2ray",
-      "count": 20
+      "count": 21
     },
     {
       "tag": "Windows",
@@ -94,6 +94,10 @@
     {
       "tag": "VLESS",
       "count": 19
+    },
+    {
+      "tag": "OpenVPN",
+      "count": 17
     },
     {
       "tag": "ClashMetaForAndroid",
@@ -109,10 +113,6 @@
     },
     {
       "tag": "Linux",
-      "count": 16
-    },
-    {
-      "tag": "OpenVPN",
       "count": 16
     },
     {
@@ -136,8 +136,8 @@
       "count": 13
     }
   ],
-  "importantCount": 121,
+  "importantCount": 124,
   "breakingCount": 24,
-  "securityCount": 19,
-  "updatedAt": "2026-05-18T15:58:26.201Z"
+  "securityCount": 20,
+  "updatedAt": "2026-05-18T20:00:24.312Z"
 }
