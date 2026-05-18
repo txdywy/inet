@@ -1,15 +1,15 @@
 {
-  "totalItems": 311,
-  "last24h": 9,
-  "last7d": 64,
+  "totalItems": 315,
+  "last24h": 13,
+  "last7d": 68,
   "byCategory": {
     "core": 72,
-    "client": 93,
+    "client": 95,
     "router": 1,
-    "protocol": 13,
+    "protocol": 14,
     "dns_rules": 2,
     "security": 4,
-    "ecosystem": 126,
+    "ecosystem": 127,
     "trend": 0
   },
   "topProjects": [
@@ -19,7 +19,7 @@
     },
     {
       "project": "Sub-Store",
-      "count": 26
+      "count": 27
     },
     {
       "project": "domain-list-community",
@@ -39,7 +39,7 @@
     },
     {
       "project": "v2rayN",
-      "count": 9
+      "count": 10
     },
     {
       "project": "sing-box",
@@ -50,14 +50,14 @@
       "count": 9
     },
     {
-      "project": "3x-ui",
+      "project": "metacubexd",
       "count": 8
     }
   ],
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 53
+      "count": 54
     },
     {
       "tag": "mihomo",
@@ -68,6 +68,10 @@
       "count": 32
     },
     {
+      "tag": "Sub-Store",
+      "count": 27
+    },
+    {
       "tag": "v2fly",
       "count": 27
     },
@@ -76,12 +80,8 @@
       "count": 27
     },
     {
-      "tag": "Sub-Store",
-      "count": 26
-    },
-    {
       "tag": "HTTP/2",
-      "count": 22
+      "count": 23
     },
     {
       "tag": "v2ray",
@@ -104,6 +104,10 @@
       "count": 17
     },
     {
+      "tag": "Linux",
+      "count": 16
+    },
+    {
       "tag": "代理工具",
       "count": 16
     },
@@ -120,10 +124,6 @@
       "count": 15
     },
     {
-      "tag": "Linux",
-      "count": 15
-    },
-    {
       "tag": "rules",
       "count": 14
     },
@@ -136,8 +136,8 @@
       "count": 13
     }
   ],
-  "importantCount": 119,
+  "importantCount": 120,
   "breakingCount": 24,
   "securityCount": 19,
-  "updatedAt": "2026-05-18T04:44:39.611Z"
+  "updatedAt": "2026-05-18T10:43:31.900Z"
 }

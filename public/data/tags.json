@@ -1,8 +1,8 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 53,
-    "category": "ecosystem"
+    "count": 54,
+    "category": "client"
   },
   {
     "tag": "mihomo",
@@ -15,6 +15,11 @@
     "category": "client"
   },
   {
+    "tag": "Sub-Store",
+    "count": 27,
+    "category": "protocol"
+  },
+  {
     "tag": "v2fly",
     "count": 27,
     "category": "ecosystem"
@@ -25,14 +30,9 @@
     "category": "ecosystem"
   },
   {
-    "tag": "Sub-Store",
-    "count": 26,
-    "category": "client"
-  },
-  {
     "tag": "HTTP/2",
-    "count": 22,
-    "category": "client"
+    "count": 23,
+    "category": "protocol"
   },
   {
     "tag": "v2ray",
@@ -60,6 +60,11 @@
     "category": "core"
   },
   {
+    "tag": "Linux",
+    "count": 16,
+    "category": "client"
+  },
+  {
     "tag": "代理工具",
     "count": 16,
     "category": "ecosystem"
@@ -78,11 +83,6 @@
     "tag": "OpenVPN",
     "count": 15,
     "category": "ecosystem"
-  },
-  {
-    "tag": "Linux",
-    "count": 15,
-    "category": "client"
   },
   {
     "tag": "rules",
@@ -130,6 +130,11 @@
     "category": "protocol"
   },
   {
+    "tag": "v2rayN",
+    "count": 10,
+    "category": "client"
+  },
+  {
     "tag": "naiveproxy",
     "count": 10,
     "category": "core"
@@ -137,11 +142,6 @@
   {
     "tag": "macOS",
     "count": 10,
-    "category": "client"
-  },
-  {
-    "tag": "v2rayN",
-    "count": 9,
     "category": "client"
   },
   {
@@ -200,6 +200,21 @@
     "category": "core"
   },
   {
+    "tag": "Surge",
+    "count": 7,
+    "category": "protocol"
+  },
+  {
+    "tag": "v2ray-agent",
+    "count": 7,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "代理",
+    "count": 7,
+    "category": "client"
+  },
+  {
     "tag": "快捷方式",
     "count": 7,
     "category": "client"
@@ -225,7 +240,7 @@
     "category": "client"
   },
   {
-    "tag": "Surge",
+    "tag": "metacubexd",
     "count": 6,
     "category": "client"
   },
@@ -233,16 +248,6 @@
     "tag": "shadowsocks",
     "count": 6,
     "category": "ecosystem"
-  },
-  {
-    "tag": "代理",
-    "count": 6,
-    "category": "client"
-  },
-  {
-    "tag": "v2ray-agent",
-    "count": 6,
-    "category": "core"
   },
   {
     "tag": "luci-app-mosdns",
@@ -295,6 +300,11 @@
     "category": "core"
   },
   {
+    "tag": "Docker",
+    "count": 5,
+    "category": "ecosystem"
+  },
+  {
     "tag": "v2ray-core",
     "count": 5,
     "category": "core"
@@ -303,11 +313,6 @@
     "tag": "依赖更新",
     "count": 5,
     "category": "core"
-  },
-  {
-    "tag": "metacubexd",
-    "count": 5,
-    "category": "client"
   },
   {
     "tag": "UDP",
@@ -390,11 +395,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "Docker",
-    "count": 4,
-    "category": "ecosystem"
-  },
-  {
     "tag": "IPv6",
     "count": 4,
     "category": "client"
@@ -437,6 +437,11 @@
   {
     "tag": "nekoray",
     "count": 4,
+    "category": "client"
+  },
+  {
+    "tag": ".NET",
+    "count": 3,
     "category": "client"
   },
   {
@@ -578,11 +583,6 @@
     "tag": "socket",
     "count": 2,
     "category": "core"
-  },
-  {
-    "tag": ".NET",
-    "count": 2,
-    "category": "client"
   },
   {
     "tag": "跨平台",
@@ -738,6 +738,26 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "TrustTunnel",
+    "count": 1,
+    "category": "protocol"
+  },
+  {
+    "tag": "脚本",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "订阅",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "延迟监控",
+    "count": 1,
+    "category": "client"
   },
   {
     "tag": "konami",
