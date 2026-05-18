@@ -1,21 +1,21 @@
 {
-  "totalItems": 306,
-  "last24h": 7,
+  "totalItems": 311,
+  "last24h": 9,
   "last7d": 64,
   "byCategory": {
-    "core": 71,
+    "core": 72,
     "client": 93,
     "router": 1,
-    "protocol": 12,
+    "protocol": 13,
     "dns_rules": 2,
     "security": 4,
-    "ecosystem": 123,
+    "ecosystem": 126,
     "trend": 0
   },
   "topProjects": [
     {
       "project": "mihomo",
-      "count": 33
+      "count": 34
     },
     {
       "project": "Sub-Store",
@@ -23,7 +23,7 @@
     },
     {
       "project": "domain-list-community",
-      "count": 22
+      "count": 23
     },
     {
       "project": "ClashMetaForAndroid",
@@ -31,11 +31,11 @@
     },
     {
       "project": "v2ray-rules-dat",
-      "count": 15
+      "count": 16
     },
     {
       "project": "meta-rules-dat",
-      "count": 12
+      "count": 13
     },
     {
       "project": "v2rayN",
@@ -57,27 +57,27 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 51
+      "count": 53
     },
     {
       "tag": "mihomo",
-      "count": 34
+      "count": 35
     },
     {
       "tag": "Android",
       "count": 32
     },
     {
-      "tag": "Sub-Store",
-      "count": 26
+      "tag": "v2fly",
+      "count": 27
     },
     {
       "tag": "网络代理",
-      "count": 26
+      "count": 27
     },
     {
-      "tag": "v2fly",
-      "count": 25
+      "tag": "Sub-Store",
+      "count": 26
     },
     {
       "tag": "HTTP/2",
@@ -85,7 +85,7 @@
     },
     {
       "tag": "v2ray",
-      "count": 19
+      "count": 20
     },
     {
       "tag": "Windows",
@@ -108,7 +108,15 @@
       "count": 16
     },
     {
+      "tag": "Loyalsoldier",
+      "count": 15
+    },
+    {
       "tag": "Tailscale",
+      "count": 15
+    },
+    {
+      "tag": "OpenVPN",
       "count": 15
     },
     {
@@ -116,11 +124,7 @@
       "count": 15
     },
     {
-      "tag": "Loyalsoldier",
-      "count": 14
-    },
-    {
-      "tag": "OpenVPN",
+      "tag": "rules",
       "count": 14
     },
     {
@@ -128,16 +132,12 @@
       "count": 14
     },
     {
-      "tag": "rules",
-      "count": 13
-    },
-    {
-      "tag": "开源",
+      "tag": "domain-list-community",
       "count": 13
     }
   ],
-  "importantCount": 117,
+  "importantCount": 119,
   "breakingCount": 24,
   "securityCount": 19,
-  "updatedAt": "2026-05-17T19:35:16.879Z"
+  "updatedAt": "2026-05-18T04:44:39.611Z"
 }

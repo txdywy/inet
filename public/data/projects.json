@@ -201,6 +201,22 @@
     ]
   },
   {
+    "slug": "v2ray-core",
+    "name": "v2ray-core",
+    "repo": "v2fly/v2ray-core",
+    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
+    "category": "core",
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "tags": [
+      "v2ray-core",
+      "vless"
+    ]
+  },
+  {
     "slug": "hysteria",
     "name": "hysteria",
     "repo": "apernet/hysteria",
@@ -243,22 +259,6 @@
       "dashboard",
       "mihomo",
       "clash"
-    ]
-  },
-  {
-    "slug": "v2ray-core",
-    "name": "v2ray-core",
-    "repo": "v2fly/v2ray-core",
-    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
-    "category": "core",
-    "platforms": [
-      "linux",
-      "windows",
-      "macos"
-    ],
-    "tags": [
-      "v2ray-core",
-      "vless"
     ]
   },
   {

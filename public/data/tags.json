@@ -1,12 +1,12 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 51,
+    "count": 53,
     "category": "ecosystem"
   },
   {
     "tag": "mihomo",
-    "count": 34,
+    "count": 35,
     "category": "ecosystem"
   },
   {
@@ -15,19 +15,19 @@
     "category": "client"
   },
   {
-    "tag": "Sub-Store",
-    "count": 26,
-    "category": "client"
+    "tag": "v2fly",
+    "count": 27,
+    "category": "ecosystem"
   },
   {
     "tag": "网络代理",
-    "count": 26,
-    "category": "client"
+    "count": 27,
+    "category": "ecosystem"
   },
   {
-    "tag": "v2fly",
-    "count": 25,
-    "category": "ecosystem"
+    "tag": "Sub-Store",
+    "count": 26,
+    "category": "client"
   },
   {
     "tag": "HTTP/2",
@@ -36,7 +36,7 @@
   },
   {
     "tag": "v2ray",
-    "count": 19,
+    "count": 20,
     "category": "ecosystem"
   },
   {
@@ -65,7 +65,17 @@
     "category": "ecosystem"
   },
   {
+    "tag": "Loyalsoldier",
+    "count": 15,
+    "category": "ecosystem"
+  },
+  {
     "tag": "Tailscale",
+    "count": 15,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "OpenVPN",
     "count": 15,
     "category": "ecosystem"
   },
@@ -75,12 +85,7 @@
     "category": "client"
   },
   {
-    "tag": "Loyalsoldier",
-    "count": 14,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "OpenVPN",
+    "tag": "rules",
     "count": 14,
     "category": "ecosystem"
   },
@@ -90,23 +95,18 @@
     "category": "protocol"
   },
   {
-    "tag": "rules",
+    "tag": "domain-list-community",
+    "count": 13,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "meta-rules-dat",
     "count": 13,
     "category": "ecosystem"
   },
   {
     "tag": "开源",
     "count": 13,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "meta-rules-dat",
-    "count": 12,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "domain-list-community",
-    "count": 12,
     "category": "ecosystem"
   },
   {
@@ -295,6 +295,11 @@
     "category": "core"
   },
   {
+    "tag": "v2ray-core",
+    "count": 5,
+    "category": "core"
+  },
+  {
     "tag": "依赖更新",
     "count": 5,
     "category": "core"
@@ -373,11 +378,6 @@
     "tag": "tuic",
     "count": 5,
     "category": "protocol"
-  },
-  {
-    "tag": "v2ray-core",
-    "count": 4,
-    "category": "core"
   },
   {
     "tag": "多语言支持",
@@ -548,6 +548,11 @@
     "tag": "NekoBoxForAndroid",
     "count": 3,
     "category": "client"
+  },
+  {
+    "tag": "CHACHA20-POLY1305",
+    "count": 3,
+    "category": "protocol"
   },
   {
     "tag": "Alpha",
@@ -725,11 +730,6 @@
     "category": "core"
   },
   {
-    "tag": "CHACHA20-POLY1305",
-    "count": 2,
-    "category": "protocol"
-  },
-  {
     "tag": "命令行工具",
     "count": 2,
     "category": "ecosystem"
@@ -738,6 +738,26 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "konami",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "gdocsviewer",
+    "count": 1,
+    "category": "core"
+  },
+  {
+    "tag": "Google Docs",
+    "count": 1,
+    "category": "core"
+  },
+  {
+    "tag": "网络传输",
+    "count": 1,
+    "category": "core"
   },
   {
     "tag": "Egern Hysteria 2",
