@@ -1,12 +1,12 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 54,
+    "count": 55,
     "category": "client"
   },
   {
     "tag": "mihomo",
-    "count": 35,
+    "count": 36,
     "category": "ecosystem"
   },
   {
@@ -60,9 +60,19 @@
     "category": "core"
   },
   {
+    "tag": "Tailscale",
+    "count": 16,
+    "category": "ecosystem"
+  },
+  {
     "tag": "Linux",
     "count": 16,
     "category": "client"
+  },
+  {
+    "tag": "OpenVPN",
+    "count": 16,
+    "category": "ecosystem"
   },
   {
     "tag": "代理工具",
@@ -71,16 +81,6 @@
   },
   {
     "tag": "Loyalsoldier",
-    "count": 15,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "Tailscale",
-    "count": 15,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "OpenVPN",
     "count": 15,
     "category": "ecosystem"
   },
@@ -145,6 +145,11 @@
     "category": "client"
   },
   {
+    "tag": "VPN",
+    "count": 9,
+    "category": "ecosystem"
+  },
+  {
     "tag": "SagerNet",
     "count": 9,
     "category": "ecosystem"
@@ -180,11 +185,6 @@
     "category": "client"
   },
   {
-    "tag": "VPN",
-    "count": 8,
-    "category": "ecosystem"
-  },
-  {
     "tag": "xray",
     "count": 8,
     "category": "ecosystem"
@@ -198,6 +198,11 @@
     "tag": "Xray-core",
     "count": 8,
     "category": "core"
+  },
+  {
+    "tag": "网络工具",
+    "count": 7,
+    "category": "ecosystem"
   },
   {
     "tag": "Surge",
@@ -273,11 +278,6 @@
     "tag": "Mihomo",
     "count": 6,
     "category": "protocol"
-  },
-  {
-    "tag": "网络工具",
-    "count": 6,
-    "category": "ecosystem"
   },
   {
     "tag": "Go",
@@ -440,6 +440,11 @@
     "category": "client"
   },
   {
+    "tag": "CHACHA20-POLY1305",
+    "count": 4,
+    "category": "protocol"
+  },
+  {
     "tag": ".NET",
     "count": 3,
     "category": "client"
@@ -553,11 +558,6 @@
     "tag": "NekoBoxForAndroid",
     "count": 3,
     "category": "client"
-  },
-  {
-    "tag": "CHACHA20-POLY1305",
-    "count": 3,
-    "category": "protocol"
   },
   {
     "tag": "Alpha",

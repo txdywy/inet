@@ -327,6 +327,25 @@
     ]
   },
   {
+    "slug": "tailscale",
+    "name": "tailscale",
+    "repo": "tailscale/tailscale",
+    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
+    "category": "ecosystem",
+    "platforms": [
+      "linux",
+      "windows",
+      "macos",
+      "android",
+      "ios"
+    ],
+    "tags": [
+      "tailscale",
+      "wireguard",
+      "mesh"
+    ]
+  },
+  {
     "slug": "shadowsocks-rust",
     "name": "shadowsocks-rust",
     "repo": "shadowsocks/shadowsocks-rust",
@@ -535,25 +554,6 @@
       "shellclash",
       "mihomo",
       "sing-box"
-    ]
-  },
-  {
-    "slug": "tailscale",
-    "name": "tailscale",
-    "repo": "tailscale/tailscale",
-    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
-    "category": "ecosystem",
-    "platforms": [
-      "linux",
-      "windows",
-      "macos",
-      "android",
-      "ios"
-    ],
-    "tags": [
-      "tailscale",
-      "wireguard",
-      "mesh"
     ]
   },
   {

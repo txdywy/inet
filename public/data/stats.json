@@ -1,21 +1,21 @@
 {
-  "totalItems": 315,
-  "last24h": 13,
-  "last7d": 68,
+  "totalItems": 317,
+  "last24h": 11,
+  "last7d": 66,
   "byCategory": {
     "core": 72,
     "client": 95,
     "router": 1,
-    "protocol": 14,
+    "protocol": 15,
     "dns_rules": 2,
     "security": 4,
-    "ecosystem": 127,
+    "ecosystem": 128,
     "trend": 0
   },
   "topProjects": [
     {
       "project": "mihomo",
-      "count": 34
+      "count": 35
     },
     {
       "project": "Sub-Store",
@@ -57,11 +57,11 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 54
+      "count": 55
     },
     {
       "tag": "mihomo",
-      "count": 35
+      "count": 36
     },
     {
       "tag": "Android",
@@ -104,7 +104,15 @@
       "count": 17
     },
     {
+      "tag": "Tailscale",
+      "count": 16
+    },
+    {
       "tag": "Linux",
+      "count": 16
+    },
+    {
+      "tag": "OpenVPN",
       "count": 16
     },
     {
@@ -113,14 +121,6 @@
     },
     {
       "tag": "Loyalsoldier",
-      "count": 15
-    },
-    {
-      "tag": "Tailscale",
-      "count": 15
-    },
-    {
-      "tag": "OpenVPN",
       "count": 15
     },
     {
@@ -136,8 +136,8 @@
       "count": 13
     }
   ],
-  "importantCount": 120,
+  "importantCount": 121,
   "breakingCount": 24,
   "securityCount": 19,
-  "updatedAt": "2026-05-18T10:43:31.900Z"
+  "updatedAt": "2026-05-18T15:58:26.201Z"
 }
