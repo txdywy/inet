@@ -183,6 +183,21 @@
     ]
   },
   {
+    "slug": "metacubexd",
+    "name": "metacubexd",
+    "repo": "MetaCubeX/metacubexd",
+    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
+    "category": "ecosystem",
+    "platforms": [
+      "web"
+    ],
+    "tags": [
+      "dashboard",
+      "mihomo",
+      "clash"
+    ]
+  },
+  {
     "slug": "clash-verge-rev",
     "name": "clash-verge-rev",
     "repo": "clash-verge-rev/clash-verge-rev",
@@ -212,21 +227,6 @@
       "x-ui",
       "panel",
       "xray-core"
-    ]
-  },
-  {
-    "slug": "metacubexd",
-    "name": "metacubexd",
-    "repo": "MetaCubeX/metacubexd",
-    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
-    "category": "ecosystem",
-    "platforms": [
-      "web"
-    ],
-    "tags": [
-      "dashboard",
-      "mihomo",
-      "clash"
     ]
   },
   {

@@ -1,8 +1,8 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 58,
-    "category": "ecosystem"
+    "count": 59,
+    "category": "core"
   },
   {
     "tag": "mihomo",
@@ -215,6 +215,11 @@
     "category": "core"
   },
   {
+    "tag": "metacubexd",
+    "count": 7,
+    "category": "core"
+  },
+  {
     "tag": "网络工具",
     "count": 7,
     "category": "ecosystem"
@@ -258,11 +263,6 @@
     "tag": "v2ray-core",
     "count": 6,
     "category": "core"
-  },
-  {
-    "tag": "metacubexd",
-    "count": 6,
-    "category": "client"
   },
   {
     "tag": "shadowsocks",
@@ -763,6 +763,16 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "网络测试",
+    "count": 1,
+    "category": "core"
+  },
+  {
+    "tag": "延迟测试",
+    "count": 1,
+    "category": "core"
   },
   {
     "tag": "hamivideo",

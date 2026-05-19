@@ -1,5 +1,38 @@
 [
   {
+    "id": "cee1f70533bf7366",
+    "title": "v1.248.1",
+    "summary": "MetaCubeX/metacubexd 发布了 v1.248.1 版本，主要修复了延迟测试状态的稳定性问题。",
+    "analysis": "此次更新主要集中在修复延迟测试状态的稳定性问题，这对于使用该工具进行网络性能测试的用户来说至关重要。延迟测试是评估网络质量的关键指标，任何不稳定的状态都可能导致测试结果的不准确，从而影响用户的决策和网络优化策略。虽然此次更新没有引入新的功能或重大变更，但稳定性修复对于提升用户体验和信任度是非常重要的。用户和开发者应关注此更新，确保在进行网络测试时使用最新版本，以获得更可靠的测试结果。此次更新没有明显的兼容性风险，因此建议用户尽快更新到该版本以享受更好的性能表现。",
+    "rawTitle": "v1.248.1",
+    "rawBody": "## [1.248.1](https://github.com/MetaCubeX/metacubexd/compare/v1.248.0...v1.248.1) (2026-05-19)\n\n\n### Bug Fixes\n\n* stabilize latency testing state ([daf4b14](https://github.com/MetaCubeX/metacubexd/commit/daf4b14050578e2f5d0887e52eb0b80c50c331f4))",
+    "sourceType": "github_release",
+    "sourceName": "MetaCubeX/metacubexd",
+    "sourceUrl": "https://github.com/MetaCubeX/metacubexd/releases/tag/v1.248.1",
+    "project": "metacubexd",
+    "repo": "MetaCubeX/metacubexd",
+    "slug": "metacubexd",
+    "version": "1.248.1",
+    "category": "core",
+    "tags": [
+      "MetaCubeX",
+      "metacubexd",
+      "网络测试",
+      "延迟测试"
+    ],
+    "platforms": [],
+    "importance": 3,
+    "confidence": 0.9,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-05-19T17:21:34Z",
+    "fetchedAt": "2026-05-19T20:05:49.896Z",
+    "firstSeenAt": "2026-05-19T20:05:56.803Z",
+    "updatedAt": "2026-05-19T20:05:56.803Z",
+    "hash": "cee1f70533bf7366"
+  },
+  {
     "id": "c7f08366d464c8d2",
     "title": "20260519154239",
     "summary": "本次更新增加了更多中国域名，以增强域名列表的完整性和实用性。",

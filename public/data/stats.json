@@ -1,9 +1,9 @@
 {
-  "totalItems": 333,
-  "last24h": 12,
-  "last7d": 64,
+  "totalItems": 334,
+  "last24h": 11,
+  "last7d": 65,
   "byCategory": {
-    "core": 74,
+    "core": 75,
     "client": 99,
     "router": 1,
     "protocol": 17,
@@ -42,22 +42,22 @@
       "count": 10
     },
     {
+      "project": "metacubexd",
+      "count": 9
+    },
+    {
       "project": "v2rayNG",
       "count": 9
     },
     {
       "project": "v2ray-core",
       "count": 9
-    },
-    {
-      "project": "sing-box",
-      "count": 9
     }
   ],
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 58
+      "count": 59
     },
     {
       "tag": "mihomo",
@@ -139,5 +139,5 @@
   "importantCount": 128,
   "breakingCount": 26,
   "securityCount": 20,
-  "updatedAt": "2026-05-19T15:53:03.260Z"
+  "updatedAt": "2026-05-19T20:05:57.245Z"
 }
