@@ -1,21 +1,21 @@
 {
-  "totalItems": 320,
-  "last24h": 11,
-  "last7d": 67,
+  "totalItems": 323,
+  "last24h": 9,
+  "last7d": 65,
   "byCategory": {
     "core": 74,
     "client": 95,
     "router": 1,
-    "protocol": 16,
+    "protocol": 17,
     "dns_rules": 2,
     "security": 4,
-    "ecosystem": 128,
+    "ecosystem": 130,
     "trend": 0
   },
   "topProjects": [
     {
       "project": "mihomo",
-      "count": 36
+      "count": 37
     },
     {
       "project": "Sub-Store",
@@ -26,16 +26,16 @@
       "count": 23
     },
     {
+      "project": "v2ray-rules-dat",
+      "count": 17
+    },
+    {
       "project": "ClashMetaForAndroid",
       "count": 17
     },
     {
-      "project": "v2ray-rules-dat",
-      "count": 16
-    },
-    {
       "project": "meta-rules-dat",
-      "count": 13
+      "count": 14
     },
     {
       "project": "v2rayN",
@@ -57,11 +57,11 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 56
+      "count": 58
     },
     {
       "tag": "mihomo",
-      "count": 37
+      "count": 38
     },
     {
       "tag": "Android",
@@ -85,7 +85,7 @@
     },
     {
       "tag": "v2ray",
-      "count": 21
+      "count": 22
     },
     {
       "tag": "Windows",
@@ -97,7 +97,7 @@
     },
     {
       "tag": "OpenVPN",
-      "count": 17
+      "count": 18
     },
     {
       "tag": "ClashMetaForAndroid",
@@ -106,6 +106,10 @@
     {
       "tag": "sing-box",
       "count": 17
+    },
+    {
+      "tag": "Loyalsoldier",
+      "count": 16
     },
     {
       "tag": "Tailscale",
@@ -120,24 +124,20 @@
       "count": 16
     },
     {
-      "tag": "Loyalsoldier",
+      "tag": "rules",
       "count": 15
     },
     {
-      "tag": "rules",
+      "tag": "meta-rules-dat",
       "count": 14
     },
     {
       "tag": "QUIC",
       "count": 14
-    },
-    {
-      "tag": "domain-list-community",
-      "count": 13
     }
   ],
-  "importantCount": 124,
+  "importantCount": 125,
   "breakingCount": 24,
   "securityCount": 20,
-  "updatedAt": "2026-05-18T20:00:24.312Z"
+  "updatedAt": "2026-05-19T04:36:03.246Z"
 }

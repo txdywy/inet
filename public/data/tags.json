@@ -1,12 +1,12 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 56,
-    "category": "client"
+    "count": 58,
+    "category": "ecosystem"
   },
   {
     "tag": "mihomo",
-    "count": 37,
+    "count": 38,
     "category": "ecosystem"
   },
   {
@@ -36,8 +36,8 @@
   },
   {
     "tag": "v2ray",
-    "count": 21,
-    "category": "core"
+    "count": 22,
+    "category": "ecosystem"
   },
   {
     "tag": "Windows",
@@ -51,7 +51,7 @@
   },
   {
     "tag": "OpenVPN",
-    "count": 17,
+    "count": 18,
     "category": "ecosystem"
   },
   {
@@ -63,6 +63,11 @@
     "tag": "sing-box",
     "count": 17,
     "category": "core"
+  },
+  {
+    "tag": "Loyalsoldier",
+    "count": 16,
+    "category": "ecosystem"
   },
   {
     "tag": "Tailscale",
@@ -80,12 +85,12 @@
     "category": "ecosystem"
   },
   {
-    "tag": "Loyalsoldier",
+    "tag": "rules",
     "count": 15,
     "category": "ecosystem"
   },
   {
-    "tag": "rules",
+    "tag": "meta-rules-dat",
     "count": 14,
     "category": "ecosystem"
   },
@@ -96,11 +101,6 @@
   },
   {
     "tag": "domain-list-community",
-    "count": 13,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "meta-rules-dat",
     "count": 13,
     "category": "ecosystem"
   },
@@ -165,6 +165,11 @@
     "category": "client"
   },
   {
+    "tag": "dat",
+    "count": 8,
+    "category": "ecosystem"
+  },
+  {
     "tag": "domain-list",
     "count": 8,
     "category": "ecosystem"
@@ -223,11 +228,6 @@
     "tag": "快捷方式",
     "count": 7,
     "category": "client"
-  },
-  {
-    "tag": "dat",
-    "count": 7,
-    "category": "ecosystem"
   },
   {
     "tag": "SOCKS",
@@ -305,6 +305,11 @@
     "category": "core"
   },
   {
+    "tag": "CHACHA20-POLY1305",
+    "count": 6,
+    "category": "protocol"
+  },
+  {
     "tag": "Docker",
     "count": 5,
     "category": "ecosystem"
@@ -368,11 +373,6 @@
     "tag": "juicity",
     "count": 5,
     "category": "ecosystem"
-  },
-  {
-    "tag": "CHACHA20-POLY1305",
-    "count": 5,
-    "category": "protocol"
   },
   {
     "tag": "subconverter",
