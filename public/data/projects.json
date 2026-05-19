@@ -183,6 +183,23 @@
     ]
   },
   {
+    "slug": "clash-verge-rev",
+    "name": "clash-verge-rev",
+    "repo": "clash-verge-rev/clash-verge-rev",
+    "description": "各平台代理客户端应用",
+    "category": "client",
+    "platforms": [
+      "windows",
+      "macos",
+      "linux"
+    ],
+    "tags": [
+      "clash-verge",
+      "mihomo",
+      "desktop"
+    ]
+  },
+  {
     "slug": "3x-ui",
     "name": "3x-ui",
     "repo": "MHSanaei/3x-ui",
@@ -245,23 +262,6 @@
     "tags": [
       "hysteria2",
       "quic"
-    ]
-  },
-  {
-    "slug": "clash-verge-rev",
-    "name": "clash-verge-rev",
-    "repo": "clash-verge-rev/clash-verge-rev",
-    "description": "各平台代理客户端应用",
-    "category": "client",
-    "platforms": [
-      "windows",
-      "macos",
-      "linux"
-    ],
-    "tags": [
-      "clash-verge",
-      "mihomo",
-      "desktop"
     ]
   },
   {

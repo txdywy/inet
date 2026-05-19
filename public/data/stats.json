@@ -1,15 +1,15 @@
 {
-  "totalItems": 326,
-  "last24h": 7,
-  "last7d": 65,
+  "totalItems": 333,
+  "last24h": 12,
+  "last7d": 64,
   "byCategory": {
     "core": 74,
-    "client": 98,
+    "client": 99,
     "router": 1,
     "protocol": 17,
     "dns_rules": 2,
     "security": 4,
-    "ecosystem": 130,
+    "ecosystem": 136,
     "trend": 0
   },
   "topProjects": [
@@ -18,12 +18,12 @@
       "count": 37
     },
     {
-      "project": "Sub-Store",
-      "count": 27
+      "project": "domain-list-community",
+      "count": 28
     },
     {
-      "project": "domain-list-community",
-      "count": 23
+      "project": "Sub-Store",
+      "count": 28
     },
     {
       "project": "v2ray-rules-dat",
@@ -68,16 +68,16 @@
       "count": 33
     },
     {
+      "tag": "v2fly",
+      "count": 32
+    },
+    {
       "tag": "网络代理",
       "count": 29
     },
     {
       "tag": "Sub-Store",
-      "count": 27
-    },
-    {
-      "tag": "v2fly",
-      "count": 27
+      "count": 28
     },
     {
       "tag": "HTTP/2",
@@ -89,19 +89,19 @@
     },
     {
       "tag": "Windows",
-      "count": 20
+      "count": 21
     },
     {
       "tag": "VLESS",
       "count": 19
     },
     {
-      "tag": "OpenVPN",
+      "tag": "Linux",
       "count": 18
     },
     {
-      "tag": "Linux",
-      "count": 17
+      "tag": "OpenVPN",
+      "count": 18
     },
     {
       "tag": "ClashMetaForAndroid",
@@ -124,20 +124,20 @@
       "count": 16
     },
     {
+      "tag": "domain-list-community",
+      "count": 15
+    },
+    {
       "tag": "rules",
       "count": 15
     },
     {
       "tag": "meta-rules-dat",
       "count": 14
-    },
-    {
-      "tag": "QUIC",
-      "count": 14
     }
   ],
   "importantCount": 128,
-  "breakingCount": 25,
+  "breakingCount": 26,
   "securityCount": 20,
-  "updatedAt": "2026-05-19T10:11:25.298Z"
+  "updatedAt": "2026-05-19T15:53:03.260Z"
 }
