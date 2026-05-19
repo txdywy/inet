@@ -11,7 +11,7 @@
   },
   {
     "tag": "Android",
-    "count": 32,
+    "count": 33,
     "category": "client"
   },
   {
@@ -41,7 +41,7 @@
   },
   {
     "tag": "Windows",
-    "count": 19,
+    "count": 20,
     "category": "client"
   },
   {
@@ -53,6 +53,11 @@
     "tag": "OpenVPN",
     "count": 18,
     "category": "ecosystem"
+  },
+  {
+    "tag": "Linux",
+    "count": 17,
+    "category": "client"
   },
   {
     "tag": "ClashMetaForAndroid",
@@ -75,11 +80,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "Linux",
-    "count": 16,
-    "category": "client"
-  },
-  {
     "tag": "代理工具",
     "count": 16,
     "category": "ecosystem"
@@ -100,6 +100,11 @@
     "category": "protocol"
   },
   {
+    "tag": "Xray",
+    "count": 13,
+    "category": "client"
+  },
+  {
     "tag": "domain-list-community",
     "count": 13,
     "category": "ecosystem"
@@ -108,11 +113,6 @@
     "tag": "开源",
     "count": 13,
     "category": "ecosystem"
-  },
-  {
-    "tag": "Xray",
-    "count": 12,
-    "category": "client"
   },
   {
     "tag": "网络协议",
@@ -130,6 +130,11 @@
     "category": "protocol"
   },
   {
+    "tag": "macOS",
+    "count": 11,
+    "category": "client"
+  },
+  {
     "tag": "v2rayN",
     "count": 10,
     "category": "client"
@@ -140,8 +145,8 @@
     "category": "core"
   },
   {
-    "tag": "macOS",
-    "count": 10,
+    "tag": "v2rayNG",
+    "count": 9,
     "category": "client"
   },
   {
@@ -162,6 +167,16 @@
   {
     "tag": "Clash",
     "count": 9,
+    "category": "client"
+  },
+  {
+    "tag": "SOCKS",
+    "count": 8,
+    "category": "client"
+  },
+  {
+    "tag": "Mihomo",
+    "count": 8,
     "category": "client"
   },
   {
@@ -195,11 +210,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "v2rayNG",
-    "count": 8,
-    "category": "client"
-  },
-  {
     "tag": "Xray-core",
     "count": 8,
     "category": "core"
@@ -230,11 +240,6 @@
     "category": "client"
   },
   {
-    "tag": "SOCKS",
-    "count": 7,
-    "category": "client"
-  },
-  {
     "tag": "WireGuard",
     "count": 7,
     "category": "ecosystem"
@@ -242,6 +247,11 @@
   {
     "tag": "VMess",
     "count": 7,
+    "category": "client"
+  },
+  {
+    "tag": "Clash Verge",
+    "count": 6,
     "category": "client"
   },
   {
@@ -278,11 +288,6 @@
     "tag": "SUDOKU-ASCII",
     "count": 6,
     "category": "core"
-  },
-  {
-    "tag": "Mihomo",
-    "count": 6,
-    "category": "protocol"
   },
   {
     "tag": "Go",
@@ -406,11 +411,6 @@
   },
   {
     "tag": "预发布",
-    "count": 4,
-    "category": "client"
-  },
-  {
-    "tag": "Clash Verge",
     "count": 4,
     "category": "client"
   },
@@ -578,6 +578,11 @@
     "tag": "protocol",
     "count": 3,
     "category": "protocol"
+  },
+  {
+    "tag": "Bug修复",
+    "count": 2,
+    "category": "client"
   },
   {
     "tag": "client-cert",
@@ -748,6 +753,16 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "内核升级",
+    "count": 1,
+    "category": "client"
+  },
+  {
+    "tag": "新功能",
+    "count": 1,
+    "category": "client"
   },
   {
     "tag": "TrustTunnel",
@@ -1436,11 +1451,6 @@
   },
   {
     "tag": "SHA256",
-    "count": 1,
-    "category": "client"
-  },
-  {
-    "tag": "Bug修复",
     "count": 1,
     "category": "client"
   },

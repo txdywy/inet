@@ -1,5 +1,78 @@
 [
   {
+    "id": "88321723444a4131",
+    "title": "2.1.8",
+    "summary": "v2rayNG 2.1.8 更新了多个功能，包括 SOCKS 用户名/密码支持和动态端口选项，增强了路由功能。",
+    "analysis": "此次 v2rayNG 2.1.8 更新引入了多项新功能和改进，特别是对 SOCKS 代理的支持，包括用户名/密码认证和动态端口选项，这将提升用户在使用本地代理时的灵活性和安全性。此外，基于进程的路由支持和出站可选别名功能的添加，进一步增强了流量管理的能力，特别是在使用 Xray 的 TUN 模式下。更新还包括对 IPv6 的支持和链式代理功能，这对于需要多层代理的用户来说非常重要。虽然更新修复了一些问题，但用户在更新时仍需注意与现有配置的兼容性，尤其是在涉及路由和代理设置时。建议用户尽快更新，以利用新功能和改进。",
+    "rawTitle": "2.1.8",
+    "rawBody": "### 本次更新\r\n\r\n- 添加本地 SOCKS 用户名/密码支持\r\n- 添加动态本地 SOCKS 端口选项\r\n- 添加基于进程 (包名) 的路由支持，仅在使用 Xray 的 TUN、开启 routeOnly 且 Android 10+ 时可用\r\n- 添加支持路由中的出站可选别名，即支持分流到不同的服务器，请使用 Xray 的 TUN\r\n- 添加启动器快捷方式以启动/停止服务\r\n- 添加启用 IPv6 选项，区别 IPv6  优先\r\n- 增加路由包名可视化选择\r\n- 修复了一些问题\r\n- 添加 KCP  MTU and TTI  https://github.com/2dust/v2rayNG/pull/5539\r\n- 添加关闭本地代理或关闭 SOCKS5 中的 UDP 功能的选项  https://github.com/2dust/v2rayNG/pull/5548\r\n- 改进后台更新订阅 https://github.com/2dust/v2rayNG/pull/5567\r\n- 添加链式代理\r\n- 添加真连接延迟测试并发数量选项\r\n- 添加 Browser Dialer  https://github.com/2dust/v2rayNG/pull/5579\r\n- https://github.com/XTLS/Xray-core/releases/tag/v26.5.9\r\n- 支持导入 SOCKS4/5 的分享链接 https://github.com/2dust/v2rayNG/commit/2a6edd98be59995216c81e70f6b13f02cc861252\r\n- 改进速度通知，支持策略组等 ",
+    "sourceType": "github_release",
+    "sourceName": "2dust/v2rayNG",
+    "sourceUrl": "https://github.com/2dust/v2rayNG/releases/tag/2.1.8",
+    "project": "v2rayNG",
+    "repo": "2dust/v2rayNG",
+    "slug": "v2rayng",
+    "version": "2.1.8",
+    "category": "client",
+    "tags": [
+      "v2rayNG",
+      "SOCKS",
+      "Xray",
+      "Android"
+    ],
+    "platforms": [
+      "android"
+    ],
+    "importance": 4,
+    "confidence": 0.9,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-05-19T09:02:27Z",
+    "fetchedAt": "2026-05-19T10:09:58.262Z",
+    "firstSeenAt": "2026-05-19T10:10:13.417Z",
+    "updatedAt": "2026-05-19T10:10:13.417Z",
+    "hash": "88321723444a4131"
+  },
+  {
+    "id": "ca1c67d9ee06654f",
+    "title": "Clash Verge Rev v2.5.0",
+    "summary": "Clash Verge Rev v2.5.0版本发布，包含内核升级、多个Bug修复及新功能。",
+    "analysis": "本次更新的核心在于将Mihomo(Meta)内核升级至v1.19.25，同时修复了多个系统代理和Linux平台相关的Bug，提升了软件的稳定性和用户体验。新增的功能如订阅QR码分享和macOS托盘速率显示，增强了用户的操作便利性。此外，软件自动更新功能的引入，能够在后台下载更新并在下次启动时自动安装，极大地简化了用户的维护工作。对于开发者而言，优化的前端CPU性能和更健壮的服务模式将有助于提升应用的响应速度和稳定性。需要注意的是，Windows平台不再支持Win7，这可能影响部分用户的使用。整体来看，此次更新建议用户尽快升级，以享受更好的性能和新功能。",
+    "rawTitle": "Clash Verge Rev v2.5.0",
+    "rawBody": "## v2.5.0\n\n> [!IMPORTANT]\n> 关于版本的说明：Clash Verge 版本号遵循 x.y.z：x 为重大架构变更，y 为功能新增，z 为 Bug 修复。\n\n- **Mihomo(Meta) 内核升级至 v1.19.25**\n\n### 🐞 修复问题\n\n- 修复系统代理关闭后在 PAC 模式下未完全关闭\n- 修复 macOS 开关代理时可能的卡死\n- 修复修改定时自动更新后记时未及时刷新\n- 修复 Linux 关闭 TUN 不立即生效\n- 修复系统代理关闭序列逻辑(防止快速退出时系统代理关闭状态没有保存)\n- 修复 Linux 快捷键映射错误\n- 修复 Linux Wayland 兼容性导致渲染错误 \n- 修复 Linux 边缘情况无法加载页面\n\n### ✨ 新增功能\n\n- 订阅 QR code 分享\n- 新增 macOS 托盘速率显示\n- 快捷键操作通知操作结果\n- 软件自动更新(后台下载，下次启动自动安装)\n\n### 🚀 优化改进\n\n- 优化 macOS 读取系统代理性能\n- 优化前端 CPU 性能\n- 更健壮的服务模式与边缘状况内核恢复\n- 优化白名单网络下的订阅 TLS 更新兼容性\n\n### 👙 界面样式\n\n- 代理组实现 Sticky Scroll 效果\n\n## 下载地址\n\n### Windows (不再支持Win7)\n#### 正常版本(推荐)\n- [64位(常用)](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.0/Clash.Verge_2.5.0_x64-setup.exe) | [ARM64(不常用)](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.0/Clash.Verge_2.5.0_arm64-setup.exe)\n\n#### 内置Webview2版(体积较大，仅在企业版系统或无法安装webview2时使用)\n- [64位](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.0/Clash.Verge_2.5.0_x64_fixed_webview2-setup.exe) | [ARM64](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.0/Clash.Verge_2.5.0_arm64_fixed_webview2-setup.exe)\n\n### macOS\n- [Apple M芯片](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.0/Clash.Verge_2.5.0_aarch64.dmg) | [Intel芯片](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.0/Clash.Verge_2.5.0_x64.dmg)\n\n### Linux\n#### DEB包(Debian系) 使用 apt ./路径 安装\n- [64位](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.0/Clash.Verge_2.5.0_amd64.deb) | [ARM64](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.0/Clash.Verge_2.5.0_arm64.deb) | [ARMv7](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.0/Clash.Verge_2.5.0_armhf.deb)\n\n#### RPM包(Redhat系) 使用 dnf ./路径 安装\n- [64位](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.0/Clash.Verge-2.5.0-1.x86_64.rpm) | [ARM64](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.0/Clash.Verge-2.5.0-1.aarch64.rpm) | [ARMv7](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.0/Clash.Verge-2.5.0-1.armhfp.rpm)\n\n### FAQ\n- [常见问题](https://clash-verge-rev.github.io/faq/windows.html)\n\n### 稳定机场VPN推荐\n- [狗狗加速](https://verge.dginv.click/#/register?code=oaxsAGo6)\n\nCreated at Tue May 19 13:57:44 CST 2026.\n",
+    "sourceType": "github_release",
+    "sourceName": "clash-verge-rev/clash-verge-rev",
+    "sourceUrl": "https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/v2.5.0",
+    "project": "clash-verge-rev",
+    "repo": "clash-verge-rev/clash-verge-rev",
+    "slug": "clash-verge-rev",
+    "version": "2.5.0",
+    "category": "client",
+    "tags": [
+      "Clash Verge",
+      "Mihomo",
+      "内核升级",
+      "Bug修复",
+      "新功能"
+    ],
+    "platforms": [
+      "windows",
+      "macos",
+      "linux"
+    ],
+    "importance": 4,
+    "confidence": 0.9,
+    "isBreaking": true,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-05-19T05:57:46Z",
+    "fetchedAt": "2026-05-19T10:09:59.783Z",
+    "firstSeenAt": "2026-05-19T10:10:19.493Z",
+    "updatedAt": "2026-05-19T10:10:19.493Z",
+    "hash": "ca1c67d9ee06654f"
+  },
+  {
     "id": "41fee8b4938b5d78",
     "title": "Release 2026-05-19 07:33",
     "summary": "MetaCubeX/meta-rules-dat 发布了 2026-05-19 的新版本，具体更新内容尚未公布。",
@@ -8182,6 +8255,44 @@
     "firstSeenAt": "2026-05-06T20:05:28.106Z",
     "updatedAt": "2026-05-06T20:05:28.106Z",
     "hash": "bbec57ac5e5ea4b3"
+  },
+  {
+    "id": "e768c8ca3af5d2e2",
+    "title": "Clash Verge Rev AutoBuild",
+    "summary": "Clash Verge Rev v2.5.0版本发布，升级内核并修复多个系统代理相关问题，新增功能和优化性能。",
+    "analysis": "本次更新主要包含内核升级至Mihomo(Meta) v1.19.25，修复了多个与系统代理相关的问题，提升了软件的稳定性和用户体验。新增的功能如订阅QR code分享和macOS托盘速率显示，增强了用户的操作便利性。此外，软件的自动更新功能也将提升用户的使用体验，确保用户能够及时获得最新版本。对于开发者而言，优化的前端CPU性能和更健壮的服务模式将有助于提升应用的整体性能。需要注意的是，Windows平台不再支持Win7，这可能影响部分用户的使用。整体来看，此次更新没有明显的兼容性风险，建议用户尽快更新以享受新功能和修复的bug。",
+    "rawTitle": "Clash Verge Rev AutoBuild",
+    "rawBody": "## v2.5.0\n\n> [!IMPORTANT]\n> 关于版本的说明：Clash Verge 版本号遵循 x.y.z：x 为重大架构变更，y 为功能新增，z 为 Bug 修复。\n\n- **Mihomo(Meta) 内核升级至 v1.19.25**\n\n### 🐞 修复问题\n\n- 修复系统代理关闭后在 PAC 模式下未完全关闭\n- 修复 macOS 开关代理时可能的卡死\n- 修复修改定时自动更新后记时未及时刷新\n- 修复 Linux 关闭 TUN 不立即生效\n- 修复系统代理关闭序列逻辑(防止快速退出时系统代理关闭状态没有保存)\n- 修复 Linux 快捷键映射错误\n- 修复 Linux Wayland 兼容性导致渲染错误 \n- 修复 Linux 边缘情况无法加载页面\n\n### ✨ 新增功能\n\n- 订阅 QR code 分享\n- 新增 macOS 托盘速率显示\n- 快捷键操作通知操作结果\n- 软件自动更新(后台下载，下次启动自动安装)\n\n### 🚀 优化改进\n\n- 优化 macOS 读取系统代理性能\n- 优化前端 CPU 性能\n- 更健壮的服务模式与边缘状况内核恢复\n- 优化白名单网络下的订阅 TLS 更新兼容性\n\n### 👙 界面样式\n\n- 代理组实现 Sticky Scroll 效果\n\n## 下载地址\n\n### Windows (不再支持Win7)\n#### 正常版本(推荐)\n- [64位(常用)](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.5.0+autobuild.0519.69c75e9_x64-setup.exe) | [ARM64(不常用)](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.5.0+autobuild.0519.69c75e9_arm64-setup.exe)\n\n#### 内置Webview2版(体积较大，仅在企业版系统或无法安装webview2时使用)\n- [64位](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.5.0+autobuild.0519.69c75e9_x64_fixed_webview2-setup.exe) | [ARM64](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.5.0+autobuild.0519.69c75e9_arm64_fixed_webview2-setup.exe)\n\n### macOS\n- [Apple M芯片](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.5.0+autobuild.0519.69c75e9_aarch64.dmg) | [Intel芯片](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.5.0+autobuild.0519.69c75e9_x64.dmg)\n\n### Linux\n#### DEB包(Debian系) 使用 apt ./路径 安装\n- [64位](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.5.0+autobuild.0519.69c75e9_amd64.deb) | [ARM64](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.5.0+autobuild.0519.69c75e9_arm64.deb) | [ARMv7](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.5.0+autobuild.0519.69c75e9_armhf.deb)\n\n#### RPM包(Redhat系) 使用 dnf ./路径 安装\n- [64位](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge-2.5.0+autobuild.0519.69c75e9-1.x86_64.rpm) | [ARM64](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge-2.5.0+autobuild.0519.69c75e9-1.aarch64.rpm) | [ARMv7](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge-2.5.0+autobuild.0519.69c75e9-1.armhfp.rpm)\n\n### FAQ\n- [常见问题](https://clash-verge-rev.github.io/faq/windows.html)\n\n### 稳定机场VPN推荐\n- [狗狗加速](https://verge.dginv.click/#/register?code=oaxsAGo6)\n\nCreated at Tue May 19 13:22:22 CST 2026.\n",
+    "sourceType": "github_release",
+    "sourceName": "clash-verge-rev/clash-verge-rev",
+    "sourceUrl": "https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild",
+    "project": "clash-verge-rev",
+    "repo": "clash-verge-rev/clash-verge-rev",
+    "slug": "clash-verge-rev",
+    "version": "autobuild",
+    "category": "client",
+    "tags": [
+      "Clash Verge",
+      "Mihomo",
+      "macOS",
+      "Linux",
+      "Windows"
+    ],
+    "platforms": [
+      "windows",
+      "macos",
+      "linux"
+    ],
+    "importance": 4,
+    "confidence": 0.9,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2025-11-10T11:05:52Z",
+    "fetchedAt": "2026-05-19T10:09:59.783Z",
+    "firstSeenAt": "2026-05-19T10:11:24.906Z",
+    "updatedAt": "2026-05-19T10:11:24.906Z",
+    "hash": "e768c8ca3af5d2e2"
   },
   {
     "id": "40fc43c926a7e5ef",

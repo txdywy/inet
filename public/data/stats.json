@@ -1,10 +1,10 @@
 {
-  "totalItems": 323,
-  "last24h": 9,
+  "totalItems": 326,
+  "last24h": 7,
   "last7d": 65,
   "byCategory": {
     "core": 74,
-    "client": 95,
+    "client": 98,
     "router": 1,
     "protocol": 17,
     "dns_rules": 2,
@@ -42,15 +42,15 @@
       "count": 10
     },
     {
+      "project": "v2rayNG",
+      "count": 9
+    },
+    {
       "project": "v2ray-core",
       "count": 9
     },
     {
       "project": "sing-box",
-      "count": 9
-    },
-    {
-      "project": "naiveproxy",
       "count": 9
     }
   ],
@@ -65,7 +65,7 @@
     },
     {
       "tag": "Android",
-      "count": 32
+      "count": 33
     },
     {
       "tag": "网络代理",
@@ -89,7 +89,7 @@
     },
     {
       "tag": "Windows",
-      "count": 19
+      "count": 20
     },
     {
       "tag": "VLESS",
@@ -98,6 +98,10 @@
     {
       "tag": "OpenVPN",
       "count": 18
+    },
+    {
+      "tag": "Linux",
+      "count": 17
     },
     {
       "tag": "ClashMetaForAndroid",
@@ -113,10 +117,6 @@
     },
     {
       "tag": "Tailscale",
-      "count": 16
-    },
-    {
-      "tag": "Linux",
       "count": 16
     },
     {
@@ -136,8 +136,8 @@
       "count": 14
     }
   ],
-  "importantCount": 125,
-  "breakingCount": 24,
+  "importantCount": 128,
+  "breakingCount": 25,
   "securityCount": 20,
-  "updatedAt": "2026-05-19T04:36:03.246Z"
+  "updatedAt": "2026-05-19T10:11:25.298Z"
 }
