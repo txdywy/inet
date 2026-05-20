@@ -17,6 +17,22 @@
     ]
   },
   {
+    "slug": "domain-list-community",
+    "name": "domain-list-community",
+    "repo": "v2fly/domain-list-community",
+    "description": "DNS 解析、规则集、分流策略",
+    "category": "dns_rules",
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "tags": [
+      "geosite",
+      "domain-list"
+    ]
+  },
+  {
     "slug": "sub-store",
     "name": "Sub-Store",
     "repo": "sub-store-org/Sub-Store",
@@ -32,22 +48,6 @@
     "tags": [
       "sub-store",
       "subscription"
-    ]
-  },
-  {
-    "slug": "domain-list-community",
-    "name": "domain-list-community",
-    "repo": "v2fly/domain-list-community",
-    "description": "DNS 解析、规则集、分流策略",
-    "category": "dns_rules",
-    "platforms": [
-      "linux",
-      "windows",
-      "macos"
-    ],
-    "tags": [
-      "geosite",
-      "domain-list"
     ]
   },
   {
@@ -113,6 +113,23 @@
       "v2rayn",
       "windows",
       "xray-core"
+    ]
+  },
+  {
+    "slug": "clash-verge-rev",
+    "name": "clash-verge-rev",
+    "repo": "clash-verge-rev/clash-verge-rev",
+    "description": "各平台代理客户端应用",
+    "category": "client",
+    "platforms": [
+      "windows",
+      "macos",
+      "linux"
+    ],
+    "tags": [
+      "clash-verge",
+      "mihomo",
+      "desktop"
     ]
   },
   {
@@ -195,23 +212,6 @@
       "dashboard",
       "mihomo",
       "clash"
-    ]
-  },
-  {
-    "slug": "clash-verge-rev",
-    "name": "clash-verge-rev",
-    "repo": "clash-verge-rev/clash-verge-rev",
-    "description": "各平台代理客户端应用",
-    "category": "client",
-    "platforms": [
-      "windows",
-      "macos",
-      "linux"
-    ],
-    "tags": [
-      "clash-verge",
-      "mihomo",
-      "desktop"
     ]
   },
   {

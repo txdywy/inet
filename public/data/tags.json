@@ -10,13 +10,18 @@
     "category": "ecosystem"
   },
   {
+    "tag": "v2fly",
+    "count": 35,
+    "category": "ecosystem"
+  },
+  {
     "tag": "Android",
     "count": 33,
     "category": "client"
   },
   {
-    "tag": "v2fly",
-    "count": 32,
+    "tag": "Sub-Store",
+    "count": 29,
     "category": "ecosystem"
   },
   {
@@ -25,9 +30,9 @@
     "category": "core"
   },
   {
-    "tag": "Sub-Store",
-    "count": 28,
-    "category": "ecosystem"
+    "tag": "Windows",
+    "count": 23,
+    "category": "client"
   },
   {
     "tag": "v2ray",
@@ -40,8 +45,8 @@
     "category": "protocol"
   },
   {
-    "tag": "Windows",
-    "count": 21,
+    "tag": "Linux",
+    "count": 20,
     "category": "client"
   },
   {
@@ -55,9 +60,9 @@
     "category": "protocol"
   },
   {
-    "tag": "Linux",
+    "tag": "domain-list-community",
     "count": 18,
-    "category": "client"
+    "category": "ecosystem"
   },
   {
     "tag": "Loyalsoldier",
@@ -95,9 +100,9 @@
     "category": "ecosystem"
   },
   {
-    "tag": "domain-list-community",
-    "count": 15,
-    "category": "ecosystem"
+    "tag": "macOS",
+    "count": 14,
+    "category": "client"
   },
   {
     "tag": "QUIC",
@@ -120,14 +125,14 @@
     "category": "core"
   },
   {
-    "tag": "macOS",
-    "count": 12,
-    "category": "client"
-  },
-  {
     "tag": "DNS",
     "count": 12,
     "category": "core"
+  },
+  {
+    "tag": "VPN",
+    "count": 11,
+    "category": "client"
   },
   {
     "tag": "Hysteria",
@@ -136,11 +141,6 @@
   },
   {
     "tag": "domain-list",
-    "count": 10,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "VPN",
     "count": 10,
     "category": "ecosystem"
   },
@@ -445,6 +445,11 @@
     "category": "client"
   },
   {
+    "tag": "Clash Verge Rev",
+    "count": 3,
+    "category": "client"
+  },
+  {
     "tag": "中国域名",
     "count": 3,
     "category": "ecosystem"
@@ -583,6 +588,16 @@
     "tag": "protocol",
     "count": 3,
     "category": "protocol"
+  },
+  {
+    "tag": "DoH",
+    "count": 2,
+    "category": "dns_rules"
+  },
+  {
+    "tag": "STUN",
+    "count": 2,
+    "category": "ecosystem"
   },
   {
     "tag": "域名列表",
@@ -730,11 +745,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "Clash Verge Rev",
-    "count": 2,
-    "category": "client"
-  },
-  {
     "tag": "vmess",
     "count": 2,
     "category": "ecosystem"
@@ -763,6 +773,26 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "数据同步",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "上传优化",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "Mozilla",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "DNS-over-HTTPS",
+    "count": 1,
+    "category": "dns_rules"
   },
   {
     "tag": "网络测试",
@@ -1490,11 +1520,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "STUN",
-    "count": 1,
-    "category": "core"
-  },
-  {
     "tag": "下载进度",
     "count": 1,
     "category": "client"
@@ -1645,6 +1670,11 @@
     "category": "core"
   },
   {
+    "tag": "clash-verge-rev",
+    "count": 1,
+    "category": "client"
+  },
+  {
     "tag": "anytls",
     "count": 1,
     "category": "core"
@@ -1728,11 +1758,6 @@
     "tag": "ClashMeta",
     "count": 1,
     "category": "client"
-  },
-  {
-    "tag": "DoH",
-    "count": 1,
-    "category": "core"
   },
   {
     "tag": "xudp",
