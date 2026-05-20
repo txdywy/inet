@@ -1,17 +1,17 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 61,
+    "count": 62,
     "category": "ecosystem"
   },
   {
     "tag": "mihomo",
-    "count": 39,
+    "count": 40,
     "category": "ecosystem"
   },
   {
     "tag": "v2fly",
-    "count": 35,
+    "count": 36,
     "category": "ecosystem"
   },
   {
@@ -51,7 +51,7 @@
   },
   {
     "tag": "OpenVPN",
-    "count": 19,
+    "count": 20,
     "category": "ecosystem"
   },
   {
@@ -135,14 +135,14 @@
     "category": "core"
   },
   {
+    "tag": "domain-list",
+    "count": 11,
+    "category": "ecosystem"
+  },
+  {
     "tag": "Hysteria",
     "count": 11,
     "category": "protocol"
-  },
-  {
-    "tag": "domain-list",
-    "count": 10,
-    "category": "ecosystem"
   },
   {
     "tag": "v2rayN",
@@ -215,6 +215,11 @@
     "category": "core"
   },
   {
+    "tag": "CHACHA20-POLY1305",
+    "count": 8,
+    "category": "protocol"
+  },
+  {
     "tag": "metacubexd",
     "count": 7,
     "category": "core"
@@ -248,11 +253,6 @@
     "tag": "WireGuard",
     "count": 7,
     "category": "ecosystem"
-  },
-  {
-    "tag": "CHACHA20-POLY1305",
-    "count": 7,
-    "category": "protocol"
   },
   {
     "tag": "VMess",
@@ -455,6 +455,11 @@
     "category": "client"
   },
   {
+    "tag": "域名解析",
+    "count": 3,
+    "category": "ecosystem"
+  },
+  {
     "tag": "中国域名",
     "count": 3,
     "category": "ecosystem"
@@ -635,11 +640,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "域名解析",
-    "count": 2,
-    "category": "ecosystem"
-  },
-  {
     "tag": "nicegram",
     "count": 2,
     "category": "ecosystem"
@@ -765,6 +765,11 @@
     "category": "core"
   },
   {
+    "tag": "加密",
+    "count": 2,
+    "category": "protocol"
+  },
+  {
     "tag": "命令行工具",
     "count": 2,
     "category": "ecosystem"
@@ -773,6 +778,11 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "社区",
+    "count": 1,
+    "category": "ecosystem"
   },
   {
     "tag": "gost-plugin",
@@ -1798,11 +1808,6 @@
     "tag": "Pushover",
     "count": 1,
     "category": "ecosystem"
-  },
-  {
-    "tag": "加密",
-    "count": 1,
-    "category": "protocol"
   },
   {
     "tag": "加密算法",

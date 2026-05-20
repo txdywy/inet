@@ -1,25 +1,25 @@
 {
-  "totalItems": 345,
+  "totalItems": 347,
   "last24h": 9,
-  "last7d": 67,
+  "last7d": 68,
   "byCategory": {
     "core": 75,
     "client": 102,
     "router": 1,
-    "protocol": 18,
+    "protocol": 19,
     "dns_rules": 3,
     "security": 4,
-    "ecosystem": 142,
+    "ecosystem": 143,
     "trend": 0
   },
   "topProjects": [
     {
       "project": "mihomo",
-      "count": 38
+      "count": 39
     },
     {
       "project": "domain-list-community",
-      "count": 31
+      "count": 32
     },
     {
       "project": "Sub-Store",
@@ -57,15 +57,15 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 61
+      "count": 62
     },
     {
       "tag": "mihomo",
-      "count": 39
+      "count": 40
     },
     {
       "tag": "v2fly",
-      "count": 35
+      "count": 36
     },
     {
       "tag": "Android",
@@ -97,7 +97,7 @@
     },
     {
       "tag": "OpenVPN",
-      "count": 19
+      "count": 20
     },
     {
       "tag": "VLESS",
@@ -136,8 +136,8 @@
       "count": 15
     }
   ],
-  "importantCount": 128,
+  "importantCount": 129,
   "breakingCount": 29,
   "securityCount": 20,
-  "updatedAt": "2026-05-20T15:59:45.262Z"
+  "updatedAt": "2026-05-20T20:30:17.902Z"
 }
