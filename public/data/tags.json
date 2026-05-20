@@ -21,7 +21,7 @@
   },
   {
     "tag": "Sub-Store",
-    "count": 29,
+    "count": 30,
     "category": "ecosystem"
   },
   {
@@ -31,7 +31,7 @@
   },
   {
     "tag": "Windows",
-    "count": 23,
+    "count": 24,
     "category": "client"
   },
   {
@@ -46,7 +46,7 @@
   },
   {
     "tag": "Linux",
-    "count": 20,
+    "count": 21,
     "category": "client"
   },
   {
@@ -95,14 +95,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "macOS",
+    "count": 15,
+    "category": "client"
+  },
+  {
     "tag": "meta-rules-dat",
     "count": 15,
     "category": "ecosystem"
-  },
-  {
-    "tag": "macOS",
-    "count": 14,
-    "category": "client"
   },
   {
     "tag": "QUIC",
@@ -120,6 +120,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "VPN",
+    "count": 12,
+    "category": "client"
+  },
+  {
     "tag": "网络协议",
     "count": 12,
     "category": "core"
@@ -128,11 +133,6 @@
     "tag": "DNS",
     "count": 12,
     "category": "core"
-  },
-  {
-    "tag": "VPN",
-    "count": 11,
-    "category": "client"
   },
   {
     "tag": "Hysteria",
@@ -395,6 +395,16 @@
     "category": "protocol"
   },
   {
+    "tag": "Shadowrocket",
+    "count": 4,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "Clash Verge Rev",
+    "count": 4,
+    "category": "client"
+  },
+  {
     "tag": "多语言支持",
     "count": 4,
     "category": "client"
@@ -445,11 +455,6 @@
     "category": "client"
   },
   {
-    "tag": "Clash Verge Rev",
-    "count": 3,
-    "category": "client"
-  },
-  {
     "tag": "中国域名",
     "count": 3,
     "category": "ecosystem"
@@ -493,11 +498,6 @@
     "tag": "CVE",
     "count": 3,
     "category": "router"
-  },
-  {
-    "tag": "Shadowrocket",
-    "count": 3,
-    "category": "ecosystem"
   },
   {
     "tag": "API",
@@ -773,6 +773,26 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "gost-plugin",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "SS URI",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "mihomo plugin",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "mux",
+    "count": 1,
+    "category": "ecosystem"
   },
   {
     "tag": "数据同步",

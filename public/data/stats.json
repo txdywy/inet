@@ -1,15 +1,15 @@
 {
-  "totalItems": 343,
-  "last24h": 14,
-  "last7d": 69,
+  "totalItems": 345,
+  "last24h": 9,
+  "last7d": 67,
   "byCategory": {
     "core": 75,
-    "client": 101,
+    "client": 102,
     "router": 1,
     "protocol": 18,
     "dns_rules": 3,
     "security": 4,
-    "ecosystem": 141,
+    "ecosystem": 142,
     "trend": 0
   },
   "topProjects": [
@@ -23,7 +23,7 @@
     },
     {
       "project": "Sub-Store",
-      "count": 29
+      "count": 30
     },
     {
       "project": "v2ray-rules-dat",
@@ -39,7 +39,7 @@
     },
     {
       "project": "clash-verge-rev",
-      "count": 10
+      "count": 11
     },
     {
       "project": "v2rayN",
@@ -73,7 +73,7 @@
     },
     {
       "tag": "Sub-Store",
-      "count": 29
+      "count": 30
     },
     {
       "tag": "网络代理",
@@ -81,7 +81,7 @@
     },
     {
       "tag": "Windows",
-      "count": 23
+      "count": 24
     },
     {
       "tag": "v2ray",
@@ -93,7 +93,7 @@
     },
     {
       "tag": "Linux",
-      "count": 20
+      "count": 21
     },
     {
       "tag": "OpenVPN",
@@ -132,12 +132,12 @@
       "count": 16
     },
     {
-      "tag": "meta-rules-dat",
+      "tag": "macOS",
       "count": 15
     }
   ],
   "importantCount": 128,
-  "breakingCount": 28,
+  "breakingCount": 29,
   "securityCount": 20,
-  "updatedAt": "2026-05-20T09:56:09.487Z"
+  "updatedAt": "2026-05-20T15:59:45.262Z"
 }
