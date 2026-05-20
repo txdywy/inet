@@ -1,12 +1,12 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 59,
-    "category": "core"
+    "count": 61,
+    "category": "ecosystem"
   },
   {
     "tag": "mihomo",
-    "count": 38,
+    "count": 39,
     "category": "ecosystem"
   },
   {
@@ -30,19 +30,24 @@
     "category": "ecosystem"
   },
   {
+    "tag": "v2ray",
+    "count": 23,
+    "category": "ecosystem"
+  },
+  {
     "tag": "HTTP/2",
     "count": 23,
     "category": "protocol"
   },
   {
-    "tag": "v2ray",
-    "count": 22,
-    "category": "ecosystem"
-  },
-  {
     "tag": "Windows",
     "count": 21,
     "category": "client"
+  },
+  {
+    "tag": "OpenVPN",
+    "count": 19,
+    "category": "ecosystem"
   },
   {
     "tag": "VLESS",
@@ -55,8 +60,8 @@
     "category": "client"
   },
   {
-    "tag": "OpenVPN",
-    "count": 18,
+    "tag": "Loyalsoldier",
+    "count": 17,
     "category": "ecosystem"
   },
   {
@@ -70,7 +75,7 @@
     "category": "core"
   },
   {
-    "tag": "Loyalsoldier",
+    "tag": "rules",
     "count": 16,
     "category": "ecosystem"
   },
@@ -85,18 +90,13 @@
     "category": "ecosystem"
   },
   {
+    "tag": "meta-rules-dat",
+    "count": 15,
+    "category": "ecosystem"
+  },
+  {
     "tag": "domain-list-community",
     "count": 15,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "rules",
-    "count": 15,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "meta-rules-dat",
-    "count": 14,
     "category": "ecosystem"
   },
   {
@@ -155,6 +155,11 @@
     "category": "core"
   },
   {
+    "tag": "dat",
+    "count": 9,
+    "category": "ecosystem"
+  },
+  {
     "tag": "v2rayNG",
     "count": 9,
     "category": "client"
@@ -183,11 +188,6 @@
     "tag": "Mihomo",
     "count": 8,
     "category": "client"
-  },
-  {
-    "tag": "dat",
-    "count": 8,
-    "category": "ecosystem"
   },
   {
     "tag": "OpenWrt",
@@ -250,6 +250,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "CHACHA20-POLY1305",
+    "count": 7,
+    "category": "protocol"
+  },
+  {
     "tag": "VMess",
     "count": 7,
     "category": "client"
@@ -308,11 +313,6 @@
     "tag": "rust",
     "count": 6,
     "category": "core"
-  },
-  {
-    "tag": "CHACHA20-POLY1305",
-    "count": 6,
-    "category": "protocol"
   },
   {
     "tag": "Docker",

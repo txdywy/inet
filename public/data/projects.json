@@ -51,21 +51,6 @@
     ]
   },
   {
-    "slug": "clashmetaforandroid",
-    "name": "ClashMetaForAndroid",
-    "repo": "MetaCubeX/ClashMetaForAndroid",
-    "description": "各平台代理客户端应用",
-    "category": "client",
-    "platforms": [
-      "android"
-    ],
-    "tags": [
-      "clash",
-      "android",
-      "mihomo"
-    ]
-  },
-  {
     "slug": "v2ray-rules-dat",
     "name": "v2ray-rules-dat",
     "repo": "Loyalsoldier/v2ray-rules-dat",
@@ -80,6 +65,21 @@
       "ruleset",
       "geosite",
       "geoip"
+    ]
+  },
+  {
+    "slug": "clashmetaforandroid",
+    "name": "ClashMetaForAndroid",
+    "repo": "MetaCubeX/ClashMetaForAndroid",
+    "description": "各平台代理客户端应用",
+    "category": "client",
+    "platforms": [
+      "android"
+    ],
+    "tags": [
+      "clash",
+      "android",
+      "mihomo"
     ]
   },
   {
