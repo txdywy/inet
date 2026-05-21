@@ -1,12 +1,12 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 65,
+    "count": 66,
     "category": "ecosystem"
   },
   {
     "tag": "mihomo",
-    "count": 42,
+    "count": 43,
     "category": "ecosystem"
   },
   {
@@ -21,13 +21,13 @@
   },
   {
     "tag": "Sub-Store",
-    "count": 31,
-    "category": "ecosystem"
+    "count": 32,
+    "category": "protocol"
   },
   {
     "tag": "网络代理",
-    "count": 29,
-    "category": "core"
+    "count": 30,
+    "category": "ecosystem"
   },
   {
     "tag": "Windows",
@@ -40,14 +40,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "OpenVPN",
+    "count": 24,
+    "category": "ecosystem"
+  },
+  {
     "tag": "HTTP/2",
     "count": 23,
     "category": "protocol"
-  },
-  {
-    "tag": "OpenVPN",
-    "count": 23,
-    "category": "ecosystem"
   },
   {
     "tag": "Linux",
@@ -105,8 +105,18 @@
     "category": "ecosystem"
   },
   {
+    "tag": "开源",
+    "count": 14,
+    "category": "ecosystem"
+  },
+  {
     "tag": "QUIC",
     "count": 14,
+    "category": "protocol"
+  },
+  {
+    "tag": "网络协议",
+    "count": 13,
     "category": "protocol"
   },
   {
@@ -115,19 +125,9 @@
     "category": "client"
   },
   {
-    "tag": "开源",
-    "count": 13,
-    "category": "ecosystem"
-  },
-  {
     "tag": "VPN",
     "count": 12,
     "category": "client"
-  },
-  {
-    "tag": "网络协议",
-    "count": 12,
-    "category": "core"
   },
   {
     "tag": "DNS",
@@ -150,6 +150,11 @@
     "category": "protocol"
   },
   {
+    "tag": "CHACHA20-POLY1305",
+    "count": 11,
+    "category": "protocol"
+  },
+  {
     "tag": "dat",
     "count": 10,
     "category": "ecosystem"
@@ -158,11 +163,6 @@
     "tag": "naiveproxy",
     "count": 10,
     "category": "core"
-  },
-  {
-    "tag": "CHACHA20-POLY1305",
-    "count": 10,
-    "category": "protocol"
   },
   {
     "tag": "SOCKS",
@@ -260,6 +260,11 @@
     "category": "client"
   },
   {
+    "tag": "go-gost",
+    "count": 6,
+    "category": "ecosystem"
+  },
+  {
     "tag": "Clash Verge Rev",
     "count": 6,
     "category": "client"
@@ -348,11 +353,6 @@
     "tag": "CloudflareSpeedTest",
     "count": 5,
     "category": "client"
-  },
-  {
-    "tag": "go-gost",
-    "count": 5,
-    "category": "ecosystem"
   },
   {
     "tag": "dae",
@@ -600,6 +600,16 @@
     "category": "protocol"
   },
   {
+    "tag": "Snell",
+    "count": 2,
+    "category": "protocol"
+  },
+  {
+    "tag": "masque",
+    "count": 2,
+    "category": "ecosystem"
+  },
+  {
     "tag": "DoH",
     "count": 2,
     "category": "dns_rules"
@@ -783,6 +793,16 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "ShadowTLS",
+    "count": 1,
+    "category": "protocol"
+  },
+  {
+    "tag": "x",
+    "count": 1,
+    "category": "ecosystem"
   },
   {
     "tag": "路由规则",
@@ -1420,11 +1440,6 @@
     "category": "core"
   },
   {
-    "tag": "masque",
-    "count": 1,
-    "category": "core"
-  },
-  {
     "tag": "bash",
     "count": 1,
     "category": "core"
@@ -1828,6 +1843,11 @@
     "tag": "Pushover",
     "count": 1,
     "category": "ecosystem"
+  },
+  {
+    "tag": "CBC",
+    "count": 1,
+    "category": "protocol"
   },
   {
     "tag": "加密算法",

@@ -17,22 +17,6 @@
     ]
   },
   {
-    "slug": "domain-list-community",
-    "name": "domain-list-community",
-    "repo": "v2fly/domain-list-community",
-    "description": "DNS 解析、规则集、分流策略",
-    "category": "dns_rules",
-    "platforms": [
-      "linux",
-      "windows",
-      "macos"
-    ],
-    "tags": [
-      "geosite",
-      "domain-list"
-    ]
-  },
-  {
     "slug": "sub-store",
     "name": "Sub-Store",
     "repo": "sub-store-org/Sub-Store",
@@ -48,6 +32,22 @@
     "tags": [
       "sub-store",
       "subscription"
+    ]
+  },
+  {
+    "slug": "domain-list-community",
+    "name": "domain-list-community",
+    "repo": "v2fly/domain-list-community",
+    "description": "DNS 解析、规则集、分流策略",
+    "category": "dns_rules",
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "tags": [
+      "geosite",
+      "domain-list"
     ]
   },
   {
@@ -311,6 +311,22 @@
     ]
   },
   {
+    "slug": "gost",
+    "name": "gost",
+    "repo": "go-gost/gost",
+    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
+    "category": "core",
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "tags": [
+      "gost",
+      "tunnel"
+    ]
+  },
+  {
     "slug": "mihomo-party",
     "name": "mihomo-party",
     "repo": "mihomo-party-org/mihomo-party",
@@ -437,22 +453,6 @@
     "tags": [
       "shadow-tls",
       "tls"
-    ]
-  },
-  {
-    "slug": "gost",
-    "name": "gost",
-    "repo": "go-gost/gost",
-    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
-    "category": "core",
-    "platforms": [
-      "linux",
-      "windows",
-      "macos"
-    ],
-    "tags": [
-      "gost",
-      "tunnel"
     ]
   },
   {
