@@ -1,12 +1,12 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 64,
+    "count": 65,
     "category": "ecosystem"
   },
   {
     "tag": "mihomo",
-    "count": 41,
+    "count": 42,
     "category": "ecosystem"
   },
   {
@@ -45,14 +45,14 @@
     "category": "protocol"
   },
   {
+    "tag": "OpenVPN",
+    "count": 23,
+    "category": "ecosystem"
+  },
+  {
     "tag": "Linux",
     "count": 22,
     "category": "client"
-  },
-  {
-    "tag": "OpenVPN",
-    "count": 21,
-    "category": "ecosystem"
   },
   {
     "tag": "VLESS",
@@ -75,6 +75,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "Tailscale",
+    "count": 17,
+    "category": "ecosystem"
+  },
+  {
     "tag": "ClashMetaForAndroid",
     "count": 17,
     "category": "client"
@@ -93,11 +98,6 @@
     "tag": "macOS",
     "count": 16,
     "category": "client"
-  },
-  {
-    "tag": "Tailscale",
-    "count": 16,
-    "category": "ecosystem"
   },
   {
     "tag": "代理工具",
@@ -160,6 +160,11 @@
     "category": "core"
   },
   {
+    "tag": "CHACHA20-POLY1305",
+    "count": 10,
+    "category": "protocol"
+  },
+  {
     "tag": "SOCKS",
     "count": 9,
     "category": "client"
@@ -183,11 +188,6 @@
     "tag": "Clash",
     "count": 9,
     "category": "client"
-  },
-  {
-    "tag": "CHACHA20-POLY1305",
-    "count": 9,
-    "category": "protocol"
   },
   {
     "tag": "Mihomo",
@@ -260,6 +260,11 @@
     "category": "client"
   },
   {
+    "tag": "Clash Verge Rev",
+    "count": 6,
+    "category": "client"
+  },
+  {
     "tag": "Clash Verge",
     "count": 6,
     "category": "client"
@@ -313,11 +318,6 @@
     "tag": "rust",
     "count": 6,
     "category": "core"
-  },
-  {
-    "tag": "Clash Verge Rev",
-    "count": 5,
-    "category": "client"
   },
   {
     "tag": "Docker",
@@ -620,6 +620,11 @@
     "category": "client"
   },
   {
+    "tag": "TrustTunnel",
+    "count": 2,
+    "category": "protocol"
+  },
+  {
     "tag": "client-cert",
     "count": 2,
     "category": "client"
@@ -893,11 +898,6 @@
     "tag": "新功能",
     "count": 1,
     "category": "client"
-  },
-  {
-    "tag": "TrustTunnel",
-    "count": 1,
-    "category": "protocol"
   },
   {
     "tag": "脚本",
@@ -1713,6 +1713,11 @@
     "tag": "gost",
     "count": 1,
     "category": "core"
+  },
+  {
+    "tag": "GostRelay",
+    "count": 1,
+    "category": "client"
   },
   {
     "tag": "clash-verge-rev",
