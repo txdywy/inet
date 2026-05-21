@@ -1,15 +1,15 @@
 {
-  "totalItems": 350,
-  "last24h": 9,
-  "last7d": 66,
+  "totalItems": 353,
+  "last24h": 6,
+  "last7d": 65,
   "byCategory": {
     "core": 75,
-    "client": 102,
+    "client": 104,
     "router": 1,
     "protocol": 20,
     "dns_rules": 3,
     "security": 4,
-    "ecosystem": 145,
+    "ecosystem": 146,
     "trend": 0
   },
   "topProjects": [
@@ -23,7 +23,7 @@
     },
     {
       "project": "Sub-Store",
-      "count": 30
+      "count": 31
     },
     {
       "project": "v2ray-rules-dat",
@@ -39,11 +39,11 @@
     },
     {
       "project": "clash-verge-rev",
-      "count": 11
+      "count": 12
     },
     {
       "project": "v2rayN",
-      "count": 10
+      "count": 11
     },
     {
       "project": "metacubexd",
@@ -73,18 +73,18 @@
     },
     {
       "tag": "Sub-Store",
-      "count": 30
+      "count": 31
     },
     {
       "tag": "网络代理",
       "count": 29
     },
     {
-      "tag": "v2ray",
-      "count": 24
+      "tag": "Windows",
+      "count": 25
     },
     {
-      "tag": "Windows",
+      "tag": "v2ray",
       "count": 24
     },
     {
@@ -93,7 +93,7 @@
     },
     {
       "tag": "Linux",
-      "count": 21
+      "count": 22
     },
     {
       "tag": "OpenVPN",
@@ -128,16 +128,16 @@
       "count": 16
     },
     {
-      "tag": "Tailscale",
+      "tag": "macOS",
       "count": 16
     },
     {
-      "tag": "代理工具",
+      "tag": "Tailscale",
       "count": 16
     }
   ],
-  "importantCount": 130,
+  "importantCount": 131,
   "breakingCount": 29,
   "securityCount": 20,
-  "updatedAt": "2026-05-21T04:47:33.585Z"
+  "updatedAt": "2026-05-21T10:06:02.498Z"
 }

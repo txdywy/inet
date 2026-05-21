@@ -21,7 +21,7 @@
   },
   {
     "tag": "Sub-Store",
-    "count": 30,
+    "count": 31,
     "category": "ecosystem"
   },
   {
@@ -30,14 +30,14 @@
     "category": "core"
   },
   {
+    "tag": "Windows",
+    "count": 25,
+    "category": "client"
+  },
+  {
     "tag": "v2ray",
     "count": 24,
     "category": "ecosystem"
-  },
-  {
-    "tag": "Windows",
-    "count": 24,
-    "category": "client"
   },
   {
     "tag": "HTTP/2",
@@ -46,7 +46,7 @@
   },
   {
     "tag": "Linux",
-    "count": 21,
+    "count": 22,
     "category": "client"
   },
   {
@@ -90,6 +90,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "macOS",
+    "count": 16,
+    "category": "client"
+  },
+  {
     "tag": "Tailscale",
     "count": 16,
     "category": "ecosystem"
@@ -98,11 +103,6 @@
     "tag": "代理工具",
     "count": 16,
     "category": "ecosystem"
-  },
-  {
-    "tag": "macOS",
-    "count": 15,
-    "category": "client"
   },
   {
     "tag": "QUIC",
@@ -135,6 +135,11 @@
     "category": "core"
   },
   {
+    "tag": "v2rayN",
+    "count": 11,
+    "category": "client"
+  },
+  {
     "tag": "domain-list",
     "count": 11,
     "category": "ecosystem"
@@ -150,14 +155,14 @@
     "category": "ecosystem"
   },
   {
-    "tag": "v2rayN",
-    "count": 10,
-    "category": "client"
-  },
-  {
     "tag": "naiveproxy",
     "count": 10,
     "category": "core"
+  },
+  {
+    "tag": "SOCKS",
+    "count": 9,
+    "category": "client"
   },
   {
     "tag": "v2rayNG",
@@ -183,11 +188,6 @@
     "tag": "CHACHA20-POLY1305",
     "count": 9,
     "category": "protocol"
-  },
-  {
-    "tag": "SOCKS",
-    "count": 8,
-    "category": "client"
   },
   {
     "tag": "Mihomo",
@@ -315,6 +315,11 @@
     "category": "core"
   },
   {
+    "tag": "Clash Verge Rev",
+    "count": 5,
+    "category": "client"
+  },
+  {
     "tag": "Docker",
     "count": 5,
     "category": "ecosystem"
@@ -395,14 +400,14 @@
     "category": "protocol"
   },
   {
+    "tag": ".NET",
+    "count": 4,
+    "category": "client"
+  },
+  {
     "tag": "Shadowrocket",
     "count": 4,
     "category": "ecosystem"
-  },
-  {
-    "tag": "Clash Verge Rev",
-    "count": 4,
-    "category": "client"
   },
   {
     "tag": "多语言支持",
@@ -473,11 +478,6 @@
     "tag": "Google Docs",
     "count": 3,
     "category": "core"
-  },
-  {
-    "tag": ".NET",
-    "count": 3,
-    "category": "client"
   },
   {
     "tag": "网络安全",
@@ -778,6 +778,21 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "路由规则",
+    "count": 1,
+    "category": "client"
+  },
+  {
+    "tag": "Node.js",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "cron",
+    "count": 1,
+    "category": "ecosystem"
   },
   {
     "tag": "社区",
