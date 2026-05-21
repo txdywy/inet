@@ -1,12 +1,12 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 62,
+    "count": 64,
     "category": "ecosystem"
   },
   {
     "tag": "mihomo",
-    "count": 40,
+    "count": 41,
     "category": "ecosystem"
   },
   {
@@ -30,14 +30,14 @@
     "category": "core"
   },
   {
+    "tag": "v2ray",
+    "count": 24,
+    "category": "ecosystem"
+  },
+  {
     "tag": "Windows",
     "count": 24,
     "category": "client"
-  },
-  {
-    "tag": "v2ray",
-    "count": 23,
-    "category": "ecosystem"
   },
   {
     "tag": "HTTP/2",
@@ -51,7 +51,7 @@
   },
   {
     "tag": "OpenVPN",
-    "count": 20,
+    "count": 21,
     "category": "ecosystem"
   },
   {
@@ -60,12 +60,17 @@
     "category": "protocol"
   },
   {
+    "tag": "Loyalsoldier",
+    "count": 18,
+    "category": "ecosystem"
+  },
+  {
     "tag": "domain-list-community",
     "count": 18,
     "category": "ecosystem"
   },
   {
-    "tag": "Loyalsoldier",
+    "tag": "rules",
     "count": 17,
     "category": "ecosystem"
   },
@@ -80,7 +85,7 @@
     "category": "core"
   },
   {
-    "tag": "rules",
+    "tag": "meta-rules-dat",
     "count": 16,
     "category": "ecosystem"
   },
@@ -98,11 +103,6 @@
     "tag": "macOS",
     "count": 15,
     "category": "client"
-  },
-  {
-    "tag": "meta-rules-dat",
-    "count": 15,
-    "category": "ecosystem"
   },
   {
     "tag": "QUIC",
@@ -145,6 +145,11 @@
     "category": "protocol"
   },
   {
+    "tag": "dat",
+    "count": 10,
+    "category": "ecosystem"
+  },
+  {
     "tag": "v2rayN",
     "count": 10,
     "category": "client"
@@ -153,11 +158,6 @@
     "tag": "naiveproxy",
     "count": 10,
     "category": "core"
-  },
-  {
-    "tag": "dat",
-    "count": 9,
-    "category": "ecosystem"
   },
   {
     "tag": "v2rayNG",
@@ -178,6 +178,11 @@
     "tag": "Clash",
     "count": 9,
     "category": "client"
+  },
+  {
+    "tag": "CHACHA20-POLY1305",
+    "count": 9,
+    "category": "protocol"
   },
   {
     "tag": "SOCKS",
@@ -213,11 +218,6 @@
     "tag": "Xray-core",
     "count": 8,
     "category": "core"
-  },
-  {
-    "tag": "CHACHA20-POLY1305",
-    "count": 8,
-    "category": "protocol"
   },
   {
     "tag": "metacubexd",
@@ -585,6 +585,11 @@
     "category": "client"
   },
   {
+    "tag": "加密",
+    "count": 3,
+    "category": "protocol"
+  },
+  {
     "tag": "Alpha",
     "count": 3,
     "category": "ecosystem"
@@ -763,11 +768,6 @@
     "tag": "bugfix",
     "count": 2,
     "category": "core"
-  },
-  {
-    "tag": "加密",
-    "count": 2,
-    "category": "protocol"
   },
   {
     "tag": "命令行工具",
