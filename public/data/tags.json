@@ -1,7 +1,7 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 66,
+    "count": 67,
     "category": "ecosystem"
   },
   {
@@ -30,14 +30,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "v2ray",
+    "count": 25,
+    "category": "ecosystem"
+  },
+  {
     "tag": "Windows",
     "count": 25,
     "category": "client"
-  },
-  {
-    "tag": "v2ray",
-    "count": 24,
-    "category": "ecosystem"
   },
   {
     "tag": "OpenVPN",
@@ -55,12 +55,17 @@
     "category": "client"
   },
   {
+    "tag": "Loyalsoldier",
+    "count": 19,
+    "category": "ecosystem"
+  },
+  {
     "tag": "VLESS",
     "count": 19,
     "category": "protocol"
   },
   {
-    "tag": "Loyalsoldier",
+    "tag": "Tailscale",
     "count": 18,
     "category": "ecosystem"
   },
@@ -70,12 +75,12 @@
     "category": "ecosystem"
   },
   {
-    "tag": "rules",
+    "tag": "meta-rules-dat",
     "count": 17,
     "category": "ecosystem"
   },
   {
-    "tag": "Tailscale",
+    "tag": "rules",
     "count": 17,
     "category": "ecosystem"
   },
@@ -88,11 +93,6 @@
     "tag": "sing-box",
     "count": 17,
     "category": "core"
-  },
-  {
-    "tag": "meta-rules-dat",
-    "count": 16,
-    "category": "ecosystem"
   },
   {
     "tag": "macOS",
@@ -115,6 +115,11 @@
     "category": "protocol"
   },
   {
+    "tag": "VPN",
+    "count": 13,
+    "category": "ecosystem"
+  },
+  {
     "tag": "网络协议",
     "count": 13,
     "category": "protocol"
@@ -122,11 +127,6 @@
   {
     "tag": "Xray",
     "count": 13,
-    "category": "client"
-  },
-  {
-    "tag": "VPN",
-    "count": 12,
     "category": "client"
   },
   {
@@ -190,6 +190,16 @@
     "category": "client"
   },
   {
+    "tag": "代理",
+    "count": 8,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "网络工具",
+    "count": 8,
+    "category": "ecosystem"
+  },
+  {
     "tag": "Mihomo",
     "count": 8,
     "category": "client"
@@ -225,11 +235,6 @@
     "category": "core"
   },
   {
-    "tag": "网络工具",
-    "count": 7,
-    "category": "ecosystem"
-  },
-  {
     "tag": "Surge",
     "count": 7,
     "category": "protocol"
@@ -238,11 +243,6 @@
     "tag": "v2ray-agent",
     "count": 7,
     "category": "ecosystem"
-  },
-  {
-    "tag": "代理",
-    "count": 7,
-    "category": "client"
   },
   {
     "tag": "快捷方式",
@@ -793,6 +793,11 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "规则库",
+    "count": 1,
+    "category": "ecosystem"
   },
   {
     "tag": "ShadowTLS",
