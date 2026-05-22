@@ -1,9 +1,9 @@
 {
-  "totalItems": 361,
-  "last24h": 7,
-  "last7d": 66,
+  "totalItems": 362,
+  "last24h": 6,
+  "last7d": 65,
   "byCategory": {
-    "core": 75,
+    "core": 76,
     "client": 105,
     "router": 1,
     "protocol": 23,
@@ -46,11 +46,11 @@
       "count": 11
     },
     {
-      "project": "metacubexd",
-      "count": 9
+      "project": "sing-box",
+      "count": 10
     },
     {
-      "project": "v2rayNG",
+      "project": "metacubexd",
       "count": 9
     }
   ],
@@ -100,6 +100,10 @@
       "count": 22
     },
     {
+      "tag": "Tailscale",
+      "count": 19
+    },
+    {
       "tag": "Loyalsoldier",
       "count": 19
     },
@@ -108,7 +112,7 @@
       "count": 19
     },
     {
-      "tag": "Tailscale",
+      "tag": "sing-box",
       "count": 18
     },
     {
@@ -128,10 +132,6 @@
       "count": 17
     },
     {
-      "tag": "sing-box",
-      "count": 17
-    },
-    {
       "tag": "macOS",
       "count": 16
     }
@@ -139,5 +139,5 @@
   "importantCount": 135,
   "breakingCount": 29,
   "securityCount": 20,
-  "updatedAt": "2026-05-22T04:38:12.022Z"
+  "updatedAt": "2026-05-22T09:51:47.528Z"
 }

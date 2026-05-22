@@ -1,5 +1,37 @@
 [
   {
+    "id": "45c0b0755cf0ffe1",
+    "title": "v1.14.0-alpha.25",
+    "summary": "SagerNet/sing-box v1.14.0-alpha.25 更新了 Tailscale 端点的配置，恢复了某些字段的使用。",
+    "analysis": "本次更新主要是对 Tailscale 端点配置的调整，具体包括恢复了 `control_http_client` 字段的使用，并撤销了对 Dial Fields 的弃用。这一变更的重要性在于，之前的弃用可能会影响到依赖这些字段的用户和开发者，导致配置错误或功能失效。通过恢复这些字段，用户可以继续使用原有的配置方式，减少了迁移成本和潜在的兼容性问题。对于使用 Tailscale 的用户来说，这次更新是积极的，建议尽快更新以确保配置的正常运行。整体来看，此次更新没有引入新的破坏性变更，也未涉及安全性问题，因此兼容性风险较低。",
+    "rawTitle": "v1.14.0-alpha.25",
+    "rawBody": "## :memo: Release Notes\r\n\r\n* Revert Tailscale endpoint dial fields deprecation and remove `control_http_client` **1**\r\n* Fixes and improvements\r\n\r\n**1**:\r\n\r\nThe `control_http_client` field on [Tailscale](https://sing-box.sagernet.org/configuration/endpoint/tailscale/) endpoints introduced in `1.14.0-alpha.13` is removed, and the deprecation of [Dial Fields](https://sing-box.sagernet.org/configuration/endpoint/tailscale/#dial-fields) is reverted.",
+    "sourceType": "github_release",
+    "sourceName": "SagerNet/sing-box",
+    "sourceUrl": "https://github.com/SagerNet/sing-box/releases/tag/v1.14.0-alpha.25",
+    "project": "sing-box",
+    "repo": "SagerNet/sing-box",
+    "slug": "sing-box",
+    "version": "1.14.0-alpha.25",
+    "category": "core",
+    "tags": [
+      "SagerNet",
+      "sing-box",
+      "Tailscale"
+    ],
+    "platforms": [],
+    "importance": 3,
+    "confidence": 0.9,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-05-22T04:39:52Z",
+    "fetchedAt": "2026-05-22T09:51:19.224Z",
+    "firstSeenAt": "2026-05-22T09:51:47.113Z",
+    "updatedAt": "2026-05-22T09:51:47.113Z",
+    "hash": "45c0b0755cf0ffe1"
+  },
+  {
     "id": "308c84c7e3a78d5c",
     "title": "Release 2026-05-22 07:32",
     "summary": "MetaCubeX/meta-rules-dat 发布了 2026 年 5 月 22 日的更新，具体内容尚未披露。",

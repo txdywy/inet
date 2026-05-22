@@ -55,6 +55,11 @@
     "category": "client"
   },
   {
+    "tag": "Tailscale",
+    "count": 19,
+    "category": "core"
+  },
+  {
     "tag": "Loyalsoldier",
     "count": 19,
     "category": "ecosystem"
@@ -65,9 +70,9 @@
     "category": "protocol"
   },
   {
-    "tag": "Tailscale",
+    "tag": "sing-box",
     "count": 18,
-    "category": "ecosystem"
+    "category": "core"
   },
   {
     "tag": "domain-list-community",
@@ -88,11 +93,6 @@
     "tag": "ClashMetaForAndroid",
     "count": 17,
     "category": "client"
-  },
-  {
-    "tag": "sing-box",
-    "count": 17,
-    "category": "core"
   },
   {
     "tag": "macOS",
@@ -155,6 +155,11 @@
     "category": "protocol"
   },
   {
+    "tag": "SagerNet",
+    "count": 10,
+    "category": "core"
+  },
+  {
     "tag": "dat",
     "count": 10,
     "category": "ecosystem"
@@ -173,11 +178,6 @@
     "tag": "v2rayNG",
     "count": 9,
     "category": "client"
-  },
-  {
-    "tag": "SagerNet",
-    "count": 9,
-    "category": "ecosystem"
   },
   {
     "tag": "TUN",
