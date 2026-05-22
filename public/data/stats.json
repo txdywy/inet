@@ -1,15 +1,15 @@
 {
-  "totalItems": 362,
-  "last24h": 6,
-  "last7d": 65,
+  "totalItems": 365,
+  "last24h": 9,
+  "last7d": 61,
   "byCategory": {
     "core": 76,
-    "client": 105,
+    "client": 106,
     "router": 1,
-    "protocol": 23,
+    "protocol": 24,
     "dns_rules": 3,
     "security": 4,
-    "ecosystem": 150,
+    "ecosystem": 151,
     "trend": 0
   },
   "topProjects": [
@@ -18,11 +18,11 @@
       "count": 42
     },
     {
-      "project": "Sub-Store",
-      "count": 32
+      "project": "domain-list-community",
+      "count": 33
     },
     {
-      "project": "domain-list-community",
+      "project": "Sub-Store",
       "count": 32
     },
     {
@@ -30,11 +30,11 @@
       "count": 20
     },
     {
-      "project": "meta-rules-dat",
-      "count": 17
+      "project": "ClashMetaForAndroid",
+      "count": 18
     },
     {
-      "project": "ClashMetaForAndroid",
+      "project": "meta-rules-dat",
       "count": 17
     },
     {
@@ -65,11 +65,11 @@
     },
     {
       "tag": "v2fly",
-      "count": 36
+      "count": 37
     },
     {
       "tag": "Android",
-      "count": 33
+      "count": 34
     },
     {
       "tag": "Sub-Store",
@@ -77,7 +77,7 @@
     },
     {
       "tag": "网络代理",
-      "count": 30
+      "count": 31
     },
     {
       "tag": "v2ray",
@@ -100,6 +100,10 @@
       "count": 22
     },
     {
+      "tag": "domain-list-community",
+      "count": 19
+    },
+    {
       "tag": "Tailscale",
       "count": 19
     },
@@ -112,11 +116,11 @@
       "count": 19
     },
     {
-      "tag": "sing-box",
+      "tag": "ClashMetaForAndroid",
       "count": 18
     },
     {
-      "tag": "domain-list-community",
+      "tag": "sing-box",
       "count": 18
     },
     {
@@ -128,10 +132,6 @@
       "count": 17
     },
     {
-      "tag": "ClashMetaForAndroid",
-      "count": 17
-    },
-    {
       "tag": "macOS",
       "count": 16
     }
@@ -139,5 +139,5 @@
   "importantCount": 135,
   "breakingCount": 29,
   "securityCount": 20,
-  "updatedAt": "2026-05-22T09:51:47.528Z"
+  "updatedAt": "2026-05-22T15:26:48.318Z"
 }

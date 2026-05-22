@@ -11,12 +11,12 @@
   },
   {
     "tag": "v2fly",
-    "count": 36,
+    "count": 37,
     "category": "ecosystem"
   },
   {
     "tag": "Android",
-    "count": 33,
+    "count": 34,
     "category": "client"
   },
   {
@@ -26,8 +26,8 @@
   },
   {
     "tag": "网络代理",
-    "count": 30,
-    "category": "ecosystem"
+    "count": 31,
+    "category": "protocol"
   },
   {
     "tag": "v2ray",
@@ -55,6 +55,11 @@
     "category": "client"
   },
   {
+    "tag": "domain-list-community",
+    "count": 19,
+    "category": "ecosystem"
+  },
+  {
     "tag": "Tailscale",
     "count": 19,
     "category": "core"
@@ -70,14 +75,14 @@
     "category": "protocol"
   },
   {
+    "tag": "ClashMetaForAndroid",
+    "count": 18,
+    "category": "client"
+  },
+  {
     "tag": "sing-box",
     "count": 18,
     "category": "core"
-  },
-  {
-    "tag": "domain-list-community",
-    "count": 18,
-    "category": "ecosystem"
   },
   {
     "tag": "meta-rules-dat",
@@ -88,11 +93,6 @@
     "tag": "rules",
     "count": 17,
     "category": "ecosystem"
-  },
-  {
-    "tag": "ClashMetaForAndroid",
-    "count": 17,
-    "category": "client"
   },
   {
     "tag": "macOS",
@@ -230,6 +230,11 @@
     "category": "core"
   },
   {
+    "tag": "SUDOKU-ASCII",
+    "count": 7,
+    "category": "protocol"
+  },
+  {
     "tag": "metacubexd",
     "count": 7,
     "category": "core"
@@ -258,6 +263,11 @@
     "tag": "VMess",
     "count": 7,
     "category": "client"
+  },
+  {
+    "tag": "sudoku",
+    "count": 6,
+    "category": "protocol"
   },
   {
     "tag": "go-gost",
@@ -300,11 +310,6 @@
     "category": "client"
   },
   {
-    "tag": "SUDOKU-ASCII",
-    "count": 6,
-    "category": "core"
-  },
-  {
     "tag": "Go",
     "count": 6,
     "category": "core"
@@ -336,11 +341,6 @@
   },
   {
     "tag": "UDP",
-    "count": 5,
-    "category": "core"
-  },
-  {
-    "tag": "sudoku",
     "count": 5,
     "category": "core"
   },
@@ -397,6 +397,11 @@
   {
     "tag": "tuic",
     "count": 5,
+    "category": "protocol"
+  },
+  {
+    "tag": "proxy",
+    "count": 4,
     "category": "protocol"
   },
   {
@@ -457,6 +462,11 @@
   {
     "tag": "nekoray",
     "count": 4,
+    "category": "client"
+  },
+  {
+    "tag": "配置文件",
+    "count": 3,
     "category": "client"
   },
   {
@@ -533,11 +543,6 @@
     "tag": "崩溃修复",
     "count": 3,
     "category": "client"
-  },
-  {
-    "tag": "proxy",
-    "count": 3,
-    "category": "ecosystem"
   },
   {
     "tag": "配置管理",
@@ -690,11 +695,6 @@
     "category": "client"
   },
   {
-    "tag": "配置文件",
-    "count": 2,
-    "category": "core"
-  },
-  {
     "tag": "debug",
     "count": 2,
     "category": "ecosystem"
@@ -793,6 +793,26 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "Stripe",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "财务",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "PAC",
+    "count": 1,
+    "category": "protocol"
+  },
+  {
+    "tag": "远程控制",
+    "count": 1,
+    "category": "client"
   },
   {
     "tag": "规则库",
