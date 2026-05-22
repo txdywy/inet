@@ -230,6 +230,16 @@
     "category": "core"
   },
   {
+    "tag": "go-gost",
+    "count": 7,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "shadowsocks",
+    "count": 7,
+    "category": "ecosystem"
+  },
+  {
     "tag": "SUDOKU-ASCII",
     "count": 7,
     "category": "protocol"
@@ -270,11 +280,6 @@
     "category": "protocol"
   },
   {
-    "tag": "go-gost",
-    "count": 6,
-    "category": "ecosystem"
-  },
-  {
     "tag": "Clash Verge Rev",
     "count": 6,
     "category": "client"
@@ -288,11 +293,6 @@
     "tag": "v2ray-core",
     "count": 6,
     "category": "core"
-  },
-  {
-    "tag": "shadowsocks",
-    "count": 6,
-    "category": "ecosystem"
   },
   {
     "tag": "luci-app-mosdns",
@@ -793,6 +793,11 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "go",
+    "count": 1,
+    "category": "ecosystem"
   },
   {
     "tag": "Stripe",

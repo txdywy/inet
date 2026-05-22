@@ -1,6 +1,6 @@
 {
-  "totalItems": 365,
-  "last24h": 9,
+  "totalItems": 366,
+  "last24h": 8,
   "last7d": 61,
   "byCategory": {
     "core": 76,
@@ -9,7 +9,7 @@
     "protocol": 24,
     "dns_rules": 3,
     "security": 4,
-    "ecosystem": 151,
+    "ecosystem": 152,
     "trend": 0
   },
   "topProjects": [
@@ -139,5 +139,5 @@
   "importantCount": 135,
   "breakingCount": 29,
   "securityCount": 20,
-  "updatedAt": "2026-05-22T15:26:48.318Z"
+  "updatedAt": "2026-05-22T20:06:51.050Z"
 }

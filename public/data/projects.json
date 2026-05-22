@@ -282,6 +282,22 @@
     ]
   },
   {
+    "slug": "gost",
+    "name": "gost",
+    "repo": "go-gost/gost",
+    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
+    "category": "core",
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "tags": [
+      "gost",
+      "tunnel"
+    ]
+  },
+  {
     "slug": "openwrt",
     "name": "openwrt",
     "repo": "openwrt/openwrt",
@@ -327,22 +343,6 @@
       "v2ray-agent",
       "script",
       "vps"
-    ]
-  },
-  {
-    "slug": "gost",
-    "name": "gost",
-    "repo": "go-gost/gost",
-    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
-    "category": "core",
-    "platforms": [
-      "linux",
-      "windows",
-      "macos"
-    ],
-    "tags": [
-      "gost",
-      "tunnel"
     ]
   },
   {

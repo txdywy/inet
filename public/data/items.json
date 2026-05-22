@@ -1,5 +1,37 @@
 [
   {
+    "id": "a2c332a4fe35c6a7",
+    "title": "v3.2.7-nightly.20260522",
+    "summary": "go-gost项目发布了v3.2.7-nightly.20260522版本，主要增加了shadowsocks的端到端测试用例。",
+    "analysis": "此次更新主要集中在增强shadowsocks协议的测试覆盖率，增加了端到端测试用例，以确保其在不同环境下的稳定性和可靠性。这对于开发者来说非常重要，因为它提高了代码的质量和可维护性，减少了潜在的bug。此外，更新中还将相关依赖库的版本进行了提升，确保了项目使用最新的功能和修复。虽然此次更新没有涉及破坏性变更，但作为夜间版本，用户在使用时应注意可能存在的未稳定因素。建议开发者关注此更新，尤其是那些依赖shadowsocks的用户，尽早进行测试和验证，以确保兼容性和功能的正常运行。",
+    "rawTitle": "v3.2.7-nightly.20260522",
+    "rawBody": "## Changelog\n* 8740e6f258a6b444a99b06fe5bee6e15015f6ffc Add e2e test cases for shadowsocks\n* 8db62785fae3ab6157c6831911aa3234924a4fef Merge pull request #862: Add e2e test cases for shadowsocks\n* 2be36abe7521487cec5cf6576d858cdae3b46358 bump x to v0.10.1, go-shadowsocks2 to v0.1.3; add gost binary to .gitignore\n\n",
+    "sourceType": "github_release",
+    "sourceName": "go-gost/gost",
+    "sourceUrl": "https://github.com/go-gost/gost/releases/tag/v3.2.7-nightly.20260522",
+    "project": "gost",
+    "repo": "go-gost/gost",
+    "slug": "gost",
+    "version": "3.2.7-nightly.20260522",
+    "category": "ecosystem",
+    "tags": [
+      "go-gost",
+      "shadowsocks",
+      "go"
+    ],
+    "platforms": [],
+    "importance": 3,
+    "confidence": 0.9,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-05-22T16:23:26Z",
+    "fetchedAt": "2026-05-22T20:06:28.713Z",
+    "firstSeenAt": "2026-05-22T20:06:50.606Z",
+    "updatedAt": "2026-05-22T20:06:50.606Z",
+    "hash": "a2c332a4fe35c6a7"
+  },
+  {
     "id": "5aaa8ab010327238",
     "title": "20260522120028",
     "summary": "本次更新在财务类别中新增了 Stripe 相关内容，提升了域名列表的实用性。",
