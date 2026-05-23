@@ -1,8 +1,8 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 69,
-    "category": "ecosystem"
+    "count": 70,
+    "category": "client"
   },
   {
     "tag": "mihomo",
@@ -21,7 +21,7 @@
   },
   {
     "tag": "Sub-Store",
-    "count": 32,
+    "count": 33,
     "category": "protocol"
   },
   {
@@ -175,6 +175,11 @@
     "category": "core"
   },
   {
+    "tag": "代理",
+    "count": 9,
+    "category": "client"
+  },
+  {
     "tag": "SOCKS",
     "count": 9,
     "category": "client"
@@ -190,9 +195,9 @@
     "category": "client"
   },
   {
-    "tag": "代理",
+    "tag": "metacubexd",
     "count": 8,
-    "category": "ecosystem"
+    "category": "client"
   },
   {
     "tag": "网络工具",
@@ -243,11 +248,6 @@
     "tag": "SUDOKU-ASCII",
     "count": 7,
     "category": "protocol"
-  },
-  {
-    "tag": "metacubexd",
-    "count": 7,
-    "category": "core"
   },
   {
     "tag": "Surge",
@@ -400,6 +400,11 @@
     "category": "protocol"
   },
   {
+    "tag": "Snell",
+    "count": 4,
+    "category": "protocol"
+  },
+  {
     "tag": "proxy",
     "count": 4,
     "category": "protocol"
@@ -468,11 +473,6 @@
     "tag": "配置文件",
     "count": 3,
     "category": "client"
-  },
-  {
-    "tag": "Snell",
-    "count": 3,
-    "category": "protocol"
   },
   {
     "tag": "域名解析",
@@ -608,6 +608,16 @@
     "tag": "protocol",
     "count": 3,
     "category": "protocol"
+  },
+  {
+    "tag": "ShadowTLS",
+    "count": 2,
+    "category": "protocol"
+  },
+  {
+    "tag": "延迟测试",
+    "count": 2,
+    "category": "client"
   },
   {
     "tag": "SOCKS5",
@@ -855,11 +865,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "ShadowTLS",
-    "count": 1,
-    "category": "protocol"
-  },
-  {
     "tag": "x",
     "count": 1,
     "category": "ecosystem"
@@ -926,11 +931,6 @@
   },
   {
     "tag": "网络测试",
-    "count": 1,
-    "category": "core"
-  },
-  {
-    "tag": "延迟测试",
     "count": 1,
     "category": "core"
   },

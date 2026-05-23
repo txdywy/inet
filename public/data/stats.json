@@ -1,12 +1,12 @@
 {
-  "totalItems": 371,
-  "last24h": 8,
-  "last7d": 63,
+  "totalItems": 373,
+  "last24h": 7,
+  "last7d": 62,
   "byCategory": {
     "core": 76,
-    "client": 107,
+    "client": 108,
     "router": 1,
-    "protocol": 25,
+    "protocol": 26,
     "dns_rules": 3,
     "security": 5,
     "ecosystem": 154,
@@ -18,12 +18,12 @@
       "count": 43
     },
     {
-      "project": "domain-list-community",
+      "project": "Sub-Store",
       "count": 33
     },
     {
-      "project": "Sub-Store",
-      "count": 32
+      "project": "domain-list-community",
+      "count": 33
     },
     {
       "project": "v2ray-rules-dat",
@@ -46,18 +46,18 @@
       "count": 11
     },
     {
-      "project": "v2rayNG",
+      "project": "metacubexd",
       "count": 10
     },
     {
-      "project": "sing-box",
+      "project": "v2rayNG",
       "count": 10
     }
   ],
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 69
+      "count": 70
     },
     {
       "tag": "mihomo",
@@ -73,7 +73,7 @@
     },
     {
       "tag": "Sub-Store",
-      "count": 32
+      "count": 33
     },
     {
       "tag": "网络代理",
@@ -136,8 +136,8 @@
       "count": 16
     }
   ],
-  "importantCount": 137,
+  "importantCount": 138,
   "breakingCount": 29,
   "securityCount": 22,
-  "updatedAt": "2026-05-23T08:33:14.797Z"
+  "updatedAt": "2026-05-23T14:04:54.996Z"
 }
