@@ -1,7 +1,7 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 67,
+    "count": 68,
     "category": "ecosystem"
   },
   {
@@ -31,7 +31,7 @@
   },
   {
     "tag": "v2ray",
-    "count": 25,
+    "count": 26,
     "category": "ecosystem"
   },
   {
@@ -55,6 +55,11 @@
     "category": "client"
   },
   {
+    "tag": "Loyalsoldier",
+    "count": 20,
+    "category": "ecosystem"
+  },
+  {
     "tag": "domain-list-community",
     "count": 19,
     "category": "ecosystem"
@@ -65,14 +70,19 @@
     "category": "core"
   },
   {
-    "tag": "Loyalsoldier",
-    "count": 19,
-    "category": "ecosystem"
-  },
-  {
     "tag": "VLESS",
     "count": 19,
     "category": "protocol"
+  },
+  {
+    "tag": "meta-rules-dat",
+    "count": 18,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "rules",
+    "count": 18,
+    "category": "ecosystem"
   },
   {
     "tag": "ClashMetaForAndroid",
@@ -83,16 +93,6 @@
     "tag": "sing-box",
     "count": 18,
     "category": "core"
-  },
-  {
-    "tag": "meta-rules-dat",
-    "count": 17,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "rules",
-    "count": 17,
-    "category": "ecosystem"
   },
   {
     "tag": "macOS",
@@ -135,6 +135,11 @@
     "category": "core"
   },
   {
+    "tag": "dat",
+    "count": 11,
+    "category": "ecosystem"
+  },
+  {
     "tag": "v2rayN",
     "count": 11,
     "category": "client"
@@ -158,11 +163,6 @@
     "tag": "SagerNet",
     "count": 10,
     "category": "core"
-  },
-  {
-    "tag": "dat",
-    "count": 10,
-    "category": "ecosystem"
   },
   {
     "tag": "naiveproxy",

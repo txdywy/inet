@@ -1,6 +1,6 @@
 {
-  "totalItems": 366,
-  "last24h": 8,
+  "totalItems": 368,
+  "last24h": 7,
   "last7d": 61,
   "byCategory": {
     "core": 76,
@@ -9,7 +9,7 @@
     "protocol": 24,
     "dns_rules": 3,
     "security": 4,
-    "ecosystem": 152,
+    "ecosystem": 154,
     "trend": 0
   },
   "topProjects": [
@@ -27,15 +27,15 @@
     },
     {
       "project": "v2ray-rules-dat",
-      "count": 20
+      "count": 21
+    },
+    {
+      "project": "meta-rules-dat",
+      "count": 18
     },
     {
       "project": "ClashMetaForAndroid",
       "count": 18
-    },
-    {
-      "project": "meta-rules-dat",
-      "count": 17
     },
     {
       "project": "clash-verge-rev",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 67
+      "count": 68
     },
     {
       "tag": "mihomo",
@@ -81,7 +81,7 @@
     },
     {
       "tag": "v2ray",
-      "count": 25
+      "count": 26
     },
     {
       "tag": "Windows",
@@ -100,6 +100,10 @@
       "count": 22
     },
     {
+      "tag": "Loyalsoldier",
+      "count": 20
+    },
+    {
       "tag": "domain-list-community",
       "count": 19
     },
@@ -108,12 +112,16 @@
       "count": 19
     },
     {
-      "tag": "Loyalsoldier",
+      "tag": "VLESS",
       "count": 19
     },
     {
-      "tag": "VLESS",
-      "count": 19
+      "tag": "meta-rules-dat",
+      "count": 18
+    },
+    {
+      "tag": "rules",
+      "count": 18
     },
     {
       "tag": "ClashMetaForAndroid",
@@ -124,14 +132,6 @@
       "count": 18
     },
     {
-      "tag": "meta-rules-dat",
-      "count": 17
-    },
-    {
-      "tag": "rules",
-      "count": 17
-    },
-    {
       "tag": "macOS",
       "count": 16
     }
@@ -139,5 +139,5 @@
   "importantCount": 135,
   "breakingCount": 29,
   "securityCount": 20,
-  "updatedAt": "2026-05-22T20:06:51.050Z"
+  "updatedAt": "2026-05-23T04:10:40.449Z"
 }
