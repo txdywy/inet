@@ -1,12 +1,12 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 70,
+    "count": 73,
     "category": "client"
   },
   {
     "tag": "mihomo",
-    "count": 44,
+    "count": 45,
     "category": "ecosystem"
   },
   {
@@ -35,14 +35,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "OpenVPN",
+    "count": 26,
+    "category": "ecosystem"
+  },
+  {
     "tag": "Windows",
     "count": 25,
     "category": "client"
-  },
-  {
-    "tag": "OpenVPN",
-    "count": 25,
-    "category": "ecosystem"
   },
   {
     "tag": "HTTP/2",
@@ -135,14 +135,14 @@
     "category": "client"
   },
   {
+    "tag": "CHACHA20-POLY1305",
+    "count": 13,
+    "category": "protocol"
+  },
+  {
     "tag": "Hysteria",
     "count": 12,
     "category": "security"
-  },
-  {
-    "tag": "CHACHA20-POLY1305",
-    "count": 12,
-    "category": "protocol"
   },
   {
     "tag": "dat",
@@ -160,6 +160,16 @@
     "category": "ecosystem"
   },
   {
+    "tag": "metacubexd",
+    "count": 10,
+    "category": "client"
+  },
+  {
+    "tag": "代理",
+    "count": 10,
+    "category": "client"
+  },
+  {
     "tag": "v2rayNG",
     "count": 10,
     "category": "client"
@@ -175,7 +185,7 @@
     "category": "core"
   },
   {
-    "tag": "代理",
+    "tag": "3x-ui",
     "count": 9,
     "category": "client"
   },
@@ -195,11 +205,6 @@
     "category": "client"
   },
   {
-    "tag": "metacubexd",
-    "count": 8,
-    "category": "client"
-  },
-  {
     "tag": "网络工具",
     "count": 8,
     "category": "ecosystem"
@@ -213,11 +218,6 @@
     "tag": "OpenWrt",
     "count": 8,
     "category": "router"
-  },
-  {
-    "tag": "3x-ui",
-    "count": 8,
-    "category": "ecosystem"
   },
   {
     "tag": "用户体验",
@@ -330,6 +330,16 @@
     "category": "core"
   },
   {
+    "tag": "用户界面",
+    "count": 5,
+    "category": "client"
+  },
+  {
+    "tag": "Snell",
+    "count": 5,
+    "category": "protocol"
+  },
+  {
     "tag": "Docker",
     "count": 5,
     "category": "ecosystem"
@@ -400,11 +410,6 @@
     "category": "protocol"
   },
   {
-    "tag": "Snell",
-    "count": 4,
-    "category": "protocol"
-  },
-  {
     "tag": "proxy",
     "count": 4,
     "category": "protocol"
@@ -423,11 +428,6 @@
     "tag": "多语言支持",
     "count": 4,
     "category": "client"
-  },
-  {
-    "tag": "用户界面",
-    "count": 4,
-    "category": "ecosystem"
   },
   {
     "tag": "IPv6",
@@ -595,6 +595,11 @@
     "category": "client"
   },
   {
+    "tag": "CBC",
+    "count": 3,
+    "category": "protocol"
+  },
+  {
     "tag": "加密",
     "count": 3,
     "category": "protocol"
@@ -608,6 +613,11 @@
     "tag": "protocol",
     "count": 3,
     "category": "protocol"
+  },
+  {
+    "tag": "TypeScript",
+    "count": 2,
+    "category": "client"
   },
   {
     "tag": "ShadowTLS",
@@ -800,11 +810,6 @@
     "category": "core"
   },
   {
-    "tag": "CBC",
-    "count": 2,
-    "category": "protocol"
-  },
-  {
     "tag": "命令行工具",
     "count": 2,
     "category": "ecosystem"
@@ -813,6 +818,31 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "React",
+    "count": 1,
+    "category": "client"
+  },
+  {
+    "tag": "AntD",
+    "count": 1,
+    "category": "client"
+  },
+  {
+    "tag": "多客户端",
+    "count": 1,
+    "category": "client"
+  },
+  {
+    "tag": "稳定性修复",
+    "count": 1,
+    "category": "client"
+  },
+  {
+    "tag": "延迟历史",
+    "count": 1,
+    "category": "client"
   },
   {
     "tag": "SDK",
@@ -1511,11 +1541,6 @@
   },
   {
     "tag": "Go 1.26",
-    "count": 1,
-    "category": "core"
-  },
-  {
-    "tag": "TypeScript",
     "count": 1,
     "category": "core"
   },
