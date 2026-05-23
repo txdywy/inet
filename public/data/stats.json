@@ -1,21 +1,21 @@
 {
-  "totalItems": 368,
-  "last24h": 7,
-  "last7d": 61,
+  "totalItems": 371,
+  "last24h": 8,
+  "last7d": 63,
   "byCategory": {
     "core": 76,
-    "client": 106,
+    "client": 107,
     "router": 1,
-    "protocol": 24,
+    "protocol": 25,
     "dns_rules": 3,
-    "security": 4,
+    "security": 5,
     "ecosystem": 154,
     "trend": 0
   },
   "topProjects": [
     {
       "project": "mihomo",
-      "count": 42
+      "count": 43
     },
     {
       "project": "domain-list-community",
@@ -46,22 +46,22 @@
       "count": 11
     },
     {
-      "project": "sing-box",
+      "project": "v2rayNG",
       "count": 10
     },
     {
-      "project": "metacubexd",
-      "count": 9
+      "project": "sing-box",
+      "count": 10
     }
   ],
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 68
+      "count": 69
     },
     {
       "tag": "mihomo",
-      "count": 43
+      "count": 44
     },
     {
       "tag": "v2fly",
@@ -89,7 +89,7 @@
     },
     {
       "tag": "OpenVPN",
-      "count": 24
+      "count": 25
     },
     {
       "tag": "HTTP/2",
@@ -136,8 +136,8 @@
       "count": 16
     }
   ],
-  "importantCount": 135,
+  "importantCount": 137,
   "breakingCount": 29,
-  "securityCount": 20,
-  "updatedAt": "2026-05-23T04:10:40.449Z"
+  "securityCount": 22,
+  "updatedAt": "2026-05-23T08:33:14.797Z"
 }

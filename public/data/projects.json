@@ -153,6 +153,21 @@
     ]
   },
   {
+    "slug": "v2rayng",
+    "name": "v2rayNG",
+    "repo": "2dust/v2rayNG",
+    "description": "各平台代理客户端应用",
+    "category": "client",
+    "platforms": [
+      "android"
+    ],
+    "tags": [
+      "v2rayng",
+      "android",
+      "xray-core"
+    ]
+  },
+  {
     "slug": "v2ray-core",
     "name": "v2ray-core",
     "repo": "v2fly/v2ray-core",
@@ -185,21 +200,6 @@
     ]
   },
   {
-    "slug": "v2rayng",
-    "name": "v2rayNG",
-    "repo": "2dust/v2rayNG",
-    "description": "各平台代理客户端应用",
-    "category": "client",
-    "platforms": [
-      "android"
-    ],
-    "tags": [
-      "v2rayng",
-      "android",
-      "xray-core"
-    ]
-  },
-  {
     "slug": "metacubexd",
     "name": "metacubexd",
     "repo": "MetaCubeX/metacubexd",
@@ -212,6 +212,22 @@
       "dashboard",
       "mihomo",
       "clash"
+    ]
+  },
+  {
+    "slug": "hysteria",
+    "name": "hysteria",
+    "repo": "apernet/hysteria",
+    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
+    "category": "core",
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "tags": [
+      "hysteria2",
+      "quic"
     ]
   },
   {
@@ -246,22 +262,6 @@
       "vless",
       "xtls",
       "xhttp"
-    ]
-  },
-  {
-    "slug": "hysteria",
-    "name": "hysteria",
-    "repo": "apernet/hysteria",
-    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
-    "category": "core",
-    "platforms": [
-      "linux",
-      "windows",
-      "macos"
-    ],
-    "tags": [
-      "hysteria2",
-      "quic"
     ]
   },
   {

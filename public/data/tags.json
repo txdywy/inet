@@ -1,12 +1,12 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 68,
+    "count": 69,
     "category": "ecosystem"
   },
   {
     "tag": "mihomo",
-    "count": 43,
+    "count": 44,
     "category": "ecosystem"
   },
   {
@@ -41,7 +41,7 @@
   },
   {
     "tag": "OpenVPN",
-    "count": 24,
+    "count": 25,
     "category": "ecosystem"
   },
   {
@@ -105,14 +105,19 @@
     "category": "ecosystem"
   },
   {
+    "tag": "QUIC",
+    "count": 15,
+    "category": "security"
+  },
+  {
     "tag": "开源",
     "count": 14,
     "category": "ecosystem"
   },
   {
-    "tag": "QUIC",
-    "count": 14,
-    "category": "protocol"
+    "tag": "DNS",
+    "count": 13,
+    "category": "security"
   },
   {
     "tag": "VPN",
@@ -130,9 +135,14 @@
     "category": "client"
   },
   {
-    "tag": "DNS",
+    "tag": "Hysteria",
     "count": 12,
-    "category": "core"
+    "category": "security"
+  },
+  {
+    "tag": "CHACHA20-POLY1305",
+    "count": 12,
+    "category": "protocol"
   },
   {
     "tag": "dat",
@@ -150,14 +160,9 @@
     "category": "ecosystem"
   },
   {
-    "tag": "Hysteria",
-    "count": 11,
-    "category": "protocol"
-  },
-  {
-    "tag": "CHACHA20-POLY1305",
-    "count": 11,
-    "category": "protocol"
+    "tag": "v2rayNG",
+    "count": 10,
+    "category": "client"
   },
   {
     "tag": "SagerNet",
@@ -171,11 +176,6 @@
   },
   {
     "tag": "SOCKS",
-    "count": 9,
-    "category": "client"
-  },
-  {
-    "tag": "v2rayNG",
     "count": 9,
     "category": "client"
   },
@@ -470,6 +470,11 @@
     "category": "client"
   },
   {
+    "tag": "Snell",
+    "count": 3,
+    "category": "protocol"
+  },
+  {
     "tag": "域名解析",
     "count": 3,
     "category": "ecosystem"
@@ -605,9 +610,9 @@
     "category": "protocol"
   },
   {
-    "tag": "Snell",
+    "tag": "SOCKS5",
     "count": 2,
-    "category": "protocol"
+    "category": "security"
   },
   {
     "tag": "masque",
@@ -785,6 +790,11 @@
     "category": "core"
   },
   {
+    "tag": "CBC",
+    "count": 2,
+    "category": "protocol"
+  },
+  {
     "tag": "命令行工具",
     "count": 2,
     "category": "ecosystem"
@@ -792,6 +802,26 @@
   {
     "tag": "Quantumult X",
     "count": 2,
+    "category": "security"
+  },
+  {
+    "tag": "SDK",
+    "count": 1,
+    "category": "client"
+  },
+  {
+    "tag": "路由",
+    "count": 1,
+    "category": "client"
+  },
+  {
+    "tag": "出站策略",
+    "count": 1,
+    "category": "client"
+  },
+  {
+    "tag": "Gecko",
+    "count": 1,
     "category": "security"
   },
   {
@@ -1875,11 +1905,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "CBC",
-    "count": 1,
-    "category": "protocol"
-  },
-  {
     "tag": "加密算法",
     "count": 1,
     "category": "protocol"
@@ -1996,11 +2021,6 @@
   },
   {
     "tag": "网络库",
-    "count": 1,
-    "category": "security"
-  },
-  {
-    "tag": "SOCKS5",
     "count": 1,
     "category": "security"
   },
