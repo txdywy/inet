@@ -1,7 +1,7 @@
 {
-  "totalItems": 381,
-  "last24h": 6,
-  "last7d": 62,
+  "totalItems": 383,
+  "last24h": 5,
+  "last7d": 60,
   "byCategory": {
     "core": 76,
     "client": 112,
@@ -9,7 +9,7 @@
     "protocol": 27,
     "dns_rules": 3,
     "security": 5,
-    "ecosystem": 157,
+    "ecosystem": 159,
     "trend": 0
   },
   "topProjects": [
@@ -19,7 +19,7 @@
     },
     {
       "project": "Sub-Store",
-      "count": 33
+      "count": 34
     },
     {
       "project": "domain-list-community",
@@ -73,7 +73,7 @@
     },
     {
       "tag": "Sub-Store",
-      "count": 33
+      "count": 34
     },
     {
       "tag": "网络代理",
@@ -136,8 +136,8 @@
       "count": 16
     }
   ],
-  "importantCount": 140,
+  "importantCount": 141,
   "breakingCount": 29,
   "securityCount": 23,
-  "updatedAt": "2026-05-24T14:03:25.735Z"
+  "updatedAt": "2026-05-24T19:39:06.395Z"
 }
