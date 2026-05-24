@@ -1,8 +1,8 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 73,
-    "category": "client"
+    "count": 74,
+    "category": "ecosystem"
   },
   {
     "tag": "mihomo",
@@ -31,7 +31,7 @@
   },
   {
     "tag": "v2ray",
-    "count": 26,
+    "count": 27,
     "category": "ecosystem"
   },
   {
@@ -56,7 +56,17 @@
   },
   {
     "tag": "Loyalsoldier",
-    "count": 20,
+    "count": 21,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "meta-rules-dat",
+    "count": 19,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "rules",
+    "count": 19,
     "category": "ecosystem"
   },
   {
@@ -73,16 +83,6 @@
     "tag": "VLESS",
     "count": 19,
     "category": "protocol"
-  },
-  {
-    "tag": "meta-rules-dat",
-    "count": 18,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "rules",
-    "count": 18,
-    "category": "ecosystem"
   },
   {
     "tag": "ClashMetaForAndroid",
@@ -330,6 +330,11 @@
     "category": "core"
   },
   {
+    "tag": "proxy",
+    "count": 5,
+    "category": "ecosystem"
+  },
+  {
     "tag": "用户界面",
     "count": 5,
     "category": "client"
@@ -407,11 +412,6 @@
   {
     "tag": "tuic",
     "count": 5,
-    "category": "protocol"
-  },
-  {
-    "tag": "proxy",
-    "count": 4,
     "category": "protocol"
   },
   {

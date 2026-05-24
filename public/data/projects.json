@@ -68,21 +68,6 @@
     ]
   },
   {
-    "slug": "clashmetaforandroid",
-    "name": "ClashMetaForAndroid",
-    "repo": "MetaCubeX/ClashMetaForAndroid",
-    "description": "各平台代理客户端应用",
-    "category": "client",
-    "platforms": [
-      "android"
-    ],
-    "tags": [
-      "clash",
-      "android",
-      "mihomo"
-    ]
-  },
-  {
     "slug": "meta-rules-dat",
     "name": "meta-rules-dat",
     "repo": "MetaCubeX/meta-rules-dat",
@@ -97,6 +82,21 @@
       "ruleset",
       "geosite",
       "geoip",
+      "mihomo"
+    ]
+  },
+  {
+    "slug": "clashmetaforandroid",
+    "name": "ClashMetaForAndroid",
+    "repo": "MetaCubeX/ClashMetaForAndroid",
+    "description": "各平台代理客户端应用",
+    "category": "client",
+    "platforms": [
+      "android"
+    ],
+    "tags": [
+      "clash",
+      "android",
       "mihomo"
     ]
   },

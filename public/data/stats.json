@@ -1,5 +1,5 @@
 {
-  "totalItems": 377,
+  "totalItems": 379,
   "last24h": 9,
   "last7d": 61,
   "byCategory": {
@@ -9,7 +9,7 @@
     "protocol": 27,
     "dns_rules": 3,
     "security": 5,
-    "ecosystem": 154,
+    "ecosystem": 156,
     "trend": 0
   },
   "topProjects": [
@@ -27,11 +27,11 @@
     },
     {
       "project": "v2ray-rules-dat",
-      "count": 21
+      "count": 22
     },
     {
       "project": "meta-rules-dat",
-      "count": 18
+      "count": 19
     },
     {
       "project": "ClashMetaForAndroid",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 73
+      "count": 74
     },
     {
       "tag": "mihomo",
@@ -81,7 +81,7 @@
     },
     {
       "tag": "v2ray",
-      "count": 26
+      "count": 27
     },
     {
       "tag": "OpenVPN",
@@ -101,7 +101,15 @@
     },
     {
       "tag": "Loyalsoldier",
-      "count": 20
+      "count": 21
+    },
+    {
+      "tag": "meta-rules-dat",
+      "count": 19
+    },
+    {
+      "tag": "rules",
+      "count": 19
     },
     {
       "tag": "domain-list-community",
@@ -114,14 +122,6 @@
     {
       "tag": "VLESS",
       "count": 19
-    },
-    {
-      "tag": "meta-rules-dat",
-      "count": 18
-    },
-    {
-      "tag": "rules",
-      "count": 18
     },
     {
       "tag": "ClashMetaForAndroid",
@@ -139,5 +139,5 @@
   "importantCount": 140,
   "breakingCount": 29,
   "securityCount": 23,
-  "updatedAt": "2026-05-23T19:36:54.898Z"
+  "updatedAt": "2026-05-24T04:41:33.455Z"
 }
