@@ -16,7 +16,7 @@
   },
   {
     "tag": "Android",
-    "count": 34,
+    "count": 35,
     "category": "client"
   },
   {
@@ -145,6 +145,11 @@
     "category": "security"
   },
   {
+    "tag": "v2rayNG",
+    "count": 11,
+    "category": "client"
+  },
+  {
     "tag": "dat",
     "count": 11,
     "category": "ecosystem"
@@ -166,11 +171,6 @@
   },
   {
     "tag": "代理",
-    "count": 10,
-    "category": "client"
-  },
-  {
-    "tag": "v2rayNG",
     "count": 10,
     "category": "client"
   },
@@ -630,6 +630,16 @@
     "category": "client"
   },
   {
+    "tag": "SDK",
+    "count": 2,
+    "category": "client"
+  },
+  {
+    "tag": "路由",
+    "count": 2,
+    "category": "client"
+  },
+  {
     "tag": "SOCKS5",
     "count": 2,
     "category": "security"
@@ -841,16 +851,6 @@
   },
   {
     "tag": "延迟历史",
-    "count": 1,
-    "category": "client"
-  },
-  {
-    "tag": "SDK",
-    "count": 1,
-    "category": "client"
-  },
-  {
-    "tag": "路由",
     "count": 1,
     "category": "client"
   },

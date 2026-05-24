@@ -231,6 +231,41 @@
     "hash": "86ff769e11d8a3a1"
   },
   {
+    "id": "0af0e630006b6dec",
+    "title": "2.2.0",
+    "summary": "v2rayNG 2.2.0 更新了目标 SDK 版本并增强了路由功能。",
+    "analysis": "此次 v2rayNG 2.2.0 更新主要提升了目标 SDK 版本至 37，这意味着应用将能够利用 Android 17 的新特性和性能优化，提升用户体验。同时，路由中的出站支持策略组的增强，可能会为用户提供更灵活的流量管理和更好的网络性能。这对开发者而言，意味着需要适配新的 SDK 版本，可能会影响到现有的兼容性，但整体风险较低。建议用户尽快更新，以享受新功能和性能提升。",
+    "rawTitle": "2.2.0",
+    "rawBody": "### 本次更新\r\n\r\n- 将 target SDK 版本提升至 37 (Android 17)\r\n- 路由中的出站支持策略组",
+    "sourceType": "github_release",
+    "sourceName": "2dust/v2rayNG",
+    "sourceUrl": "https://github.com/2dust/v2rayNG/releases/tag/2.2.0",
+    "project": "v2rayNG",
+    "repo": "2dust/v2rayNG",
+    "slug": "v2rayng",
+    "version": "2.2.0",
+    "category": "client",
+    "tags": [
+      "v2rayNG",
+      "Android",
+      "SDK",
+      "路由"
+    ],
+    "platforms": [
+      "android"
+    ],
+    "importance": 3,
+    "confidence": 0.9,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-05-23T07:42:56Z",
+    "fetchedAt": "2026-05-24T08:45:49.987Z",
+    "firstSeenAt": "2026-05-24T08:46:05.217Z",
+    "updatedAt": "2026-05-24T08:46:05.217Z",
+    "hash": "0af0e630006b6dec"
+  },
+  {
     "id": "808459ebe45a6236",
     "title": "2.2.0",
     "summary": "v2rayNG 2.2.0 更新了 SDK 版本并增强了路由出站支持策略组功能。",

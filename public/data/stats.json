@@ -1,10 +1,10 @@
 {
-  "totalItems": 379,
-  "last24h": 9,
-  "last7d": 61,
+  "totalItems": 380,
+  "last24h": 7,
+  "last7d": 62,
   "byCategory": {
     "core": 76,
-    "client": 111,
+    "client": 112,
     "router": 1,
     "protocol": 27,
     "dns_rules": 3,
@@ -46,12 +46,12 @@
       "count": 12
     },
     {
-      "project": "v2rayN",
+      "project": "v2rayNG",
       "count": 11
     },
     {
-      "project": "v2rayNG",
-      "count": 10
+      "project": "v2rayN",
+      "count": 11
     }
   ],
   "hotTags": [
@@ -69,7 +69,7 @@
     },
     {
       "tag": "Android",
-      "count": 34
+      "count": 35
     },
     {
       "tag": "Sub-Store",
@@ -139,5 +139,5 @@
   "importantCount": 140,
   "breakingCount": 29,
   "securityCount": 23,
-  "updatedAt": "2026-05-24T04:41:33.455Z"
+  "updatedAt": "2026-05-24T08:46:05.550Z"
 }
