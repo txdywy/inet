@@ -205,6 +205,11 @@
     "category": "client"
   },
   {
+    "tag": "SUDOKU-ASCII",
+    "count": 8,
+    "category": "ecosystem"
+  },
+  {
     "tag": "网络工具",
     "count": 8,
     "category": "ecosystem"
@@ -235,6 +240,11 @@
     "category": "core"
   },
   {
+    "tag": "sudoku",
+    "count": 7,
+    "category": "ecosystem"
+  },
+  {
     "tag": "go-gost",
     "count": 7,
     "category": "ecosystem"
@@ -243,11 +253,6 @@
     "tag": "shadowsocks",
     "count": 7,
     "category": "ecosystem"
-  },
-  {
-    "tag": "SUDOKU-ASCII",
-    "count": 7,
-    "category": "protocol"
   },
   {
     "tag": "Surge",
@@ -273,11 +278,6 @@
     "tag": "VMess",
     "count": 7,
     "category": "client"
-  },
-  {
-    "tag": "sudoku",
-    "count": 6,
-    "category": "protocol"
   },
   {
     "tag": "Clash Verge Rev",
@@ -613,6 +613,11 @@
     "tag": "protocol",
     "count": 3,
     "category": "protocol"
+  },
+  {
+    "tag": "优化",
+    "count": 2,
+    "category": "ecosystem"
   },
   {
     "tag": "TypeScript",
@@ -1771,11 +1776,6 @@
   },
   {
     "tag": "ss",
-    "count": 1,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "优化",
     "count": 1,
     "category": "ecosystem"
   },

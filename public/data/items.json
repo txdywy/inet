@@ -1,5 +1,37 @@
 [
   {
+    "id": "e437a97b86830474",
+    "title": "v0.4.6-rc01",
+    "summary": "SUDOKU-ASCII项目发布了v0.4.6-rc01预发布版本，主要进行了优化。",
+    "analysis": "此次v0.4.6-rc01预发布版本主要集中在对项目的优化上，虽然具体的优化内容没有详细说明，但这表明开发团队在持续改进项目性能和用户体验。对于开发者而言，预发布版本通常意味着可以提前体验新功能或改进，但也可能存在不稳定性。用户在使用时需谨慎，特别是在生产环境中。由于这是一个预发布版本，可能会有兼容性风险，建议开发者在测试环境中进行验证后再考虑更新。整体来看，此次更新虽然重要性评分较低，但对于关注项目进展的用户来说，仍然值得关注。",
+    "rawTitle": "v0.4.6-rc01",
+    "rawBody": "THIS IS A PRE-RELEASE\r\n\r\n---\r\n\r\nchore. optimize some thing ",
+    "sourceType": "github_release",
+    "sourceName": "SUDOKU-ASCII/sudoku",
+    "sourceUrl": "https://github.com/SUDOKU-ASCII/sudoku/releases/tag/v0.4.6-rc01",
+    "project": "sudoku",
+    "repo": "SUDOKU-ASCII/sudoku",
+    "slug": "sudoku",
+    "version": "0.4.6-rc01",
+    "category": "ecosystem",
+    "tags": [
+      "SUDOKU-ASCII",
+      "sudoku",
+      "优化"
+    ],
+    "platforms": [],
+    "importance": 2,
+    "confidence": 0.8,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-05-24T10:47:33Z",
+    "fetchedAt": "2026-05-24T14:03:05.231Z",
+    "firstSeenAt": "2026-05-24T14:03:25.308Z",
+    "updatedAt": "2026-05-24T14:03:25.308Z",
+    "hash": "e437a97b86830474"
+  },
+  {
     "id": "366b3d5f7a4b0826",
     "title": "Release 2026-05-24 07:27",
     "summary": "MetaCubeX/meta-rules-dat 发布了 2026-05-24 07:27 版本，具体更新内容未提供。",
