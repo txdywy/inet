@@ -1,6 +1,6 @@
 {
-  "totalItems": 389,
-  "last24h": 6,
+  "totalItems": 390,
+  "last24h": 7,
   "last7d": 56,
   "byCategory": {
     "core": 76,
@@ -9,7 +9,7 @@
     "protocol": 30,
     "dns_rules": 3,
     "security": 5,
-    "ecosystem": 162,
+    "ecosystem": 163,
     "trend": 0
   },
   "topProjects": [
@@ -18,12 +18,12 @@
       "count": 46
     },
     {
-      "project": "Sub-Store",
+      "project": "domain-list-community",
       "count": 35
     },
     {
-      "project": "domain-list-community",
-      "count": 34
+      "project": "Sub-Store",
+      "count": 35
     },
     {
       "project": "v2ray-rules-dat",
@@ -65,7 +65,7 @@
     },
     {
       "tag": "v2fly",
-      "count": 38
+      "count": 39
     },
     {
       "tag": "Sub-Store",
@@ -105,7 +105,7 @@
     },
     {
       "tag": "domain-list-community",
-      "count": 20
+      "count": 21
     },
     {
       "tag": "meta-rules-dat",
@@ -139,5 +139,5 @@
   "importantCount": 143,
   "breakingCount": 29,
   "securityCount": 25,
-  "updatedAt": "2026-05-25T10:52:18.906Z"
+  "updatedAt": "2026-05-25T15:30:30.306Z"
 }

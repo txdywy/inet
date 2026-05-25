@@ -11,7 +11,7 @@
   },
   {
     "tag": "v2fly",
-    "count": 38,
+    "count": 39,
     "category": "ecosystem"
   },
   {
@@ -61,7 +61,7 @@
   },
   {
     "tag": "domain-list-community",
-    "count": 20,
+    "count": 21,
     "category": "ecosystem"
   },
   {
@@ -613,6 +613,11 @@
     "tag": "protocol",
     "count": 3,
     "category": "protocol"
+  },
+  {
+    "tag": "分类更新",
+    "count": 2,
+    "category": "ecosystem"
   },
   {
     "tag": "脚本操作",
@@ -1306,11 +1311,6 @@
   },
   {
     "tag": "政府域名",
-    "count": 1,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "分类更新",
     "count": 1,
     "category": "ecosystem"
   },

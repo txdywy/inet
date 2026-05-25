@@ -1,5 +1,37 @@
 [
   {
+    "id": "e84d5c7afa2e9d37",
+    "title": "20260525120551",
+    "summary": "v2fly/domain-list-community 更新了分类信息，主要涉及 category-ai-!cn 的更新。",
+    "analysis": "本次更新主要是对 category-ai-!cn 进行的修改，具体由用户 @Loyalsoldier 提交的 PR（#3623）实现。这种更新通常是为了优化域名分类，使其更符合当前的网络环境和用户需求。对于使用该项目的开发者和用户来说，更新后的分类可能会提高域名解析的准确性和效率，从而改善整体网络体验。虽然此次更新看似简单，但在域名解析和分类管理中，细微的调整可能会对用户的使用体验产生显著影响。此次更新没有涉及破坏性变更或安全相关内容，因此用户可以放心更新。建议用户及时更新以获得最新的分类信息。",
+    "rawTitle": "20260525120551",
+    "rawBody": "## What's Changed\n* Update category-ai-!cn by @Loyalsoldier in https://github.com/v2fly/domain-list-community/pull/3623\n\n\n**Full Changelog**: https://github.com/v2fly/domain-list-community/compare/20260525052549...20260525120551",
+    "sourceType": "github_release",
+    "sourceName": "v2fly/domain-list-community",
+    "sourceUrl": "https://github.com/v2fly/domain-list-community/releases/tag/20260525120551",
+    "project": "domain-list-community",
+    "repo": "v2fly/domain-list-community",
+    "slug": "domain-list-community",
+    "version": "20260525120551",
+    "category": "ecosystem",
+    "tags": [
+      "v2fly",
+      "domain-list-community",
+      "分类更新"
+    ],
+    "platforms": [],
+    "importance": 3,
+    "confidence": 0.9,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-05-25T12:06:00Z",
+    "fetchedAt": "2026-05-25T15:30:21.619Z",
+    "firstSeenAt": "2026-05-25T15:30:29.878Z",
+    "updatedAt": "2026-05-25T15:30:29.878Z",
+    "hash": "e84d5c7afa2e9d37"
+  },
+  {
     "id": "07d035bc18fe9455",
     "title": "20260525052549",
     "summary": "本次更新新增了 comfylink.com 的条目，并包含 ICP 记录。",
