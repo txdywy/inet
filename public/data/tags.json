@@ -1,17 +1,17 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 76,
+    "count": 77,
     "category": "ecosystem"
   },
   {
     "tag": "mihomo",
-    "count": 46,
+    "count": 47,
     "category": "ecosystem"
   },
   {
     "tag": "v2fly",
-    "count": 37,
+    "count": 38,
     "category": "ecosystem"
   },
   {
@@ -36,7 +36,7 @@
   },
   {
     "tag": "OpenVPN",
-    "count": 27,
+    "count": 28,
     "category": "ecosystem"
   },
   {
@@ -60,6 +60,11 @@
     "category": "client"
   },
   {
+    "tag": "domain-list-community",
+    "count": 20,
+    "category": "ecosystem"
+  },
+  {
     "tag": "meta-rules-dat",
     "count": 20,
     "category": "ecosystem"
@@ -67,11 +72,6 @@
   {
     "tag": "rules",
     "count": 20,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "domain-list-community",
-    "count": 19,
     "category": "ecosystem"
   },
   {
@@ -110,14 +110,14 @@
     "category": "security"
   },
   {
+    "tag": "CHACHA20-POLY1305",
+    "count": 15,
+    "category": "protocol"
+  },
+  {
     "tag": "开源",
     "count": 14,
     "category": "ecosystem"
-  },
-  {
-    "tag": "CHACHA20-POLY1305",
-    "count": 14,
-    "category": "protocol"
   },
   {
     "tag": "DNS",
@@ -245,6 +245,11 @@
     "category": "core"
   },
   {
+    "tag": "Snell",
+    "count": 7,
+    "category": "protocol"
+  },
+  {
     "tag": "go-gost",
     "count": 7,
     "category": "ecosystem"
@@ -278,11 +283,6 @@
     "tag": "VMess",
     "count": 7,
     "category": "client"
-  },
-  {
-    "tag": "Snell",
-    "count": 6,
-    "category": "protocol"
   },
   {
     "tag": "Clash Verge Rev",
@@ -400,6 +400,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "CBC",
+    "count": 5,
+    "category": "protocol"
+  },
+  {
     "tag": "subconverter",
     "count": 5,
     "category": "ecosystem"
@@ -473,11 +478,6 @@
     "tag": "nekoray",
     "count": 4,
     "category": "client"
-  },
-  {
-    "tag": "CBC",
-    "count": 4,
-    "category": "protocol"
   },
   {
     "tag": "配置文件",
@@ -838,6 +838,11 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "ICP",
+    "count": 1,
+    "category": "ecosystem"
   },
   {
     "tag": "Egern",
