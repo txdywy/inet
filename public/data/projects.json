@@ -183,6 +183,22 @@
     ]
   },
   {
+    "slug": "naiveproxy",
+    "name": "naiveproxy",
+    "repo": "klzgrad/naiveproxy",
+    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
+    "category": "core",
+    "platforms": [
+      "linux",
+      "windows",
+      "macos",
+      "android"
+    ],
+    "tags": [
+      "naiveproxy"
+    ]
+  },
+  {
     "slug": "v2ray-core",
     "name": "v2ray-core",
     "repo": "v2fly/v2ray-core",
@@ -213,22 +229,6 @@
     "tags": [
       "sudoku",
       "obfuscation"
-    ]
-  },
-  {
-    "slug": "naiveproxy",
-    "name": "naiveproxy",
-    "repo": "klzgrad/naiveproxy",
-    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
-    "category": "core",
-    "platforms": [
-      "linux",
-      "windows",
-      "macos",
-      "android"
-    ],
-    "tags": [
-      "naiveproxy"
     ]
   },
   {

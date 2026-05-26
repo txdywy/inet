@@ -1,17 +1,17 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 78,
+    "count": 79,
     "category": "ecosystem"
   },
   {
     "tag": "mihomo",
-    "count": 47,
+    "count": 48,
     "category": "ecosystem"
   },
   {
     "tag": "v2fly",
-    "count": 40,
+    "count": 43,
     "category": "ecosystem"
   },
   {
@@ -30,12 +30,12 @@
     "category": "ecosystem"
   },
   {
-    "tag": "v2ray",
-    "count": 29,
+    "tag": "OpenVPN",
+    "count": 30,
     "category": "ecosystem"
   },
   {
-    "tag": "OpenVPN",
+    "tag": "v2ray",
     "count": 29,
     "category": "ecosystem"
   },
@@ -55,6 +55,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "domain-list-community",
+    "count": 22,
+    "category": "ecosystem"
+  },
+  {
     "tag": "Linux",
     "count": 22,
     "category": "client"
@@ -66,11 +71,6 @@
   },
   {
     "tag": "rules",
-    "count": 21,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "domain-list-community",
     "count": 21,
     "category": "ecosystem"
   },
@@ -111,8 +111,13 @@
   },
   {
     "tag": "CHACHA20-POLY1305",
-    "count": 15,
+    "count": 16,
     "category": "protocol"
+  },
+  {
+    "tag": "domain-list",
+    "count": 14,
+    "category": "ecosystem"
   },
   {
     "tag": "开源",
@@ -140,11 +145,6 @@
     "category": "client"
   },
   {
-    "tag": "domain-list",
-    "count": 12,
-    "category": "ecosystem"
-  },
-  {
     "tag": "dat",
     "count": 12,
     "category": "ecosystem"
@@ -153,6 +153,11 @@
     "tag": "Hysteria",
     "count": 12,
     "category": "security"
+  },
+  {
+    "tag": "naiveproxy",
+    "count": 11,
+    "category": "client"
   },
   {
     "tag": "SagerNet",
@@ -178,11 +183,6 @@
     "tag": "代理",
     "count": 10,
     "category": "client"
-  },
-  {
-    "tag": "naiveproxy",
-    "count": 10,
-    "category": "core"
   },
   {
     "tag": "SUDOKU-ASCII",
@@ -215,6 +215,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "Snell",
+    "count": 8,
+    "category": "protocol"
+  },
+  {
     "tag": "网络工具",
     "count": 8,
     "category": "ecosystem"
@@ -243,11 +248,6 @@
     "tag": "Xray-core",
     "count": 8,
     "category": "core"
-  },
-  {
-    "tag": "Snell",
-    "count": 7,
-    "category": "protocol"
   },
   {
     "tag": "go-gost",
@@ -335,6 +335,11 @@
     "category": "core"
   },
   {
+    "tag": "CBC",
+    "count": 6,
+    "category": "protocol"
+  },
+  {
     "tag": "proxy",
     "count": 5,
     "category": "ecosystem"
@@ -400,11 +405,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "CBC",
-    "count": 5,
-    "category": "protocol"
-  },
-  {
     "tag": "subconverter",
     "count": 5,
     "category": "ecosystem"
@@ -418,6 +418,11 @@
     "tag": "tuic",
     "count": 5,
     "category": "protocol"
+  },
+  {
+    "tag": "dns",
+    "count": 4,
+    "category": "dns_rules"
   },
   {
     "tag": "性能优化",
@@ -525,11 +530,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "dns",
-    "count": 3,
-    "category": "ecosystem"
-  },
-  {
     "tag": "CVE",
     "count": 3,
     "category": "router"
@@ -618,6 +618,11 @@
     "tag": "protocol",
     "count": 3,
     "category": "protocol"
+  },
+  {
+    "tag": "稳定性",
+    "count": 2,
+    "category": "client"
   },
   {
     "tag": "分类更新",
@@ -848,6 +853,21 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "gorzdrav.spb.ru",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "trace-flow.ru",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "mipsel",
+    "count": 1,
+    "category": "client"
   },
   {
     "tag": "Hysteria2",
@@ -1708,11 +1728,6 @@
     "tag": "dot",
     "count": 1,
     "category": "client"
-  },
-  {
-    "tag": "稳定性",
-    "count": 1,
-    "category": "ecosystem"
   },
   {
     "tag": "下载进度",

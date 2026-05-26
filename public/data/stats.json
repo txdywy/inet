@@ -1,25 +1,25 @@
 {
-  "totalItems": 395,
-  "last24h": 5,
-  "last7d": 54,
+  "totalItems": 400,
+  "last24h": 8,
+  "last7d": 52,
   "byCategory": {
     "core": 76,
-    "client": 113,
+    "client": 114,
     "router": 1,
-    "protocol": 31,
-    "dns_rules": 3,
+    "protocol": 32,
+    "dns_rules": 4,
     "security": 5,
-    "ecosystem": 166,
+    "ecosystem": 168,
     "trend": 0
   },
   "topProjects": [
     {
       "project": "mihomo",
-      "count": 46
+      "count": 47
     },
     {
       "project": "domain-list-community",
-      "count": 36
+      "count": 39
     },
     {
       "project": "Sub-Store",
@@ -57,15 +57,15 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 78
+      "count": 79
     },
     {
       "tag": "mihomo",
-      "count": 47
+      "count": 48
     },
     {
       "tag": "v2fly",
-      "count": 40
+      "count": 43
     },
     {
       "tag": "Sub-Store",
@@ -80,11 +80,11 @@
       "count": 32
     },
     {
-      "tag": "v2ray",
-      "count": 29
+      "tag": "OpenVPN",
+      "count": 30
     },
     {
-      "tag": "OpenVPN",
+      "tag": "v2ray",
       "count": 29
     },
     {
@@ -100,6 +100,10 @@
       "count": 23
     },
     {
+      "tag": "domain-list-community",
+      "count": 22
+    },
+    {
       "tag": "Linux",
       "count": 22
     },
@@ -109,10 +113,6 @@
     },
     {
       "tag": "rules",
-      "count": 21
-    },
-    {
-      "tag": "domain-list-community",
       "count": 21
     },
     {
@@ -136,8 +136,8 @@
       "count": 16
     }
   ],
-  "importantCount": 145,
+  "importantCount": 147,
   "breakingCount": 29,
-  "securityCount": 25,
-  "updatedAt": "2026-05-26T10:31:27.687Z"
+  "securityCount": 26,
+  "updatedAt": "2026-05-26T16:12:42.792Z"
 }
