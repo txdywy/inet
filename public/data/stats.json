@@ -1,6 +1,6 @@
 {
-  "totalItems": 390,
-  "last24h": 5,
+  "totalItems": 392,
+  "last24h": 4,
   "last7d": 54,
   "byCategory": {
     "core": 76,
@@ -9,7 +9,7 @@
     "protocol": 30,
     "dns_rules": 3,
     "security": 5,
-    "ecosystem": 163,
+    "ecosystem": 165,
     "trend": 0
   },
   "topProjects": [
@@ -27,11 +27,11 @@
     },
     {
       "project": "v2ray-rules-dat",
-      "count": 23
+      "count": 24
     },
     {
       "project": "meta-rules-dat",
-      "count": 20
+      "count": 21
     },
     {
       "project": "ClashMetaForAndroid",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 77
+      "count": 78
     },
     {
       "tag": "mihomo",
@@ -81,7 +81,7 @@
     },
     {
       "tag": "v2ray",
-      "count": 28
+      "count": 29
     },
     {
       "tag": "OpenVPN",
@@ -97,23 +97,23 @@
     },
     {
       "tag": "Loyalsoldier",
-      "count": 22
+      "count": 23
     },
     {
       "tag": "Linux",
       "count": 22
     },
     {
-      "tag": "domain-list-community",
+      "tag": "meta-rules-dat",
       "count": 21
     },
     {
-      "tag": "meta-rules-dat",
-      "count": 20
+      "tag": "rules",
+      "count": 21
     },
     {
-      "tag": "rules",
-      "count": 20
+      "tag": "domain-list-community",
+      "count": 21
     },
     {
       "tag": "Tailscale",
@@ -139,5 +139,5 @@
   "importantCount": 143,
   "breakingCount": 29,
   "securityCount": 25,
-  "updatedAt": "2026-05-25T19:57:28.182Z"
+  "updatedAt": "2026-05-26T04:37:14.482Z"
 }

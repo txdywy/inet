@@ -1,7 +1,7 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 77,
+    "count": 78,
     "category": "ecosystem"
   },
   {
@@ -31,7 +31,7 @@
   },
   {
     "tag": "v2ray",
-    "count": 28,
+    "count": 29,
     "category": "ecosystem"
   },
   {
@@ -51,7 +51,7 @@
   },
   {
     "tag": "Loyalsoldier",
-    "count": 22,
+    "count": 23,
     "category": "ecosystem"
   },
   {
@@ -60,18 +60,18 @@
     "category": "client"
   },
   {
-    "tag": "domain-list-community",
+    "tag": "meta-rules-dat",
     "count": 21,
     "category": "ecosystem"
   },
   {
-    "tag": "meta-rules-dat",
-    "count": 20,
+    "tag": "rules",
+    "count": 21,
     "category": "ecosystem"
   },
   {
-    "tag": "rules",
-    "count": 20,
+    "tag": "domain-list-community",
+    "count": 21,
     "category": "ecosystem"
   },
   {
@@ -140,6 +140,11 @@
     "category": "client"
   },
   {
+    "tag": "dat",
+    "count": 12,
+    "category": "ecosystem"
+  },
+  {
     "tag": "Hysteria",
     "count": 12,
     "category": "security"
@@ -148,11 +153,6 @@
     "tag": "v2rayNG",
     "count": 11,
     "category": "client"
-  },
-  {
-    "tag": "dat",
-    "count": 11,
-    "category": "ecosystem"
   },
   {
     "tag": "v2rayN",
