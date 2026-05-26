@@ -1,8 +1,8 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 79,
-    "category": "ecosystem"
+    "count": 80,
+    "category": "core"
   },
   {
     "tag": "mihomo",
@@ -155,6 +155,16 @@
     "category": "security"
   },
   {
+    "tag": "metacubexd",
+    "count": 11,
+    "category": "core"
+  },
+  {
+    "tag": "代理",
+    "count": 11,
+    "category": "core"
+  },
+  {
     "tag": "naiveproxy",
     "count": 11,
     "category": "client"
@@ -172,16 +182,6 @@
   {
     "tag": "v2rayN",
     "count": 11,
-    "category": "client"
-  },
-  {
-    "tag": "metacubexd",
-    "count": 10,
-    "category": "client"
-  },
-  {
-    "tag": "代理",
-    "count": 10,
     "category": "client"
   },
   {
@@ -485,6 +485,11 @@
     "category": "client"
   },
   {
+    "tag": "延迟测试",
+    "count": 3,
+    "category": "core"
+  },
+  {
     "tag": "配置文件",
     "count": 3,
     "category": "client"
@@ -648,11 +653,6 @@
     "tag": "ShadowTLS",
     "count": 2,
     "category": "protocol"
-  },
-  {
-    "tag": "延迟测试",
-    "count": 2,
-    "category": "client"
   },
   {
     "tag": "SDK",

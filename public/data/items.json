@@ -1,5 +1,38 @@
 [
   {
+    "id": "04e899a545202b85",
+    "title": "v1.248.5",
+    "summary": "MetaCubeX/metacubexd 发布了 v1.248.5 版本，主要修复了代理提供者的延迟测试问题。",
+    "analysis": "此次 v1.248.5 更新主要集中在修复代理提供者的批量延迟测试，改用每个节点的延迟 API。这一改动的重要性在于，它可以提高延迟测试的准确性，从而帮助用户更好地评估代理的性能。对于开发者而言，确保延迟测试的准确性是优化网络性能的关键因素之一。此更新与网络代理的性能评估密切相关，可能会影响依赖于此功能的用户和开发者。由于此次更新主要是修复性改动，没有引入破坏性变更，因此兼容性风险较低。建议用户尽快更新，以获得更准确的延迟测试结果。",
+    "rawTitle": "v1.248.5",
+    "rawBody": "## [1.248.5](https://github.com/MetaCubeX/metacubexd/compare/v1.248.4...v1.248.5) (2026-05-26)\n\n\n### Bug Fixes\n\n* **proxies:** make provider batch latency test use per-node delay API ([6d9122f](https://github.com/MetaCubeX/metacubexd/commit/6d9122f437a23998e01e7647ddd9f4bf2c9c6054))",
+    "sourceType": "github_release",
+    "sourceName": "MetaCubeX/metacubexd",
+    "sourceUrl": "https://github.com/MetaCubeX/metacubexd/releases/tag/v1.248.5",
+    "project": "metacubexd",
+    "repo": "MetaCubeX/metacubexd",
+    "slug": "metacubexd",
+    "version": "1.248.5",
+    "category": "core",
+    "tags": [
+      "MetaCubeX",
+      "metacubexd",
+      "代理",
+      "延迟测试"
+    ],
+    "platforms": [],
+    "importance": 3,
+    "confidence": 0.9,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-05-26T17:16:26Z",
+    "fetchedAt": "2026-05-26T20:25:09.430Z",
+    "firstSeenAt": "2026-05-26T20:25:20.337Z",
+    "updatedAt": "2026-05-26T20:25:20.337Z",
+    "hash": "04e899a545202b85"
+  },
+  {
     "id": "c21691e394b1a64f",
     "title": "20260526143121",
     "summary": "v2fly/domain-list-community 更新了医疗类域名，新增了 gorzdrav.spb.ru。",
