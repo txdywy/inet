@@ -1,29 +1,29 @@
 {
-  "totalItems": 407,
-  "last24h": 10,
-  "last7d": 50,
+  "totalItems": 414,
+  "last24h": 12,
+  "last7d": 55,
   "byCategory": {
     "core": 77,
-    "client": 115,
+    "client": 116,
     "router": 1,
-    "protocol": 32,
+    "protocol": 33,
     "dns_rules": 4,
     "security": 5,
-    "ecosystem": 173,
+    "ecosystem": 178,
     "trend": 0
   },
   "topProjects": [
     {
       "project": "mihomo",
-      "count": 47
+      "count": 48
     },
     {
       "project": "domain-list-community",
-      "count": 42
+      "count": 43
     },
     {
       "project": "Sub-Store",
-      "count": 35
+      "count": 39
     },
     {
       "project": "v2ray-rules-dat",
@@ -46,34 +46,34 @@
       "count": 13
     },
     {
-      "project": "sing-box",
-      "count": 11
+      "project": "v2rayNG",
+      "count": 12
     },
     {
-      "project": "v2rayNG",
+      "project": "sing-box",
       "count": 11
     }
   ],
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 81
+      "count": 82
     },
     {
       "tag": "mihomo",
-      "count": 48
+      "count": 49
     },
     {
       "tag": "v2fly",
-      "count": 46
+      "count": 47
     },
     {
       "tag": "Sub-Store",
-      "count": 35
+      "count": 39
     },
     {
       "tag": "Android",
-      "count": 35
+      "count": 36
     },
     {
       "tag": "网络代理",
@@ -81,7 +81,7 @@
     },
     {
       "tag": "OpenVPN",
-      "count": 31
+      "count": 32
     },
     {
       "tag": "v2ray",
@@ -128,16 +128,16 @@
       "count": 19
     },
     {
-      "tag": "ClashMetaForAndroid",
+      "tag": "domain-list",
       "count": 18
     },
     {
-      "tag": "domain-list",
-      "count": 17
+      "tag": "ClashMetaForAndroid",
+      "count": 18
     }
   ],
-  "importantCount": 148,
+  "importantCount": 149,
   "breakingCount": 29,
   "securityCount": 26,
-  "updatedAt": "2026-05-27T10:33:04.230Z"
+  "updatedAt": "2026-05-27T16:15:37.161Z"
 }
