@@ -1,8 +1,8 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 80,
-    "category": "core"
+    "count": 81,
+    "category": "ecosystem"
   },
   {
     "tag": "mihomo",
@@ -30,13 +30,13 @@
     "category": "ecosystem"
   },
   {
-    "tag": "OpenVPN",
+    "tag": "v2ray",
     "count": 30,
     "category": "ecosystem"
   },
   {
-    "tag": "v2ray",
-    "count": 29,
+    "tag": "OpenVPN",
+    "count": 30,
     "category": "ecosystem"
   },
   {
@@ -45,13 +45,23 @@
     "category": "client"
   },
   {
+    "tag": "Loyalsoldier",
+    "count": 24,
+    "category": "ecosystem"
+  },
+  {
     "tag": "HTTP/2",
     "count": 24,
     "category": "protocol"
   },
   {
-    "tag": "Loyalsoldier",
-    "count": 23,
+    "tag": "meta-rules-dat",
+    "count": 22,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "rules",
+    "count": 22,
     "category": "ecosystem"
   },
   {
@@ -63,16 +73,6 @@
     "tag": "Linux",
     "count": 22,
     "category": "client"
-  },
-  {
-    "tag": "meta-rules-dat",
-    "count": 21,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "rules",
-    "count": 21,
-    "category": "ecosystem"
   },
   {
     "tag": "Tailscale",
@@ -125,6 +125,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "dat",
+    "count": 13,
+    "category": "ecosystem"
+  },
+  {
     "tag": "DNS",
     "count": 13,
     "category": "security"
@@ -143,11 +148,6 @@
     "tag": "Xray",
     "count": 13,
     "category": "client"
-  },
-  {
-    "tag": "dat",
-    "count": 12,
-    "category": "ecosystem"
   },
   {
     "tag": "Hysteria",
