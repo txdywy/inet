@@ -11,7 +11,7 @@
   },
   {
     "tag": "v2fly",
-    "count": 43,
+    "count": 46,
     "category": "ecosystem"
   },
   {
@@ -30,12 +30,12 @@
     "category": "ecosystem"
   },
   {
-    "tag": "v2ray",
-    "count": 30,
+    "tag": "OpenVPN",
+    "count": 31,
     "category": "ecosystem"
   },
   {
-    "tag": "OpenVPN",
+    "tag": "v2ray",
     "count": 30,
     "category": "ecosystem"
   },
@@ -76,7 +76,7 @@
   },
   {
     "tag": "Tailscale",
-    "count": 20,
+    "count": 21,
     "category": "core"
   },
   {
@@ -93,6 +93,16 @@
     "tag": "ClashMetaForAndroid",
     "count": 18,
     "category": "client"
+  },
+  {
+    "tag": "domain-list",
+    "count": 17,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "开源",
+    "count": 16,
+    "category": "ecosystem"
   },
   {
     "tag": "QUIC",
@@ -113,16 +123,6 @@
     "tag": "CHACHA20-POLY1305",
     "count": 16,
     "category": "protocol"
-  },
-  {
-    "tag": "domain-list",
-    "count": 14,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "开源",
-    "count": 14,
-    "category": "ecosystem"
   },
   {
     "tag": "dat",
@@ -185,6 +185,11 @@
     "category": "client"
   },
   {
+    "tag": "网络工具",
+    "count": 9,
+    "category": "ecosystem"
+  },
+  {
     "tag": "SUDOKU-ASCII",
     "count": 9,
     "category": "ecosystem"
@@ -220,11 +225,6 @@
     "category": "protocol"
   },
   {
-    "tag": "网络工具",
-    "count": 8,
-    "category": "ecosystem"
-  },
-  {
     "tag": "Mihomo",
     "count": 8,
     "category": "client"
@@ -246,6 +246,11 @@
   },
   {
     "tag": "Xray-core",
+    "count": 8,
+    "category": "core"
+  },
+  {
+    "tag": "TLS",
     "count": 8,
     "category": "core"
   },
@@ -273,11 +278,6 @@
     "tag": "快捷方式",
     "count": 7,
     "category": "client"
-  },
-  {
-    "tag": "TLS",
-    "count": 7,
-    "category": "core"
   },
   {
     "tag": "WireGuard",
@@ -440,6 +440,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "TrustTunnel",
+    "count": 4,
+    "category": "protocol"
+  },
+  {
     "tag": "多语言支持",
     "count": 4,
     "category": "client"
@@ -513,11 +518,6 @@
     "tag": "Google Docs",
     "count": 3,
     "category": "core"
-  },
-  {
-    "tag": "TrustTunnel",
-    "count": 3,
-    "category": "protocol"
   },
   {
     "tag": "网络安全",
@@ -606,6 +606,11 @@
   },
   {
     "tag": "NekoBoxForAndroid",
+    "count": 3,
+    "category": "client"
+  },
+  {
+    "tag": "clash-verge-rev",
     "count": 3,
     "category": "client"
   },
@@ -830,11 +835,6 @@
     "category": "core"
   },
   {
-    "tag": "clash-verge-rev",
-    "count": 2,
-    "category": "client"
-  },
-  {
     "tag": "NekoBox",
     "count": 2,
     "category": "client"
@@ -853,6 +853,21 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "医疗保险",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "motorola",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "Lenovo",
+    "count": 1,
+    "category": "ecosystem"
   },
   {
     "tag": "gorzdrav.spb.ru",

@@ -1,15 +1,15 @@
 {
-  "totalItems": 403,
-  "last24h": 9,
-  "last7d": 52,
+  "totalItems": 407,
+  "last24h": 10,
+  "last7d": 50,
   "byCategory": {
     "core": 77,
-    "client": 114,
+    "client": 115,
     "router": 1,
     "protocol": 32,
     "dns_rules": 4,
     "security": 5,
-    "ecosystem": 170,
+    "ecosystem": 173,
     "trend": 0
   },
   "topProjects": [
@@ -19,7 +19,7 @@
     },
     {
       "project": "domain-list-community",
-      "count": 39
+      "count": 42
     },
     {
       "project": "Sub-Store",
@@ -39,7 +39,7 @@
     },
     {
       "project": "clash-verge-rev",
-      "count": 14
+      "count": 15
     },
     {
       "project": "metacubexd",
@@ -65,7 +65,7 @@
     },
     {
       "tag": "v2fly",
-      "count": 43
+      "count": 46
     },
     {
       "tag": "Sub-Store",
@@ -80,11 +80,11 @@
       "count": 32
     },
     {
-      "tag": "v2ray",
-      "count": 30
+      "tag": "OpenVPN",
+      "count": 31
     },
     {
-      "tag": "OpenVPN",
+      "tag": "v2ray",
       "count": 30
     },
     {
@@ -117,7 +117,7 @@
     },
     {
       "tag": "Tailscale",
-      "count": 20
+      "count": 21
     },
     {
       "tag": "sing-box",
@@ -132,12 +132,12 @@
       "count": 18
     },
     {
-      "tag": "QUIC",
-      "count": 16
+      "tag": "domain-list",
+      "count": 17
     }
   ],
-  "importantCount": 147,
+  "importantCount": 148,
   "breakingCount": 29,
   "securityCount": 26,
-  "updatedAt": "2026-05-27T04:51:41.250Z"
+  "updatedAt": "2026-05-27T10:33:04.230Z"
 }
