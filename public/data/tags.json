@@ -1,8 +1,8 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 83,
-    "category": "ecosystem"
+    "count": 84,
+    "category": "client"
   },
   {
     "tag": "mihomo",
@@ -150,6 +150,11 @@
     "category": "client"
   },
   {
+    "tag": "metacubexd",
+    "count": 12,
+    "category": "client"
+  },
+  {
     "tag": "代理",
     "count": 12,
     "category": "ecosystem"
@@ -163,11 +168,6 @@
     "tag": "Hysteria",
     "count": 12,
     "category": "security"
-  },
-  {
-    "tag": "metacubexd",
-    "count": 11,
-    "category": "core"
   },
   {
     "tag": "naiveproxy",
@@ -185,6 +185,16 @@
     "category": "client"
   },
   {
+    "tag": "3x-ui",
+    "count": 10,
+    "category": "client"
+  },
+  {
+    "tag": "TLS",
+    "count": 9,
+    "category": "client"
+  },
+  {
     "tag": "网络工具",
     "count": 9,
     "category": "ecosystem"
@@ -193,11 +203,6 @@
     "tag": "SUDOKU-ASCII",
     "count": 9,
     "category": "ecosystem"
-  },
-  {
-    "tag": "3x-ui",
-    "count": 9,
-    "category": "client"
   },
   {
     "tag": "Snell",
@@ -251,11 +256,6 @@
   },
   {
     "tag": "Xray-core",
-    "count": 8,
-    "category": "core"
-  },
-  {
-    "tag": "TLS",
     "count": 8,
     "category": "core"
   },
@@ -500,6 +500,16 @@
     "category": "client"
   },
   {
+    "tag": "WebSocket",
+    "count": 3,
+    "category": "client"
+  },
+  {
+    "tag": "TypeScript",
+    "count": 3,
+    "category": "client"
+  },
+  {
     "tag": "SDK",
     "count": 3,
     "category": "client"
@@ -645,6 +655,21 @@
     "category": "protocol"
   },
   {
+    "tag": "React",
+    "count": 2,
+    "category": "client"
+  },
+  {
+    "tag": "AntD",
+    "count": 2,
+    "category": "client"
+  },
+  {
+    "tag": "XHTTP",
+    "count": 2,
+    "category": "client"
+  },
+  {
     "tag": "网络规则",
     "count": 2,
     "category": "ecosystem"
@@ -678,11 +703,6 @@
     "tag": "优化",
     "count": 2,
     "category": "ecosystem"
-  },
-  {
-    "tag": "TypeScript",
-    "count": 2,
-    "category": "client"
   },
   {
     "tag": "ShadowTLS",
@@ -768,11 +788,6 @@
     "tag": "P2P",
     "count": 2,
     "category": "core"
-  },
-  {
-    "tag": "WebSocket",
-    "count": 2,
-    "category": "client"
   },
   {
     "tag": "debug",
@@ -870,6 +885,11 @@
     "category": "security"
   },
   {
+    "tag": "Cloudflare",
+    "count": 1,
+    "category": "client"
+  },
+  {
     "tag": "CI/CD",
     "count": 1,
     "category": "ecosystem"
@@ -958,16 +978,6 @@
     "tag": "context.process",
     "count": 1,
     "category": "ecosystem"
-  },
-  {
-    "tag": "React",
-    "count": 1,
-    "category": "client"
-  },
-  {
-    "tag": "AntD",
-    "count": 1,
-    "category": "client"
   },
   {
     "tag": "多客户端",
@@ -1431,11 +1441,6 @@
   },
   {
     "tag": "trusttunnel",
-    "count": 1,
-    "category": "client"
-  },
-  {
-    "tag": "XHTTP",
     "count": 1,
     "category": "client"
   },
