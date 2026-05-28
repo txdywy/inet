@@ -1,7 +1,7 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 82,
+    "count": 83,
     "category": "ecosystem"
   },
   {
@@ -36,7 +36,12 @@
   },
   {
     "tag": "v2ray",
-    "count": 30,
+    "count": 31,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "Loyalsoldier",
+    "count": 25,
     "category": "ecosystem"
   },
   {
@@ -45,18 +50,13 @@
     "category": "client"
   },
   {
-    "tag": "Loyalsoldier",
-    "count": 24,
-    "category": "ecosystem"
-  },
-  {
     "tag": "HTTP/2",
     "count": 24,
     "category": "protocol"
   },
   {
     "tag": "meta-rules-dat",
-    "count": 22,
+    "count": 23,
     "category": "ecosystem"
   },
   {
@@ -150,6 +150,11 @@
     "category": "client"
   },
   {
+    "tag": "代理",
+    "count": 12,
+    "category": "ecosystem"
+  },
+  {
     "tag": "v2rayNG",
     "count": 12,
     "category": "client"
@@ -161,11 +166,6 @@
   },
   {
     "tag": "metacubexd",
-    "count": 11,
-    "category": "core"
-  },
-  {
-    "tag": "代理",
     "count": 11,
     "category": "core"
   },
@@ -643,6 +643,11 @@
     "tag": "protocol",
     "count": 3,
     "category": "protocol"
+  },
+  {
+    "tag": "网络规则",
+    "count": 2,
+    "category": "ecosystem"
   },
   {
     "tag": "构建",
@@ -1451,11 +1456,6 @@
   },
   {
     "tag": "geosite",
-    "count": 1,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "网络规则",
     "count": 1,
     "category": "ecosystem"
   },

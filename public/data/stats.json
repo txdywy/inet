@@ -1,5 +1,5 @@
 {
-  "totalItems": 414,
+  "totalItems": 416,
   "last24h": 11,
   "last7d": 54,
   "byCategory": {
@@ -9,7 +9,7 @@
     "protocol": 33,
     "dns_rules": 4,
     "security": 5,
-    "ecosystem": 178,
+    "ecosystem": 180,
     "trend": 0
   },
   "topProjects": [
@@ -27,11 +27,11 @@
     },
     {
       "project": "v2ray-rules-dat",
-      "count": 25
+      "count": 26
     },
     {
       "project": "meta-rules-dat",
-      "count": 22
+      "count": 23
     },
     {
       "project": "ClashMetaForAndroid",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 82
+      "count": 83
     },
     {
       "tag": "mihomo",
@@ -85,15 +85,15 @@
     },
     {
       "tag": "v2ray",
-      "count": 30
+      "count": 31
+    },
+    {
+      "tag": "Loyalsoldier",
+      "count": 25
     },
     {
       "tag": "Windows",
       "count": 25
-    },
-    {
-      "tag": "Loyalsoldier",
-      "count": 24
     },
     {
       "tag": "HTTP/2",
@@ -101,7 +101,7 @@
     },
     {
       "tag": "meta-rules-dat",
-      "count": 22
+      "count": 23
     },
     {
       "tag": "rules",
@@ -139,5 +139,5 @@
   "importantCount": 149,
   "breakingCount": 29,
   "securityCount": 26,
-  "updatedAt": "2026-05-27T20:29:12.992Z"
+  "updatedAt": "2026-05-28T04:43:27.121Z"
 }
