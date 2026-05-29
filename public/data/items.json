@@ -32,6 +32,42 @@
     "hash": "c7839c0cbd0a1f2b"
   },
   {
+    "id": "6b14c8cff6fc396f",
+    "title": "7.22.4",
+    "summary": "v2rayN 7.22.4 更新了 .NET 10.0，优化了功能并添加了新特性。",
+    "analysis": "此次 v2rayN 7.22.4 更新主要集中在性能优化和新功能的引入上，升级至 .NET 10.0 可能会提升应用的稳定性和兼容性。新添加的功能如 SOCKS4/5 分享链接导入和路由规则的 tun tag 支持，增强了用户的使用体验。此外，自动检查更新的功能使得用户能够更方便地保持软件的最新状态。对于开发者而言，优化的参数设置和管理员自动运行速度的提升，可能会带来更好的开发和使用体验。整体来看，此次更新没有明显的破坏性变更，兼容性风险较低，建议用户尽快更新以享受新特性和优化。",
+    "rawTitle": "7.22.4",
+    "rawBody": "### 本次更新\r\n\r\n* 升级至 .NET 10.0\r\n* 一些优化 https://github.com/2dust/v2rayN/pull/9301\r\n* 添加 v2rayN-linux-loong64.deb  https://github.com/2dust/v2rayN/pull/9310\r\n* 路由规则 inbound 添加 tun tag https://github.com/2dust/v2rayN/pull/9327\r\n* 检查更新中添加 `仅检查`  功能； 添加每 24 小时自动检查并提示功能\r\n* 支持导入 SOCKS4/5 的分享链接\r\n* 在主窗口中添加 IP 信息列，需要设置连接信息地址\r\n* 加快管理员自动运行速度 https://github.com/2dust/v2rayN/pull/9366\r\n* 添加测试分批次大小和间隔参数 https://github.com/2dust/v2rayN/commit/bf98c4007f1d1de4580e2f2e92f080ccaced4795  https://github.com/2dust/v2rayN/wiki/Description-of-some-parameters\r\n* desktop 版本改进字体选项 https://github.com/2dust/v2rayN/pull/9405\r\n\r\n### [发布文件介绍，不知道下载哪个文件的请看](https://github.com/2dust/v2rayN/wiki/Release-files-introduction)\r\n ",
+    "sourceType": "github_release",
+    "sourceName": "2dust/v2rayN",
+    "sourceUrl": "https://github.com/2dust/v2rayN/releases/tag/7.22.4",
+    "project": "v2rayN",
+    "repo": "2dust/v2rayN",
+    "slug": "v2rayn",
+    "version": "7.22.4",
+    "category": "client",
+    "tags": [
+      "v2rayN",
+      ".NET",
+      "SOCKS",
+      "路由规则"
+    ],
+    "platforms": [
+      "windows",
+      "linux"
+    ],
+    "importance": 4,
+    "confidence": 0.9,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-05-29T03:11:13Z",
+    "fetchedAt": "2026-05-29T10:15:31.367Z",
+    "firstSeenAt": "2026-05-29T10:15:45.215Z",
+    "updatedAt": "2026-05-29T10:15:45.215Z",
+    "hash": "6b14c8cff6fc396f"
+  },
+  {
     "id": "41b9b4066dab9925",
     "title": "7.22.4",
     "summary": "v2rayN 发布了 7.22.4 版本，属于预发布状态。",

@@ -1,10 +1,10 @@
 {
-  "totalItems": 425,
-  "last24h": 8,
+  "totalItems": 426,
+  "last24h": 9,
   "last7d": 54,
   "byCategory": {
     "core": 77,
-    "client": 120,
+    "client": 121,
     "router": 1,
     "protocol": 34,
     "dns_rules": 4,
@@ -47,7 +47,7 @@
     },
     {
       "project": "v2rayN",
-      "count": 12
+      "count": 13
     },
     {
       "project": "v2rayNG",
@@ -136,8 +136,8 @@
       "count": 18
     }
   ],
-  "importantCount": 153,
+  "importantCount": 154,
   "breakingCount": 29,
   "securityCount": 27,
-  "updatedAt": "2026-05-29T04:46:18.618Z"
+  "updatedAt": "2026-05-29T10:15:45.651Z"
 }

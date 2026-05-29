@@ -130,6 +130,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "v2rayN",
+    "count": 13,
+    "category": "client"
+  },
+  {
     "tag": "metacubexd",
     "count": 13,
     "category": "client"
@@ -152,11 +157,6 @@
   {
     "tag": "Xray",
     "count": 13,
-    "category": "client"
-  },
-  {
-    "tag": "v2rayN",
-    "count": 12,
     "category": "client"
   },
   {
@@ -185,6 +185,11 @@
     "category": "protocol"
   },
   {
+    "tag": "SOCKS",
+    "count": 10,
+    "category": "client"
+  },
+  {
     "tag": "3x-ui",
     "count": 10,
     "category": "client"
@@ -208,11 +213,6 @@
     "tag": "SUDOKU-ASCII",
     "count": 9,
     "category": "ecosystem"
-  },
-  {
-    "tag": "SOCKS",
-    "count": 9,
-    "category": "client"
   },
   {
     "tag": "TUN",
@@ -340,6 +340,11 @@
     "category": "core"
   },
   {
+    "tag": ".NET",
+    "count": 5,
+    "category": "client"
+  },
+  {
     "tag": "proxy",
     "count": 5,
     "category": "ecosystem"
@@ -438,11 +443,6 @@
     "tag": "性能优化",
     "count": 4,
     "category": "ecosystem"
-  },
-  {
-    "tag": ".NET",
-    "count": 4,
-    "category": "client"
   },
   {
     "tag": "Shadowrocket",
@@ -663,6 +663,11 @@
     "tag": "SSH",
     "count": 2,
     "category": "ecosystem"
+  },
+  {
+    "tag": "路由规则",
+    "count": 2,
+    "category": "client"
   },
   {
     "tag": "React",
@@ -1048,11 +1053,6 @@
     "tag": "x",
     "count": 1,
     "category": "ecosystem"
-  },
-  {
-    "tag": "路由规则",
-    "count": 1,
-    "category": "client"
   },
   {
     "tag": "Node.js",
