@@ -1,115 +1,115 @@
 {
-  "totalItems": 418,
-  "last24h": 4,
-  "last7d": 52,
+  "totalItems": 425,
+  "last24h": 8,
+  "last7d": 54,
   "byCategory": {
     "core": 77,
-    "client": 118,
+    "client": 120,
     "router": 1,
-    "protocol": 33,
+    "protocol": 34,
     "dns_rules": 4,
     "security": 5,
-    "ecosystem": 180,
+    "ecosystem": 184,
     "trend": 0
   },
   "topProjects": [
     {
       "project": "mihomo",
-      "count": 48
+      "count": 49
     },
     {
       "project": "domain-list-community",
-      "count": 43
+      "count": 44
     },
     {
       "project": "Sub-Store",
-      "count": 39
+      "count": 40
     },
     {
       "project": "v2ray-rules-dat",
-      "count": 26
+      "count": 27
     },
     {
       "project": "meta-rules-dat",
-      "count": 23
+      "count": 24
     },
     {
       "project": "ClashMetaForAndroid",
       "count": 18
     },
     {
+      "project": "metacubexd",
+      "count": 15
+    },
+    {
       "project": "clash-verge-rev",
       "count": 15
     },
     {
-      "project": "metacubexd",
-      "count": 14
+      "project": "v2rayN",
+      "count": 12
     },
     {
       "project": "v2rayNG",
       "count": 12
-    },
-    {
-      "project": "sing-box",
-      "count": 11
     }
   ],
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 84
+      "count": 87
     },
     {
       "tag": "mihomo",
-      "count": 49
+      "count": 50
     },
     {
       "tag": "v2fly",
-      "count": 47
+      "count": 48
     },
     {
       "tag": "Sub-Store",
-      "count": 39
+      "count": 40
     },
     {
       "tag": "Android",
       "count": 36
     },
     {
+      "tag": "v2ray",
+      "count": 33
+    },
+    {
+      "tag": "OpenVPN",
+      "count": 33
+    },
+    {
       "tag": "网络代理",
       "count": 32
     },
     {
-      "tag": "OpenVPN",
-      "count": 32
-    },
-    {
-      "tag": "v2ray",
-      "count": 31
-    },
-    {
       "tag": "Loyalsoldier",
-      "count": 25
+      "count": 26
     },
     {
       "tag": "Windows",
       "count": 25
     },
     {
+      "tag": "meta-rules-dat",
+      "count": 24
+    },
+    {
       "tag": "HTTP/2",
       "count": 24
     },
     {
-      "tag": "meta-rules-dat",
+      "tag": "domain-list-community",
       "count": 23
     },
     {
       "tag": "rules",
-      "count": 22
-    },
-    {
-      "tag": "domain-list-community",
-      "count": 22
+      "count": 23
     },
     {
       "tag": "Linux",
@@ -136,8 +136,8 @@
       "count": 18
     }
   ],
-  "importantCount": 151,
+  "importantCount": 153,
   "breakingCount": 29,
-  "securityCount": 26,
-  "updatedAt": "2026-05-28T20:36:53.310Z"
+  "securityCount": 27,
+  "updatedAt": "2026-05-29T04:46:18.618Z"
 }
