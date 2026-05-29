@@ -11,13 +11,13 @@
   },
   {
     "tag": "v2fly",
-    "count": 48,
+    "count": 49,
     "category": "ecosystem"
   },
   {
     "tag": "Sub-Store",
-    "count": 40,
-    "category": "ecosystem"
+    "count": 41,
+    "category": "protocol"
   },
   {
     "tag": "Android",
@@ -50,6 +50,11 @@
     "category": "client"
   },
   {
+    "tag": "domain-list-community",
+    "count": 24,
+    "category": "ecosystem"
+  },
+  {
     "tag": "meta-rules-dat",
     "count": 24,
     "category": "ecosystem"
@@ -58,11 +63,6 @@
     "tag": "HTTP/2",
     "count": 24,
     "category": "protocol"
-  },
-  {
-    "tag": "domain-list-community",
-    "count": 23,
-    "category": "ecosystem"
   },
   {
     "tag": "rules",
@@ -225,6 +225,11 @@
     "category": "client"
   },
   {
+    "tag": "VMess",
+    "count": 8,
+    "category": "protocol"
+  },
+  {
     "tag": "Surge",
     "count": 8,
     "category": "ecosystem"
@@ -288,11 +293,6 @@
     "tag": "WireGuard",
     "count": 7,
     "category": "ecosystem"
-  },
-  {
-    "tag": "VMess",
-    "count": 7,
-    "category": "client"
   },
   {
     "tag": "Clash Verge Rev",
@@ -500,6 +500,11 @@
     "category": "client"
   },
   {
+    "tag": "优化",
+    "count": 3,
+    "category": "protocol"
+  },
+  {
     "tag": "bugfix",
     "count": 3,
     "category": "client"
@@ -660,6 +665,11 @@
     "category": "protocol"
   },
   {
+    "tag": "Mozilla",
+    "count": 2,
+    "category": "ecosystem"
+  },
+  {
     "tag": "SSH",
     "count": 2,
     "category": "ecosystem"
@@ -711,11 +721,6 @@
   },
   {
     "tag": "脚本操作",
-    "count": 2,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "优化",
     "count": 2,
     "category": "ecosystem"
   },
@@ -893,6 +898,21 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "遥测",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "广告域名",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "URI",
+    "count": 1,
+    "category": "protocol"
   },
   {
     "tag": "arena.ai",
@@ -1096,11 +1116,6 @@
   },
   {
     "tag": "上传优化",
-    "count": 1,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "Mozilla",
     "count": 1,
     "category": "ecosystem"
   },
