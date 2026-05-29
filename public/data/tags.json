@@ -1,7 +1,7 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 87,
+    "count": 88,
     "category": "client"
   },
   {
@@ -125,17 +125,17 @@
     "category": "client"
   },
   {
+    "tag": "metacubexd",
+    "count": 14,
+    "category": "client"
+  },
+  {
     "tag": "网络协议",
     "count": 14,
     "category": "ecosystem"
   },
   {
     "tag": "v2rayN",
-    "count": 13,
-    "category": "client"
-  },
-  {
-    "tag": "metacubexd",
     "count": 13,
     "category": "client"
   },
@@ -225,6 +225,11 @@
     "category": "client"
   },
   {
+    "tag": "go-gost",
+    "count": 8,
+    "category": "ecosystem"
+  },
+  {
     "tag": "VMess",
     "count": 8,
     "category": "protocol"
@@ -268,11 +273,6 @@
     "tag": "CBC",
     "count": 8,
     "category": "protocol"
-  },
-  {
-    "tag": "go-gost",
-    "count": 7,
-    "category": "ecosystem"
   },
   {
     "tag": "shadowsocks",
@@ -338,6 +338,11 @@
     "tag": "rust",
     "count": 6,
     "category": "core"
+  },
+  {
+    "tag": "性能优化",
+    "count": 5,
+    "category": "client"
   },
   {
     "tag": ".NET",
@@ -438,11 +443,6 @@
     "tag": "dns",
     "count": 4,
     "category": "dns_rules"
-  },
-  {
-    "tag": "性能优化",
-    "count": 4,
-    "category": "ecosystem"
   },
   {
     "tag": "Shadowrocket",
@@ -898,6 +898,26 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "PWA",
+    "count": 1,
+    "category": "client"
+  },
+  {
+    "tag": "CLI",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "文档",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "依赖库",
+    "count": 1,
+    "category": "ecosystem"
   },
   {
     "tag": "遥测",

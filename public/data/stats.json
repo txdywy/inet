@@ -1,15 +1,15 @@
 {
-  "totalItems": 428,
+  "totalItems": 430,
   "last24h": 11,
-  "last7d": 54,
+  "last7d": 55,
   "byCategory": {
     "core": 77,
-    "client": 121,
+    "client": 122,
     "router": 1,
     "protocol": 35,
     "dns_rules": 4,
     "security": 5,
-    "ecosystem": 185,
+    "ecosystem": 186,
     "trend": 0
   },
   "topProjects": [
@@ -39,7 +39,7 @@
     },
     {
       "project": "metacubexd",
-      "count": 15
+      "count": 16
     },
     {
       "project": "clash-verge-rev",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 87
+      "count": 88
     },
     {
       "tag": "mihomo",
@@ -136,8 +136,8 @@
       "count": 18
     }
   ],
-  "importantCount": 154,
+  "importantCount": 155,
   "breakingCount": 29,
   "securityCount": 27,
-  "updatedAt": "2026-05-29T16:10:21.576Z"
+  "updatedAt": "2026-05-29T20:37:50.562Z"
 }

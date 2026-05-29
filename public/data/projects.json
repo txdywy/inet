@@ -101,6 +101,21 @@
     ]
   },
   {
+    "slug": "metacubexd",
+    "name": "metacubexd",
+    "repo": "MetaCubeX/metacubexd",
+    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
+    "category": "ecosystem",
+    "platforms": [
+      "web"
+    ],
+    "tags": [
+      "dashboard",
+      "mihomo",
+      "clash"
+    ]
+  },
+  {
     "slug": "clash-verge-rev",
     "name": "clash-verge-rev",
     "repo": "clash-verge-rev/clash-verge-rev",
@@ -115,21 +130,6 @@
       "clash-verge",
       "mihomo",
       "desktop"
-    ]
-  },
-  {
-    "slug": "metacubexd",
-    "name": "metacubexd",
-    "repo": "MetaCubeX/metacubexd",
-    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
-    "category": "ecosystem",
-    "platforms": [
-      "web"
-    ],
-    "tags": [
-      "dashboard",
-      "mihomo",
-      "clash"
     ]
   },
   {
@@ -263,6 +263,22 @@
     ]
   },
   {
+    "slug": "gost",
+    "name": "gost",
+    "repo": "go-gost/gost",
+    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
+    "category": "core",
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "tags": [
+      "gost",
+      "tunnel"
+    ]
+  },
+  {
     "slug": "xray-core",
     "name": "Xray-core",
     "repo": "XTLS/Xray-core",
@@ -279,22 +295,6 @@
       "vless",
       "xtls",
       "xhttp"
-    ]
-  },
-  {
-    "slug": "gost",
-    "name": "gost",
-    "repo": "go-gost/gost",
-    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
-    "category": "core",
-    "platforms": [
-      "linux",
-      "windows",
-      "macos"
-    ],
-    "tags": [
-      "gost",
-      "tunnel"
     ]
   },
   {
