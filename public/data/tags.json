@@ -1,17 +1,17 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 88,
-    "category": "client"
+    "count": 90,
+    "category": "ecosystem"
   },
   {
     "tag": "mihomo",
-    "count": 50,
+    "count": 51,
     "category": "ecosystem"
   },
   {
     "tag": "v2fly",
-    "count": 49,
+    "count": 50,
     "category": "ecosystem"
   },
   {
@@ -26,12 +26,12 @@
   },
   {
     "tag": "v2ray",
-    "count": 33,
-    "category": "client"
+    "count": 34,
+    "category": "ecosystem"
   },
   {
     "tag": "OpenVPN",
-    "count": 33,
+    "count": 34,
     "category": "ecosystem"
   },
   {
@@ -41,7 +41,17 @@
   },
   {
     "tag": "Loyalsoldier",
-    "count": 26,
+    "count": 27,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "domain-list-community",
+    "count": 25,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "meta-rules-dat",
+    "count": 25,
     "category": "ecosystem"
   },
   {
@@ -50,12 +60,7 @@
     "category": "client"
   },
   {
-    "tag": "domain-list-community",
-    "count": 24,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "meta-rules-dat",
+    "tag": "rules",
     "count": 24,
     "category": "ecosystem"
   },
@@ -63,11 +68,6 @@
     "tag": "HTTP/2",
     "count": 24,
     "category": "protocol"
-  },
-  {
-    "tag": "rules",
-    "count": 23,
-    "category": "ecosystem"
   },
   {
     "tag": "Linux",
@@ -90,6 +90,11 @@
     "category": "protocol"
   },
   {
+    "tag": "CHACHA20-POLY1305",
+    "count": 19,
+    "category": "ecosystem"
+  },
+  {
     "tag": "domain-list",
     "count": 18,
     "category": "ecosystem"
@@ -100,19 +105,14 @@
     "category": "client"
   },
   {
-    "tag": "CHACHA20-POLY1305",
-    "count": 18,
-    "category": "protocol"
+    "tag": "开源",
+    "count": 17,
+    "category": "ecosystem"
   },
   {
     "tag": "代理工具",
     "count": 17,
     "category": "client"
-  },
-  {
-    "tag": "开源",
-    "count": 16,
-    "category": "ecosystem"
   },
   {
     "tag": "QUIC",
@@ -125,6 +125,11 @@
     "category": "client"
   },
   {
+    "tag": "dat",
+    "count": 14,
+    "category": "ecosystem"
+  },
+  {
     "tag": "metacubexd",
     "count": 14,
     "category": "client"
@@ -135,14 +140,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "代理",
+    "count": 13,
+    "category": "ecosystem"
+  },
+  {
     "tag": "v2rayN",
     "count": 13,
     "category": "client"
-  },
-  {
-    "tag": "dat",
-    "count": 13,
-    "category": "ecosystem"
   },
   {
     "tag": "DNS",
@@ -158,11 +163,6 @@
     "tag": "Xray",
     "count": 13,
     "category": "client"
-  },
-  {
-    "tag": "代理",
-    "count": 12,
-    "category": "ecosystem"
   },
   {
     "tag": "v2rayNG",
@@ -185,6 +185,21 @@
     "category": "protocol"
   },
   {
+    "tag": "Snell",
+    "count": 11,
+    "category": "protocol"
+  },
+  {
+    "tag": "Clash",
+    "count": 10,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "网络工具",
+    "count": 10,
+    "category": "ecosystem"
+  },
+  {
     "tag": "SOCKS",
     "count": 10,
     "category": "client"
@@ -195,19 +210,9 @@
     "category": "client"
   },
   {
-    "tag": "Snell",
-    "count": 10,
-    "category": "protocol"
-  },
-  {
     "tag": "TLS",
     "count": 9,
     "category": "client"
-  },
-  {
-    "tag": "网络工具",
-    "count": 9,
-    "category": "ecosystem"
   },
   {
     "tag": "SUDOKU-ASCII",
@@ -220,9 +225,9 @@
     "category": "client"
   },
   {
-    "tag": "Clash",
+    "tag": "CBC",
     "count": 9,
-    "category": "client"
+    "category": "ecosystem"
   },
   {
     "tag": "go-gost",
@@ -270,11 +275,6 @@
     "category": "core"
   },
   {
-    "tag": "CBC",
-    "count": 8,
-    "category": "protocol"
-  },
-  {
     "tag": "shadowsocks",
     "count": 7,
     "category": "ecosystem"
@@ -292,6 +292,11 @@
   {
     "tag": "WireGuard",
     "count": 7,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "OpenClash",
+    "count": 6,
     "category": "ecosystem"
   },
   {
@@ -391,11 +396,6 @@
   },
   {
     "tag": "xhttp",
-    "count": 5,
-    "category": "client"
-  },
-  {
-    "tag": "OpenClash",
     "count": 5,
     "category": "client"
   },
@@ -898,6 +898,11 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "域名",
+    "count": 1,
+    "category": "ecosystem"
   },
   {
     "tag": "PWA",

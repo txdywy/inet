@@ -1,7 +1,7 @@
 {
-  "totalItems": 430,
-  "last24h": 11,
-  "last7d": 55,
+  "totalItems": 435,
+  "last24h": 8,
+  "last7d": 57,
   "byCategory": {
     "core": 77,
     "client": 122,
@@ -9,17 +9,17 @@
     "protocol": 35,
     "dns_rules": 4,
     "security": 5,
-    "ecosystem": 186,
+    "ecosystem": 191,
     "trend": 0
   },
   "topProjects": [
     {
       "project": "mihomo",
-      "count": 49
+      "count": 50
     },
     {
       "project": "domain-list-community",
-      "count": 45
+      "count": 46
     },
     {
       "project": "Sub-Store",
@@ -27,11 +27,11 @@
     },
     {
       "project": "v2ray-rules-dat",
-      "count": 27
+      "count": 28
     },
     {
       "project": "meta-rules-dat",
-      "count": 24
+      "count": 25
     },
     {
       "project": "ClashMetaForAndroid",
@@ -57,15 +57,15 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 88
+      "count": 90
     },
     {
       "tag": "mihomo",
-      "count": 50
+      "count": 51
     },
     {
       "tag": "v2fly",
-      "count": 49
+      "count": 50
     },
     {
       "tag": "Sub-Store",
@@ -77,11 +77,11 @@
     },
     {
       "tag": "v2ray",
-      "count": 33
+      "count": 34
     },
     {
       "tag": "OpenVPN",
-      "count": 33
+      "count": 34
     },
     {
       "tag": "网络代理",
@@ -89,27 +89,27 @@
     },
     {
       "tag": "Loyalsoldier",
-      "count": 26
+      "count": 27
+    },
+    {
+      "tag": "domain-list-community",
+      "count": 25
+    },
+    {
+      "tag": "meta-rules-dat",
+      "count": 25
     },
     {
       "tag": "Windows",
       "count": 25
     },
     {
-      "tag": "domain-list-community",
-      "count": 24
-    },
-    {
-      "tag": "meta-rules-dat",
+      "tag": "rules",
       "count": 24
     },
     {
       "tag": "HTTP/2",
       "count": 24
-    },
-    {
-      "tag": "rules",
-      "count": 23
     },
     {
       "tag": "Linux",
@@ -128,16 +128,16 @@
       "count": 19
     },
     {
-      "tag": "domain-list",
-      "count": 18
+      "tag": "CHACHA20-POLY1305",
+      "count": 19
     },
     {
-      "tag": "ClashMetaForAndroid",
+      "tag": "domain-list",
       "count": 18
     }
   ],
-  "importantCount": 155,
+  "importantCount": 157,
   "breakingCount": 29,
   "securityCount": 27,
-  "updatedAt": "2026-05-29T20:37:50.562Z"
+  "updatedAt": "2026-05-30T04:19:55.651Z"
 }
