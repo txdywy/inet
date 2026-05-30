@@ -1,5 +1,38 @@
 [
   {
+    "id": "906435eb19d01304",
+    "title": "2.23.30",
+    "summary": "Sub-Store 2.23.30 版本新增了分享链接按次数消费的功能，并统一了 token 鉴权处理。",
+    "analysis": "此次更新的主要功能是支持分享链接按次数消费，并对 token 鉴权进行了统一处理。这一改进将提升用户在使用分享链接时的灵活性和安全性，尤其是在多次使用同一链接的场景下。对于开发者而言，统一的 token 鉴权处理简化了鉴权逻辑，降低了出错的可能性。此更新与前端版本要求相关，需确保前端版本不低于 2.17.22，以保证功能的正常使用。整体来看，此次更新没有明显的兼容性风险，建议用户及时更新以享受新功能。",
+    "rawTitle": "2.23.30",
+    "rawBody": "## <small>2.23.30 (2026-05-30)</small>\n\n* feat: 支持分享链接按次数消费并统一 token 鉴权处理(前端>=2.17.22) ([d8f6667](https://github.com/sub-store-org/Sub-Store/commit/d8f6667))\n",
+    "sourceType": "github_release",
+    "sourceName": "sub-store-org/Sub-Store",
+    "sourceUrl": "https://github.com/sub-store-org/Sub-Store/releases/tag/2.23.30",
+    "project": "Sub-Store",
+    "repo": "sub-store-org/Sub-Store",
+    "slug": "sub-store",
+    "version": "2.23.30",
+    "category": "ecosystem",
+    "tags": [
+      "Sub-Store",
+      "token",
+      "分享链接",
+      "前端"
+    ],
+    "platforms": [],
+    "importance": 3,
+    "confidence": 0.9,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-05-30T15:06:36Z",
+    "fetchedAt": "2026-05-30T19:40:20.579Z",
+    "firstSeenAt": "2026-05-30T19:40:28.619Z",
+    "updatedAt": "2026-05-30T19:40:28.619Z",
+    "hash": "906435eb19d01304"
+  },
+  {
     "id": "73a37d3ba03d357f",
     "title": "v1.249.1",
     "summary": "MetaCubeX/metacubexd 发布了 v1.249.1 版本，主要修复了代理视图中测量延迟的相关问题。",

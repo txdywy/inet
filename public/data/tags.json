@@ -16,8 +16,8 @@
   },
   {
     "tag": "Sub-Store",
-    "count": 41,
-    "category": "protocol"
+    "count": 42,
+    "category": "ecosystem"
   },
   {
     "tag": "Android",
@@ -665,6 +665,11 @@
     "category": "protocol"
   },
   {
+    "tag": "前端",
+    "count": 2,
+    "category": "ecosystem"
+  },
+  {
     "tag": "Mozilla",
     "count": 2,
     "category": "ecosystem"
@@ -898,6 +903,16 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "token",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "分享链接",
+    "count": 1,
+    "category": "ecosystem"
   },
   {
     "tag": "延迟测量",
@@ -1383,11 +1398,6 @@
     "tag": "Windows 7",
     "count": 1,
     "category": "client"
-  },
-  {
-    "tag": "前端",
-    "count": 1,
-    "category": "ecosystem"
   },
   {
     "tag": "网络过滤",
