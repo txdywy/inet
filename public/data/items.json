@@ -1,5 +1,38 @@
 [
   {
+    "id": "73a37d3ba03d357f",
+    "title": "v1.249.1",
+    "summary": "MetaCubeX/metacubexd 发布了 v1.249.1 版本，主要修复了代理视图中测量延迟的相关问题。",
+    "analysis": "在 v1.249.1 版本中，MetaCubeX/metacubexd 主要进行了一个重要的 bug 修复，涉及到代理视图中测量延迟的重用。这一修复能够提升用户在使用代理时的体验，确保在多个测试 URL 之间的延迟测量更加准确和一致。对于开发者而言，这意味着在进行性能测试时，可以依赖更稳定的延迟数据，从而优化代理的使用效果。此更新不会引入破坏性变更，且没有涉及安全性或协议的变化，因此用户可以放心更新。建议用户尽快更新到此版本，以享受更好的性能和稳定性。",
+    "rawTitle": "v1.249.1",
+    "rawBody": "## [1.249.1](https://github.com/MetaCubeX/metacubexd/compare/v1.249.0...v1.249.1) (2026-05-30)\n\n\n### Bug Fixes\n\n* **proxies:** reuse measured latency across test urls in the proxies view ([4e4bef2](https://github.com/MetaCubeX/metacubexd/commit/4e4bef2062d78eebe558785dd907614a90d24e9b))",
+    "sourceType": "github_release",
+    "sourceName": "MetaCubeX/metacubexd",
+    "sourceUrl": "https://github.com/MetaCubeX/metacubexd/releases/tag/v1.249.1",
+    "project": "metacubexd",
+    "repo": "MetaCubeX/metacubexd",
+    "slug": "metacubexd",
+    "version": "1.249.1",
+    "category": "client",
+    "tags": [
+      "MetaCubeX",
+      "metacubexd",
+      "代理",
+      "延迟测量"
+    ],
+    "platforms": [],
+    "importance": 3,
+    "confidence": 0.9,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-05-30T06:07:39Z",
+    "fetchedAt": "2026-05-30T08:41:45.212Z",
+    "firstSeenAt": "2026-05-30T08:41:52.712Z",
+    "updatedAt": "2026-05-30T08:41:52.712Z",
+    "hash": "73a37d3ba03d357f"
+  },
+  {
     "id": "65607973afe0e9b2",
     "title": "20260530034608",
     "summary": "本次更新为域名列表添加了利物浦大学，并更新了英国学者类别。",

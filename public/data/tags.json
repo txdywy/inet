@@ -1,8 +1,8 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 90,
-    "category": "ecosystem"
+    "count": 91,
+    "category": "client"
   },
   {
     "tag": "mihomo",
@@ -125,23 +125,23 @@
     "category": "client"
   },
   {
+    "tag": "metacubexd",
+    "count": 15,
+    "category": "client"
+  },
+  {
+    "tag": "代理",
+    "count": 14,
+    "category": "client"
+  },
+  {
     "tag": "dat",
     "count": 14,
     "category": "ecosystem"
   },
   {
-    "tag": "metacubexd",
-    "count": 14,
-    "category": "client"
-  },
-  {
     "tag": "网络协议",
     "count": 14,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "代理",
-    "count": 13,
     "category": "ecosystem"
   },
   {
@@ -898,6 +898,11 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "延迟测量",
+    "count": 1,
+    "category": "client"
   },
   {
     "tag": "域名",
