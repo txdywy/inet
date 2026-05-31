@@ -1,17 +1,17 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 91,
-    "category": "client"
-  },
-  {
-    "tag": "mihomo",
-    "count": 51,
+    "count": 92,
     "category": "ecosystem"
   },
   {
     "tag": "v2fly",
-    "count": 50,
+    "count": 51,
+    "category": "dns_rules"
+  },
+  {
+    "tag": "mihomo",
+    "count": 51,
     "category": "ecosystem"
   },
   {
@@ -26,7 +26,7 @@
   },
   {
     "tag": "v2ray",
-    "count": 34,
+    "count": 35,
     "category": "ecosystem"
   },
   {
@@ -41,16 +41,21 @@
   },
   {
     "tag": "Loyalsoldier",
-    "count": 27,
+    "count": 28,
     "category": "ecosystem"
   },
   {
     "tag": "domain-list-community",
-    "count": 25,
-    "category": "ecosystem"
+    "count": 26,
+    "category": "dns_rules"
   },
   {
     "tag": "meta-rules-dat",
+    "count": 26,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "rules",
     "count": 25,
     "category": "ecosystem"
   },
@@ -58,11 +63,6 @@
     "tag": "Windows",
     "count": 25,
     "category": "client"
-  },
-  {
-    "tag": "rules",
-    "count": 24,
-    "category": "ecosystem"
   },
   {
     "tag": "HTTP/2",
@@ -125,6 +125,11 @@
     "category": "client"
   },
   {
+    "tag": "dat",
+    "count": 15,
+    "category": "ecosystem"
+  },
+  {
     "tag": "metacubexd",
     "count": 15,
     "category": "client"
@@ -133,11 +138,6 @@
     "tag": "代理",
     "count": 14,
     "category": "client"
-  },
-  {
-    "tag": "dat",
-    "count": 14,
-    "category": "ecosystem"
   },
   {
     "tag": "网络协议",
@@ -903,6 +903,11 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "xHamster",
+    "count": 1,
+    "category": "dns_rules"
   },
   {
     "tag": "token",
