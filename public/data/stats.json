@@ -1,15 +1,15 @@
 {
-  "totalItems": 440,
-  "last24h": 4,
-  "last7d": 52,
+  "totalItems": 444,
+  "last24h": 8,
+  "last7d": 55,
   "byCategory": {
     "core": 77,
     "client": 123,
     "router": 1,
-    "protocol": 35,
+    "protocol": 36,
     "dns_rules": 5,
     "security": 5,
-    "ecosystem": 194,
+    "ecosystem": 197,
     "trend": 0
   },
   "topProjects": [
@@ -19,11 +19,11 @@
     },
     {
       "project": "domain-list-community",
-      "count": 47
+      "count": 49
     },
     {
       "project": "Sub-Store",
-      "count": 42
+      "count": 43
     },
     {
       "project": "v2ray-rules-dat",
@@ -50,7 +50,7 @@
       "count": 13
     },
     {
-      "project": "v2rayNG",
+      "project": "sing-box",
       "count": 12
     }
   ],
@@ -61,7 +61,7 @@
     },
     {
       "tag": "v2fly",
-      "count": 51
+      "count": 53
     },
     {
       "tag": "mihomo",
@@ -69,7 +69,7 @@
     },
     {
       "tag": "Sub-Store",
-      "count": 42
+      "count": 43
     },
     {
       "tag": "Android",
@@ -85,7 +85,7 @@
     },
     {
       "tag": "网络代理",
-      "count": 32
+      "count": 33
     },
     {
       "tag": "Loyalsoldier",
@@ -93,7 +93,7 @@
     },
     {
       "tag": "domain-list-community",
-      "count": 26
+      "count": 27
     },
     {
       "tag": "meta-rules-dat",
@@ -112,15 +112,19 @@
       "count": 24
     },
     {
+      "tag": "Tailscale",
+      "count": 22
+    },
+    {
       "tag": "Linux",
       "count": 22
     },
     {
-      "tag": "Tailscale",
-      "count": 21
+      "tag": "sing-box",
+      "count": 20
     },
     {
-      "tag": "sing-box",
+      "tag": "domain-list",
       "count": 19
     },
     {
@@ -130,14 +134,10 @@
     {
       "tag": "CHACHA20-POLY1305",
       "count": 19
-    },
-    {
-      "tag": "domain-list",
-      "count": 18
     }
   ],
   "importantCount": 157,
   "breakingCount": 29,
   "securityCount": 27,
-  "updatedAt": "2026-05-31T09:25:47.362Z"
+  "updatedAt": "2026-05-31T14:13:26.614Z"
 }

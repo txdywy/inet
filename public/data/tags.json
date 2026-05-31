@@ -6,8 +6,8 @@
   },
   {
     "tag": "v2fly",
-    "count": 51,
-    "category": "dns_rules"
+    "count": 53,
+    "category": "ecosystem"
   },
   {
     "tag": "mihomo",
@@ -16,8 +16,8 @@
   },
   {
     "tag": "Sub-Store",
-    "count": 42,
-    "category": "ecosystem"
+    "count": 43,
+    "category": "protocol"
   },
   {
     "tag": "Android",
@@ -36,8 +36,8 @@
   },
   {
     "tag": "网络代理",
-    "count": 32,
-    "category": "ecosystem"
+    "count": 33,
+    "category": "protocol"
   },
   {
     "tag": "Loyalsoldier",
@@ -46,8 +46,8 @@
   },
   {
     "tag": "domain-list-community",
-    "count": 26,
-    "category": "dns_rules"
+    "count": 27,
+    "category": "ecosystem"
   },
   {
     "tag": "meta-rules-dat",
@@ -70,19 +70,24 @@
     "category": "protocol"
   },
   {
+    "tag": "Tailscale",
+    "count": 22,
+    "category": "ecosystem"
+  },
+  {
     "tag": "Linux",
     "count": 22,
     "category": "client"
   },
   {
-    "tag": "Tailscale",
-    "count": 21,
-    "category": "core"
+    "tag": "sing-box",
+    "count": 20,
+    "category": "ecosystem"
   },
   {
-    "tag": "sing-box",
+    "tag": "domain-list",
     "count": 19,
-    "category": "protocol"
+    "category": "ecosystem"
   },
   {
     "tag": "VLESS",
@@ -92,11 +97,6 @@
   {
     "tag": "CHACHA20-POLY1305",
     "count": 19,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "domain-list",
-    "count": 18,
     "category": "ecosystem"
   },
   {
@@ -165,6 +165,11 @@
     "category": "client"
   },
   {
+    "tag": "SagerNet",
+    "count": 12,
+    "category": "ecosystem"
+  },
+  {
     "tag": "v2rayNG",
     "count": 12,
     "category": "client"
@@ -178,11 +183,6 @@
     "tag": "naiveproxy",
     "count": 11,
     "category": "client"
-  },
-  {
-    "tag": "SagerNet",
-    "count": 11,
-    "category": "protocol"
   },
   {
     "tag": "Snell",
@@ -430,6 +430,11 @@
     "category": "protocol"
   },
   {
+    "tag": "hysteria2",
+    "count": 4,
+    "category": "protocol"
+  },
+  {
     "tag": "CI",
     "count": 4,
     "category": "ecosystem"
@@ -498,6 +503,11 @@
     "tag": "nekoray",
     "count": 4,
     "category": "client"
+  },
+  {
+    "tag": "SSH",
+    "count": 3,
+    "category": "ecosystem"
   },
   {
     "tag": "优化",
@@ -573,11 +583,6 @@
     "tag": "golang",
     "count": 3,
     "category": "core"
-  },
-  {
-    "tag": "hysteria2",
-    "count": 3,
-    "category": "ecosystem"
   },
   {
     "tag": "CVE",
@@ -671,11 +676,6 @@
   },
   {
     "tag": "Mozilla",
-    "count": 2,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "SSH",
     "count": 2,
     "category": "ecosystem"
   },
@@ -903,6 +903,21 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "obfs",
+    "count": 1,
+    "category": "protocol"
+  },
+  {
+    "tag": "firefox",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "disqus",
+    "count": 1,
+    "category": "ecosystem"
   },
   {
     "tag": "xHamster",
