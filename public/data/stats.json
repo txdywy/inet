@@ -1,10 +1,10 @@
 {
-  "totalItems": 444,
-  "last24h": 8,
-  "last7d": 55,
+  "totalItems": 448,
+  "last24h": 11,
+  "last7d": 57,
   "byCategory": {
-    "core": 77,
-    "client": 123,
+    "core": 78,
+    "client": 126,
     "router": 1,
     "protocol": 36,
     "dns_rules": 5,
@@ -15,7 +15,7 @@
   "topProjects": [
     {
       "project": "mihomo",
-      "count": 50
+      "count": 51
     },
     {
       "project": "domain-list-community",
@@ -35,7 +35,7 @@
     },
     {
       "project": "ClashMetaForAndroid",
-      "count": 18
+      "count": 20
     },
     {
       "project": "metacubexd",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 92
+      "count": 93
     },
     {
       "tag": "v2fly",
@@ -65,7 +65,7 @@
     },
     {
       "tag": "mihomo",
-      "count": 51
+      "count": 52
     },
     {
       "tag": "Sub-Store",
@@ -73,15 +73,15 @@
     },
     {
       "tag": "Android",
-      "count": 36
+      "count": 38
+    },
+    {
+      "tag": "OpenVPN",
+      "count": 35
     },
     {
       "tag": "v2ray",
       "count": 35
-    },
-    {
-      "tag": "OpenVPN",
-      "count": 34
     },
     {
       "tag": "网络代理",
@@ -120,6 +120,10 @@
       "count": 22
     },
     {
+      "tag": "ClashMetaForAndroid",
+      "count": 20
+    },
+    {
       "tag": "sing-box",
       "count": 20
     },
@@ -130,14 +134,10 @@
     {
       "tag": "VLESS",
       "count": 19
-    },
-    {
-      "tag": "CHACHA20-POLY1305",
-      "count": 19
     }
   ],
-  "importantCount": 157,
+  "importantCount": 158,
   "breakingCount": 29,
   "securityCount": 27,
-  "updatedAt": "2026-05-31T14:13:26.614Z"
+  "updatedAt": "2026-05-31T19:40:09.343Z"
 }

@@ -1,8 +1,8 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 92,
-    "category": "ecosystem"
+    "count": 93,
+    "category": "client"
   },
   {
     "tag": "v2fly",
@@ -11,8 +11,8 @@
   },
   {
     "tag": "mihomo",
-    "count": 51,
-    "category": "ecosystem"
+    "count": 52,
+    "category": "client"
   },
   {
     "tag": "Sub-Store",
@@ -21,17 +21,17 @@
   },
   {
     "tag": "Android",
-    "count": 36,
+    "count": 38,
+    "category": "client"
+  },
+  {
+    "tag": "OpenVPN",
+    "count": 35,
     "category": "client"
   },
   {
     "tag": "v2ray",
     "count": 35,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "OpenVPN",
-    "count": 34,
     "category": "ecosystem"
   },
   {
@@ -80,6 +80,11 @@
     "category": "client"
   },
   {
+    "tag": "ClashMetaForAndroid",
+    "count": 20,
+    "category": "client"
+  },
+  {
     "tag": "sing-box",
     "count": 20,
     "category": "ecosystem"
@@ -98,11 +103,6 @@
     "tag": "CHACHA20-POLY1305",
     "count": 19,
     "category": "ecosystem"
-  },
-  {
-    "tag": "ClashMetaForAndroid",
-    "count": 18,
-    "category": "client"
   },
   {
     "tag": "开源",
@@ -210,6 +210,11 @@
     "category": "client"
   },
   {
+    "tag": "go-gost",
+    "count": 9,
+    "category": "core"
+  },
+  {
     "tag": "TLS",
     "count": 9,
     "category": "client"
@@ -230,9 +235,9 @@
     "category": "ecosystem"
   },
   {
-    "tag": "go-gost",
+    "tag": "依赖更新",
     "count": 8,
-    "category": "ecosystem"
+    "category": "client"
   },
   {
     "tag": "VMess",
@@ -370,11 +375,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "依赖更新",
-    "count": 5,
-    "category": "core"
-  },
-  {
     "tag": "UDP",
     "count": 5,
     "category": "core"
@@ -428,6 +428,16 @@
     "tag": "tuic",
     "count": 5,
     "category": "protocol"
+  },
+  {
+    "tag": "加密",
+    "count": 4,
+    "category": "client"
+  },
+  {
+    "tag": "网络安全",
+    "count": 4,
+    "category": "client"
   },
   {
     "tag": "hysteria2",
@@ -505,6 +515,11 @@
     "category": "client"
   },
   {
+    "tag": "远程控制",
+    "count": 3,
+    "category": "client"
+  },
+  {
     "tag": "SSH",
     "count": 3,
     "category": "ecosystem"
@@ -573,11 +588,6 @@
     "tag": "Google Docs",
     "count": 3,
     "category": "core"
-  },
-  {
-    "tag": "网络安全",
-    "count": 3,
-    "category": "client"
   },
   {
     "tag": "golang",
@@ -653,11 +663,6 @@
     "tag": "clash-verge-rev",
     "count": 3,
     "category": "client"
-  },
-  {
-    "tag": "加密",
-    "count": 3,
-    "category": "protocol"
   },
   {
     "tag": "Alpha",
@@ -905,6 +910,11 @@
     "category": "security"
   },
   {
+    "tag": "core",
+    "count": 1,
+    "category": "core"
+  },
+  {
     "tag": "obfs",
     "count": 1,
     "category": "protocol"
@@ -1123,11 +1133,6 @@
     "tag": "PAC",
     "count": 1,
     "category": "protocol"
-  },
-  {
-    "tag": "远程控制",
-    "count": 1,
-    "category": "client"
   },
   {
     "tag": "规则库",
