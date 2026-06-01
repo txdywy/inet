@@ -1,8 +1,8 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 93,
-    "category": "client"
+    "count": 94,
+    "category": "ecosystem"
   },
   {
     "tag": "v2fly",
@@ -16,8 +16,8 @@
   },
   {
     "tag": "Sub-Store",
-    "count": 43,
-    "category": "protocol"
+    "count": 45,
+    "category": "ecosystem"
   },
   {
     "tag": "Android",
@@ -25,14 +25,14 @@
     "category": "client"
   },
   {
+    "tag": "v2ray",
+    "count": 36,
+    "category": "ecosystem"
+  },
+  {
     "tag": "OpenVPN",
     "count": 35,
     "category": "client"
-  },
-  {
-    "tag": "v2ray",
-    "count": 35,
-    "category": "ecosystem"
   },
   {
     "tag": "网络代理",
@@ -41,17 +41,17 @@
   },
   {
     "tag": "Loyalsoldier",
-    "count": 28,
+    "count": 29,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "meta-rules-dat",
+    "count": 27,
     "category": "ecosystem"
   },
   {
     "tag": "domain-list-community",
     "count": 27,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "meta-rules-dat",
-    "count": 26,
     "category": "ecosystem"
   },
   {
@@ -70,14 +70,14 @@
     "category": "protocol"
   },
   {
+    "tag": "Linux",
+    "count": 23,
+    "category": "core"
+  },
+  {
     "tag": "Tailscale",
     "count": 22,
     "category": "ecosystem"
-  },
-  {
-    "tag": "Linux",
-    "count": 22,
-    "category": "client"
   },
   {
     "tag": "ClashMetaForAndroid",
@@ -88,6 +88,11 @@
     "tag": "sing-box",
     "count": 20,
     "category": "ecosystem"
+  },
+  {
+    "tag": "代理工具",
+    "count": 19,
+    "category": "core"
   },
   {
     "tag": "domain-list",
@@ -110,9 +115,9 @@
     "category": "ecosystem"
   },
   {
-    "tag": "代理工具",
-    "count": 17,
-    "category": "client"
+    "tag": "网络协议",
+    "count": 16,
+    "category": "core"
   },
   {
     "tag": "QUIC",
@@ -125,6 +130,11 @@
     "category": "client"
   },
   {
+    "tag": "代理",
+    "count": 15,
+    "category": "ecosystem"
+  },
+  {
     "tag": "dat",
     "count": 15,
     "category": "ecosystem"
@@ -133,16 +143,6 @@
     "tag": "metacubexd",
     "count": 15,
     "category": "client"
-  },
-  {
-    "tag": "代理",
-    "count": 14,
-    "category": "client"
-  },
-  {
-    "tag": "网络协议",
-    "count": 14,
-    "category": "ecosystem"
   },
   {
     "tag": "v2rayN",
@@ -190,6 +190,11 @@
     "category": "protocol"
   },
   {
+    "tag": "Xray-core",
+    "count": 10,
+    "category": "core"
+  },
+  {
     "tag": "Clash",
     "count": 10,
     "category": "ecosystem"
@@ -208,6 +213,11 @@
     "tag": "3x-ui",
     "count": 10,
     "category": "client"
+  },
+  {
+    "tag": "OpenWrt",
+    "count": 9,
+    "category": "core"
   },
   {
     "tag": "go-gost",
@@ -260,11 +270,6 @@
     "category": "client"
   },
   {
-    "tag": "OpenWrt",
-    "count": 8,
-    "category": "router"
-  },
-  {
     "tag": "用户体验",
     "count": 8,
     "category": "client"
@@ -273,11 +278,6 @@
     "tag": "xray",
     "count": 8,
     "category": "ecosystem"
-  },
-  {
-    "tag": "Xray-core",
-    "count": 8,
-    "category": "core"
   },
   {
     "tag": "shadowsocks",
@@ -515,6 +515,21 @@
     "category": "client"
   },
   {
+    "tag": "前端",
+    "count": 3,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "安全修复",
+    "count": 3,
+    "category": "core"
+  },
+  {
+    "tag": "网络规则",
+    "count": 3,
+    "category": "ecosystem"
+  },
+  {
     "tag": "远程控制",
     "count": 3,
     "category": "client"
@@ -675,9 +690,14 @@
     "category": "protocol"
   },
   {
-    "tag": "前端",
+    "tag": "并发配置",
     "count": 2,
     "category": "ecosystem"
+  },
+  {
+    "tag": "dnsmasq",
+    "count": 2,
+    "category": "core"
   },
   {
     "tag": "Mozilla",
@@ -703,11 +723,6 @@
     "tag": "XHTTP",
     "count": 2,
     "category": "client"
-  },
-  {
-    "tag": "网络规则",
-    "count": 2,
-    "category": "ecosystem"
   },
   {
     "tag": "构建",
@@ -865,11 +880,6 @@
     "category": "core"
   },
   {
-    "tag": "安全修复",
-    "count": 2,
-    "category": "ecosystem"
-  },
-  {
     "tag": "DoT",
     "count": 2,
     "category": "core"
@@ -908,6 +918,16 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "后端请求",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "后端",
+    "count": 1,
+    "category": "core"
   },
   {
     "tag": "core",
@@ -1338,11 +1358,6 @@
     "tag": "openwrt",
     "count": 1,
     "category": "ecosystem"
-  },
-  {
-    "tag": "dnsmasq",
-    "count": 1,
-    "category": "router"
   },
   {
     "tag": "Linux kernel",

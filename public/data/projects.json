@@ -214,6 +214,25 @@
     ]
   },
   {
+    "slug": "xray-core",
+    "name": "Xray-core",
+    "repo": "XTLS/Xray-core",
+    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
+    "category": "core",
+    "platforms": [
+      "linux",
+      "windows",
+      "macos",
+      "android"
+    ],
+    "tags": [
+      "xray-core",
+      "vless",
+      "xtls",
+      "xhttp"
+    ]
+  },
+  {
     "slug": "v2ray-core",
     "name": "v2ray-core",
     "repo": "v2fly/v2ray-core",
@@ -276,25 +295,6 @@
     "tags": [
       "hysteria2",
       "quic"
-    ]
-  },
-  {
-    "slug": "xray-core",
-    "name": "Xray-core",
-    "repo": "XTLS/Xray-core",
-    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
-    "category": "core",
-    "platforms": [
-      "linux",
-      "windows",
-      "macos",
-      "android"
-    ],
-    "tags": [
-      "xray-core",
-      "vless",
-      "xtls",
-      "xhttp"
     ]
   },
   {
