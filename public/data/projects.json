@@ -133,6 +133,21 @@
     ]
   },
   {
+    "slug": "v2rayng",
+    "name": "v2rayNG",
+    "repo": "2dust/v2rayNG",
+    "description": "各平台代理客户端应用",
+    "category": "client",
+    "platforms": [
+      "android"
+    ],
+    "tags": [
+      "v2rayng",
+      "android",
+      "xray-core"
+    ]
+  },
+  {
     "slug": "v2rayn",
     "name": "v2rayN",
     "repo": "2dust/v2rayN",
@@ -168,17 +183,17 @@
     ]
   },
   {
-    "slug": "v2rayng",
-    "name": "v2rayNG",
-    "repo": "2dust/v2rayNG",
-    "description": "各平台代理客户端应用",
-    "category": "client",
+    "slug": "3x-ui",
+    "name": "3x-ui",
+    "repo": "MHSanaei/3x-ui",
+    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
+    "category": "ecosystem",
     "platforms": [
-      "android"
+      "linux"
     ],
     "tags": [
-      "v2rayng",
-      "android",
+      "x-ui",
+      "panel",
       "xray-core"
     ]
   },
@@ -196,21 +211,6 @@
     ],
     "tags": [
       "naiveproxy"
-    ]
-  },
-  {
-    "slug": "3x-ui",
-    "name": "3x-ui",
-    "repo": "MHSanaei/3x-ui",
-    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
-    "category": "ecosystem",
-    "platforms": [
-      "linux"
-    ],
-    "tags": [
-      "x-ui",
-      "panel",
-      "xray-core"
     ]
   },
   {

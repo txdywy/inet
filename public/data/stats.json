@@ -1,25 +1,25 @@
 {
-  "totalItems": 455,
-  "last24h": 14,
-  "last7d": 60,
+  "totalItems": 459,
+  "last24h": 15,
+  "last7d": 62,
   "byCategory": {
     "core": 82,
-    "client": 126,
+    "client": 127,
     "router": 1,
     "protocol": 36,
     "dns_rules": 5,
     "security": 5,
-    "ecosystem": 200,
+    "ecosystem": 203,
     "trend": 0
   },
   "topProjects": [
     {
-      "project": "mihomo",
+      "project": "domain-list-community",
       "count": 51
     },
     {
-      "project": "domain-list-community",
-      "count": 49
+      "project": "mihomo",
+      "count": 51
     },
     {
       "project": "Sub-Store",
@@ -46,12 +46,12 @@
       "count": 15
     },
     {
-      "project": "v2rayN",
+      "project": "v2rayNG",
       "count": 13
     },
     {
-      "project": "sing-box",
-      "count": 12
+      "project": "v2rayN",
+      "count": 13
     }
   ],
   "hotTags": [
@@ -61,7 +61,7 @@
     },
     {
       "tag": "v2fly",
-      "count": 53
+      "count": 55
     },
     {
       "tag": "mihomo",
@@ -73,7 +73,7 @@
     },
     {
       "tag": "Android",
-      "count": 38
+      "count": 39
     },
     {
       "tag": "v2ray",
@@ -92,11 +92,11 @@
       "count": 29
     },
     {
-      "tag": "meta-rules-dat",
-      "count": 27
+      "tag": "domain-list-community",
+      "count": 28
     },
     {
-      "tag": "domain-list-community",
+      "tag": "meta-rules-dat",
       "count": 27
     },
     {
@@ -120,6 +120,10 @@
       "count": 22
     },
     {
+      "tag": "domain-list",
+      "count": 20
+    },
+    {
       "tag": "ClashMetaForAndroid",
       "count": 20
     },
@@ -130,14 +134,10 @@
     {
       "tag": "代理工具",
       "count": 19
-    },
-    {
-      "tag": "domain-list",
-      "count": 19
     }
   ],
-  "importantCount": 159,
-  "breakingCount": 29,
-  "securityCount": 28,
-  "updatedAt": "2026-06-01T05:19:27.518Z"
+  "importantCount": 161,
+  "breakingCount": 30,
+  "securityCount": 30,
+  "updatedAt": "2026-06-01T12:11:50.596Z"
 }
