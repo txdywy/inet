@@ -1,10 +1,10 @@
 {
-  "totalItems": 459,
-  "last24h": 15,
-  "last7d": 62,
+  "totalItems": 460,
+  "last24h": 11,
+  "last7d": 63,
   "byCategory": {
     "core": 82,
-    "client": 127,
+    "client": 128,
     "router": 1,
     "protocol": 36,
     "dns_rules": 5,
@@ -35,7 +35,7 @@
     },
     {
       "project": "ClashMetaForAndroid",
-      "count": 20
+      "count": 21
     },
     {
       "project": "metacubexd",
@@ -120,11 +120,11 @@
       "count": 22
     },
     {
-      "tag": "domain-list",
-      "count": 20
+      "tag": "ClashMetaForAndroid",
+      "count": 21
     },
     {
-      "tag": "ClashMetaForAndroid",
+      "tag": "domain-list",
       "count": 20
     },
     {
@@ -139,5 +139,5 @@
   "importantCount": 161,
   "breakingCount": 30,
   "securityCount": 30,
-  "updatedAt": "2026-06-01T12:11:50.596Z"
+  "updatedAt": "2026-06-01T18:17:58.919Z"
 }

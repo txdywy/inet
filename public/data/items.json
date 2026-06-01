@@ -1,5 +1,40 @@
 [
   {
+    "id": "846df716307af036",
+    "title": "Prerelease-alpha",
+    "summary": "ClashMetaForAndroid 发布了预发布版本，修复了 HTTP 头部覆盖自定义更新间隔的问题。",
+    "analysis": "本次预发布版本主要修复了一个影响用户自定义更新间隔的 bug，具体是防止 HTTP 头部覆盖这些设置。这个修复对于用户来说非常重要，因为它确保了用户可以按照自己的需求设置更新频率，而不会被外部请求所干扰。对于开发者而言，这一改动提升了应用的稳定性和可预测性，减少了潜在的用户困扰。虽然此次更新没有涉及协议变化，但修复的内容与网络请求的处理密切相关。由于这是一个预发布版本，用户在更新时应注意可能存在的其他未公开问题，建议在非生产环境中进行测试后再决定是否全面更新。",
+    "rawTitle": "Prerelease-alpha",
+    "rawBody": "## What's Changed\n* fix(profile): prevent HTTP header from overriding custom update intervals by @AlexFozor in https://github.com/MetaCubeX/ClashMetaForAndroid/pull/757\n\n\n**Full Changelog**: https://github.com/MetaCubeX/ClashMetaForAndroid/compare/v2.11.29...Prerelease-alpha",
+    "sourceType": "github_release",
+    "sourceName": "MetaCubeX/ClashMetaForAndroid",
+    "sourceUrl": "https://github.com/MetaCubeX/ClashMetaForAndroid/releases/tag/Prerelease-alpha",
+    "project": "ClashMetaForAndroid",
+    "repo": "MetaCubeX/ClashMetaForAndroid",
+    "slug": "clashmetaforandroid",
+    "version": "Prerelease-alpha",
+    "category": "client",
+    "tags": [
+      "ClashMetaForAndroid",
+      "HTTP",
+      "更新间隔",
+      "bug修复"
+    ],
+    "platforms": [
+      "android"
+    ],
+    "importance": 3,
+    "confidence": 0.9,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-06-01T17:18:49Z",
+    "fetchedAt": "2026-06-01T18:17:41.572Z",
+    "firstSeenAt": "2026-06-01T18:17:58.506Z",
+    "updatedAt": "2026-06-01T18:17:58.506Z",
+    "hash": "846df716307af036"
+  },
+  {
     "id": "642fbd2b19162b0f",
     "title": "20260601085329",
     "summary": "v2fly/domain-list-community 更新了更多的中国域名，提升了域名列表的丰富性。",

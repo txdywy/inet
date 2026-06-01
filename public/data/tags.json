@@ -80,14 +80,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "ClashMetaForAndroid",
+    "count": 21,
+    "category": "client"
+  },
+  {
     "tag": "domain-list",
     "count": 20,
     "category": "ecosystem"
-  },
-  {
-    "tag": "ClashMetaForAndroid",
-    "count": 20,
-    "category": "client"
   },
   {
     "tag": "sing-box",
@@ -350,6 +350,11 @@
     "category": "core"
   },
   {
+    "tag": "bug修复",
+    "count": 5,
+    "category": "client"
+  },
+  {
     "tag": "性能优化",
     "count": 5,
     "category": "client"
@@ -508,11 +513,6 @@
     "tag": "quic-go",
     "count": 4,
     "category": "protocol"
-  },
-  {
-    "tag": "bug修复",
-    "count": 4,
-    "category": "ecosystem"
   },
   {
     "tag": "nekoray",
@@ -693,6 +693,11 @@
     "tag": "protocol",
     "count": 3,
     "category": "protocol"
+  },
+  {
+    "tag": "HTTP",
+    "count": 2,
+    "category": "client"
   },
   {
     "tag": "并发配置",
@@ -918,6 +923,11 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "更新间隔",
+    "count": 1,
+    "category": "client"
   },
   {
     "tag": "Paint.NET",
@@ -1971,11 +1981,6 @@
   },
   {
     "tag": "最少延迟",
-    "count": 1,
-    "category": "core"
-  },
-  {
-    "tag": "HTTP",
     "count": 1,
     "category": "core"
   },
