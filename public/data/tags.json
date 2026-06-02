@@ -6,7 +6,7 @@
   },
   {
     "tag": "v2fly",
-    "count": 55,
+    "count": 56,
     "category": "ecosystem"
   },
   {
@@ -16,12 +16,12 @@
   },
   {
     "tag": "Sub-Store",
-    "count": 45,
-    "category": "ecosystem"
+    "count": 46,
+    "category": "protocol"
   },
   {
     "tag": "Android",
-    "count": 39,
+    "count": 40,
     "category": "client"
   },
   {
@@ -31,7 +31,7 @@
   },
   {
     "tag": "OpenVPN",
-    "count": 36,
+    "count": 37,
     "category": "client"
   },
   {
@@ -45,12 +45,12 @@
     "category": "ecosystem"
   },
   {
-    "tag": "meta-rules-dat",
-    "count": 28,
+    "tag": "domain-list-community",
+    "count": 29,
     "category": "ecosystem"
   },
   {
-    "tag": "domain-list-community",
+    "tag": "meta-rules-dat",
     "count": 28,
     "category": "ecosystem"
   },
@@ -65,14 +65,14 @@
     "category": "client"
   },
   {
+    "tag": "Tailscale",
+    "count": 24,
+    "category": "core"
+  },
+  {
     "tag": "HTTP/2",
     "count": 24,
     "category": "protocol"
-  },
-  {
-    "tag": "Tailscale",
-    "count": 23,
-    "category": "core"
   },
   {
     "tag": "Linux",
@@ -145,6 +145,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "v2rayNG",
+    "count": 14,
+    "category": "client"
+  },
+  {
     "tag": "VPN",
     "count": 14,
     "category": "core"
@@ -155,11 +160,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "v2rayNG",
-    "count": 13,
-    "category": "client"
-  },
-  {
     "tag": "v2rayN",
     "count": 13,
     "category": "client"
@@ -168,6 +168,11 @@
     "tag": "DNS",
     "count": 13,
     "category": "security"
+  },
+  {
+    "tag": "Xray-core",
+    "count": 12,
+    "category": "client"
   },
   {
     "tag": "3x-ui",
@@ -183,11 +188,6 @@
     "tag": "Hysteria",
     "count": 12,
     "category": "security"
-  },
-  {
-    "tag": "Xray-core",
-    "count": 11,
-    "category": "client"
   },
   {
     "tag": "naiveproxy",
@@ -218,6 +218,11 @@
     "tag": "SOCKS",
     "count": 10,
     "category": "client"
+  },
+  {
+    "tag": "VMess",
+    "count": 9,
+    "category": "protocol"
   },
   {
     "tag": "OpenWrt",
@@ -253,11 +258,6 @@
     "tag": "依赖更新",
     "count": 8,
     "category": "client"
-  },
-  {
-    "tag": "VMess",
-    "count": 8,
-    "category": "protocol"
   },
   {
     "tag": "Surge",
@@ -375,6 +375,11 @@
     "category": "client"
   },
   {
+    "tag": "TrustTunnel",
+    "count": 5,
+    "category": "protocol"
+  },
+  {
     "tag": "Docker",
     "count": 5,
     "category": "ecosystem"
@@ -480,11 +485,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "TrustTunnel",
-    "count": 4,
-    "category": "protocol"
-  },
-  {
     "tag": "多语言支持",
     "count": 4,
     "category": "client"
@@ -518,6 +518,11 @@
     "tag": "quic-go",
     "count": 4,
     "category": "protocol"
+  },
+  {
+    "tag": "clash-verge-rev",
+    "count": 4,
+    "category": "client"
   },
   {
     "tag": "nekoray",
@@ -680,11 +685,6 @@
     "category": "client"
   },
   {
-    "tag": "clash-verge-rev",
-    "count": 3,
-    "category": "client"
-  },
-  {
     "tag": "Alpha",
     "count": 3,
     "category": "ecosystem"
@@ -692,6 +692,11 @@
   {
     "tag": "protocol",
     "count": 3,
+    "category": "protocol"
+  },
+  {
+    "tag": "加密协议",
+    "count": 2,
     "category": "protocol"
   },
   {
@@ -928,6 +933,11 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "adygtelecom",
+    "count": 1,
+    "category": "ecosystem"
   },
   {
     "tag": "i18n",
@@ -1675,11 +1685,6 @@
     "category": "core"
   },
   {
-    "tag": "加密协议",
-    "count": 1,
-    "category": "client"
-  },
-  {
     "tag": "debugging",
     "count": 1,
     "category": "core"
@@ -2053,6 +2058,11 @@
     "tag": "gost",
     "count": 1,
     "category": "core"
+  },
+  {
+    "tag": "CVD",
+    "count": 1,
+    "category": "client"
   },
   {
     "tag": "GostRelay",
