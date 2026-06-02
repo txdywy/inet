@@ -1,21 +1,21 @@
 {
-  "totalItems": 470,
-  "last24h": 9,
-  "last7d": 67,
+  "totalItems": 475,
+  "last24h": 14,
+  "last7d": 68,
   "byCategory": {
     "core": 84,
-    "client": 131,
+    "client": 132,
     "router": 1,
     "protocol": 38,
     "dns_rules": 5,
     "security": 5,
-    "ecosystem": 206,
+    "ecosystem": 210,
     "trend": 0
   },
   "topProjects": [
     {
       "project": "domain-list-community",
-      "count": 52
+      "count": 54
     },
     {
       "project": "mihomo",
@@ -46,12 +46,12 @@
       "count": 16
     },
     {
-      "project": "v2rayNG",
+      "project": "v2rayN",
       "count": 14
     },
     {
-      "project": "v2rayN",
-      "count": 13
+      "project": "v2rayNG",
+      "count": 14
     }
   ],
   "hotTags": [
@@ -61,7 +61,7 @@
     },
     {
       "tag": "v2fly",
-      "count": 56
+      "count": 58
     },
     {
       "tag": "mihomo",
@@ -120,24 +120,24 @@
       "count": 23
     },
     {
-      "tag": "ClashMetaForAndroid",
+      "tag": "sing-box",
       "count": 21
     },
     {
       "tag": "domain-list",
-      "count": 20
+      "count": 21
     },
     {
-      "tag": "sing-box",
-      "count": 20
+      "tag": "ClashMetaForAndroid",
+      "count": 21
     },
     {
       "tag": "代理工具",
       "count": 19
     }
   ],
-  "importantCount": 165,
+  "importantCount": 166,
   "breakingCount": 31,
-  "securityCount": 32,
-  "updatedAt": "2026-06-02T10:57:16.840Z"
+  "securityCount": 33,
+  "updatedAt": "2026-06-02T16:57:37.908Z"
 }

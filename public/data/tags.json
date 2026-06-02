@@ -6,7 +6,7 @@
   },
   {
     "tag": "v2fly",
-    "count": 56,
+    "count": 58,
     "category": "ecosystem"
   },
   {
@@ -80,19 +80,19 @@
     "category": "core"
   },
   {
-    "tag": "ClashMetaForAndroid",
+    "tag": "sing-box",
     "count": 21,
-    "category": "client"
+    "category": "ecosystem"
   },
   {
     "tag": "domain-list",
-    "count": 20,
+    "count": 21,
     "category": "ecosystem"
   },
   {
-    "tag": "sing-box",
-    "count": 20,
-    "category": "ecosystem"
+    "tag": "ClashMetaForAndroid",
+    "count": 21,
+    "category": "client"
   },
   {
     "tag": "代理工具",
@@ -140,9 +140,19 @@
     "category": "client"
   },
   {
+    "tag": "Xray",
+    "count": 15,
+    "category": "client"
+  },
+  {
     "tag": "dat",
     "count": 15,
     "category": "ecosystem"
+  },
+  {
+    "tag": "v2rayN",
+    "count": 14,
+    "category": "client"
   },
   {
     "tag": "v2rayNG",
@@ -155,14 +165,9 @@
     "category": "core"
   },
   {
-    "tag": "Xray",
-    "count": 14,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "v2rayN",
+    "tag": "SagerNet",
     "count": 13,
-    "category": "client"
+    "category": "ecosystem"
   },
   {
     "tag": "DNS",
@@ -180,14 +185,14 @@
     "category": "core"
   },
   {
-    "tag": "SagerNet",
-    "count": 12,
-    "category": "ecosystem"
-  },
-  {
     "tag": "Hysteria",
     "count": 12,
     "category": "security"
+  },
+  {
+    "tag": "SOCKS",
+    "count": 11,
+    "category": "client"
   },
   {
     "tag": "naiveproxy",
@@ -198,6 +203,11 @@
     "tag": "Snell",
     "count": 11,
     "category": "protocol"
+  },
+  {
+    "tag": "go-gost",
+    "count": 10,
+    "category": "ecosystem"
   },
   {
     "tag": "TLS",
@@ -215,22 +225,12 @@
     "category": "ecosystem"
   },
   {
-    "tag": "SOCKS",
-    "count": 10,
-    "category": "client"
-  },
-  {
     "tag": "VMess",
     "count": 9,
     "category": "protocol"
   },
   {
     "tag": "OpenWrt",
-    "count": 9,
-    "category": "core"
-  },
-  {
-    "tag": "go-gost",
     "count": 9,
     "category": "core"
   },
@@ -300,6 +300,16 @@
     "category": "client"
   },
   {
+    "tag": "Docker",
+    "count": 6,
+    "category": "ecosystem"
+  },
+  {
+    "tag": ".NET",
+    "count": 6,
+    "category": "client"
+  },
+  {
     "tag": "OpenClash",
     "count": 6,
     "category": "ecosystem"
@@ -350,17 +360,22 @@
     "category": "core"
   },
   {
+    "tag": "nftables",
+    "count": 5,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "中国域名",
+    "count": 5,
+    "category": "ecosystem"
+  },
+  {
     "tag": "bug修复",
     "count": 5,
     "category": "client"
   },
   {
     "tag": "性能优化",
-    "count": 5,
-    "category": "client"
-  },
-  {
-    "tag": ".NET",
     "count": 5,
     "category": "client"
   },
@@ -378,11 +393,6 @@
     "tag": "TrustTunnel",
     "count": 5,
     "category": "protocol"
-  },
-  {
-    "tag": "Docker",
-    "count": 5,
-    "category": "ecosystem"
   },
   {
     "tag": "UDP",
@@ -445,11 +455,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "中国域名",
-    "count": 4,
-    "category": "ecosystem"
-  },
-  {
     "tag": "加密",
     "count": 4,
     "category": "client"
@@ -500,11 +505,6 @@
     "category": "client"
   },
   {
-    "tag": "nftables",
-    "count": 4,
-    "category": "security"
-  },
-  {
     "tag": "gRPC",
     "count": 4,
     "category": "protocol"
@@ -528,6 +528,11 @@
     "tag": "nekoray",
     "count": 4,
     "category": "client"
+  },
+  {
+    "tag": "域名列表",
+    "count": 3,
+    "category": "ecosystem"
   },
   {
     "tag": "功能增强",
@@ -795,11 +800,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "域名列表",
-    "count": 2,
-    "category": "ecosystem"
-  },
-  {
     "tag": "Bug修复",
     "count": 2,
     "category": "client"
@@ -933,6 +933,16 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "依赖管理",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "telegram",
+    "count": 1,
+    "category": "ecosystem"
   },
   {
     "tag": "adygtelecom",
