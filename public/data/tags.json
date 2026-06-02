@@ -1,8 +1,8 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 94,
-    "category": "ecosystem"
+    "count": 97,
+    "category": "client"
   },
   {
     "tag": "v2fly",
@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 52,
+    "count": 53,
     "category": "client"
   },
   {
@@ -26,12 +26,12 @@
   },
   {
     "tag": "v2ray",
-    "count": 36,
+    "count": 37,
     "category": "ecosystem"
   },
   {
     "tag": "OpenVPN",
-    "count": 35,
+    "count": 36,
     "category": "client"
   },
   {
@@ -41,17 +41,17 @@
   },
   {
     "tag": "Loyalsoldier",
-    "count": 29,
+    "count": 30,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "meta-rules-dat",
+    "count": 28,
     "category": "ecosystem"
   },
   {
     "tag": "domain-list-community",
     "count": 28,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "meta-rules-dat",
-    "count": 27,
     "category": "ecosystem"
   },
   {
@@ -70,14 +70,14 @@
     "category": "protocol"
   },
   {
-    "tag": "Linux",
+    "tag": "Tailscale",
     "count": 23,
     "category": "core"
   },
   {
-    "tag": "Tailscale",
-    "count": 22,
-    "category": "ecosystem"
+    "tag": "Linux",
+    "count": 23,
+    "category": "core"
   },
   {
     "tag": "ClashMetaForAndroid",
@@ -115,6 +115,16 @@
     "category": "ecosystem"
   },
   {
+    "tag": "metacubexd",
+    "count": 16,
+    "category": "client"
+  },
+  {
+    "tag": "代理",
+    "count": 16,
+    "category": "ecosystem"
+  },
+  {
     "tag": "网络协议",
     "count": 16,
     "category": "core"
@@ -130,19 +140,14 @@
     "category": "client"
   },
   {
-    "tag": "代理",
-    "count": 15,
-    "category": "ecosystem"
-  },
-  {
     "tag": "dat",
     "count": 15,
     "category": "ecosystem"
   },
   {
-    "tag": "metacubexd",
-    "count": 15,
-    "category": "client"
+    "tag": "VPN",
+    "count": 14,
+    "category": "core"
   },
   {
     "tag": "Xray",
@@ -165,9 +170,9 @@
     "category": "security"
   },
   {
-    "tag": "VPN",
-    "count": 13,
-    "category": "ecosystem"
+    "tag": "3x-ui",
+    "count": 12,
+    "category": "core"
   },
   {
     "tag": "SagerNet",
@@ -178,11 +183,6 @@
     "tag": "Hysteria",
     "count": 12,
     "category": "security"
-  },
-  {
-    "tag": "3x-ui",
-    "count": 11,
-    "category": "ecosystem"
   },
   {
     "tag": "Xray-core",
@@ -198,6 +198,11 @@
     "tag": "Snell",
     "count": 11,
     "category": "protocol"
+  },
+  {
+    "tag": "TLS",
+    "count": 10,
+    "category": "core"
   },
   {
     "tag": "Clash",
@@ -225,11 +230,6 @@
     "category": "core"
   },
   {
-    "tag": "TLS",
-    "count": 9,
-    "category": "client"
-  },
-  {
     "tag": "SUDOKU-ASCII",
     "count": 9,
     "category": "ecosystem"
@@ -243,6 +243,11 @@
     "tag": "CBC",
     "count": 9,
     "category": "ecosystem"
+  },
+  {
+    "tag": "WireGuard",
+    "count": 8,
+    "category": "core"
   },
   {
     "tag": "依赖更新",
@@ -293,11 +298,6 @@
     "tag": "快捷方式",
     "count": 7,
     "category": "client"
-  },
-  {
-    "tag": "WireGuard",
-    "count": 7,
-    "category": "ecosystem"
   },
   {
     "tag": "OpenClash",
@@ -435,6 +435,11 @@
     "category": "protocol"
   },
   {
+    "tag": "网络规则",
+    "count": 4,
+    "category": "ecosystem"
+  },
+  {
     "tag": "中国域名",
     "count": 4,
     "category": "ecosystem"
@@ -533,11 +538,6 @@
     "tag": "安全修复",
     "count": 3,
     "category": "core"
-  },
-  {
-    "tag": "网络规则",
-    "count": 3,
-    "category": "ecosystem"
   },
   {
     "tag": "远程控制",
@@ -693,6 +693,11 @@
     "tag": "protocol",
     "count": 3,
     "category": "protocol"
+  },
+  {
+    "tag": "Cloudflare",
+    "count": 2,
+    "category": "core"
   },
   {
     "tag": "HTTP",
@@ -925,6 +930,26 @@
     "category": "security"
   },
   {
+    "tag": "i18n",
+    "count": 1,
+    "category": "client"
+  },
+  {
+    "tag": "本地化",
+    "count": 1,
+    "category": "client"
+  },
+  {
+    "tag": "Unix",
+    "count": 1,
+    "category": "core"
+  },
+  {
+    "tag": "PostgreSQL",
+    "count": 1,
+    "category": "core"
+  },
+  {
     "tag": "更新间隔",
     "count": 1,
     "category": "client"
@@ -1038,11 +1063,6 @@
     "tag": "arena.ai",
     "count": 1,
     "category": "ecosystem"
-  },
-  {
-    "tag": "Cloudflare",
-    "count": 1,
-    "category": "client"
   },
   {
     "tag": "CI/CD",
@@ -2143,6 +2163,11 @@
     "tag": "Pushover",
     "count": 1,
     "category": "ecosystem"
+  },
+  {
+    "tag": "ping keepalive",
+    "count": 1,
+    "category": "protocol"
   },
   {
     "tag": "加密算法",

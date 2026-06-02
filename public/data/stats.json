@@ -1,24 +1,24 @@
 {
-  "totalItems": 460,
+  "totalItems": 466,
   "last24h": 11,
-  "last7d": 63,
+  "last7d": 66,
   "byCategory": {
-    "core": 82,
-    "client": 128,
+    "core": 84,
+    "client": 129,
     "router": 1,
-    "protocol": 36,
+    "protocol": 37,
     "dns_rules": 5,
     "security": 5,
-    "ecosystem": 203,
+    "ecosystem": 205,
     "trend": 0
   },
   "topProjects": [
     {
-      "project": "domain-list-community",
-      "count": 51
+      "project": "mihomo",
+      "count": 52
     },
     {
-      "project": "mihomo",
+      "project": "domain-list-community",
       "count": 51
     },
     {
@@ -27,11 +27,11 @@
     },
     {
       "project": "v2ray-rules-dat",
-      "count": 30
+      "count": 31
     },
     {
       "project": "meta-rules-dat",
-      "count": 27
+      "count": 28
     },
     {
       "project": "ClashMetaForAndroid",
@@ -39,7 +39,7 @@
     },
     {
       "project": "metacubexd",
-      "count": 17
+      "count": 18
     },
     {
       "project": "clash-verge-rev",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 94
+      "count": 97
     },
     {
       "tag": "v2fly",
@@ -65,7 +65,7 @@
     },
     {
       "tag": "mihomo",
-      "count": 52
+      "count": 53
     },
     {
       "tag": "Sub-Store",
@@ -77,11 +77,11 @@
     },
     {
       "tag": "v2ray",
-      "count": 36
+      "count": 37
     },
     {
       "tag": "OpenVPN",
-      "count": 35
+      "count": 36
     },
     {
       "tag": "网络代理",
@@ -89,15 +89,15 @@
     },
     {
       "tag": "Loyalsoldier",
-      "count": 29
+      "count": 30
+    },
+    {
+      "tag": "meta-rules-dat",
+      "count": 28
     },
     {
       "tag": "domain-list-community",
       "count": 28
-    },
-    {
-      "tag": "meta-rules-dat",
-      "count": 27
     },
     {
       "tag": "rules",
@@ -112,12 +112,12 @@
       "count": 24
     },
     {
-      "tag": "Linux",
+      "tag": "Tailscale",
       "count": 23
     },
     {
-      "tag": "Tailscale",
-      "count": 22
+      "tag": "Linux",
+      "count": 23
     },
     {
       "tag": "ClashMetaForAndroid",
@@ -136,8 +136,8 @@
       "count": 19
     }
   ],
-  "importantCount": 161,
+  "importantCount": 163,
   "breakingCount": 30,
   "securityCount": 30,
-  "updatedAt": "2026-06-01T21:43:18.934Z"
+  "updatedAt": "2026-06-02T05:02:48.517Z"
 }
