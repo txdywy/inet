@@ -1,17 +1,17 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 99,
+    "count": 101,
     "category": "ecosystem"
   },
   {
     "tag": "v2fly",
-    "count": 62,
+    "count": 64,
     "category": "ecosystem"
   },
   {
     "tag": "mihomo",
-    "count": 54,
+    "count": 55,
     "category": "client"
   },
   {
@@ -25,14 +25,14 @@
     "category": "client"
   },
   {
+    "tag": "OpenVPN",
+    "count": 39,
+    "category": "client"
+  },
+  {
     "tag": "v2ray",
     "count": 38,
     "category": "ecosystem"
-  },
-  {
-    "tag": "OpenVPN",
-    "count": 38,
-    "category": "client"
   },
   {
     "tag": "网络代理",
@@ -41,7 +41,7 @@
   },
   {
     "tag": "domain-list-community",
-    "count": 32,
+    "count": 33,
     "category": "ecosystem"
   },
   {
@@ -51,7 +51,7 @@
   },
   {
     "tag": "meta-rules-dat",
-    "count": 29,
+    "count": 30,
     "category": "ecosystem"
   },
   {
@@ -75,14 +75,14 @@
     "category": "protocol"
   },
   {
+    "tag": "domain-list",
+    "count": 23,
+    "category": "ecosystem"
+  },
+  {
     "tag": "Linux",
     "count": 23,
     "category": "core"
-  },
-  {
-    "tag": "domain-list",
-    "count": 22,
-    "category": "ecosystem"
   },
   {
     "tag": "sing-box",
@@ -93,6 +93,11 @@
     "tag": "ClashMetaForAndroid",
     "count": 21,
     "category": "client"
+  },
+  {
+    "tag": "开源",
+    "count": 19,
+    "category": "ecosystem"
   },
   {
     "tag": "代理工具",
@@ -107,11 +112,6 @@
   {
     "tag": "CHACHA20-POLY1305",
     "count": 19,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "开源",
-    "count": 18,
     "category": "ecosystem"
   },
   {
@@ -953,6 +953,16 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "俄罗斯国家媒体",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "教育",
+    "count": 1,
+    "category": "ecosystem"
   },
   {
     "tag": "jivara.global",
@@ -2218,6 +2228,16 @@
     "tag": "Pushover",
     "count": 1,
     "category": "ecosystem"
+  },
+  {
+    "tag": "ping",
+    "count": 1,
+    "category": "client"
+  },
+  {
+    "tag": "保持连接",
+    "count": 1,
+    "category": "client"
   },
   {
     "tag": "加密算法",

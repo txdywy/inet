@@ -1,25 +1,25 @@
 {
-  "totalItems": 485,
-  "last24h": 17,
-  "last7d": 74,
+  "totalItems": 489,
+  "last24h": 14,
+  "last7d": 72,
   "byCategory": {
     "core": 84,
-    "client": 134,
+    "client": 135,
     "router": 1,
     "protocol": 39,
     "dns_rules": 5,
     "security": 5,
-    "ecosystem": 217,
+    "ecosystem": 220,
     "trend": 0
   },
   "topProjects": [
     {
       "project": "domain-list-community",
-      "count": 58
+      "count": 60
     },
     {
       "project": "mihomo",
-      "count": 53
+      "count": 54
     },
     {
       "project": "Sub-Store",
@@ -31,7 +31,7 @@
     },
     {
       "project": "meta-rules-dat",
-      "count": 29
+      "count": 30
     },
     {
       "project": "ClashMetaForAndroid",
@@ -57,15 +57,15 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 99
+      "count": 101
     },
     {
       "tag": "v2fly",
-      "count": 62
+      "count": 64
     },
     {
       "tag": "mihomo",
-      "count": 54
+      "count": 55
     },
     {
       "tag": "Sub-Store",
@@ -76,11 +76,11 @@
       "count": 41
     },
     {
-      "tag": "v2ray",
-      "count": 38
+      "tag": "OpenVPN",
+      "count": 39
     },
     {
-      "tag": "OpenVPN",
+      "tag": "v2ray",
       "count": 38
     },
     {
@@ -89,7 +89,7 @@
     },
     {
       "tag": "domain-list-community",
-      "count": 32
+      "count": 33
     },
     {
       "tag": "Loyalsoldier",
@@ -97,7 +97,7 @@
     },
     {
       "tag": "meta-rules-dat",
-      "count": 29
+      "count": 30
     },
     {
       "tag": "rules",
@@ -116,12 +116,12 @@
       "count": 24
     },
     {
-      "tag": "Linux",
+      "tag": "domain-list",
       "count": 23
     },
     {
-      "tag": "domain-list",
-      "count": 22
+      "tag": "Linux",
+      "count": 23
     },
     {
       "tag": "sing-box",
@@ -132,12 +132,12 @@
       "count": 21
     },
     {
-      "tag": "代理工具",
+      "tag": "开源",
       "count": 19
     }
   ],
   "importantCount": 168,
   "breakingCount": 32,
   "securityCount": 35,
-  "updatedAt": "2026-06-03T05:20:58.397Z"
+  "updatedAt": "2026-06-03T11:24:30.991Z"
 }
