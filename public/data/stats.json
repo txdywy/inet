@@ -1,7 +1,7 @@
 {
-  "totalItems": 494,
-  "last24h": 15,
-  "last7d": 73,
+  "totalItems": 496,
+  "last24h": 17,
+  "last7d": 75,
   "byCategory": {
     "core": 85,
     "client": 135,
@@ -9,7 +9,7 @@
     "protocol": 39,
     "dns_rules": 6,
     "security": 5,
-    "ecosystem": 223,
+    "ecosystem": 225,
     "trend": 0
   },
   "topProjects": [
@@ -23,7 +23,7 @@
     },
     {
       "project": "Sub-Store",
-      "count": 48
+      "count": 49
     },
     {
       "project": "v2ray-rules-dat",
@@ -69,7 +69,7 @@
     },
     {
       "tag": "Sub-Store",
-      "count": 48
+      "count": 49
     },
     {
       "tag": "Android",
@@ -133,11 +133,11 @@
     },
     {
       "tag": "开源",
-      "count": 19
+      "count": 20
     }
   ],
-  "importantCount": 169,
+  "importantCount": 170,
   "breakingCount": 32,
-  "securityCount": 35,
-  "updatedAt": "2026-06-03T17:20:51.047Z"
+  "securityCount": 36,
+  "updatedAt": "2026-06-03T21:29:43.221Z"
 }
