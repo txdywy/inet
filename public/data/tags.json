@@ -1,57 +1,57 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 97,
-    "category": "client"
+    "count": 99,
+    "category": "ecosystem"
   },
   {
     "tag": "v2fly",
-    "count": 58,
+    "count": 62,
     "category": "ecosystem"
   },
   {
     "tag": "mihomo",
-    "count": 53,
+    "count": 54,
     "category": "client"
   },
   {
     "tag": "Sub-Store",
-    "count": 46,
-    "category": "protocol"
+    "count": 47,
+    "category": "ecosystem"
   },
   {
     "tag": "Android",
-    "count": 40,
+    "count": 41,
     "category": "client"
   },
   {
     "tag": "v2ray",
-    "count": 37,
+    "count": 38,
     "category": "ecosystem"
   },
   {
     "tag": "OpenVPN",
-    "count": 37,
+    "count": 38,
     "category": "client"
   },
   {
     "tag": "网络代理",
-    "count": 33,
-    "category": "protocol"
-  },
-  {
-    "tag": "Loyalsoldier",
-    "count": 30,
+    "count": 34,
     "category": "ecosystem"
   },
   {
     "tag": "domain-list-community",
-    "count": 29,
+    "count": 32,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "Loyalsoldier",
+    "count": 31,
     "category": "ecosystem"
   },
   {
     "tag": "meta-rules-dat",
-    "count": 28,
+    "count": 29,
     "category": "ecosystem"
   },
   {
@@ -80,12 +80,12 @@
     "category": "core"
   },
   {
-    "tag": "sing-box",
-    "count": 21,
+    "tag": "domain-list",
+    "count": 22,
     "category": "ecosystem"
   },
   {
-    "tag": "domain-list",
+    "tag": "sing-box",
     "count": 21,
     "category": "ecosystem"
   },
@@ -111,6 +111,11 @@
   },
   {
     "tag": "开源",
+    "count": 18,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "代理",
     "count": 17,
     "category": "ecosystem"
   },
@@ -118,11 +123,6 @@
     "tag": "metacubexd",
     "count": 16,
     "category": "client"
-  },
-  {
-    "tag": "代理",
-    "count": 16,
-    "category": "ecosystem"
   },
   {
     "tag": "网络协议",
@@ -140,7 +140,17 @@
     "category": "client"
   },
   {
+    "tag": "v2rayN",
+    "count": 15,
+    "category": "client"
+  },
+  {
     "tag": "Xray",
+    "count": 15,
+    "category": "client"
+  },
+  {
+    "tag": "v2rayNG",
     "count": 15,
     "category": "client"
   },
@@ -148,16 +158,6 @@
     "tag": "dat",
     "count": 15,
     "category": "ecosystem"
-  },
-  {
-    "tag": "v2rayN",
-    "count": 14,
-    "category": "client"
-  },
-  {
-    "tag": "v2rayNG",
-    "count": 14,
-    "category": "client"
   },
   {
     "tag": "VPN",
@@ -170,12 +170,17 @@
     "category": "ecosystem"
   },
   {
+    "tag": "Xray-core",
+    "count": 13,
+    "category": "client"
+  },
+  {
     "tag": "DNS",
     "count": 13,
     "category": "security"
   },
   {
-    "tag": "Xray-core",
+    "tag": "SOCKS",
     "count": 12,
     "category": "client"
   },
@@ -188,11 +193,6 @@
     "tag": "Hysteria",
     "count": 12,
     "category": "security"
-  },
-  {
-    "tag": "SOCKS",
-    "count": 11,
-    "category": "client"
   },
   {
     "tag": "naiveproxy",
@@ -285,6 +285,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": ".NET",
+    "count": 7,
+    "category": "client"
+  },
+  {
     "tag": "shadowsocks",
     "count": 7,
     "category": "ecosystem"
@@ -303,11 +308,6 @@
     "tag": "Docker",
     "count": 6,
     "category": "ecosystem"
-  },
-  {
-    "tag": ".NET",
-    "count": 6,
-    "category": "client"
   },
   {
     "tag": "OpenClash",
@@ -358,6 +358,11 @@
     "tag": "rust",
     "count": 6,
     "category": "core"
+  },
+  {
+    "tag": "网络规则",
+    "count": 5,
+    "category": "ecosystem"
   },
   {
     "tag": "nftables",
@@ -448,11 +453,6 @@
     "tag": "tuic",
     "count": 5,
     "category": "protocol"
-  },
-  {
-    "tag": "网络规则",
-    "count": 4,
-    "category": "ecosystem"
   },
   {
     "tag": "加密",
@@ -700,6 +700,21 @@
     "category": "protocol"
   },
   {
+    "tag": "域名",
+    "count": 2,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "后端",
+    "count": 2,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "证书验证",
+    "count": 2,
+    "category": "client"
+  },
+  {
     "tag": "加密协议",
     "count": 2,
     "category": "protocol"
@@ -925,6 +940,11 @@
     "category": "client"
   },
   {
+    "tag": "ping keepalive",
+    "count": 2,
+    "category": "protocol"
+  },
+  {
     "tag": "命令行工具",
     "count": 2,
     "category": "ecosystem"
@@ -933,6 +953,31 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "jivara.global",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "娱乐",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "字母表",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "CORS",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "应用模块",
+    "count": 1,
+    "category": "ecosystem"
   },
   {
     "tag": "依赖管理",
@@ -995,11 +1040,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "后端",
-    "count": 1,
-    "category": "core"
-  },
-  {
     "tag": "core",
     "count": 1,
     "category": "core"
@@ -1038,11 +1078,6 @@
     "tag": "延迟测量",
     "count": 1,
     "category": "client"
-  },
-  {
-    "tag": "域名",
-    "count": 1,
-    "category": "ecosystem"
   },
   {
     "tag": "PWA",
@@ -2183,11 +2218,6 @@
     "tag": "Pushover",
     "count": 1,
     "category": "ecosystem"
-  },
-  {
-    "tag": "ping keepalive",
-    "count": 1,
-    "category": "protocol"
   },
   {
     "tag": "加密算法",
