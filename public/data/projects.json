@@ -198,22 +198,6 @@
     ]
   },
   {
-    "slug": "naiveproxy",
-    "name": "naiveproxy",
-    "repo": "klzgrad/naiveproxy",
-    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
-    "category": "core",
-    "platforms": [
-      "linux",
-      "windows",
-      "macos",
-      "android"
-    ],
-    "tags": [
-      "naiveproxy"
-    ]
-  },
-  {
     "slug": "gost",
     "name": "gost",
     "repo": "go-gost/gost",
@@ -227,6 +211,22 @@
     "tags": [
       "gost",
       "tunnel"
+    ]
+  },
+  {
+    "slug": "naiveproxy",
+    "name": "naiveproxy",
+    "repo": "klzgrad/naiveproxy",
+    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
+    "category": "core",
+    "platforms": [
+      "linux",
+      "windows",
+      "macos",
+      "android"
+    ],
+    "tags": [
+      "naiveproxy"
     ]
   },
   {

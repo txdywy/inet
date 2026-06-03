@@ -1,21 +1,21 @@
 {
-  "totalItems": 489,
-  "last24h": 14,
-  "last7d": 72,
+  "totalItems": 494,
+  "last24h": 15,
+  "last7d": 73,
   "byCategory": {
-    "core": 84,
+    "core": 85,
     "client": 135,
     "router": 1,
     "protocol": 39,
-    "dns_rules": 5,
+    "dns_rules": 6,
     "security": 5,
-    "ecosystem": 220,
+    "ecosystem": 223,
     "trend": 0
   },
   "topProjects": [
     {
       "project": "domain-list-community",
-      "count": 60
+      "count": 62
     },
     {
       "project": "mihomo",
@@ -23,7 +23,7 @@
     },
     {
       "project": "Sub-Store",
-      "count": 47
+      "count": 48
     },
     {
       "project": "v2ray-rules-dat",
@@ -31,7 +31,7 @@
     },
     {
       "project": "meta-rules-dat",
-      "count": 30
+      "count": 31
     },
     {
       "project": "ClashMetaForAndroid",
@@ -57,11 +57,11 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 101
+      "count": 102
     },
     {
       "tag": "v2fly",
-      "count": 64
+      "count": 66
     },
     {
       "tag": "mihomo",
@@ -69,7 +69,7 @@
     },
     {
       "tag": "Sub-Store",
-      "count": 47
+      "count": 48
     },
     {
       "tag": "Android",
@@ -84,20 +84,20 @@
       "count": 38
     },
     {
+      "tag": "domain-list-community",
+      "count": 34
+    },
+    {
       "tag": "网络代理",
       "count": 34
     },
     {
-      "tag": "domain-list-community",
-      "count": 33
+      "tag": "meta-rules-dat",
+      "count": 31
     },
     {
       "tag": "Loyalsoldier",
       "count": 31
-    },
-    {
-      "tag": "meta-rules-dat",
-      "count": 30
     },
     {
       "tag": "rules",
@@ -136,8 +136,8 @@
       "count": 19
     }
   ],
-  "importantCount": 168,
+  "importantCount": 169,
   "breakingCount": 32,
   "securityCount": 35,
-  "updatedAt": "2026-06-03T11:24:30.991Z"
+  "updatedAt": "2026-06-03T17:20:51.047Z"
 }

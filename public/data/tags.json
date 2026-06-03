@@ -1,12 +1,12 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 101,
+    "count": 102,
     "category": "ecosystem"
   },
   {
     "tag": "v2fly",
-    "count": 64,
+    "count": 66,
     "category": "ecosystem"
   },
   {
@@ -16,7 +16,7 @@
   },
   {
     "tag": "Sub-Store",
-    "count": 47,
+    "count": 48,
     "category": "ecosystem"
   },
   {
@@ -35,23 +35,23 @@
     "category": "ecosystem"
   },
   {
+    "tag": "domain-list-community",
+    "count": 34,
+    "category": "ecosystem"
+  },
+  {
     "tag": "网络代理",
     "count": 34,
     "category": "ecosystem"
   },
   {
-    "tag": "domain-list-community",
-    "count": 33,
+    "tag": "meta-rules-dat",
+    "count": 31,
     "category": "ecosystem"
   },
   {
     "tag": "Loyalsoldier",
     "count": 31,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "meta-rules-dat",
-    "count": 30,
     "category": "ecosystem"
   },
   {
@@ -195,6 +195,16 @@
     "category": "security"
   },
   {
+    "tag": "go-gost",
+    "count": 11,
+    "category": "core"
+  },
+  {
+    "tag": "网络工具",
+    "count": 11,
+    "category": "dns_rules"
+  },
+  {
     "tag": "naiveproxy",
     "count": 11,
     "category": "client"
@@ -205,22 +215,12 @@
     "category": "protocol"
   },
   {
-    "tag": "go-gost",
-    "count": 10,
-    "category": "ecosystem"
-  },
-  {
     "tag": "TLS",
     "count": 10,
     "category": "core"
   },
   {
     "tag": "Clash",
-    "count": 10,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "网络工具",
     "count": 10,
     "category": "ecosystem"
   },
@@ -360,6 +360,11 @@
     "category": "core"
   },
   {
+    "tag": "加密",
+    "count": 5,
+    "category": "ecosystem"
+  },
+  {
     "tag": "网络规则",
     "count": 5,
     "category": "ecosystem"
@@ -455,9 +460,9 @@
     "category": "protocol"
   },
   {
-    "tag": "加密",
+    "tag": "域名解析",
     "count": 4,
-    "category": "client"
+    "category": "dns_rules"
   },
   {
     "tag": "网络安全",
@@ -605,11 +610,6 @@
     "category": "client"
   },
   {
-    "tag": "域名解析",
-    "count": 3,
-    "category": "ecosystem"
-  },
-  {
     "tag": "gdocsviewer",
     "count": 3,
     "category": "core"
@@ -698,6 +698,21 @@
     "tag": "protocol",
     "count": 3,
     "category": "protocol"
+  },
+  {
+    "tag": "gost",
+    "count": 2,
+    "category": "core"
+  },
+  {
+    "tag": "依赖库",
+    "count": 2,
+    "category": "core"
+  },
+  {
+    "tag": "x",
+    "count": 2,
+    "category": "core"
   },
   {
     "tag": "域名",
@@ -955,6 +970,21 @@
     "category": "security"
   },
   {
+    "tag": "age",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "数据安全",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "nplus1.ru",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
     "tag": "俄罗斯国家媒体",
     "count": 1,
     "category": "ecosystem"
@@ -1101,11 +1131,6 @@
   },
   {
     "tag": "文档",
-    "count": 1,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "依赖库",
     "count": 1,
     "category": "ecosystem"
   },
@@ -1266,11 +1291,6 @@
   },
   {
     "tag": "规则库",
-    "count": 1,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "x",
     "count": 1,
     "category": "ecosystem"
   },
@@ -2106,11 +2126,6 @@
   },
   {
     "tag": "http client",
-    "count": 1,
-    "category": "core"
-  },
-  {
-    "tag": "gost",
     "count": 1,
     "category": "core"
   },
