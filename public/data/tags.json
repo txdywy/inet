@@ -1,17 +1,17 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 105,
+    "count": 108,
     "category": "client"
   },
   {
     "tag": "v2fly",
-    "count": 66,
-    "category": "ecosystem"
+    "count": 67,
+    "category": "dns_rules"
   },
   {
     "tag": "mihomo",
-    "count": 56,
+    "count": 57,
     "category": "client"
   },
   {
@@ -26,7 +26,7 @@
   },
   {
     "tag": "OpenVPN",
-    "count": 40,
+    "count": 41,
     "category": "client"
   },
   {
@@ -86,6 +86,11 @@
   },
   {
     "tag": "sing-box",
+    "count": 22,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "代理工具",
     "count": 21,
     "category": "ecosystem"
   },
@@ -95,14 +100,19 @@
     "category": "client"
   },
   {
-    "tag": "代理工具",
+    "tag": "代理",
     "count": 20,
-    "category": "ecosystem"
+    "category": "client"
   },
   {
     "tag": "开源",
     "count": 20,
     "category": "ecosystem"
+  },
+  {
+    "tag": "metacubexd",
+    "count": 19,
+    "category": "client"
   },
   {
     "tag": "VLESS",
@@ -115,18 +125,8 @@
     "category": "ecosystem"
   },
   {
-    "tag": "代理",
-    "count": 18,
-    "category": "client"
-  },
-  {
-    "tag": "metacubexd",
-    "count": 17,
-    "category": "client"
-  },
-  {
     "tag": "网络协议",
-    "count": 17,
+    "count": 18,
     "category": "core"
   },
   {
@@ -160,17 +160,17 @@
     "category": "ecosystem"
   },
   {
+    "tag": "SagerNet",
+    "count": 14,
+    "category": "ecosystem"
+  },
+  {
     "tag": "VPN",
     "count": 14,
     "category": "core"
   },
   {
     "tag": "3x-ui",
-    "count": 13,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "SagerNet",
     "count": 13,
     "category": "ecosystem"
   },
@@ -460,6 +460,11 @@
     "category": "protocol"
   },
   {
+    "tag": "域名列表",
+    "count": 4,
+    "category": "dns_rules"
+  },
+  {
     "tag": "路由",
     "count": 4,
     "category": "ecosystem"
@@ -543,11 +548,6 @@
     "tag": "nekoray",
     "count": 4,
     "category": "client"
-  },
-  {
-    "tag": "域名列表",
-    "count": 3,
-    "category": "ecosystem"
   },
   {
     "tag": "功能增强",
@@ -973,6 +973,31 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "延迟",
+    "count": 1,
+    "category": "client"
+  },
+  {
+    "tag": "图表",
+    "count": 1,
+    "category": "client"
+  },
+  {
+    "tag": "网络监测",
+    "count": 1,
+    "category": "core"
+  },
+  {
+    "tag": "腾讯",
+    "count": 1,
+    "category": "dns_rules"
+  },
+  {
+    "tag": "优酷",
+    "count": 1,
+    "category": "dns_rules"
   },
   {
     "tag": "排序",
