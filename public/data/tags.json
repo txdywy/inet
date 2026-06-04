@@ -1,17 +1,17 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 108,
+    "count": 109,
     "category": "client"
   },
   {
     "tag": "v2fly",
-    "count": 67,
-    "category": "dns_rules"
+    "count": 69,
+    "category": "ecosystem"
   },
   {
     "tag": "mihomo",
-    "count": 57,
+    "count": 58,
     "category": "client"
   },
   {
@@ -20,12 +20,12 @@
     "category": "ecosystem"
   },
   {
-    "tag": "Android",
-    "count": 41,
+    "tag": "OpenVPN",
+    "count": 42,
     "category": "client"
   },
   {
-    "tag": "OpenVPN",
+    "tag": "Android",
     "count": 41,
     "category": "client"
   },
@@ -36,7 +36,7 @@
   },
   {
     "tag": "domain-list-community",
-    "count": 34,
+    "count": 35,
     "category": "ecosystem"
   },
   {
@@ -65,6 +65,11 @@
     "category": "client"
   },
   {
+    "tag": "domain-list",
+    "count": 24,
+    "category": "ecosystem"
+  },
+  {
     "tag": "Tailscale",
     "count": 24,
     "category": "core"
@@ -75,7 +80,7 @@
     "category": "protocol"
   },
   {
-    "tag": "domain-list",
+    "tag": "sing-box",
     "count": 23,
     "category": "ecosystem"
   },
@@ -85,24 +90,19 @@
     "category": "core"
   },
   {
-    "tag": "sing-box",
+    "tag": "ClashMetaForAndroid",
     "count": 22,
-    "category": "ecosystem"
+    "category": "client"
+  },
+  {
+    "tag": "代理",
+    "count": 21,
+    "category": "client"
   },
   {
     "tag": "代理工具",
     "count": 21,
     "category": "ecosystem"
-  },
-  {
-    "tag": "ClashMetaForAndroid",
-    "count": 21,
-    "category": "client"
-  },
-  {
-    "tag": "代理",
-    "count": 20,
-    "category": "client"
   },
   {
     "tag": "开源",
@@ -145,6 +145,11 @@
     "category": "client"
   },
   {
+    "tag": "SagerNet",
+    "count": 15,
+    "category": "ecosystem"
+  },
+  {
     "tag": "v2rayN",
     "count": 15,
     "category": "client"
@@ -157,11 +162,6 @@
   {
     "tag": "dat",
     "count": 15,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "SagerNet",
-    "count": 14,
     "category": "ecosystem"
   },
   {
@@ -185,6 +185,11 @@
     "category": "security"
   },
   {
+    "tag": "网络工具",
+    "count": 12,
+    "category": "dns_rules"
+  },
+  {
     "tag": "SOCKS",
     "count": 12,
     "category": "client"
@@ -198,11 +203,6 @@
     "tag": "go-gost",
     "count": 11,
     "category": "core"
-  },
-  {
-    "tag": "网络工具",
-    "count": 11,
-    "category": "dns_rules"
   },
   {
     "tag": "naiveproxy",
@@ -223,6 +223,11 @@
     "tag": "Clash",
     "count": 10,
     "category": "ecosystem"
+  },
+  {
+    "tag": "依赖更新",
+    "count": 9,
+    "category": "client"
   },
   {
     "tag": "VMess",
@@ -253,11 +258,6 @@
     "tag": "WireGuard",
     "count": 8,
     "category": "core"
-  },
-  {
-    "tag": "依赖更新",
-    "count": 8,
-    "category": "client"
   },
   {
     "tag": "Surge",
@@ -550,6 +550,16 @@
     "category": "client"
   },
   {
+    "tag": "HTTP",
+    "count": 3,
+    "category": "client"
+  },
+  {
+    "tag": "域名",
+    "count": 3,
+    "category": "ecosystem"
+  },
+  {
     "tag": "功能增强",
     "count": 3,
     "category": "ecosystem"
@@ -720,11 +730,6 @@
     "category": "core"
   },
   {
-    "tag": "域名",
-    "count": 2,
-    "category": "ecosystem"
-  },
-  {
     "tag": "后端",
     "count": 2,
     "category": "ecosystem"
@@ -743,11 +748,6 @@
     "tag": "Cloudflare",
     "count": 2,
     "category": "core"
-  },
-  {
-    "tag": "HTTP",
-    "count": 2,
-    "category": "client"
   },
   {
     "tag": "并发配置",
@@ -973,6 +973,21 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "年龄密钥",
+    "count": 1,
+    "category": "client"
+  },
+  {
+    "tag": "地理位置",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "kurogames",
+    "count": 1,
+    "category": "ecosystem"
   },
   {
     "tag": "延迟",
