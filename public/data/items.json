@@ -1,5 +1,40 @@
 [
   {
+    "id": "20765753a4c79e96",
+    "title": "Prerelease-alpha",
+    "summary": "ClashMetaForAndroid 发布了预发布版本，修复了 HTTP 头部问题并支持年龄密钥。",
+    "analysis": "本次预发布版本主要进行了几个重要的更新和修复。首先，修复了一个问题，防止 HTTP 头部覆盖自定义更新间隔，这对于用户的配置管理至关重要。其次，新增了对年龄密钥的支持，这可能会增强用户在使用时的安全性和灵活性。此外，还更新了依赖项，确保项目的稳定性和兼容性。值得注意的是，更新中还修复了快捷方式图标和翻译问题，提升了用户体验。虽然此次更新没有明显的破坏性变更，但建议用户尽快更新以获得最新的功能和修复，尤其是涉及到配置和安全性的改进。整体来看，这次更新对用户和开发者都是积极的，尤其是对新贡献者的欢迎也显示了项目的活跃度。",
+    "rawTitle": "Prerelease-alpha",
+    "rawBody": "## What's Changed\n* fix(profile): prevent HTTP header from overriding custom update intervals by @AlexFozor in https://github.com/MetaCubeX/ClashMetaForAndroid/pull/757\n* Update Dependencies by @clash-meta-maintainer[bot] in https://github.com/MetaCubeX/ClashMetaForAndroid/pull/758\n* feat(profile): support age secret keys by @NevadaCities in https://github.com/MetaCubeX/ClashMetaForAndroid/pull/764\n* Fixed Shortcut icon, corrected translation. by @NevadaCities in https://github.com/MetaCubeX/ClashMetaForAndroid/pull/766\n\n## New Contributors\n* @NevadaCities made their first contribution in https://github.com/MetaCubeX/ClashMetaForAndroid/pull/764\n\n**Full Changelog**: https://github.com/MetaCubeX/ClashMetaForAndroid/compare/v2.11.29...Prerelease-alpha",
+    "sourceType": "github_release",
+    "sourceName": "MetaCubeX/ClashMetaForAndroid",
+    "sourceUrl": "https://github.com/MetaCubeX/ClashMetaForAndroid/releases/tag/Prerelease-alpha",
+    "project": "ClashMetaForAndroid",
+    "repo": "MetaCubeX/ClashMetaForAndroid",
+    "slug": "clashmetaforandroid",
+    "version": "Prerelease-alpha",
+    "category": "client",
+    "tags": [
+      "ClashMetaForAndroid",
+      "HTTP",
+      "年龄密钥",
+      "依赖更新"
+    ],
+    "platforms": [
+      "android"
+    ],
+    "importance": 3,
+    "confidence": 0.9,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-06-04T16:05:07Z",
+    "fetchedAt": "2026-06-04T20:22:47.802Z",
+    "firstSeenAt": "2026-06-04T20:23:03.440Z",
+    "updatedAt": "2026-06-04T20:23:03.440Z",
+    "hash": "20765753a4c79e96"
+  },
+  {
     "id": "0ef2a5680f6b8ce8",
     "title": "Prerelease-alpha",
     "summary": "ClashMetaForAndroid 发布了 Prerelease-alpha 版本，修复了 HTTP 头部覆盖问题，并支持年龄密钥。",

@@ -80,6 +80,11 @@
     "category": "protocol"
   },
   {
+    "tag": "ClashMetaForAndroid",
+    "count": 23,
+    "category": "client"
+  },
+  {
     "tag": "sing-box",
     "count": 23,
     "category": "ecosystem"
@@ -88,11 +93,6 @@
     "tag": "Linux",
     "count": 23,
     "category": "core"
-  },
-  {
-    "tag": "ClashMetaForAndroid",
-    "count": 22,
-    "category": "client"
   },
   {
     "tag": "代理",
@@ -215,6 +215,11 @@
     "category": "protocol"
   },
   {
+    "tag": "依赖更新",
+    "count": 10,
+    "category": "client"
+  },
+  {
     "tag": "TLS",
     "count": 10,
     "category": "core"
@@ -223,11 +228,6 @@
     "tag": "Clash",
     "count": 10,
     "category": "ecosystem"
-  },
-  {
-    "tag": "依赖更新",
-    "count": 9,
-    "category": "client"
   },
   {
     "tag": "VMess",
@@ -460,6 +460,11 @@
     "category": "protocol"
   },
   {
+    "tag": "HTTP",
+    "count": 4,
+    "category": "client"
+  },
+  {
     "tag": "域名列表",
     "count": 4,
     "category": "dns_rules"
@@ -547,11 +552,6 @@
   {
     "tag": "nekoray",
     "count": 4,
-    "category": "client"
-  },
-  {
-    "tag": "HTTP",
-    "count": 3,
     "category": "client"
   },
   {
@@ -708,6 +708,11 @@
     "tag": "protocol",
     "count": 3,
     "category": "protocol"
+  },
+  {
+    "tag": "年龄密钥",
+    "count": 2,
+    "category": "client"
   },
   {
     "tag": "age",
@@ -973,11 +978,6 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
-  },
-  {
-    "tag": "年龄密钥",
-    "count": 1,
-    "category": "client"
   },
   {
     "tag": "地理位置",

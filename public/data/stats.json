@@ -1,10 +1,10 @@
 {
-  "totalItems": 510,
+  "totalItems": 511,
   "last24h": 14,
-  "last7d": 84,
+  "last7d": 83,
   "byCategory": {
     "core": 86,
-    "client": 139,
+    "client": 140,
     "router": 1,
     "protocol": 40,
     "dns_rules": 7,
@@ -35,7 +35,7 @@
     },
     {
       "project": "ClashMetaForAndroid",
-      "count": 22
+      "count": 23
     },
     {
       "project": "metacubexd",
@@ -120,16 +120,16 @@
       "count": 24
     },
     {
+      "tag": "ClashMetaForAndroid",
+      "count": 23
+    },
+    {
       "tag": "sing-box",
       "count": 23
     },
     {
       "tag": "Linux",
       "count": 23
-    },
-    {
-      "tag": "ClashMetaForAndroid",
-      "count": 22
     },
     {
       "tag": "代理",
@@ -139,5 +139,5 @@
   "importantCount": 170,
   "breakingCount": 32,
   "securityCount": 36,
-  "updatedAt": "2026-06-04T15:46:58.900Z"
+  "updatedAt": "2026-06-04T20:23:03.864Z"
 }
