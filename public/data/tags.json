@@ -1,8 +1,8 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 102,
-    "category": "ecosystem"
+    "count": 105,
+    "category": "client"
   },
   {
     "tag": "v2fly",
@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 55,
+    "count": 56,
     "category": "client"
   },
   {
@@ -26,12 +26,12 @@
   },
   {
     "tag": "OpenVPN",
-    "count": 39,
+    "count": 40,
     "category": "client"
   },
   {
     "tag": "v2ray",
-    "count": 38,
+    "count": 39,
     "category": "ecosystem"
   },
   {
@@ -46,12 +46,12 @@
   },
   {
     "tag": "meta-rules-dat",
-    "count": 31,
+    "count": 32,
     "category": "ecosystem"
   },
   {
     "tag": "Loyalsoldier",
-    "count": 31,
+    "count": 32,
     "category": "ecosystem"
   },
   {
@@ -95,14 +95,14 @@
     "category": "client"
   },
   {
-    "tag": "开源",
+    "tag": "代理工具",
     "count": 20,
     "category": "ecosystem"
   },
   {
-    "tag": "代理工具",
-    "count": 19,
-    "category": "core"
+    "tag": "开源",
+    "count": 20,
+    "category": "ecosystem"
   },
   {
     "tag": "VLESS",
@@ -116,23 +116,23 @@
   },
   {
     "tag": "代理",
+    "count": 18,
+    "category": "client"
+  },
+  {
+    "tag": "metacubexd",
     "count": 17,
-    "category": "ecosystem"
+    "category": "client"
+  },
+  {
+    "tag": "网络协议",
+    "count": 17,
+    "category": "core"
   },
   {
     "tag": "Xray",
     "count": 16,
     "category": "ecosystem"
-  },
-  {
-    "tag": "metacubexd",
-    "count": 16,
-    "category": "client"
-  },
-  {
-    "tag": "网络协议",
-    "count": 16,
-    "category": "core"
   },
   {
     "tag": "QUIC",
@@ -305,6 +305,11 @@
     "category": "client"
   },
   {
+    "tag": "网络规则",
+    "count": 6,
+    "category": "ecosystem"
+  },
+  {
     "tag": "Docker",
     "count": 6,
     "category": "ecosystem"
@@ -361,11 +366,6 @@
   },
   {
     "tag": "加密",
-    "count": 5,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "网络规则",
     "count": 5,
     "category": "ecosystem"
   },
@@ -973,6 +973,11 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "排序",
+    "count": 1,
+    "category": "client"
   },
   {
     "tag": "仪表板",
