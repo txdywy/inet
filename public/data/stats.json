@@ -1,25 +1,25 @@
 {
-  "totalItems": 517,
-  "last24h": 15,
-  "last7d": 81,
+  "totalItems": 522,
+  "last24h": 14,
+  "last7d": 85,
   "byCategory": {
-    "core": 86,
-    "client": 142,
+    "core": 87,
+    "client": 143,
     "router": 1,
     "protocol": 40,
     "dns_rules": 7,
     "security": 5,
-    "ecosystem": 236,
+    "ecosystem": 239,
     "trend": 0
   },
   "topProjects": [
     {
       "project": "domain-list-community",
-      "count": 65
+      "count": 67
     },
     {
       "project": "mihomo",
-      "count": 58
+      "count": 59
     },
     {
       "project": "Sub-Store",
@@ -35,7 +35,7 @@
     },
     {
       "project": "ClashMetaForAndroid",
-      "count": 23
+      "count": 24
     },
     {
       "project": "metacubexd",
@@ -57,15 +57,15 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 112
+      "count": 113
     },
     {
       "tag": "v2fly",
-      "count": 69
+      "count": 71
     },
     {
       "tag": "mihomo",
-      "count": 59
+      "count": 60
     },
     {
       "tag": "Sub-Store",
@@ -73,7 +73,7 @@
     },
     {
       "tag": "OpenVPN",
-      "count": 43
+      "count": 44
     },
     {
       "tag": "Android",
@@ -85,7 +85,7 @@
     },
     {
       "tag": "domain-list-community",
-      "count": 35
+      "count": 36
     },
     {
       "tag": "网络代理",
@@ -108,6 +108,14 @@
       "count": 25
     },
     {
+      "tag": "ClashMetaForAndroid",
+      "count": 24
+    },
+    {
+      "tag": "代理",
+      "count": 24
+    },
+    {
       "tag": "domain-list",
       "count": 24
     },
@@ -120,14 +128,6 @@
       "count": 24
     },
     {
-      "tag": "代理",
-      "count": 23
-    },
-    {
-      "tag": "ClashMetaForAndroid",
-      "count": 23
-    },
-    {
       "tag": "sing-box",
       "count": 23
     },
@@ -136,8 +136,8 @@
       "count": 23
     }
   ],
-  "importantCount": 171,
+  "importantCount": 173,
   "breakingCount": 32,
-  "securityCount": 37,
-  "updatedAt": "2026-06-05T04:50:08.421Z"
+  "securityCount": 38,
+  "updatedAt": "2026-06-05T10:18:35.742Z"
 }
