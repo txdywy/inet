@@ -1,8 +1,8 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 109,
-    "category": "client"
+    "count": 112,
+    "category": "ecosystem"
   },
   {
     "tag": "v2fly",
@@ -11,17 +11,17 @@
   },
   {
     "tag": "mihomo",
-    "count": 58,
+    "count": 59,
     "category": "client"
   },
   {
     "tag": "Sub-Store",
-    "count": 49,
+    "count": 51,
     "category": "ecosystem"
   },
   {
     "tag": "OpenVPN",
-    "count": 42,
+    "count": 43,
     "category": "client"
   },
   {
@@ -31,7 +31,7 @@
   },
   {
     "tag": "v2ray",
-    "count": 39,
+    "count": 40,
     "category": "ecosystem"
   },
   {
@@ -46,17 +46,17 @@
   },
   {
     "tag": "meta-rules-dat",
-    "count": 32,
+    "count": 33,
     "category": "ecosystem"
   },
   {
     "tag": "Loyalsoldier",
-    "count": 32,
+    "count": 33,
     "category": "ecosystem"
   },
   {
     "tag": "rules",
-    "count": 25,
+    "count": 26,
     "category": "ecosystem"
   },
   {
@@ -80,6 +80,11 @@
     "category": "protocol"
   },
   {
+    "tag": "代理",
+    "count": 23,
+    "category": "client"
+  },
+  {
     "tag": "ClashMetaForAndroid",
     "count": 23,
     "category": "client"
@@ -95,24 +100,19 @@
     "category": "core"
   },
   {
-    "tag": "代理",
-    "count": 21,
+    "tag": "代理工具",
+    "count": 22,
     "category": "client"
   },
   {
-    "tag": "代理工具",
-    "count": 21,
-    "category": "ecosystem"
+    "tag": "metacubexd",
+    "count": 20,
+    "category": "client"
   },
   {
     "tag": "开源",
     "count": 20,
     "category": "ecosystem"
-  },
-  {
-    "tag": "metacubexd",
-    "count": 19,
-    "category": "client"
   },
   {
     "tag": "VLESS",
@@ -175,6 +175,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "网络工具",
+    "count": 13,
+    "category": "dns_rules"
+  },
+  {
     "tag": "Xray-core",
     "count": 13,
     "category": "client"
@@ -185,9 +190,9 @@
     "category": "security"
   },
   {
-    "tag": "网络工具",
+    "tag": "Snell",
     "count": 12,
-    "category": "dns_rules"
+    "category": "client"
   },
   {
     "tag": "SOCKS",
@@ -208,11 +213,6 @@
     "tag": "naiveproxy",
     "count": 11,
     "category": "client"
-  },
-  {
-    "tag": "Snell",
-    "count": 11,
-    "category": "protocol"
   },
   {
     "tag": "依赖更新",
@@ -305,6 +305,11 @@
     "category": "client"
   },
   {
+    "tag": "加密",
+    "count": 6,
+    "category": "ecosystem"
+  },
+  {
     "tag": "网络规则",
     "count": 6,
     "category": "ecosystem"
@@ -365,9 +370,9 @@
     "category": "core"
   },
   {
-    "tag": "加密",
+    "tag": "Shadowrocket",
     "count": 5,
-    "category": "ecosystem"
+    "category": "client"
   },
   {
     "tag": "nftables",
@@ -510,11 +515,6 @@
     "category": "dns_rules"
   },
   {
-    "tag": "Shadowrocket",
-    "count": 4,
-    "category": "ecosystem"
-  },
-  {
     "tag": "多语言支持",
     "count": 4,
     "category": "client"
@@ -553,6 +553,16 @@
     "tag": "nekoray",
     "count": 4,
     "category": "client"
+  },
+  {
+    "tag": "age",
+    "count": 3,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "脚本操作",
+    "count": 3,
+    "category": "ecosystem"
   },
   {
     "tag": "域名",
@@ -710,14 +720,14 @@
     "category": "protocol"
   },
   {
-    "tag": "年龄密钥",
+    "tag": "网络性能",
     "count": 2,
     "category": "client"
   },
   {
-    "tag": "age",
+    "tag": "年龄密钥",
     "count": 2,
-    "category": "ecosystem"
+    "category": "client"
   },
   {
     "tag": "gost",
@@ -806,11 +816,6 @@
   },
   {
     "tag": "分类更新",
-    "count": 2,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "脚本操作",
     "count": 2,
     "category": "ecosystem"
   },
@@ -2031,11 +2036,6 @@
   },
   {
     "tag": "entropy",
-    "count": 1,
-    "category": "core"
-  },
-  {
-    "tag": "网络性能",
     "count": 1,
     "category": "core"
   },

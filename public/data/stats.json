@@ -1,15 +1,15 @@
 {
-  "totalItems": 511,
-  "last24h": 14,
-  "last7d": 83,
+  "totalItems": 517,
+  "last24h": 15,
+  "last7d": 81,
   "byCategory": {
     "core": 86,
-    "client": 140,
+    "client": 142,
     "router": 1,
     "protocol": 40,
     "dns_rules": 7,
     "security": 5,
-    "ecosystem": 232,
+    "ecosystem": 236,
     "trend": 0
   },
   "topProjects": [
@@ -19,19 +19,19 @@
     },
     {
       "project": "mihomo",
-      "count": 57
+      "count": 58
     },
     {
       "project": "Sub-Store",
-      "count": 49
+      "count": 51
     },
     {
       "project": "v2ray-rules-dat",
-      "count": 33
+      "count": 34
     },
     {
       "project": "meta-rules-dat",
-      "count": 32
+      "count": 33
     },
     {
       "project": "ClashMetaForAndroid",
@@ -39,7 +39,7 @@
     },
     {
       "project": "metacubexd",
-      "count": 21
+      "count": 22
     },
     {
       "project": "clash-verge-rev",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 109
+      "count": 112
     },
     {
       "tag": "v2fly",
@@ -65,15 +65,15 @@
     },
     {
       "tag": "mihomo",
-      "count": 58
+      "count": 59
     },
     {
       "tag": "Sub-Store",
-      "count": 49
+      "count": 51
     },
     {
       "tag": "OpenVPN",
-      "count": 42
+      "count": 43
     },
     {
       "tag": "Android",
@@ -81,7 +81,7 @@
     },
     {
       "tag": "v2ray",
-      "count": 39
+      "count": 40
     },
     {
       "tag": "domain-list-community",
@@ -93,15 +93,15 @@
     },
     {
       "tag": "meta-rules-dat",
-      "count": 32
+      "count": 33
     },
     {
       "tag": "Loyalsoldier",
-      "count": 32
+      "count": 33
     },
     {
       "tag": "rules",
-      "count": 25
+      "count": 26
     },
     {
       "tag": "Windows",
@@ -120,6 +120,10 @@
       "count": 24
     },
     {
+      "tag": "代理",
+      "count": 23
+    },
+    {
       "tag": "ClashMetaForAndroid",
       "count": 23
     },
@@ -130,14 +134,10 @@
     {
       "tag": "Linux",
       "count": 23
-    },
-    {
-      "tag": "代理",
-      "count": 21
     }
   ],
-  "importantCount": 170,
+  "importantCount": 171,
   "breakingCount": 32,
-  "securityCount": 36,
-  "updatedAt": "2026-06-04T20:23:03.864Z"
+  "securityCount": 37,
+  "updatedAt": "2026-06-05T04:50:08.421Z"
 }
