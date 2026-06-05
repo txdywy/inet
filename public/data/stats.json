@@ -1,15 +1,15 @@
 {
-  "totalItems": 525,
-  "last24h": 13,
-  "last7d": 87,
+  "totalItems": 530,
+  "last24h": 16,
+  "last7d": 88,
   "byCategory": {
-    "core": 87,
-    "client": 144,
+    "core": 89,
+    "client": 145,
     "router": 1,
     "protocol": 40,
     "dns_rules": 8,
     "security": 5,
-    "ecosystem": 240,
+    "ecosystem": 242,
     "trend": 0
   },
   "topProjects": [
@@ -19,11 +19,11 @@
     },
     {
       "project": "mihomo",
-      "count": 59
+      "count": 60
     },
     {
       "project": "Sub-Store",
-      "count": 51
+      "count": 52
     },
     {
       "project": "v2ray-rules-dat",
@@ -39,7 +39,7 @@
     },
     {
       "project": "metacubexd",
-      "count": 22
+      "count": 23
     },
     {
       "project": "clash-verge-rev",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 113
+      "count": 115
     },
     {
       "tag": "v2fly",
@@ -65,15 +65,15 @@
     },
     {
       "tag": "mihomo",
-      "count": 60
+      "count": 61
     },
     {
       "tag": "Sub-Store",
-      "count": 51
+      "count": 52
     },
     {
       "tag": "OpenVPN",
-      "count": 44
+      "count": 45
     },
     {
       "tag": "Android",
@@ -108,12 +108,12 @@
       "count": 25
     },
     {
-      "tag": "Windows",
+      "tag": "代理",
       "count": 25
     },
     {
-      "tag": "代理",
-      "count": 24
+      "tag": "Windows",
+      "count": 25
     },
     {
       "tag": "domain-list",
@@ -128,16 +128,16 @@
       "count": 24
     },
     {
-      "tag": "sing-box",
+      "tag": "代理工具",
       "count": 23
     },
     {
-      "tag": "Linux",
+      "tag": "sing-box",
       "count": 23
     }
   ],
   "importantCount": 173,
   "breakingCount": 32,
   "securityCount": 38,
-  "updatedAt": "2026-06-05T15:29:34.067Z"
+  "updatedAt": "2026-06-05T20:09:44.077Z"
 }

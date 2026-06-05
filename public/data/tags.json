@@ -1,8 +1,8 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 113,
-    "category": "ecosystem"
+    "count": 115,
+    "category": "client"
   },
   {
     "tag": "v2fly",
@@ -11,17 +11,17 @@
   },
   {
     "tag": "mihomo",
-    "count": 60,
+    "count": 61,
     "category": "client"
   },
   {
     "tag": "Sub-Store",
-    "count": 51,
-    "category": "ecosystem"
+    "count": 52,
+    "category": "core"
   },
   {
     "tag": "OpenVPN",
-    "count": 44,
+    "count": 45,
     "category": "client"
   },
   {
@@ -65,13 +65,13 @@
     "category": "client"
   },
   {
-    "tag": "Windows",
+    "tag": "代理",
     "count": 25,
     "category": "client"
   },
   {
-    "tag": "代理",
-    "count": 24,
+    "tag": "Windows",
+    "count": 25,
     "category": "client"
   },
   {
@@ -90,6 +90,11 @@
     "category": "protocol"
   },
   {
+    "tag": "代理工具",
+    "count": 23,
+    "category": "core"
+  },
+  {
     "tag": "sing-box",
     "count": 23,
     "category": "ecosystem"
@@ -98,11 +103,6 @@
     "tag": "Linux",
     "count": 23,
     "category": "core"
-  },
-  {
-    "tag": "代理工具",
-    "count": 22,
-    "category": "client"
   },
   {
     "tag": "metacubexd",
@@ -150,6 +150,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "网络工具",
+    "count": 15,
+    "category": "dns_rules"
+  },
+  {
     "tag": "v2rayN",
     "count": 15,
     "category": "client"
@@ -170,11 +175,6 @@
     "category": "core"
   },
   {
-    "tag": "网络工具",
-    "count": 14,
-    "category": "dns_rules"
-  },
-  {
     "tag": "VPN",
     "count": 14,
     "category": "core"
@@ -188,6 +188,11 @@
     "tag": "DNS",
     "count": 13,
     "category": "security"
+  },
+  {
+    "tag": "go-gost",
+    "count": 12,
+    "category": "core"
   },
   {
     "tag": "依赖更新",
@@ -210,9 +215,9 @@
     "category": "security"
   },
   {
-    "tag": "go-gost",
+    "tag": "SUDOKU-ASCII",
     "count": 11,
-    "category": "core"
+    "category": "ecosystem"
   },
   {
     "tag": "naiveproxy",
@@ -220,7 +225,7 @@
     "category": "client"
   },
   {
-    "tag": "SUDOKU-ASCII",
+    "tag": "sudoku",
     "count": 10,
     "category": "ecosystem"
   },
@@ -232,11 +237,6 @@
   {
     "tag": "Clash",
     "count": 10,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "sudoku",
-    "count": 9,
     "category": "ecosystem"
   },
   {
@@ -257,6 +257,11 @@
   {
     "tag": "CBC",
     "count": 9,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "性能优化",
+    "count": 8,
     "category": "ecosystem"
   },
   {
@@ -285,7 +290,7 @@
     "category": "ecosystem"
   },
   {
-    "tag": "性能优化",
+    "tag": "Go",
     "count": 7,
     "category": "ecosystem"
   },
@@ -308,6 +313,11 @@
     "tag": "快捷方式",
     "count": 7,
     "category": "client"
+  },
+  {
+    "tag": "UDP",
+    "count": 6,
+    "category": "core"
   },
   {
     "tag": "HTTP",
@@ -365,11 +375,6 @@
     "category": "client"
   },
   {
-    "tag": "Go",
-    "count": 6,
-    "category": "core"
-  },
-  {
     "tag": "vless",
     "count": 6,
     "category": "protocol"
@@ -418,11 +423,6 @@
     "tag": "TrustTunnel",
     "count": 5,
     "category": "protocol"
-  },
-  {
-    "tag": "UDP",
-    "count": 5,
-    "category": "core"
   },
   {
     "tag": "v2rayA",
@@ -720,6 +720,11 @@
     "category": "protocol"
   },
   {
+    "tag": "图表",
+    "count": 2,
+    "category": "client"
+  },
+  {
     "tag": "隐私保护",
     "count": 2,
     "category": "client"
@@ -1000,6 +1005,26 @@
     "category": "security"
   },
   {
+    "tag": "Highcharts",
+    "count": 1,
+    "category": "client"
+  },
+  {
+    "tag": "时区",
+    "count": 1,
+    "category": "client"
+  },
+  {
+    "tag": "SNI",
+    "count": 1,
+    "category": "core"
+  },
+  {
+    "tag": "网络转发",
+    "count": 1,
+    "category": "core"
+  },
+  {
     "tag": "CI流程",
     "count": 1,
     "category": "ecosystem"
@@ -1041,11 +1066,6 @@
   },
   {
     "tag": "延迟",
-    "count": 1,
-    "category": "client"
-  },
-  {
-    "tag": "图表",
     "count": 1,
     "category": "client"
   },
