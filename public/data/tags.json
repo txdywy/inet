@@ -6,8 +6,8 @@
   },
   {
     "tag": "v2fly",
-    "count": 71,
-    "category": "ecosystem"
+    "count": 72,
+    "category": "dns_rules"
   },
   {
     "tag": "mihomo",
@@ -26,7 +26,7 @@
   },
   {
     "tag": "Android",
-    "count": 41,
+    "count": 42,
     "category": "client"
   },
   {
@@ -36,8 +36,8 @@
   },
   {
     "tag": "domain-list-community",
-    "count": 36,
-    "category": "ecosystem"
+    "count": 37,
+    "category": "dns_rules"
   },
   {
     "tag": "网络代理",
@@ -60,13 +60,13 @@
     "category": "ecosystem"
   },
   {
-    "tag": "Windows",
+    "tag": "ClashMetaForAndroid",
     "count": 25,
     "category": "client"
   },
   {
-    "tag": "ClashMetaForAndroid",
-    "count": 24,
+    "tag": "Windows",
+    "count": 25,
     "category": "client"
   },
   {
@@ -190,6 +190,11 @@
     "category": "security"
   },
   {
+    "tag": "依赖更新",
+    "count": 12,
+    "category": "client"
+  },
+  {
     "tag": "Snell",
     "count": 12,
     "category": "client"
@@ -205,11 +210,6 @@
     "category": "security"
   },
   {
-    "tag": "依赖更新",
-    "count": 11,
-    "category": "client"
-  },
-  {
     "tag": "go-gost",
     "count": 11,
     "category": "core"
@@ -218,6 +218,11 @@
     "tag": "naiveproxy",
     "count": 11,
     "category": "client"
+  },
+  {
+    "tag": "SUDOKU-ASCII",
+    "count": 10,
+    "category": "ecosystem"
   },
   {
     "tag": "TLS",
@@ -230,6 +235,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "sudoku",
+    "count": 9,
+    "category": "ecosystem"
+  },
+  {
     "tag": "VMess",
     "count": 9,
     "category": "protocol"
@@ -238,11 +248,6 @@
     "tag": "OpenWrt",
     "count": 9,
     "category": "core"
-  },
-  {
-    "tag": "SUDOKU-ASCII",
-    "count": 9,
-    "category": "ecosystem"
   },
   {
     "tag": "TUN",
@@ -265,11 +270,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "sudoku",
-    "count": 8,
-    "category": "ecosystem"
-  },
-  {
     "tag": "Mihomo",
     "count": 8,
     "category": "client"
@@ -282,6 +282,11 @@
   {
     "tag": "xray",
     "count": 8,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "性能优化",
+    "count": 7,
     "category": "ecosystem"
   },
   {
@@ -305,9 +310,9 @@
     "category": "client"
   },
   {
-    "tag": "性能优化",
+    "tag": "HTTP",
     "count": 6,
-    "category": "core"
+    "category": "client"
   },
   {
     "tag": "加密",
@@ -373,11 +378,6 @@
     "tag": "rust",
     "count": 6,
     "category": "core"
-  },
-  {
-    "tag": "HTTP",
-    "count": 5,
-    "category": "client"
   },
   {
     "tag": "域名列表",
@@ -998,6 +998,16 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "CI流程",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "quora",
+    "count": 1,
+    "category": "dns_rules"
   },
   {
     "tag": "多节点",

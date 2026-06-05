@@ -214,6 +214,23 @@
     ]
   },
   {
+    "slug": "sudoku",
+    "name": "sudoku",
+    "repo": "SUDOKU-ASCII/sudoku",
+    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
+    "category": "core",
+    "platforms": [
+      "linux",
+      "windows",
+      "macos",
+      "android"
+    ],
+    "tags": [
+      "sudoku",
+      "obfuscation"
+    ]
+  },
+  {
     "slug": "naiveproxy",
     "name": "naiveproxy",
     "repo": "klzgrad/naiveproxy",
@@ -262,23 +279,6 @@
     "tags": [
       "v2ray-core",
       "vless"
-    ]
-  },
-  {
-    "slug": "sudoku",
-    "name": "sudoku",
-    "repo": "SUDOKU-ASCII/sudoku",
-    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
-    "category": "core",
-    "platforms": [
-      "linux",
-      "windows",
-      "macos",
-      "android"
-    ],
-    "tags": [
-      "sudoku",
-      "obfuscation"
     ]
   },
   {
