@@ -1,5 +1,37 @@
 [
   {
+    "id": "695aaad519ebc36a",
+    "title": "v5.3.4-r5",
+    "summary": "sbwml/luci-app-mosdns 发布了 v5.3.4-r5 版本，具体更新内容未提供。",
+    "analysis": "此次 sbwml/luci-app-mosdns 的 v5.3.4-r5 版本更新未附带具体的变更说明，导致我们无法明确了解此次更新的具体内容和影响。这种情况可能是因为开发者在发布时未能及时更新变更日志。对于用户和开发者而言，缺乏详细的更新信息可能会导致在使用新版本时遇到不必要的困惑或问题。建议用户在更新前查看项目的其他文档或社区讨论，以获取更多信息。由于没有明确的变更内容，当前版本的兼容性风险和重要性也难以评估，因此建议用户在确认更新内容后再决定是否立即更新。",
+    "rawTitle": "v5.3.4-r5",
+    "rawBody": "",
+    "sourceType": "github_release",
+    "sourceName": "sbwml/luci-app-mosdns",
+    "sourceUrl": "https://github.com/sbwml/luci-app-mosdns/releases/tag/v5.3.4-r5",
+    "project": "luci-app-mosdns",
+    "repo": "sbwml/luci-app-mosdns",
+    "slug": "luci-app-mosdns",
+    "version": "5.3.4-r5",
+    "category": "ecosystem",
+    "tags": [
+      "luci-app-mosdns"
+    ],
+    "platforms": [
+      "openwrt"
+    ],
+    "importance": 2,
+    "confidence": 0.7,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-06-06T09:09:10Z",
+    "fetchedAt": "2026-06-06T14:10:40.742Z",
+    "firstSeenAt": "2026-06-06T14:10:54.823Z",
+    "updatedAt": "2026-06-06T14:10:54.823Z",
+    "hash": "695aaad519ebc36a"
+  },
+  {
     "id": "6dd37173ac6e819e",
     "title": "v1.19.27",
     "summary": "MetaCubeX/mihomo v1.19.27 更新了多个功能，增强了 OpenVPN 的 ping 保持连接支持，并修复了多个关键性错误。",
@@ -15421,6 +15453,39 @@
     "firstSeenAt": "2026-05-07T04:09:04.362Z",
     "updatedAt": "2026-05-07T04:09:04.362Z",
     "hash": "5e6adb84fbb7f312"
+  },
+  {
+    "id": "cbaa310f6a097246",
+    "title": "Prerelease-Alpha",
+    "summary": "MetaCubeX/mihomo 发布了 Prerelease-Alpha 版本，主要同步了 Alpha 分支的代码更新。",
+    "analysis": "本次更新为 MetaCubeX/mihomo 项目的 Prerelease-Alpha 版本，主要目的是同步 Alpha 分支的代码更新，并保持最新版本。此版本的发布可能是为了测试新功能或修复现有问题，尽管具体的变更细节未在发布说明中详细列出。对开发者而言，及时获取最新的代码更新是重要的，尤其是在开发过程中需要确保使用的是最新的功能和修复。此外，用户在选择下载文件时可以参考提供的文档链接，以确保下载适合自己需求的版本。由于这是一个预发布版本，用户在使用时需注意可能存在的不稳定性和兼容性问题，因此建议在生产环境中谨慎使用，或等待正式版本发布后再进行更新。",
+    "rawTitle": "Prerelease-Alpha",
+    "rawBody": "Release created at  Sat Jun  6 20:38:24 CST 2026\nSynchronize Alpha branch code updates, keeping only the latest version\n<br>\n[我应该下载哪个文件? / Which file should I download?](https://github.com/MetaCubeX/mihomo/wiki/FAQ)\n[二进制文件筛选 / Binary file selector](https://metacubex.github.io/Meta-Docs/startup/#_1)\n[查看文档 / Docs](https://metacubex.github.io/Meta-Docs/)\n\n\n**Full Changelog**: https://github.com/MetaCubeX/mihomo/compare/v1.19.27...Prerelease-Alpha",
+    "sourceType": "github_release",
+    "sourceName": "MetaCubeX/mihomo",
+    "sourceUrl": "https://github.com/MetaCubeX/mihomo/releases/tag/Prerelease-Alpha",
+    "project": "mihomo",
+    "repo": "MetaCubeX/mihomo",
+    "slug": "mihomo",
+    "version": "Prerelease-Alpha",
+    "category": "ecosystem",
+    "tags": [
+      "MetaCubeX",
+      "mihomo",
+      "Alpha",
+      "预发布"
+    ],
+    "platforms": [],
+    "importance": 3,
+    "confidence": 0.8,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2024-08-12T17:01:02Z",
+    "fetchedAt": "2026-06-06T14:10:31.584Z",
+    "firstSeenAt": "2026-06-06T14:10:49.559Z",
+    "updatedAt": "2026-06-06T14:10:49.559Z",
+    "hash": "cbaa310f6a097246"
   },
   {
     "id": "ecee41eb27267e4a",

@@ -1,7 +1,7 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 117,
+    "count": 118,
     "category": "core"
   },
   {
@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 62,
+    "count": 63,
     "category": "core"
   },
   {
@@ -295,6 +295,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "luci-app-mosdns",
+    "count": 7,
+    "category": "ecosystem"
+  },
+  {
     "tag": "网络规则",
     "count": 7,
     "category": "ecosystem"
@@ -365,11 +370,6 @@
     "category": "core"
   },
   {
-    "tag": "luci-app-mosdns",
-    "count": 6,
-    "category": "ecosystem"
-  },
-  {
     "tag": "网络优化",
     "count": 6,
     "category": "ecosystem"
@@ -423,6 +423,11 @@
     "tag": "TrustTunnel",
     "count": 5,
     "category": "protocol"
+  },
+  {
+    "tag": "预发布",
+    "count": 5,
+    "category": "client"
   },
   {
     "tag": "v2rayA",
@@ -535,11 +540,6 @@
     "category": "client"
   },
   {
-    "tag": "预发布",
-    "count": 4,
-    "category": "client"
-  },
-  {
     "tag": "gRPC",
     "count": 4,
     "category": "protocol"
@@ -563,6 +563,11 @@
     "tag": "nekoray",
     "count": 4,
     "category": "client"
+  },
+  {
+    "tag": "Alpha",
+    "count": 4,
+    "category": "ecosystem"
   },
   {
     "tag": "年龄密钥",
@@ -713,11 +718,6 @@
     "tag": "NekoBoxForAndroid",
     "count": 3,
     "category": "client"
-  },
-  {
-    "tag": "Alpha",
-    "count": 3,
-    "category": "ecosystem"
   },
   {
     "tag": "protocol",
