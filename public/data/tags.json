@@ -1,28 +1,28 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 116,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "v2fly",
-    "count": 72,
-    "category": "dns_rules"
-  },
-  {
-    "tag": "mihomo",
-    "count": 61,
-    "category": "client"
-  },
-  {
-    "tag": "Sub-Store",
-    "count": 52,
+    "count": 117,
     "category": "core"
   },
   {
-    "tag": "OpenVPN",
-    "count": 45,
+    "tag": "v2fly",
+    "count": 73,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "mihomo",
+    "count": 62,
+    "category": "core"
+  },
+  {
+    "tag": "Sub-Store",
+    "count": 53,
     "category": "client"
+  },
+  {
+    "tag": "OpenVPN",
+    "count": 46,
+    "category": "core"
   },
   {
     "tag": "Android",
@@ -36,8 +36,8 @@
   },
   {
     "tag": "domain-list-community",
-    "count": 37,
-    "category": "dns_rules"
+    "count": 38,
+    "category": "ecosystem"
   },
   {
     "tag": "meta-rules-dat",
@@ -56,7 +56,7 @@
   },
   {
     "tag": "ClashMetaForAndroid",
-    "count": 26,
+    "count": 28,
     "category": "client"
   },
   {
@@ -170,6 +170,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "依赖更新",
+    "count": 14,
+    "category": "client"
+  },
+  {
     "tag": "3x-ui",
     "count": 14,
     "category": "core"
@@ -193,11 +198,6 @@
     "tag": "go-gost",
     "count": 12,
     "category": "core"
-  },
-  {
-    "tag": "依赖更新",
-    "count": 12,
-    "category": "client"
   },
   {
     "tag": "Snell",
@@ -238,6 +238,11 @@
     "tag": "Clash",
     "count": 10,
     "category": "ecosystem"
+  },
+  {
+    "tag": "HTTP",
+    "count": 9,
+    "category": "client"
   },
   {
     "tag": "VMess",
@@ -290,11 +295,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "HTTP",
-    "count": 7,
-    "category": "client"
-  },
-  {
     "tag": "网络规则",
     "count": 7,
     "category": "ecosystem"
@@ -323,6 +323,11 @@
     "tag": "快捷方式",
     "count": 7,
     "category": "client"
+  },
+  {
+    "tag": "proxy",
+    "count": 6,
+    "category": "core"
   },
   {
     "tag": "UDP",
@@ -410,11 +415,6 @@
     "category": "client"
   },
   {
-    "tag": "proxy",
-    "count": 5,
-    "category": "ecosystem"
-  },
-  {
     "tag": "用户界面",
     "count": 5,
     "category": "client"
@@ -473,6 +473,11 @@
     "tag": "tuic",
     "count": 5,
     "category": "protocol"
+  },
+  {
+    "tag": "age",
+    "count": 4,
+    "category": "core"
   },
   {
     "tag": "配置文件",
@@ -560,9 +565,9 @@
     "category": "client"
   },
   {
-    "tag": "age",
+    "tag": "年龄密钥",
     "count": 3,
-    "category": "ecosystem"
+    "category": "client"
   },
   {
     "tag": "脚本操作",
@@ -720,6 +725,16 @@
     "category": "protocol"
   },
   {
+    "tag": "年龄加密",
+    "count": 2,
+    "category": "client"
+  },
+  {
+    "tag": "cn domains",
+    "count": 2,
+    "category": "ecosystem"
+  },
+  {
     "tag": "图表",
     "count": 2,
     "category": "client"
@@ -741,11 +756,6 @@
   },
   {
     "tag": "网络性能",
-    "count": 2,
-    "category": "client"
-  },
-  {
-    "tag": "年龄密钥",
     "count": 2,
     "category": "client"
   },
@@ -1005,7 +1015,12 @@
     "category": "security"
   },
   {
-    "tag": "年龄加密",
+    "tag": "iOS",
+    "count": 1,
+    "category": "client"
+  },
+  {
+    "tag": "polyfill",
     "count": 1,
     "category": "client"
   },
@@ -1291,11 +1306,6 @@
   },
   {
     "tag": "ws-headers",
-    "count": 1,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "cn domains",
     "count": 1,
     "category": "ecosystem"
   },
