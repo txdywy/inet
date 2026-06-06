@@ -1,7 +1,7 @@
 {
-  "totalItems": 540,
+  "totalItems": 545,
   "last24h": 14,
-  "last7d": 92,
+  "last7d": 96,
   "byCategory": {
     "core": 90,
     "client": 149,
@@ -9,13 +9,13 @@
     "protocol": 40,
     "dns_rules": 8,
     "security": 5,
-    "ecosystem": 247,
+    "ecosystem": 252,
     "trend": 0
   },
   "topProjects": [
     {
       "project": "domain-list-community",
-      "count": 69
+      "count": 73
     },
     {
       "project": "mihomo",
@@ -61,7 +61,7 @@
     },
     {
       "tag": "v2fly",
-      "count": 73
+      "count": 77
     },
     {
       "tag": "mihomo",
@@ -80,19 +80,19 @@
       "count": 42
     },
     {
+      "tag": "domain-list-community",
+      "count": 41
+    },
+    {
       "tag": "v2ray",
       "count": 41
     },
     {
-      "tag": "domain-list-community",
-      "count": 38
+      "tag": "网络代理",
+      "count": 35
     },
     {
       "tag": "meta-rules-dat",
-      "count": 34
-    },
-    {
-      "tag": "网络代理",
       "count": 34
     },
     {
@@ -112,12 +112,12 @@
       "count": 26
     },
     {
-      "tag": "Windows",
+      "tag": "domain-list",
       "count": 25
     },
     {
-      "tag": "domain-list",
-      "count": 24
+      "tag": "Windows",
+      "count": 25
     },
     {
       "tag": "Tailscale",
@@ -139,5 +139,5 @@
   "importantCount": 176,
   "breakingCount": 32,
   "securityCount": 40,
-  "updatedAt": "2026-06-06T14:10:55.204Z"
+  "updatedAt": "2026-06-06T19:46:23.620Z"
 }

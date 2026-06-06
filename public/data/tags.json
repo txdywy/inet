@@ -6,7 +6,7 @@
   },
   {
     "tag": "v2fly",
-    "count": 73,
+    "count": 77,
     "category": "ecosystem"
   },
   {
@@ -30,22 +30,22 @@
     "category": "client"
   },
   {
+    "tag": "domain-list-community",
+    "count": 41,
+    "category": "ecosystem"
+  },
+  {
     "tag": "v2ray",
     "count": 41,
     "category": "ecosystem"
   },
   {
-    "tag": "domain-list-community",
-    "count": 38,
+    "tag": "网络代理",
+    "count": 35,
     "category": "ecosystem"
   },
   {
     "tag": "meta-rules-dat",
-    "count": 34,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "网络代理",
     "count": 34,
     "category": "ecosystem"
   },
@@ -70,14 +70,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "domain-list",
+    "count": 25,
+    "category": "ecosystem"
+  },
+  {
     "tag": "Windows",
     "count": 25,
     "category": "client"
-  },
-  {
-    "tag": "domain-list",
-    "count": 24,
-    "category": "ecosystem"
   },
   {
     "tag": "Tailscale",
@@ -105,14 +105,14 @@
     "category": "core"
   },
   {
+    "tag": "开源",
+    "count": 21,
+    "category": "ecosystem"
+  },
+  {
     "tag": "metacubexd",
     "count": 20,
     "category": "client"
-  },
-  {
-    "tag": "开源",
-    "count": 20,
-    "category": "ecosystem"
   },
   {
     "tag": "VLESS",
@@ -185,6 +185,11 @@
     "category": "core"
   },
   {
+    "tag": "go-gost",
+    "count": 13,
+    "category": "ecosystem"
+  },
+  {
     "tag": "Xray-core",
     "count": 13,
     "category": "client"
@@ -193,11 +198,6 @@
     "tag": "DNS",
     "count": 13,
     "category": "security"
-  },
-  {
-    "tag": "go-gost",
-    "count": 12,
-    "category": "core"
   },
   {
     "tag": "Snell",
@@ -295,6 +295,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "Docker",
+    "count": 7,
+    "category": "ecosystem"
+  },
+  {
     "tag": "luci-app-mosdns",
     "count": 7,
     "category": "ecosystem"
@@ -341,11 +346,6 @@
   },
   {
     "tag": "加密",
-    "count": 6,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "Docker",
     "count": 6,
     "category": "ecosystem"
   },
@@ -1013,6 +1013,36 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "容器化",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "网络",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "Scholar hk",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "学术资源",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "humblebundle",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "openai",
+    "count": 1,
+    "category": "ecosystem"
   },
   {
     "tag": "iOS",
