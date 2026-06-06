@@ -1,8 +1,8 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 115,
-    "category": "client"
+    "count": 116,
+    "category": "ecosystem"
   },
   {
     "tag": "v2fly",
@@ -31,7 +31,7 @@
   },
   {
     "tag": "v2ray",
-    "count": 40,
+    "count": 41,
     "category": "ecosystem"
   },
   {
@@ -40,13 +40,13 @@
     "category": "dns_rules"
   },
   {
-    "tag": "网络代理",
+    "tag": "meta-rules-dat",
     "count": 34,
     "category": "ecosystem"
   },
   {
-    "tag": "meta-rules-dat",
-    "count": 33,
+    "tag": "网络代理",
+    "count": 34,
     "category": "ecosystem"
   },
   {
@@ -55,19 +55,19 @@
     "category": "ecosystem"
   },
   {
-    "tag": "rules",
-    "count": 26,
-    "category": "ecosystem"
-  },
-  {
     "tag": "ClashMetaForAndroid",
-    "count": 25,
+    "count": 26,
     "category": "client"
   },
   {
     "tag": "代理",
-    "count": 25,
-    "category": "client"
+    "count": 26,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "rules",
+    "count": 26,
+    "category": "ecosystem"
   },
   {
     "tag": "Windows",
@@ -290,6 +290,16 @@
     "category": "ecosystem"
   },
   {
+    "tag": "HTTP",
+    "count": 7,
+    "category": "client"
+  },
+  {
+    "tag": "网络规则",
+    "count": 7,
+    "category": "ecosystem"
+  },
+  {
     "tag": "Go",
     "count": 7,
     "category": "ecosystem"
@@ -320,17 +330,7 @@
     "category": "core"
   },
   {
-    "tag": "HTTP",
-    "count": 6,
-    "category": "client"
-  },
-  {
     "tag": "加密",
-    "count": 6,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "网络规则",
     "count": 6,
     "category": "ecosystem"
   },
@@ -473,6 +473,11 @@
     "tag": "tuic",
     "count": 5,
     "category": "protocol"
+  },
+  {
+    "tag": "配置文件",
+    "count": 4,
+    "category": "client"
   },
   {
     "tag": "路由",
@@ -628,11 +633,6 @@
     "tag": "延迟测试",
     "count": 3,
     "category": "core"
-  },
-  {
-    "tag": "配置文件",
-    "count": 3,
-    "category": "client"
   },
   {
     "tag": "gdocsviewer",
@@ -1003,6 +1003,11 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "年龄加密",
+    "count": 1,
+    "category": "client"
   },
   {
     "tag": "Highcharts",

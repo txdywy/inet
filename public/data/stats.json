@@ -1,15 +1,15 @@
 {
-  "totalItems": 530,
-  "last24h": 16,
-  "last7d": 88,
+  "totalItems": 533,
+  "last24h": 14,
+  "last7d": 87,
   "byCategory": {
     "core": 89,
-    "client": 145,
+    "client": 146,
     "router": 1,
     "protocol": 40,
     "dns_rules": 8,
     "security": 5,
-    "ecosystem": 242,
+    "ecosystem": 244,
     "trend": 0
   },
   "topProjects": [
@@ -27,15 +27,15 @@
     },
     {
       "project": "v2ray-rules-dat",
-      "count": 34
+      "count": 35
     },
     {
       "project": "meta-rules-dat",
-      "count": 33
+      "count": 34
     },
     {
       "project": "ClashMetaForAndroid",
-      "count": 25
+      "count": 26
     },
     {
       "project": "metacubexd",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 115
+      "count": 116
     },
     {
       "tag": "v2fly",
@@ -81,35 +81,35 @@
     },
     {
       "tag": "v2ray",
-      "count": 40
+      "count": 41
     },
     {
       "tag": "domain-list-community",
       "count": 37
     },
     {
-      "tag": "网络代理",
+      "tag": "meta-rules-dat",
       "count": 34
     },
     {
-      "tag": "meta-rules-dat",
-      "count": 33
+      "tag": "网络代理",
+      "count": 34
     },
     {
       "tag": "Loyalsoldier",
       "count": 33
     },
     {
-      "tag": "rules",
+      "tag": "ClashMetaForAndroid",
       "count": 26
     },
     {
-      "tag": "ClashMetaForAndroid",
-      "count": 25
+      "tag": "代理",
+      "count": 26
     },
     {
-      "tag": "代理",
-      "count": 25
+      "tag": "rules",
+      "count": 26
     },
     {
       "tag": "Windows",
@@ -136,8 +136,8 @@
       "count": 23
     }
   ],
-  "importantCount": 173,
+  "importantCount": 174,
   "breakingCount": 32,
-  "securityCount": 38,
-  "updatedAt": "2026-06-05T20:09:44.077Z"
+  "securityCount": 39,
+  "updatedAt": "2026-06-06T04:30:46.095Z"
 }
