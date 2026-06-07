@@ -1,25 +1,25 @@
 {
-  "totalItems": 548,
-  "last24h": 14,
-  "last7d": 96,
+  "totalItems": 551,
+  "last24h": 9,
+  "last7d": 97,
   "byCategory": {
     "core": 90,
-    "client": 150,
+    "client": 151,
     "router": 1,
     "protocol": 40,
     "dns_rules": 8,
     "security": 5,
-    "ecosystem": 254,
+    "ecosystem": 256,
     "trend": 0
   },
   "topProjects": [
     {
       "project": "domain-list-community",
-      "count": 73
+      "count": 74
     },
     {
       "project": "mihomo",
-      "count": 62
+      "count": 63
     },
     {
       "project": "Sub-Store",
@@ -42,11 +42,11 @@
       "count": 23
     },
     {
-      "project": "v2rayN",
-      "count": 16
+      "project": "clash-verge-rev",
+      "count": 17
     },
     {
-      "project": "clash-verge-rev",
+      "project": "v2rayN",
       "count": 16
     },
     {
@@ -57,15 +57,15 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 119
+      "count": 120
     },
     {
       "tag": "v2fly",
-      "count": 77
+      "count": 78
     },
     {
       "tag": "mihomo",
-      "count": 63
+      "count": 64
     },
     {
       "tag": "Sub-Store",
@@ -73,7 +73,11 @@
     },
     {
       "tag": "OpenVPN",
-      "count": 46
+      "count": 47
+    },
+    {
+      "tag": "domain-list-community",
+      "count": 42
     },
     {
       "tag": "v2ray",
@@ -82,10 +86,6 @@
     {
       "tag": "Android",
       "count": 42
-    },
-    {
-      "tag": "domain-list-community",
-      "count": 41
     },
     {
       "tag": "meta-rules-dat",
@@ -116,12 +116,12 @@
       "count": 25
     },
     {
-      "tag": "Windows",
+      "tag": "Tailscale",
       "count": 25
     },
     {
-      "tag": "Tailscale",
-      "count": 24
+      "tag": "Windows",
+      "count": 25
     },
     {
       "tag": "HTTP/2",
@@ -136,8 +136,8 @@
       "count": 23
     }
   ],
-  "importantCount": 177,
+  "importantCount": 178,
   "breakingCount": 33,
   "securityCount": 41,
-  "updatedAt": "2026-06-07T04:58:18.586Z"
+  "updatedAt": "2026-06-07T09:42:03.958Z"
 }

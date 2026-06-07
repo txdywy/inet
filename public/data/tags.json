@@ -1,17 +1,17 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 119,
+    "count": 120,
     "category": "ecosystem"
   },
   {
     "tag": "v2fly",
-    "count": 77,
+    "count": 78,
     "category": "ecosystem"
   },
   {
     "tag": "mihomo",
-    "count": 63,
+    "count": 64,
     "category": "core"
   },
   {
@@ -21,8 +21,13 @@
   },
   {
     "tag": "OpenVPN",
-    "count": 46,
+    "count": 47,
     "category": "core"
+  },
+  {
+    "tag": "domain-list-community",
+    "count": 42,
+    "category": "ecosystem"
   },
   {
     "tag": "v2ray",
@@ -33,11 +38,6 @@
     "tag": "Android",
     "count": 42,
     "category": "client"
-  },
-  {
-    "tag": "domain-list-community",
-    "count": 41,
-    "category": "ecosystem"
   },
   {
     "tag": "meta-rules-dat",
@@ -75,14 +75,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "Tailscale",
+    "count": 25,
+    "category": "core"
+  },
+  {
     "tag": "Windows",
     "count": 25,
     "category": "client"
-  },
-  {
-    "tag": "Tailscale",
-    "count": 24,
-    "category": "core"
   },
   {
     "tag": "HTTP/2",
@@ -220,6 +220,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "TLS",
+    "count": 11,
+    "category": "core"
+  },
+  {
     "tag": "naiveproxy",
     "count": 11,
     "category": "client"
@@ -228,11 +233,6 @@
     "tag": "sudoku",
     "count": 10,
     "category": "ecosystem"
-  },
-  {
-    "tag": "TLS",
-    "count": 10,
-    "category": "core"
   },
   {
     "tag": "Clash",
@@ -380,6 +380,11 @@
     "category": "client"
   },
   {
+    "tag": "预发布",
+    "count": 6,
+    "category": "client"
+  },
+  {
     "tag": "vless",
     "count": 6,
     "category": "protocol"
@@ -425,11 +430,6 @@
     "category": "protocol"
   },
   {
-    "tag": "预发布",
-    "count": 5,
-    "category": "client"
-  },
-  {
     "tag": "v2rayA",
     "count": 5,
     "category": "client"
@@ -460,7 +460,17 @@
     "category": "ecosystem"
   },
   {
+    "tag": "clash-verge-rev",
+    "count": 5,
+    "category": "client"
+  },
+  {
     "tag": "juicity",
+    "count": 5,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "Alpha",
     "count": 5,
     "category": "ecosystem"
   },
@@ -555,19 +565,9 @@
     "category": "protocol"
   },
   {
-    "tag": "clash-verge-rev",
-    "count": 4,
-    "category": "client"
-  },
-  {
     "tag": "nekoray",
     "count": 4,
     "category": "client"
-  },
-  {
-    "tag": "Alpha",
-    "count": 4,
-    "category": "ecosystem"
   },
   {
     "tag": "年龄密钥",
@@ -1013,6 +1013,11 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "连接性检查",
+    "count": 1,
+    "category": "ecosystem"
   },
   {
     "tag": "安全",
@@ -2288,6 +2293,11 @@
     "tag": "http client",
     "count": 1,
     "category": "core"
+  },
+  {
+    "tag": "Gzip",
+    "count": 1,
+    "category": "client"
   },
   {
     "tag": "CVD",
