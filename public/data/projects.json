@@ -116,6 +116,21 @@
     ]
   },
   {
+    "slug": "v2rayn",
+    "name": "v2rayN",
+    "repo": "2dust/v2rayN",
+    "description": "各平台代理客户端应用",
+    "category": "client",
+    "platforms": [
+      "windows"
+    ],
+    "tags": [
+      "v2rayn",
+      "windows",
+      "xray-core"
+    ]
+  },
+  {
     "slug": "clash-verge-rev",
     "name": "clash-verge-rev",
     "repo": "clash-verge-rev/clash-verge-rev",
@@ -164,21 +179,6 @@
     "tags": [
       "v2rayng",
       "android",
-      "xray-core"
-    ]
-  },
-  {
-    "slug": "v2rayn",
-    "name": "v2rayN",
-    "repo": "2dust/v2rayN",
-    "description": "各平台代理客户端应用",
-    "category": "client",
-    "platforms": [
-      "windows"
-    ],
-    "tags": [
-      "v2rayn",
-      "windows",
       "xray-core"
     ]
   },

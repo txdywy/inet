@@ -1,15 +1,15 @@
 {
-  "totalItems": 545,
+  "totalItems": 548,
   "last24h": 14,
   "last7d": 96,
   "byCategory": {
     "core": 90,
-    "client": 149,
+    "client": 150,
     "router": 1,
     "protocol": 40,
     "dns_rules": 8,
     "security": 5,
-    "ecosystem": 252,
+    "ecosystem": 254,
     "trend": 0
   },
   "topProjects": [
@@ -27,11 +27,11 @@
     },
     {
       "project": "v2ray-rules-dat",
-      "count": 35
+      "count": 36
     },
     {
       "project": "meta-rules-dat",
-      "count": 34
+      "count": 35
     },
     {
       "project": "ClashMetaForAndroid",
@@ -42,22 +42,22 @@
       "count": 23
     },
     {
+      "project": "v2rayN",
+      "count": 16
+    },
+    {
       "project": "clash-verge-rev",
       "count": 16
     },
     {
       "project": "sing-box",
       "count": 15
-    },
-    {
-      "project": "v2rayN",
-      "count": 15
     }
   ],
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 118
+      "count": 119
     },
     {
       "tag": "v2fly",
@@ -76,6 +76,10 @@
       "count": 46
     },
     {
+      "tag": "v2ray",
+      "count": 42
+    },
+    {
       "tag": "Android",
       "count": 42
     },
@@ -84,31 +88,27 @@
       "count": 41
     },
     {
-      "tag": "v2ray",
-      "count": 41
+      "tag": "meta-rules-dat",
+      "count": 35
     },
     {
       "tag": "网络代理",
       "count": 35
     },
     {
-      "tag": "meta-rules-dat",
-      "count": 34
-    },
-    {
       "tag": "Loyalsoldier",
-      "count": 33
+      "count": 34
     },
     {
       "tag": "ClashMetaForAndroid",
       "count": 28
     },
     {
-      "tag": "代理",
-      "count": 26
+      "tag": "rules",
+      "count": 27
     },
     {
-      "tag": "rules",
+      "tag": "代理",
       "count": 26
     },
     {
@@ -136,8 +136,8 @@
       "count": 23
     }
   ],
-  "importantCount": 176,
-  "breakingCount": 32,
-  "securityCount": 40,
-  "updatedAt": "2026-06-06T19:46:23.620Z"
+  "importantCount": 177,
+  "breakingCount": 33,
+  "securityCount": 41,
+  "updatedAt": "2026-06-07T04:58:18.586Z"
 }

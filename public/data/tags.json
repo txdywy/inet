@@ -1,8 +1,8 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 118,
-    "category": "core"
+    "count": 119,
+    "category": "ecosystem"
   },
   {
     "tag": "v2fly",
@@ -25,6 +25,11 @@
     "category": "core"
   },
   {
+    "tag": "v2ray",
+    "count": 42,
+    "category": "ecosystem"
+  },
+  {
     "tag": "Android",
     "count": 42,
     "category": "client"
@@ -35,8 +40,8 @@
     "category": "ecosystem"
   },
   {
-    "tag": "v2ray",
-    "count": 41,
+    "tag": "meta-rules-dat",
+    "count": 35,
     "category": "ecosystem"
   },
   {
@@ -45,13 +50,8 @@
     "category": "ecosystem"
   },
   {
-    "tag": "meta-rules-dat",
-    "count": 34,
-    "category": "ecosystem"
-  },
-  {
     "tag": "Loyalsoldier",
-    "count": 33,
+    "count": 34,
     "category": "ecosystem"
   },
   {
@@ -60,12 +60,12 @@
     "category": "client"
   },
   {
-    "tag": "代理",
-    "count": 26,
+    "tag": "rules",
+    "count": 27,
     "category": "ecosystem"
   },
   {
-    "tag": "rules",
+    "tag": "代理",
     "count": 26,
     "category": "ecosystem"
   },
@@ -130,6 +130,16 @@
     "category": "core"
   },
   {
+    "tag": "v2rayN",
+    "count": 16,
+    "category": "client"
+  },
+  {
+    "tag": "dat",
+    "count": 16,
+    "category": "ecosystem"
+  },
+  {
     "tag": "Xray",
     "count": 16,
     "category": "ecosystem"
@@ -155,19 +165,9 @@
     "category": "dns_rules"
   },
   {
-    "tag": "v2rayN",
-    "count": 15,
-    "category": "client"
-  },
-  {
     "tag": "v2rayNG",
     "count": 15,
     "category": "client"
-  },
-  {
-    "tag": "dat",
-    "count": 15,
-    "category": "ecosystem"
   },
   {
     "tag": "依赖更新",
@@ -265,6 +265,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": ".NET",
+    "count": 8,
+    "category": "client"
+  },
+  {
     "tag": "性能优化",
     "count": 8,
     "category": "ecosystem"
@@ -313,11 +318,6 @@
     "tag": "Go",
     "count": 7,
     "category": "ecosystem"
-  },
-  {
-    "tag": ".NET",
-    "count": 7,
-    "category": "client"
   },
   {
     "tag": "shadowsocks",
@@ -1013,6 +1013,16 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "安全",
+    "count": 1,
+    "category": "client"
+  },
+  {
+    "tag": "更新",
+    "count": 1,
+    "category": "client"
   },
   {
     "tag": "容器化",
