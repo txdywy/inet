@@ -1,13 +1,13 @@
 {
-  "totalItems": 554,
-  "last24h": 11,
-  "last7d": 96,
+  "totalItems": 555,
+  "last24h": 8,
+  "last7d": 93,
   "byCategory": {
     "core": 91,
     "client": 151,
     "router": 1,
     "protocol": 40,
-    "dns_rules": 9,
+    "dns_rules": 10,
     "security": 5,
     "ecosystem": 257,
     "trend": 0
@@ -15,7 +15,7 @@
   "topProjects": [
     {
       "project": "domain-list-community",
-      "count": 76
+      "count": 77
     },
     {
       "project": "mihomo",
@@ -61,7 +61,7 @@
     },
     {
       "tag": "v2fly",
-      "count": 80
+      "count": 81
     },
     {
       "tag": "mihomo",
@@ -139,5 +139,5 @@
   "importantCount": 179,
   "breakingCount": 33,
   "securityCount": 41,
-  "updatedAt": "2026-06-07T14:22:38.698Z"
+  "updatedAt": "2026-06-07T19:45:04.445Z"
 }

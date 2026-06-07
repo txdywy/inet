@@ -6,7 +6,7 @@
   },
   {
     "tag": "v2fly",
-    "count": 80,
+    "count": 81,
     "category": "dns_rules"
   },
   {
@@ -395,6 +395,11 @@
     "category": "core"
   },
   {
+    "tag": "域名解析",
+    "count": 5,
+    "category": "dns_rules"
+  },
+  {
     "tag": "域名列表",
     "count": 5,
     "category": "ecosystem"
@@ -510,11 +515,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "域名解析",
-    "count": 4,
-    "category": "dns_rules"
-  },
-  {
     "tag": "网络安全",
     "count": 4,
     "category": "client"
@@ -568,6 +568,11 @@
     "tag": "nekoray",
     "count": 4,
     "category": "client"
+  },
+  {
+    "tag": "dnsmasq",
+    "count": 3,
+    "category": "dns_rules"
   },
   {
     "tag": "年龄密钥",
@@ -798,11 +803,6 @@
     "tag": "并发配置",
     "count": 2,
     "category": "ecosystem"
-  },
-  {
-    "tag": "dnsmasq",
-    "count": 2,
-    "category": "core"
   },
   {
     "tag": "Mozilla",

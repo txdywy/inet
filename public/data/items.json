@@ -1,5 +1,37 @@
 [
   {
+    "id": "e0f29d4b6aa1fdd6",
+    "title": "20260607144641",
+    "summary": "本次更新同步了 dnsmasq-china-list，提升了域名解析的准确性和可靠性。",
+    "analysis": "此次更新主要是将 v2fly/domain-list-community 项目与 dnsmasq-china-list 进行了同步，确保了域名列表的最新性和准确性。这一变更对于使用该项目进行 DNS 解析的用户来说非常重要，因为它可以提高解析的准确性和可靠性，尤其是在中国大陆地区，能够有效避免因域名更新滞后而导致的访问问题。此更新不会引入破坏性变更，用户可以安全地进行更新。建议所有用户及时更新，以确保使用最新的域名列表，提升网络访问体验。",
+    "rawTitle": "20260607144641",
+    "rawBody": "## What's Changed\n* apple: sync with dnsmasq-china-list by @MkQtS in https://github.com/v2fly/domain-list-community/pull/3699\n\n\n**Full Changelog**: https://github.com/v2fly/domain-list-community/compare/20260607140522...20260607144641",
+    "sourceType": "github_release",
+    "sourceName": "v2fly/domain-list-community",
+    "sourceUrl": "https://github.com/v2fly/domain-list-community/releases/tag/20260607144641",
+    "project": "domain-list-community",
+    "repo": "v2fly/domain-list-community",
+    "slug": "domain-list-community",
+    "version": "20260607144641",
+    "category": "dns_rules",
+    "tags": [
+      "v2fly",
+      "dnsmasq",
+      "域名解析"
+    ],
+    "platforms": [],
+    "importance": 3,
+    "confidence": 0.9,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-06-07T14:46:47Z",
+    "fetchedAt": "2026-06-07T19:45:00.237Z",
+    "firstSeenAt": "2026-06-07T19:45:03.989Z",
+    "updatedAt": "2026-06-07T19:45:03.989Z",
+    "hash": "e0f29d4b6aa1fdd6"
+  },
+  {
     "id": "2d2ae38544747888",
     "title": "20260607140522",
     "summary": "本次更新在域名列表中新增了 notion-status.com，提升了用户的服务监控能力。",
