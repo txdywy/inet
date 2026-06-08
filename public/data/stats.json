@@ -1,6 +1,6 @@
 {
-  "totalItems": 558,
-  "last24h": 3,
+  "totalItems": 559,
+  "last24h": 4,
   "last7d": 86,
   "byCategory": {
     "core": 91,
@@ -9,7 +9,7 @@
     "protocol": 40,
     "dns_rules": 10,
     "security": 5,
-    "ecosystem": 260,
+    "ecosystem": 261,
     "trend": 0
   },
   "topProjects": [
@@ -23,7 +23,7 @@
     },
     {
       "project": "Sub-Store",
-      "count": 54
+      "count": 55
     },
     {
       "project": "v2ray-rules-dat",
@@ -69,7 +69,7 @@
     },
     {
       "tag": "Sub-Store",
-      "count": 54
+      "count": 55
     },
     {
       "tag": "OpenVPN",
@@ -136,8 +136,8 @@
       "count": 23
     }
   ],
-  "importantCount": 179,
+  "importantCount": 180,
   "breakingCount": 33,
   "securityCount": 41,
-  "updatedAt": "2026-06-08T16:30:18.567Z"
+  "updatedAt": "2026-06-08T20:35:39.843Z"
 }

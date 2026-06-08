@@ -16,7 +16,7 @@
   },
   {
     "tag": "Sub-Store",
-    "count": 54,
+    "count": 55,
     "category": "ecosystem"
   },
   {
@@ -130,6 +130,11 @@
     "category": "core"
   },
   {
+    "tag": "QUIC",
+    "count": 17,
+    "category": "ecosystem"
+  },
+  {
     "tag": "dat",
     "count": 17,
     "category": "ecosystem"
@@ -143,11 +148,6 @@
     "tag": "Xray",
     "count": 16,
     "category": "ecosystem"
-  },
-  {
-    "tag": "QUIC",
-    "count": 16,
-    "category": "protocol"
   },
   {
     "tag": "macOS",
@@ -185,6 +185,11 @@
     "category": "core"
   },
   {
+    "tag": "Snell",
+    "count": 13,
+    "category": "ecosystem"
+  },
+  {
     "tag": "go-gost",
     "count": 13,
     "category": "ecosystem"
@@ -198,11 +203,6 @@
     "tag": "DNS",
     "count": 13,
     "category": "security"
-  },
-  {
-    "tag": "Snell",
-    "count": 12,
-    "category": "client"
   },
   {
     "tag": "SOCKS",
@@ -1013,6 +1013,11 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "Surfboard",
+    "count": 1,
+    "category": "ecosystem"
   },
   {
     "tag": "notion",

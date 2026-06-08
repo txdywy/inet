@@ -1,5 +1,38 @@
 [
   {
+    "id": "c65ef3aed5b940af",
+    "title": "2.24.9",
+    "summary": "Sub-Store 2.24.9 更新了 Surfboard 的多项功能，增强了对新协议的支持。",
+    "analysis": "在此次 2.24.9 更新中，Sub-Store 引入了对 Surfboard 的新特性支持，包括 block-quic、server-cert-fingerprint-sha256 以及 Snell 协议的版本 4 和 5。这些更新的重要性在于，它们提升了 Surfboard 的灵活性和安全性，尤其是在处理 QUIC 协议时的性能优化。对于用户而言，这意味着更好的网络连接体验和更高的安全性。开发者也可以利用这些新特性来增强应用的功能和兼容性。此次更新没有提及破坏性变更，因此用户可以放心更新。建议用户尽快更新，以便享受最新的功能和优化。",
+    "rawTitle": "2.24.9",
+    "rawBody": "## <small>2.24.9 (2026-06-08)</small>\n\n* feat: Surfboard 支持 block-quic, server-cert-fingerprint-sha256, Snell version 4/5; 优化 Surge, Surfboar ([5132947](https://github.com/sub-store-org/Sub-Store/commit/5132947))\n",
+    "sourceType": "github_release",
+    "sourceName": "sub-store-org/Sub-Store",
+    "sourceUrl": "https://github.com/sub-store-org/Sub-Store/releases/tag/2.24.9",
+    "project": "Sub-Store",
+    "repo": "sub-store-org/Sub-Store",
+    "slug": "sub-store",
+    "version": "2.24.9",
+    "category": "ecosystem",
+    "tags": [
+      "Sub-Store",
+      "Surfboard",
+      "Snell",
+      "QUIC"
+    ],
+    "platforms": [],
+    "importance": 4,
+    "confidence": 0.9,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2026-06-08T17:30:52Z",
+    "fetchedAt": "2026-06-08T20:35:31.174Z",
+    "firstSeenAt": "2026-06-08T20:35:39.462Z",
+    "updatedAt": "2026-06-08T20:35:39.462Z",
+    "hash": "c65ef3aed5b940af"
+  },
+  {
     "id": "f9dc8664744aa8df",
     "title": "2.24.8",
     "summary": "Sub-Store 发布了 2.24.8 版本，主要是版本号更新。",
