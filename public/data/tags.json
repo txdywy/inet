@@ -1,7 +1,7 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 120,
+    "count": 121,
     "category": "ecosystem"
   },
   {
@@ -16,8 +16,8 @@
   },
   {
     "tag": "Sub-Store",
-    "count": 53,
-    "category": "client"
+    "count": 54,
+    "category": "ecosystem"
   },
   {
     "tag": "OpenVPN",
@@ -25,12 +25,12 @@
     "category": "core"
   },
   {
-    "tag": "domain-list-community",
-    "count": 42,
+    "tag": "v2ray",
+    "count": 43,
     "category": "ecosystem"
   },
   {
-    "tag": "v2ray",
+    "tag": "domain-list-community",
     "count": 42,
     "category": "ecosystem"
   },
@@ -41,6 +41,11 @@
   },
   {
     "tag": "meta-rules-dat",
+    "count": 36,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "Loyalsoldier",
     "count": 35,
     "category": "ecosystem"
   },
@@ -50,8 +55,8 @@
     "category": "ecosystem"
   },
   {
-    "tag": "Loyalsoldier",
-    "count": 34,
+    "tag": "rules",
+    "count": 28,
     "category": "ecosystem"
   },
   {
@@ -63,11 +68,6 @@
     "tag": "domain-list",
     "count": 27,
     "category": "dns_rules"
-  },
-  {
-    "tag": "rules",
-    "count": 27,
-    "category": "ecosystem"
   },
   {
     "tag": "代理",
@@ -130,14 +130,14 @@
     "category": "core"
   },
   {
+    "tag": "dat",
+    "count": 17,
+    "category": "ecosystem"
+  },
+  {
     "tag": "v2rayN",
     "count": 16,
     "category": "client"
-  },
-  {
-    "tag": "dat",
-    "count": 16,
-    "category": "ecosystem"
   },
   {
     "tag": "Xray",

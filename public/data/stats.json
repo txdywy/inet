@@ -1,7 +1,7 @@
 {
-  "totalItems": 555,
+  "totalItems": 558,
   "last24h": 8,
-  "last7d": 93,
+  "last7d": 91,
   "byCategory": {
     "core": 91,
     "client": 151,
@@ -9,7 +9,7 @@
     "protocol": 40,
     "dns_rules": 10,
     "security": 5,
-    "ecosystem": 257,
+    "ecosystem": 260,
     "trend": 0
   },
   "topProjects": [
@@ -23,15 +23,15 @@
     },
     {
       "project": "Sub-Store",
-      "count": 53
+      "count": 54
     },
     {
       "project": "v2ray-rules-dat",
-      "count": 36
+      "count": 37
     },
     {
       "project": "meta-rules-dat",
-      "count": 35
+      "count": 36
     },
     {
       "project": "ClashMetaForAndroid",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 120
+      "count": 121
     },
     {
       "tag": "v2fly",
@@ -69,18 +69,18 @@
     },
     {
       "tag": "Sub-Store",
-      "count": 53
+      "count": 54
     },
     {
       "tag": "OpenVPN",
       "count": 47
     },
     {
-      "tag": "domain-list-community",
-      "count": 42
+      "tag": "v2ray",
+      "count": 43
     },
     {
-      "tag": "v2ray",
+      "tag": "domain-list-community",
       "count": 42
     },
     {
@@ -89,6 +89,10 @@
     },
     {
       "tag": "meta-rules-dat",
+      "count": 36
+    },
+    {
+      "tag": "Loyalsoldier",
       "count": 35
     },
     {
@@ -96,8 +100,8 @@
       "count": 35
     },
     {
-      "tag": "Loyalsoldier",
-      "count": 34
+      "tag": "rules",
+      "count": 28
     },
     {
       "tag": "ClashMetaForAndroid",
@@ -105,10 +109,6 @@
     },
     {
       "tag": "domain-list",
-      "count": 27
-    },
-    {
-      "tag": "rules",
       "count": 27
     },
     {
@@ -139,5 +139,5 @@
   "importantCount": 179,
   "breakingCount": 33,
   "securityCount": 41,
-  "updatedAt": "2026-06-07T19:45:04.445Z"
+  "updatedAt": "2026-06-08T05:03:41.520Z"
 }
