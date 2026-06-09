@@ -1,5 +1,37 @@
 [
   {
+    "id": "737fca0f4c469c57",
+    "title": "20260609115341",
+    "summary": "v2fly/domain-list-community 更新了多个域名，提升了域名列表的准确性和时效性。",
+    "analysis": "此次更新主要通过 @MkQtS 提交的 PR 对多个域名进行了更新。这种更新对于使用 v2fly 的用户来说至关重要，因为准确的域名列表直接影响到网络请求的成功率和安全性。用户在使用代理工具时，依赖于最新的域名信息来确保能够顺利访问目标网站。虽然此次更新没有涉及协议变化或安全修复，但保持域名列表的及时更新是维护网络生态健康的重要一环。建议用户尽快更新，以确保使用最新的域名信息，避免因域名过时而导致的访问问题。",
+    "rawTitle": "20260609115341",
+    "rawBody": "## What's Changed\n* Update several domains by @MkQtS in https://github.com/v2fly/domain-list-community/pull/3706\n\n\n**Full Changelog**: https://github.com/v2fly/domain-list-community/compare/20260609060640...20260609115341",
+    "sourceType": "github_release",
+    "sourceName": "v2fly/domain-list-community",
+    "sourceUrl": "https://github.com/v2fly/domain-list-community/releases/tag/20260609115341",
+    "project": "domain-list-community",
+    "repo": "v2fly/domain-list-community",
+    "slug": "domain-list-community",
+    "version": "20260609115341",
+    "category": "ecosystem",
+    "tags": [
+      "v2fly",
+      "域名列表",
+      "更新"
+    ],
+    "platforms": [],
+    "importance": 3,
+    "confidence": 0.9,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-06-09T11:53:48Z",
+    "fetchedAt": "2026-06-09T15:28:46.863Z",
+    "firstSeenAt": "2026-06-09T15:28:52.043Z",
+    "updatedAt": "2026-06-09T15:28:52.043Z",
+    "hash": "737fca0f4c469c57"
+  },
+  {
     "id": "db44afaf073b8b08",
     "title": "2.24.10",
     "summary": "Sub-Store 2.24.10 版本更新，新增 Node 环境日志日期时间功能并优化日志显示逻辑。",

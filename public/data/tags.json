@@ -6,7 +6,7 @@
   },
   {
     "tag": "v2fly",
-    "count": 83,
+    "count": 84,
     "category": "ecosystem"
   },
   {
@@ -335,6 +335,11 @@
     "category": "client"
   },
   {
+    "tag": "域名列表",
+    "count": 6,
+    "category": "ecosystem"
+  },
+  {
     "tag": "proxy",
     "count": 6,
     "category": "core"
@@ -398,11 +403,6 @@
     "tag": "域名解析",
     "count": 5,
     "category": "dns_rules"
-  },
-  {
-    "tag": "域名列表",
-    "count": 5,
-    "category": "ecosystem"
   },
   {
     "tag": "Shadowrocket",
@@ -575,6 +575,11 @@
     "category": "client"
   },
   {
+    "tag": "更新",
+    "count": 3,
+    "category": "ecosystem"
+  },
+  {
     "tag": "Node",
     "count": 3,
     "category": "ecosystem"
@@ -733,11 +738,6 @@
     "tag": "protocol",
     "count": 3,
     "category": "protocol"
-  },
-  {
-    "tag": "更新",
-    "count": 2,
-    "category": "ecosystem"
   },
   {
     "tag": "流媒体",
