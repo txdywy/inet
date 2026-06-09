@@ -6,7 +6,7 @@
   },
   {
     "tag": "v2fly",
-    "count": 82,
+    "count": 83,
     "category": "ecosystem"
   },
   {
@@ -16,7 +16,7 @@
   },
   {
     "tag": "Sub-Store",
-    "count": 55,
+    "count": 56,
     "category": "ecosystem"
   },
   {
@@ -25,13 +25,13 @@
     "category": "core"
   },
   {
-    "tag": "v2ray",
+    "tag": "domain-list-community",
     "count": 44,
     "category": "ecosystem"
   },
   {
-    "tag": "domain-list-community",
-    "count": 43,
+    "tag": "v2ray",
+    "count": 44,
     "category": "ecosystem"
   },
   {
@@ -575,6 +575,11 @@
     "category": "client"
   },
   {
+    "tag": "Node",
+    "count": 3,
+    "category": "ecosystem"
+  },
+  {
     "tag": "dnsmasq",
     "count": 3,
     "category": "dns_rules"
@@ -728,6 +733,16 @@
     "tag": "protocol",
     "count": 3,
     "category": "protocol"
+  },
+  {
+    "tag": "更新",
+    "count": 2,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "流媒体",
+    "count": 2,
+    "category": "ecosystem"
   },
   {
     "tag": "连接性检查",
@@ -915,11 +930,6 @@
     "category": "core"
   },
   {
-    "tag": "Node",
-    "count": 2,
-    "category": "ecosystem"
-  },
-  {
     "tag": "Mocha",
     "count": 2,
     "category": "ecosystem"
@@ -1020,6 +1030,21 @@
     "category": "security"
   },
   {
+    "tag": "日志",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "U-NEXT",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "日本",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
     "tag": "MTProto",
     "count": 1,
     "category": "ecosystem"
@@ -1061,11 +1086,6 @@
   },
   {
     "tag": "安全",
-    "count": 1,
-    "category": "client"
-  },
-  {
-    "tag": "更新",
     "count": 1,
     "category": "client"
   },
@@ -2158,11 +2178,6 @@
     "tag": "去广告",
     "count": 1,
     "category": "ecosystem"
-  },
-  {
-    "tag": "流媒体",
-    "count": 1,
-    "category": "core"
   },
   {
     "tag": "代理组",
