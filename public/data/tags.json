@@ -6,7 +6,7 @@
   },
   {
     "tag": "v2fly",
-    "count": 88,
+    "count": 90,
     "category": "ecosystem"
   },
   {
@@ -55,13 +55,13 @@
     "category": "ecosystem"
   },
   {
-    "tag": "rules",
+    "tag": "domain-list",
     "count": 30,
     "category": "ecosystem"
   },
   {
-    "tag": "domain-list",
-    "count": 28,
+    "tag": "rules",
+    "count": 30,
     "category": "ecosystem"
   },
   {
@@ -72,6 +72,11 @@
   {
     "tag": "代理",
     "count": 26,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "开源",
+    "count": 25,
     "category": "ecosystem"
   },
   {
@@ -93,11 +98,6 @@
     "tag": "HTTP/2",
     "count": 24,
     "category": "protocol"
-  },
-  {
-    "tag": "开源",
-    "count": 23,
-    "category": "dns_rules"
   },
   {
     "tag": "代理工具",
@@ -140,6 +140,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "网络工具",
+    "count": 16,
+    "category": "ecosystem"
+  },
+  {
     "tag": "SagerNet",
     "count": 16,
     "category": "core"
@@ -168,11 +173,6 @@
     "tag": "3x-ui",
     "count": 15,
     "category": "ecosystem"
-  },
-  {
-    "tag": "网络工具",
-    "count": 15,
-    "category": "dns_rules"
   },
   {
     "tag": "v2rayNG",
@@ -580,6 +580,11 @@
     "category": "client"
   },
   {
+    "tag": "网络",
+    "count": 3,
+    "category": "ecosystem"
+  },
+  {
     "tag": "ShadowTLS",
     "count": 3,
     "category": "ecosystem"
@@ -748,11 +753,6 @@
     "tag": "protocol",
     "count": 3,
     "category": "protocol"
-  },
-  {
-    "tag": "网络",
-    "count": 2,
-    "category": "dns_rules"
   },
   {
     "tag": "Trojan",

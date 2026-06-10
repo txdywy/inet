@@ -1,6 +1,6 @@
 {
-  "totalItems": 578,
-  "last24h": 9,
+  "totalItems": 580,
+  "last24h": 11,
   "last7d": 74,
   "byCategory": {
     "core": 92,
@@ -9,13 +9,13 @@
     "protocol": 42,
     "dns_rules": 11,
     "security": 5,
-    "ecosystem": 276,
+    "ecosystem": 278,
     "trend": 0
   },
   "topProjects": [
     {
       "project": "domain-list-community",
-      "count": 84
+      "count": 86
     },
     {
       "project": "mihomo",
@@ -61,7 +61,7 @@
     },
     {
       "tag": "v2fly",
-      "count": 88
+      "count": 90
     },
     {
       "tag": "mihomo",
@@ -100,12 +100,12 @@
       "count": 37
     },
     {
-      "tag": "rules",
+      "tag": "domain-list",
       "count": 30
     },
     {
-      "tag": "domain-list",
-      "count": 28
+      "tag": "rules",
+      "count": 30
     },
     {
       "tag": "ClashMetaForAndroid",
@@ -114,6 +114,10 @@
     {
       "tag": "代理",
       "count": 26
+    },
+    {
+      "tag": "开源",
+      "count": 25
     },
     {
       "tag": "Tailscale",
@@ -130,14 +134,10 @@
     {
       "tag": "HTTP/2",
       "count": 24
-    },
-    {
-      "tag": "开源",
-      "count": 23
     }
   ],
   "importantCount": 182,
   "breakingCount": 34,
   "securityCount": 41,
-  "updatedAt": "2026-06-10T16:10:56.943Z"
+  "updatedAt": "2026-06-10T20:44:28.325Z"
 }
