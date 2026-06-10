@@ -1,7 +1,7 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 122,
+    "count": 124,
     "category": "ecosystem"
   },
   {
@@ -11,13 +11,13 @@
   },
   {
     "tag": "mihomo",
-    "count": 64,
+    "count": 65,
     "category": "core"
   },
   {
     "tag": "Sub-Store",
-    "count": 56,
-    "category": "ecosystem"
+    "count": 57,
+    "category": "protocol"
   },
   {
     "tag": "OpenVPN",
@@ -25,12 +25,12 @@
     "category": "core"
   },
   {
-    "tag": "domain-list-community",
-    "count": 44,
+    "tag": "v2ray",
+    "count": 45,
     "category": "ecosystem"
   },
   {
-    "tag": "v2ray",
+    "tag": "domain-list-community",
     "count": 44,
     "category": "ecosystem"
   },
@@ -41,22 +41,22 @@
   },
   {
     "tag": "meta-rules-dat",
+    "count": 38,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "Loyalsoldier",
     "count": 37,
     "category": "ecosystem"
   },
   {
     "tag": "网络代理",
-    "count": 36,
-    "category": "core"
-  },
-  {
-    "tag": "Loyalsoldier",
-    "count": 36,
+    "count": 37,
     "category": "ecosystem"
   },
   {
     "tag": "rules",
-    "count": 29,
+    "count": 30,
     "category": "ecosystem"
   },
   {
@@ -110,14 +110,14 @@
     "category": "core"
   },
   {
+    "tag": "VLESS",
+    "count": 20,
+    "category": "protocol"
+  },
+  {
     "tag": "metacubexd",
     "count": 20,
     "category": "client"
-  },
-  {
-    "tag": "VLESS",
-    "count": 19,
-    "category": "protocol"
   },
   {
     "tag": "CHACHA20-POLY1305",
@@ -335,6 +335,11 @@
     "category": "client"
   },
   {
+    "tag": "预发布",
+    "count": 7,
+    "category": "client"
+  },
+  {
     "tag": "域名列表",
     "count": 6,
     "category": "ecosystem"
@@ -385,11 +390,6 @@
     "category": "client"
   },
   {
-    "tag": "预发布",
-    "count": 6,
-    "category": "client"
-  },
-  {
     "tag": "vless",
     "count": 6,
     "category": "protocol"
@@ -398,6 +398,11 @@
     "tag": "rust",
     "count": 6,
     "category": "core"
+  },
+  {
+    "tag": "Alpha",
+    "count": 6,
+    "category": "ecosystem"
   },
   {
     "tag": "域名解析",
@@ -471,11 +476,6 @@
   },
   {
     "tag": "juicity",
-    "count": 5,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "Alpha",
     "count": 5,
     "category": "ecosystem"
   },
@@ -1028,6 +1028,11 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "xHTTP",
+    "count": 1,
+    "category": "protocol"
   },
   {
     "tag": "日志",
