@@ -6,8 +6,8 @@
   },
   {
     "tag": "v2fly",
-    "count": 85,
-    "category": "dns_rules"
+    "count": 88,
+    "category": "ecosystem"
   },
   {
     "tag": "mihomo",
@@ -25,13 +25,13 @@
     "category": "core"
   },
   {
-    "tag": "v2ray",
-    "count": 45,
+    "tag": "domain-list-community",
+    "count": 46,
     "category": "ecosystem"
   },
   {
-    "tag": "domain-list-community",
-    "count": 44,
+    "tag": "v2ray",
+    "count": 45,
     "category": "ecosystem"
   },
   {
@@ -60,14 +60,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "domain-list",
+    "count": 28,
+    "category": "ecosystem"
+  },
+  {
     "tag": "ClashMetaForAndroid",
     "count": 28,
     "category": "client"
-  },
-  {
-    "tag": "domain-list",
-    "count": 27,
-    "category": "dns_rules"
   },
   {
     "tag": "代理",
@@ -1038,6 +1038,31 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "Lighter",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "Hyperliquid",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "Polymarket",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "drweb",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "WordPress",
+    "count": 1,
+    "category": "ecosystem"
   },
   {
     "tag": "xHTTP",
