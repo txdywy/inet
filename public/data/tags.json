@@ -1,23 +1,23 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 124,
+    "count": 125,
     "category": "ecosystem"
   },
   {
     "tag": "v2fly",
-    "count": 84,
-    "category": "ecosystem"
+    "count": 85,
+    "category": "dns_rules"
   },
   {
     "tag": "mihomo",
-    "count": 65,
+    "count": 66,
     "category": "core"
   },
   {
     "tag": "Sub-Store",
-    "count": 57,
-    "category": "protocol"
+    "count": 59,
+    "category": "ecosystem"
   },
   {
     "tag": "OpenVPN",
@@ -95,6 +95,11 @@
     "category": "protocol"
   },
   {
+    "tag": "开源",
+    "count": 23,
+    "category": "dns_rules"
+  },
+  {
     "tag": "代理工具",
     "count": 23,
     "category": "core"
@@ -105,13 +110,8 @@
     "category": "core"
   },
   {
-    "tag": "开源",
-    "count": 22,
-    "category": "core"
-  },
-  {
     "tag": "VLESS",
-    "count": 20,
+    "count": 21,
     "category": "protocol"
   },
   {
@@ -160,6 +160,11 @@
     "category": "client"
   },
   {
+    "tag": "Snell",
+    "count": 15,
+    "category": "ecosystem"
+  },
+  {
     "tag": "3x-ui",
     "count": 15,
     "category": "ecosystem"
@@ -183,11 +188,6 @@
     "tag": "VPN",
     "count": 14,
     "category": "core"
-  },
-  {
-    "tag": "Snell",
-    "count": 13,
-    "category": "ecosystem"
   },
   {
     "tag": "go-gost",
@@ -230,6 +230,11 @@
     "category": "client"
   },
   {
+    "tag": "VMess",
+    "count": 10,
+    "category": "protocol"
+  },
+  {
     "tag": "sudoku",
     "count": 10,
     "category": "ecosystem"
@@ -248,11 +253,6 @@
     "tag": "HTTP",
     "count": 9,
     "category": "client"
-  },
-  {
-    "tag": "VMess",
-    "count": 9,
-    "category": "protocol"
   },
   {
     "tag": "OpenWrt",
@@ -405,6 +405,16 @@
     "category": "ecosystem"
   },
   {
+    "tag": "网络安全",
+    "count": 5,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "gRPC",
+    "count": 5,
+    "category": "protocol"
+  },
+  {
     "tag": "域名解析",
     "count": 5,
     "category": "dns_rules"
@@ -495,6 +505,11 @@
     "category": "protocol"
   },
   {
+    "tag": "域名",
+    "count": 4,
+    "category": "dns_rules"
+  },
+  {
     "tag": "API",
     "count": 4,
     "category": "ecosystem"
@@ -518,11 +533,6 @@
     "tag": "Loon",
     "count": 4,
     "category": "ecosystem"
-  },
-  {
-    "tag": "网络安全",
-    "count": 4,
-    "category": "client"
   },
   {
     "tag": "hysteria2",
@@ -555,11 +565,6 @@
     "category": "client"
   },
   {
-    "tag": "gRPC",
-    "count": 4,
-    "category": "protocol"
-  },
-  {
     "tag": "Hiddify Next",
     "count": 4,
     "category": "ecosystem"
@@ -573,6 +578,16 @@
     "tag": "nekoray",
     "count": 4,
     "category": "client"
+  },
+  {
+    "tag": "ShadowTLS",
+    "count": 3,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "SOCKS5",
+    "count": 3,
+    "category": "protocol"
   },
   {
     "tag": "更新",
@@ -596,11 +611,6 @@
   },
   {
     "tag": "脚本操作",
-    "count": 3,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "域名",
     "count": 3,
     "category": "ecosystem"
   },
@@ -740,6 +750,16 @@
     "category": "protocol"
   },
   {
+    "tag": "网络",
+    "count": 2,
+    "category": "dns_rules"
+  },
+  {
+    "tag": "Trojan",
+    "count": 2,
+    "category": "protocol"
+  },
+  {
     "tag": "流媒体",
     "count": 2,
     "category": "ecosystem"
@@ -868,16 +888,6 @@
     "tag": "分类更新",
     "count": 2,
     "category": "ecosystem"
-  },
-  {
-    "tag": "ShadowTLS",
-    "count": 2,
-    "category": "protocol"
-  },
-  {
-    "tag": "SOCKS5",
-    "count": 2,
-    "category": "security"
   },
   {
     "tag": "masque",
@@ -1096,11 +1106,6 @@
   },
   {
     "tag": "容器化",
-    "count": 1,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "网络",
     "count": 1,
     "category": "ecosystem"
   },
@@ -2475,6 +2480,16 @@
     "category": "ecosystem"
   },
   {
+    "tag": "xhttp-opts",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "session-management",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
     "tag": "ping",
     "count": 1,
     "category": "client"
@@ -2686,11 +2701,6 @@
   },
   {
     "tag": "ShadowsocksR",
-    "count": 1,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "Trojan",
     "count": 1,
     "category": "ecosystem"
   },
