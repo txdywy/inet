@@ -1,7 +1,7 @@
 {
   "totalItems": 588,
-  "last24h": 14,
-  "last7d": 77,
+  "last24h": 12,
+  "last7d": 71,
   "byCategory": {
     "core": 92,
     "client": 152,
@@ -139,5 +139,5 @@
   "importantCount": 182,
   "breakingCount": 34,
   "securityCount": 41,
-  "updatedAt": "2026-06-11T05:01:36.766Z"
+  "updatedAt": "2026-06-11T10:59:48.149Z"
 }
