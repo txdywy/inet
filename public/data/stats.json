@@ -1,7 +1,7 @@
 {
-  "totalItems": 588,
-  "last24h": 12,
-  "last7d": 71,
+  "totalItems": 594,
+  "last24h": 15,
+  "last7d": 74,
   "byCategory": {
     "core": 92,
     "client": 152,
@@ -9,13 +9,13 @@
     "protocol": 42,
     "dns_rules": 11,
     "security": 5,
-    "ecosystem": 285,
+    "ecosystem": 291,
     "trend": 0
   },
   "topProjects": [
     {
       "project": "domain-list-community",
-      "count": 89
+      "count": 92
     },
     {
       "project": "mihomo",
@@ -23,7 +23,7 @@
     },
     {
       "project": "Sub-Store",
-      "count": 60
+      "count": 63
     },
     {
       "project": "v2ray-rules-dat",
@@ -61,7 +61,7 @@
     },
     {
       "tag": "v2fly",
-      "count": 93
+      "count": 96
     },
     {
       "tag": "mihomo",
@@ -69,11 +69,11 @@
     },
     {
       "tag": "Sub-Store",
-      "count": 60
+      "count": 63
     },
     {
       "tag": "domain-list-community",
-      "count": 47
+      "count": 50
     },
     {
       "tag": "OpenVPN",
@@ -139,5 +139,5 @@
   "importantCount": 182,
   "breakingCount": 34,
   "securityCount": 41,
-  "updatedAt": "2026-06-11T10:59:48.149Z"
+  "updatedAt": "2026-06-11T16:31:02.461Z"
 }
