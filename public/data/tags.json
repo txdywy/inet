@@ -1,22 +1,27 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 125,
+    "count": 127,
     "category": "ecosystem"
   },
   {
     "tag": "v2fly",
-    "count": 90,
+    "count": 93,
     "category": "ecosystem"
   },
   {
     "tag": "mihomo",
-    "count": 66,
+    "count": 67,
     "category": "core"
   },
   {
     "tag": "Sub-Store",
-    "count": 59,
+    "count": 60,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "domain-list-community",
+    "count": 47,
     "category": "ecosystem"
   },
   {
@@ -25,48 +30,43 @@
     "category": "core"
   },
   {
-    "tag": "domain-list-community",
+    "tag": "v2ray",
     "count": 46,
     "category": "ecosystem"
   },
   {
-    "tag": "v2ray",
-    "count": 45,
-    "category": "ecosystem"
-  },
-  {
     "tag": "Android",
-    "count": 42,
+    "count": 43,
     "category": "client"
   },
   {
     "tag": "meta-rules-dat",
-    "count": 38,
+    "count": 39,
     "category": "ecosystem"
   },
   {
     "tag": "Loyalsoldier",
-    "count": 37,
+    "count": 38,
     "category": "ecosystem"
   },
   {
     "tag": "网络代理",
-    "count": 37,
+    "count": 38,
     "category": "ecosystem"
   },
   {
     "tag": "domain-list",
-    "count": 30,
+    "count": 32,
     "category": "ecosystem"
   },
   {
     "tag": "rules",
-    "count": 30,
+    "count": 31,
     "category": "ecosystem"
   },
   {
     "tag": "ClashMetaForAndroid",
-    "count": 28,
+    "count": 29,
     "category": "client"
   },
   {
@@ -120,6 +120,11 @@
     "category": "client"
   },
   {
+    "tag": "网络协议",
+    "count": 19,
+    "category": "core"
+  },
+  {
     "tag": "CHACHA20-POLY1305",
     "count": 19,
     "category": "ecosystem"
@@ -128,11 +133,6 @@
     "tag": "dat",
     "count": 18,
     "category": "ecosystem"
-  },
-  {
-    "tag": "网络协议",
-    "count": 18,
-    "category": "core"
   },
   {
     "tag": "QUIC",
@@ -270,6 +270,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "预发布",
+    "count": 8,
+    "category": "client"
+  },
+  {
     "tag": "v2ray-agent",
     "count": 8,
     "category": "core"
@@ -331,11 +336,6 @@
   },
   {
     "tag": "快捷方式",
-    "count": 7,
-    "category": "client"
-  },
-  {
-    "tag": "预发布",
     "count": 7,
     "category": "client"
   },
@@ -755,6 +755,11 @@
     "category": "protocol"
   },
   {
+    "tag": "CORS",
+    "count": 2,
+    "category": "ecosystem"
+  },
+  {
     "tag": "Trojan",
     "count": 2,
     "category": "protocol"
@@ -1025,6 +1030,11 @@
     "category": "client"
   },
   {
+    "tag": "xhttp-opts",
+    "count": 2,
+    "category": "ecosystem"
+  },
+  {
     "tag": "ping keepalive",
     "count": 2,
     "category": "protocol"
@@ -1038,6 +1048,26 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "JavaScript",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "xtom",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "steam",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "LiveJournal",
+    "count": 1,
+    "category": "ecosystem"
   },
   {
     "tag": "Lighter",
@@ -1291,11 +1321,6 @@
   },
   {
     "tag": "字母表",
-    "count": 1,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "CORS",
     "count": 1,
     "category": "ecosystem"
   },
@@ -2501,11 +2526,6 @@
   },
   {
     "tag": "Pushover",
-    "count": 1,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "xhttp-opts",
     "count": 1,
     "category": "ecosystem"
   },
