@@ -1,37 +1,37 @@
 {
-  "totalItems": 594,
-  "last24h": 13,
-  "last7d": 74,
+  "totalItems": 599,
+  "last24h": 10,
+  "last7d": 73,
   "byCategory": {
     "core": 92,
     "client": 152,
     "router": 1,
-    "protocol": 42,
-    "dns_rules": 11,
+    "protocol": 43,
+    "dns_rules": 12,
     "security": 5,
-    "ecosystem": 291,
+    "ecosystem": 294,
     "trend": 0
   },
   "topProjects": [
     {
       "project": "domain-list-community",
-      "count": 92
+      "count": 93
     },
     {
       "project": "mihomo",
-      "count": 66
+      "count": 67
     },
     {
       "project": "Sub-Store",
-      "count": 63
+      "count": 64
     },
     {
       "project": "v2ray-rules-dat",
-      "count": 40
+      "count": 41
     },
     {
       "project": "meta-rules-dat",
-      "count": 39
+      "count": 40
     },
     {
       "project": "ClashMetaForAndroid",
@@ -57,31 +57,31 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 127
+      "count": 129
     },
     {
       "tag": "v2fly",
-      "count": 96
+      "count": 97
     },
     {
       "tag": "mihomo",
-      "count": 67
+      "count": 68
     },
     {
       "tag": "Sub-Store",
-      "count": 63
+      "count": 64
     },
     {
       "tag": "domain-list-community",
-      "count": 50
+      "count": 51
+    },
+    {
+      "tag": "v2ray",
+      "count": 47
     },
     {
       "tag": "OpenVPN",
       "count": 47
-    },
-    {
-      "tag": "v2ray",
-      "count": 46
     },
     {
       "tag": "Android",
@@ -89,35 +89,35 @@
     },
     {
       "tag": "meta-rules-dat",
-      "count": 39
+      "count": 40
     },
     {
       "tag": "Loyalsoldier",
-      "count": 38
+      "count": 39
     },
     {
       "tag": "网络代理",
       "count": 38
     },
     {
-      "tag": "domain-list",
+      "tag": "rules",
       "count": 32
     },
     {
-      "tag": "rules",
-      "count": 31
+      "tag": "domain-list",
+      "count": 32
     },
     {
       "tag": "ClashMetaForAndroid",
       "count": 29
     },
     {
-      "tag": "代理",
+      "tag": "开源",
       "count": 26
     },
     {
-      "tag": "开源",
-      "count": 25
+      "tag": "代理",
+      "count": 26
     },
     {
       "tag": "Tailscale",
@@ -136,8 +136,8 @@
       "count": 24
     }
   ],
-  "importantCount": 182,
+  "importantCount": 183,
   "breakingCount": 34,
   "securityCount": 41,
-  "updatedAt": "2026-06-11T20:34:39.667Z"
+  "updatedAt": "2026-06-12T05:07:16.892Z"
 }

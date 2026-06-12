@@ -1,27 +1,32 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 127,
+    "count": 129,
     "category": "ecosystem"
   },
   {
     "tag": "v2fly",
-    "count": 96,
-    "category": "ecosystem"
+    "count": 97,
+    "category": "dns_rules"
   },
   {
     "tag": "mihomo",
-    "count": 67,
+    "count": 68,
     "category": "core"
   },
   {
     "tag": "Sub-Store",
-    "count": 63,
-    "category": "ecosystem"
+    "count": 64,
+    "category": "protocol"
   },
   {
     "tag": "domain-list-community",
-    "count": 50,
+    "count": 51,
+    "category": "dns_rules"
+  },
+  {
+    "tag": "v2ray",
+    "count": 47,
     "category": "ecosystem"
   },
   {
@@ -30,23 +35,18 @@
     "category": "core"
   },
   {
-    "tag": "v2ray",
-    "count": 46,
-    "category": "ecosystem"
-  },
-  {
     "tag": "Android",
     "count": 43,
     "category": "client"
   },
   {
     "tag": "meta-rules-dat",
-    "count": 39,
+    "count": 40,
     "category": "ecosystem"
   },
   {
     "tag": "Loyalsoldier",
-    "count": 38,
+    "count": 39,
     "category": "ecosystem"
   },
   {
@@ -55,13 +55,13 @@
     "category": "ecosystem"
   },
   {
-    "tag": "domain-list",
+    "tag": "rules",
     "count": 32,
     "category": "ecosystem"
   },
   {
-    "tag": "rules",
-    "count": 31,
+    "tag": "domain-list",
+    "count": 32,
     "category": "ecosystem"
   },
   {
@@ -70,13 +70,13 @@
     "category": "client"
   },
   {
-    "tag": "代理",
+    "tag": "开源",
     "count": 26,
     "category": "ecosystem"
   },
   {
-    "tag": "开源",
-    "count": 25,
+    "tag": "代理",
+    "count": 26,
     "category": "ecosystem"
   },
   {
@@ -115,14 +115,19 @@
     "category": "protocol"
   },
   {
+    "tag": "网络协议",
+    "count": 20,
+    "category": "protocol"
+  },
+  {
     "tag": "metacubexd",
     "count": 20,
     "category": "client"
   },
   {
-    "tag": "网络协议",
+    "tag": "dat",
     "count": 19,
-    "category": "core"
+    "category": "ecosystem"
   },
   {
     "tag": "CHACHA20-POLY1305",
@@ -130,14 +135,14 @@
     "category": "ecosystem"
   },
   {
-    "tag": "dat",
-    "count": 18,
-    "category": "ecosystem"
-  },
-  {
     "tag": "QUIC",
     "count": 17,
     "category": "ecosystem"
+  },
+  {
+    "tag": "Snell",
+    "count": 16,
+    "category": "protocol"
   },
   {
     "tag": "网络工具",
@@ -163,11 +168,6 @@
     "tag": "macOS",
     "count": 16,
     "category": "client"
-  },
-  {
-    "tag": "Snell",
-    "count": 15,
-    "category": "ecosystem"
   },
   {
     "tag": "3x-ui",
@@ -245,6 +245,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "Surge",
+    "count": 9,
+    "category": "protocol"
+  },
+  {
     "tag": "xray",
     "count": 9,
     "category": "core"
@@ -293,11 +298,6 @@
     "tag": "WireGuard",
     "count": 8,
     "category": "core"
-  },
-  {
-    "tag": "Surge",
-    "count": 8,
-    "category": "ecosystem"
   },
   {
     "tag": "Mihomo",
@@ -750,6 +750,11 @@
     "category": "client"
   },
   {
+    "tag": "xhttp-opts",
+    "count": 3,
+    "category": "ecosystem"
+  },
+  {
     "tag": "protocol",
     "count": 3,
     "category": "protocol"
@@ -1040,11 +1045,6 @@
     "category": "client"
   },
   {
-    "tag": "xhttp-opts",
-    "count": 2,
-    "category": "ecosystem"
-  },
-  {
     "tag": "ping keepalive",
     "count": 2,
     "category": "protocol"
@@ -1058,6 +1058,11 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "广告规则",
+    "count": 1,
+    "category": "dns_rules"
   },
   {
     "tag": "插件",
