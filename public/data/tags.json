@@ -135,6 +135,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "Xray",
+    "count": 18,
+    "category": "core"
+  },
+  {
     "tag": "SagerNet",
     "count": 17,
     "category": "ecosystem"
@@ -145,14 +150,14 @@
     "category": "client"
   },
   {
-    "tag": "Xray",
-    "count": 17,
-    "category": "client"
-  },
-  {
     "tag": "QUIC",
     "count": 17,
     "category": "ecosystem"
+  },
+  {
+    "tag": "3x-ui",
+    "count": 16,
+    "category": "core"
   },
   {
     "tag": "Snell",
@@ -168,11 +173,6 @@
     "tag": "macOS",
     "count": 16,
     "category": "client"
-  },
-  {
-    "tag": "3x-ui",
-    "count": 15,
-    "category": "ecosystem"
   },
   {
     "tag": "v2rayNG",
@@ -245,6 +245,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "WireGuard",
+    "count": 9,
+    "category": "core"
+  },
+  {
     "tag": ".NET",
     "count": 9,
     "category": "client"
@@ -295,11 +300,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "WireGuard",
-    "count": 8,
-    "category": "core"
-  },
-  {
     "tag": "Mihomo",
     "count": 8,
     "category": "client"
@@ -308,6 +308,11 @@
     "tag": "用户体验",
     "count": 8,
     "category": "client"
+  },
+  {
+    "tag": "gRPC",
+    "count": 7,
+    "category": "core"
   },
   {
     "tag": "Docker",
@@ -338,11 +343,6 @@
     "tag": "快捷方式",
     "count": 7,
     "category": "client"
-  },
-  {
-    "tag": "gRPC",
-    "count": 6,
-    "category": "ecosystem"
   },
   {
     "tag": "域名列表",
@@ -758,6 +758,11 @@
     "tag": "protocol",
     "count": 3,
     "category": "protocol"
+  },
+  {
+    "tag": "MTProto",
+    "count": 2,
+    "category": "core"
   },
   {
     "tag": "安全",
@@ -1196,11 +1201,6 @@
   },
   {
     "tag": "日本",
-    "count": 1,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "MTProto",
     "count": 1,
     "category": "ecosystem"
   },

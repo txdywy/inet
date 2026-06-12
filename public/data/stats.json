@@ -1,9 +1,9 @@
 {
-  "totalItems": 606,
+  "totalItems": 607,
   "last24h": 10,
-  "last7d": 70,
+  "last7d": 68,
   "byCategory": {
-    "core": 92,
+    "core": 93,
     "client": 153,
     "router": 1,
     "protocol": 43,
@@ -136,8 +136,8 @@
       "count": 24
     }
   ],
-  "importantCount": 185,
+  "importantCount": 186,
   "breakingCount": 35,
-  "securityCount": 42,
-  "updatedAt": "2026-06-12T15:43:14.859Z"
+  "securityCount": 43,
+  "updatedAt": "2026-06-12T20:24:30.047Z"
 }
