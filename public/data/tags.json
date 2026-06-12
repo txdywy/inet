@@ -1,17 +1,17 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 129,
+    "count": 130,
     "category": "ecosystem"
   },
   {
     "tag": "v2fly",
-    "count": 97,
-    "category": "dns_rules"
+    "count": 99,
+    "category": "ecosystem"
   },
   {
     "tag": "mihomo",
-    "count": 68,
+    "count": 69,
     "category": "core"
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "tag": "domain-list-community",
-    "count": 51,
+    "count": 52,
     "category": "dns_rules"
   },
   {
@@ -55,12 +55,12 @@
     "category": "ecosystem"
   },
   {
-    "tag": "rules",
-    "count": 32,
+    "tag": "domain-list",
+    "count": 33,
     "category": "ecosystem"
   },
   {
-    "tag": "domain-list",
+    "tag": "rules",
     "count": 32,
     "category": "ecosystem"
   },
@@ -405,6 +405,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "dns",
+    "count": 5,
+    "category": "dns_rules"
+  },
+  {
     "tag": "Loon",
     "count": 5,
     "category": "ecosystem"
@@ -550,11 +555,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "dns",
-    "count": 4,
-    "category": "dns_rules"
-  },
-  {
     "tag": "多语言支持",
     "count": 4,
     "category": "client"
@@ -578,6 +578,11 @@
     "tag": "nekoray",
     "count": 4,
     "category": "client"
+  },
+  {
+    "tag": "xhttp-opts",
+    "count": 4,
+    "category": "ecosystem"
   },
   {
     "tag": "网络",
@@ -748,11 +753,6 @@
     "tag": "NekoBoxForAndroid",
     "count": 3,
     "category": "client"
-  },
-  {
-    "tag": "xhttp-opts",
-    "count": 3,
-    "category": "ecosystem"
   },
   {
     "tag": "protocol",
@@ -1058,6 +1058,16 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "livejournal",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "nspk.ru",
+    "count": 1,
+    "category": "dns_rules"
   },
   {
     "tag": "广告规则",
@@ -2576,6 +2586,11 @@
   },
   {
     "tag": "Pushover",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "会话管理",
     "count": 1,
     "category": "ecosystem"
   },
