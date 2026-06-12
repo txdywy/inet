@@ -1,25 +1,25 @@
 {
-  "totalItems": 602,
-  "last24h": 12,
-  "last7d": 69,
+  "totalItems": 606,
+  "last24h": 10,
+  "last7d": 70,
   "byCategory": {
     "core": 92,
-    "client": 152,
+    "client": 153,
     "router": 1,
     "protocol": 43,
     "dns_rules": 13,
     "security": 5,
-    "ecosystem": 296,
+    "ecosystem": 299,
     "trend": 0
   },
   "topProjects": [
     {
       "project": "domain-list-community",
-      "count": 95
+      "count": 96
     },
     {
       "project": "mihomo",
-      "count": 68
+      "count": 69
     },
     {
       "project": "Sub-Store",
@@ -42,30 +42,30 @@
       "count": 23
     },
     {
-      "project": "clash-verge-rev",
+      "project": "sing-box",
       "count": 17
     },
     {
-      "project": "sing-box",
-      "count": 16
+      "project": "v2rayN",
+      "count": 17
     },
     {
-      "project": "v2rayN",
-      "count": 16
+      "project": "clash-verge-rev",
+      "count": 17
     }
   ],
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 130
+      "count": 131
     },
     {
       "tag": "v2fly",
-      "count": 99
+      "count": 100
     },
     {
       "tag": "mihomo",
-      "count": 69
+      "count": 70
     },
     {
       "tag": "Sub-Store",
@@ -120,6 +120,10 @@
       "count": 26
     },
     {
+      "tag": "sing-box",
+      "count": 25
+    },
+    {
       "tag": "Tailscale",
       "count": 25
     },
@@ -128,16 +132,12 @@
       "count": 25
     },
     {
-      "tag": "sing-box",
-      "count": 24
-    },
-    {
       "tag": "HTTP/2",
       "count": 24
     }
   ],
-  "importantCount": 183,
-  "breakingCount": 34,
-  "securityCount": 41,
-  "updatedAt": "2026-06-12T10:41:51.045Z"
+  "importantCount": 185,
+  "breakingCount": 35,
+  "securityCount": 42,
+  "updatedAt": "2026-06-12T15:43:14.859Z"
 }

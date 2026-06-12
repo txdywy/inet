@@ -1,17 +1,17 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 130,
+    "count": 131,
     "category": "ecosystem"
   },
   {
     "tag": "v2fly",
-    "count": 99,
+    "count": 100,
     "category": "ecosystem"
   },
   {
     "tag": "mihomo",
-    "count": 69,
+    "count": 70,
     "category": "core"
   },
   {
@@ -80,6 +80,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "sing-box",
+    "count": 25,
+    "category": "ecosystem"
+  },
+  {
     "tag": "Tailscale",
     "count": 25,
     "category": "core"
@@ -88,11 +93,6 @@
     "tag": "Windows",
     "count": 25,
     "category": "client"
-  },
-  {
-    "tag": "sing-box",
-    "count": 24,
-    "category": "core"
   },
   {
     "tag": "HTTP/2",
@@ -135,6 +135,21 @@
     "category": "ecosystem"
   },
   {
+    "tag": "SagerNet",
+    "count": 17,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "v2rayN",
+    "count": 17,
+    "category": "client"
+  },
+  {
+    "tag": "Xray",
+    "count": 17,
+    "category": "client"
+  },
+  {
     "tag": "QUIC",
     "count": 17,
     "category": "ecosystem"
@@ -146,21 +161,6 @@
   },
   {
     "tag": "网络工具",
-    "count": 16,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "SagerNet",
-    "count": 16,
-    "category": "core"
-  },
-  {
-    "tag": "v2rayN",
-    "count": 16,
-    "category": "client"
-  },
-  {
-    "tag": "Xray",
     "count": 16,
     "category": "ecosystem"
   },
@@ -190,6 +190,11 @@
     "category": "core"
   },
   {
+    "tag": "SOCKS",
+    "count": 13,
+    "category": "client"
+  },
+  {
     "tag": "go-gost",
     "count": 13,
     "category": "ecosystem"
@@ -203,11 +208,6 @@
     "tag": "DNS",
     "count": 13,
     "category": "security"
-  },
-  {
-    "tag": "SOCKS",
-    "count": 12,
-    "category": "client"
   },
   {
     "tag": "Hysteria",
@@ -243,6 +243,11 @@
     "tag": "Clash",
     "count": 10,
     "category": "ecosystem"
+  },
+  {
+    "tag": ".NET",
+    "count": 9,
+    "category": "client"
   },
   {
     "tag": "Surge",
@@ -283,11 +288,6 @@
     "tag": "v2ray-agent",
     "count": 8,
     "category": "core"
-  },
-  {
-    "tag": ".NET",
-    "count": 8,
-    "category": "client"
   },
   {
     "tag": "性能优化",
@@ -338,6 +338,11 @@
     "tag": "快捷方式",
     "count": 7,
     "category": "client"
+  },
+  {
+    "tag": "gRPC",
+    "count": 6,
+    "category": "ecosystem"
   },
   {
     "tag": "域名列表",
@@ -405,6 +410,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "API",
+    "count": 5,
+    "category": "ecosystem"
+  },
+  {
     "tag": "dns",
     "count": 5,
     "category": "dns_rules"
@@ -423,11 +433,6 @@
     "tag": "网络安全",
     "count": 5,
     "category": "ecosystem"
-  },
-  {
-    "tag": "gRPC",
-    "count": 5,
-    "category": "protocol"
   },
   {
     "tag": "域名解析",
@@ -505,6 +510,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "xhttp-opts",
+    "count": 5,
+    "category": "ecosystem"
+  },
+  {
     "tag": "subconverter",
     "count": 5,
     "category": "ecosystem"
@@ -518,11 +528,6 @@
     "tag": "tuic",
     "count": 5,
     "category": "protocol"
-  },
-  {
-    "tag": "API",
-    "count": 4,
-    "category": "ecosystem"
   },
   {
     "tag": "age",
@@ -578,11 +583,6 @@
     "tag": "nekoray",
     "count": 4,
     "category": "client"
-  },
-  {
-    "tag": "xhttp-opts",
-    "count": 4,
-    "category": "ecosystem"
   },
   {
     "tag": "网络",
@@ -758,6 +758,11 @@
     "tag": "protocol",
     "count": 3,
     "category": "protocol"
+  },
+  {
+    "tag": "安全",
+    "count": 2,
+    "category": "client"
   },
   {
     "tag": "资源解析器",
@@ -1060,6 +1065,21 @@
     "category": "security"
   },
   {
+    "tag": "douyin",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "hypercachenode.com",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "Dashboard",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
     "tag": "livejournal",
     "count": 1,
     "category": "ecosystem"
@@ -1218,11 +1238,6 @@
     "tag": "证书申请",
     "count": 1,
     "category": "core"
-  },
-  {
-    "tag": "安全",
-    "count": 1,
-    "category": "client"
   },
   {
     "tag": "容器化",
@@ -2586,6 +2601,11 @@
   },
   {
     "tag": "Pushover",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "rematch",
     "count": 1,
     "category": "ecosystem"
   },
