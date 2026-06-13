@@ -1,10 +1,10 @@
 {
-  "totalItems": 616,
-  "last24h": 14,
+  "totalItems": 619,
+  "last24h": 13,
   "last7d": 68,
   "byCategory": {
-    "core": 94,
-    "client": 155,
+    "core": 95,
+    "client": 157,
     "router": 1,
     "protocol": 43,
     "dns_rules": 13,
@@ -19,7 +19,7 @@
     },
     {
       "project": "mihomo",
-      "count": 69
+      "count": 70
     },
     {
       "project": "Sub-Store",
@@ -39,7 +39,7 @@
     },
     {
       "project": "metacubexd",
-      "count": 26
+      "count": 28
     },
     {
       "project": "sing-box",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 135
+      "count": 138
     },
     {
       "tag": "v2fly",
@@ -65,7 +65,7 @@
     },
     {
       "tag": "mihomo",
-      "count": 70
+      "count": 71
     },
     {
       "tag": "Sub-Store",
@@ -124,20 +124,20 @@
       "count": 26
     },
     {
+      "tag": "metacubexd",
+      "count": 25
+    },
+    {
       "tag": "Tailscale",
       "count": 25
     },
     {
       "tag": "Windows",
       "count": 25
-    },
-    {
-      "tag": "HTTP/2",
-      "count": 24
     }
   ],
   "importantCount": 187,
   "breakingCount": 35,
   "securityCount": 43,
-  "updatedAt": "2026-06-13T09:38:58.994Z"
+  "updatedAt": "2026-06-13T14:29:39.764Z"
 }

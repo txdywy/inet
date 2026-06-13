@@ -1,8 +1,8 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 135,
-    "category": "core"
+    "count": 138,
+    "category": "client"
   },
   {
     "tag": "v2fly",
@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 70,
+    "count": 71,
     "category": "core"
   },
   {
@@ -85,6 +85,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "metacubexd",
+    "count": 25,
+    "category": "client"
+  },
+  {
     "tag": "Tailscale",
     "count": 25,
     "category": "core"
@@ -98,11 +103,6 @@
     "tag": "HTTP/2",
     "count": 24,
     "category": "protocol"
-  },
-  {
-    "tag": "metacubexd",
-    "count": 23,
-    "category": "core"
   },
   {
     "tag": "代理工具",
@@ -245,6 +245,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "性能优化",
+    "count": 9,
+    "category": "client"
+  },
+  {
     "tag": "WireGuard",
     "count": 9,
     "category": "core"
@@ -293,11 +298,6 @@
     "tag": "v2ray-agent",
     "count": 8,
     "category": "core"
-  },
-  {
-    "tag": "性能优化",
-    "count": 8,
-    "category": "ecosystem"
   },
   {
     "tag": "Mihomo",
@@ -410,6 +410,11 @@
     "category": "core"
   },
   {
+    "tag": "xhttp-opts",
+    "count": 6,
+    "category": "core"
+  },
+  {
     "tag": "Alpha",
     "count": 6,
     "category": "ecosystem"
@@ -510,11 +515,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "xhttp-opts",
-    "count": 5,
-    "category": "ecosystem"
-  },
-  {
     "tag": "subconverter",
     "count": 5,
     "category": "ecosystem"
@@ -528,6 +528,11 @@
     "tag": "tuic",
     "count": 5,
     "category": "protocol"
+  },
+  {
+    "tag": "bugfix",
+    "count": 4,
+    "category": "client"
   },
   {
     "tag": "age",
@@ -653,11 +658,6 @@
     "tag": "优化",
     "count": 3,
     "category": "protocol"
-  },
-  {
-    "tag": "bugfix",
-    "count": 3,
-    "category": "client"
   },
   {
     "tag": "WebSocket",
@@ -1068,6 +1068,11 @@
     "tag": "NekoBox",
     "count": 2,
     "category": "client"
+  },
+  {
+    "tag": "rematch",
+    "count": 2,
+    "category": "core"
   },
   {
     "tag": "ping keepalive",
@@ -2610,9 +2615,9 @@
     "category": "ecosystem"
   },
   {
-    "tag": "rematch",
+    "tag": "snell",
     "count": 1,
-    "category": "ecosystem"
+    "category": "core"
   },
   {
     "tag": "会话管理",
