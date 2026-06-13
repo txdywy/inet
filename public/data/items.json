@@ -1,5 +1,38 @@
 [
   {
+    "id": "23a673244e1a28cb",
+    "title": "20260613160425",
+    "summary": "本次更新主要是通过更新代理服务器域名来提升域名列表的准确性和可用性。",
+    "analysis": "此次更新主要集中在更新代理服务器的域名，具体由贡献者 @Keiron9 提交的 PR 完成。这种更新对于使用 V2Fly 的用户来说至关重要，因为准确的域名列表直接影响到代理的稳定性和可用性。用户在使用代理服务时，若域名过期或不可用，可能会导致连接失败或速度下降。因此，及时更新域名列表可以有效提升用户体验。此外，这次更新没有提及任何破坏性变更或安全相关的修复，表明用户可以安全地进行更新。建议用户尽快更新，以确保使用最新的域名信息，避免潜在的连接问题。",
+    "rawTitle": "20260613160425",
+    "rawBody": "## What's Changed\n* Update broker domains by @Keiron9 in https://github.com/v2fly/domain-list-community/pull/3732\n\n## New Contributors\n* @Keiron9 made their first contribution in https://github.com/v2fly/domain-list-community/pull/3732\n\n**Full Changelog**: https://github.com/v2fly/domain-list-community/compare/20260613035141...20260613160425",
+    "sourceType": "github_release",
+    "sourceName": "v2fly/domain-list-community",
+    "sourceUrl": "https://github.com/v2fly/domain-list-community/releases/tag/20260613160425",
+    "project": "domain-list-community",
+    "repo": "v2fly/domain-list-community",
+    "slug": "domain-list-community",
+    "version": "20260613160425",
+    "category": "ecosystem",
+    "tags": [
+      "v2fly",
+      "domain-list-community",
+      "代理",
+      "域名"
+    ],
+    "platforms": [],
+    "importance": 3,
+    "confidence": 0.9,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-06-13T16:04:32Z",
+    "fetchedAt": "2026-06-13T19:52:47.543Z",
+    "firstSeenAt": "2026-06-13T19:52:52.144Z",
+    "updatedAt": "2026-06-13T19:52:52.144Z",
+    "hash": "23a673244e1a28cb"
+  },
+  {
     "id": "4fc5e9006fc09785",
     "title": "v1.254.2",
     "summary": "MetaCubeX/metacubexd 发布了 v1.254.2 版本，主要针对性能进行了改进。",

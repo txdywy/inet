@@ -1,7 +1,7 @@
 {
-  "totalItems": 619,
-  "last24h": 13,
-  "last7d": 68,
+  "totalItems": 620,
+  "last24h": 12,
+  "last7d": 66,
   "byCategory": {
     "core": 95,
     "client": 157,
@@ -9,13 +9,13 @@
     "protocol": 43,
     "dns_rules": 13,
     "security": 5,
-    "ecosystem": 305,
+    "ecosystem": 306,
     "trend": 0
   },
   "topProjects": [
     {
       "project": "domain-list-community",
-      "count": 99
+      "count": 100
     },
     {
       "project": "mihomo",
@@ -61,7 +61,7 @@
     },
     {
       "tag": "v2fly",
-      "count": 103
+      "count": 104
     },
     {
       "tag": "mihomo",
@@ -73,7 +73,7 @@
     },
     {
       "tag": "domain-list-community",
-      "count": 53
+      "count": 54
     },
     {
       "tag": "v2ray",
@@ -109,7 +109,7 @@
     },
     {
       "tag": "代理",
-      "count": 29
+      "count": 30
     },
     {
       "tag": "ClashMetaForAndroid",
@@ -139,5 +139,5 @@
   "importantCount": 187,
   "breakingCount": 35,
   "securityCount": 43,
-  "updatedAt": "2026-06-13T14:29:39.764Z"
+  "updatedAt": "2026-06-13T19:52:52.579Z"
 }

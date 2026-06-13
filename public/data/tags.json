@@ -6,7 +6,7 @@
   },
   {
     "tag": "v2fly",
-    "count": 103,
+    "count": 104,
     "category": "ecosystem"
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "tag": "domain-list-community",
-    "count": 53,
+    "count": 54,
     "category": "ecosystem"
   },
   {
@@ -66,8 +66,8 @@
   },
   {
     "tag": "代理",
-    "count": 29,
-    "category": "core"
+    "count": 30,
+    "category": "ecosystem"
   },
   {
     "tag": "ClashMetaForAndroid",
@@ -350,6 +350,11 @@
     "category": "client"
   },
   {
+    "tag": "域名",
+    "count": 6,
+    "category": "ecosystem"
+  },
+  {
     "tag": "域名列表",
     "count": 6,
     "category": "ecosystem"
@@ -431,11 +436,6 @@
   },
   {
     "tag": "Loon",
-    "count": 5,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "域名",
     "count": 5,
     "category": "ecosystem"
   },
