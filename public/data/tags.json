@@ -1,12 +1,12 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 131,
+    "count": 132,
     "category": "ecosystem"
   },
   {
     "tag": "v2fly",
-    "count": 100,
+    "count": 103,
     "category": "ecosystem"
   },
   {
@@ -21,12 +21,12 @@
   },
   {
     "tag": "domain-list-community",
-    "count": 52,
-    "category": "dns_rules"
+    "count": 53,
+    "category": "ecosystem"
   },
   {
     "tag": "v2ray",
-    "count": 47,
+    "count": 48,
     "category": "ecosystem"
   },
   {
@@ -41,27 +41,27 @@
   },
   {
     "tag": "meta-rules-dat",
+    "count": 41,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "网络代理",
     "count": 40,
     "category": "ecosystem"
   },
   {
     "tag": "Loyalsoldier",
-    "count": 39,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "网络代理",
-    "count": 38,
+    "count": 40,
     "category": "ecosystem"
   },
   {
     "tag": "domain-list",
-    "count": 33,
+    "count": 35,
     "category": "ecosystem"
   },
   {
     "tag": "rules",
-    "count": 32,
+    "count": 33,
     "category": "ecosystem"
   },
   {
@@ -760,6 +760,16 @@
     "category": "protocol"
   },
   {
+    "tag": "geolocation",
+    "count": 2,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "steam",
+    "count": 2,
+    "category": "ecosystem"
+  },
+  {
     "tag": "MTProto",
     "count": 2,
     "category": "core"
@@ -1146,11 +1156,6 @@
   },
   {
     "tag": "xtom",
-    "count": 1,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "steam",
     "count": 1,
     "category": "ecosystem"
   },
@@ -1726,11 +1731,6 @@
   },
   {
     "tag": "hamivideo",
-    "count": 1,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "geolocation",
     "count": 1,
     "category": "ecosystem"
   },
