@@ -1,8 +1,8 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 138,
-    "category": "client"
+    "count": 140,
+    "category": "ecosystem"
   },
   {
     "tag": "v2fly",
@@ -26,7 +26,7 @@
   },
   {
     "tag": "v2ray",
-    "count": 48,
+    "count": 49,
     "category": "ecosystem"
   },
   {
@@ -36,21 +36,21 @@
   },
   {
     "tag": "Android",
-    "count": 43,
+    "count": 44,
     "category": "client"
   },
   {
     "tag": "meta-rules-dat",
+    "count": 42,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "Loyalsoldier",
     "count": 41,
     "category": "ecosystem"
   },
   {
     "tag": "网络代理",
-    "count": 40,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "Loyalsoldier",
     "count": 40,
     "category": "ecosystem"
   },
@@ -61,7 +61,7 @@
   },
   {
     "tag": "rules",
-    "count": 33,
+    "count": 34,
     "category": "ecosystem"
   },
   {
@@ -75,6 +75,11 @@
     "category": "client"
   },
   {
+    "tag": "metacubexd",
+    "count": 26,
+    "category": "ecosystem"
+  },
+  {
     "tag": "sing-box",
     "count": 26,
     "category": "ecosystem"
@@ -83,11 +88,6 @@
     "tag": "开源",
     "count": 26,
     "category": "ecosystem"
-  },
-  {
-    "tag": "metacubexd",
-    "count": 25,
-    "category": "client"
   },
   {
     "tag": "Tailscale",
@@ -120,14 +120,14 @@
     "category": "protocol"
   },
   {
+    "tag": "dat",
+    "count": 20,
+    "category": "ecosystem"
+  },
+  {
     "tag": "网络协议",
     "count": 20,
     "category": "protocol"
-  },
-  {
-    "tag": "dat",
-    "count": 19,
-    "category": "ecosystem"
   },
   {
     "tag": "CHACHA20-POLY1305",
@@ -155,6 +155,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "v2rayNG",
+    "count": 16,
+    "category": "client"
+  },
+  {
     "tag": "3x-ui",
     "count": 16,
     "category": "core"
@@ -175,8 +180,8 @@
     "category": "client"
   },
   {
-    "tag": "v2rayNG",
-    "count": 15,
+    "tag": "Xray-core",
+    "count": 14,
     "category": "client"
   },
   {
@@ -198,11 +203,6 @@
     "tag": "go-gost",
     "count": 13,
     "category": "ecosystem"
-  },
-  {
-    "tag": "Xray-core",
-    "count": 13,
-    "category": "client"
   },
   {
     "tag": "DNS",
@@ -242,6 +242,11 @@
   {
     "tag": "Clash",
     "count": 10,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "用户体验",
+    "count": 9,
     "category": "ecosystem"
   },
   {
@@ -301,11 +306,6 @@
   },
   {
     "tag": "Mihomo",
-    "count": 8,
-    "category": "client"
-  },
-  {
-    "tag": "用户体验",
     "count": 8,
     "category": "client"
   },
@@ -590,6 +590,11 @@
     "category": "client"
   },
   {
+    "tag": "证书验证",
+    "count": 3,
+    "category": "client"
+  },
+  {
     "tag": "网络",
     "count": 3,
     "category": "ecosystem"
@@ -870,11 +875,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "证书验证",
-    "count": 2,
-    "category": "client"
-  },
-  {
     "tag": "加密协议",
     "count": 2,
     "category": "protocol"
@@ -1088,6 +1088,11 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "规则管理",
+    "count": 1,
+    "category": "ecosystem"
   },
   {
     "tag": "移动端",
