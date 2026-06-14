@@ -1,5 +1,37 @@
 [
   {
+    "id": "6c7e1ae3b69d04a8",
+    "title": "20260614141449",
+    "summary": "本次更新新增了 nic-ru 域名列表，提升了对俄罗斯域名的支持。",
+    "analysis": "此次更新主要是通过创建 nic-ru 域名列表来增强对俄罗斯域名的支持。这对于需要访问俄罗斯网站的用户来说是一个重要的补充，尤其是在网络环境复杂的情况下。对于开发者而言，这意味着在使用该项目时可以更方便地管理与俄罗斯相关的域名，提升了项目的实用性和灵活性。此次更新没有涉及协议的变化，因此兼容性风险较低，用户可以放心使用。建议用户尽快更新，以便获得最新的域名支持。",
+    "rawTitle": "20260614141449",
+    "rawBody": "## What's Changed\n* Create nic-ru by @vmkspv in https://github.com/v2fly/domain-list-community/pull/3744\n\n\n**Full Changelog**: https://github.com/v2fly/domain-list-community/compare/20260614060203...20260614141449",
+    "sourceType": "github_release",
+    "sourceName": "v2fly/domain-list-community",
+    "sourceUrl": "https://github.com/v2fly/domain-list-community/releases/tag/20260614141449",
+    "project": "domain-list-community",
+    "repo": "v2fly/domain-list-community",
+    "slug": "domain-list-community",
+    "version": "20260614141449",
+    "category": "ecosystem",
+    "tags": [
+      "v2fly",
+      "domain-list",
+      "nic-ru"
+    ],
+    "platforms": [],
+    "importance": 3,
+    "confidence": 0.9,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-06-14T14:14:55Z",
+    "fetchedAt": "2026-06-14T14:31:19.761Z",
+    "firstSeenAt": "2026-06-14T14:31:24.162Z",
+    "updatedAt": "2026-06-14T14:31:24.162Z",
+    "hash": "6c7e1ae3b69d04a8"
+  },
+  {
     "id": "93841f135522580e",
     "title": "v149.0.7827.114-1",
     "summary": "naiveproxy 更新至版本 v149.0.7827.114-1，进行了代码重基。",

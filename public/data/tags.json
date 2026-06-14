@@ -6,8 +6,8 @@
   },
   {
     "tag": "v2fly",
-    "count": 109,
-    "category": "dns_rules"
+    "count": 110,
+    "category": "ecosystem"
   },
   {
     "tag": "mihomo",
@@ -56,8 +56,8 @@
   },
   {
     "tag": "domain-list",
-    "count": 36,
-    "category": "dns_rules"
+    "count": 37,
+    "category": "ecosystem"
   },
   {
     "tag": "rules",
@@ -1098,6 +1098,11 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "nic-ru",
+    "count": 1,
+    "category": "ecosystem"
   },
   {
     "tag": "重基",
