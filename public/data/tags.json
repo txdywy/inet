@@ -6,7 +6,7 @@
   },
   {
     "tag": "v2fly",
-    "count": 110,
+    "count": 111,
     "category": "ecosystem"
   },
   {
@@ -56,7 +56,7 @@
   },
   {
     "tag": "domain-list",
-    "count": 37,
+    "count": 38,
     "category": "ecosystem"
   },
   {
@@ -355,6 +355,11 @@
     "category": "client"
   },
   {
+    "tag": "中国域名",
+    "count": 6,
+    "category": "ecosystem"
+  },
+  {
     "tag": "域名解析",
     "count": 6,
     "category": "dns_rules"
@@ -456,11 +461,6 @@
   },
   {
     "tag": "nftables",
-    "count": 5,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "中国域名",
     "count": 5,
     "category": "ecosystem"
   },

@@ -1,5 +1,37 @@
 [
   {
+    "id": "c7096919dfdabb8b",
+    "title": "20260614143513",
+    "summary": "本次更新增加了更多的中国域名，提升了域名列表的丰富性和可用性。",
+    "analysis": "此次更新主要通过合并来自用户@MkQtS的贡献，增加了更多的中国域名。这一变化对于使用V2Fly的用户来说非常重要，因为丰富的域名列表可以提高网络连接的稳定性和可用性，尤其是在中国地区。对于开发者而言，这意味着项目的社区参与度在提升，能够更好地满足用户需求。此次更新没有涉及协议的变化，也没有破坏性变更，因此用户可以放心更新。建议用户及时更新，以便利用新增的域名资源。",
+    "rawTitle": "20260614143513",
+    "rawBody": "## What's Changed\n* Add more cn domains by @MkQtS in https://github.com/v2fly/domain-list-community/pull/3746\n\n\n**Full Changelog**: https://github.com/v2fly/domain-list-community/compare/20260614141449...20260614143513",
+    "sourceType": "github_release",
+    "sourceName": "v2fly/domain-list-community",
+    "sourceUrl": "https://github.com/v2fly/domain-list-community/releases/tag/20260614143513",
+    "project": "domain-list-community",
+    "repo": "v2fly/domain-list-community",
+    "slug": "domain-list-community",
+    "version": "20260614143513",
+    "category": "ecosystem",
+    "tags": [
+      "v2fly",
+      "domain-list",
+      "中国域名"
+    ],
+    "platforms": [],
+    "importance": 3,
+    "confidence": 0.9,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-06-14T14:35:20Z",
+    "fetchedAt": "2026-06-14T19:56:29.256Z",
+    "firstSeenAt": "2026-06-14T19:56:33.128Z",
+    "updatedAt": "2026-06-14T19:56:33.128Z",
+    "hash": "c7096919dfdabb8b"
+  },
+  {
     "id": "6c7e1ae3b69d04a8",
     "title": "20260614141449",
     "summary": "本次更新新增了 nic-ru 域名列表，提升了对俄罗斯域名的支持。",
