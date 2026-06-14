@@ -6,8 +6,8 @@
   },
   {
     "tag": "v2fly",
-    "count": 104,
-    "category": "ecosystem"
+    "count": 109,
+    "category": "dns_rules"
   },
   {
     "tag": "mihomo",
@@ -21,8 +21,8 @@
   },
   {
     "tag": "domain-list-community",
-    "count": 54,
-    "category": "ecosystem"
+    "count": 58,
+    "category": "dns_rules"
   },
   {
     "tag": "v2ray",
@@ -56,8 +56,8 @@
   },
   {
     "tag": "domain-list",
-    "count": 35,
-    "category": "ecosystem"
+    "count": 36,
+    "category": "dns_rules"
   },
   {
     "tag": "rules",
@@ -210,6 +210,11 @@
     "category": "security"
   },
   {
+    "tag": "naiveproxy",
+    "count": 12,
+    "category": "core"
+  },
+  {
     "tag": "Hysteria",
     "count": 12,
     "category": "security"
@@ -223,11 +228,6 @@
     "tag": "TLS",
     "count": 11,
     "category": "core"
-  },
-  {
-    "tag": "naiveproxy",
-    "count": 11,
-    "category": "client"
   },
   {
     "tag": "VMess",
@@ -310,6 +310,11 @@
     "category": "client"
   },
   {
+    "tag": "dns",
+    "count": 7,
+    "category": "dns_rules"
+  },
+  {
     "tag": "用户界面",
     "count": 7,
     "category": "client"
@@ -348,6 +353,11 @@
     "tag": "快捷方式",
     "count": 7,
     "category": "client"
+  },
+  {
+    "tag": "域名解析",
+    "count": 6,
+    "category": "dns_rules"
   },
   {
     "tag": "域名",
@@ -430,11 +440,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "dns",
-    "count": 5,
-    "category": "dns_rules"
-  },
-  {
     "tag": "Loon",
     "count": 5,
     "category": "ecosystem"
@@ -443,11 +448,6 @@
     "tag": "网络安全",
     "count": 5,
     "category": "ecosystem"
-  },
-  {
-    "tag": "域名解析",
-    "count": 5,
-    "category": "dns_rules"
   },
   {
     "tag": "Shadowrocket",
@@ -588,6 +588,11 @@
     "tag": "nekoray",
     "count": 4,
     "category": "client"
+  },
+  {
+    "tag": "steam",
+    "count": 3,
+    "category": "ecosystem"
   },
   {
     "tag": "证书验证",
@@ -765,17 +770,22 @@
     "category": "protocol"
   },
   {
+    "tag": "Chromium",
+    "count": 2,
+    "category": "core"
+  },
+  {
+    "tag": "域名分类",
+    "count": 2,
+    "category": "ecosystem"
+  },
+  {
     "tag": "连接管理",
     "count": 2,
     "category": "core"
   },
   {
     "tag": "geolocation",
-    "count": 2,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "steam",
     "count": 2,
     "category": "ecosystem"
   },
@@ -1088,6 +1098,21 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "重基",
+    "count": 1,
+    "category": "core"
+  },
+  {
+    "tag": "Binance",
+    "count": 1,
+    "category": "dns_rules"
+  },
+  {
+    "tag": "加密货币",
+    "count": 1,
+    "category": "ecosystem"
   },
   {
     "tag": "规则管理",
@@ -2030,11 +2055,6 @@
     "category": "dns_rules"
   },
   {
-    "tag": "域名分类",
-    "count": 1,
-    "category": "dns_rules"
-  },
-  {
     "tag": "连接",
     "count": 1,
     "category": "core"
@@ -2321,11 +2341,6 @@
   },
   {
     "tag": "WebRTC",
-    "count": 1,
-    "category": "core"
-  },
-  {
-    "tag": "Chromium",
     "count": 1,
     "category": "core"
   },

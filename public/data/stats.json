@@ -1,21 +1,21 @@
 {
-  "totalItems": 624,
-  "last24h": 11,
-  "last7d": 67,
+  "totalItems": 630,
+  "last24h": 13,
+  "last7d": 72,
   "byCategory": {
-    "core": 95,
+    "core": 96,
     "client": 158,
     "router": 1,
     "protocol": 43,
-    "dns_rules": 13,
+    "dns_rules": 16,
     "security": 5,
-    "ecosystem": 309,
+    "ecosystem": 311,
     "trend": 0
   },
   "topProjects": [
     {
       "project": "domain-list-community",
-      "count": 100
+      "count": 105
     },
     {
       "project": "mihomo",
@@ -61,7 +61,7 @@
     },
     {
       "tag": "v2fly",
-      "count": 104
+      "count": 109
     },
     {
       "tag": "mihomo",
@@ -73,7 +73,7 @@
     },
     {
       "tag": "domain-list-community",
-      "count": 54
+      "count": 58
     },
     {
       "tag": "v2ray",
@@ -101,7 +101,7 @@
     },
     {
       "tag": "domain-list",
-      "count": 35
+      "count": 36
     },
     {
       "tag": "rules",
@@ -139,5 +139,5 @@
   "importantCount": 188,
   "breakingCount": 36,
   "securityCount": 44,
-  "updatedAt": "2026-06-14T05:11:39.956Z"
+  "updatedAt": "2026-06-14T09:57:49.708Z"
 }
