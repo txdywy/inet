@@ -86,21 +86,6 @@
     ]
   },
   {
-    "slug": "clashmetaforandroid",
-    "name": "ClashMetaForAndroid",
-    "repo": "MetaCubeX/ClashMetaForAndroid",
-    "description": "各平台代理客户端应用",
-    "category": "client",
-    "platforms": [
-      "android"
-    ],
-    "tags": [
-      "clash",
-      "android",
-      "mihomo"
-    ]
-  },
-  {
     "slug": "metacubexd",
     "name": "metacubexd",
     "repo": "MetaCubeX/metacubexd",
@@ -113,6 +98,21 @@
       "dashboard",
       "mihomo",
       "clash"
+    ]
+  },
+  {
+    "slug": "clashmetaforandroid",
+    "name": "ClashMetaForAndroid",
+    "repo": "MetaCubeX/ClashMetaForAndroid",
+    "description": "各平台代理客户端应用",
+    "category": "client",
+    "platforms": [
+      "android"
+    ],
+    "tags": [
+      "clash",
+      "android",
+      "mihomo"
     ]
   },
   {

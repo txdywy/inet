@@ -1,8 +1,8 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 140,
-    "category": "ecosystem"
+    "count": 142,
+    "category": "core"
   },
   {
     "tag": "v2fly",
@@ -26,7 +26,7 @@
   },
   {
     "tag": "v2ray",
-    "count": 49,
+    "count": 50,
     "category": "ecosystem"
   },
   {
@@ -41,12 +41,12 @@
   },
   {
     "tag": "meta-rules-dat",
-    "count": 42,
+    "count": 43,
     "category": "ecosystem"
   },
   {
     "tag": "Loyalsoldier",
-    "count": 41,
+    "count": 42,
     "category": "ecosystem"
   },
   {
@@ -66,7 +66,7 @@
   },
   {
     "tag": "代理",
-    "count": 30,
+    "count": 31,
     "category": "ecosystem"
   },
   {
@@ -76,8 +76,8 @@
   },
   {
     "tag": "metacubexd",
-    "count": 26,
-    "category": "ecosystem"
+    "count": 27,
+    "category": "core"
   },
   {
     "tag": "sing-box",
@@ -295,6 +295,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "网络规则",
+    "count": 8,
+    "category": "ecosystem"
+  },
+  {
     "tag": "预发布",
     "count": 8,
     "category": "client"
@@ -331,11 +336,6 @@
   },
   {
     "tag": "luci-app-mosdns",
-    "count": 7,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "网络规则",
     "count": 7,
     "category": "ecosystem"
   },
@@ -440,6 +440,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "bugfix",
+    "count": 5,
+    "category": "core"
+  },
+  {
     "tag": "API",
     "count": 5,
     "category": "ecosystem"
@@ -528,11 +533,6 @@
     "tag": "tuic",
     "count": 5,
     "category": "protocol"
-  },
-  {
-    "tag": "bugfix",
-    "count": 4,
-    "category": "client"
   },
   {
     "tag": "age",
