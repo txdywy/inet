@@ -1,5 +1,37 @@
 [
   {
+    "id": "3414df35906588df",
+    "title": "2.24.21",
+    "summary": "Sub-Store 2.24.21 版本新增了文件链接参数 fakeFile，优化了查询方式。",
+    "analysis": "在此次更新中，Sub-Store 引入了一个新的文件链接参数 fakeFile，取代了原有的 name 查询方式。这一改动可能旨在提高文件链接的灵活性和安全性，避免直接暴露文件名称，从而降低潜在的安全风险。对于开发者而言，这意味着在使用文件链接时需要更新相应的代码逻辑，以适应新的参数设置。虽然此次更新并未涉及破坏性变更，但开发者仍需注意与旧版本的兼容性，确保新旧参数的平滑过渡。建议用户在适当的情况下尽快更新，以利用新功能并提高系统的安全性和性能。",
+    "rawTitle": "2.24.21",
+    "rawBody": "## <small>2.24.21 (2026-06-15)</small>\n\n* feat: 文件链接参数新增 fakeFile, 此时不再使用 name 查询 ([3cf333f](https://github.com/sub-store-org/Sub-Store/commit/3cf333f))\n",
+    "sourceType": "github_release",
+    "sourceName": "sub-store-org/Sub-Store",
+    "sourceUrl": "https://github.com/sub-store-org/Sub-Store/releases/tag/2.24.21",
+    "project": "Sub-Store",
+    "repo": "sub-store-org/Sub-Store",
+    "slug": "sub-store",
+    "version": "2.24.21",
+    "category": "ecosystem",
+    "tags": [
+      "Sub-Store",
+      "文件链接",
+      "参数更新"
+    ],
+    "platforms": [],
+    "importance": 3,
+    "confidence": 0.9,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-06-15T14:19:16Z",
+    "fetchedAt": "2026-06-15T17:27:21.176Z",
+    "firstSeenAt": "2026-06-15T17:27:28.361Z",
+    "updatedAt": "2026-06-15T17:27:28.361Z",
+    "hash": "3414df35906588df"
+  },
+  {
     "id": "64201ce70cc546ed",
     "title": "2.24.20",
     "summary": "Sub-Store 2.24.20 更新了对 REALITY 和 obfs 的支持，增强了 Loon AnyTLS/Trojon 和 SS2022 的功能。",

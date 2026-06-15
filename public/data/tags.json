@@ -16,7 +16,7 @@
   },
   {
     "tag": "Sub-Store",
-    "count": 65,
+    "count": 66,
     "category": "ecosystem"
   },
   {
@@ -1108,6 +1108,16 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "文件链接",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "参数更新",
+    "count": 1,
+    "category": "ecosystem"
   },
   {
     "tag": "Trojon",
