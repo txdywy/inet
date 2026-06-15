@@ -1,8 +1,8 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 142,
-    "category": "core"
+    "count": 144,
+    "category": "client"
   },
   {
     "tag": "v2fly",
@@ -11,13 +11,13 @@
   },
   {
     "tag": "mihomo",
-    "count": 71,
+    "count": 72,
     "category": "core"
   },
   {
     "tag": "Sub-Store",
-    "count": 64,
-    "category": "protocol"
+    "count": 65,
+    "category": "ecosystem"
   },
   {
     "tag": "domain-list-community",
@@ -76,8 +76,8 @@
   },
   {
     "tag": "metacubexd",
-    "count": 27,
-    "category": "core"
+    "count": 28,
+    "category": "client"
   },
   {
     "tag": "sing-box",
@@ -295,6 +295,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "用户界面",
+    "count": 8,
+    "category": "client"
+  },
+  {
     "tag": "网络规则",
     "count": 8,
     "category": "ecosystem"
@@ -318,11 +323,6 @@
     "tag": "dns",
     "count": 7,
     "category": "dns_rules"
-  },
-  {
-    "tag": "用户界面",
-    "count": 7,
-    "category": "client"
   },
   {
     "tag": "gRPC",
@@ -353,6 +353,16 @@
     "tag": "快捷方式",
     "count": 7,
     "category": "client"
+  },
+  {
+    "tag": "xhttp-opts",
+    "count": 7,
+    "category": "core"
+  },
+  {
+    "tag": "Loon",
+    "count": 6,
+    "category": "ecosystem"
   },
   {
     "tag": "中国域名",
@@ -430,11 +440,6 @@
     "category": "core"
   },
   {
-    "tag": "xhttp-opts",
-    "count": 6,
-    "category": "core"
-  },
-  {
     "tag": "Alpha",
     "count": 6,
     "category": "ecosystem"
@@ -446,11 +451,6 @@
   },
   {
     "tag": "API",
-    "count": 5,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "Loon",
     "count": 5,
     "category": "ecosystem"
   },
@@ -588,6 +588,11 @@
     "tag": "nekoray",
     "count": 4,
     "category": "client"
+  },
+  {
+    "tag": "AnyTLS",
+    "count": 3,
+    "category": "ecosystem"
   },
   {
     "tag": "steam",
@@ -765,9 +770,19 @@
     "category": "client"
   },
   {
+    "tag": "rematch",
+    "count": 3,
+    "category": "core"
+  },
+  {
     "tag": "protocol",
     "count": 3,
     "category": "protocol"
+  },
+  {
+    "tag": "obfs",
+    "count": 2,
+    "category": "ecosystem"
   },
   {
     "tag": "Chromium",
@@ -990,11 +1005,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "AnyTLS",
-    "count": 2,
-    "category": "core"
-  },
-  {
     "tag": "Mocha",
     "count": 2,
     "category": "ecosystem"
@@ -1080,7 +1090,7 @@
     "category": "client"
   },
   {
-    "tag": "rematch",
+    "tag": "snell",
     "count": 2,
     "category": "core"
   },
@@ -1098,6 +1108,26 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "Trojon",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "REALITY",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "SS2022",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "过滤工具",
+    "count": 1,
+    "category": "client"
   },
   {
     "tag": "nic-ru",
@@ -1518,11 +1548,6 @@
     "tag": "core",
     "count": 1,
     "category": "core"
-  },
-  {
-    "tag": "obfs",
-    "count": 1,
-    "category": "protocol"
   },
   {
     "tag": "firefox",
@@ -2638,11 +2663,6 @@
     "tag": "Pushover",
     "count": 1,
     "category": "ecosystem"
-  },
-  {
-    "tag": "snell",
-    "count": 1,
-    "category": "core"
   },
   {
     "tag": "会话管理",
