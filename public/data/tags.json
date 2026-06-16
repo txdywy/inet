@@ -1,8 +1,8 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 144,
-    "category": "client"
+    "count": 145,
+    "category": "ecosystem"
   },
   {
     "tag": "v2fly",
@@ -16,8 +16,8 @@
   },
   {
     "tag": "Sub-Store",
-    "count": 66,
-    "category": "ecosystem"
+    "count": 67,
+    "category": "protocol"
   },
   {
     "tag": "domain-list-community",
@@ -26,7 +26,7 @@
   },
   {
     "tag": "v2ray",
-    "count": 50,
+    "count": 51,
     "category": "ecosystem"
   },
   {
@@ -35,18 +35,18 @@
     "category": "core"
   },
   {
+    "tag": "meta-rules-dat",
+    "count": 44,
+    "category": "ecosystem"
+  },
+  {
     "tag": "Android",
     "count": 44,
     "category": "client"
   },
   {
-    "tag": "meta-rules-dat",
-    "count": 43,
-    "category": "ecosystem"
-  },
-  {
     "tag": "Loyalsoldier",
-    "count": 42,
+    "count": 43,
     "category": "ecosystem"
   },
   {
@@ -100,19 +100,24 @@
     "category": "client"
   },
   {
+    "tag": "代理工具",
+    "count": 24,
+    "category": "ecosystem"
+  },
+  {
     "tag": "HTTP/2",
     "count": 24,
     "category": "protocol"
   },
   {
-    "tag": "代理工具",
+    "tag": "Linux",
     "count": 23,
     "category": "core"
   },
   {
-    "tag": "Linux",
-    "count": 23,
-    "category": "core"
+    "tag": "网络协议",
+    "count": 21,
+    "category": "protocol"
   },
   {
     "tag": "VLESS",
@@ -123,11 +128,6 @@
     "tag": "dat",
     "count": 20,
     "category": "ecosystem"
-  },
-  {
-    "tag": "网络协议",
-    "count": 20,
-    "category": "protocol"
   },
   {
     "tag": "CHACHA20-POLY1305",
@@ -1108,6 +1108,11 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "Surge Snell",
+    "count": 1,
+    "category": "protocol"
   },
   {
     "tag": "文件链接",

@@ -1,15 +1,15 @@
 {
-  "totalItems": 639,
+  "totalItems": 642,
   "last24h": 6,
-  "last7d": 72,
+  "last7d": 70,
   "byCategory": {
     "core": 98,
     "client": 159,
     "router": 1,
-    "protocol": 43,
+    "protocol": 44,
     "dns_rules": 16,
     "security": 5,
-    "ecosystem": 317,
+    "ecosystem": 319,
     "trend": 0
   },
   "topProjects": [
@@ -23,15 +23,15 @@
     },
     {
       "project": "Sub-Store",
-      "count": 66
+      "count": 67
     },
     {
       "project": "v2ray-rules-dat",
-      "count": 44
+      "count": 45
     },
     {
       "project": "meta-rules-dat",
-      "count": 43
+      "count": 44
     },
     {
       "project": "metacubexd",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 144
+      "count": 145
     },
     {
       "tag": "v2fly",
@@ -69,7 +69,7 @@
     },
     {
       "tag": "Sub-Store",
-      "count": 66
+      "count": 67
     },
     {
       "tag": "domain-list-community",
@@ -77,23 +77,23 @@
     },
     {
       "tag": "v2ray",
-      "count": 50
+      "count": 51
     },
     {
       "tag": "OpenVPN",
       "count": 47
     },
     {
+      "tag": "meta-rules-dat",
+      "count": 44
+    },
+    {
       "tag": "Android",
       "count": 44
     },
     {
-      "tag": "meta-rules-dat",
-      "count": 43
-    },
-    {
       "tag": "Loyalsoldier",
-      "count": 42
+      "count": 43
     },
     {
       "tag": "网络代理",
@@ -139,5 +139,5 @@
   "importantCount": 189,
   "breakingCount": 36,
   "securityCount": 44,
-  "updatedAt": "2026-06-15T21:19:40.638Z"
+  "updatedAt": "2026-06-16T05:36:23.606Z"
 }
