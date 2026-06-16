@@ -6,7 +6,7 @@
   },
   {
     "tag": "v2fly",
-    "count": 111,
+    "count": 114,
     "category": "ecosystem"
   },
   {
@@ -50,13 +50,13 @@
     "category": "ecosystem"
   },
   {
-    "tag": "网络代理",
+    "tag": "domain-list",
     "count": 40,
     "category": "ecosystem"
   },
   {
-    "tag": "domain-list",
-    "count": 38,
+    "tag": "网络代理",
+    "count": 40,
     "category": "ecosystem"
   },
   {
@@ -320,6 +320,16 @@
     "category": "client"
   },
   {
+    "tag": "中国域名",
+    "count": 7,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "域名列表",
+    "count": 7,
+    "category": "dns_rules"
+  },
+  {
     "tag": "dns",
     "count": 7,
     "category": "dns_rules"
@@ -365,22 +375,12 @@
     "category": "ecosystem"
   },
   {
-    "tag": "中国域名",
-    "count": 6,
-    "category": "ecosystem"
-  },
-  {
     "tag": "域名解析",
     "count": 6,
     "category": "dns_rules"
   },
   {
     "tag": "域名",
-    "count": 6,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "域名列表",
     "count": 6,
     "category": "ecosystem"
   },
@@ -780,6 +780,11 @@
     "category": "protocol"
   },
   {
+    "tag": "hamivideo",
+    "count": 2,
+    "category": "dns_rules"
+  },
+  {
     "tag": "obfs",
     "count": 2,
     "category": "ecosystem"
@@ -1108,6 +1113,16 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "伊朗",
+    "count": 1,
+    "category": "dns_rules"
+  },
+  {
+    "tag": "成人网站",
+    "count": 1,
+    "category": "dns_rules"
   },
   {
     "tag": "Surge Snell",
@@ -1818,11 +1833,6 @@
     "tag": "网络测试",
     "count": 1,
     "category": "core"
-  },
-  {
-    "tag": "hamivideo",
-    "count": 1,
-    "category": "ecosystem"
   },
   {
     "tag": "俄罗斯域名",
