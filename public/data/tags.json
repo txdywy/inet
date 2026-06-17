@@ -1,7 +1,7 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 145,
+    "count": 147,
     "category": "ecosystem"
   },
   {
@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 72,
+    "count": 73,
     "category": "core"
   },
   {
@@ -26,7 +26,7 @@
   },
   {
     "tag": "v2ray",
-    "count": 51,
+    "count": 52,
     "category": "ecosystem"
   },
   {
@@ -36,6 +36,11 @@
   },
   {
     "tag": "meta-rules-dat",
+    "count": 45,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "Loyalsoldier",
     "count": 44,
     "category": "ecosystem"
   },
@@ -43,11 +48,6 @@
     "tag": "Android",
     "count": 44,
     "category": "client"
-  },
-  {
-    "tag": "Loyalsoldier",
-    "count": 43,
-    "category": "ecosystem"
   },
   {
     "tag": "domain-list",
@@ -320,6 +320,11 @@
     "category": "client"
   },
   {
+    "tag": "xhttp-opts",
+    "count": 8,
+    "category": "core"
+  },
+  {
     "tag": "中国域名",
     "count": 7,
     "category": "ecosystem"
@@ -363,11 +368,6 @@
     "tag": "快捷方式",
     "count": 7,
     "category": "client"
-  },
-  {
-    "tag": "xhttp-opts",
-    "count": 7,
-    "category": "core"
   },
   {
     "tag": "Loon",
@@ -590,6 +590,11 @@
     "category": "client"
   },
   {
+    "tag": "rematch",
+    "count": 4,
+    "category": "core"
+  },
+  {
     "tag": "AnyTLS",
     "count": 3,
     "category": "ecosystem"
@@ -770,7 +775,7 @@
     "category": "client"
   },
   {
-    "tag": "rematch",
+    "tag": "snell",
     "count": 3,
     "category": "core"
   },
@@ -1095,11 +1100,6 @@
     "category": "client"
   },
   {
-    "tag": "snell",
-    "count": 2,
-    "category": "core"
-  },
-  {
     "tag": "ping keepalive",
     "count": 2,
     "category": "protocol"
@@ -1113,6 +1113,11 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "规则数据",
+    "count": 1,
+    "category": "ecosystem"
   },
   {
     "tag": "伊朗",
