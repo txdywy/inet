@@ -6,7 +6,7 @@
   },
   {
     "tag": "v2fly",
-    "count": 114,
+    "count": 116,
     "category": "ecosystem"
   },
   {
@@ -21,8 +21,8 @@
   },
   {
     "tag": "domain-list-community",
-    "count": 58,
-    "category": "dns_rules"
+    "count": 60,
+    "category": "ecosystem"
   },
   {
     "tag": "v2ray",
@@ -325,6 +325,11 @@
     "category": "core"
   },
   {
+    "tag": "域名",
+    "count": 7,
+    "category": "ecosystem"
+  },
+  {
     "tag": "中国域名",
     "count": 7,
     "category": "ecosystem"
@@ -378,11 +383,6 @@
     "tag": "域名解析",
     "count": 6,
     "category": "dns_rules"
-  },
-  {
-    "tag": "域名",
-    "count": 6,
-    "category": "ecosystem"
   },
   {
     "tag": "proxy",
@@ -1113,6 +1113,16 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "网络访问",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "域名管理",
+    "count": 1,
+    "category": "ecosystem"
   },
   {
     "tag": "规则数据",
