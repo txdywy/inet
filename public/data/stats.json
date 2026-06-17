@@ -1,7 +1,7 @@
 {
-  "totalItems": 650,
-  "last24h": 4,
-  "last7d": 68,
+  "totalItems": 651,
+  "last24h": 5,
+  "last7d": 66,
   "byCategory": {
     "core": 99,
     "client": 159,
@@ -9,7 +9,7 @@
     "protocol": 44,
     "dns_rules": 18,
     "security": 5,
-    "ecosystem": 324,
+    "ecosystem": 325,
     "trend": 0
   },
   "topProjects": [
@@ -43,7 +43,7 @@
     },
     {
       "project": "sing-box",
-      "count": 18
+      "count": 19
     },
     {
       "project": "v2rayN",
@@ -121,7 +121,7 @@
     },
     {
       "tag": "sing-box",
-      "count": 26
+      "count": 27
     },
     {
       "tag": "开源",
@@ -136,8 +136,8 @@
       "count": 25
     }
   ],
-  "importantCount": 189,
+  "importantCount": 190,
   "breakingCount": 36,
   "securityCount": 44,
-  "updatedAt": "2026-06-17T11:18:57.386Z"
+  "updatedAt": "2026-06-17T16:07:28.074Z"
 }

@@ -81,7 +81,7 @@
   },
   {
     "tag": "sing-box",
-    "count": 26,
+    "count": 27,
     "category": "ecosystem"
   },
   {
@@ -130,13 +130,13 @@
     "category": "ecosystem"
   },
   {
-    "tag": "CHACHA20-POLY1305",
+    "tag": "SagerNet",
     "count": 19,
     "category": "ecosystem"
   },
   {
-    "tag": "SagerNet",
-    "count": 18,
+    "tag": "CHACHA20-POLY1305",
+    "count": 19,
     "category": "ecosystem"
   },
   {
@@ -375,6 +375,11 @@
     "category": "client"
   },
   {
+    "tag": "API",
+    "count": 6,
+    "category": "ecosystem"
+  },
+  {
     "tag": "Loon",
     "count": 6,
     "category": "ecosystem"
@@ -448,11 +453,6 @@
     "tag": "bugfix",
     "count": 5,
     "category": "core"
-  },
-  {
-    "tag": "API",
-    "count": 5,
-    "category": "ecosystem"
   },
   {
     "tag": "网络安全",
@@ -1113,6 +1113,16 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "USB/IP",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "dashboard",
+    "count": 1,
+    "category": "ecosystem"
   },
   {
     "tag": "网络访问",

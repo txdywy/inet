@@ -1,5 +1,44 @@
 [
   {
+    "id": "dfa25e8545efccb7",
+    "title": "1.14.0-alpha.32",
+    "summary": "SagerNet/sing-box 1.14.0-alpha.32版本新增API服务的仪表盘支持和USB/IP服务，修复了一些问题并进行了改进。",
+    "analysis": "此次更新引入了对API服务的仪表盘支持，用户可以通过新的'dashboard'选项直接下载和更新sing-box-dashboard。这一功能的实现将极大地方便用户管理和监控服务。此外，新增的USB/IP服务允许用户通过USB/IP协议导入和导出USB设备，支持Linux、Windows和macOS平台，增强了设备的互操作性和热插拔能力。这些改进对开发者和用户来说都非常重要，因为它们提升了系统的灵活性和易用性。需要注意的是，USB/IP服务在macOS上需要特定的配置和权限，可能对某些用户造成使用障碍。整体来看，此次更新没有明显的兼容性风险，建议用户尽快更新以享受新功能。",
+    "rawTitle": "1.14.0-alpha.32",
+    "rawBody": "## :memo: Release Notes\n\n* Add dashboard support for the API service **1**\n* Add USB/IP service **2**\n* Fixes and improvements\n\n**1**:\n\nThe [sing-box API service](https://sing-box.sagernet.org/configuration/service/api/) can now download, update and serve [sing-box-dashboard](https://github.com/SagerNet/sing-box-dashboard) directly over its listener, configured via the new [`dashboard`](https://sing-box.sagernet.org/configuration/service/api/#dashboard) option.\n\n**2**:\n\nNew [USB/IP Server](https://sing-box.sagernet.org/configuration/service/usbip-server/) and [USB/IP Client](https://sing-box.sagernet.org/configuration/service/usbip-client/) services export and import USB devices over the [USB/IP](https://usbip.sourceforge.net/) protocol, built on [sing-usbip](https://github.com/SagerNet/sing-usbip), which adds hotplug while staying interoperable with standard USB/IP. Exporting config-selected local devices (`provider: default`) runs via the CLI on Linux, Windows, and macOS and requires elevated privileges (macOS additionally needs a CGO build and disabled System Integrity Protection). With `provider: dynamic`, devices are instead supplied at runtime through the API service by the graphical clients on macOS and Android, or the [sing-box Dashboard](https://github.com/SagerNet/sing-box-dashboard).\n",
+    "sourceType": "github_release",
+    "sourceName": "SagerNet/sing-box",
+    "sourceUrl": "https://github.com/SagerNet/sing-box/releases/tag/v1.14.0-alpha.32",
+    "project": "sing-box",
+    "repo": "SagerNet/sing-box",
+    "slug": "sing-box",
+    "version": "1.14.0-alpha.32",
+    "category": "ecosystem",
+    "tags": [
+      "SagerNet",
+      "sing-box",
+      "API",
+      "USB/IP",
+      "dashboard"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos",
+      "android"
+    ],
+    "importance": 4,
+    "confidence": 0.9,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2026-06-17T11:47:25Z",
+    "fetchedAt": "2026-06-17T16:07:07.810Z",
+    "firstSeenAt": "2026-06-17T16:07:27.738Z",
+    "updatedAt": "2026-06-17T16:07:27.738Z",
+    "hash": "dfa25e8545efccb7"
+  },
+  {
     "id": "4b22388f8bf94a30",
     "title": "20260617095849",
     "summary": "本次更新增加了多个域名，提升了域名列表的丰富性和实用性。",
