@@ -185,6 +185,11 @@
     "category": "client"
   },
   {
+    "tag": "go-gost",
+    "count": 14,
+    "category": "ecosystem"
+  },
+  {
     "tag": "依赖更新",
     "count": 14,
     "category": "client"
@@ -198,11 +203,6 @@
     "tag": "SOCKS",
     "count": 13,
     "category": "client"
-  },
-  {
-    "tag": "go-gost",
-    "count": 13,
-    "category": "ecosystem"
   },
   {
     "tag": "DNS",
@@ -2633,6 +2633,16 @@
     "tag": "grpc",
     "count": 1,
     "category": "client"
+  },
+  {
+    "tag": "bypass",
+    "count": 1,
+    "category": "core"
+  },
+  {
+    "tag": "admission matcher",
+    "count": 1,
+    "category": "core"
   },
   {
     "tag": "终端工具",

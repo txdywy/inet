@@ -18114,6 +18114,38 @@
     "hash": "60e6e0a18614f14d"
   },
   {
+    "id": "195313804853887e",
+    "title": "v3.2.4",
+    "summary": "go-gost v3.2.4 更新了 bypass 和 admission 匹配器功能。",
+    "analysis": "在 v3.2.4 版本中，go-gost 引入了 bypass 和 admission matcher 功能。这一更新的重要性在于，它为用户提供了更灵活的流量控制和访问管理能力，能够根据特定条件来决定是否绕过代理或允许访问特定资源。这对于需要精细化流量管理的用户和开发者来说，具有显著的价值。该功能的引入可能会影响到现有的配置和使用方式，因此用户在更新时需仔细检查相关文档以确保兼容性。总体来看，此次更新没有明显的破坏性变更，建议用户尽快更新以利用新功能。",
+    "rawTitle": "v3.2.4",
+    "rawBody": "## Changelog\n* 59c9638ce68b5e65dc02d39fd083bd68ba1498a6 add bypass and admission matcher\n\n",
+    "sourceType": "github_release",
+    "sourceName": "go-gost/gost",
+    "sourceUrl": "https://github.com/go-gost/gost/releases/tag/v3.2.4",
+    "project": "gost",
+    "repo": "go-gost/gost",
+    "slug": "gost",
+    "version": "3.2.4",
+    "category": "core",
+    "tags": [
+      "go-gost",
+      "bypass",
+      "admission matcher"
+    ],
+    "platforms": [],
+    "importance": 4,
+    "confidence": 0.9,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2025-08-13T13:57:19Z",
+    "fetchedAt": "2026-06-17T20:29:09.120Z",
+    "firstSeenAt": "2026-06-17T20:29:24.850Z",
+    "updatedAt": "2026-06-17T20:29:24.850Z",
+    "hash": "195313804853887e"
+  },
+  {
     "id": "38859508a1112521",
     "title": "v2.3.4 更新 依赖版本、修复 彩色文字异常",
     "summary": "XIU2/CloudflareSpeedTest v2.3.4 更新了依赖版本，修复了彩色文字显示异常，并调整了主界面文字颜色。",
