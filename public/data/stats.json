@@ -1,21 +1,21 @@
 {
-  "totalItems": 652,
-  "last24h": 5,
-  "last7d": 64,
+  "totalItems": 656,
+  "last24h": 7,
+  "last7d": 61,
   "byCategory": {
-    "core": 100,
+    "core": 101,
     "client": 159,
     "router": 1,
     "protocol": 44,
     "dns_rules": 18,
     "security": 5,
-    "ecosystem": 325,
+    "ecosystem": 328,
     "trend": 0
   },
   "topProjects": [
     {
       "project": "domain-list-community",
-      "count": 112
+      "count": 113
     },
     {
       "project": "mihomo",
@@ -27,15 +27,15 @@
     },
     {
       "project": "v2ray-rules-dat",
-      "count": 46
+      "count": 47
     },
     {
       "project": "meta-rules-dat",
-      "count": 45
+      "count": 46
     },
     {
       "project": "metacubexd",
-      "count": 31
+      "count": 32
     },
     {
       "project": "ClashMetaForAndroid",
@@ -57,11 +57,11 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 147
+      "count": 149
     },
     {
       "tag": "v2fly",
-      "count": 116
+      "count": 117
     },
     {
       "tag": "mihomo",
@@ -77,7 +77,7 @@
     },
     {
       "tag": "v2ray",
-      "count": 52
+      "count": 53
     },
     {
       "tag": "OpenVPN",
@@ -85,11 +85,11 @@
     },
     {
       "tag": "meta-rules-dat",
-      "count": 45
+      "count": 46
     },
     {
       "tag": "Loyalsoldier",
-      "count": 44
+      "count": 45
     },
     {
       "tag": "Android",
@@ -97,7 +97,7 @@
     },
     {
       "tag": "domain-list",
-      "count": 40
+      "count": 41
     },
     {
       "tag": "网络代理",
@@ -105,27 +105,27 @@
     },
     {
       "tag": "rules",
-      "count": 34
+      "count": 35
     },
     {
       "tag": "代理",
       "count": 31
     },
     {
+      "tag": "metacubexd",
+      "count": 29
+    },
+    {
       "tag": "ClashMetaForAndroid",
       "count": 29
     },
     {
-      "tag": "metacubexd",
-      "count": 28
+      "tag": "开源",
+      "count": 27
     },
     {
       "tag": "sing-box",
       "count": 27
-    },
-    {
-      "tag": "开源",
-      "count": 26
     },
     {
       "tag": "Tailscale",
@@ -139,5 +139,5 @@
   "importantCount": 191,
   "breakingCount": 36,
   "securityCount": 44,
-  "updatedAt": "2026-06-17T20:29:25.274Z"
+  "updatedAt": "2026-06-18T05:06:12.449Z"
 }

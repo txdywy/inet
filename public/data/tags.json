@@ -1,12 +1,12 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 147,
-    "category": "ecosystem"
+    "count": 149,
+    "category": "core"
   },
   {
     "tag": "v2fly",
-    "count": 116,
+    "count": 117,
     "category": "ecosystem"
   },
   {
@@ -26,7 +26,7 @@
   },
   {
     "tag": "v2ray",
-    "count": 52,
+    "count": 53,
     "category": "ecosystem"
   },
   {
@@ -36,12 +36,12 @@
   },
   {
     "tag": "meta-rules-dat",
-    "count": 45,
+    "count": 46,
     "category": "ecosystem"
   },
   {
     "tag": "Loyalsoldier",
-    "count": 44,
+    "count": 45,
     "category": "ecosystem"
   },
   {
@@ -51,7 +51,7 @@
   },
   {
     "tag": "domain-list",
-    "count": 40,
+    "count": 41,
     "category": "ecosystem"
   },
   {
@@ -61,7 +61,7 @@
   },
   {
     "tag": "rules",
-    "count": 34,
+    "count": 35,
     "category": "ecosystem"
   },
   {
@@ -70,23 +70,23 @@
     "category": "ecosystem"
   },
   {
+    "tag": "metacubexd",
+    "count": 29,
+    "category": "core"
+  },
+  {
     "tag": "ClashMetaForAndroid",
     "count": 29,
     "category": "client"
   },
   {
-    "tag": "metacubexd",
-    "count": 28,
-    "category": "client"
-  },
-  {
-    "tag": "sing-box",
+    "tag": "开源",
     "count": 27,
     "category": "ecosystem"
   },
   {
-    "tag": "开源",
-    "count": 26,
+    "tag": "sing-box",
+    "count": 27,
     "category": "ecosystem"
   },
   {
@@ -115,6 +115,11 @@
     "category": "core"
   },
   {
+    "tag": "dat",
+    "count": 21,
+    "category": "ecosystem"
+  },
+  {
     "tag": "网络协议",
     "count": 21,
     "category": "protocol"
@@ -123,11 +128,6 @@
     "tag": "VLESS",
     "count": 21,
     "category": "protocol"
-  },
-  {
-    "tag": "dat",
-    "count": 20,
-    "category": "ecosystem"
   },
   {
     "tag": "SagerNet",
@@ -143,6 +143,11 @@
     "tag": "Xray",
     "count": 18,
     "category": "core"
+  },
+  {
+    "tag": "网络工具",
+    "count": 17,
+    "category": "ecosystem"
   },
   {
     "tag": "v2rayN",
@@ -170,14 +175,14 @@
     "category": "protocol"
   },
   {
-    "tag": "网络工具",
-    "count": 16,
-    "category": "ecosystem"
-  },
-  {
     "tag": "macOS",
     "count": 16,
     "category": "client"
+  },
+  {
+    "tag": "DNS",
+    "count": 14,
+    "category": "core"
   },
   {
     "tag": "Xray-core",
@@ -203,11 +208,6 @@
     "tag": "SOCKS",
     "count": 13,
     "category": "client"
-  },
-  {
-    "tag": "DNS",
-    "count": 13,
-    "category": "security"
   },
   {
     "tag": "naiveproxy",
@@ -1113,6 +1113,11 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "反向解析",
+    "count": 1,
+    "category": "core"
   },
   {
     "tag": "USB/IP",
