@@ -1,5 +1,37 @@
 [
   {
+    "id": "bb5ddb2f98027da0",
+    "title": "2.25.0",
+    "summary": "Sub-Store 2.25.0 版本更新，主要更换了 YAML 依赖。",
+    "analysis": "在此次 2.25.0 版本更新中，Sub-Store 进行了 YAML 依赖的更换。这一更换可能是为了提升性能、增强功能或修复现有问题。对于开发者而言，更新依赖通常意味着可以利用新版本带来的改进和修复，但也可能需要检查与现有代码的兼容性。虽然更新依赖通常不会引入破坏性变更，但开发者仍需关注新依赖的文档，以确保其功能符合预期。此更新对用户的直接影响可能较小，但从长远来看，保持依赖的更新是确保软件稳定性和安全性的关键。建议开发者尽快更新，以便利用最新的改进和修复。",
+    "rawTitle": "2.25.0",
+    "rawBody": "## 2.25.0 (2026-06-18)\n\n* feat: YAML 依赖更换 ([e6cb6c9](https://github.com/sub-store-org/Sub-Store/commit/e6cb6c9))\n",
+    "sourceType": "github_release",
+    "sourceName": "sub-store-org/Sub-Store",
+    "sourceUrl": "https://github.com/sub-store-org/Sub-Store/releases/tag/2.25.0",
+    "project": "Sub-Store",
+    "repo": "sub-store-org/Sub-Store",
+    "slug": "sub-store",
+    "version": "2.25.0",
+    "category": "ecosystem",
+    "tags": [
+      "Sub-Store",
+      "YAML",
+      "依赖管理"
+    ],
+    "platforms": [],
+    "importance": 3,
+    "confidence": 0.9,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-06-18T11:12:55Z",
+    "fetchedAt": "2026-06-18T15:54:25.675Z",
+    "firstSeenAt": "2026-06-18T15:54:32.895Z",
+    "updatedAt": "2026-06-18T15:54:32.895Z",
+    "hash": "bb5ddb2f98027da0"
+  },
+  {
     "id": "27a8105854d2a40b",
     "title": "20260618031303",
     "summary": "本次更新增加了多个新域名，提升了域名列表的丰富性和实用性。",

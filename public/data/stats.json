@@ -1,7 +1,7 @@
 {
-  "totalItems": 656,
+  "totalItems": 657,
   "last24h": 5,
-  "last7d": 61,
+  "last7d": 56,
   "byCategory": {
     "core": 101,
     "client": 159,
@@ -9,7 +9,7 @@
     "protocol": 44,
     "dns_rules": 18,
     "security": 5,
-    "ecosystem": 328,
+    "ecosystem": 329,
     "trend": 0
   },
   "topProjects": [
@@ -23,7 +23,7 @@
     },
     {
       "project": "Sub-Store",
-      "count": 67
+      "count": 68
     },
     {
       "project": "v2ray-rules-dat",
@@ -69,7 +69,7 @@
     },
     {
       "tag": "Sub-Store",
-      "count": 67
+      "count": 68
     },
     {
       "tag": "domain-list-community",
@@ -139,5 +139,5 @@
   "importantCount": 191,
   "breakingCount": 36,
   "securityCount": 44,
-  "updatedAt": "2026-06-18T10:49:29.360Z"
+  "updatedAt": "2026-06-18T15:54:33.334Z"
 }

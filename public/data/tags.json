@@ -16,8 +16,8 @@
   },
   {
     "tag": "Sub-Store",
-    "count": 67,
-    "category": "protocol"
+    "count": 68,
+    "category": "ecosystem"
   },
   {
     "tag": "domain-list-community",
@@ -595,6 +595,11 @@
     "category": "core"
   },
   {
+    "tag": "YAML",
+    "count": 3,
+    "category": "ecosystem"
+  },
+  {
     "tag": "AnyTLS",
     "count": 3,
     "category": "ecosystem"
@@ -785,6 +790,11 @@
     "category": "protocol"
   },
   {
+    "tag": "依赖管理",
+    "count": 2,
+    "category": "ecosystem"
+  },
+  {
     "tag": "hamivideo",
     "count": 2,
     "category": "dns_rules"
@@ -951,11 +961,6 @@
   },
   {
     "tag": "构建",
-    "count": 2,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "YAML",
     "count": 2,
     "category": "ecosystem"
   },
@@ -1546,11 +1551,6 @@
   },
   {
     "tag": "应用模块",
-    "count": 1,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "依赖管理",
     "count": 1,
     "category": "ecosystem"
   },
