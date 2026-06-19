@@ -1,8 +1,8 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 149,
-    "category": "core"
+    "count": 151,
+    "category": "ecosystem"
   },
   {
     "tag": "v2fly",
@@ -11,13 +11,13 @@
   },
   {
     "tag": "mihomo",
-    "count": 73,
+    "count": 74,
     "category": "core"
   },
   {
     "tag": "Sub-Store",
-    "count": 68,
-    "category": "ecosystem"
+    "count": 69,
+    "category": "protocol"
   },
   {
     "tag": "domain-list-community",
@@ -26,23 +26,23 @@
   },
   {
     "tag": "v2ray",
-    "count": 53,
+    "count": 55,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "meta-rules-dat",
+    "count": 47,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "Loyalsoldier",
+    "count": 47,
     "category": "ecosystem"
   },
   {
     "tag": "OpenVPN",
     "count": 47,
     "category": "core"
-  },
-  {
-    "tag": "meta-rules-dat",
-    "count": 46,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "Loyalsoldier",
-    "count": 45,
-    "category": "ecosystem"
   },
   {
     "tag": "Android",
@@ -61,7 +61,7 @@
   },
   {
     "tag": "rules",
-    "count": 35,
+    "count": 37,
     "category": "ecosystem"
   },
   {
@@ -110,14 +110,14 @@
     "category": "protocol"
   },
   {
+    "tag": "dat",
+    "count": 23,
+    "category": "ecosystem"
+  },
+  {
     "tag": "Linux",
     "count": 23,
     "category": "core"
-  },
-  {
-    "tag": "dat",
-    "count": 21,
-    "category": "ecosystem"
   },
   {
     "tag": "网络协议",
@@ -155,6 +155,11 @@
     "category": "client"
   },
   {
+    "tag": "Snell",
+    "count": 17,
+    "category": "protocol"
+  },
+  {
     "tag": "QUIC",
     "count": 17,
     "category": "ecosystem"
@@ -170,19 +175,14 @@
     "category": "core"
   },
   {
-    "tag": "Snell",
-    "count": 16,
-    "category": "protocol"
-  },
-  {
     "tag": "macOS",
     "count": 16,
     "category": "client"
   },
   {
     "tag": "DNS",
-    "count": 14,
-    "category": "core"
+    "count": 15,
+    "category": "protocol"
   },
   {
     "tag": "Xray-core",
@@ -290,6 +290,11 @@
     "category": "client"
   },
   {
+    "tag": "xhttp-opts",
+    "count": 9,
+    "category": "core"
+  },
+  {
     "tag": "CBC",
     "count": 9,
     "category": "ecosystem"
@@ -318,11 +323,6 @@
     "tag": "Mihomo",
     "count": 8,
     "category": "client"
-  },
-  {
-    "tag": "xhttp-opts",
-    "count": 8,
-    "category": "core"
   },
   {
     "tag": "域名",
@@ -520,6 +520,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "rematch",
+    "count": 5,
+    "category": "core"
+  },
+  {
     "tag": "subconverter",
     "count": 5,
     "category": "ecosystem"
@@ -588,11 +593,6 @@
     "tag": "nekoray",
     "count": 4,
     "category": "client"
-  },
-  {
-    "tag": "rematch",
-    "count": 4,
-    "category": "core"
   },
   {
     "tag": "YAML",
@@ -787,6 +787,11 @@
   {
     "tag": "protocol",
     "count": 3,
+    "category": "protocol"
+  },
+  {
+    "tag": "Node.js",
+    "count": 2,
     "category": "protocol"
   },
   {
@@ -1806,11 +1811,6 @@
   },
   {
     "tag": "规则库",
-    "count": 1,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "Node.js",
     "count": 1,
     "category": "ecosystem"
   },
