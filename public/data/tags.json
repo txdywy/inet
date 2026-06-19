@@ -16,8 +16,8 @@
   },
   {
     "tag": "Sub-Store",
-    "count": 69,
-    "category": "protocol"
+    "count": 70,
+    "category": "ecosystem"
   },
   {
     "tag": "domain-list-community",
@@ -90,14 +90,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "Windows",
+    "count": 26,
+    "category": "client"
+  },
+  {
     "tag": "Tailscale",
     "count": 25,
     "category": "core"
-  },
-  {
-    "tag": "Windows",
-    "count": 25,
-    "category": "client"
   },
   {
     "tag": "代理工具",
@@ -140,6 +140,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "v2rayN",
+    "count": 18,
+    "category": "client"
+  },
+  {
     "tag": "Xray",
     "count": 18,
     "category": "core"
@@ -148,11 +153,6 @@
     "tag": "网络工具",
     "count": 17,
     "category": "ecosystem"
-  },
-  {
-    "tag": "v2rayN",
-    "count": 17,
-    "category": "client"
   },
   {
     "tag": "Snell",
@@ -790,6 +790,11 @@
     "category": "protocol"
   },
   {
+    "tag": "本地化",
+    "count": 2,
+    "category": "client"
+  },
+  {
     "tag": "Node.js",
     "count": 2,
     "category": "protocol"
@@ -1123,6 +1128,21 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "流量劫持",
+    "count": 1,
+    "category": "client"
+  },
+  {
+    "tag": "分享功能",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "用户设置",
+    "count": 1,
+    "category": "ecosystem"
   },
   {
     "tag": "反向解析",
@@ -1571,11 +1591,6 @@
   },
   {
     "tag": "i18n",
-    "count": 1,
-    "category": "client"
-  },
-  {
-    "tag": "本地化",
     "count": 1,
     "category": "client"
   },
