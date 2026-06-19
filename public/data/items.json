@@ -1,5 +1,38 @@
 [
   {
+    "id": "0f93e0310e58553d",
+    "title": "v3.2.7-nightly.20260619",
+    "summary": "go-gost v3.2.7-nightly.20260619 更新了多个功能和改进，特别是注册了 runix 监听器。",
+    "analysis": "此次更新主要包含了对依赖库的版本提升、CI 工作流的强化以及新增了 runix 监听器的功能。提升依赖库版本（x 到 v0.11.1）有助于确保项目使用最新的功能和修复，增强了整体稳定性和安全性。CI 工作流的强化则意味着在构建和发布过程中将更加可靠，减少了潜在的构建失败风险。新增的 runix 监听器功能可能为用户提供了更多的网络监听选项，提升了项目的灵活性和适用场景。虽然这是一个夜间版本，通常不建议在生产环境中使用，但对于开发者来说，测试新功能和改进是非常重要的。总体来看，此次更新对用户和开发者都是积极的，建议开发者关注并测试新功能，但在生产环境中使用时需谨慎。",
+    "rawTitle": "v3.2.7-nightly.20260619",
+    "rawBody": "## Changelog\n* 396b0977bd7138d535fec5d24575c8ea810298c9 chore: bump x to v0.11.1\n* 06ec0097f9668241742d0e981dcd4034e10e112d ci: harden docker/release/nightly GitHub Actions workflows\n* 604dccc7b09b6a28c0a439e60c57e1e8f52d60b7 feat: register runix listener (#871)\n\n",
+    "sourceType": "github_release",
+    "sourceName": "go-gost/gost",
+    "sourceUrl": "https://github.com/go-gost/gost/releases/tag/v3.2.7-nightly.20260619",
+    "project": "gost",
+    "repo": "go-gost/gost",
+    "slug": "gost",
+    "version": "3.2.7-nightly.20260619",
+    "category": "ecosystem",
+    "tags": [
+      "go-gost",
+      "runix",
+      "GitHub Actions",
+      "网络工具"
+    ],
+    "platforms": [],
+    "importance": 3,
+    "confidence": 0.9,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-06-19T16:18:02Z",
+    "fetchedAt": "2026-06-19T20:02:00.928Z",
+    "firstSeenAt": "2026-06-19T20:02:15.216Z",
+    "updatedAt": "2026-06-19T20:02:15.216Z",
+    "hash": "0f93e0310e58553d"
+  },
+  {
     "id": "19d7c3a80d2b2921",
     "title": "Released on 202606191334",
     "summary": "Loyalsoldier/v2ray-rules-dat 发布了新版本，更新于2026年6月19日。",
