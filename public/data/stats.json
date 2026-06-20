@@ -1,37 +1,37 @@
 {
-  "totalItems": 668,
-  "last24h": 10,
+  "totalItems": 673,
+  "last24h": 11,
   "last7d": 56,
   "byCategory": {
     "core": 102,
-    "client": 160,
+    "client": 161,
     "router": 1,
     "protocol": 45,
     "dns_rules": 18,
     "security": 5,
-    "ecosystem": 337,
+    "ecosystem": 341,
     "trend": 0
   },
   "topProjects": [
     {
       "project": "domain-list-community",
-      "count": 114
+      "count": 115
+    },
+    {
+      "project": "Sub-Store",
+      "count": 73
     },
     {
       "project": "mihomo",
       "count": 73
     },
     {
-      "project": "Sub-Store",
-      "count": 71
-    },
-    {
       "project": "v2ray-rules-dat",
-      "count": 50
+      "count": 51
     },
     {
       "project": "meta-rules-dat",
-      "count": 47
+      "count": 48
     },
     {
       "project": "metacubexd",
@@ -57,19 +57,19 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 151
+      "count": 152
     },
     {
       "tag": "v2fly",
-      "count": 118
+      "count": 119
     },
     {
       "tag": "mihomo",
-      "count": 75
+      "count": 76
     },
     {
       "tag": "Sub-Store",
-      "count": 71
+      "count": 73
     },
     {
       "tag": "domain-list-community",
@@ -77,15 +77,15 @@
     },
     {
       "tag": "v2ray",
-      "count": 56
+      "count": 57
     },
     {
       "tag": "meta-rules-dat",
-      "count": 47
+      "count": 48
     },
     {
       "tag": "Loyalsoldier",
-      "count": 47
+      "count": 48
     },
     {
       "tag": "OpenVPN",
@@ -97,7 +97,7 @@
     },
     {
       "tag": "domain-list",
-      "count": 41
+      "count": 42
     },
     {
       "tag": "网络代理",
@@ -105,7 +105,7 @@
     },
     {
       "tag": "rules",
-      "count": 37
+      "count": 38
     },
     {
       "tag": "代理",
@@ -139,5 +139,5 @@
   "importantCount": 192,
   "breakingCount": 37,
   "securityCount": 44,
-  "updatedAt": "2026-06-19T20:02:15.664Z"
+  "updatedAt": "2026-06-20T04:42:57.857Z"
 }

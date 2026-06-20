@@ -1,22 +1,22 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 151,
+    "count": 152,
     "category": "ecosystem"
   },
   {
     "tag": "v2fly",
-    "count": 118,
+    "count": 119,
     "category": "ecosystem"
   },
   {
     "tag": "mihomo",
-    "count": 75,
+    "count": 76,
     "category": "ecosystem"
   },
   {
     "tag": "Sub-Store",
-    "count": 71,
+    "count": 73,
     "category": "ecosystem"
   },
   {
@@ -26,17 +26,17 @@
   },
   {
     "tag": "v2ray",
-    "count": 56,
+    "count": 57,
     "category": "ecosystem"
   },
   {
     "tag": "meta-rules-dat",
-    "count": 47,
+    "count": 48,
     "category": "ecosystem"
   },
   {
     "tag": "Loyalsoldier",
-    "count": 47,
+    "count": 48,
     "category": "ecosystem"
   },
   {
@@ -51,7 +51,7 @@
   },
   {
     "tag": "domain-list",
-    "count": 41,
+    "count": 42,
     "category": "ecosystem"
   },
   {
@@ -61,7 +61,7 @@
   },
   {
     "tag": "rules",
-    "count": 37,
+    "count": 38,
     "category": "ecosystem"
   },
   {
@@ -100,6 +100,11 @@
     "category": "core"
   },
   {
+    "tag": "dat",
+    "count": 24,
+    "category": "ecosystem"
+  },
+  {
     "tag": "代理工具",
     "count": 24,
     "category": "ecosystem"
@@ -108,11 +113,6 @@
     "tag": "HTTP/2",
     "count": 24,
     "category": "protocol"
-  },
-  {
-    "tag": "dat",
-    "count": 23,
-    "category": "ecosystem"
   },
   {
     "tag": "Linux",
@@ -305,6 +305,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "域名",
+    "count": 8,
+    "category": "ecosystem"
+  },
+  {
     "tag": "用户界面",
     "count": 8,
     "category": "client"
@@ -323,11 +328,6 @@
     "tag": "Mihomo",
     "count": 8,
     "category": "client"
-  },
-  {
-    "tag": "域名",
-    "count": 7,
-    "category": "ecosystem"
   },
   {
     "tag": "中国域名",
@@ -372,6 +372,11 @@
   {
     "tag": "快捷方式",
     "count": 7,
+    "category": "client"
+  },
+  {
+    "tag": "shadow-tls",
+    "count": 6,
     "category": "client"
   },
   {
@@ -528,11 +533,6 @@
     "tag": "subconverter",
     "count": 5,
     "category": "ecosystem"
-  },
-  {
-    "tag": "shadow-tls",
-    "count": 5,
-    "category": "core"
   },
   {
     "tag": "tuic",
@@ -793,6 +793,21 @@
     "tag": "protocol",
     "count": 3,
     "category": "protocol"
+  },
+  {
+    "tag": "文件路由",
+    "count": 2,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "ss",
+    "count": 2,
+    "category": "client"
+  },
+  {
+    "tag": "utls",
+    "count": 2,
+    "category": "client"
   },
   {
     "tag": "GitHub Actions",
@@ -1135,12 +1150,17 @@
     "category": "security"
   },
   {
-    "tag": "runix",
+    "tag": "配置生成",
     "count": 1,
     "category": "ecosystem"
   },
   {
-    "tag": "文件路由",
+    "tag": "博客",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "runix",
     "count": 1,
     "category": "ecosystem"
   },
@@ -2600,11 +2620,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "ss",
-    "count": 1,
-    "category": "ecosystem"
-  },
-  {
     "tag": "翻墙工具",
     "count": 1,
     "category": "client"
@@ -2821,11 +2836,6 @@
   },
   {
     "tag": "gso",
-    "count": 1,
-    "category": "client"
-  },
-  {
-    "tag": "utls",
     "count": 1,
     "category": "client"
   },
