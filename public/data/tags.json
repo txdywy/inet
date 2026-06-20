@@ -1,22 +1,22 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 152,
+    "count": 153,
     "category": "ecosystem"
   },
   {
     "tag": "v2fly",
-    "count": 119,
+    "count": 120,
     "category": "ecosystem"
   },
   {
     "tag": "mihomo",
-    "count": 76,
+    "count": 77,
     "category": "ecosystem"
   },
   {
     "tag": "Sub-Store",
-    "count": 73,
+    "count": 74,
     "category": "ecosystem"
   },
   {
@@ -245,6 +245,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "xhttp-opts",
+    "count": 10,
+    "category": "core"
+  },
+  {
     "tag": "网络规则",
     "count": 9,
     "category": "ecosystem"
@@ -295,13 +300,13 @@
     "category": "client"
   },
   {
-    "tag": "xhttp-opts",
-    "count": 9,
-    "category": "core"
-  },
-  {
     "tag": "CBC",
     "count": 9,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "域名列表",
+    "count": 8,
     "category": "ecosystem"
   },
   {
@@ -330,14 +335,19 @@
     "category": "client"
   },
   {
-    "tag": "中国域名",
+    "tag": "加密",
     "count": 7,
     "category": "ecosystem"
   },
   {
-    "tag": "域名列表",
+    "tag": "网络优化",
     "count": 7,
-    "category": "dns_rules"
+    "category": "ecosystem"
+  },
+  {
+    "tag": "中国域名",
+    "count": 7,
+    "category": "ecosystem"
   },
   {
     "tag": "dns",
@@ -405,11 +415,6 @@
     "category": "core"
   },
   {
-    "tag": "加密",
-    "count": 6,
-    "category": "ecosystem"
-  },
-  {
     "tag": "OpenClash",
     "count": 6,
     "category": "ecosystem"
@@ -430,11 +435,6 @@
     "category": "core"
   },
   {
-    "tag": "网络优化",
-    "count": 6,
-    "category": "ecosystem"
-  },
-  {
     "tag": "mihomo-party",
     "count": 6,
     "category": "client"
@@ -450,8 +450,18 @@
     "category": "core"
   },
   {
+    "tag": "rematch",
+    "count": 6,
+    "category": "core"
+  },
+  {
     "tag": "Alpha",
     "count": 6,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "age",
+    "count": 5,
     "category": "ecosystem"
   },
   {
@@ -525,11 +535,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "rematch",
-    "count": 5,
-    "category": "core"
-  },
-  {
     "tag": "subconverter",
     "count": 5,
     "category": "ecosystem"
@@ -540,9 +545,9 @@
     "category": "protocol"
   },
   {
-    "tag": "age",
+    "tag": "Gist",
     "count": 4,
-    "category": "core"
+    "category": "ecosystem"
   },
   {
     "tag": "配置文件",
@@ -593,6 +598,11 @@
     "tag": "nekoray",
     "count": 4,
     "category": "client"
+  },
+  {
+    "tag": "snell",
+    "count": 4,
+    "category": "core"
   },
   {
     "tag": "依赖管理",
@@ -740,11 +750,6 @@
     "category": "protocol"
   },
   {
-    "tag": "Gist",
-    "count": 3,
-    "category": "ecosystem"
-  },
-  {
     "tag": "崩溃修复",
     "count": 3,
     "category": "client"
@@ -785,14 +790,14 @@
     "category": "client"
   },
   {
-    "tag": "snell",
-    "count": 3,
-    "category": "core"
-  },
-  {
     "tag": "protocol",
     "count": 3,
     "category": "protocol"
+  },
+  {
+    "tag": "备份",
+    "count": 2,
+    "category": "ecosystem"
   },
   {
     "tag": "文件路由",
@@ -1148,6 +1153,11 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "GOG",
+    "count": 1,
+    "category": "ecosystem"
   },
   {
     "tag": "配置生成",
@@ -1641,11 +1651,6 @@
   },
   {
     "tag": "Paint.NET",
-    "count": 1,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "备份",
     "count": 1,
     "category": "ecosystem"
   },
