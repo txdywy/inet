@@ -1,15 +1,15 @@
 {
-  "totalItems": 676,
-  "last24h": 12,
-  "last7d": 54,
+  "totalItems": 684,
+  "last24h": 15,
+  "last7d": 59,
   "byCategory": {
-    "core": 103,
-    "client": 161,
+    "core": 104,
+    "client": 166,
     "router": 1,
     "protocol": 45,
     "dns_rules": 18,
-    "security": 5,
-    "ecosystem": 343,
+    "security": 6,
+    "ecosystem": 344,
     "trend": 0
   },
   "topProjects": [
@@ -19,11 +19,11 @@
     },
     {
       "project": "Sub-Store",
-      "count": 74
+      "count": 75
     },
     {
       "project": "mihomo",
-      "count": 74
+      "count": 75
     },
     {
       "project": "v2ray-rules-dat",
@@ -35,7 +35,7 @@
     },
     {
       "project": "metacubexd",
-      "count": 32
+      "count": 37
     },
     {
       "project": "ClashMetaForAndroid",
@@ -50,14 +50,14 @@
       "count": 18
     },
     {
-      "project": "clash-verge-rev",
+      "project": "v2rayNG",
       "count": 17
     }
   ],
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 153
+      "count": 159
     },
     {
       "tag": "v2fly",
@@ -65,11 +65,11 @@
     },
     {
       "tag": "mihomo",
-      "count": 77
+      "count": 79
     },
     {
       "tag": "Sub-Store",
-      "count": 74
+      "count": 75
     },
     {
       "tag": "domain-list-community",
@@ -93,7 +93,7 @@
     },
     {
       "tag": "Android",
-      "count": 44
+      "count": 45
     },
     {
       "tag": "domain-list",
@@ -108,16 +108,24 @@
       "count": 38
     },
     {
+      "tag": "metacubexd",
+      "count": 34
+    },
+    {
       "tag": "代理",
       "count": 32
     },
     {
-      "tag": "metacubexd",
+      "tag": "ClashMetaForAndroid",
       "count": 29
     },
     {
-      "tag": "ClashMetaForAndroid",
-      "count": 29
+      "tag": "Linux",
+      "count": 28
+    },
+    {
+      "tag": "Windows",
+      "count": 28
     },
     {
       "tag": "开源",
@@ -126,18 +134,10 @@
     {
       "tag": "sing-box",
       "count": 27
-    },
-    {
-      "tag": "Windows",
-      "count": 26
-    },
-    {
-      "tag": "Tailscale",
-      "count": 25
     }
   ],
-  "importantCount": 192,
-  "breakingCount": 37,
-  "securityCount": 44,
-  "updatedAt": "2026-06-20T09:45:01.899Z"
+  "importantCount": 194,
+  "breakingCount": 38,
+  "securityCount": 46,
+  "updatedAt": "2026-06-20T14:34:18.658Z"
 }

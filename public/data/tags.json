@@ -1,8 +1,8 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 153,
-    "category": "ecosystem"
+    "count": 159,
+    "category": "client"
   },
   {
     "tag": "v2fly",
@@ -11,12 +11,12 @@
   },
   {
     "tag": "mihomo",
-    "count": 77,
+    "count": 79,
     "category": "ecosystem"
   },
   {
     "tag": "Sub-Store",
-    "count": 74,
+    "count": 75,
     "category": "ecosystem"
   },
   {
@@ -46,7 +46,7 @@
   },
   {
     "tag": "Android",
-    "count": 44,
+    "count": 45,
     "category": "client"
   },
   {
@@ -65,18 +65,28 @@
     "category": "ecosystem"
   },
   {
+    "tag": "metacubexd",
+    "count": 34,
+    "category": "client"
+  },
+  {
     "tag": "代理",
     "count": 32,
     "category": "ecosystem"
   },
   {
-    "tag": "metacubexd",
-    "count": 29,
-    "category": "core"
-  },
-  {
     "tag": "ClashMetaForAndroid",
     "count": 29,
+    "category": "client"
+  },
+  {
+    "tag": "Linux",
+    "count": 28,
+    "category": "client"
+  },
+  {
+    "tag": "Windows",
+    "count": 28,
     "category": "client"
   },
   {
@@ -88,11 +98,6 @@
     "tag": "sing-box",
     "count": 27,
     "category": "ecosystem"
-  },
-  {
-    "tag": "Windows",
-    "count": 26,
-    "category": "client"
   },
   {
     "tag": "Tailscale",
@@ -113,11 +118,6 @@
     "tag": "HTTP/2",
     "count": 24,
     "category": "protocol"
-  },
-  {
-    "tag": "Linux",
-    "count": 23,
-    "category": "core"
   },
   {
     "tag": "网络协议",
@@ -156,18 +156,18 @@
   },
   {
     "tag": "Snell",
-    "count": 17,
+    "count": 18,
     "category": "protocol"
+  },
+  {
+    "tag": "v2rayNG",
+    "count": 17,
+    "category": "client"
   },
   {
     "tag": "QUIC",
     "count": 17,
     "category": "ecosystem"
-  },
-  {
-    "tag": "v2rayNG",
-    "count": 16,
-    "category": "client"
   },
   {
     "tag": "3x-ui",
@@ -230,6 +230,11 @@
     "category": "core"
   },
   {
+    "tag": "xhttp-opts",
+    "count": 11,
+    "category": "core"
+  },
+  {
     "tag": "VMess",
     "count": 10,
     "category": "protocol"
@@ -243,11 +248,6 @@
     "tag": "Clash",
     "count": 10,
     "category": "ecosystem"
-  },
-  {
-    "tag": "xhttp-opts",
-    "count": 10,
-    "category": "core"
   },
   {
     "tag": "网络规则",
@@ -385,6 +385,11 @@
     "category": "client"
   },
   {
+    "tag": "rematch",
+    "count": 7,
+    "category": "core"
+  },
+  {
     "tag": "shadow-tls",
     "count": 6,
     "category": "client"
@@ -446,11 +451,6 @@
   },
   {
     "tag": "rust",
-    "count": 6,
-    "category": "core"
-  },
-  {
-    "tag": "rematch",
     "count": 6,
     "category": "core"
   },
@@ -545,6 +545,16 @@
     "category": "protocol"
   },
   {
+    "tag": "安全修复",
+    "count": 4,
+    "category": "security"
+  },
+  {
+    "tag": "证书验证",
+    "count": 4,
+    "category": "client"
+  },
+  {
     "tag": "Gist",
     "count": 4,
     "category": "ecosystem"
@@ -605,6 +615,11 @@
     "category": "core"
   },
   {
+    "tag": "安全",
+    "count": 3,
+    "category": "client"
+  },
+  {
     "tag": "依赖管理",
     "count": 3,
     "category": "ecosystem"
@@ -623,11 +638,6 @@
     "tag": "steam",
     "count": 3,
     "category": "ecosystem"
-  },
-  {
-    "tag": "证书验证",
-    "count": 3,
-    "category": "client"
   },
   {
     "tag": "网络",
@@ -678,11 +688,6 @@
     "tag": "前端",
     "count": 3,
     "category": "ecosystem"
-  },
-  {
-    "tag": "安全修复",
-    "count": 3,
-    "category": "core"
   },
   {
     "tag": "远程控制",
@@ -795,6 +800,11 @@
     "category": "protocol"
   },
   {
+    "tag": "deb",
+    "count": 2,
+    "category": "client"
+  },
+  {
     "tag": "备份",
     "count": 2,
     "category": "ecosystem"
@@ -863,11 +873,6 @@
     "tag": "MTProto",
     "count": 2,
     "category": "core"
-  },
-  {
-    "tag": "安全",
-    "count": 2,
-    "category": "client"
   },
   {
     "tag": "资源解析器",
@@ -1153,6 +1158,16 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "桌面应用",
+    "count": 1,
+    "category": "client"
+  },
+  {
+    "tag": "节点管理",
+    "count": 1,
+    "category": "ecosystem"
   },
   {
     "tag": "GOG",
