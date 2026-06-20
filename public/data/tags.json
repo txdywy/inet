@@ -1,7 +1,7 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 159,
+    "count": 163,
     "category": "client"
   },
   {
@@ -11,12 +11,12 @@
   },
   {
     "tag": "mihomo",
-    "count": 79,
+    "count": 80,
     "category": "ecosystem"
   },
   {
     "tag": "Sub-Store",
-    "count": 75,
+    "count": 76,
     "category": "ecosystem"
   },
   {
@@ -60,14 +60,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "metacubexd",
+    "count": 38,
+    "category": "client"
+  },
+  {
     "tag": "rules",
     "count": 38,
     "category": "ecosystem"
-  },
-  {
-    "tag": "metacubexd",
-    "count": 34,
-    "category": "client"
   },
   {
     "tag": "代理",
@@ -170,6 +170,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "go-gost",
+    "count": 16,
+    "category": "core"
+  },
+  {
     "tag": "3x-ui",
     "count": 16,
     "category": "core"
@@ -178,11 +183,6 @@
     "tag": "macOS",
     "count": 16,
     "category": "client"
-  },
-  {
-    "tag": "go-gost",
-    "count": 15,
-    "category": "ecosystem"
   },
   {
     "tag": "DNS",
@@ -210,6 +210,11 @@
     "category": "client"
   },
   {
+    "tag": "TLS",
+    "count": 12,
+    "category": "core"
+  },
+  {
     "tag": "naiveproxy",
     "count": 12,
     "category": "core"
@@ -225,14 +230,14 @@
     "category": "ecosystem"
   },
   {
-    "tag": "TLS",
+    "tag": "xhttp-opts",
     "count": 11,
     "category": "core"
   },
   {
-    "tag": "xhttp-opts",
-    "count": 11,
-    "category": "core"
+    "tag": "用户界面",
+    "count": 10,
+    "category": "client"
   },
   {
     "tag": "VMess",
@@ -305,6 +310,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "快捷方式",
+    "count": 8,
+    "category": "client"
+  },
+  {
     "tag": "域名列表",
     "count": 8,
     "category": "ecosystem"
@@ -313,11 +323,6 @@
     "tag": "域名",
     "count": 8,
     "category": "ecosystem"
-  },
-  {
-    "tag": "用户界面",
-    "count": 8,
-    "category": "client"
   },
   {
     "tag": "预发布",
@@ -332,6 +337,11 @@
   {
     "tag": "Mihomo",
     "count": 8,
+    "category": "client"
+  },
+  {
+    "tag": "bugfix",
+    "count": 7,
     "category": "client"
   },
   {
@@ -380,14 +390,19 @@
     "category": "ecosystem"
   },
   {
-    "tag": "快捷方式",
-    "count": 7,
-    "category": "client"
-  },
-  {
     "tag": "rematch",
     "count": 7,
     "category": "core"
+  },
+  {
+    "tag": "bug修复",
+    "count": 6,
+    "category": "client"
+  },
+  {
+    "tag": "配置管理",
+    "count": 6,
+    "category": "ecosystem"
   },
   {
     "tag": "shadow-tls",
@@ -465,11 +480,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "bugfix",
-    "count": 5,
-    "category": "core"
-  },
-  {
     "tag": "网络安全",
     "count": 5,
     "category": "ecosystem"
@@ -483,11 +493,6 @@
     "tag": "nftables",
     "count": 5,
     "category": "ecosystem"
-  },
-  {
-    "tag": "bug修复",
-    "count": 5,
-    "category": "client"
   },
   {
     "tag": "TrustTunnel",
@@ -545,6 +550,11 @@
     "category": "protocol"
   },
   {
+    "tag": "功能增强",
+    "count": 4,
+    "category": "client"
+  },
+  {
     "tag": "安全修复",
     "count": 4,
     "category": "security"
@@ -580,11 +590,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "配置管理",
-    "count": 4,
-    "category": "ecosystem"
-  },
-  {
     "tag": "多语言支持",
     "count": 4,
     "category": "client"
@@ -613,6 +618,11 @@
     "tag": "snell",
     "count": 4,
     "category": "core"
+  },
+  {
+    "tag": "文件路由",
+    "count": 3,
+    "category": "ecosystem"
   },
   {
     "tag": "安全",
@@ -676,11 +686,6 @@
   },
   {
     "tag": "脚本操作",
-    "count": 3,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "功能增强",
     "count": 3,
     "category": "ecosystem"
   },
@@ -806,11 +811,6 @@
   },
   {
     "tag": "备份",
-    "count": 2,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "文件路由",
     "count": 2,
     "category": "ecosystem"
   },
@@ -1158,6 +1158,11 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "UI",
+    "count": 1,
+    "category": "client"
   },
   {
     "tag": "桌面应用",

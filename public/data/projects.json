@@ -16,23 +16,6 @@
     ]
   },
   {
-    "slug": "mihomo",
-    "name": "mihomo",
-    "repo": "MetaCubeX/mihomo",
-    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
-    "category": "core",
-    "platforms": [
-      "linux",
-      "windows",
-      "macos"
-    ],
-    "tags": [
-      "mihomo",
-      "clash",
-      "meta"
-    ]
-  },
-  {
     "slug": "sub-store",
     "name": "Sub-Store",
     "repo": "sub-store-org/Sub-Store",
@@ -48,6 +31,23 @@
     "tags": [
       "sub-store",
       "subscription"
+    ]
+  },
+  {
+    "slug": "mihomo",
+    "name": "mihomo",
+    "repo": "MetaCubeX/mihomo",
+    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
+    "category": "core",
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "tags": [
+      "mihomo",
+      "clash",
+      "meta"
     ]
   },
   {
@@ -183,21 +183,6 @@
     ]
   },
   {
-    "slug": "3x-ui",
-    "name": "3x-ui",
-    "repo": "MHSanaei/3x-ui",
-    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
-    "category": "ecosystem",
-    "platforms": [
-      "linux"
-    ],
-    "tags": [
-      "x-ui",
-      "panel",
-      "xray-core"
-    ]
-  },
-  {
     "slug": "gost",
     "name": "gost",
     "repo": "go-gost/gost",
@@ -211,6 +196,21 @@
     "tags": [
       "gost",
       "tunnel"
+    ]
+  },
+  {
+    "slug": "3x-ui",
+    "name": "3x-ui",
+    "repo": "MHSanaei/3x-ui",
+    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
+    "category": "ecosystem",
+    "platforms": [
+      "linux"
+    ],
+    "tags": [
+      "x-ui",
+      "panel",
+      "xray-core"
     ]
   },
   {
