@@ -71,8 +71,8 @@
   },
   {
     "tag": "代理",
-    "count": 32,
-    "category": "ecosystem"
+    "count": 33,
+    "category": "client"
   },
   {
     "tag": "ClashMetaForAndroid",
@@ -135,6 +135,11 @@
     "category": "client"
   },
   {
+    "tag": "网络工具",
+    "count": 19,
+    "category": "client"
+  },
+  {
     "tag": "CHACHA20-POLY1305",
     "count": 19,
     "category": "ecosystem"
@@ -143,11 +148,6 @@
     "tag": "QUIC",
     "count": 18,
     "category": "client"
-  },
-  {
-    "tag": "网络工具",
-    "count": 18,
-    "category": "ecosystem"
   },
   {
     "tag": "v2rayN",
@@ -1183,6 +1183,11 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "Mihomo Party",
+    "count": 1,
+    "category": "client"
   },
   {
     "tag": "MASQUE",

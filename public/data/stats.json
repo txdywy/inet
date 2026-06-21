@@ -1,10 +1,10 @@
 {
-  "totalItems": 702,
-  "last24h": 22,
+  "totalItems": 703,
+  "last24h": 18,
   "last7d": 65,
   "byCategory": {
     "core": 106,
-    "client": 173,
+    "client": 174,
     "router": 1,
     "protocol": 45,
     "dns_rules": 18,
@@ -113,7 +113,7 @@
     },
     {
       "tag": "代理",
-      "count": 32
+      "count": 33
     },
     {
       "tag": "ClashMetaForAndroid",
@@ -136,8 +136,8 @@
       "count": 27
     }
   ],
-  "importantCount": 197,
+  "importantCount": 198,
   "breakingCount": 38,
   "securityCount": 47,
-  "updatedAt": "2026-06-21T10:07:34.242Z"
+  "updatedAt": "2026-06-21T14:34:31.268Z"
 }

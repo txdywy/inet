@@ -1,5 +1,41 @@
 [
   {
+    "id": "4c19b4bb172b44d7",
+    "title": "v1.9.6",
+    "summary": "Mihomo Party v1.9.6 更新了多个新功能和性能优化，修复了多项已知问题，提升了用户体验。",
+    "analysis": "在 v1.9.6 版本中，Mihomo Party 引入了多个新功能，包括 Tunnel 编辑器、代理组标题显示当前节点、IP 信息来源选择记忆等，这些功能的增加将显著提升用户的操作便捷性和灵活性。此外，性能方面的优化，如软件启动和退出速度的提升、连接页的重构等，能够为用户提供更流畅的使用体验。修复部分则针对用户反馈的具体问题进行了针对性处理，确保软件的稳定性和可靠性。整体来看，此次更新对用户和开发者均有积极影响，建议用户尽快更新以享受新功能和修复带来的改进。该版本没有明显的兼容性风险，适用于 Windows、macOS 和 Linux 等多个平台。",
+    "rawTitle": "v1.9.6",
+    "rawBody": "# 1.9.6\n\n## 新功能 (Feat)\n\n- 新增 Tunnel 编辑器\n- 新增代理组标题显示当前节点\n- 新增 IP 信息来源选择记忆\n- 新增关闭应用日志输出选项\n- 新增网络信息卡片排序\n- 新增记忆侧边栏卡片选中状态\n- 新增 Age 加密配置和 Gist 同步支持\n- 新增轻量模式行为开关\n\n## 性能优化 (Performance)\n\n- 重构简化连接页\n- 优化软件启动和退出速度\n- 收敛软件配置，提升渲染性能\n- 优化代理组延迟测试结果展示\n- 优化核心和 Sub-Store 日志轮转及大小限制截断性能\n\n## 修复 (Fix)\n\n- 修复修改 Mihomo 设置（如日志等级、端口等）后未应用到运行中内核的问题\n- 修复托盘菜单可能被回收导致不可用的问题\n- 修复 Mihomo 安全路径缺少工作目录的问题\n- 修复流量卡片初始尺寸异常的问题\n- 修复不允许 IP 段占位符错误的问题\n- 修复本地配置显示更新超时时间的问题\n- 修复规则集搜索清空后列表不可见的问题\n- 修复 Mihomo 重启期间 WebSocket 重连异常的问题\n- 修复便携版数据目录未保持在应用目录下的问题\n- 修复搜索过滤条件未持久化的问题\n- 修复窗口宽度在每次重启后逐渐变大的问题\n- 修复生成配置未允许全部有效日志等级的问题\n- 修复 Windows 管理员启动时 GPU 沙盒异常的问题\n- 修复已有 DNS 配置时 `dns-hijack` 未保留的问题\n- 修复配置自动补全输入为空时的异常\n- 修复关闭流量日志后未立即停止记录的问题\n- 修复 Mihomo WebSocket 命名管道路由丢失的问题\n- 修复远程订阅拉取兼容性问题\n- 修复过期开机自启注册表回退项未清理的问题\n- 修复静默启动恢复最大化窗口时仍显示窗口的问题\n- 修复侧边栏设置分隔线缺失的问题\n\n## 其他 (Chore)\n\n- 调整 DNS 覆写默认关闭\n- 更新俄语翻译\n- 优化流量时间范围显示格式\n- 更新依赖\n- 使用最新发布的 sysproxy-rs\n\n# 1.9.5\n\n## 新功能 (Feat)\n\n- 更新 mihomo 内核\n- 新增 WebDAV 备份文件名包含设备名称\n- 新增单个日志文件大小限制和截断机制\n- 新增每个订阅独立的 User-Agent 配置\n- 新增配置开关和覆写保存时使用 Mihomo 热重载生效\n- 新增热重载切换配置后的连接关闭选项\n- 新增自定义托盘图标支持及裁剪选择器\n- 新增托盘策略组延迟测试入口\n- 新增网络延迟测试自定义目标地址\n- 新增 fake-ip-filter 规则模式支持\n- 新增删除配置文件的确认弹窗\n- 使用 mshta 在 Electron 初始化前同步检测 PowerShell 版本\n\n## 修复 (Fix)\n\n- 修复 Win7 兼容性问题\n- 修复日志清理正则表达式以正确匹配带前缀的文件名\n- 修复渲染端和配置相关的类型安全回归\n- 修复订阅超时时间为空时未回退到全局超时时间的问题\n- 修复空 `lan-allowed-ips` 导致局域网访问异常的问题\n- 修复智能覆写在规则覆写前应用导致配置结果异常的问题\n- 修复 `mihomoHotReloadConfig` IPC 调用白名单缺失并稳定 TUN 保存流程\n- 修复受保护配置工作目录删除失败的问题\n- 修复连接表中国旗表情未正确显示的问题\n- 修复订阅自动更新在异常间隔或错误配置下可能触发高频刷新请求的问题\n- 修复 nameserver-policy 未正确保存和应用的问题\n- 修复托盘图标裁剪弹窗的暗色模式显示异常\n- 修复 Windows TUN 模式下的自代理循环问题\n\n## 性能优化 (Performance)\n\n- 优化连接页渲染并减少代理组轮询\n- 优化软件启动和退出速度\n\n## 其他 (Chore)\n\n- 新增提交前格式、lint 和类型检查钩子\n- 重构 rule-item 额外字段处理逻辑并补充类型定义\n- 更新依赖\n\n### 下载地址：\n\n#### Windows10/11：\n\n- 安装版：[64位](https://github.com/mihomo-party-org/clash-party/releases/download/v1.9.6/clash-party-windows-1.9.6-x64-setup.exe) | [32位](https://github.com/mihomo-party-org/clash-party/releases/download/v1.9.6/clash-party-windows-1.9.6-ia32-setup.exe) | [ARM64](https://github.com/mihomo-party-org/clash-party/releases/download/v1.9.6/clash-party-windows-1.9.6-arm64-setup.exe)\n\n- 便携版：[64位](https://github.com/mihomo-party-org/clash-party/releases/download/v1.9.6/clash-party-windows-1.9.6-x64-portable.7z) | [32位](https://github.com/mihomo-party-org/clash-party/releases/download/v1.9.6/clash-party-windows-1.9.6-ia32-portable.7z) | [ARM64](https://github.com/mihomo-party-org/clash-party/releases/download/v1.9.6/clash-party-windows-1.9.6-arm64-portable.7z)\n\n\n#### Windows7/8：\n\n- 安装版：[64位](https://github.com/mihomo-party-org/clash-party/releases/download/v1.9.6/clash-party-win7-1.9.6-x64-setup.exe) | [32位](https://github.com/mihomo-party-org/clash-party/releases/download/v1.9.6/clash-party-win7-1.9.6-ia32-setup.exe)\n\n- 便携版：[64位](https://github.com/mihomo-party-org/clash-party/releases/download/v1.9.6/clash-party-win7-1.9.6-x64-portable.7z) | [32位](https://github.com/mihomo-party-org/clash-party/releases/download/v1.9.6/clash-party-win7-1.9.6-ia32-portable.7z)\n\n\n#### macOS 11+：\n\n- PKG：[Intel](https://github.com/mihomo-party-org/clash-party/releases/download/v1.9.6/clash-party-macos-1.9.6-x64.pkg) | [Apple Silicon](https://github.com/mihomo-party-org/clash-party/releases/download/v1.9.6/clash-party-macos-1.9.6-arm64.pkg)\n\n\n#### macOS 10.15+：\n\n- PKG：[Intel](https://github.com/mihomo-party-org/clash-party/releases/download/v1.9.6/clash-party-catalina-1.9.6-x64.pkg) | [Apple Silicon](https://github.com/mihomo-party-org/clash-party/releases/download/v1.9.6/clash-party-catalina-1.9.6-arm64.pkg)\n\n\n#### Linux：\n\n- DEB：[64位](https://github.com/mihomo-party-org/clash-party/releases/download/v1.9.6/clash-party-linux-1.9.6-amd64.deb) | [ARM64](https://github.com/mihomo-party-org/clash-party/releases/download/v1.9.6/clash-party-linux-1.9.6-arm64.deb)\n\n- RPM：[64位](https://github.com/mihomo-party-org/clash-party/releases/download/v1.9.6/clash-party-linux-1.9.6-x86_64.rpm) | [ARM64](https://github.com/mihomo-party-org/clash-party/releases/download/v1.9.6/clash-party-linux-1.9.6-aarch64.rpm)\n\n### 机场推荐：\n- 高性能海外机场，稳定首选：[https://狗狗加速.com](https://party.dginv.click/#/register?code=ARdo0mXx)",
+    "sourceType": "github_release",
+    "sourceName": "mihomo-party-org/mihomo-party",
+    "sourceUrl": "https://github.com/mihomo-party-org/clash-party/releases/tag/v1.9.6",
+    "project": "mihomo-party",
+    "repo": "mihomo-party-org/mihomo-party",
+    "slug": "mihomo-party",
+    "version": "1.9.6",
+    "category": "client",
+    "tags": [
+      "Mihomo Party",
+      "代理",
+      "网络工具"
+    ],
+    "platforms": [
+      "windows",
+      "macos",
+      "linux"
+    ],
+    "importance": 4,
+    "confidence": 0.9,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-06-21T13:31:12Z",
+    "fetchedAt": "2026-06-21T14:34:18.090Z",
+    "firstSeenAt": "2026-06-21T14:34:30.826Z",
+    "updatedAt": "2026-06-21T14:34:30.826Z",
+    "hash": "4c19b4bb172b44d7"
+  },
+  {
     "id": "a79cd35ea6fa69a0",
     "title": "2.31.1",
     "summary": "Sub-Store 2.31.1 版本新增了对 MASQUE 协议的支持，增强了 Shadowrocket 的功能。",
