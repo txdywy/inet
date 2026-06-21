@@ -1,8 +1,8 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 168,
-    "category": "client"
+    "count": 170,
+    "category": "ecosystem"
   },
   {
     "tag": "v2fly",
@@ -55,14 +55,14 @@
     "category": "ecosystem"
   },
   {
-    "tag": "网络代理",
+    "tag": "metacubexd",
     "count": 41,
     "category": "ecosystem"
   },
   {
-    "tag": "metacubexd",
-    "count": 39,
-    "category": "security"
+    "tag": "网络代理",
+    "count": 41,
+    "category": "ecosystem"
   },
   {
     "tag": "rules",
@@ -71,8 +71,8 @@
   },
   {
     "tag": "代理",
-    "count": 33,
-    "category": "client"
+    "count": 34,
+    "category": "core"
   },
   {
     "tag": "ClashMetaForAndroid",
@@ -130,13 +130,13 @@
     "category": "protocol"
   },
   {
-    "tag": "SagerNet",
+    "tag": "网络工具",
     "count": 20,
-    "category": "client"
+    "category": "core"
   },
   {
-    "tag": "网络工具",
-    "count": 19,
+    "tag": "SagerNet",
+    "count": 20,
     "category": "client"
   },
   {
@@ -165,14 +165,14 @@
     "category": "protocol"
   },
   {
+    "tag": "go-gost",
+    "count": 17,
+    "category": "core"
+  },
+  {
     "tag": "v2rayNG",
     "count": 17,
     "category": "client"
-  },
-  {
-    "tag": "go-gost",
-    "count": 16,
-    "category": "core"
   },
   {
     "tag": "3x-ui",
@@ -350,6 +350,11 @@
     "category": "client"
   },
   {
+    "tag": "proxy",
+    "count": 7,
+    "category": "ecosystem"
+  },
+  {
     "tag": "域名解析",
     "count": 7,
     "category": "ecosystem"
@@ -428,11 +433,6 @@
     "tag": "Loon",
     "count": 6,
     "category": "ecosystem"
-  },
-  {
-    "tag": "proxy",
-    "count": 6,
-    "category": "core"
   },
   {
     "tag": "UDP",
@@ -553,6 +553,11 @@
     "tag": "tuic",
     "count": 5,
     "category": "protocol"
+  },
+  {
+    "tag": "SSH",
+    "count": 4,
+    "category": "core"
   },
   {
     "tag": "安全",
@@ -700,11 +705,6 @@
     "category": "client"
   },
   {
-    "tag": "SSH",
-    "count": 3,
-    "category": "ecosystem"
-  },
-  {
     "tag": "优化",
     "count": 3,
     "category": "protocol"
@@ -803,6 +803,11 @@
     "tag": "protocol",
     "count": 3,
     "category": "protocol"
+  },
+  {
+    "tag": "composable",
+    "count": 2,
+    "category": "ecosystem"
   },
   {
     "tag": "V2Ray",
@@ -1183,6 +1188,16 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "ui",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "read-model",
+    "count": 1,
+    "category": "ecosystem"
   },
   {
     "tag": "Mihomo Party",

@@ -1,15 +1,15 @@
 {
-  "totalItems": 703,
-  "last24h": 18,
-  "last7d": 65,
+  "totalItems": 706,
+  "last24h": 15,
+  "last7d": 67,
   "byCategory": {
-    "core": 106,
+    "core": 107,
     "client": 174,
     "router": 1,
     "protocol": 45,
     "dns_rules": 18,
     "security": 7,
-    "ecosystem": 352,
+    "ecosystem": 354,
     "trend": 0
   },
   "topProjects": [
@@ -35,7 +35,7 @@
     },
     {
       "project": "metacubexd",
-      "count": 44
+      "count": 46
     },
     {
       "project": "ClashMetaForAndroid",
@@ -50,14 +50,14 @@
       "count": 18
     },
     {
-      "project": "v2rayNG",
+      "project": "gost",
       "count": 17
     }
   ],
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 168
+      "count": 170
     },
     {
       "tag": "v2fly",
@@ -100,12 +100,12 @@
       "count": 43
     },
     {
-      "tag": "网络代理",
+      "tag": "metacubexd",
       "count": 41
     },
     {
-      "tag": "metacubexd",
-      "count": 39
+      "tag": "网络代理",
+      "count": 41
     },
     {
       "tag": "rules",
@@ -113,7 +113,7 @@
     },
     {
       "tag": "代理",
-      "count": 33
+      "count": 34
     },
     {
       "tag": "ClashMetaForAndroid",
@@ -139,5 +139,5 @@
   "importantCount": 198,
   "breakingCount": 38,
   "securityCount": 47,
-  "updatedAt": "2026-06-21T14:34:31.268Z"
+  "updatedAt": "2026-06-21T20:00:42.096Z"
 }

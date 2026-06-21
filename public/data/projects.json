@@ -151,6 +151,22 @@
     ]
   },
   {
+    "slug": "gost",
+    "name": "gost",
+    "repo": "go-gost/gost",
+    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
+    "category": "core",
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "tags": [
+      "gost",
+      "tunnel"
+    ]
+  },
+  {
     "slug": "v2rayng",
     "name": "v2rayNG",
     "repo": "2dust/v2rayNG",
@@ -180,22 +196,6 @@
       "clash-verge",
       "mihomo",
       "desktop"
-    ]
-  },
-  {
-    "slug": "gost",
-    "name": "gost",
-    "repo": "go-gost/gost",
-    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
-    "category": "core",
-    "platforms": [
-      "linux",
-      "windows",
-      "macos"
-    ],
-    "tags": [
-      "gost",
-      "tunnel"
     ]
   },
   {
