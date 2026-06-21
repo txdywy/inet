@@ -1,12 +1,12 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 163,
-    "category": "client"
+    "count": 165,
+    "category": "security"
   },
   {
     "tag": "v2fly",
-    "count": 120,
+    "count": 121,
     "category": "ecosystem"
   },
   {
@@ -21,22 +21,22 @@
   },
   {
     "tag": "domain-list-community",
-    "count": 60,
+    "count": 61,
     "category": "ecosystem"
   },
   {
     "tag": "v2ray",
-    "count": 57,
+    "count": 58,
     "category": "ecosystem"
   },
   {
     "tag": "meta-rules-dat",
-    "count": 48,
+    "count": 49,
     "category": "ecosystem"
   },
   {
     "tag": "Loyalsoldier",
-    "count": 48,
+    "count": 49,
     "category": "ecosystem"
   },
   {
@@ -61,12 +61,12 @@
   },
   {
     "tag": "metacubexd",
-    "count": 38,
-    "category": "client"
+    "count": 39,
+    "category": "security"
   },
   {
     "tag": "rules",
-    "count": 38,
+    "count": 39,
     "category": "ecosystem"
   },
   {
@@ -77,6 +77,11 @@
   {
     "tag": "ClashMetaForAndroid",
     "count": 29,
+    "category": "client"
+  },
+  {
+    "tag": "sing-box",
+    "count": 28,
     "category": "client"
   },
   {
@@ -95,18 +100,13 @@
     "category": "ecosystem"
   },
   {
-    "tag": "sing-box",
-    "count": 27,
-    "category": "ecosystem"
-  },
-  {
     "tag": "Tailscale",
-    "count": 25,
-    "category": "core"
+    "count": 26,
+    "category": "client"
   },
   {
     "tag": "dat",
-    "count": 24,
+    "count": 25,
     "category": "ecosystem"
   },
   {
@@ -131,8 +131,8 @@
   },
   {
     "tag": "SagerNet",
-    "count": 19,
-    "category": "ecosystem"
+    "count": 20,
+    "category": "client"
   },
   {
     "tag": "CHACHA20-POLY1305",
@@ -310,6 +310,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "bugfix",
+    "count": 8,
+    "category": "security"
+  },
+  {
     "tag": "快捷方式",
     "count": 8,
     "category": "client"
@@ -337,11 +342,6 @@
   {
     "tag": "Mihomo",
     "count": 8,
-    "category": "client"
-  },
-  {
-    "tag": "bugfix",
-    "count": 7,
     "category": "client"
   },
   {
@@ -550,6 +550,11 @@
     "category": "protocol"
   },
   {
+    "tag": "安全",
+    "count": 4,
+    "category": "security"
+  },
+  {
     "tag": "功能增强",
     "count": 4,
     "category": "client"
@@ -623,11 +628,6 @@
     "tag": "文件路由",
     "count": 3,
     "category": "ecosystem"
-  },
-  {
-    "tag": "安全",
-    "count": 3,
-    "category": "client"
   },
   {
     "tag": "依赖管理",
@@ -803,6 +803,11 @@
     "tag": "protocol",
     "count": 3,
     "category": "protocol"
+  },
+  {
+    "tag": "iOS",
+    "count": 2,
+    "category": "client"
   },
   {
     "tag": "deb",
@@ -1160,6 +1165,11 @@
     "category": "security"
   },
   {
+    "tag": "越狱",
+    "count": 1,
+    "category": "client"
+  },
+  {
     "tag": "UI",
     "count": 1,
     "category": "client"
@@ -1503,11 +1513,6 @@
     "tag": "openai",
     "count": 1,
     "category": "ecosystem"
-  },
-  {
-    "tag": "iOS",
-    "count": 1,
-    "category": "client"
   },
   {
     "tag": "polyfill",

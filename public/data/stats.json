@@ -1,21 +1,21 @@
 {
-  "totalItems": 690,
-  "last24h": 20,
-  "last7d": 64,
+  "totalItems": 695,
+  "last24h": 19,
+  "last7d": 65,
   "byCategory": {
     "core": 105,
-    "client": 170,
+    "client": 171,
     "router": 1,
     "protocol": 45,
     "dns_rules": 18,
-    "security": 6,
-    "ecosystem": 345,
+    "security": 7,
+    "ecosystem": 348,
     "trend": 0
   },
   "topProjects": [
     {
       "project": "domain-list-community",
-      "count": 116
+      "count": 117
     },
     {
       "project": "Sub-Store",
@@ -27,15 +27,15 @@
     },
     {
       "project": "v2ray-rules-dat",
-      "count": 51
+      "count": 52
     },
     {
       "project": "meta-rules-dat",
-      "count": 48
+      "count": 49
     },
     {
       "project": "metacubexd",
-      "count": 41
+      "count": 42
     },
     {
       "project": "ClashMetaForAndroid",
@@ -43,7 +43,7 @@
     },
     {
       "project": "sing-box",
-      "count": 19
+      "count": 20
     },
     {
       "project": "v2rayN",
@@ -57,11 +57,11 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 163
+      "count": 165
     },
     {
       "tag": "v2fly",
-      "count": 120
+      "count": 121
     },
     {
       "tag": "mihomo",
@@ -73,19 +73,19 @@
     },
     {
       "tag": "domain-list-community",
-      "count": 60
+      "count": 61
     },
     {
       "tag": "v2ray",
-      "count": 57
+      "count": 58
     },
     {
       "tag": "meta-rules-dat",
-      "count": 48
+      "count": 49
     },
     {
       "tag": "Loyalsoldier",
-      "count": 48
+      "count": 49
     },
     {
       "tag": "OpenVPN",
@@ -105,11 +105,11 @@
     },
     {
       "tag": "metacubexd",
-      "count": 38
+      "count": 39
     },
     {
       "tag": "rules",
-      "count": 38
+      "count": 39
     },
     {
       "tag": "代理",
@@ -118,6 +118,10 @@
     {
       "tag": "ClashMetaForAndroid",
       "count": 29
+    },
+    {
+      "tag": "sing-box",
+      "count": 28
     },
     {
       "tag": "Linux",
@@ -130,14 +134,10 @@
     {
       "tag": "开源",
       "count": 27
-    },
-    {
-      "tag": "sing-box",
-      "count": 27
     }
   ],
-  "importantCount": 194,
+  "importantCount": 196,
   "breakingCount": 38,
-  "securityCount": 46,
-  "updatedAt": "2026-06-20T19:56:45.030Z"
+  "securityCount": 47,
+  "updatedAt": "2026-06-21T05:20:36.990Z"
 }
