@@ -1,27 +1,27 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 165,
-    "category": "security"
+    "count": 168,
+    "category": "client"
   },
   {
     "tag": "v2fly",
-    "count": 121,
+    "count": 124,
     "category": "ecosystem"
   },
   {
     "tag": "mihomo",
-    "count": 80,
+    "count": 81,
     "category": "ecosystem"
   },
   {
     "tag": "Sub-Store",
-    "count": 76,
-    "category": "ecosystem"
+    "count": 77,
+    "category": "client"
   },
   {
     "tag": "domain-list-community",
-    "count": 61,
+    "count": 62,
     "category": "ecosystem"
   },
   {
@@ -51,12 +51,12 @@
   },
   {
     "tag": "domain-list",
-    "count": 42,
+    "count": 43,
     "category": "ecosystem"
   },
   {
     "tag": "网络代理",
-    "count": 40,
+    "count": 41,
     "category": "ecosystem"
   },
   {
@@ -140,6 +140,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "QUIC",
+    "count": 18,
+    "category": "client"
+  },
+  {
     "tag": "网络工具",
     "count": 18,
     "category": "ecosystem"
@@ -163,11 +168,6 @@
     "tag": "v2rayNG",
     "count": 17,
     "category": "client"
-  },
-  {
-    "tag": "QUIC",
-    "count": 17,
-    "category": "ecosystem"
   },
   {
     "tag": "go-gost",
@@ -225,14 +225,19 @@
     "category": "security"
   },
   {
+    "tag": "xhttp-opts",
+    "count": 12,
+    "category": "ecosystem"
+  },
+  {
     "tag": "SUDOKU-ASCII",
     "count": 11,
     "category": "ecosystem"
   },
   {
-    "tag": "xhttp-opts",
-    "count": 11,
-    "category": "core"
+    "tag": "用户体验",
+    "count": 10,
+    "category": "client"
   },
   {
     "tag": "用户界面",
@@ -256,11 +261,6 @@
   },
   {
     "tag": "网络规则",
-    "count": 9,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "用户体验",
     "count": 9,
     "category": "ecosystem"
   },
@@ -310,6 +310,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "Docker",
+    "count": 8,
+    "category": "core"
+  },
+  {
     "tag": "bugfix",
     "count": 8,
     "category": "security"
@@ -345,6 +350,11 @@
     "category": "client"
   },
   {
+    "tag": "域名解析",
+    "count": 7,
+    "category": "ecosystem"
+  },
+  {
     "tag": "加密",
     "count": 7,
     "category": "ecosystem"
@@ -370,11 +380,6 @@
     "category": "core"
   },
   {
-    "tag": "Docker",
-    "count": 7,
-    "category": "ecosystem"
-  },
-  {
     "tag": "luci-app-mosdns",
     "count": 7,
     "category": "ecosystem"
@@ -393,6 +398,11 @@
     "tag": "rematch",
     "count": 7,
     "category": "core"
+  },
+  {
+    "tag": "Shadowrocket",
+    "count": 6,
+    "category": "client"
   },
   {
     "tag": "bug修复",
@@ -418,11 +428,6 @@
     "tag": "Loon",
     "count": 6,
     "category": "ecosystem"
-  },
-  {
-    "tag": "域名解析",
-    "count": 6,
-    "category": "dns_rules"
   },
   {
     "tag": "proxy",
@@ -485,11 +490,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "Shadowrocket",
-    "count": 5,
-    "category": "client"
-  },
-  {
     "tag": "nftables",
     "count": 5,
     "category": "ecosystem"
@@ -536,6 +536,11 @@
   },
   {
     "tag": "juicity",
+    "count": 5,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "snell",
     "count": 5,
     "category": "ecosystem"
   },
@@ -618,11 +623,6 @@
     "tag": "nekoray",
     "count": 4,
     "category": "client"
-  },
-  {
-    "tag": "snell",
-    "count": 4,
-    "category": "core"
   },
   {
     "tag": "文件路由",
@@ -803,6 +803,26 @@
     "tag": "protocol",
     "count": 3,
     "category": "protocol"
+  },
+  {
+    "tag": "V2Ray",
+    "count": 2,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "移动端",
+    "count": 2,
+    "category": "client"
+  },
+  {
+    "tag": "GOG",
+    "count": 2,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "域名管理",
+    "count": 2,
+    "category": "ecosystem"
   },
   {
     "tag": "iOS",
@@ -1165,6 +1185,16 @@
     "category": "security"
   },
   {
+    "tag": "MASQUE",
+    "count": 1,
+    "category": "client"
+  },
+  {
+    "tag": "CONTROL_PORT",
+    "count": 1,
+    "category": "core"
+  },
+  {
     "tag": "越狱",
     "count": 1,
     "category": "client"
@@ -1181,11 +1211,6 @@
   },
   {
     "tag": "节点管理",
-    "count": 1,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "GOG",
     "count": 1,
     "category": "ecosystem"
   },
@@ -1236,11 +1261,6 @@
   },
   {
     "tag": "网络访问",
-    "count": 1,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "域名管理",
     "count": 1,
     "category": "ecosystem"
   },
@@ -1318,11 +1338,6 @@
     "tag": "规则管理",
     "count": 1,
     "category": "ecosystem"
-  },
-  {
-    "tag": "移动端",
-    "count": 1,
-    "category": "client"
   },
   {
     "tag": "douyin",
@@ -2248,11 +2263,6 @@
     "tag": "mailru-group",
     "count": 1,
     "category": "ecosystem"
-  },
-  {
-    "tag": "V2Ray",
-    "count": 1,
-    "category": "client"
   },
   {
     "tag": "trusttunnel",

@@ -1,29 +1,29 @@
 {
-  "totalItems": 695,
-  "last24h": 19,
+  "totalItems": 702,
+  "last24h": 22,
   "last7d": 65,
   "byCategory": {
-    "core": 105,
-    "client": 171,
+    "core": 106,
+    "client": 173,
     "router": 1,
     "protocol": 45,
     "dns_rules": 18,
     "security": 7,
-    "ecosystem": 348,
+    "ecosystem": 352,
     "trend": 0
   },
   "topProjects": [
     {
       "project": "domain-list-community",
-      "count": 117
+      "count": 120
     },
     {
       "project": "Sub-Store",
-      "count": 76
+      "count": 77
     },
     {
       "project": "mihomo",
-      "count": 75
+      "count": 76
     },
     {
       "project": "v2ray-rules-dat",
@@ -35,7 +35,7 @@
     },
     {
       "project": "metacubexd",
-      "count": 42
+      "count": 44
     },
     {
       "project": "ClashMetaForAndroid",
@@ -57,23 +57,23 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 165
+      "count": 168
     },
     {
       "tag": "v2fly",
-      "count": 121
+      "count": 124
     },
     {
       "tag": "mihomo",
-      "count": 80
+      "count": 81
     },
     {
       "tag": "Sub-Store",
-      "count": 76
+      "count": 77
     },
     {
       "tag": "domain-list-community",
-      "count": 61
+      "count": 62
     },
     {
       "tag": "v2ray",
@@ -97,11 +97,11 @@
     },
     {
       "tag": "domain-list",
-      "count": 42
+      "count": 43
     },
     {
       "tag": "网络代理",
-      "count": 40
+      "count": 41
     },
     {
       "tag": "metacubexd",
@@ -136,8 +136,8 @@
       "count": 27
     }
   ],
-  "importantCount": 196,
+  "importantCount": 197,
   "breakingCount": 38,
   "securityCount": 47,
-  "updatedAt": "2026-06-21T05:20:36.990Z"
+  "updatedAt": "2026-06-21T10:07:34.242Z"
 }
