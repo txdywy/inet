@@ -100,6 +100,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "代理工具",
+    "count": 26,
+    "category": "core"
+  },
+  {
     "tag": "dat",
     "count": 26,
     "category": "ecosystem"
@@ -110,19 +115,14 @@
     "category": "client"
   },
   {
-    "tag": "代理工具",
+    "tag": "网络协议",
     "count": 24,
-    "category": "ecosystem"
+    "category": "core"
   },
   {
     "tag": "HTTP/2",
     "count": 24,
     "category": "protocol"
-  },
-  {
-    "tag": "网络协议",
-    "count": 22,
-    "category": "ecosystem"
   },
   {
     "tag": "VLESS",
@@ -175,6 +175,11 @@
     "category": "client"
   },
   {
+    "tag": "Xray-core",
+    "count": 16,
+    "category": "core"
+  },
+  {
     "tag": "3x-ui",
     "count": 16,
     "category": "core"
@@ -193,11 +198,6 @@
     "tag": "DNS",
     "count": 15,
     "category": "protocol"
-  },
-  {
-    "tag": "Xray-core",
-    "count": 14,
-    "category": "client"
   },
   {
     "tag": "VPN",

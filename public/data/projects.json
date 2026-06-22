@@ -214,6 +214,25 @@
     ]
   },
   {
+    "slug": "xray-core",
+    "name": "Xray-core",
+    "repo": "XTLS/Xray-core",
+    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
+    "category": "core",
+    "platforms": [
+      "linux",
+      "windows",
+      "macos",
+      "android"
+    ],
+    "tags": [
+      "xray-core",
+      "vless",
+      "xtls",
+      "xhttp"
+    ]
+  },
+  {
     "slug": "sudoku",
     "name": "sudoku",
     "repo": "SUDOKU-ASCII/sudoku",
@@ -244,25 +263,6 @@
     ],
     "tags": [
       "naiveproxy"
-    ]
-  },
-  {
-    "slug": "xray-core",
-    "name": "Xray-core",
-    "repo": "XTLS/Xray-core",
-    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
-    "category": "core",
-    "platforms": [
-      "linux",
-      "windows",
-      "macos",
-      "android"
-    ],
-    "tags": [
-      "xray-core",
-      "vless",
-      "xtls",
-      "xhttp"
     ]
   },
   {
