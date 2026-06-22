@@ -1,7 +1,7 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 170,
+    "count": 172,
     "category": "ecosystem"
   },
   {
@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 81,
+    "count": 82,
     "category": "ecosystem"
   },
   {
@@ -26,17 +26,17 @@
   },
   {
     "tag": "v2ray",
-    "count": 58,
+    "count": 59,
     "category": "ecosystem"
   },
   {
     "tag": "meta-rules-dat",
-    "count": 49,
+    "count": 50,
     "category": "ecosystem"
   },
   {
     "tag": "Loyalsoldier",
-    "count": 49,
+    "count": 50,
     "category": "ecosystem"
   },
   {
@@ -66,7 +66,7 @@
   },
   {
     "tag": "rules",
-    "count": 39,
+    "count": 40,
     "category": "ecosystem"
   },
   {
@@ -100,14 +100,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "dat",
+    "count": 26,
+    "category": "ecosystem"
+  },
+  {
     "tag": "Tailscale",
     "count": 26,
     "category": "client"
-  },
-  {
-    "tag": "dat",
-    "count": 25,
-    "category": "ecosystem"
   },
   {
     "tag": "代理工具",
@@ -210,6 +210,11 @@
     "category": "client"
   },
   {
+    "tag": "xhttp-opts",
+    "count": 13,
+    "category": "ecosystem"
+  },
+  {
     "tag": "TLS",
     "count": 12,
     "category": "core"
@@ -223,11 +228,6 @@
     "tag": "Hysteria",
     "count": 12,
     "category": "security"
-  },
-  {
-    "tag": "xhttp-opts",
-    "count": 12,
-    "category": "ecosystem"
   },
   {
     "tag": "SUDOKU-ASCII",
@@ -350,6 +350,11 @@
     "category": "client"
   },
   {
+    "tag": "rematch",
+    "count": 8,
+    "category": "ecosystem"
+  },
+  {
     "tag": "proxy",
     "count": 7,
     "category": "ecosystem"
@@ -398,11 +403,6 @@
     "tag": "shadowsocks",
     "count": 7,
     "category": "ecosystem"
-  },
-  {
-    "tag": "rematch",
-    "count": 7,
-    "category": "core"
   },
   {
     "tag": "Shadowrocket",
@@ -475,6 +475,11 @@
     "category": "core"
   },
   {
+    "tag": "snell",
+    "count": 6,
+    "category": "ecosystem"
+  },
+  {
     "tag": "Alpha",
     "count": 6,
     "category": "ecosystem"
@@ -536,11 +541,6 @@
   },
   {
     "tag": "juicity",
-    "count": 5,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "snell",
     "count": 5,
     "category": "ecosystem"
   },
