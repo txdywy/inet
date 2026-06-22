@@ -16,7 +16,7 @@
   },
   {
     "tag": "Sub-Store",
-    "count": 78,
+    "count": 79,
     "category": "ecosystem"
   },
   {
@@ -145,6 +145,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "go-gost",
+    "count": 18,
+    "category": "ecosystem"
+  },
+  {
     "tag": "QUIC",
     "count": 18,
     "category": "client"
@@ -165,11 +170,6 @@
     "category": "protocol"
   },
   {
-    "tag": "go-gost",
-    "count": 17,
-    "category": "core"
-  },
-  {
     "tag": "v2rayNG",
     "count": 17,
     "category": "client"
@@ -185,17 +185,17 @@
     "category": "client"
   },
   {
+    "tag": "依赖更新",
+    "count": 15,
+    "category": "ecosystem"
+  },
+  {
     "tag": "DNS",
     "count": 15,
     "category": "protocol"
   },
   {
     "tag": "Xray-core",
-    "count": 14,
-    "category": "client"
-  },
-  {
-    "tag": "依赖更新",
     "count": 14,
     "category": "client"
   },
@@ -805,6 +805,11 @@
     "category": "protocol"
   },
   {
+    "tag": "Gecko",
+    "count": 2,
+    "category": "ecosystem"
+  },
+  {
     "tag": "composable",
     "count": 2,
     "category": "ecosystem"
@@ -1188,6 +1193,21 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "go-gost/x",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "Surge Hysteria",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "混淆",
+    "count": 1,
+    "category": "ecosystem"
   },
   {
     "tag": "XUDP",
@@ -1903,11 +1923,6 @@
     "tag": "出站策略",
     "count": 1,
     "category": "client"
-  },
-  {
-    "tag": "Gecko",
-    "count": 1,
-    "category": "security"
   },
   {
     "tag": "go",

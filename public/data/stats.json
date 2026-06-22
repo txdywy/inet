@@ -1,7 +1,7 @@
 {
-  "totalItems": 712,
-  "last24h": 8,
-  "last7d": 66,
+  "totalItems": 714,
+  "last24h": 7,
+  "last7d": 67,
   "byCategory": {
     "core": 107,
     "client": 175,
@@ -9,7 +9,7 @@
     "protocol": 45,
     "dns_rules": 18,
     "security": 7,
-    "ecosystem": 359,
+    "ecosystem": 361,
     "trend": 0
   },
   "topProjects": [
@@ -19,7 +19,7 @@
     },
     {
       "project": "Sub-Store",
-      "count": 78
+      "count": 79
     },
     {
       "project": "mihomo",
@@ -46,12 +46,12 @@
       "count": 20
     },
     {
-      "project": "v2rayN",
+      "project": "gost",
       "count": 18
     },
     {
-      "project": "gost",
-      "count": 17
+      "project": "v2rayN",
+      "count": 18
     }
   ],
   "hotTags": [
@@ -69,7 +69,7 @@
     },
     {
       "tag": "Sub-Store",
-      "count": 78
+      "count": 79
     },
     {
       "tag": "domain-list-community",
@@ -139,5 +139,5 @@
   "importantCount": 198,
   "breakingCount": 38,
   "securityCount": 47,
-  "updatedAt": "2026-06-22T12:28:06.551Z"
+  "updatedAt": "2026-06-22T17:14:14.782Z"
 }
