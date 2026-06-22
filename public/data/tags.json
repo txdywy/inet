@@ -1,8 +1,8 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 172,
-    "category": "ecosystem"
+    "count": 174,
+    "category": "client"
   },
   {
     "tag": "v2fly",
@@ -11,13 +11,13 @@
   },
   {
     "tag": "mihomo",
-    "count": 82,
+    "count": 83,
     "category": "ecosystem"
   },
   {
     "tag": "Sub-Store",
-    "count": 77,
-    "category": "client"
+    "count": 78,
+    "category": "ecosystem"
   },
   {
     "tag": "domain-list-community",
@@ -56,8 +56,8 @@
   },
   {
     "tag": "metacubexd",
-    "count": 41,
-    "category": "ecosystem"
+    "count": 42,
+    "category": "client"
   },
   {
     "tag": "网络代理",
@@ -205,14 +205,14 @@
     "category": "core"
   },
   {
+    "tag": "xhttp-opts",
+    "count": 14,
+    "category": "ecosystem"
+  },
+  {
     "tag": "SOCKS",
     "count": 13,
     "category": "client"
-  },
-  {
-    "tag": "xhttp-opts",
-    "count": 13,
-    "category": "ecosystem"
   },
   {
     "tag": "TLS",
@@ -305,6 +305,11 @@
     "category": "client"
   },
   {
+    "tag": "rematch",
+    "count": 9,
+    "category": "ecosystem"
+  },
+  {
     "tag": "CBC",
     "count": 9,
     "category": "ecosystem"
@@ -350,9 +355,9 @@
     "category": "client"
   },
   {
-    "tag": "rematch",
-    "count": 8,
-    "category": "ecosystem"
+    "tag": "UDP",
+    "count": 7,
+    "category": "client"
   },
   {
     "tag": "proxy",
@@ -433,11 +438,6 @@
     "tag": "Loon",
     "count": 6,
     "category": "ecosystem"
-  },
-  {
-    "tag": "UDP",
-    "count": 6,
-    "category": "core"
   },
   {
     "tag": "OpenClash",
@@ -1188,6 +1188,11 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "XUDP",
+    "count": 1,
+    "category": "client"
   },
   {
     "tag": "ui",
@@ -2831,6 +2836,11 @@
   },
   {
     "tag": "Pushover",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "mieru",
     "count": 1,
     "category": "ecosystem"
   },
