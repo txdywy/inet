@@ -1,12 +1,12 @@
 {
-  "totalItems": 725,
-  "last24h": 11,
-  "last7d": 69,
+  "totalItems": 728,
+  "last24h": 12,
+  "last7d": 71,
   "byCategory": {
-    "core": 112,
-    "client": 176,
+    "core": 113,
+    "client": 177,
     "router": 1,
-    "protocol": 45,
+    "protocol": 46,
     "dns_rules": 18,
     "security": 7,
     "ecosystem": 366,
@@ -18,12 +18,12 @@
       "count": 121
     },
     {
-      "project": "mihomo",
-      "count": 80
+      "project": "Sub-Store",
+      "count": 81
     },
     {
-      "project": "Sub-Store",
-      "count": 79
+      "project": "mihomo",
+      "count": 81
     },
     {
       "project": "v2ray-rules-dat",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 180
+      "count": 181
     },
     {
       "tag": "v2fly",
@@ -65,11 +65,11 @@
     },
     {
       "tag": "mihomo",
-      "count": 86
+      "count": 87
     },
     {
       "tag": "Sub-Store",
-      "count": 79
+      "count": 81
     },
     {
       "tag": "domain-list-community",
@@ -136,8 +136,8 @@
       "count": 28
     }
   ],
-  "importantCount": 199,
+  "importantCount": 201,
   "breakingCount": 38,
   "securityCount": 47,
-  "updatedAt": "2026-06-23T10:05:26.856Z"
+  "updatedAt": "2026-06-23T15:27:03.830Z"
 }
