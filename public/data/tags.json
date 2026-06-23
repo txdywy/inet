@@ -1,18 +1,18 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 178,
-    "category": "client"
+    "count": 180,
+    "category": "core"
   },
   {
     "tag": "v2fly",
-    "count": 124,
+    "count": 125,
     "category": "ecosystem"
   },
   {
     "tag": "mihomo",
-    "count": 84,
-    "category": "ecosystem"
+    "count": 86,
+    "category": "core"
   },
   {
     "tag": "Sub-Store",
@@ -45,23 +45,23 @@
     "category": "core"
   },
   {
+    "tag": "metacubexd",
+    "count": 45,
+    "category": "core"
+  },
+  {
     "tag": "Android",
     "count": 45,
     "category": "client"
   },
   {
-    "tag": "metacubexd",
+    "tag": "网络代理",
     "count": 44,
-    "category": "client"
-  },
-  {
-    "tag": "domain-list",
-    "count": 43,
     "category": "ecosystem"
   },
   {
-    "tag": "网络代理",
-    "count": 42,
+    "tag": "domain-list",
+    "count": 44,
     "category": "ecosystem"
   },
   {
@@ -75,14 +75,19 @@
     "category": "core"
   },
   {
+    "tag": "sing-box",
+    "count": 29,
+    "category": "ecosystem"
+  },
+  {
     "tag": "ClashMetaForAndroid",
     "count": 29,
     "category": "client"
   },
   {
-    "tag": "sing-box",
+    "tag": "开源",
     "count": 28,
-    "category": "client"
+    "category": "ecosystem"
   },
   {
     "tag": "Linux",
@@ -93,11 +98,6 @@
     "tag": "Windows",
     "count": 28,
     "category": "client"
-  },
-  {
-    "tag": "开源",
-    "count": 27,
-    "category": "ecosystem"
   },
   {
     "tag": "代理工具",
@@ -125,6 +125,11 @@
     "category": "protocol"
   },
   {
+    "tag": "SagerNet",
+    "count": 21,
+    "category": "ecosystem"
+  },
+  {
     "tag": "VLESS",
     "count": 21,
     "category": "protocol"
@@ -133,11 +138,6 @@
     "tag": "网络工具",
     "count": 20,
     "category": "core"
-  },
-  {
-    "tag": "SagerNet",
-    "count": 20,
-    "category": "client"
   },
   {
     "tag": "CHACHA20-POLY1305",
@@ -190,6 +190,11 @@
     "category": "client"
   },
   {
+    "tag": "xhttp-opts",
+    "count": 16,
+    "category": "core"
+  },
+  {
     "tag": "依赖更新",
     "count": 15,
     "category": "ecosystem"
@@ -198,11 +203,6 @@
     "tag": "DNS",
     "count": 15,
     "category": "protocol"
-  },
-  {
-    "tag": "xhttp-opts",
-    "count": 15,
-    "category": "ecosystem"
   },
   {
     "tag": "VPN",
@@ -240,6 +240,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "rematch",
+    "count": 11,
+    "category": "core"
+  },
+  {
     "tag": "用户体验",
     "count": 10,
     "category": "client"
@@ -256,11 +261,6 @@
   },
   {
     "tag": "Clash",
-    "count": 10,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "rematch",
     "count": 10,
     "category": "ecosystem"
   },
@@ -410,6 +410,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "snell",
+    "count": 7,
+    "category": "core"
+  },
+  {
     "tag": "Shadowrocket",
     "count": 6,
     "category": "client"
@@ -473,11 +478,6 @@
     "tag": "rust",
     "count": 6,
     "category": "core"
-  },
-  {
-    "tag": "snell",
-    "count": 6,
-    "category": "ecosystem"
   },
   {
     "tag": "Alpha",
@@ -803,6 +803,11 @@
     "tag": "protocol",
     "count": 3,
     "category": "protocol"
+  },
+  {
+    "tag": "服务器",
+    "count": 2,
+    "category": "core"
   },
   {
     "tag": "Gecko",
@@ -1200,17 +1205,17 @@
     "category": "security"
   },
   {
+    "tag": "自动启动",
+    "count": 1,
+    "category": "core"
+  },
+  {
     "tag": "自动滚动",
     "count": 1,
     "category": "client"
   },
   {
     "tag": "静态资源",
-    "count": 1,
-    "category": "core"
-  },
-  {
-    "tag": "服务器",
     "count": 1,
     "category": "core"
   },

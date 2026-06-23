@@ -1,28 +1,28 @@
 {
-  "totalItems": 721,
-  "last24h": 9,
+  "totalItems": 725,
+  "last24h": 11,
   "last7d": 69,
   "byCategory": {
-    "core": 110,
+    "core": 112,
     "client": 176,
     "router": 1,
     "protocol": 45,
     "dns_rules": 18,
     "security": 7,
-    "ecosystem": 364,
+    "ecosystem": 366,
     "trend": 0
   },
   "topProjects": [
     {
       "project": "domain-list-community",
-      "count": 120
-    },
-    {
-      "project": "Sub-Store",
-      "count": 79
+      "count": 121
     },
     {
       "project": "mihomo",
+      "count": 80
+    },
+    {
+      "project": "Sub-Store",
       "count": 79
     },
     {
@@ -35,7 +35,7 @@
     },
     {
       "project": "metacubexd",
-      "count": 49
+      "count": 50
     },
     {
       "project": "ClashMetaForAndroid",
@@ -43,7 +43,7 @@
     },
     {
       "project": "sing-box",
-      "count": 20
+      "count": 21
     },
     {
       "project": "gost",
@@ -57,15 +57,15 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 178
+      "count": 180
     },
     {
       "tag": "v2fly",
-      "count": 124
+      "count": 125
     },
     {
       "tag": "mihomo",
-      "count": 84
+      "count": 86
     },
     {
       "tag": "Sub-Store",
@@ -92,20 +92,20 @@
       "count": 47
     },
     {
+      "tag": "metacubexd",
+      "count": 45
+    },
+    {
       "tag": "Android",
       "count": 45
     },
     {
-      "tag": "metacubexd",
+      "tag": "网络代理",
       "count": 44
     },
     {
       "tag": "domain-list",
-      "count": 43
-    },
-    {
-      "tag": "网络代理",
-      "count": 42
+      "count": 44
     },
     {
       "tag": "rules",
@@ -116,11 +116,15 @@
       "count": 34
     },
     {
+      "tag": "sing-box",
+      "count": 29
+    },
+    {
       "tag": "ClashMetaForAndroid",
       "count": 29
     },
     {
-      "tag": "sing-box",
+      "tag": "开源",
       "count": 28
     },
     {
@@ -130,14 +134,10 @@
     {
       "tag": "Windows",
       "count": 28
-    },
-    {
-      "tag": "开源",
-      "count": 27
     }
   ],
-  "importantCount": 198,
+  "importantCount": 199,
   "breakingCount": 38,
   "securityCount": 47,
-  "updatedAt": "2026-06-23T04:32:07.749Z"
+  "updatedAt": "2026-06-23T10:05:26.856Z"
 }
