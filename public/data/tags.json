@@ -1,7 +1,7 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 174,
+    "count": 178,
     "category": "client"
   },
   {
@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 83,
+    "count": 84,
     "category": "ecosystem"
   },
   {
@@ -26,17 +26,17 @@
   },
   {
     "tag": "v2ray",
-    "count": 59,
+    "count": 60,
     "category": "ecosystem"
   },
   {
     "tag": "meta-rules-dat",
-    "count": 50,
+    "count": 51,
     "category": "ecosystem"
   },
   {
     "tag": "Loyalsoldier",
-    "count": 50,
+    "count": 51,
     "category": "ecosystem"
   },
   {
@@ -50,23 +50,23 @@
     "category": "client"
   },
   {
+    "tag": "metacubexd",
+    "count": 44,
+    "category": "client"
+  },
+  {
     "tag": "domain-list",
     "count": 43,
     "category": "ecosystem"
   },
   {
-    "tag": "metacubexd",
-    "count": 42,
-    "category": "client"
-  },
-  {
     "tag": "网络代理",
-    "count": 41,
+    "count": 42,
     "category": "ecosystem"
   },
   {
     "tag": "rules",
-    "count": 40,
+    "count": 41,
     "category": "ecosystem"
   },
   {
@@ -200,14 +200,14 @@
     "category": "protocol"
   },
   {
+    "tag": "xhttp-opts",
+    "count": 15,
+    "category": "ecosystem"
+  },
+  {
     "tag": "VPN",
     "count": 14,
     "category": "core"
-  },
-  {
-    "tag": "xhttp-opts",
-    "count": 14,
-    "category": "ecosystem"
   },
   {
     "tag": "SOCKS",
@@ -230,17 +230,17 @@
     "category": "security"
   },
   {
+    "tag": "用户界面",
+    "count": 11,
+    "category": "client"
+  },
+  {
     "tag": "SUDOKU-ASCII",
     "count": 11,
     "category": "ecosystem"
   },
   {
     "tag": "用户体验",
-    "count": 10,
-    "category": "client"
-  },
-  {
-    "tag": "用户界面",
     "count": 10,
     "category": "client"
   },
@@ -256,6 +256,11 @@
   },
   {
     "tag": "Clash",
+    "count": 10,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "rematch",
     "count": 10,
     "category": "ecosystem"
   },
@@ -303,11 +308,6 @@
     "tag": "TUN",
     "count": 9,
     "category": "client"
-  },
-  {
-    "tag": "rematch",
-    "count": 9,
-    "category": "ecosystem"
   },
   {
     "tag": "CBC",
@@ -1180,6 +1180,11 @@
     "category": "client"
   },
   {
+    "tag": "mieru",
+    "count": 2,
+    "category": "ecosystem"
+  },
+  {
     "tag": "ping keepalive",
     "count": 2,
     "category": "protocol"
@@ -1193,6 +1198,21 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "自动滚动",
+    "count": 1,
+    "category": "client"
+  },
+  {
+    "tag": "静态资源",
+    "count": 1,
+    "category": "core"
+  },
+  {
+    "tag": "服务器",
+    "count": 1,
+    "category": "core"
   },
   {
     "tag": "go-gost/x",
@@ -2851,11 +2871,6 @@
   },
   {
     "tag": "Pushover",
-    "count": 1,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "mieru",
     "count": 1,
     "category": "ecosystem"
   },

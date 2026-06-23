@@ -1,15 +1,15 @@
 {
-  "totalItems": 716,
-  "last24h": 7,
-  "last7d": 68,
+  "totalItems": 721,
+  "last24h": 9,
+  "last7d": 69,
   "byCategory": {
-    "core": 109,
-    "client": 175,
+    "core": 110,
+    "client": 176,
     "router": 1,
     "protocol": 45,
     "dns_rules": 18,
     "security": 7,
-    "ecosystem": 361,
+    "ecosystem": 364,
     "trend": 0
   },
   "topProjects": [
@@ -23,19 +23,19 @@
     },
     {
       "project": "mihomo",
-      "count": 78
+      "count": 79
     },
     {
       "project": "v2ray-rules-dat",
-      "count": 53
+      "count": 54
     },
     {
       "project": "meta-rules-dat",
-      "count": 50
+      "count": 51
     },
     {
       "project": "metacubexd",
-      "count": 47
+      "count": 49
     },
     {
       "project": "ClashMetaForAndroid",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 174
+      "count": 178
     },
     {
       "tag": "v2fly",
@@ -65,7 +65,7 @@
     },
     {
       "tag": "mihomo",
-      "count": 83
+      "count": 84
     },
     {
       "tag": "Sub-Store",
@@ -77,15 +77,15 @@
     },
     {
       "tag": "v2ray",
-      "count": 59
+      "count": 60
     },
     {
       "tag": "meta-rules-dat",
-      "count": 50
+      "count": 51
     },
     {
       "tag": "Loyalsoldier",
-      "count": 50
+      "count": 51
     },
     {
       "tag": "OpenVPN",
@@ -96,20 +96,20 @@
       "count": 45
     },
     {
+      "tag": "metacubexd",
+      "count": 44
+    },
+    {
       "tag": "domain-list",
       "count": 43
     },
     {
-      "tag": "metacubexd",
+      "tag": "网络代理",
       "count": 42
     },
     {
-      "tag": "网络代理",
-      "count": 41
-    },
-    {
       "tag": "rules",
-      "count": 40
+      "count": 41
     },
     {
       "tag": "代理",
@@ -139,5 +139,5 @@
   "importantCount": 198,
   "breakingCount": 38,
   "securityCount": 47,
-  "updatedAt": "2026-06-22T21:12:35.681Z"
+  "updatedAt": "2026-06-23T04:32:07.749Z"
 }
