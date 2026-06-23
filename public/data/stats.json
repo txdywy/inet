@@ -1,15 +1,15 @@
 {
-  "totalItems": 728,
-  "last24h": 12,
-  "last7d": 71,
+  "totalItems": 730,
+  "last24h": 11,
+  "last7d": 73,
   "byCategory": {
-    "core": 113,
+    "core": 114,
     "client": 177,
     "router": 1,
     "protocol": 46,
     "dns_rules": 18,
     "security": 7,
-    "ecosystem": 366,
+    "ecosystem": 367,
     "trend": 0
   },
   "topProjects": [
@@ -47,7 +47,7 @@
     },
     {
       "project": "gost",
-      "count": 18
+      "count": 19
     },
     {
       "project": "v2rayN",
@@ -136,8 +136,8 @@
       "count": 28
     }
   ],
-  "importantCount": 201,
-  "breakingCount": 38,
-  "securityCount": 47,
-  "updatedAt": "2026-06-23T15:27:03.830Z"
+  "importantCount": 202,
+  "breakingCount": 39,
+  "securityCount": 48,
+  "updatedAt": "2026-06-23T20:21:10.367Z"
 }

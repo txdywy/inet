@@ -140,6 +140,11 @@
     "category": "core"
   },
   {
+    "tag": "go-gost",
+    "count": 19,
+    "category": "ecosystem"
+  },
+  {
     "tag": "QUIC",
     "count": 19,
     "category": "client"
@@ -147,11 +152,6 @@
   {
     "tag": "CHACHA20-POLY1305",
     "count": 19,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "go-gost",
-    "count": 18,
     "category": "ecosystem"
   },
   {
@@ -170,6 +170,11 @@
     "category": "protocol"
   },
   {
+    "tag": "3x-ui",
+    "count": 17,
+    "category": "core"
+  },
+  {
     "tag": "v2rayNG",
     "count": 17,
     "category": "client"
@@ -180,12 +185,12 @@
     "category": "core"
   },
   {
-    "tag": "Xray-core",
+    "tag": "依赖更新",
     "count": 16,
-    "category": "core"
+    "category": "ecosystem"
   },
   {
-    "tag": "3x-ui",
+    "tag": "Xray-core",
     "count": 16,
     "category": "core"
   },
@@ -193,11 +198,6 @@
     "tag": "macOS",
     "count": 16,
     "category": "client"
-  },
-  {
-    "tag": "依赖更新",
-    "count": 15,
-    "category": "ecosystem"
   },
   {
     "tag": "DNS",
@@ -630,6 +630,16 @@
     "category": "client"
   },
   {
+    "tag": "gost",
+    "count": 3,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "安全性",
+    "count": 3,
+    "category": "core"
+  },
+  {
     "tag": "文件路由",
     "count": 3,
     "category": "ecosystem"
@@ -810,6 +820,11 @@
     "category": "protocol"
   },
   {
+    "tag": "go-gost/x",
+    "count": 2,
+    "category": "ecosystem"
+  },
+  {
     "tag": "服务器",
     "count": 2,
     "category": "core"
@@ -985,11 +1000,6 @@
     "category": "client"
   },
   {
-    "tag": "gost",
-    "count": 2,
-    "category": "core"
-  },
-  {
     "tag": "依赖库",
     "count": 2,
     "category": "core"
@@ -1093,11 +1103,6 @@
     "tag": "跨平台",
     "count": 2,
     "category": "client"
-  },
-  {
-    "tag": "安全性",
-    "count": 2,
-    "category": "ecosystem"
   },
   {
     "tag": "nicegram",
@@ -1205,6 +1210,26 @@
     "category": "security"
   },
   {
+    "tag": "多节点路由",
+    "count": 1,
+    "category": "core"
+  },
+  {
+    "tag": "通知事件总线",
+    "count": 1,
+    "category": "core"
+  },
+  {
+    "tag": "托管主机",
+    "count": 1,
+    "category": "core"
+  },
+  {
+    "tag": "可扩展性",
+    "count": 1,
+    "category": "core"
+  },
+  {
     "tag": "alpn",
     "count": 1,
     "category": "protocol"
@@ -1233,11 +1258,6 @@
     "tag": "静态资源",
     "count": 1,
     "category": "core"
-  },
-  {
-    "tag": "go-gost/x",
-    "count": 1,
-    "category": "ecosystem"
   },
   {
     "tag": "Surge Hysteria",
