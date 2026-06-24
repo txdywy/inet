@@ -167,6 +167,21 @@
     ]
   },
   {
+    "slug": "3x-ui",
+    "name": "3x-ui",
+    "repo": "MHSanaei/3x-ui",
+    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
+    "category": "ecosystem",
+    "platforms": [
+      "linux"
+    ],
+    "tags": [
+      "x-ui",
+      "panel",
+      "xray-core"
+    ]
+  },
+  {
     "slug": "v2rayng",
     "name": "v2rayNG",
     "repo": "2dust/v2rayNG",
@@ -196,21 +211,6 @@
       "clash-verge",
       "mihomo",
       "desktop"
-    ]
-  },
-  {
-    "slug": "3x-ui",
-    "name": "3x-ui",
-    "repo": "MHSanaei/3x-ui",
-    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
-    "category": "ecosystem",
-    "platforms": [
-      "linux"
-    ],
-    "tags": [
-      "x-ui",
-      "panel",
-      "xray-core"
     ]
   },
   {

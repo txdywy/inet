@@ -155,6 +155,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "3x-ui",
+    "count": 18,
+    "category": "ecosystem"
+  },
+  {
     "tag": "v2rayN",
     "count": 18,
     "category": "client"
@@ -168,11 +173,6 @@
     "tag": "Snell",
     "count": 18,
     "category": "protocol"
-  },
-  {
-    "tag": "3x-ui",
-    "count": 17,
-    "category": "core"
   },
   {
     "tag": "v2rayNG",
@@ -1208,6 +1208,16 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "开发版本",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "自动构建",
+    "count": 1,
+    "category": "ecosystem"
   },
   {
     "tag": "版本升级",

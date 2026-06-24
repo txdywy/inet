@@ -1,7 +1,7 @@
 {
-  "totalItems": 735,
-  "last24h": 8,
-  "last7d": 73,
+  "totalItems": 736,
+  "last24h": 6,
+  "last7d": 74,
   "byCategory": {
     "core": 115,
     "client": 179,
@@ -9,7 +9,7 @@
     "protocol": 46,
     "dns_rules": 18,
     "security": 7,
-    "ecosystem": 369,
+    "ecosystem": 370,
     "trend": 0
   },
   "topProjects": [
@@ -50,7 +50,7 @@
       "count": 19
     },
     {
-      "project": "v2rayN",
+      "project": "3x-ui",
       "count": 18
     }
   ],
@@ -139,5 +139,5 @@
   "importantCount": 202,
   "breakingCount": 39,
   "securityCount": 48,
-  "updatedAt": "2026-06-24T15:10:37.953Z"
+  "updatedAt": "2026-06-24T20:04:30.609Z"
 }

@@ -1,5 +1,37 @@
 [
   {
+    "id": "20c271792cdafa26",
+    "title": "Dev build 3ba43bd8",
+    "summary": "发布了3x-ui的开发版本，用户可以通过面板的开发更新频道进行安装。",
+    "analysis": "此次更新是3x-ui的开发版本，标识为3ba43bd8，用户可以通过面板的开发更新频道进行安装。由于这是一个自动化的每次提交构建，意味着它并不稳定，主要用于开发和测试目的。这种开发版本的发布对于开发者来说非常重要，因为它提供了最新的功能和修复，但也可能包含未经过充分测试的代码，因此用户在使用时需谨慎。对于普通用户，建议等待稳定版本发布后再进行更新，以避免潜在的兼容性问题和不稳定性。此版本并未提及与特定协议或项目的直接关联，因此在使用时需关注后续的稳定版本更新。",
+    "rawTitle": "Dev build 3ba43bd8",
+    "rawBody": "Rolling development build — installs via the panel's Dev update channel.\n\ncommit=3ba43bd86db556e58575411273284c0eecdba86d\nbuilt=2026-06-24T19:28:23Z\n\nAutomated per-commit build from main. Not a stable release.",
+    "sourceType": "github_release",
+    "sourceName": "MHSanaei/3x-ui",
+    "sourceUrl": "https://github.com/MHSanaei/3x-ui/releases/tag/dev-latest",
+    "project": "3x-ui",
+    "repo": "MHSanaei/3x-ui",
+    "slug": "3x-ui",
+    "version": "dev-latest",
+    "category": "ecosystem",
+    "tags": [
+      "3x-ui",
+      "开发版本",
+      "自动构建"
+    ],
+    "platforms": [],
+    "importance": 3,
+    "confidence": 0.9,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-06-24T16:17:06Z",
+    "fetchedAt": "2026-06-24T20:04:22.948Z",
+    "firstSeenAt": "2026-06-24T20:04:30.185Z",
+    "updatedAt": "2026-06-24T20:04:30.185Z",
+    "hash": "20c271792cdafa26"
+  },
+  {
     "id": "35273250d83acab7",
     "title": "v1.261.6",
     "summary": "MetaCubeX/metacubexd 发布了 v1.261.6 版本，主要修复了用户界面中的一个 bug。",
