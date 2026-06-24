@@ -1,10 +1,10 @@
 {
-  "totalItems": 734,
+  "totalItems": 735,
   "last24h": 8,
-  "last7d": 75,
+  "last7d": 73,
   "byCategory": {
     "core": 115,
-    "client": 178,
+    "client": 179,
     "router": 1,
     "protocol": 46,
     "dns_rules": 18,
@@ -31,7 +31,7 @@
     },
     {
       "project": "metacubexd",
-      "count": 52
+      "count": 53
     },
     {
       "project": "meta-rules-dat",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 184
+      "count": 185
     },
     {
       "tag": "v2fly",
@@ -89,7 +89,7 @@
     },
     {
       "tag": "metacubexd",
-      "count": 47
+      "count": 48
     },
     {
       "tag": "OpenVPN",
@@ -139,5 +139,5 @@
   "importantCount": 202,
   "breakingCount": 39,
   "securityCount": 48,
-  "updatedAt": "2026-06-24T09:52:38.396Z"
+  "updatedAt": "2026-06-24T15:10:37.953Z"
 }

@@ -1,8 +1,8 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 184,
-    "category": "core"
+    "count": 185,
+    "category": "client"
   },
   {
     "tag": "v2fly",
@@ -41,8 +41,8 @@
   },
   {
     "tag": "metacubexd",
-    "count": 47,
-    "category": "core"
+    "count": 48,
+    "category": "client"
   },
   {
     "tag": "OpenVPN",
@@ -210,6 +210,11 @@
     "category": "core"
   },
   {
+    "tag": "用户界面",
+    "count": 13,
+    "category": "client"
+  },
+  {
     "tag": "TLS",
     "count": 13,
     "category": "protocol"
@@ -217,11 +222,6 @@
   {
     "tag": "SOCKS",
     "count": 13,
-    "category": "client"
-  },
-  {
-    "tag": "用户界面",
-    "count": 12,
     "category": "client"
   },
   {
@@ -268,6 +268,11 @@
     "tag": "Clash",
     "count": 10,
     "category": "ecosystem"
+  },
+  {
+    "tag": "bugfix",
+    "count": 9,
+    "category": "client"
   },
   {
     "tag": "网络规则",
@@ -318,11 +323,6 @@
     "tag": "Docker",
     "count": 8,
     "category": "core"
-  },
-  {
-    "tag": "bugfix",
-    "count": 8,
-    "category": "security"
   },
   {
     "tag": "快捷方式",
