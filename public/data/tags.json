@@ -1,8 +1,8 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 183,
-    "category": "client"
+    "count": 184,
+    "category": "core"
   },
   {
     "tag": "v2fly",
@@ -40,14 +40,14 @@
     "category": "ecosystem"
   },
   {
-    "tag": "OpenVPN",
+    "tag": "metacubexd",
     "count": 47,
     "category": "core"
   },
   {
-    "tag": "metacubexd",
-    "count": 46,
-    "category": "client"
+    "tag": "OpenVPN",
+    "count": 47,
+    "category": "core"
   },
   {
     "tag": "Android",
@@ -360,6 +360,11 @@
     "category": "core"
   },
   {
+    "tag": "bug修复",
+    "count": 7,
+    "category": "core"
+  },
+  {
     "tag": "配置管理",
     "count": 7,
     "category": "client"
@@ -421,11 +426,6 @@
   },
   {
     "tag": "Shadowrocket",
-    "count": 6,
-    "category": "client"
-  },
-  {
-    "tag": "bug修复",
     "count": 6,
     "category": "client"
   },
@@ -1208,6 +1208,11 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "版本升级",
+    "count": 1,
+    "category": "core"
   },
   {
     "tag": "多节点路由",

@@ -1,5 +1,38 @@
 [
   {
+    "id": "1b1b05044a17f435",
+    "title": "v1.261.5",
+    "summary": "MetaCubeX/metacubexd 发布 v1.261.5 版本，主要修复了在升级仪表盘/核心时的确认问题。",
+    "analysis": "此次更新主要集中在修复一个与版本升级相关的bug，具体是确保在升级仪表盘或核心组件之前进行确认。这一修复对于用户而言非常重要，因为它可以防止在未确认的情况下进行升级，避免潜在的数据丢失或系统不稳定的风险。对于开发者来说，这一改进提升了软件的可靠性和用户体验。此次更新没有涉及协议的变化，也没有破坏性变更，因此用户可以安全地进行更新。建议用户尽快更新到此版本，以确保系统的稳定性和安全性。",
+    "rawTitle": "v1.261.5",
+    "rawBody": "## [1.261.5](https://github.com/MetaCubeX/metacubexd/compare/v1.261.4...v1.261.5) (2026-06-24)\n\n\n### Bug Fixes\n\n* **versions:** confirm before upgrading dashboard/core ([#2069](https://github.com/MetaCubeX/metacubexd/issues/2069)) ([4e3a005](https://github.com/MetaCubeX/metacubexd/commit/4e3a0054b40c74d9f327d4ec2bb6a7ab4cb6fd1f))",
+    "sourceType": "github_release",
+    "sourceName": "MetaCubeX/metacubexd",
+    "sourceUrl": "https://github.com/MetaCubeX/metacubexd/releases/tag/v1.261.5",
+    "project": "metacubexd",
+    "repo": "MetaCubeX/metacubexd",
+    "slug": "metacubexd",
+    "version": "1.261.5",
+    "category": "core",
+    "tags": [
+      "MetaCubeX",
+      "metacubexd",
+      "版本升级",
+      "bug修复"
+    ],
+    "platforms": [],
+    "importance": 3,
+    "confidence": 0.9,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-06-24T07:36:24Z",
+    "fetchedAt": "2026-06-24T09:52:32.220Z",
+    "firstSeenAt": "2026-06-24T09:52:37.956Z",
+    "updatedAt": "2026-06-24T09:52:37.956Z",
+    "hash": "1b1b05044a17f435"
+  },
+  {
     "id": "9bceaf18dd879334",
     "title": "v1.261.4",
     "summary": "MetaCubeX/metacubexd 发布了 v1.261.4 版本，修复了用户界面配置持久化的问题。",
