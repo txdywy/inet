@@ -1,15 +1,15 @@
 {
-  "totalItems": 730,
-  "last24h": 11,
-  "last7d": 73,
+  "totalItems": 733,
+  "last24h": 10,
+  "last7d": 74,
   "byCategory": {
     "core": 114,
-    "client": 177,
+    "client": 178,
     "router": 1,
     "protocol": 46,
     "dns_rules": 18,
     "security": 7,
-    "ecosystem": 367,
+    "ecosystem": 369,
     "trend": 0
   },
   "topProjects": [
@@ -27,15 +27,15 @@
     },
     {
       "project": "v2ray-rules-dat",
-      "count": 54
+      "count": 55
     },
     {
       "project": "meta-rules-dat",
-      "count": 51
+      "count": 52
     },
     {
       "project": "metacubexd",
-      "count": 50
+      "count": 51
     },
     {
       "project": "ClashMetaForAndroid",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 181
+      "count": 183
     },
     {
       "tag": "v2fly",
@@ -77,15 +77,15 @@
     },
     {
       "tag": "v2ray",
-      "count": 60
+      "count": 61
     },
     {
       "tag": "meta-rules-dat",
-      "count": 51
+      "count": 52
     },
     {
       "tag": "Loyalsoldier",
-      "count": 51
+      "count": 52
     },
     {
       "tag": "OpenVPN",
@@ -93,7 +93,7 @@
     },
     {
       "tag": "metacubexd",
-      "count": 45
+      "count": 46
     },
     {
       "tag": "Android",
@@ -109,7 +109,7 @@
     },
     {
       "tag": "rules",
-      "count": 41
+      "count": 42
     },
     {
       "tag": "代理",
@@ -139,5 +139,5 @@
   "importantCount": 202,
   "breakingCount": 39,
   "securityCount": 48,
-  "updatedAt": "2026-06-23T20:21:10.367Z"
+  "updatedAt": "2026-06-24T04:39:29.354Z"
 }
