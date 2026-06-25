@@ -1,7 +1,7 @@
 {
-  "totalItems": 745,
-  "last24h": 10,
-  "last7d": 78,
+  "totalItems": 747,
+  "last24h": 9,
+  "last7d": 80,
   "byCategory": {
     "core": 117,
     "client": 180,
@@ -9,7 +9,7 @@
     "protocol": 46,
     "dns_rules": 18,
     "security": 7,
-    "ecosystem": 376,
+    "ecosystem": 378,
     "trend": 0
   },
   "topProjects": [
@@ -46,12 +46,12 @@
       "count": 23
     },
     {
-      "project": "3x-ui",
-      "count": 19
+      "project": "gost",
+      "count": 20
     },
     {
-      "project": "gost",
-      "count": 19
+      "project": "3x-ui",
+      "count": 20
     }
   ],
   "hotTags": [
@@ -139,5 +139,5 @@
   "importantCount": 202,
   "breakingCount": 39,
   "securityCount": 48,
-  "updatedAt": "2026-06-25T15:18:26.182Z"
+  "updatedAt": "2026-06-25T20:21:18.670Z"
 }

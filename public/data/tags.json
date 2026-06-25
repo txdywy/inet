@@ -135,19 +135,19 @@
     "category": "protocol"
   },
   {
-    "tag": "网络工具",
+    "tag": "go-gost",
     "count": 20,
-    "category": "core"
+    "category": "ecosystem"
   },
   {
     "tag": "3x-ui",
-    "count": 19,
+    "count": 20,
     "category": "ecosystem"
   },
   {
-    "tag": "go-gost",
-    "count": 19,
-    "category": "ecosystem"
+    "tag": "网络工具",
+    "count": 20,
+    "category": "core"
   },
   {
     "tag": "QUIC",
@@ -175,6 +175,11 @@
     "category": "protocol"
   },
   {
+    "tag": "依赖更新",
+    "count": 17,
+    "category": "ecosystem"
+  },
+  {
     "tag": "v2rayNG",
     "count": 17,
     "category": "client"
@@ -183,11 +188,6 @@
     "tag": "xhttp-opts",
     "count": 17,
     "category": "core"
-  },
-  {
-    "tag": "依赖更新",
-    "count": 16,
-    "category": "ecosystem"
   },
   {
     "tag": "Xray-core",
@@ -630,6 +630,11 @@
     "category": "client"
   },
   {
+    "tag": "开发版本",
+    "count": 3,
+    "category": "ecosystem"
+  },
+  {
     "tag": "gost",
     "count": 3,
     "category": "ecosystem"
@@ -820,6 +825,11 @@
     "category": "protocol"
   },
   {
+    "tag": "go",
+    "count": 2,
+    "category": "ecosystem"
+  },
+  {
     "tag": "xray-core",
     "count": 2,
     "category": "core"
@@ -828,11 +838,6 @@
     "tag": "SQLite",
     "count": 2,
     "category": "core"
-  },
-  {
-    "tag": "开发版本",
-    "count": 2,
-    "category": "ecosystem"
   },
   {
     "tag": "自动构建",
@@ -1243,6 +1248,11 @@
     "tag": "config.js",
     "count": 1,
     "category": "core"
+  },
+  {
+    "tag": "自动化构建",
+    "count": 1,
+    "category": "ecosystem"
   },
   {
     "tag": "版本升级",
@@ -2023,11 +2033,6 @@
     "tag": "出站策略",
     "count": 1,
     "category": "client"
-  },
-  {
-    "tag": "go",
-    "count": 1,
-    "category": "ecosystem"
   },
   {
     "tag": "Stripe",
