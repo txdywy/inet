@@ -1,21 +1,21 @@
 {
-  "totalItems": 736,
-  "last24h": 6,
-  "last7d": 74,
+  "totalItems": 741,
+  "last24h": 8,
+  "last7d": 75,
   "byCategory": {
-    "core": 115,
+    "core": 116,
     "client": 179,
     "router": 1,
     "protocol": 46,
     "dns_rules": 18,
     "security": 7,
-    "ecosystem": 370,
+    "ecosystem": 374,
     "trend": 0
   },
   "topProjects": [
     {
       "project": "domain-list-community",
-      "count": 121
+      "count": 122
     },
     {
       "project": "Sub-Store",
@@ -27,15 +27,15 @@
     },
     {
       "project": "v2ray-rules-dat",
-      "count": 55
+      "count": 56
     },
     {
       "project": "metacubexd",
-      "count": 53
+      "count": 54
     },
     {
       "project": "meta-rules-dat",
-      "count": 52
+      "count": 53
     },
     {
       "project": "ClashMetaForAndroid",
@@ -46,22 +46,22 @@
       "count": 21
     },
     {
-      "project": "gost",
+      "project": "3x-ui",
       "count": 19
     },
     {
-      "project": "3x-ui",
-      "count": 18
+      "project": "gost",
+      "count": 19
     }
   ],
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 185
+      "count": 187
     },
     {
       "tag": "v2fly",
-      "count": 125
+      "count": 126
     },
     {
       "tag": "mihomo",
@@ -72,44 +72,44 @@
       "count": 81
     },
     {
+      "tag": "v2ray",
+      "count": 62
+    },
+    {
       "tag": "domain-list-community",
       "count": 62
     },
     {
-      "tag": "v2ray",
-      "count": 61
-    },
-    {
       "tag": "meta-rules-dat",
-      "count": 52
+      "count": 53
     },
     {
       "tag": "Loyalsoldier",
-      "count": 52
+      "count": 53
     },
     {
       "tag": "metacubexd",
-      "count": 48
+      "count": 49
     },
     {
       "tag": "OpenVPN",
       "count": 47
     },
     {
-      "tag": "Android",
+      "tag": "domain-list",
       "count": 45
     },
     {
       "tag": "网络代理",
-      "count": 44
+      "count": 45
     },
     {
-      "tag": "domain-list",
-      "count": 44
+      "tag": "Android",
+      "count": 45
     },
     {
       "tag": "rules",
-      "count": 42
+      "count": 43
     },
     {
       "tag": "代理",
@@ -124,20 +124,20 @@
       "count": 29
     },
     {
+      "tag": "dat",
+      "count": 28
+    },
+    {
       "tag": "开源",
       "count": 28
     },
     {
       "tag": "Linux",
       "count": 28
-    },
-    {
-      "tag": "Windows",
-      "count": 28
     }
   ],
   "importantCount": 202,
   "breakingCount": 39,
   "securityCount": 48,
-  "updatedAt": "2026-06-24T20:04:30.609Z"
+  "updatedAt": "2026-06-25T04:36:25.007Z"
 }

@@ -1,12 +1,12 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 185,
-    "category": "client"
+    "count": 187,
+    "category": "core"
   },
   {
     "tag": "v2fly",
-    "count": 125,
+    "count": 126,
     "category": "ecosystem"
   },
   {
@@ -20,29 +20,29 @@
     "category": "protocol"
   },
   {
+    "tag": "v2ray",
+    "count": 62,
+    "category": "ecosystem"
+  },
+  {
     "tag": "domain-list-community",
     "count": 62,
     "category": "ecosystem"
   },
   {
-    "tag": "v2ray",
-    "count": 61,
-    "category": "ecosystem"
-  },
-  {
     "tag": "meta-rules-dat",
-    "count": 52,
+    "count": 53,
     "category": "ecosystem"
   },
   {
     "tag": "Loyalsoldier",
-    "count": 52,
+    "count": 53,
     "category": "ecosystem"
   },
   {
     "tag": "metacubexd",
-    "count": 48,
-    "category": "client"
+    "count": 49,
+    "category": "core"
   },
   {
     "tag": "OpenVPN",
@@ -50,23 +50,23 @@
     "category": "core"
   },
   {
+    "tag": "domain-list",
+    "count": 45,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "网络代理",
+    "count": 45,
+    "category": "ecosystem"
+  },
+  {
     "tag": "Android",
     "count": 45,
     "category": "client"
   },
   {
-    "tag": "网络代理",
-    "count": 44,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "domain-list",
-    "count": 44,
-    "category": "ecosystem"
-  },
-  {
     "tag": "rules",
-    "count": 42,
+    "count": 43,
     "category": "ecosystem"
   },
   {
@@ -85,6 +85,11 @@
     "category": "client"
   },
   {
+    "tag": "dat",
+    "count": 28,
+    "category": "ecosystem"
+  },
+  {
     "tag": "开源",
     "count": 28,
     "category": "ecosystem"
@@ -98,11 +103,6 @@
     "tag": "Windows",
     "count": 28,
     "category": "client"
-  },
-  {
-    "tag": "dat",
-    "count": 27,
-    "category": "ecosystem"
   },
   {
     "tag": "代理工具",
@@ -140,6 +140,11 @@
     "category": "core"
   },
   {
+    "tag": "3x-ui",
+    "count": 19,
+    "category": "ecosystem"
+  },
+  {
     "tag": "go-gost",
     "count": 19,
     "category": "ecosystem"
@@ -152,11 +157,6 @@
   {
     "tag": "CHACHA20-POLY1305",
     "count": 19,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "3x-ui",
-    "count": 18,
     "category": "ecosystem"
   },
   {
@@ -820,6 +820,16 @@
     "category": "protocol"
   },
   {
+    "tag": "开发版本",
+    "count": 2,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "自动构建",
+    "count": 2,
+    "category": "ecosystem"
+  },
+  {
     "tag": "go-gost/x",
     "count": 2,
     "category": "ecosystem"
@@ -1210,14 +1220,14 @@
     "category": "security"
   },
   {
-    "tag": "开发版本",
+    "tag": "CONTROL_TOKEN",
     "count": 1,
-    "category": "ecosystem"
+    "category": "core"
   },
   {
-    "tag": "自动构建",
+    "tag": "config.js",
     "count": 1,
-    "category": "ecosystem"
+    "category": "core"
   },
   {
     "tag": "版本升级",
