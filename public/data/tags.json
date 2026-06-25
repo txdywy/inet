@@ -1,8 +1,8 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 187,
-    "category": "core"
+    "count": 188,
+    "category": "client"
   },
   {
     "tag": "v2fly",
@@ -41,8 +41,8 @@
   },
   {
     "tag": "metacubexd",
-    "count": 49,
-    "category": "core"
+    "count": 50,
+    "category": "client"
   },
   {
     "tag": "OpenVPN",
@@ -76,7 +76,7 @@
   },
   {
     "tag": "sing-box",
-    "count": 29,
+    "count": 30,
     "category": "ecosystem"
   },
   {
@@ -126,7 +126,7 @@
   },
   {
     "tag": "SagerNet",
-    "count": 21,
+    "count": 22,
     "category": "ecosystem"
   },
   {
@@ -205,14 +205,14 @@
     "category": "protocol"
   },
   {
+    "tag": "用户界面",
+    "count": 14,
+    "category": "client"
+  },
+  {
     "tag": "VPN",
     "count": 14,
     "category": "core"
-  },
-  {
-    "tag": "用户界面",
-    "count": 13,
-    "category": "client"
   },
   {
     "tag": "TLS",
@@ -320,6 +320,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "bug修复",
+    "count": 8,
+    "category": "client"
+  },
+  {
     "tag": "Docker",
     "count": 8,
     "category": "core"
@@ -357,11 +362,6 @@
   {
     "tag": "snell",
     "count": 8,
-    "category": "core"
-  },
-  {
-    "tag": "bug修复",
-    "count": 7,
     "category": "core"
   },
   {

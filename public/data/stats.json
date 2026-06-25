@@ -1,15 +1,15 @@
 {
-  "totalItems": 741,
-  "last24h": 8,
-  "last7d": 75,
+  "totalItems": 743,
+  "last24h": 9,
+  "last7d": 77,
   "byCategory": {
     "core": 116,
-    "client": 179,
+    "client": 180,
     "router": 1,
     "protocol": 46,
     "dns_rules": 18,
     "security": 7,
-    "ecosystem": 374,
+    "ecosystem": 375,
     "trend": 0
   },
   "topProjects": [
@@ -31,7 +31,7 @@
     },
     {
       "project": "metacubexd",
-      "count": 54
+      "count": 55
     },
     {
       "project": "meta-rules-dat",
@@ -43,7 +43,7 @@
     },
     {
       "project": "sing-box",
-      "count": 21
+      "count": 22
     },
     {
       "project": "3x-ui",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 187
+      "count": 188
     },
     {
       "tag": "v2fly",
@@ -89,7 +89,7 @@
     },
     {
       "tag": "metacubexd",
-      "count": 49
+      "count": 50
     },
     {
       "tag": "OpenVPN",
@@ -117,7 +117,7 @@
     },
     {
       "tag": "sing-box",
-      "count": 29
+      "count": 30
     },
     {
       "tag": "ClashMetaForAndroid",
@@ -139,5 +139,5 @@
   "importantCount": 202,
   "breakingCount": 39,
   "securityCount": 48,
-  "updatedAt": "2026-06-25T04:36:25.007Z"
+  "updatedAt": "2026-06-25T09:46:19.914Z"
 }
