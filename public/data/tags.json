@@ -76,7 +76,7 @@
   },
   {
     "tag": "sing-box",
-    "count": 30,
+    "count": 31,
     "category": "ecosystem"
   },
   {
@@ -126,7 +126,7 @@
   },
   {
     "tag": "SagerNet",
-    "count": 22,
+    "count": 23,
     "category": "ecosystem"
   },
   {
@@ -425,6 +425,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "v2rayA",
+    "count": 6,
+    "category": "core"
+  },
+  {
     "tag": "Shadowrocket",
     "count": 6,
     "category": "client"
@@ -503,11 +508,6 @@
     "tag": "TrustTunnel",
     "count": 5,
     "category": "protocol"
-  },
-  {
-    "tag": "v2rayA",
-    "count": 5,
-    "category": "client"
   },
   {
     "tag": "CloudflareSpeedTest",
@@ -818,6 +818,16 @@
     "tag": "protocol",
     "count": 3,
     "category": "protocol"
+  },
+  {
+    "tag": "xray-core",
+    "count": 2,
+    "category": "core"
+  },
+  {
+    "tag": "SQLite",
+    "count": 2,
+    "category": "core"
   },
   {
     "tag": "开发版本",
@@ -1218,6 +1228,11 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "ngui",
+    "count": 1,
+    "category": "core"
   },
   {
     "tag": "CONTROL_TOKEN",
@@ -2465,11 +2480,6 @@
     "category": "client"
   },
   {
-    "tag": "xray-core",
-    "count": 1,
-    "category": "core"
-  },
-  {
     "tag": "debugging",
     "count": 1,
     "category": "core"
@@ -2478,11 +2488,6 @@
     "tag": "DOMAIN_RESOLVERS",
     "count": 1,
     "category": "ecosystem"
-  },
-  {
-    "tag": "SQLite",
-    "count": 1,
-    "category": "client"
   },
   {
     "tag": "Material 3",

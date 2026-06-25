@@ -379,6 +379,23 @@
     ]
   },
   {
+    "slug": "v2raya",
+    "name": "v2rayA",
+    "repo": "v2rayA/v2rayA",
+    "description": "各平台代理客户端应用",
+    "category": "client",
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "tags": [
+      "v2raya",
+      "web",
+      "transparent-proxy"
+    ]
+  },
+  {
     "slug": "openclash",
     "name": "OpenClash",
     "repo": "vernesong/OpenClash",
@@ -519,23 +536,6 @@
       "hiddify",
       "sing-box",
       "universal"
-    ]
-  },
-  {
-    "slug": "v2raya",
-    "name": "v2rayA",
-    "repo": "v2rayA/v2rayA",
-    "description": "各平台代理客户端应用",
-    "category": "client",
-    "platforms": [
-      "linux",
-      "windows",
-      "macos"
-    ],
-    "tags": [
-      "v2raya",
-      "web",
-      "transparent-proxy"
     ]
   },
   {
