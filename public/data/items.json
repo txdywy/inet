@@ -1,5 +1,43 @@
 [
   {
+    "id": "269318bbb5d7f3ad",
+    "title": "7.23.1",
+    "summary": "v2rayN 7.23.1 更新了多个功能，包括新增 Windows x86 发布文件和印尼语本地化支持。",
+    "analysis": "本次 v2rayN 7.23.1 更新包含了多个重要功能和改进。首先，移除了 allowInsecure 参数以增强安全性，用户在使用时需注意这一变化。其次，新增了 Windows x86 的发布文件，扩大了软件的可用性。此外，印尼语本地化的加入使得更多用户能够更方便地使用该软件。更新中还包括 GPG 密钥文件的添加，提升了软件的安全性和可信度。Hysteria Realm 和 Gecko 的支持，以及全局分片 Fragment 设置的引入，进一步增强了软件的功能性。值得注意的是，xray tun 现在可在 Linux 和 macOS 上使用，但用户需确保使用最新版的 xray core。整体来看，这次更新对用户体验和软件安全性都有显著提升，建议用户尽快更新以获得最新功能和安全保障。",
+    "rawTitle": "7.23.1",
+    "rawBody": "### [关于 跳过证书验证 allowInsecure 参数被移除的说明 ](https://github.com/2dust/v2rayN/discussions/9460)\r\n \r\n### 本次更新\r\n\r\n* 添加 Windows x86 发布文件  https://github.com/2dust/v2rayN/pull/9545\r\n*  Add Indonesian (id) UI localization https://github.com/2dust/v2rayN/pull/9573\r\n*  添加 GPG 密钥文件 https://github.com/2dust/v2rayN/pull/9608\r\n* 添加 Hysteria Realm & Gecko https://github.com/2dust/v2rayN/pull/9516\r\n* 添加全局分片 Fragment 设置 https://github.com/2dust/v2rayN/pull/9597\r\n* xray tun 可用于 linux 和 macos ，注意 xray core 要最新版  https://github.com/2dust/v2rayN/pull/9632\r\n\r\n\r\n### [发布文件介绍，不知道下载哪个文件的请看](https://github.com/2dust/v2rayN/wiki/Release-files-introduction)\r\n ",
+    "sourceType": "github_release",
+    "sourceName": "2dust/v2rayN",
+    "sourceUrl": "https://github.com/2dust/v2rayN/releases/tag/7.23.1",
+    "project": "v2rayN",
+    "repo": "2dust/v2rayN",
+    "slug": "v2rayn",
+    "version": "7.23.1",
+    "category": "client",
+    "tags": [
+      "v2rayN",
+      "Windows",
+      "xray",
+      "本地化",
+      "安全"
+    ],
+    "platforms": [
+      "windows",
+      "linux",
+      "macos"
+    ],
+    "importance": 4,
+    "confidence": 0.9,
+    "isBreaking": true,
+    "isSecurityRelated": true,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-06-26T09:40:46Z",
+    "fetchedAt": "2026-06-26T14:48:42.324Z",
+    "firstSeenAt": "2026-06-26T14:48:57.559Z",
+    "updatedAt": "2026-06-26T14:48:57.559Z",
+    "hash": "269318bbb5d7f3ad"
+  },
+  {
     "id": "20a12f2d3a6395d8",
     "title": "7.23.1",
     "summary": "v2rayN 发布了 7.23.1 版本，属于预发布状态。",
@@ -553,6 +591,39 @@
     "firstSeenAt": "2026-06-25T04:36:16.426Z",
     "updatedAt": "2026-06-25T04:36:16.426Z",
     "hash": "e54a070ca4e6a5bf"
+  },
+  {
+    "id": "c8e77f691ee82b5c",
+    "title": "Dev build 522b1b64",
+    "summary": "MHSanaei/3x-ui 发布了开发版本 522b1b64，适用于开发更新通道的安装。",
+    "analysis": "此次更新是 MHSanaei/3x-ui 的开发版本，标识为 522b1b64，主要用于开发者进行测试和反馈。由于这是一个自动化构建的版本，并非稳定版本，因此用户在使用时需谨慎，可能会遇到未修复的错误或不稳定的功能。对于开发者而言，这种开发版本提供了最新的功能和修复，能够帮助他们提前体验和测试新特性。需要注意的是，由于该版本不是稳定发布，可能存在兼容性风险，建议普通用户不要立即更新，而是等待正式版本的发布。此版本与项目的开发进程密切相关，适合希望参与测试的用户和开发者。",
+    "rawTitle": "Dev build 522b1b64",
+    "rawBody": "Rolling development build — installs via the panel's Dev update channel.\n\ncommit=522b1b64b07b6b5a802e187ea005936501d3e7ce\nbuilt=2026-06-26T11:15:50Z\n\nAutomated per-commit build from main. Not a stable release.",
+    "sourceType": "github_release",
+    "sourceName": "MHSanaei/3x-ui",
+    "sourceUrl": "https://github.com/MHSanaei/3x-ui/releases/tag/dev-latest",
+    "project": "3x-ui",
+    "repo": "MHSanaei/3x-ui",
+    "slug": "3x-ui",
+    "version": "dev-latest",
+    "category": "ecosystem",
+    "tags": [
+      "MHSanaei",
+      "3x-ui",
+      "开发版本",
+      "自动化构建"
+    ],
+    "platforms": [],
+    "importance": 2,
+    "confidence": 0.9,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-06-24T16:17:06Z",
+    "fetchedAt": "2026-06-26T14:48:48.584Z",
+    "firstSeenAt": "2026-06-26T14:49:03.111Z",
+    "updatedAt": "2026-06-26T14:49:03.111Z",
+    "hash": "c8e77f691ee82b5c"
   },
   {
     "id": "afcfc30df9a26be5",

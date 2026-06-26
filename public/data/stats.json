@@ -1,15 +1,15 @@
 {
-  "totalItems": 757,
+  "totalItems": 759,
   "last24h": 11,
-  "last7d": 84,
+  "last7d": 82,
   "byCategory": {
     "core": 118,
-    "client": 183,
+    "client": 184,
     "router": 1,
     "protocol": 46,
     "dns_rules": 18,
     "security": 7,
-    "ecosystem": 384,
+    "ecosystem": 385,
     "trend": 0
   },
   "topProjects": [
@@ -42,15 +42,15 @@
       "count": 29
     },
     {
+      "project": "3x-ui",
+      "count": 23
+    },
+    {
       "project": "sing-box",
       "count": 23
     },
     {
-      "project": "3x-ui",
-      "count": 22
-    },
-    {
-      "project": "gost",
+      "project": "v2rayN",
       "count": 20
     }
   ],
@@ -124,20 +124,20 @@
       "count": 30
     },
     {
+      "tag": "Windows",
+      "count": 29
+    },
+    {
       "tag": "ClashMetaForAndroid",
       "count": 29
     },
     {
       "tag": "代理工具",
       "count": 28
-    },
-    {
-      "tag": "dat",
-      "count": 28
     }
   ],
-  "importantCount": 204,
-  "breakingCount": 39,
-  "securityCount": 48,
-  "updatedAt": "2026-06-26T09:53:49.318Z"
+  "importantCount": 205,
+  "breakingCount": 40,
+  "securityCount": 49,
+  "updatedAt": "2026-06-26T14:49:03.510Z"
 }

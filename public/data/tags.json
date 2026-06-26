@@ -85,6 +85,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "Windows",
+    "count": 29,
+    "category": "client"
+  },
+  {
     "tag": "ClashMetaForAndroid",
     "count": 29,
     "category": "client"
@@ -105,11 +110,6 @@
     "category": "client"
   },
   {
-    "tag": "Windows",
-    "count": 28,
-    "category": "client"
-  },
-  {
     "tag": "Tailscale",
     "count": 26,
     "category": "client"
@@ -125,19 +125,24 @@
     "category": "protocol"
   },
   {
-    "tag": "SagerNet",
+    "tag": "3x-ui",
     "count": 23,
     "category": "ecosystem"
   },
   {
-    "tag": "3x-ui",
-    "count": 22,
+    "tag": "SagerNet",
+    "count": 23,
     "category": "ecosystem"
   },
   {
     "tag": "VLESS",
     "count": 22,
     "category": "ecosystem"
+  },
+  {
+    "tag": "v2rayN",
+    "count": 20,
+    "category": "client"
   },
   {
     "tag": "go-gost",
@@ -148,11 +153,6 @@
     "tag": "网络工具",
     "count": 20,
     "category": "core"
-  },
-  {
-    "tag": "v2rayN",
-    "count": 19,
-    "category": "client"
   },
   {
     "tag": "QUIC",
@@ -245,6 +245,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "xray",
+    "count": 10,
+    "category": "client"
+  },
+  {
     "tag": "网络规则",
     "count": 10,
     "category": "ecosystem"
@@ -293,11 +298,6 @@
     "tag": ".NET",
     "count": 9,
     "category": "client"
-  },
-  {
-    "tag": "xray",
-    "count": 9,
-    "category": "core"
   },
   {
     "tag": "HTTP",
@@ -490,6 +490,16 @@
     "category": "ecosystem"
   },
   {
+    "tag": "安全",
+    "count": 5,
+    "category": "client"
+  },
+  {
+    "tag": "开发版本",
+    "count": 5,
+    "category": "ecosystem"
+  },
+  {
     "tag": "age",
     "count": 5,
     "category": "ecosystem"
@@ -555,19 +565,9 @@
     "category": "protocol"
   },
   {
-    "tag": "开发版本",
-    "count": 4,
-    "category": "ecosystem"
-  },
-  {
     "tag": "SSH",
     "count": 4,
     "category": "core"
-  },
-  {
-    "tag": "安全",
-    "count": 4,
-    "category": "security"
   },
   {
     "tag": "功能增强",
@@ -632,6 +632,11 @@
   {
     "tag": "nekoray",
     "count": 4,
+    "category": "client"
+  },
+  {
+    "tag": "本地化",
+    "count": 3,
     "category": "client"
   },
   {
@@ -855,6 +860,11 @@
     "category": "core"
   },
   {
+    "tag": "自动化构建",
+    "count": 2,
+    "category": "ecosystem"
+  },
+  {
     "tag": "go-gost/x",
     "count": 2,
     "category": "ecosystem"
@@ -923,11 +933,6 @@
     "tag": "GitHub Actions",
     "count": 2,
     "category": "ecosystem"
-  },
-  {
-    "tag": "本地化",
-    "count": 2,
-    "category": "client"
   },
   {
     "tag": "Node.js",
@@ -1275,7 +1280,7 @@
     "category": "core"
   },
   {
-    "tag": "自动化构建",
+    "tag": "MHSanaei",
     "count": 1,
     "category": "ecosystem"
   },
