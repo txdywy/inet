@@ -136,6 +136,21 @@
     ]
   },
   {
+    "slug": "3x-ui",
+    "name": "3x-ui",
+    "repo": "MHSanaei/3x-ui",
+    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
+    "category": "ecosystem",
+    "platforms": [
+      "linux"
+    ],
+    "tags": [
+      "x-ui",
+      "panel",
+      "xray-core"
+    ]
+  },
+  {
     "slug": "gost",
     "name": "gost",
     "repo": "go-gost/gost",
@@ -149,21 +164,6 @@
     "tags": [
       "gost",
       "tunnel"
-    ]
-  },
-  {
-    "slug": "3x-ui",
-    "name": "3x-ui",
-    "repo": "MHSanaei/3x-ui",
-    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
-    "category": "ecosystem",
-    "platforms": [
-      "linux"
-    ],
-    "tags": [
-      "x-ui",
-      "panel",
-      "xray-core"
     ]
   },
   {
@@ -298,6 +298,23 @@
     ]
   },
   {
+    "slug": "v2raya",
+    "name": "v2rayA",
+    "repo": "v2rayA/v2rayA",
+    "description": "各平台代理客户端应用",
+    "category": "client",
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "tags": [
+      "v2raya",
+      "web",
+      "transparent-proxy"
+    ]
+  },
+  {
     "slug": "openwrt",
     "name": "openwrt",
     "repo": "openwrt/openwrt",
@@ -376,23 +393,6 @@
       "mosdns",
       "openwrt",
       "dns"
-    ]
-  },
-  {
-    "slug": "v2raya",
-    "name": "v2rayA",
-    "repo": "v2rayA/v2rayA",
-    "description": "各平台代理客户端应用",
-    "category": "client",
-    "platforms": [
-      "linux",
-      "windows",
-      "macos"
-    ],
-    "tags": [
-      "v2raya",
-      "web",
-      "transparent-proxy"
     ]
   },
   {
