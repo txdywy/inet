@@ -16,8 +16,8 @@
   },
   {
     "tag": "Sub-Store",
-    "count": 81,
-    "category": "protocol"
+    "count": 82,
+    "category": "ecosystem"
   },
   {
     "tag": "v2ray",
@@ -115,6 +115,11 @@
     "category": "client"
   },
   {
+    "tag": "3x-ui",
+    "count": 24,
+    "category": "ecosystem"
+  },
+  {
     "tag": "网络协议",
     "count": 24,
     "category": "core"
@@ -123,11 +128,6 @@
     "tag": "HTTP/2",
     "count": 24,
     "category": "protocol"
-  },
-  {
-    "tag": "3x-ui",
-    "count": 23,
-    "category": "ecosystem"
   },
   {
     "tag": "SagerNet",
@@ -140,14 +140,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "go-gost",
+    "count": 21,
+    "category": "ecosystem"
+  },
+  {
     "tag": "v2rayN",
     "count": 20,
     "category": "client"
-  },
-  {
-    "tag": "go-gost",
-    "count": 20,
-    "category": "ecosystem"
   },
   {
     "tag": "网络工具",
@@ -245,6 +245,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "HTTP",
+    "count": 10,
+    "category": "ecosystem"
+  },
+  {
     "tag": "xray",
     "count": 10,
     "category": "client"
@@ -296,11 +301,6 @@
   },
   {
     "tag": ".NET",
-    "count": 9,
-    "category": "client"
-  },
-  {
-    "tag": "HTTP",
     "count": 9,
     "category": "client"
   },
@@ -430,6 +430,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "开发版本",
+    "count": 6,
+    "category": "ecosystem"
+  },
+  {
     "tag": "Shadowrocket",
     "count": 6,
     "category": "client"
@@ -495,11 +500,6 @@
     "category": "client"
   },
   {
-    "tag": "开发版本",
-    "count": 5,
-    "category": "ecosystem"
-  },
-  {
     "tag": "age",
     "count": 5,
     "category": "ecosystem"
@@ -563,6 +563,11 @@
     "tag": "tuic",
     "count": 5,
     "category": "protocol"
+  },
+  {
+    "tag": "依赖管理",
+    "count": 4,
+    "category": "ecosystem"
   },
   {
     "tag": "SSH",
@@ -635,9 +640,19 @@
     "category": "client"
   },
   {
+    "tag": "go",
+    "count": 3,
+    "category": "ecosystem"
+  },
+  {
     "tag": "本地化",
     "count": 3,
     "category": "client"
+  },
+  {
+    "tag": "自动化构建",
+    "count": 3,
+    "category": "ecosystem"
   },
   {
     "tag": "自动构建",
@@ -656,11 +671,6 @@
   },
   {
     "tag": "文件路由",
-    "count": 3,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "依赖管理",
     "count": 3,
     "category": "ecosystem"
   },
@@ -835,17 +845,17 @@
     "category": "protocol"
   },
   {
+    "tag": "脚本",
+    "count": 2,
+    "category": "ecosystem"
+  },
+  {
     "tag": "UI",
     "count": 2,
     "category": "client"
   },
   {
     "tag": "客户端管理",
-    "count": 2,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "go",
     "count": 2,
     "category": "ecosystem"
   },
@@ -858,11 +868,6 @@
     "tag": "SQLite",
     "count": 2,
     "category": "core"
-  },
-  {
-    "tag": "自动化构建",
-    "count": 2,
-    "category": "ecosystem"
   },
   {
     "tag": "go-gost/x",
@@ -1248,6 +1253,16 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "ProxyUtils",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "derivePublicKey",
+    "count": 1,
+    "category": "ecosystem"
   },
   {
     "tag": "oklab",
@@ -2158,11 +2173,6 @@
     "tag": "新功能",
     "count": 1,
     "category": "client"
-  },
-  {
-    "tag": "脚本",
-    "count": 1,
-    "category": "ecosystem"
   },
   {
     "tag": "订阅",
