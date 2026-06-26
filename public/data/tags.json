@@ -1,8 +1,8 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 189,
-    "category": "ecosystem"
+    "count": 192,
+    "category": "client"
   },
   {
     "tag": "v2fly",
@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 87,
+    "count": 88,
     "category": "core"
   },
   {
@@ -21,8 +21,8 @@
   },
   {
     "tag": "v2ray",
-    "count": 65,
-    "category": "ecosystem"
+    "count": 66,
+    "category": "client"
   },
   {
     "tag": "domain-list-community",
@@ -41,7 +41,7 @@
   },
   {
     "tag": "metacubexd",
-    "count": 50,
+    "count": 52,
     "category": "client"
   },
   {
@@ -90,6 +90,11 @@
     "category": "client"
   },
   {
+    "tag": "代理工具",
+    "count": 28,
+    "category": "client"
+  },
+  {
     "tag": "dat",
     "count": 28,
     "category": "ecosystem"
@@ -103,11 +108,6 @@
     "tag": "Windows",
     "count": 28,
     "category": "client"
-  },
-  {
-    "tag": "代理工具",
-    "count": 26,
-    "category": "core"
   },
   {
     "tag": "Tailscale",
@@ -150,9 +150,19 @@
     "category": "core"
   },
   {
+    "tag": "v2rayN",
+    "count": 19,
+    "category": "client"
+  },
+  {
     "tag": "QUIC",
     "count": 19,
     "category": "client"
+  },
+  {
+    "tag": "Snell",
+    "count": 19,
+    "category": "protocol"
   },
   {
     "tag": "CHACHA20-POLY1305",
@@ -160,19 +170,14 @@
     "category": "ecosystem"
   },
   {
-    "tag": "v2rayN",
-    "count": 18,
-    "category": "client"
-  },
-  {
     "tag": "Xray",
     "count": 18,
     "category": "core"
   },
   {
-    "tag": "Snell",
+    "tag": "xhttp-opts",
     "count": 18,
-    "category": "protocol"
+    "category": "core"
   },
   {
     "tag": "依赖更新",
@@ -185,11 +190,6 @@
     "category": "client"
   },
   {
-    "tag": "xhttp-opts",
-    "count": 17,
-    "category": "core"
-  },
-  {
     "tag": "Xray-core",
     "count": 16,
     "category": "core"
@@ -200,14 +200,14 @@
     "category": "client"
   },
   {
+    "tag": "用户界面",
+    "count": 15,
+    "category": "client"
+  },
+  {
     "tag": "DNS",
     "count": 15,
     "category": "protocol"
-  },
-  {
-    "tag": "用户界面",
-    "count": 14,
-    "category": "client"
   },
   {
     "tag": "VPN",
@@ -225,6 +225,11 @@
     "category": "client"
   },
   {
+    "tag": "rematch",
+    "count": 13,
+    "category": "core"
+  },
+  {
     "tag": "naiveproxy",
     "count": 12,
     "category": "core"
@@ -233,11 +238,6 @@
     "tag": "Hysteria",
     "count": 12,
     "category": "security"
-  },
-  {
-    "tag": "rematch",
-    "count": 12,
-    "category": "core"
   },
   {
     "tag": "SUDOKU-ASCII",
@@ -830,6 +830,11 @@
     "category": "protocol"
   },
   {
+    "tag": "UI",
+    "count": 2,
+    "category": "client"
+  },
+  {
     "tag": "客户端管理",
     "count": 2,
     "category": "ecosystem"
@@ -1240,6 +1245,11 @@
     "category": "security"
   },
   {
+    "tag": "oklab",
+    "count": 1,
+    "category": "client"
+  },
+  {
     "tag": "日志查看器",
     "count": 1,
     "category": "ecosystem"
@@ -1366,11 +1376,6 @@
   },
   {
     "tag": "越狱",
-    "count": 1,
-    "category": "client"
-  },
-  {
-    "tag": "UI",
     "count": 1,
     "category": "client"
   },
