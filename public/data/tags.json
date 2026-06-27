@@ -1,18 +1,18 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 193,
-    "category": "ecosystem"
+    "count": 195,
+    "category": "client"
   },
   {
     "tag": "v2fly",
-    "count": 126,
+    "count": 131,
     "category": "ecosystem"
   },
   {
     "tag": "mihomo",
-    "count": 88,
-    "category": "core"
+    "count": 89,
+    "category": "ecosystem"
   },
   {
     "tag": "Sub-Store",
@@ -26,7 +26,7 @@
   },
   {
     "tag": "domain-list-community",
-    "count": 62,
+    "count": 64,
     "category": "ecosystem"
   },
   {
@@ -35,29 +35,29 @@
     "category": "ecosystem"
   },
   {
+    "tag": "metacubexd",
+    "count": 54,
+    "category": "client"
+  },
+  {
     "tag": "Loyalsoldier",
     "count": 54,
     "category": "ecosystem"
   },
   {
-    "tag": "metacubexd",
-    "count": 52,
-    "category": "client"
+    "tag": "domain-list",
+    "count": 48,
+    "category": "ecosystem"
   },
   {
     "tag": "网络代理",
-    "count": 47,
+    "count": 48,
     "category": "ecosystem"
   },
   {
     "tag": "OpenVPN",
     "count": 47,
     "category": "core"
-  },
-  {
-    "tag": "domain-list",
-    "count": 45,
-    "category": "ecosystem"
   },
   {
     "tag": "Android",
@@ -71,17 +71,17 @@
   },
   {
     "tag": "代理",
-    "count": 35,
+    "count": 36,
+    "category": "client"
+  },
+  {
+    "tag": "开源",
+    "count": 31,
     "category": "ecosystem"
   },
   {
     "tag": "sing-box",
     "count": 31,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "开源",
-    "count": 30,
     "category": "ecosystem"
   },
   {
@@ -110,14 +110,14 @@
     "category": "client"
   },
   {
+    "tag": "3x-ui",
+    "count": 26,
+    "category": "ecosystem"
+  },
+  {
     "tag": "Tailscale",
     "count": 26,
     "category": "client"
-  },
-  {
-    "tag": "3x-ui",
-    "count": 25,
-    "category": "ecosystem"
   },
   {
     "tag": "网络协议",
@@ -140,6 +140,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "网络工具",
+    "count": 21,
+    "category": "ecosystem"
+  },
+  {
     "tag": "go-gost",
     "count": 21,
     "category": "ecosystem"
@@ -148,11 +153,6 @@
     "tag": "v2rayN",
     "count": 20,
     "category": "client"
-  },
-  {
-    "tag": "网络工具",
-    "count": 20,
-    "category": "core"
   },
   {
     "tag": "QUIC",
@@ -215,6 +215,11 @@
     "category": "core"
   },
   {
+    "tag": "Hysteria",
+    "count": 13,
+    "category": "client"
+  },
+  {
     "tag": "TLS",
     "count": 13,
     "category": "protocol"
@@ -233,11 +238,6 @@
     "tag": "naiveproxy",
     "count": 12,
     "category": "core"
-  },
-  {
-    "tag": "Hysteria",
-    "count": 12,
-    "category": "security"
   },
   {
     "tag": "SUDOKU-ASCII",
@@ -282,6 +282,11 @@
   {
     "tag": "Clash",
     "count": 10,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "域名",
+    "count": 9,
     "category": "ecosystem"
   },
   {
@@ -330,6 +335,11 @@
     "category": "client"
   },
   {
+    "tag": "开发版本",
+    "count": 8,
+    "category": "ecosystem"
+  },
+  {
     "tag": "Docker",
     "count": 8,
     "category": "core"
@@ -341,11 +351,6 @@
   },
   {
     "tag": "域名列表",
-    "count": 8,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "域名",
     "count": 8,
     "category": "ecosystem"
   },
@@ -368,11 +373,6 @@
     "tag": "snell",
     "count": 8,
     "category": "core"
-  },
-  {
-    "tag": "开发版本",
-    "count": 7,
-    "category": "ecosystem"
   },
   {
     "tag": "配置管理",
@@ -495,9 +495,24 @@
     "category": "ecosystem"
   },
   {
+    "tag": "quic-go",
+    "count": 5,
+    "category": "client"
+  },
+  {
+    "tag": "IPv6",
+    "count": 5,
+    "category": "client"
+  },
+  {
     "tag": "安全",
     "count": 5,
     "category": "client"
+  },
+  {
+    "tag": "自动化构建",
+    "count": 5,
+    "category": "ecosystem"
   },
   {
     "tag": "age",
@@ -565,12 +580,12 @@
     "category": "protocol"
   },
   {
-    "tag": "依赖管理",
+    "tag": "延迟测试",
     "count": 4,
-    "category": "ecosystem"
+    "category": "client"
   },
   {
-    "tag": "自动化构建",
+    "tag": "依赖管理",
     "count": 4,
     "category": "ecosystem"
   },
@@ -625,19 +640,9 @@
     "category": "client"
   },
   {
-    "tag": "IPv6",
-    "count": 4,
-    "category": "client"
-  },
-  {
     "tag": "Hiddify Next",
     "count": 4,
     "category": "ecosystem"
-  },
-  {
-    "tag": "quic-go",
-    "count": 4,
-    "category": "protocol"
   },
   {
     "tag": "nekoray",
@@ -763,11 +768,6 @@
     "tag": "GitHub",
     "count": 3,
     "category": "ecosystem"
-  },
-  {
-    "tag": "延迟测试",
-    "count": 3,
-    "category": "core"
   },
   {
     "tag": "gdocsviewer",
@@ -1258,6 +1258,46 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "UPnP",
+    "count": 1,
+    "category": "client"
+  },
+  {
+    "tag": "NAT-PMP",
+    "count": 1,
+    "category": "client"
+  },
+  {
+    "tag": "IPv4",
+    "count": 1,
+    "category": "client"
+  },
+  {
+    "tag": "vernesong",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "tripo3d.ai",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "weixin",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "tencent",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "qweatherapi",
+    "count": 1,
+    "category": "ecosystem"
   },
   {
     "tag": "ProxyUtils",
