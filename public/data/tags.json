@@ -16,8 +16,8 @@
   },
   {
     "tag": "Sub-Store",
-    "count": 82,
-    "category": "ecosystem"
+    "count": 83,
+    "category": "protocol"
   },
   {
     "tag": "v2ray",
@@ -75,12 +75,12 @@
     "category": "client"
   },
   {
-    "tag": "开源",
-    "count": 31,
+    "tag": "sing-box",
+    "count": 32,
     "category": "ecosystem"
   },
   {
-    "tag": "sing-box",
+    "tag": "开源",
     "count": 31,
     "category": "ecosystem"
   },
@@ -100,6 +100,11 @@
     "category": "client"
   },
   {
+    "tag": "3x-ui",
+    "count": 28,
+    "category": "ecosystem"
+  },
+  {
     "tag": "dat",
     "count": 28,
     "category": "ecosystem"
@@ -108,11 +113,6 @@
     "tag": "Linux",
     "count": 28,
     "category": "client"
-  },
-  {
-    "tag": "3x-ui",
-    "count": 27,
-    "category": "ecosystem"
   },
   {
     "tag": "网络协议",
@@ -125,13 +125,18 @@
     "category": "client"
   },
   {
+    "tag": "SagerNet",
+    "count": 24,
+    "category": "ecosystem"
+  },
+  {
     "tag": "HTTP/2",
     "count": 24,
     "category": "protocol"
   },
   {
-    "tag": "SagerNet",
-    "count": 23,
+    "tag": "go-gost",
+    "count": 22,
     "category": "ecosystem"
   },
   {
@@ -141,11 +146,6 @@
   },
   {
     "tag": "网络工具",
-    "count": 21,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "go-gost",
     "count": 21,
     "category": "ecosystem"
   },
@@ -195,6 +195,11 @@
     "category": "client"
   },
   {
+    "tag": "DNS",
+    "count": 16,
+    "category": "ecosystem"
+  },
+  {
     "tag": "macOS",
     "count": 16,
     "category": "client"
@@ -205,19 +210,14 @@
     "category": "client"
   },
   {
-    "tag": "DNS",
-    "count": 15,
+    "tag": "Hysteria",
+    "count": 14,
     "category": "protocol"
   },
   {
     "tag": "VPN",
     "count": 14,
     "category": "core"
-  },
-  {
-    "tag": "Hysteria",
-    "count": 13,
-    "category": "client"
   },
   {
     "tag": "TLS",
@@ -240,17 +240,17 @@
     "category": "core"
   },
   {
+    "tag": "HTTP",
+    "count": 11,
+    "category": "ecosystem"
+  },
+  {
     "tag": "SUDOKU-ASCII",
     "count": 11,
     "category": "ecosystem"
   },
   {
     "tag": "域名",
-    "count": 10,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "HTTP",
     "count": 10,
     "category": "ecosystem"
   },
@@ -435,6 +435,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "自动化构建",
+    "count": 6,
+    "category": "ecosystem"
+  },
+  {
     "tag": "Shadowrocket",
     "count": 6,
     "category": "client"
@@ -508,11 +513,6 @@
     "tag": "安全",
     "count": 5,
     "category": "client"
-  },
-  {
-    "tag": "自动化构建",
-    "count": 5,
-    "category": "ecosystem"
   },
   {
     "tag": "age",
@@ -653,6 +653,16 @@
     "tag": "nekoray",
     "count": 4,
     "category": "client"
+  },
+  {
+    "tag": "DoT",
+    "count": 3,
+    "category": "protocol"
+  },
+  {
+    "tag": "DoH",
+    "count": 3,
+    "category": "protocol"
   },
   {
     "tag": "go",
@@ -845,6 +855,11 @@
     "category": "protocol"
   },
   {
+    "tag": "Surfboard",
+    "count": 2,
+    "category": "protocol"
+  },
+  {
     "tag": "规则数据",
     "count": 2,
     "category": "ecosystem"
@@ -873,6 +888,11 @@
     "tag": "SQLite",
     "count": 2,
     "category": "core"
+  },
+  {
+    "tag": "MHSanaei",
+    "count": 2,
+    "category": "ecosystem"
   },
   {
     "tag": "go-gost/x",
@@ -1125,11 +1145,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "DoH",
-    "count": 2,
-    "category": "dns_rules"
-  },
-  {
     "tag": "STUN",
     "count": 2,
     "category": "ecosystem"
@@ -1215,11 +1230,6 @@
     "category": "core"
   },
   {
-    "tag": "DoT",
-    "count": 2,
-    "category": "core"
-  },
-  {
     "tag": "apk",
     "count": 2,
     "category": "ecosystem"
@@ -1258,6 +1268,21 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "修复",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "改进",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "e2e tests",
+    "count": 1,
+    "category": "ecosystem"
   },
   {
     "tag": "教育网站",
@@ -1345,7 +1370,7 @@
     "category": "core"
   },
   {
-    "tag": "MHSanaei",
+    "tag": "开发版",
     "count": 1,
     "category": "ecosystem"
   },
@@ -1716,11 +1741,6 @@
   },
   {
     "tag": "OpenAPI",
-    "count": 1,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "Surfboard",
     "count": 1,
     "category": "ecosystem"
   },
