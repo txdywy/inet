@@ -6,7 +6,7 @@
   },
   {
     "tag": "v2fly",
-    "count": 131,
+    "count": 132,
     "category": "ecosystem"
   },
   {
@@ -26,7 +26,7 @@
   },
   {
     "tag": "domain-list-community",
-    "count": 64,
+    "count": 65,
     "category": "ecosystem"
   },
   {
@@ -85,6 +85,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "代理工具",
+    "count": 30,
+    "category": "core"
+  },
+  {
     "tag": "Windows",
     "count": 29,
     "category": "client"
@@ -92,11 +97,6 @@
   {
     "tag": "ClashMetaForAndroid",
     "count": 29,
-    "category": "client"
-  },
-  {
-    "tag": "代理工具",
-    "count": 28,
     "category": "client"
   },
   {
@@ -111,18 +111,18 @@
   },
   {
     "tag": "3x-ui",
-    "count": 26,
+    "count": 27,
     "category": "ecosystem"
+  },
+  {
+    "tag": "网络协议",
+    "count": 26,
+    "category": "core"
   },
   {
     "tag": "Tailscale",
     "count": 26,
     "category": "client"
-  },
-  {
-    "tag": "网络协议",
-    "count": 24,
-    "category": "core"
   },
   {
     "tag": "HTTP/2",
@@ -170,6 +170,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "Xray-core",
+    "count": 18,
+    "category": "core"
+  },
+  {
     "tag": "Xray",
     "count": 18,
     "category": "core"
@@ -188,11 +193,6 @@
     "tag": "v2rayNG",
     "count": 17,
     "category": "client"
-  },
-  {
-    "tag": "Xray-core",
-    "count": 16,
-    "category": "core"
   },
   {
     "tag": "macOS",
@@ -245,6 +245,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "域名",
+    "count": 10,
+    "category": "ecosystem"
+  },
+  {
     "tag": "HTTP",
     "count": 10,
     "category": "ecosystem"
@@ -285,7 +290,7 @@
     "category": "ecosystem"
   },
   {
-    "tag": "域名",
+    "tag": "开发版本",
     "count": 9,
     "category": "ecosystem"
   },
@@ -333,11 +338,6 @@
     "tag": "bug修复",
     "count": 8,
     "category": "client"
-  },
-  {
-    "tag": "开发版本",
-    "count": 8,
-    "category": "ecosystem"
   },
   {
     "tag": "Docker",
@@ -590,6 +590,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "自动构建",
+    "count": 4,
+    "category": "ecosystem"
+  },
+  {
     "tag": "SSH",
     "count": 4,
     "category": "core"
@@ -658,11 +663,6 @@
     "tag": "本地化",
     "count": 3,
     "category": "client"
-  },
-  {
-    "tag": "自动构建",
-    "count": 3,
-    "category": "ecosystem"
   },
   {
     "tag": "gost",
@@ -1258,6 +1258,11 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "教育网站",
+    "count": 1,
+    "category": "ecosystem"
   },
   {
     "tag": "UPnP",
