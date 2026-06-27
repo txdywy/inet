@@ -1,8 +1,8 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 192,
-    "category": "client"
+    "count": 193,
+    "category": "ecosystem"
   },
   {
     "tag": "v2fly",
@@ -21,8 +21,8 @@
   },
   {
     "tag": "v2ray",
-    "count": 66,
-    "category": "client"
+    "count": 67,
+    "category": "ecosystem"
   },
   {
     "tag": "domain-list-community",
@@ -31,12 +31,12 @@
   },
   {
     "tag": "meta-rules-dat",
-    "count": 54,
+    "count": 55,
     "category": "ecosystem"
   },
   {
     "tag": "Loyalsoldier",
-    "count": 53,
+    "count": 54,
     "category": "ecosystem"
   },
   {
@@ -116,7 +116,7 @@
   },
   {
     "tag": "3x-ui",
-    "count": 24,
+    "count": 25,
     "category": "ecosystem"
   },
   {
@@ -370,6 +370,11 @@
     "category": "core"
   },
   {
+    "tag": "开发版本",
+    "count": 7,
+    "category": "ecosystem"
+  },
+  {
     "tag": "配置管理",
     "count": 7,
     "category": "client"
@@ -427,11 +432,6 @@
   {
     "tag": "shadowsocks",
     "count": 7,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "开发版本",
-    "count": 6,
     "category": "ecosystem"
   },
   {
@@ -570,6 +570,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "自动化构建",
+    "count": 4,
+    "category": "ecosystem"
+  },
+  {
     "tag": "SSH",
     "count": 4,
     "category": "core"
@@ -648,11 +653,6 @@
     "tag": "本地化",
     "count": 3,
     "category": "client"
-  },
-  {
-    "tag": "自动化构建",
-    "count": 3,
-    "category": "ecosystem"
   },
   {
     "tag": "自动构建",
@@ -843,6 +843,11 @@
     "tag": "protocol",
     "count": 3,
     "category": "protocol"
+  },
+  {
+    "tag": "规则数据",
+    "count": 2,
+    "category": "ecosystem"
   },
   {
     "tag": "脚本",
@@ -1456,11 +1461,6 @@
   },
   {
     "tag": "网络访问",
-    "count": 1,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "规则数据",
     "count": 1,
     "category": "ecosystem"
   },

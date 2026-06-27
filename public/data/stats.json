@@ -1,7 +1,7 @@
 {
-  "totalItems": 762,
-  "last24h": 11,
-  "last7d": 84,
+  "totalItems": 765,
+  "last24h": 8,
+  "last7d": 82,
   "byCategory": {
     "core": 118,
     "client": 184,
@@ -9,7 +9,7 @@
     "protocol": 46,
     "dns_rules": 18,
     "security": 7,
-    "ecosystem": 388,
+    "ecosystem": 391,
     "trend": 0
   },
   "topProjects": [
@@ -26,16 +26,16 @@
       "count": 82
     },
     {
+      "project": "v2ray-rules-dat",
+      "count": 58
+    },
+    {
       "project": "metacubexd",
       "count": 57
     },
     {
-      "project": "v2ray-rules-dat",
-      "count": 57
-    },
-    {
       "project": "meta-rules-dat",
-      "count": 54
+      "count": 55
     },
     {
       "project": "ClashMetaForAndroid",
@@ -43,7 +43,7 @@
     },
     {
       "project": "3x-ui",
-      "count": 24
+      "count": 25
     },
     {
       "project": "sing-box",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 192
+      "count": 193
     },
     {
       "tag": "v2fly",
@@ -73,7 +73,7 @@
     },
     {
       "tag": "v2ray",
-      "count": 66
+      "count": 67
     },
     {
       "tag": "domain-list-community",
@@ -81,11 +81,11 @@
     },
     {
       "tag": "meta-rules-dat",
-      "count": 54
+      "count": 55
     },
     {
       "tag": "Loyalsoldier",
-      "count": 53
+      "count": 54
     },
     {
       "tag": "metacubexd",
@@ -139,5 +139,5 @@
   "importantCount": 205,
   "breakingCount": 40,
   "securityCount": 49,
-  "updatedAt": "2026-06-26T20:07:06.684Z"
+  "updatedAt": "2026-06-27T04:18:48.517Z"
 }
