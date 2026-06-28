@@ -16,8 +16,8 @@
   },
   {
     "tag": "Sub-Store",
-    "count": 83,
-    "category": "protocol"
+    "count": 84,
+    "category": "dns_rules"
   },
   {
     "tag": "v2ray",
@@ -185,6 +185,11 @@
     "category": "core"
   },
   {
+    "tag": "DNS",
+    "count": 17,
+    "category": "dns_rules"
+  },
+  {
     "tag": "依赖更新",
     "count": 17,
     "category": "ecosystem"
@@ -193,11 +198,6 @@
     "tag": "v2rayNG",
     "count": 17,
     "category": "client"
-  },
-  {
-    "tag": "DNS",
-    "count": 16,
-    "category": "ecosystem"
   },
   {
     "tag": "macOS",
@@ -295,6 +295,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "bug修复",
+    "count": 9,
+    "category": "ecosystem"
+  },
+  {
     "tag": "bugfix",
     "count": 9,
     "category": "client"
@@ -330,14 +335,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "域名解析",
+    "count": 8,
+    "category": "dns_rules"
+  },
+  {
     "tag": "v2rayA",
     "count": 8,
     "category": "ecosystem"
-  },
-  {
-    "tag": "bug修复",
-    "count": 8,
-    "category": "client"
   },
   {
     "tag": "Docker",
@@ -391,11 +396,6 @@
   },
   {
     "tag": "proxy",
-    "count": 7,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "域名解析",
     "count": 7,
     "category": "ecosystem"
   },
@@ -580,6 +580,11 @@
     "category": "protocol"
   },
   {
+    "tag": "优化",
+    "count": 4,
+    "category": "ecosystem"
+  },
+  {
     "tag": "延迟测试",
     "count": 4,
     "category": "client"
@@ -653,6 +658,11 @@
     "tag": "nekoray",
     "count": 4,
     "category": "client"
+  },
+  {
+    "tag": "V2Ray",
+    "count": 3,
+    "category": "ecosystem"
   },
   {
     "tag": "DoT",
@@ -755,11 +765,6 @@
     "category": "client"
   },
   {
-    "tag": "优化",
-    "count": 3,
-    "category": "protocol"
-  },
-  {
     "tag": "WebSocket",
     "count": 3,
     "category": "client"
@@ -855,6 +860,11 @@
     "category": "protocol"
   },
   {
+    "tag": "ShadowsocksR",
+    "count": 2,
+    "category": "ecosystem"
+  },
+  {
     "tag": "Surfboard",
     "count": 2,
     "category": "protocol"
@@ -911,11 +921,6 @@
   },
   {
     "tag": "composable",
-    "count": 2,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "V2Ray",
     "count": 2,
     "category": "ecosystem"
   },
@@ -1268,6 +1273,26 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "Helloworld",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "HTTP Obfuscation",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "helloworld",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "luci-app-ssr-plus",
+    "count": 1,
+    "category": "ecosystem"
   },
   {
     "tag": "权限管理",
@@ -3261,11 +3286,6 @@
   },
   {
     "tag": "工具链",
-    "count": 1,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "ShadowsocksR",
     "count": 1,
     "category": "ecosystem"
   },

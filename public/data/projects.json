@@ -590,6 +590,22 @@
     ]
   },
   {
+    "slug": "helloworld",
+    "name": "helloworld",
+    "repo": "fw876/helloworld",
+    "description": "OpenWrt / 路由器固件及插件",
+    "category": "router",
+    "platforms": [
+      "openwrt",
+      "router"
+    ],
+    "tags": [
+      "ssrplus",
+      "openwrt",
+      "luci"
+    ]
+  },
+  {
     "slug": "clash",
     "name": "clash",
     "repo": "Dreamacro/clash",
@@ -679,22 +695,6 @@
     ],
     "tags": [
       "passwall2",
-      "openwrt",
-      "luci"
-    ]
-  },
-  {
-    "slug": "helloworld",
-    "name": "helloworld",
-    "repo": "fw876/helloworld",
-    "description": "OpenWrt / 路由器固件及插件",
-    "category": "router",
-    "platforms": [
-      "openwrt",
-      "router"
-    ],
-    "tags": [
-      "ssrplus",
       "openwrt",
       "luci"
     ]
