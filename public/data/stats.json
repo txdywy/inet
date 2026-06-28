@@ -1,7 +1,7 @@
 {
-  "totalItems": 789,
-  "last24h": 11,
-  "last7d": 80,
+  "totalItems": 791,
+  "last24h": 10,
+  "last7d": 81,
   "byCategory": {
     "core": 120,
     "client": 187,
@@ -9,7 +9,7 @@
     "protocol": 47,
     "dns_rules": 19,
     "security": 7,
-    "ecosystem": 408,
+    "ecosystem": 410,
     "trend": 0
   },
   "topProjects": [
@@ -43,7 +43,7 @@
     },
     {
       "project": "3x-ui",
-      "count": 29
+      "count": 30
     },
     {
       "project": "sing-box",
@@ -132,12 +132,12 @@
       "count": 30
     },
     {
-      "tag": "Windows",
-      "count": 29
+      "tag": "3x-ui",
+      "count": 30
     }
   ],
   "importantCount": 208,
   "breakingCount": 40,
   "securityCount": 51,
-  "updatedAt": "2026-06-28T09:34:24.605Z"
+  "updatedAt": "2026-06-28T14:17:54.467Z"
 }

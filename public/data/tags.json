@@ -95,14 +95,14 @@
     "category": "core"
   },
   {
+    "tag": "3x-ui",
+    "count": 30,
+    "category": "ecosystem"
+  },
+  {
     "tag": "Windows",
     "count": 29,
     "category": "client"
-  },
-  {
-    "tag": "3x-ui",
-    "count": 29,
-    "category": "ecosystem"
   },
   {
     "tag": "dat",
@@ -245,6 +245,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "开发版本",
+    "count": 11,
+    "category": "ecosystem"
+  },
+  {
     "tag": "SUDOKU-ASCII",
     "count": 11,
     "category": "ecosystem"
@@ -261,11 +266,6 @@
   },
   {
     "tag": "网络规则",
-    "count": 10,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "开发版本",
     "count": 10,
     "category": "ecosystem"
   },
@@ -515,6 +515,11 @@
     "category": "client"
   },
   {
+    "tag": "自动构建",
+    "count": 5,
+    "category": "ecosystem"
+  },
+  {
     "tag": "age",
     "count": 5,
     "category": "ecosystem"
@@ -595,11 +600,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "自动构建",
-    "count": 4,
-    "category": "ecosystem"
-  },
-  {
     "tag": "SSH",
     "count": 4,
     "category": "core"
@@ -658,6 +658,11 @@
     "tag": "nekoray",
     "count": 4,
     "category": "client"
+  },
+  {
+    "tag": "ShadowsocksR",
+    "count": 3,
+    "category": "ecosystem"
   },
   {
     "tag": "V2Ray",
@@ -860,7 +865,12 @@
     "category": "protocol"
   },
   {
-    "tag": "ShadowsocksR",
+    "tag": "helloworld",
+    "count": 2,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "luci-app-ssr-plus",
     "count": 2,
     "category": "ecosystem"
   },
@@ -1281,16 +1291,6 @@
   },
   {
     "tag": "HTTP Obfuscation",
-    "count": 1,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "helloworld",
-    "count": 1,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "luci-app-ssr-plus",
     "count": 1,
     "category": "ecosystem"
   },

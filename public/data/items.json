@@ -1,5 +1,39 @@
 [
   {
+    "id": "30d813da20afec59",
+    "title": "v196.1",
+    "summary": "helloworld v196.1 版本发布，包含 luci-app-ssr-plus 的构建。",
+    "analysis": "此次更新主要是发布了 helloworld 的 v196.1 版本，重点在于构建了 luci-app-ssr-plus。该应用是一个用于 SSR（ShadowsocksR）代理的图形界面，能够帮助用户更方便地管理和配置代理服务。这次更新的重要性在于它可能包含了对现有功能的优化和修复，提升了用户体验。对于开发者而言，保持更新有助于确保兼容性和获取最新的功能。虽然更新内容较为简单，但仍建议用户及时更新，以便享受最新的功能和修复。此次更新没有提及安全性或协议的重大变更，因此兼容性风险较低。",
+    "rawTitle": "v196.1",
+    "rawBody": "# helloworld v196.1\n\nRelease tag: v196.1\nCommit: c23137d67aa4c6d2286936c305e5e80393586aa8\n\nPackage to build:\n- luci-app-ssr-plus\n",
+    "sourceType": "github_release",
+    "sourceName": "fw876/helloworld",
+    "sourceUrl": "https://github.com/fw876/helloworld/releases/tag/v196.1",
+    "project": "helloworld",
+    "repo": "fw876/helloworld",
+    "slug": "helloworld",
+    "version": "196.1",
+    "category": "ecosystem",
+    "tags": [
+      "helloworld",
+      "luci-app-ssr-plus",
+      "ShadowsocksR"
+    ],
+    "platforms": [
+      "openwrt"
+    ],
+    "importance": 3,
+    "confidence": 0.9,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-06-28T09:29:21Z",
+    "fetchedAt": "2026-06-28T14:17:39.700Z",
+    "firstSeenAt": "2026-06-28T14:17:49.630Z",
+    "updatedAt": "2026-06-28T14:17:49.630Z",
+    "hash": "30d813da20afec59"
+  },
+  {
     "id": "2195ef8c11b8280e",
     "title": "v196.1",
     "summary": "Helloworld v196.1 版本更新，优化了更新脚本，增加了 HTTP 混淆支持，并修复了多个 bug。",
@@ -1350,6 +1384,38 @@
     "firstSeenAt": "2026-06-25T04:36:16.426Z",
     "updatedAt": "2026-06-25T04:36:16.426Z",
     "hash": "e54a070ca4e6a5bf"
+  },
+  {
+    "id": "415bb64ca8ad31d2",
+    "title": "Dev build aef35ee0",
+    "summary": "发布了3x-ui的开发版本，用户可以通过面板的开发更新频道进行安装。",
+    "analysis": "此次更新是3x-ui的开发构建版本，标识为aef35ee0，用户可以通过开发更新频道进行安装。由于这是一个自动化的每次提交构建，意味着它可能包含最新的功能和修复，但并不稳定，因此不建议在生产环境中使用。这种开发版本的发布对于开发者来说非常重要，因为它提供了最新的代码变更和功能测试的机会，但对于普通用户而言，可能会面临不稳定性和潜在的bug。用户在选择更新时需谨慎，确保了解其风险。此版本与3x-ui项目相关，未涉及协议变化或安全修复，因此兼容性风险较低。",
+    "rawTitle": "Dev build aef35ee0",
+    "rawBody": "Rolling development build — installs via the panel's Dev update channel.\n\ncommit=aef35ee0de18389899f17fbbd53800a278e5c90f\nbuilt=2026-06-28T13:23:43Z\n\nAutomated per-commit build from main. Not a stable release.",
+    "sourceType": "github_release",
+    "sourceName": "MHSanaei/3x-ui",
+    "sourceUrl": "https://github.com/MHSanaei/3x-ui/releases/tag/dev-latest",
+    "project": "3x-ui",
+    "repo": "MHSanaei/3x-ui",
+    "slug": "3x-ui",
+    "version": "dev-latest",
+    "category": "ecosystem",
+    "tags": [
+      "3x-ui",
+      "开发版本",
+      "自动构建"
+    ],
+    "platforms": [],
+    "importance": 3,
+    "confidence": 0.9,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-06-24T16:17:06Z",
+    "fetchedAt": "2026-06-28T14:17:42.512Z",
+    "firstSeenAt": "2026-06-28T14:17:54.055Z",
+    "updatedAt": "2026-06-28T14:17:54.055Z",
+    "hash": "415bb64ca8ad31d2"
   },
   {
     "id": "4280c9efd05005d7",
