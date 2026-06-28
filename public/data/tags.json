@@ -1,17 +1,17 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 196,
+    "count": 197,
     "category": "ecosystem"
   },
   {
     "tag": "v2fly",
-    "count": 132,
+    "count": 134,
     "category": "ecosystem"
   },
   {
     "tag": "mihomo",
-    "count": 89,
+    "count": 90,
     "category": "ecosystem"
   },
   {
@@ -26,7 +26,7 @@
   },
   {
     "tag": "domain-list-community",
-    "count": 65,
+    "count": 66,
     "category": "ecosystem"
   },
   {
@@ -46,8 +46,8 @@
   },
   {
     "tag": "domain-list",
-    "count": 48,
-    "category": "ecosystem"
+    "count": 49,
+    "category": "dns_rules"
   },
   {
     "tag": "网络代理",
@@ -80,7 +80,17 @@
     "category": "ecosystem"
   },
   {
+    "tag": "代理工具",
+    "count": 31,
+    "category": "core"
+  },
+  {
     "tag": "开源",
+    "count": 31,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "3x-ui",
     "count": 31,
     "category": "ecosystem"
   },
@@ -88,16 +98,6 @@
     "tag": "ClashMetaForAndroid",
     "count": 30,
     "category": "client"
-  },
-  {
-    "tag": "代理工具",
-    "count": 30,
-    "category": "core"
-  },
-  {
-    "tag": "3x-ui",
-    "count": 30,
-    "category": "ecosystem"
   },
   {
     "tag": "Windows",
@@ -136,8 +136,8 @@
   },
   {
     "tag": "go-gost",
-    "count": 22,
-    "category": "ecosystem"
+    "count": 23,
+    "category": "core"
   },
   {
     "tag": "VLESS",
@@ -165,6 +165,11 @@
     "category": "protocol"
   },
   {
+    "tag": "xhttp-opts",
+    "count": 19,
+    "category": "core"
+  },
+  {
     "tag": "CHACHA20-POLY1305",
     "count": 19,
     "category": "ecosystem"
@@ -176,11 +181,6 @@
   },
   {
     "tag": "Xray",
-    "count": 18,
-    "category": "core"
-  },
-  {
-    "tag": "xhttp-opts",
     "count": 18,
     "category": "core"
   },
@@ -220,6 +220,11 @@
     "category": "core"
   },
   {
+    "tag": "rematch",
+    "count": 14,
+    "category": "core"
+  },
+  {
     "tag": "TLS",
     "count": 13,
     "category": "protocol"
@@ -230,9 +235,9 @@
     "category": "client"
   },
   {
-    "tag": "rematch",
-    "count": 13,
-    "category": "core"
+    "tag": "开发版本",
+    "count": 12,
+    "category": "ecosystem"
   },
   {
     "tag": "naiveproxy",
@@ -241,11 +246,6 @@
   },
   {
     "tag": "HTTP",
-    "count": 11,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "开发版本",
     "count": 11,
     "category": "ecosystem"
   },
@@ -295,6 +295,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "v2rayA",
+    "count": 9,
+    "category": "core"
+  },
+  {
     "tag": "bug修复",
     "count": 9,
     "category": "ecosystem"
@@ -330,6 +335,11 @@
     "category": "client"
   },
   {
+    "tag": "snell",
+    "count": 9,
+    "category": "core"
+  },
+  {
     "tag": "CBC",
     "count": 9,
     "category": "ecosystem"
@@ -338,11 +348,6 @@
     "tag": "域名解析",
     "count": 8,
     "category": "dns_rules"
-  },
-  {
-    "tag": "v2rayA",
-    "count": 8,
-    "category": "ecosystem"
   },
   {
     "tag": "Docker",
@@ -373,11 +378,6 @@
     "tag": "Mihomo",
     "count": 8,
     "category": "client"
-  },
-  {
-    "tag": "snell",
-    "count": 8,
-    "category": "core"
   },
   {
     "tag": "自动化构建",
@@ -437,6 +437,11 @@
   {
     "tag": "shadowsocks",
     "count": 7,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "自动构建",
+    "count": 6,
     "category": "ecosystem"
   },
   {
@@ -513,11 +518,6 @@
     "tag": "安全",
     "count": 5,
     "category": "client"
-  },
-  {
-    "tag": "自动构建",
-    "count": 5,
-    "category": "ecosystem"
   },
   {
     "tag": "age",
@@ -658,6 +658,16 @@
     "tag": "nekoray",
     "count": 4,
     "category": "client"
+  },
+  {
+    "tag": "分类更新",
+    "count": 3,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "go-gost/x",
+    "count": 3,
+    "category": "core"
   },
   {
     "tag": "ShadowsocksR",
@@ -865,6 +875,11 @@
     "category": "protocol"
   },
   {
+    "tag": "反向代理",
+    "count": 2,
+    "category": "core"
+  },
+  {
     "tag": "helloworld",
     "count": 2,
     "category": "ecosystem"
@@ -911,11 +926,6 @@
   },
   {
     "tag": "MHSanaei",
-    "count": 2,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "go-gost/x",
     "count": 2,
     "category": "ecosystem"
   },
@@ -1150,11 +1160,6 @@
     "category": "client"
   },
   {
-    "tag": "分类更新",
-    "count": 2,
-    "category": "ecosystem"
-  },
-  {
     "tag": "masque",
     "count": 2,
     "category": "ecosystem"
@@ -1283,6 +1288,26 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "kingsoft",
+    "count": 1,
+    "category": "dns_rules"
+  },
+  {
+    "tag": "Unix Domain Socket",
+    "count": 1,
+    "category": "core"
+  },
+  {
+    "tag": "BaseUrl",
+    "count": 1,
+    "category": "core"
+  },
+  {
+    "tag": "FnOS",
+    "count": 1,
+    "category": "core"
   },
   {
     "tag": "Helloworld",
@@ -2788,11 +2813,6 @@
     "tag": "代理组",
     "count": 1,
     "category": "client"
-  },
-  {
-    "tag": "反向代理",
-    "count": 1,
-    "category": "core"
   },
   {
     "tag": "字节风格",

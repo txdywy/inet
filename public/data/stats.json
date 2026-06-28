@@ -1,21 +1,21 @@
 {
-  "totalItems": 791,
-  "last24h": 10,
-  "last7d": 81,
+  "totalItems": 797,
+  "last24h": 11,
+  "last7d": 83,
   "byCategory": {
-    "core": 120,
+    "core": 123,
     "client": 187,
     "router": 1,
     "protocol": 47,
-    "dns_rules": 19,
+    "dns_rules": 20,
     "security": 7,
-    "ecosystem": 410,
+    "ecosystem": 412,
     "trend": 0
   },
   "topProjects": [
     {
       "project": "domain-list-community",
-      "count": 128
+      "count": 130
     },
     {
       "project": "Sub-Store",
@@ -23,7 +23,7 @@
     },
     {
       "project": "mihomo",
-      "count": 82
+      "count": 83
     },
     {
       "project": "v2ray-rules-dat",
@@ -38,11 +38,11 @@
       "count": 56
     },
     {
-      "project": "ClashMetaForAndroid",
-      "count": 30
+      "project": "3x-ui",
+      "count": 31
     },
     {
-      "project": "3x-ui",
+      "project": "ClashMetaForAndroid",
       "count": 30
     },
     {
@@ -51,21 +51,21 @@
     },
     {
       "project": "gost",
-      "count": 22
+      "count": 23
     }
   ],
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 196
+      "count": 197
     },
     {
       "tag": "v2fly",
-      "count": 132
+      "count": 134
     },
     {
       "tag": "mihomo",
-      "count": 89
+      "count": 90
     },
     {
       "tag": "Sub-Store",
@@ -77,7 +77,7 @@
     },
     {
       "tag": "domain-list-community",
-      "count": 65
+      "count": 66
     },
     {
       "tag": "meta-rules-dat",
@@ -93,7 +93,7 @@
     },
     {
       "tag": "domain-list",
-      "count": 48
+      "count": 49
     },
     {
       "tag": "网络代理",
@@ -120,24 +120,24 @@
       "count": 32
     },
     {
+      "tag": "代理工具",
+      "count": 31
+    },
+    {
       "tag": "开源",
       "count": 31
     },
     {
-      "tag": "ClashMetaForAndroid",
-      "count": 30
-    },
-    {
-      "tag": "代理工具",
-      "count": 30
-    },
-    {
       "tag": "3x-ui",
+      "count": 31
+    },
+    {
+      "tag": "ClashMetaForAndroid",
       "count": 30
     }
   ],
   "importantCount": 208,
   "breakingCount": 40,
   "securityCount": 51,
-  "updatedAt": "2026-06-28T14:17:54.467Z"
+  "updatedAt": "2026-06-28T19:44:36.482Z"
 }
