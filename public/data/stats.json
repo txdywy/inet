@@ -1,15 +1,15 @@
 {
-  "totalItems": 806,
-  "last24h": 5,
-  "last7d": 86,
+  "totalItems": 811,
+  "last24h": 9,
+  "last7d": 88,
   "byCategory": {
-    "core": 123,
-    "client": 187,
+    "core": 124,
+    "client": 188,
     "router": 1,
     "protocol": 47,
     "dns_rules": 20,
     "security": 7,
-    "ecosystem": 421,
+    "ecosystem": 424,
     "trend": 0
   },
   "topProjects": [
@@ -39,7 +39,7 @@
     },
     {
       "project": "3x-ui",
-      "count": 34
+      "count": 36
     },
     {
       "project": "ClashMetaForAndroid",
@@ -93,7 +93,7 @@
     },
     {
       "tag": "网络代理",
-      "count": 50
+      "count": 51
     },
     {
       "tag": "domain-list",
@@ -112,12 +112,12 @@
       "count": 44
     },
     {
-      "tag": "代理",
+      "tag": "3x-ui",
       "count": 36
     },
     {
-      "tag": "3x-ui",
-      "count": 34
+      "tag": "代理",
+      "count": 36
     },
     {
       "tag": "sing-box",
@@ -136,8 +136,8 @@
       "count": 30
     }
   ],
-  "importantCount": 209,
-  "breakingCount": 40,
-  "securityCount": 51,
-  "updatedAt": "2026-06-29T16:13:20.107Z"
+  "importantCount": 210,
+  "breakingCount": 41,
+  "securityCount": 52,
+  "updatedAt": "2026-06-29T20:14:52.921Z"
 }

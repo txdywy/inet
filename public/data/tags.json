@@ -46,7 +46,7 @@
   },
   {
     "tag": "网络代理",
-    "count": 50,
+    "count": 51,
     "category": "ecosystem"
   },
   {
@@ -70,14 +70,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "3x-ui",
+    "count": 36,
+    "category": "core"
+  },
+  {
     "tag": "代理",
     "count": 36,
     "category": "client"
-  },
-  {
-    "tag": "3x-ui",
-    "count": 34,
-    "category": "ecosystem"
   },
   {
     "tag": "sing-box",
@@ -185,6 +185,11 @@
     "category": "core"
   },
   {
+    "tag": "用户界面",
+    "count": 17,
+    "category": "client"
+  },
+  {
     "tag": "DNS",
     "count": 17,
     "category": "dns_rules"
@@ -200,7 +205,7 @@
     "category": "client"
   },
   {
-    "tag": "用户界面",
+    "tag": "开发版本",
     "count": 16,
     "category": "ecosystem"
   },
@@ -208,11 +213,6 @@
     "tag": "macOS",
     "count": 16,
     "category": "client"
-  },
-  {
-    "tag": "开发版本",
-    "count": 15,
-    "category": "ecosystem"
   },
   {
     "tag": "rematch",
@@ -245,6 +245,11 @@
     "category": "core"
   },
   {
+    "tag": "v2rayA",
+    "count": 11,
+    "category": "ecosystem"
+  },
+  {
     "tag": "Clash",
     "count": 11,
     "category": "ecosystem"
@@ -258,6 +263,16 @@
     "tag": "SUDOKU-ASCII",
     "count": 11,
     "category": "ecosystem"
+  },
+  {
+    "tag": "OpenWrt",
+    "count": 10,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "WireGuard",
+    "count": 10,
+    "category": "core"
   },
   {
     "tag": "域名",
@@ -300,12 +315,12 @@
     "category": "ecosystem"
   },
   {
-    "tag": "v2rayA",
+    "tag": "bug修复",
     "count": 9,
-    "category": "core"
+    "category": "ecosystem"
   },
   {
-    "tag": "bug修复",
+    "tag": "自动化构建",
     "count": 9,
     "category": "ecosystem"
   },
@@ -320,19 +335,9 @@
     "category": "client"
   },
   {
-    "tag": "WireGuard",
-    "count": 9,
-    "category": "core"
-  },
-  {
     "tag": ".NET",
     "count": 9,
     "category": "client"
-  },
-  {
-    "tag": "OpenWrt",
-    "count": 9,
-    "category": "core"
   },
   {
     "tag": "TUN",
@@ -356,11 +361,6 @@
   },
   {
     "tag": "自动构建",
-    "count": 8,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "自动化构建",
     "count": 8,
     "category": "ecosystem"
   },
@@ -585,6 +585,16 @@
     "category": "protocol"
   },
   {
+    "tag": "更新",
+    "count": 4,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "安全性",
+    "count": 4,
+    "category": "core"
+  },
+  {
     "tag": "优化",
     "count": 4,
     "category": "ecosystem"
@@ -660,6 +670,16 @@
     "category": "client"
   },
   {
+    "tag": "helloworld",
+    "count": 3,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "luci-app-ssr-plus",
+    "count": 3,
+    "category": "ecosystem"
+  },
+  {
     "tag": "分类更新",
     "count": 3,
     "category": "ecosystem"
@@ -705,11 +725,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "安全性",
-    "count": 3,
-    "category": "core"
-  },
-  {
     "tag": "文件路由",
     "count": 3,
     "category": "ecosystem"
@@ -743,11 +758,6 @@
     "tag": "SOCKS5",
     "count": 3,
     "category": "protocol"
-  },
-  {
-    "tag": "更新",
-    "count": 3,
-    "category": "ecosystem"
   },
   {
     "tag": "Node",
@@ -875,6 +885,11 @@
     "category": "protocol"
   },
   {
+    "tag": "多客户端",
+    "count": 2,
+    "category": "core"
+  },
+  {
     "tag": "修复",
     "count": 2,
     "category": "ecosystem"
@@ -893,16 +908,6 @@
     "tag": "反向代理",
     "count": 2,
     "category": "core"
-  },
-  {
-    "tag": "helloworld",
-    "count": 2,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "luci-app-ssr-plus",
-    "count": 2,
-    "category": "ecosystem"
   },
   {
     "tag": "Surfboard",
@@ -1303,6 +1308,21 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "服务器管理",
+    "count": 1,
+    "category": "client"
+  },
+  {
+    "tag": "面板可访问性",
+    "count": 1,
+    "category": "core"
+  },
+  {
+    "tag": "负载均衡",
+    "count": 1,
+    "category": "core"
   },
   {
     "tag": "alpha",
@@ -2183,11 +2203,6 @@
     "tag": "context.process",
     "count": 1,
     "category": "ecosystem"
-  },
-  {
-    "tag": "多客户端",
-    "count": 1,
-    "category": "client"
   },
   {
     "tag": "稳定性修复",
