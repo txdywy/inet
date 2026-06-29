@@ -75,12 +75,12 @@
     "category": "client"
   },
   {
-    "tag": "sing-box",
-    "count": 33,
+    "tag": "3x-ui",
+    "count": 34,
     "category": "ecosystem"
   },
   {
-    "tag": "3x-ui",
+    "tag": "sing-box",
     "count": 33,
     "category": "ecosystem"
   },
@@ -210,6 +210,11 @@
     "category": "client"
   },
   {
+    "tag": "开发版本",
+    "count": 15,
+    "category": "ecosystem"
+  },
+  {
     "tag": "rematch",
     "count": 15,
     "category": "ecosystem"
@@ -218,11 +223,6 @@
     "tag": "Hysteria",
     "count": 14,
     "category": "protocol"
-  },
-  {
-    "tag": "开发版本",
-    "count": 14,
-    "category": "ecosystem"
   },
   {
     "tag": "VPN",
@@ -355,6 +355,11 @@
     "category": "dns_rules"
   },
   {
+    "tag": "自动构建",
+    "count": 8,
+    "category": "ecosystem"
+  },
+  {
     "tag": "自动化构建",
     "count": 8,
     "category": "ecosystem"
@@ -386,11 +391,6 @@
   },
   {
     "tag": "OpenClash",
-    "count": 7,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "自动构建",
     "count": 7,
     "category": "ecosystem"
   },
