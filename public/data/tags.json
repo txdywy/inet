@@ -1,7 +1,7 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 197,
+    "count": 199,
     "category": "ecosystem"
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "tag": "v2ray",
-    "count": 68,
+    "count": 69,
     "category": "ecosystem"
   },
   {
@@ -31,28 +31,28 @@
   },
   {
     "tag": "meta-rules-dat",
-    "count": 56,
+    "count": 57,
     "category": "ecosystem"
   },
   {
     "tag": "Loyalsoldier",
-    "count": 55,
+    "count": 56,
     "category": "ecosystem"
   },
   {
     "tag": "metacubexd",
-    "count": 54,
-    "category": "client"
+    "count": 55,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "网络代理",
+    "count": 50,
+    "category": "ecosystem"
   },
   {
     "tag": "domain-list",
     "count": 49,
     "category": "dns_rules"
-  },
-  {
-    "tag": "网络代理",
-    "count": 48,
-    "category": "ecosystem"
   },
   {
     "tag": "OpenVPN",
@@ -76,6 +76,11 @@
   },
   {
     "tag": "sing-box",
+    "count": 33,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "3x-ui",
     "count": 32,
     "category": "ecosystem"
   },
@@ -86,11 +91,6 @@
   },
   {
     "tag": "开源",
-    "count": 31,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "3x-ui",
     "count": 31,
     "category": "ecosystem"
   },
@@ -126,7 +126,7 @@
   },
   {
     "tag": "SagerNet",
-    "count": 24,
+    "count": 25,
     "category": "ecosystem"
   },
   {
@@ -200,13 +200,13 @@
     "category": "client"
   },
   {
-    "tag": "macOS",
+    "tag": "用户界面",
     "count": 16,
-    "category": "client"
+    "category": "ecosystem"
   },
   {
-    "tag": "用户界面",
-    "count": 15,
+    "tag": "macOS",
+    "count": 16,
     "category": "client"
   },
   {
@@ -225,6 +225,11 @@
     "category": "core"
   },
   {
+    "tag": "开发版本",
+    "count": 13,
+    "category": "ecosystem"
+  },
+  {
     "tag": "TLS",
     "count": 13,
     "category": "protocol"
@@ -235,14 +240,14 @@
     "category": "client"
   },
   {
-    "tag": "开发版本",
-    "count": 12,
-    "category": "ecosystem"
-  },
-  {
     "tag": "naiveproxy",
     "count": 12,
     "category": "core"
+  },
+  {
+    "tag": "Clash",
+    "count": 11,
+    "category": "ecosystem"
   },
   {
     "tag": "HTTP",
@@ -290,8 +295,8 @@
     "category": "ecosystem"
   },
   {
-    "tag": "Clash",
-    "count": 10,
+    "tag": "Docker",
+    "count": 9,
     "category": "ecosystem"
   },
   {
@@ -350,9 +355,9 @@
     "category": "dns_rules"
   },
   {
-    "tag": "Docker",
+    "tag": "自动化构建",
     "count": 8,
-    "category": "core"
+    "category": "ecosystem"
   },
   {
     "tag": "快捷方式",
@@ -380,7 +385,7 @@
     "category": "client"
   },
   {
-    "tag": "自动化构建",
+    "tag": "OpenClash",
     "count": 7,
     "category": "ecosystem"
   },
@@ -461,11 +466,6 @@
   },
   {
     "tag": "Loon",
-    "count": 6,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "OpenClash",
     "count": 6,
     "category": "ecosystem"
   },
@@ -873,6 +873,21 @@
     "tag": "protocol",
     "count": 3,
     "category": "protocol"
+  },
+  {
+    "tag": "修复",
+    "count": 2,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "改进",
+    "count": 2,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "路由器",
+    "count": 2,
+    "category": "ecosystem"
   },
   {
     "tag": "反向代理",
@@ -1290,6 +1305,16 @@
     "category": "security"
   },
   {
+    "tag": "alpha",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "规则数据库",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
     "tag": "kingsoft",
     "count": 1,
     "category": "dns_rules"
@@ -1323,16 +1348,6 @@
     "tag": "权限管理",
     "count": 1,
     "category": "client"
-  },
-  {
-    "tag": "修复",
-    "count": 1,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "改进",
-    "count": 1,
-    "category": "ecosystem"
   },
   {
     "tag": "e2e tests",
@@ -2941,11 +2956,6 @@
   },
   {
     "tag": "翻墙工具",
-    "count": 1,
-    "category": "client"
-  },
-  {
-    "tag": "路由器",
     "count": 1,
     "category": "client"
   },
