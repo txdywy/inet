@@ -1,7 +1,7 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 199,
+    "count": 200,
     "category": "ecosystem"
   },
   {
@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 90,
+    "count": 91,
     "category": "ecosystem"
   },
   {
@@ -81,7 +81,7 @@
   },
   {
     "tag": "3x-ui",
-    "count": 32,
+    "count": 33,
     "category": "ecosystem"
   },
   {
@@ -155,6 +155,11 @@
     "category": "client"
   },
   {
+    "tag": "xhttp-opts",
+    "count": 20,
+    "category": "ecosystem"
+  },
+  {
     "tag": "QUIC",
     "count": 19,
     "category": "client"
@@ -163,11 +168,6 @@
     "tag": "Snell",
     "count": 19,
     "category": "protocol"
-  },
-  {
-    "tag": "xhttp-opts",
-    "count": 19,
-    "category": "core"
   },
   {
     "tag": "CHACHA20-POLY1305",
@@ -210,24 +210,24 @@
     "category": "client"
   },
   {
+    "tag": "rematch",
+    "count": 15,
+    "category": "ecosystem"
+  },
+  {
     "tag": "Hysteria",
     "count": 14,
     "category": "protocol"
   },
   {
+    "tag": "开发版本",
+    "count": 14,
+    "category": "ecosystem"
+  },
+  {
     "tag": "VPN",
     "count": 14,
     "category": "core"
-  },
-  {
-    "tag": "rematch",
-    "count": 14,
-    "category": "core"
-  },
-  {
-    "tag": "开发版本",
-    "count": 13,
-    "category": "ecosystem"
   },
   {
     "tag": "TLS",
@@ -390,6 +390,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "自动构建",
+    "count": 7,
+    "category": "ecosystem"
+  },
+  {
     "tag": "配置管理",
     "count": 7,
     "category": "client"
@@ -442,11 +447,6 @@
   {
     "tag": "shadowsocks",
     "count": 7,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "自动构建",
-    "count": 6,
     "category": "ecosystem"
   },
   {
@@ -3101,6 +3101,11 @@
   },
   {
     "tag": "Pushover",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "openvpn",
     "count": 1,
     "category": "ecosystem"
   },
