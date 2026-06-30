@@ -1,7 +1,7 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 202,
+    "count": 203,
     "category": "client"
   },
   {
@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 91,
+    "count": 92,
     "category": "ecosystem"
   },
   {
@@ -115,14 +115,14 @@
     "category": "client"
   },
   {
+    "tag": "Tailscale",
+    "count": 27,
+    "category": "ecosystem"
+  },
+  {
     "tag": "网络协议",
     "count": 26,
     "category": "core"
-  },
-  {
-    "tag": "Tailscale",
-    "count": 26,
-    "category": "client"
   },
   {
     "tag": "SagerNet",
@@ -140,12 +140,17 @@
     "category": "core"
   },
   {
+    "tag": "网络工具",
+    "count": 22,
+    "category": "ecosystem"
+  },
+  {
     "tag": "VLESS",
     "count": 22,
     "category": "ecosystem"
   },
   {
-    "tag": "网络工具",
+    "tag": "xhttp-opts",
     "count": 21,
     "category": "ecosystem"
   },
@@ -153,11 +158,6 @@
     "tag": "v2rayN",
     "count": 20,
     "category": "client"
-  },
-  {
-    "tag": "xhttp-opts",
-    "count": 20,
-    "category": "ecosystem"
   },
   {
     "tag": "QUIC",
@@ -216,6 +216,11 @@
   },
   {
     "tag": "rematch",
+    "count": 16,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "VPN",
     "count": 15,
     "category": "ecosystem"
   },
@@ -223,11 +228,6 @@
     "tag": "Hysteria",
     "count": 14,
     "category": "protocol"
-  },
-  {
-    "tag": "VPN",
-    "count": 14,
-    "category": "core"
   },
   {
     "tag": "TLS",
@@ -1298,6 +1298,11 @@
     "tag": "NekoBox",
     "count": 2,
     "category": "client"
+  },
+  {
+    "tag": "openvpn",
+    "count": 2,
+    "category": "ecosystem"
   },
   {
     "tag": "ping keepalive",
@@ -3121,11 +3126,6 @@
   },
   {
     "tag": "Pushover",
-    "count": 1,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "openvpn",
     "count": 1,
     "category": "ecosystem"
   },
