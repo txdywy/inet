@@ -1,8 +1,8 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 200,
-    "category": "ecosystem"
+    "count": 202,
+    "category": "client"
   },
   {
     "tag": "v2fly",
@@ -21,7 +21,7 @@
   },
   {
     "tag": "v2ray",
-    "count": 69,
+    "count": 70,
     "category": "ecosystem"
   },
   {
@@ -31,18 +31,18 @@
   },
   {
     "tag": "meta-rules-dat",
-    "count": 57,
+    "count": 58,
     "category": "ecosystem"
   },
   {
     "tag": "Loyalsoldier",
-    "count": 56,
+    "count": 57,
     "category": "ecosystem"
   },
   {
     "tag": "metacubexd",
-    "count": 55,
-    "category": "ecosystem"
+    "count": 56,
+    "category": "client"
   },
   {
     "tag": "网络代理",
@@ -245,6 +245,11 @@
     "category": "core"
   },
   {
+    "tag": "网络规则",
+    "count": 11,
+    "category": "ecosystem"
+  },
+  {
     "tag": "v2rayA",
     "count": 11,
     "category": "ecosystem"
@@ -283,11 +288,6 @@
     "tag": "xray",
     "count": 10,
     "category": "client"
-  },
-  {
-    "tag": "网络规则",
-    "count": 10,
-    "category": "ecosystem"
   },
   {
     "tag": "Surge",
@@ -885,6 +885,11 @@
     "category": "protocol"
   },
   {
+    "tag": "i18n",
+    "count": 2,
+    "category": "client"
+  },
+  {
     "tag": "多客户端",
     "count": 2,
     "category": "core"
@@ -1308,6 +1313,11 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "国际化",
+    "count": 1,
+    "category": "client"
   },
   {
     "tag": "服务器管理",
@@ -2023,11 +2033,6 @@
     "tag": "adygtelecom",
     "count": 1,
     "category": "ecosystem"
-  },
-  {
-    "tag": "i18n",
-    "count": 1,
-    "category": "client"
   },
   {
     "tag": "Unix",

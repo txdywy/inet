@@ -1,15 +1,15 @@
 {
-  "totalItems": 811,
-  "last24h": 9,
-  "last7d": 88,
+  "totalItems": 814,
+  "last24h": 7,
+  "last7d": 87,
   "byCategory": {
     "core": 124,
-    "client": 188,
+    "client": 189,
     "router": 1,
     "protocol": 47,
     "dns_rules": 20,
     "security": 7,
-    "ecosystem": 424,
+    "ecosystem": 426,
     "trend": 0
   },
   "topProjects": [
@@ -27,15 +27,15 @@
     },
     {
       "project": "metacubexd",
-      "count": 60
+      "count": 61
     },
     {
       "project": "v2ray-rules-dat",
-      "count": 60
+      "count": 61
     },
     {
       "project": "meta-rules-dat",
-      "count": 57
+      "count": 58
     },
     {
       "project": "3x-ui",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 200
+      "count": 202
     },
     {
       "tag": "v2fly",
@@ -73,7 +73,7 @@
     },
     {
       "tag": "v2ray",
-      "count": 69
+      "count": 70
     },
     {
       "tag": "domain-list-community",
@@ -81,15 +81,15 @@
     },
     {
       "tag": "meta-rules-dat",
-      "count": 57
+      "count": 58
     },
     {
       "tag": "Loyalsoldier",
-      "count": 56
+      "count": 57
     },
     {
       "tag": "metacubexd",
-      "count": 55
+      "count": 56
     },
     {
       "tag": "网络代理",
@@ -139,5 +139,5 @@
   "importantCount": 210,
   "breakingCount": 41,
   "securityCount": 52,
-  "updatedAt": "2026-06-29T20:14:52.921Z"
+  "updatedAt": "2026-06-30T04:36:26.703Z"
 }
