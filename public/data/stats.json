@@ -1,9 +1,9 @@
 {
-  "totalItems": 816,
-  "last24h": 8,
-  "last7d": 84,
+  "totalItems": 817,
+  "last24h": 5,
+  "last7d": 82,
   "byCategory": {
-    "core": 124,
+    "core": 125,
     "client": 189,
     "router": 1,
     "protocol": 47,
@@ -51,7 +51,7 @@
     },
     {
       "project": "gost",
-      "count": 23
+      "count": 24
     }
   ],
   "hotTags": [
@@ -93,7 +93,7 @@
     },
     {
       "tag": "网络代理",
-      "count": 51
+      "count": 52
     },
     {
       "tag": "domain-list",
@@ -139,5 +139,5 @@
   "importantCount": 211,
   "breakingCount": 41,
   "securityCount": 52,
-  "updatedAt": "2026-06-30T14:45:01.829Z"
+  "updatedAt": "2026-06-30T20:17:43.390Z"
 }

@@ -1,5 +1,38 @@
 [
   {
+    "id": "3e7ef46db5af006c",
+    "title": "v3.2.7-nightly.20260630",
+    "summary": "go-gost项目发布了v3.2.7-nightly.20260630版本，主要更新了核心和扩展模块的版本。",
+    "analysis": "本次更新主要是对go-gost/core和go-gost/x模块的版本进行了提升，分别更新至v0.5.2和v0.13.3。这种更新通常是为了引入新的特性、修复已知问题或提升性能。虽然具体的变更内容未详细列出，但版本号的提升通常意味着对用户体验的改善或安全性增强。对于开发者而言，保持依赖库的更新是确保项目稳定性和安全性的关键。由于这是一个夜间版本（prerelease），可能包含实验性功能或尚未完全测试的改动，因此在生产环境中使用时需谨慎。建议开发者在测试环境中验证更新后再决定是否在生产环境中应用。整体来看，此次更新对用户和开发者都是值得关注的，但由于缺乏详细的变更说明，兼容性风险尚不明确。",
+    "rawTitle": "v3.2.7-nightly.20260630",
+    "rawBody": "## Changelog\n* ffb61cc19f6cfac499fad5e1eea109a06010d216 chore: bump go-gost/core to v0.5.2, go-gost/x to v0.13.2\n* bb912edecc8c29e0fea68ebb9520ac350a0344a3 chore: bump go-gost/x to v0.13.3\n\n",
+    "sourceType": "github_release",
+    "sourceName": "go-gost/gost",
+    "sourceUrl": "https://github.com/go-gost/gost/releases/tag/v3.2.7-nightly.20260630",
+    "project": "gost",
+    "repo": "go-gost/gost",
+    "slug": "gost",
+    "version": "3.2.7-nightly.20260630",
+    "category": "core",
+    "tags": [
+      "go-gost",
+      "golang",
+      "网络代理",
+      "核心模块"
+    ],
+    "platforms": [],
+    "importance": 3,
+    "confidence": 0.8,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-06-30T16:08:21Z",
+    "fetchedAt": "2026-06-30T20:17:23.935Z",
+    "firstSeenAt": "2026-06-30T20:17:42.977Z",
+    "updatedAt": "2026-06-30T20:17:42.977Z",
+    "hash": "3e7ef46db5af006c"
+  },
+  {
     "id": "c35ec498d8ccdcd1",
     "title": "v1.98.8",
     "summary": "Tailscale 发布了 v1.98.8 版本，具体更新内容请查看变更日志。",

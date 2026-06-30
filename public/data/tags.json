@@ -46,8 +46,8 @@
   },
   {
     "tag": "网络代理",
-    "count": 51,
-    "category": "ecosystem"
+    "count": 52,
+    "category": "core"
   },
   {
     "tag": "domain-list",
@@ -130,14 +130,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "go-gost",
+    "count": 24,
+    "category": "core"
+  },
+  {
     "tag": "HTTP/2",
     "count": 24,
     "category": "protocol"
-  },
-  {
-    "tag": "go-gost",
-    "count": 23,
-    "category": "core"
   },
   {
     "tag": "网络工具",
@@ -585,6 +585,11 @@
     "category": "protocol"
   },
   {
+    "tag": "golang",
+    "count": 4,
+    "category": "core"
+  },
+  {
     "tag": "更新",
     "count": 4,
     "category": "ecosystem"
@@ -816,11 +821,6 @@
   },
   {
     "tag": "Google Docs",
-    "count": 3,
-    "category": "core"
-  },
-  {
-    "tag": "golang",
     "count": 3,
     "category": "core"
   },
@@ -1318,6 +1318,11 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "核心模块",
+    "count": 1,
+    "category": "core"
   },
   {
     "tag": "国际化",
