@@ -1,21 +1,21 @@
 {
-  "totalItems": 817,
-  "last24h": 5,
-  "last7d": 82,
+  "totalItems": 826,
+  "last24h": 11,
+  "last7d": 88,
   "byCategory": {
     "core": 125,
-    "client": 189,
+    "client": 190,
     "router": 1,
     "protocol": 47,
     "dns_rules": 20,
-    "security": 7,
-    "ecosystem": 428,
+    "security": 8,
+    "ecosystem": 435,
     "trend": 0
   },
   "topProjects": [
     {
       "project": "domain-list-community",
-      "count": 130
+      "count": 135
     },
     {
       "project": "mihomo",
@@ -27,15 +27,15 @@
     },
     {
       "project": "metacubexd",
-      "count": 61
+      "count": 62
     },
     {
       "project": "v2ray-rules-dat",
-      "count": 61
+      "count": 62
     },
     {
       "project": "meta-rules-dat",
-      "count": 58
+      "count": 59
     },
     {
       "project": "3x-ui",
@@ -57,11 +57,11 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 203
+      "count": 205
     },
     {
       "tag": "v2fly",
-      "count": 134
+      "count": 139
     },
     {
       "tag": "mihomo",
@@ -73,31 +73,31 @@
     },
     {
       "tag": "v2ray",
-      "count": 70
+      "count": 71
     },
     {
       "tag": "domain-list-community",
-      "count": 66
+      "count": 68
     },
     {
       "tag": "meta-rules-dat",
-      "count": 58
+      "count": 59
     },
     {
       "tag": "Loyalsoldier",
-      "count": 57
+      "count": 58
     },
     {
       "tag": "metacubexd",
-      "count": 56
+      "count": 57
     },
     {
       "tag": "网络代理",
-      "count": 52
+      "count": 53
     },
     {
       "tag": "domain-list",
-      "count": 49
+      "count": 52
     },
     {
       "tag": "OpenVPN",
@@ -109,14 +109,14 @@
     },
     {
       "tag": "rules",
-      "count": 44
-    },
-    {
-      "tag": "3x-ui",
-      "count": 36
+      "count": 45
     },
     {
       "tag": "代理",
+      "count": 37
+    },
+    {
+      "tag": "3x-ui",
       "count": 36
     },
     {
@@ -124,11 +124,11 @@
       "count": 33
     },
     {
-      "tag": "代理工具",
-      "count": 31
+      "tag": "开源",
+      "count": 32
     },
     {
-      "tag": "开源",
+      "tag": "代理工具",
       "count": 31
     },
     {
@@ -136,8 +136,8 @@
       "count": 30
     }
   ],
-  "importantCount": 211,
+  "importantCount": 212,
   "breakingCount": 41,
-  "securityCount": 52,
-  "updatedAt": "2026-06-30T20:17:43.390Z"
+  "securityCount": 53,
+  "updatedAt": "2026-07-01T04:56:34.458Z"
 }

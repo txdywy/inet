@@ -1,12 +1,12 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 203,
+    "count": 205,
     "category": "client"
   },
   {
     "tag": "v2fly",
-    "count": 134,
+    "count": 139,
     "category": "ecosystem"
   },
   {
@@ -21,38 +21,38 @@
   },
   {
     "tag": "v2ray",
-    "count": 70,
+    "count": 71,
     "category": "ecosystem"
   },
   {
     "tag": "domain-list-community",
-    "count": 66,
+    "count": 68,
     "category": "ecosystem"
   },
   {
     "tag": "meta-rules-dat",
-    "count": 58,
+    "count": 59,
     "category": "ecosystem"
   },
   {
     "tag": "Loyalsoldier",
-    "count": 57,
+    "count": 58,
     "category": "ecosystem"
   },
   {
     "tag": "metacubexd",
-    "count": 56,
+    "count": 57,
     "category": "client"
   },
   {
     "tag": "网络代理",
-    "count": 52,
-    "category": "core"
+    "count": 53,
+    "category": "ecosystem"
   },
   {
     "tag": "domain-list",
-    "count": 49,
-    "category": "dns_rules"
+    "count": 52,
+    "category": "ecosystem"
   },
   {
     "tag": "OpenVPN",
@@ -66,8 +66,13 @@
   },
   {
     "tag": "rules",
-    "count": 44,
+    "count": 45,
     "category": "ecosystem"
+  },
+  {
+    "tag": "代理",
+    "count": 37,
+    "category": "client"
   },
   {
     "tag": "3x-ui",
@@ -75,24 +80,19 @@
     "category": "core"
   },
   {
-    "tag": "代理",
-    "count": 36,
-    "category": "client"
-  },
-  {
     "tag": "sing-box",
     "count": 33,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "开源",
+    "count": 32,
     "category": "ecosystem"
   },
   {
     "tag": "代理工具",
     "count": 31,
     "category": "core"
-  },
-  {
-    "tag": "开源",
-    "count": 31,
-    "category": "ecosystem"
   },
   {
     "tag": "ClashMetaForAndroid",
@@ -141,7 +141,7 @@
   },
   {
     "tag": "网络工具",
-    "count": 22,
+    "count": 23,
     "category": "ecosystem"
   },
   {
@@ -245,6 +245,11 @@
     "category": "core"
   },
   {
+    "tag": "OpenWrt",
+    "count": 11,
+    "category": "security"
+  },
+  {
     "tag": "网络规则",
     "count": 11,
     "category": "ecosystem"
@@ -267,11 +272,6 @@
   {
     "tag": "SUDOKU-ASCII",
     "count": 11,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "OpenWrt",
-    "count": 10,
     "category": "ecosystem"
   },
   {
@@ -307,6 +307,16 @@
   {
     "tag": "sudoku",
     "count": 10,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "中国域名",
+    "count": 9,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "域名列表",
+    "count": 9,
     "category": "ecosystem"
   },
   {
@@ -370,11 +380,6 @@
     "category": "client"
   },
   {
-    "tag": "域名列表",
-    "count": 8,
-    "category": "ecosystem"
-  },
-  {
     "tag": "预发布",
     "count": 8,
     "category": "client"
@@ -416,11 +421,6 @@
   },
   {
     "tag": "网络优化",
-    "count": 7,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "中国域名",
     "count": 7,
     "category": "ecosystem"
   },
@@ -505,6 +505,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "安全修复",
+    "count": 5,
+    "category": "security"
+  },
+  {
     "tag": "quic-go",
     "count": 5,
     "category": "client"
@@ -585,6 +590,11 @@
     "category": "protocol"
   },
   {
+    "tag": "CVE",
+    "count": 4,
+    "category": "security"
+  },
+  {
     "tag": "golang",
     "count": 4,
     "category": "core"
@@ -623,11 +633,6 @@
     "tag": "功能增强",
     "count": 4,
     "category": "client"
-  },
-  {
-    "tag": "安全修复",
-    "count": 4,
-    "category": "security"
   },
   {
     "tag": "证书验证",
@@ -823,11 +828,6 @@
     "tag": "Google Docs",
     "count": 3,
     "category": "core"
-  },
-  {
-    "tag": "CVE",
-    "count": 3,
-    "category": "router"
   },
   {
     "tag": "NAT",
@@ -1317,6 +1317,31 @@
   {
     "tag": "Quantumult X",
     "count": 2,
+    "category": "security"
+  },
+  {
+    "tag": "netlify",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "金融服务",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "粘性组头",
+    "count": 1,
+    "category": "client"
+  },
+  {
+    "tag": "odhcpd",
+    "count": 1,
+    "category": "security"
+  },
+  {
+    "tag": "uhttpd",
+    "count": 1,
     "category": "security"
   },
   {
