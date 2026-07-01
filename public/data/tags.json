@@ -1,8 +1,8 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 206,
-    "category": "core"
+    "count": 208,
+    "category": "ecosystem"
   },
   {
     "tag": "v2fly",
@@ -11,13 +11,13 @@
   },
   {
     "tag": "mihomo",
-    "count": 92,
+    "count": 93,
     "category": "ecosystem"
   },
   {
     "tag": "Sub-Store",
-    "count": 84,
-    "category": "dns_rules"
+    "count": 86,
+    "category": "client"
   },
   {
     "tag": "v2ray",
@@ -30,14 +30,14 @@
     "category": "ecosystem"
   },
   {
-    "tag": "meta-rules-dat",
+    "tag": "metacubexd",
     "count": 59,
     "category": "ecosystem"
   },
   {
-    "tag": "metacubexd",
-    "count": 58,
-    "category": "core"
+    "tag": "meta-rules-dat",
+    "count": 59,
+    "category": "ecosystem"
   },
   {
     "tag": "Loyalsoldier",
@@ -56,7 +56,7 @@
   },
   {
     "tag": "OpenVPN",
-    "count": 47,
+    "count": 48,
     "category": "core"
   },
   {
@@ -76,7 +76,7 @@
   },
   {
     "tag": "3x-ui",
-    "count": 36,
+    "count": 37,
     "category": "core"
   },
   {
@@ -85,14 +85,14 @@
     "category": "ecosystem"
   },
   {
-    "tag": "开源",
+    "tag": "代理工具",
     "count": 32,
     "category": "ecosystem"
   },
   {
-    "tag": "代理工具",
-    "count": 31,
-    "category": "core"
+    "tag": "开源",
+    "count": 32,
+    "category": "ecosystem"
   },
   {
     "tag": "ClashMetaForAndroid",
@@ -151,8 +151,13 @@
   },
   {
     "tag": "xhttp-opts",
+    "count": 22,
+    "category": "client"
+  },
+  {
+    "tag": "Snell",
     "count": 21,
-    "category": "ecosystem"
+    "category": "client"
   },
   {
     "tag": "v2rayN",
@@ -163,11 +168,6 @@
     "tag": "QUIC",
     "count": 19,
     "category": "client"
-  },
-  {
-    "tag": "Snell",
-    "count": 19,
-    "category": "protocol"
   },
   {
     "tag": "CHACHA20-POLY1305",
@@ -200,24 +200,24 @@
     "category": "ecosystem"
   },
   {
+    "tag": "开发版本",
+    "count": 17,
+    "category": "ecosystem"
+  },
+  {
     "tag": "v2rayNG",
     "count": 17,
     "category": "client"
   },
   {
-    "tag": "开发版本",
-    "count": 16,
-    "category": "ecosystem"
+    "tag": "rematch",
+    "count": 17,
+    "category": "client"
   },
   {
     "tag": "macOS",
     "count": 16,
     "category": "client"
-  },
-  {
-    "tag": "rematch",
-    "count": 16,
-    "category": "ecosystem"
   },
   {
     "tag": "VPN",
@@ -275,6 +275,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "bugfix",
+    "count": 10,
+    "category": "client"
+  },
+  {
     "tag": "WireGuard",
     "count": 10,
     "category": "core"
@@ -288,6 +293,11 @@
     "tag": "xray",
     "count": 10,
     "category": "client"
+  },
+  {
+    "tag": "自动化构建",
+    "count": 10,
+    "category": "ecosystem"
   },
   {
     "tag": "Surge",
@@ -328,16 +338,6 @@
     "tag": "bug修复",
     "count": 9,
     "category": "ecosystem"
-  },
-  {
-    "tag": "自动化构建",
-    "count": 9,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "bugfix",
-    "count": 9,
-    "category": "client"
   },
   {
     "tag": "性能优化",
@@ -1323,6 +1323,21 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "仪表控制台",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "认证错误诊断",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "Shadow-TLS",
+    "count": 1,
+    "category": "ecosystem"
   },
   {
     "tag": "netlify",
