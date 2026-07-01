@@ -1,5 +1,38 @@
 [
   {
+    "id": "75371d26ed75f532",
+    "title": "v1.264.3",
+    "summary": "MetaCubeX/metacubexd 发布了 v1.264.3 版本，主要修复了代理的内核就绪检测问题。",
+    "analysis": "此次更新主要修复了代理在检测内核就绪状态时的一个问题，具体是将轮询的目标从 0.0.0.0 绑定主机改为回环地址。这一改动对于确保代理能够正确识别内核状态至关重要，可能会影响到系统的稳定性和性能。对于用户而言，这意味着在使用代理时，内核就绪的检测将更加准确，从而提升了整体的使用体验。开发者也应关注这一修复，以确保在后续开发中不会再遇到类似问题。此次更新没有涉及协议变化，因此兼容性风险较低，建议用户尽快更新以获得更好的性能和稳定性。",
+    "rawTitle": "v1.264.3",
+    "rawBody": "## [1.264.3](https://github.com/MetaCubeX/metacubexd/compare/v1.264.2...v1.264.3) (2026-07-01)\n\n\n### Bug Fixes\n\n* **agent:** poll loopback, not the 0.0.0.0 bind host, for kernel readiness ([9153075](https://github.com/MetaCubeX/metacubexd/commit/9153075389bbcd9abfb02cdd9f630cf81bb336d8)), closes [#2098](https://github.com/MetaCubeX/metacubexd/issues/2098)",
+    "sourceType": "github_release",
+    "sourceName": "MetaCubeX/metacubexd",
+    "sourceUrl": "https://github.com/MetaCubeX/metacubexd/releases/tag/v1.264.3",
+    "project": "metacubexd",
+    "repo": "MetaCubeX/metacubexd",
+    "slug": "metacubexd",
+    "version": "1.264.3",
+    "category": "core",
+    "tags": [
+      "MetaCubeX",
+      "metacubexd",
+      "代理",
+      "内核"
+    ],
+    "platforms": [],
+    "importance": 3,
+    "confidence": 0.9,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-07-01T05:56:07Z",
+    "fetchedAt": "2026-07-01T10:17:01.160Z",
+    "firstSeenAt": "2026-07-01T10:17:09.273Z",
+    "updatedAt": "2026-07-01T10:17:09.273Z",
+    "hash": "75371d26ed75f532"
+  },
+  {
     "id": "3be5b4ffa1a989fd",
     "title": "20260701035519",
     "summary": "本次更新新增了多个域名，提升了域名列表的丰富性和实用性。",

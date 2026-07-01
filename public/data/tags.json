@@ -1,8 +1,8 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 205,
-    "category": "client"
+    "count": 206,
+    "category": "core"
   },
   {
     "tag": "v2fly",
@@ -35,14 +35,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "metacubexd",
+    "count": 58,
+    "category": "core"
+  },
+  {
     "tag": "Loyalsoldier",
     "count": 58,
     "category": "ecosystem"
-  },
-  {
-    "tag": "metacubexd",
-    "count": 57,
-    "category": "client"
   },
   {
     "tag": "网络代理",
@@ -71,8 +71,8 @@
   },
   {
     "tag": "代理",
-    "count": 37,
-    "category": "client"
+    "count": 38,
+    "category": "core"
   },
   {
     "tag": "3x-ui",
@@ -883,6 +883,11 @@
     "tag": "protocol",
     "count": 3,
     "category": "protocol"
+  },
+  {
+    "tag": "内核",
+    "count": 2,
+    "category": "core"
   },
   {
     "tag": "i18n",
@@ -3236,11 +3241,6 @@
   },
   {
     "tag": "Meta-XD",
-    "count": 1,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "内核",
     "count": 1,
     "category": "ecosystem"
   },

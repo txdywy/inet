@@ -1,9 +1,9 @@
 {
-  "totalItems": 826,
-  "last24h": 11,
+  "totalItems": 827,
+  "last24h": 12,
   "last7d": 88,
   "byCategory": {
-    "core": 125,
+    "core": 126,
     "client": 190,
     "router": 1,
     "protocol": 47,
@@ -27,7 +27,7 @@
     },
     {
       "project": "metacubexd",
-      "count": 62
+      "count": 63
     },
     {
       "project": "v2ray-rules-dat",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 205
+      "count": 206
     },
     {
       "tag": "v2fly",
@@ -84,12 +84,12 @@
       "count": 59
     },
     {
-      "tag": "Loyalsoldier",
+      "tag": "metacubexd",
       "count": 58
     },
     {
-      "tag": "metacubexd",
-      "count": 57
+      "tag": "Loyalsoldier",
+      "count": 58
     },
     {
       "tag": "网络代理",
@@ -113,7 +113,7 @@
     },
     {
       "tag": "代理",
-      "count": 37
+      "count": 38
     },
     {
       "tag": "3x-ui",
@@ -139,5 +139,5 @@
   "importantCount": 212,
   "breakingCount": 41,
   "securityCount": 53,
-  "updatedAt": "2026-07-01T04:56:34.458Z"
+  "updatedAt": "2026-07-01T10:17:09.726Z"
 }
