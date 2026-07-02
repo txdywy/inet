@@ -76,7 +76,7 @@
   },
   {
     "tag": "3x-ui",
-    "count": 37,
+    "count": 38,
     "category": "core"
   },
   {
@@ -180,6 +180,11 @@
     "category": "core"
   },
   {
+    "tag": "开发版本",
+    "count": 18,
+    "category": "ecosystem"
+  },
+  {
     "tag": "Xray",
     "count": 18,
     "category": "core"
@@ -196,11 +201,6 @@
   },
   {
     "tag": "依赖更新",
-    "count": 17,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "开发版本",
     "count": 17,
     "category": "ecosystem"
   },
@@ -270,6 +270,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "自动化构建",
+    "count": 11,
+    "category": "ecosystem"
+  },
+  {
     "tag": "SUDOKU-ASCII",
     "count": 11,
     "category": "ecosystem"
@@ -293,11 +298,6 @@
     "tag": "xray",
     "count": 10,
     "category": "client"
-  },
-  {
-    "tag": "自动化构建",
-    "count": 10,
-    "category": "ecosystem"
   },
   {
     "tag": "Surge",
