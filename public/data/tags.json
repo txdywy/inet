@@ -1,17 +1,17 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 210,
+    "count": 211,
     "category": "ecosystem"
   },
   {
     "tag": "v2fly",
-    "count": 139,
+    "count": 144,
     "category": "ecosystem"
   },
   {
     "tag": "mihomo",
-    "count": 94,
+    "count": 95,
     "category": "ecosystem"
   },
   {
@@ -26,7 +26,7 @@
   },
   {
     "tag": "domain-list-community",
-    "count": 68,
+    "count": 71,
     "category": "ecosystem"
   },
   {
@@ -45,18 +45,18 @@
     "category": "ecosystem"
   },
   {
+    "tag": "domain-list",
+    "count": 54,
+    "category": "dns_rules"
+  },
+  {
     "tag": "网络代理",
     "count": 53,
     "category": "ecosystem"
   },
   {
-    "tag": "domain-list",
-    "count": 52,
-    "category": "ecosystem"
-  },
-  {
     "tag": "OpenVPN",
-    "count": 49,
+    "count": 50,
     "category": "core"
   },
   {
@@ -70,12 +70,12 @@
     "category": "client"
   },
   {
-    "tag": "代理",
-    "count": 38,
+    "tag": "3x-ui",
+    "count": 39,
     "category": "core"
   },
   {
-    "tag": "3x-ui",
+    "tag": "代理",
     "count": 38,
     "category": "core"
   },
@@ -140,12 +140,12 @@
     "category": "protocol"
   },
   {
-    "tag": "网络工具",
-    "count": 23,
+    "tag": "xhttp-opts",
+    "count": 24,
     "category": "ecosystem"
   },
   {
-    "tag": "xhttp-opts",
+    "tag": "网络工具",
     "count": 23,
     "category": "ecosystem"
   },
@@ -165,6 +165,11 @@
     "category": "client"
   },
   {
+    "tag": "开发版本",
+    "count": 19,
+    "category": "ecosystem"
+  },
+  {
     "tag": "QUIC",
     "count": 19,
     "category": "client"
@@ -180,14 +185,14 @@
     "category": "core"
   },
   {
-    "tag": "开发版本",
-    "count": 18,
-    "category": "ecosystem"
-  },
-  {
     "tag": "Xray",
     "count": 18,
     "category": "core"
+  },
+  {
+    "tag": "rematch",
+    "count": 18,
+    "category": "ecosystem"
   },
   {
     "tag": "用户界面",
@@ -206,11 +211,6 @@
   },
   {
     "tag": "v2rayNG",
-    "count": 17,
-    "category": "client"
-  },
-  {
-    "tag": "rematch",
     "count": 17,
     "category": "client"
   },
@@ -240,6 +240,16 @@
     "category": "client"
   },
   {
+    "tag": "v2rayA",
+    "count": 12,
+    "category": "security"
+  },
+  {
+    "tag": "自动化构建",
+    "count": 12,
+    "category": "ecosystem"
+  },
+  {
     "tag": "naiveproxy",
     "count": 12,
     "category": "core"
@@ -255,22 +265,12 @@
     "category": "ecosystem"
   },
   {
-    "tag": "v2rayA",
-    "count": 11,
-    "category": "ecosystem"
-  },
-  {
     "tag": "Clash",
     "count": 11,
     "category": "ecosystem"
   },
   {
     "tag": "HTTP",
-    "count": 11,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "自动化构建",
     "count": 11,
     "category": "ecosystem"
   },
@@ -365,6 +365,16 @@
     "category": "ecosystem"
   },
   {
+    "tag": "proxy",
+    "count": 8,
+    "category": "security"
+  },
+  {
+    "tag": "dns",
+    "count": 8,
+    "category": "dns_rules"
+  },
+  {
     "tag": "域名解析",
     "count": 8,
     "category": "dns_rules"
@@ -410,11 +420,6 @@
     "category": "client"
   },
   {
-    "tag": "proxy",
-    "count": 7,
-    "category": "ecosystem"
-  },
-  {
     "tag": "加密",
     "count": 7,
     "category": "ecosystem"
@@ -423,11 +428,6 @@
     "tag": "网络优化",
     "count": 7,
     "category": "ecosystem"
-  },
-  {
-    "tag": "dns",
-    "count": 7,
-    "category": "dns_rules"
   },
   {
     "tag": "gRPC",
@@ -448,6 +448,11 @@
     "tag": "shadowsocks",
     "count": 7,
     "category": "ecosystem"
+  },
+  {
+    "tag": "网络安全",
+    "count": 6,
+    "category": "security"
   },
   {
     "tag": "Shadowrocket",
@@ -526,11 +531,6 @@
   },
   {
     "tag": "age",
-    "count": 5,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "网络安全",
     "count": 5,
     "category": "ecosystem"
   },
@@ -678,6 +678,11 @@
     "tag": "nekoray",
     "count": 4,
     "category": "client"
+  },
+  {
+    "tag": "域名管理",
+    "count": 3,
+    "category": "ecosystem"
   },
   {
     "tag": "helloworld",
@@ -885,6 +890,16 @@
     "category": "protocol"
   },
   {
+    "tag": "俄罗斯域名",
+    "count": 2,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "openai",
+    "count": 2,
+    "category": "ecosystem"
+  },
+  {
     "tag": "内核",
     "count": 2,
     "category": "core"
@@ -981,11 +996,6 @@
   },
   {
     "tag": "GOG",
-    "count": 2,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "域名管理",
     "count": 2,
     "category": "ecosystem"
   },
@@ -1323,6 +1333,11 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "网络生态",
+    "count": 1,
+    "category": "ecosystem"
   },
   {
     "tag": "仪表控制台",
@@ -1940,11 +1955,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "openai",
-    "count": 1,
-    "category": "ecosystem"
-  },
-  {
     "tag": "polyfill",
     "count": 1,
     "category": "client"
@@ -2348,11 +2358,6 @@
     "tag": "网络测试",
     "count": 1,
     "category": "core"
-  },
-  {
-    "tag": "俄罗斯域名",
-    "count": 1,
-    "category": "ecosystem"
   },
   {
     "tag": "Teamspeak",
