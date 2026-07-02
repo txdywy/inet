@@ -1,7 +1,7 @@
 {
-  "totalItems": 832,
-  "last24h": 13,
-  "last7d": 73,
+  "totalItems": 835,
+  "last24h": 6,
+  "last7d": 71,
   "byCategory": {
     "core": 126,
     "client": 192,
@@ -9,7 +9,7 @@
     "protocol": 47,
     "dns_rules": 20,
     "security": 8,
-    "ecosystem": 438,
+    "ecosystem": 441,
     "trend": 0
   },
   "topProjects": [
@@ -18,11 +18,11 @@
       "count": 135
     },
     {
-      "project": "Sub-Store",
-      "count": 86
+      "project": "mihomo",
+      "count": 87
     },
     {
-      "project": "mihomo",
+      "project": "Sub-Store",
       "count": 86
     },
     {
@@ -31,11 +31,11 @@
     },
     {
       "project": "v2ray-rules-dat",
-      "count": 62
+      "count": 63
     },
     {
       "project": "meta-rules-dat",
-      "count": 59
+      "count": 60
     },
     {
       "project": "3x-ui",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 208
+      "count": 210
     },
     {
       "tag": "v2fly",
@@ -65,7 +65,7 @@
     },
     {
       "tag": "mihomo",
-      "count": 93
+      "count": 94
     },
     {
       "tag": "Sub-Store",
@@ -73,23 +73,23 @@
     },
     {
       "tag": "v2ray",
-      "count": 71
+      "count": 72
     },
     {
       "tag": "domain-list-community",
       "count": 68
     },
     {
-      "tag": "metacubexd",
-      "count": 59
-    },
-    {
       "tag": "meta-rules-dat",
-      "count": 59
+      "count": 60
     },
     {
       "tag": "Loyalsoldier",
-      "count": 58
+      "count": 59
+    },
+    {
+      "tag": "metacubexd",
+      "count": 59
     },
     {
       "tag": "网络代理",
@@ -101,15 +101,15 @@
     },
     {
       "tag": "OpenVPN",
-      "count": 48
+      "count": 49
+    },
+    {
+      "tag": "rules",
+      "count": 46
     },
     {
       "tag": "Android",
       "count": 46
-    },
-    {
-      "tag": "rules",
-      "count": 45
     },
     {
       "tag": "代理",
@@ -139,5 +139,5 @@
   "importantCount": 212,
   "breakingCount": 41,
   "securityCount": 53,
-  "updatedAt": "2026-07-01T20:11:05.164Z"
+  "updatedAt": "2026-07-02T04:32:55.252Z"
 }

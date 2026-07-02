@@ -1,7 +1,7 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 208,
+    "count": 210,
     "category": "ecosystem"
   },
   {
@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 93,
+    "count": 94,
     "category": "ecosystem"
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "tag": "v2ray",
-    "count": 71,
+    "count": 72,
     "category": "ecosystem"
   },
   {
@@ -30,18 +30,18 @@
     "category": "ecosystem"
   },
   {
-    "tag": "metacubexd",
-    "count": 59,
-    "category": "ecosystem"
-  },
-  {
     "tag": "meta-rules-dat",
-    "count": 59,
+    "count": 60,
     "category": "ecosystem"
   },
   {
     "tag": "Loyalsoldier",
-    "count": 58,
+    "count": 59,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "metacubexd",
+    "count": 59,
     "category": "ecosystem"
   },
   {
@@ -56,18 +56,18 @@
   },
   {
     "tag": "OpenVPN",
-    "count": 48,
+    "count": 49,
     "category": "core"
+  },
+  {
+    "tag": "rules",
+    "count": 46,
+    "category": "ecosystem"
   },
   {
     "tag": "Android",
     "count": 46,
     "category": "client"
-  },
-  {
-    "tag": "rules",
-    "count": 45,
-    "category": "ecosystem"
   },
   {
     "tag": "代理",
@@ -100,14 +100,14 @@
     "category": "client"
   },
   {
+    "tag": "dat",
+    "count": 29,
+    "category": "ecosystem"
+  },
+  {
     "tag": "Windows",
     "count": 29,
     "category": "client"
-  },
-  {
-    "tag": "dat",
-    "count": 28,
-    "category": "ecosystem"
   },
   {
     "tag": "Linux",
@@ -145,19 +145,19 @@
     "category": "ecosystem"
   },
   {
-    "tag": "VLESS",
-    "count": 22,
+    "tag": "xhttp-opts",
+    "count": 23,
     "category": "ecosystem"
   },
   {
-    "tag": "xhttp-opts",
+    "tag": "Snell",
     "count": 22,
     "category": "client"
   },
   {
-    "tag": "Snell",
-    "count": 21,
-    "category": "client"
+    "tag": "VLESS",
+    "count": 22,
+    "category": "ecosystem"
   },
   {
     "tag": "v2rayN",
