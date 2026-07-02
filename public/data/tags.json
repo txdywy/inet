@@ -1,7 +1,7 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 211,
+    "count": 212,
     "category": "ecosystem"
   },
   {
@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 95,
+    "count": 96,
     "category": "ecosystem"
   },
   {
@@ -56,7 +56,7 @@
   },
   {
     "tag": "OpenVPN",
-    "count": 50,
+    "count": 51,
     "category": "core"
   },
   {
@@ -71,7 +71,7 @@
   },
   {
     "tag": "3x-ui",
-    "count": 39,
+    "count": 40,
     "category": "core"
   },
   {
@@ -125,24 +125,24 @@
     "category": "core"
   },
   {
+    "tag": "go-gost",
+    "count": 25,
+    "category": "core"
+  },
+  {
     "tag": "SagerNet",
     "count": 25,
     "category": "ecosystem"
   },
   {
-    "tag": "go-gost",
-    "count": 24,
-    "category": "core"
+    "tag": "xhttp-opts",
+    "count": 25,
+    "category": "ecosystem"
   },
   {
     "tag": "HTTP/2",
     "count": 24,
     "category": "protocol"
-  },
-  {
-    "tag": "xhttp-opts",
-    "count": 24,
-    "category": "ecosystem"
   },
   {
     "tag": "网络工具",
@@ -166,7 +166,7 @@
   },
   {
     "tag": "开发版本",
-    "count": 19,
+    "count": 20,
     "category": "ecosystem"
   },
   {
@@ -340,6 +340,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "自动构建",
+    "count": 9,
+    "category": "ecosystem"
+  },
+  {
     "tag": "性能优化",
     "count": 9,
     "category": "client"
@@ -378,11 +383,6 @@
     "tag": "域名解析",
     "count": 8,
     "category": "dns_rules"
-  },
-  {
-    "tag": "自动构建",
-    "count": 8,
-    "category": "ecosystem"
   },
   {
     "tag": "快捷方式",
@@ -590,6 +590,11 @@
     "category": "protocol"
   },
   {
+    "tag": "go-gost/x",
+    "count": 4,
+    "category": "core"
+  },
+  {
     "tag": "CVE",
     "count": 4,
     "category": "security"
@@ -680,6 +685,16 @@
     "category": "client"
   },
   {
+    "tag": "mieru",
+    "count": 4,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "依赖库",
+    "count": 3,
+    "category": "core"
+  },
+  {
     "tag": "域名管理",
     "count": 3,
     "category": "ecosystem"
@@ -698,11 +713,6 @@
     "tag": "分类更新",
     "count": 3,
     "category": "ecosystem"
-  },
-  {
-    "tag": "go-gost/x",
-    "count": 3,
-    "category": "core"
   },
   {
     "tag": "ShadowsocksR",
@@ -878,11 +888,6 @@
     "tag": "NekoBoxForAndroid",
     "count": 3,
     "category": "client"
-  },
-  {
-    "tag": "mieru",
-    "count": 3,
-    "category": "core"
   },
   {
     "tag": "protocol",
@@ -1135,11 +1140,6 @@
     "category": "client"
   },
   {
-    "tag": "依赖库",
-    "count": 2,
-    "category": "core"
-  },
-  {
     "tag": "x",
     "count": 2,
     "category": "core"
@@ -1333,6 +1333,11 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "版本更新",
+    "count": 1,
+    "category": "core"
   },
   {
     "tag": "网络生态",
