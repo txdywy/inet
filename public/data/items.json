@@ -2760,6 +2760,38 @@
     "hash": "e54a070ca4e6a5bf"
   },
   {
+    "id": "a14b14793e952e06",
+    "title": "Dev build 5c725df7",
+    "summary": "MHSanaei/3x-ui 发布了开发版本 5c725df7，供开发者通过面板的开发更新通道安装。",
+    "analysis": "此次更新为 MHSanaei/3x-ui 提供了一个自动化的开发版本，版本号为 5c725df7，构建时间为 2026 年 7 月 3 日。该版本并非稳定版本，主要面向开发者进行测试和反馈。开发版本的发布对于开发者而言非常重要，因为它允许他们提前体验新功能和修复，同时也能帮助开发团队发现潜在问题。由于这是一个开发版本，用户在使用时需要注意可能存在的不稳定性和兼容性风险。建议对生产环境的用户谨慎使用，优先选择稳定版本。此更新与项目的开发进程密切相关，但并未涉及协议或安全性方面的重大变化，因此风险相对较低。",
+    "rawTitle": "Dev build 5c725df7",
+    "rawBody": "Rolling development build — installs via the panel's Dev update channel.\n\ncommit=5c725df7020cb253c7a0960ac6e297c22edba4c4\nbuilt=2026-07-03T08:25:27Z\n\nAutomated per-commit build from main. Not a stable release.",
+    "sourceType": "github_release",
+    "sourceName": "MHSanaei/3x-ui",
+    "sourceUrl": "https://github.com/MHSanaei/3x-ui/releases/tag/dev-latest",
+    "project": "3x-ui",
+    "repo": "MHSanaei/3x-ui",
+    "slug": "3x-ui",
+    "version": "dev-latest",
+    "category": "ecosystem",
+    "tags": [
+      "3x-ui",
+      "开发版本",
+      "自动化构建"
+    ],
+    "platforms": [],
+    "importance": 3,
+    "confidence": 0.9,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-06-24T16:17:06Z",
+    "fetchedAt": "2026-07-03T09:37:31.182Z",
+    "firstSeenAt": "2026-07-03T09:37:39.287Z",
+    "updatedAt": "2026-07-03T09:37:39.287Z",
+    "hash": "a14b14793e952e06"
+  },
+  {
     "id": "caba4d9c6a2d2e33",
     "title": "Dev build f90e4a69",
     "summary": "MHSanaei/3x-ui 发布了一个开发版本，供用户通过面板的开发更新频道安装。",

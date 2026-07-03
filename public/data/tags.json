@@ -71,7 +71,7 @@
   },
   {
     "tag": "3x-ui",
-    "count": 41,
+    "count": 42,
     "category": "core"
   },
   {
@@ -161,7 +161,7 @@
   },
   {
     "tag": "开发版本",
-    "count": 21,
+    "count": 22,
     "category": "ecosystem"
   },
   {
@@ -230,6 +230,11 @@
     "category": "protocol"
   },
   {
+    "tag": "自动化构建",
+    "count": 13,
+    "category": "ecosystem"
+  },
+  {
     "tag": "TLS",
     "count": 13,
     "category": "protocol"
@@ -243,11 +248,6 @@
     "tag": "v2rayA",
     "count": 12,
     "category": "security"
-  },
-  {
-    "tag": "自动化构建",
-    "count": 12,
-    "category": "ecosystem"
   },
   {
     "tag": "naiveproxy",

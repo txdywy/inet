@@ -1,7 +1,7 @@
 {
-  "totalItems": 851,
+  "totalItems": 852,
   "last24h": 9,
-  "last7d": 70,
+  "last7d": 68,
   "byCategory": {
     "core": 128,
     "client": 192,
@@ -9,7 +9,7 @@
     "protocol": 47,
     "dns_rules": 21,
     "security": 9,
-    "ecosystem": 453,
+    "ecosystem": 454,
     "trend": 0
   },
   "topProjects": [
@@ -39,7 +39,7 @@
     },
     {
       "project": "3x-ui",
-      "count": 41
+      "count": 42
     },
     {
       "project": "ClashMetaForAndroid",
@@ -113,7 +113,7 @@
     },
     {
       "tag": "3x-ui",
-      "count": 41
+      "count": 42
     },
     {
       "tag": "代理",
@@ -139,5 +139,5 @@
   "importantCount": 213,
   "breakingCount": 41,
   "securityCount": 54,
-  "updatedAt": "2026-07-03T04:11:51.095Z"
+  "updatedAt": "2026-07-03T09:37:39.730Z"
 }
