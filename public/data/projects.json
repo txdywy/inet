@@ -131,6 +131,22 @@
     ]
   },
   {
+    "slug": "gost",
+    "name": "gost",
+    "repo": "go-gost/gost",
+    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
+    "category": "core",
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "tags": [
+      "gost",
+      "tunnel"
+    ]
+  },
+  {
     "slug": "sing-box",
     "name": "sing-box",
     "repo": "SagerNet/sing-box",
@@ -148,22 +164,6 @@
       "vless",
       "hysteria2",
       "tuic"
-    ]
-  },
-  {
-    "slug": "gost",
-    "name": "gost",
-    "repo": "go-gost/gost",
-    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
-    "category": "core",
-    "platforms": [
-      "linux",
-      "windows",
-      "macos"
-    ],
-    "tags": [
-      "gost",
-      "tunnel"
     ]
   },
   {

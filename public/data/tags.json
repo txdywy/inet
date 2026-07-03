@@ -125,13 +125,13 @@
     "category": "core"
   },
   {
-    "tag": "网络协议",
+    "tag": "go-gost",
     "count": 26,
     "category": "core"
   },
   {
-    "tag": "go-gost",
-    "count": 25,
+    "tag": "网络协议",
+    "count": 26,
     "category": "core"
   },
   {
@@ -595,6 +595,11 @@
     "category": "protocol"
   },
   {
+    "tag": "gost",
+    "count": 4,
+    "category": "core"
+  },
+  {
     "tag": "go-gost/x",
     "count": 4,
     "category": "core"
@@ -745,11 +750,6 @@
     "category": "client"
   },
   {
-    "tag": "gost",
-    "count": 3,
-    "category": "ecosystem"
-  },
-  {
     "tag": "文件路由",
     "count": 3,
     "category": "ecosystem"
@@ -893,6 +893,11 @@
     "tag": "protocol",
     "count": 3,
     "category": "protocol"
+  },
+  {
+    "tag": "core",
+    "count": 2,
+    "category": "core"
   },
   {
     "tag": "重基",
@@ -1338,6 +1343,11 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "library",
+    "count": 1,
+    "category": "core"
   },
   {
     "tag": "代码优化",
@@ -2128,11 +2138,6 @@
     "tag": "后端请求",
     "count": 1,
     "category": "ecosystem"
-  },
-  {
-    "tag": "core",
-    "count": 1,
-    "category": "core"
   },
   {
     "tag": "firefox",

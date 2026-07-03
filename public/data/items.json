@@ -1,5 +1,38 @@
 [
   {
+    "id": "231472ca58ce2272",
+    "title": "v3.2.7-nightly.20260703",
+    "summary": "go-gost项目发布了v3.2.7-nightly.20260703版本，主要更新了核心库和扩展库的版本。",
+    "analysis": "此次更新主要是将核心库版本提升至v0.5.3，以及扩展库版本提升至v0.13.7。这种版本更新通常是为了修复已知问题、提升性能或增加新特性。对于开发者而言，使用更新后的库可以确保更好的兼容性和性能优化，同时也可能包含一些安全修复。虽然此次更新没有明确提到破坏性变更，但在使用新版本时仍需注意与现有代码的兼容性，特别是如果项目依赖于特定的库版本。建议开发者关注更新内容，并在适当时机进行版本升级，以保持项目的稳定性和安全性。",
+    "rawTitle": "v3.2.7-nightly.20260703",
+    "rawBody": "## Changelog\n* eb9dbb180740bb874bf82dbea86ca7b848100137 chore: bump core to v0.5.3 and x to v0.13.7\n\n",
+    "sourceType": "github_release",
+    "sourceName": "go-gost/gost",
+    "sourceUrl": "https://github.com/go-gost/gost/releases/tag/v3.2.7-nightly.20260703",
+    "project": "gost",
+    "repo": "go-gost/gost",
+    "slug": "gost",
+    "version": "3.2.7-nightly.20260703",
+    "category": "core",
+    "tags": [
+      "go-gost",
+      "gost",
+      "core",
+      "library"
+    ],
+    "platforms": [],
+    "importance": 3,
+    "confidence": 0.9,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-07-03T15:57:46Z",
+    "fetchedAt": "2026-07-03T19:46:44.915Z",
+    "firstSeenAt": "2026-07-03T19:47:00.968Z",
+    "updatedAt": "2026-07-03T19:47:00.968Z",
+    "hash": "231472ca58ce2272"
+  },
+  {
     "id": "e3d6dd01a1a6d75d",
     "title": "v150.0.7871.63-1",
     "summary": "naiveproxy 更新至版本 v150.0.7871.63-1，进行了代码重基。",

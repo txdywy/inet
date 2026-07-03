@@ -1,9 +1,9 @@
 {
-  "totalItems": 854,
+  "totalItems": 855,
   "last24h": 4,
-  "last7d": 67,
+  "last7d": 66,
   "byCategory": {
-    "core": 130,
+    "core": 131,
     "client": 192,
     "router": 1,
     "protocol": 47,
@@ -47,7 +47,7 @@
     },
     {
       "project": "gost",
-      "count": 25
+      "count": 26
     },
     {
       "project": "sing-box",
@@ -139,5 +139,5 @@
   "importantCount": 213,
   "breakingCount": 41,
   "securityCount": 54,
-  "updatedAt": "2026-07-03T14:33:41.308Z"
+  "updatedAt": "2026-07-03T19:47:01.405Z"
 }
