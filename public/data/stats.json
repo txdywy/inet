@@ -1,15 +1,15 @@
 {
-  "totalItems": 847,
+  "totalItems": 851,
   "last24h": 9,
-  "last7d": 73,
+  "last7d": 70,
   "byCategory": {
-    "core": 127,
+    "core": 128,
     "client": 192,
     "router": 1,
     "protocol": 47,
     "dns_rules": 21,
     "security": 9,
-    "ecosystem": 450,
+    "ecosystem": 453,
     "trend": 0
   },
   "topProjects": [
@@ -19,27 +19,27 @@
     },
     {
       "project": "mihomo",
-      "count": 89
+      "count": 90
     },
     {
       "project": "Sub-Store",
       "count": 86
     },
     {
+      "project": "v2ray-rules-dat",
+      "count": 64
+    },
+    {
       "project": "metacubexd",
       "count": 64
     },
     {
-      "project": "v2ray-rules-dat",
-      "count": 63
-    },
-    {
       "project": "meta-rules-dat",
-      "count": 60
+      "count": 61
     },
     {
       "project": "3x-ui",
-      "count": 40
+      "count": 41
     },
     {
       "project": "ClashMetaForAndroid",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 212
+      "count": 214
     },
     {
       "tag": "v2fly",
@@ -65,7 +65,7 @@
     },
     {
       "tag": "mihomo",
-      "count": 96
+      "count": 97
     },
     {
       "tag": "Sub-Store",
@@ -73,7 +73,7 @@
     },
     {
       "tag": "v2ray",
-      "count": 72
+      "count": 73
     },
     {
       "tag": "domain-list-community",
@@ -81,31 +81,31 @@
     },
     {
       "tag": "meta-rules-dat",
-      "count": 60
+      "count": 61
     },
     {
       "tag": "Loyalsoldier",
-      "count": 59
+      "count": 60
     },
     {
       "tag": "metacubexd",
       "count": 59
     },
     {
+      "tag": "网络代理",
+      "count": 54
+    },
+    {
       "tag": "domain-list",
       "count": 54
     },
     {
-      "tag": "网络代理",
-      "count": 53
-    },
-    {
       "tag": "OpenVPN",
-      "count": 51
+      "count": 52
     },
     {
       "tag": "rules",
-      "count": 46
+      "count": 47
     },
     {
       "tag": "Android",
@@ -113,7 +113,7 @@
     },
     {
       "tag": "3x-ui",
-      "count": 40
+      "count": 41
     },
     {
       "tag": "代理",
@@ -139,5 +139,5 @@
   "importantCount": 213,
   "breakingCount": 41,
   "securityCount": 54,
-  "updatedAt": "2026-07-02T19:50:14.279Z"
+  "updatedAt": "2026-07-03T04:11:51.095Z"
 }

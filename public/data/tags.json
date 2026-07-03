@@ -1,7 +1,7 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 212,
+    "count": 214,
     "category": "ecosystem"
   },
   {
@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 96,
+    "count": 97,
     "category": "ecosystem"
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "tag": "v2ray",
-    "count": 72,
+    "count": 73,
     "category": "ecosystem"
   },
   {
@@ -31,12 +31,12 @@
   },
   {
     "tag": "meta-rules-dat",
-    "count": 60,
+    "count": 61,
     "category": "ecosystem"
   },
   {
     "tag": "Loyalsoldier",
-    "count": 59,
+    "count": 60,
     "category": "ecosystem"
   },
   {
@@ -45,23 +45,23 @@
     "category": "ecosystem"
   },
   {
+    "tag": "网络代理",
+    "count": 54,
+    "category": "ecosystem"
+  },
+  {
     "tag": "domain-list",
     "count": 54,
     "category": "dns_rules"
   },
   {
-    "tag": "网络代理",
-    "count": 53,
-    "category": "ecosystem"
-  },
-  {
     "tag": "OpenVPN",
-    "count": 51,
+    "count": 52,
     "category": "core"
   },
   {
     "tag": "rules",
-    "count": 46,
+    "count": 47,
     "category": "ecosystem"
   },
   {
@@ -71,7 +71,7 @@
   },
   {
     "tag": "3x-ui",
-    "count": 40,
+    "count": 41,
     "category": "core"
   },
   {
@@ -125,17 +125,17 @@
     "category": "core"
   },
   {
+    "tag": "xhttp-opts",
+    "count": 26,
+    "category": "core"
+  },
+  {
     "tag": "go-gost",
     "count": 25,
     "category": "core"
   },
   {
     "tag": "SagerNet",
-    "count": 25,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "xhttp-opts",
     "count": 25,
     "category": "ecosystem"
   },
@@ -160,14 +160,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "开发版本",
+    "count": 21,
+    "category": "ecosystem"
+  },
+  {
     "tag": "v2rayN",
     "count": 20,
     "category": "client"
-  },
-  {
-    "tag": "开发版本",
-    "count": 20,
-    "category": "ecosystem"
   },
   {
     "tag": "QUIC",
@@ -300,6 +300,11 @@
     "category": "client"
   },
   {
+    "tag": "自动构建",
+    "count": 10,
+    "category": "ecosystem"
+  },
+  {
     "tag": "Surge",
     "count": 10,
     "category": "protocol"
@@ -336,11 +341,6 @@
   },
   {
     "tag": "bug修复",
-    "count": 9,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "自动构建",
     "count": 9,
     "category": "ecosystem"
   },
@@ -580,6 +580,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "mieru",
+    "count": 5,
+    "category": "core"
+  },
+  {
     "tag": "subconverter",
     "count": 5,
     "category": "ecosystem"
@@ -683,11 +688,6 @@
     "tag": "nekoray",
     "count": 4,
     "category": "client"
-  },
-  {
-    "tag": "mieru",
-    "count": 4,
-    "category": "ecosystem"
   },
   {
     "tag": "依赖库",
