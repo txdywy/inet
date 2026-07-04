@@ -1,12 +1,12 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 215,
+    "count": 216,
     "category": "ecosystem"
   },
   {
     "tag": "v2fly",
-    "count": 144,
+    "count": 147,
     "category": "ecosystem"
   },
   {
@@ -21,22 +21,22 @@
   },
   {
     "tag": "v2ray",
-    "count": 73,
+    "count": 74,
     "category": "ecosystem"
   },
   {
     "tag": "domain-list-community",
-    "count": 71,
+    "count": 73,
     "category": "ecosystem"
   },
   {
     "tag": "meta-rules-dat",
-    "count": 61,
+    "count": 62,
     "category": "ecosystem"
   },
   {
     "tag": "Loyalsoldier",
-    "count": 60,
+    "count": 61,
     "category": "ecosystem"
   },
   {
@@ -45,14 +45,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "domain-list",
+    "count": 55,
+    "category": "dns_rules"
+  },
+  {
     "tag": "网络代理",
     "count": 54,
     "category": "ecosystem"
-  },
-  {
-    "tag": "domain-list",
-    "count": 54,
-    "category": "dns_rules"
   },
   {
     "tag": "OpenVPN",
@@ -61,7 +61,7 @@
   },
   {
     "tag": "rules",
-    "count": 47,
+    "count": 48,
     "category": "ecosystem"
   },
   {
@@ -95,14 +95,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "dat",
+    "count": 30,
+    "category": "ecosystem"
+  },
+  {
     "tag": "ClashMetaForAndroid",
     "count": 30,
     "category": "client"
-  },
-  {
-    "tag": "dat",
-    "count": 29,
-    "category": "ecosystem"
   },
   {
     "tag": "Windows",
@@ -325,6 +325,16 @@
     "category": "ecosystem"
   },
   {
+    "tag": "dns",
+    "count": 9,
+    "category": "dns_rules"
+  },
+  {
+    "tag": "域名解析",
+    "count": 9,
+    "category": "dns_rules"
+  },
+  {
     "tag": "中国域名",
     "count": 9,
     "category": "ecosystem"
@@ -373,16 +383,6 @@
     "tag": "proxy",
     "count": 8,
     "category": "security"
-  },
-  {
-    "tag": "dns",
-    "count": 8,
-    "category": "dns_rules"
-  },
-  {
-    "tag": "域名解析",
-    "count": 8,
-    "category": "dns_rules"
   },
   {
     "tag": "快捷方式",
@@ -895,6 +895,11 @@
     "category": "protocol"
   },
   {
+    "tag": "TLD",
+    "count": 2,
+    "category": "dns_rules"
+  },
+  {
     "tag": "core",
     "count": 2,
     "category": "core"
@@ -1343,6 +1348,11 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "iTunes",
+    "count": 1,
+    "category": "ecosystem"
   },
   {
     "tag": "library",
@@ -2521,11 +2531,6 @@
   },
   {
     "tag": "ChinaPost",
-    "count": 1,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "TLD",
     "count": 1,
     "category": "ecosystem"
   },

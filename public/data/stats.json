@@ -1,21 +1,21 @@
 {
-  "totalItems": 855,
-  "last24h": 4,
-  "last7d": 66,
+  "totalItems": 860,
+  "last24h": 7,
+  "last7d": 69,
   "byCategory": {
     "core": 131,
     "client": 192,
     "router": 1,
     "protocol": 47,
-    "dns_rules": 21,
+    "dns_rules": 23,
     "security": 9,
-    "ecosystem": 454,
+    "ecosystem": 457,
     "trend": 0
   },
   "topProjects": [
     {
       "project": "domain-list-community",
-      "count": 140
+      "count": 143
     },
     {
       "project": "mihomo",
@@ -27,7 +27,7 @@
     },
     {
       "project": "v2ray-rules-dat",
-      "count": 64
+      "count": 65
     },
     {
       "project": "metacubexd",
@@ -35,7 +35,7 @@
     },
     {
       "project": "meta-rules-dat",
-      "count": 61
+      "count": 62
     },
     {
       "project": "3x-ui",
@@ -57,11 +57,11 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 215
+      "count": 216
     },
     {
       "tag": "v2fly",
-      "count": 144
+      "count": 147
     },
     {
       "tag": "mihomo",
@@ -73,30 +73,30 @@
     },
     {
       "tag": "v2ray",
-      "count": 73
+      "count": 74
     },
     {
       "tag": "domain-list-community",
-      "count": 71
+      "count": 73
     },
     {
       "tag": "meta-rules-dat",
-      "count": 61
+      "count": 62
     },
     {
       "tag": "Loyalsoldier",
-      "count": 60
+      "count": 61
     },
     {
       "tag": "metacubexd",
       "count": 59
     },
     {
-      "tag": "网络代理",
-      "count": 54
+      "tag": "domain-list",
+      "count": 55
     },
     {
-      "tag": "domain-list",
+      "tag": "网络代理",
       "count": 54
     },
     {
@@ -105,7 +105,7 @@
     },
     {
       "tag": "rules",
-      "count": 47
+      "count": 48
     },
     {
       "tag": "Android",
@@ -132,12 +132,12 @@
       "count": 32
     },
     {
-      "tag": "ClashMetaForAndroid",
+      "tag": "dat",
       "count": 30
     }
   ],
   "importantCount": 213,
   "breakingCount": 41,
   "securityCount": 54,
-  "updatedAt": "2026-07-03T19:47:01.405Z"
+  "updatedAt": "2026-07-04T04:05:03.949Z"
 }
