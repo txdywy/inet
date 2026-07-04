@@ -1,15 +1,15 @@
 {
-  "totalItems": 863,
-  "last24h": 10,
+  "totalItems": 866,
+  "last24h": 11,
   "last7d": 62,
   "byCategory": {
-    "core": 131,
-    "client": 194,
+    "core": 132,
+    "client": 195,
     "router": 1,
     "protocol": 47,
     "dns_rules": 23,
     "security": 9,
-    "ecosystem": 458,
+    "ecosystem": 459,
     "trend": 0
   },
   "topProjects": [
@@ -23,15 +23,15 @@
     },
     {
       "project": "Sub-Store",
-      "count": 87
+      "count": 88
+    },
+    {
+      "project": "metacubexd",
+      "count": 65
     },
     {
       "project": "v2ray-rules-dat",
       "count": 65
-    },
-    {
-      "project": "metacubexd",
-      "count": 64
     },
     {
       "project": "meta-rules-dat",
@@ -47,7 +47,7 @@
     },
     {
       "project": "gost",
-      "count": 26
+      "count": 27
     },
     {
       "project": "sing-box",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 216
+      "count": 217
     },
     {
       "tag": "v2fly",
@@ -69,7 +69,7 @@
     },
     {
       "tag": "Sub-Store",
-      "count": 87
+      "count": 88
     },
     {
       "tag": "v2ray",
@@ -89,7 +89,7 @@
     },
     {
       "tag": "metacubexd",
-      "count": 59
+      "count": 60
     },
     {
       "tag": "domain-list",
@@ -139,5 +139,5 @@
   "importantCount": 214,
   "breakingCount": 41,
   "securityCount": 55,
-  "updatedAt": "2026-07-04T14:01:14.154Z"
+  "updatedAt": "2026-07-04T19:34:55.012Z"
 }

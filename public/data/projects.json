@@ -51,6 +51,21 @@
     ]
   },
   {
+    "slug": "metacubexd",
+    "name": "metacubexd",
+    "repo": "MetaCubeX/metacubexd",
+    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
+    "category": "ecosystem",
+    "platforms": [
+      "web"
+    ],
+    "tags": [
+      "dashboard",
+      "mihomo",
+      "clash"
+    ]
+  },
+  {
     "slug": "v2ray-rules-dat",
     "name": "v2ray-rules-dat",
     "repo": "Loyalsoldier/v2ray-rules-dat",
@@ -65,21 +80,6 @@
       "ruleset",
       "geosite",
       "geoip"
-    ]
-  },
-  {
-    "slug": "metacubexd",
-    "name": "metacubexd",
-    "repo": "MetaCubeX/metacubexd",
-    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
-    "category": "ecosystem",
-    "platforms": [
-      "web"
-    ],
-    "tags": [
-      "dashboard",
-      "mihomo",
-      "clash"
     ]
   },
   {

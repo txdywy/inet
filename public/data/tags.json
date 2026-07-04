@@ -1,8 +1,8 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 216,
-    "category": "ecosystem"
+    "count": 217,
+    "category": "client"
   },
   {
     "tag": "v2fly",
@@ -16,7 +16,7 @@
   },
   {
     "tag": "Sub-Store",
-    "count": 87,
+    "count": 88,
     "category": "ecosystem"
   },
   {
@@ -41,8 +41,8 @@
   },
   {
     "tag": "metacubexd",
-    "count": 59,
-    "category": "ecosystem"
+    "count": 60,
+    "category": "client"
   },
   {
     "tag": "domain-list",
@@ -115,6 +115,16 @@
     "category": "client"
   },
   {
+    "tag": "网络协议",
+    "count": 27,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "go-gost",
+    "count": 27,
+    "category": "core"
+  },
+  {
     "tag": "Tailscale",
     "count": 27,
     "category": "ecosystem"
@@ -125,29 +135,19 @@
     "category": "core"
   },
   {
-    "tag": "go-gost",
-    "count": 26,
-    "category": "core"
-  },
-  {
-    "tag": "网络协议",
-    "count": 26,
-    "category": "core"
-  },
-  {
     "tag": "SagerNet",
     "count": 25,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "Snell",
+    "count": 24,
     "category": "ecosystem"
   },
   {
     "tag": "HTTP/2",
     "count": 24,
     "category": "protocol"
-  },
-  {
-    "tag": "Snell",
-    "count": 23,
-    "category": "client"
   },
   {
     "tag": "网络工具",
@@ -450,6 +450,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "安全",
+    "count": 6,
+    "category": "core"
+  },
+  {
     "tag": "网络安全",
     "count": 6,
     "category": "security"
@@ -521,11 +526,6 @@
   },
   {
     "tag": "IPv6",
-    "count": 5,
-    "category": "client"
-  },
-  {
-    "tag": "安全",
     "count": 5,
     "category": "client"
   },
@@ -1353,6 +1353,21 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "mTLS",
+    "count": 1,
+    "category": "core"
+  },
+  {
+    "tag": "测试",
+    "count": 1,
+    "category": "core"
+  },
+  {
+    "tag": "monaco-editor",
+    "count": 1,
+    "category": "client"
   },
   {
     "tag": "localization",
