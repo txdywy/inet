@@ -1,15 +1,15 @@
 {
-  "totalItems": 861,
-  "last24h": 8,
+  "totalItems": 863,
+  "last24h": 10,
   "last7d": 62,
   "byCategory": {
     "core": 131,
-    "client": 193,
+    "client": 194,
     "router": 1,
     "protocol": 47,
     "dns_rules": 23,
     "security": 9,
-    "ecosystem": 457,
+    "ecosystem": 458,
     "trend": 0
   },
   "topProjects": [
@@ -23,7 +23,7 @@
     },
     {
       "project": "Sub-Store",
-      "count": 86
+      "count": 87
     },
     {
       "project": "v2ray-rules-dat",
@@ -69,7 +69,7 @@
     },
     {
       "tag": "Sub-Store",
-      "count": 86
+      "count": 87
     },
     {
       "tag": "v2ray",
@@ -120,6 +120,10 @@
       "count": 38
     },
     {
+      "tag": "开源",
+      "count": 33
+    },
+    {
       "tag": "代理工具",
       "count": 33
     },
@@ -128,16 +132,12 @@
       "count": 33
     },
     {
-      "tag": "开源",
-      "count": 32
-    },
-    {
-      "tag": "dat",
+      "tag": "Windows",
       "count": 30
     }
   ],
-  "importantCount": 213,
+  "importantCount": 214,
   "breakingCount": 41,
-  "securityCount": 54,
-  "updatedAt": "2026-07-04T09:02:20.761Z"
+  "securityCount": 55,
+  "updatedAt": "2026-07-04T14:01:14.154Z"
 }
