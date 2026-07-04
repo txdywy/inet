@@ -1,5 +1,39 @@
 [
   {
+    "id": "bb84072c45a2110c",
+    "title": "7.23.2",
+    "summary": "v2rayN 发布了 7.23.2 版本，属于预发布版本。",
+    "analysis": "此次 v2rayN 的 7.23.2 版本更新为预发布版本，虽然具体的更新内容未在发布说明中列出，但预发布版本通常意味着开发者在进行新特性或重要修复的测试。用户和开发者应关注此版本的稳定性和兼容性，尤其是在生产环境中使用时。由于缺乏详细的更新信息，建议用户在测试环境中先行体验，确保没有引入新的问题。此版本可能与 V2Ray 协议相关，但具体影响尚不明确，因此用户应保持关注以获取后续更新信息。",
+    "rawTitle": "7.23.2",
+    "rawBody": "",
+    "sourceType": "github_release",
+    "sourceName": "2dust/v2rayN",
+    "sourceUrl": "https://github.com/2dust/v2rayN/releases/tag/7.23.2",
+    "project": "v2rayN",
+    "repo": "2dust/v2rayN",
+    "slug": "v2rayn",
+    "version": "7.23.2",
+    "category": "client",
+    "tags": [
+      "v2rayN",
+      "V2Ray",
+      "代理工具"
+    ],
+    "platforms": [
+      "windows"
+    ],
+    "importance": 3,
+    "confidence": 0.8,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-07-04T08:51:19Z",
+    "fetchedAt": "2026-07-04T09:02:07.150Z",
+    "firstSeenAt": "2026-07-04T09:02:20.291Z",
+    "updatedAt": "2026-07-04T09:02:20.291Z",
+    "hash": "bb84072c45a2110c"
+  },
+  {
     "id": "122d705febf83634",
     "title": "20260704034046",
     "summary": "v2fly/domain-list-community 更新了 iTunes 相关内容，提升了兼容性。",

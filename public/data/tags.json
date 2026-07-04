@@ -80,13 +80,13 @@
     "category": "core"
   },
   {
-    "tag": "sing-box",
+    "tag": "代理工具",
     "count": 33,
-    "category": "ecosystem"
+    "category": "client"
   },
   {
-    "tag": "代理工具",
-    "count": 32,
+    "tag": "sing-box",
+    "count": 33,
     "category": "ecosystem"
   },
   {
@@ -166,7 +166,7 @@
   },
   {
     "tag": "v2rayN",
-    "count": 20,
+    "count": 21,
     "category": "client"
   },
   {
@@ -595,6 +595,11 @@
     "category": "protocol"
   },
   {
+    "tag": "V2Ray",
+    "count": 4,
+    "category": "client"
+  },
+  {
     "tag": "gost",
     "count": 4,
     "category": "core"
@@ -721,11 +726,6 @@
   },
   {
     "tag": "ShadowsocksR",
-    "count": 3,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "V2Ray",
     "count": 3,
     "category": "ecosystem"
   },
