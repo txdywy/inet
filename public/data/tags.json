@@ -1,7 +1,7 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 219,
+    "count": 220,
     "category": "client"
   },
   {
@@ -11,13 +11,13 @@
   },
   {
     "tag": "mihomo",
-    "count": 98,
+    "count": 99,
     "category": "ecosystem"
   },
   {
     "tag": "Sub-Store",
-    "count": 88,
-    "category": "ecosystem"
+    "count": 89,
+    "category": "core"
   },
   {
     "tag": "v2ray",
@@ -56,7 +56,7 @@
   },
   {
     "tag": "OpenVPN",
-    "count": 53,
+    "count": 54,
     "category": "core"
   },
   {
@@ -66,7 +66,7 @@
   },
   {
     "tag": "Android",
-    "count": 46,
+    "count": 47,
     "category": "client"
   },
   {
@@ -115,6 +115,11 @@
     "category": "client"
   },
   {
+    "tag": "xhttp-opts",
+    "count": 28,
+    "category": "core"
+  },
+  {
     "tag": "网络协议",
     "count": 27,
     "category": "ecosystem"
@@ -128,11 +133,6 @@
     "tag": "Tailscale",
     "count": 27,
     "category": "ecosystem"
-  },
-  {
-    "tag": "xhttp-opts",
-    "count": 27,
-    "category": "core"
   },
   {
     "tag": "SagerNet",
@@ -180,6 +180,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "v2rayNG",
+    "count": 18,
+    "category": "client"
+  },
+  {
     "tag": "Xray-core",
     "count": 18,
     "category": "core"
@@ -208,11 +213,6 @@
     "tag": "依赖更新",
     "count": 17,
     "category": "ecosystem"
-  },
-  {
-    "tag": "v2rayNG",
-    "count": 17,
-    "category": "client"
   },
   {
     "tag": "macOS",
@@ -250,6 +250,11 @@
     "category": "client"
   },
   {
+    "tag": "HTTP",
+    "count": 12,
+    "category": "core"
+  },
+  {
     "tag": "OpenWrt",
     "count": 12,
     "category": "ecosystem"
@@ -271,11 +276,6 @@
   },
   {
     "tag": "Clash",
-    "count": 11,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "HTTP",
     "count": 11,
     "category": "ecosystem"
   },
@@ -330,6 +330,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "snell",
+    "count": 10,
+    "category": "core"
+  },
+  {
     "tag": "域名解析",
     "count": 9,
     "category": "dns_rules"
@@ -368,11 +373,6 @@
     "tag": "TUN",
     "count": 9,
     "category": "client"
-  },
-  {
-    "tag": "snell",
-    "count": 9,
-    "category": "core"
   },
   {
     "tag": "CBC",
@@ -515,6 +515,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "证书验证",
+    "count": 5,
+    "category": "client"
+  },
+  {
     "tag": "安全修复",
     "count": 5,
     "category": "security"
@@ -595,6 +600,11 @@
     "category": "protocol"
   },
   {
+    "tag": "SDK",
+    "count": 4,
+    "category": "client"
+  },
+  {
     "tag": "helloworld",
     "count": 4,
     "category": "ecosystem"
@@ -670,11 +680,6 @@
     "category": "client"
   },
   {
-    "tag": "证书验证",
-    "count": 4,
-    "category": "client"
-  },
-  {
     "tag": "Gist",
     "count": 4,
     "category": "ecosystem"
@@ -713,6 +718,11 @@
     "tag": "nekoray",
     "count": 4,
     "category": "client"
+  },
+  {
+    "tag": "Node.js",
+    "count": 3,
+    "category": "core"
   },
   {
     "tag": "依赖库",
@@ -821,11 +831,6 @@
   },
   {
     "tag": "TypeScript",
-    "count": 3,
-    "category": "client"
-  },
-  {
-    "tag": "SDK",
     "count": 3,
     "category": "client"
   },
@@ -1058,11 +1063,6 @@
     "tag": "GitHub Actions",
     "count": 2,
     "category": "ecosystem"
-  },
-  {
-    "tag": "Node.js",
-    "count": 2,
-    "category": "protocol"
   },
   {
     "tag": "hamivideo",

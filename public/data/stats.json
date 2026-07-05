@@ -1,10 +1,10 @@
 {
-  "totalItems": 874,
-  "last24h": 11,
-  "last7d": 65,
+  "totalItems": 877,
+  "last24h": 12,
+  "last7d": 64,
   "byCategory": {
-    "core": 132,
-    "client": 196,
+    "core": 134,
+    "client": 197,
     "router": 1,
     "protocol": 48,
     "dns_rules": 24,
@@ -19,11 +19,11 @@
     },
     {
       "project": "mihomo",
-      "count": 91
+      "count": 92
     },
     {
       "project": "Sub-Store",
-      "count": 88
+      "count": 89
     },
     {
       "project": "metacubexd",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 219
+      "count": 220
     },
     {
       "tag": "v2fly",
@@ -65,11 +65,11 @@
     },
     {
       "tag": "mihomo",
-      "count": 98
+      "count": 99
     },
     {
       "tag": "Sub-Store",
-      "count": 88
+      "count": 89
     },
     {
       "tag": "v2ray",
@@ -101,7 +101,7 @@
     },
     {
       "tag": "OpenVPN",
-      "count": 53
+      "count": 54
     },
     {
       "tag": "rules",
@@ -109,7 +109,7 @@
     },
     {
       "tag": "Android",
-      "count": 46
+      "count": 47
     },
     {
       "tag": "3x-ui",
@@ -136,8 +136,8 @@
       "count": 31
     }
   ],
-  "importantCount": 215,
-  "breakingCount": 41,
-  "securityCount": 55,
-  "updatedAt": "2026-07-05T09:24:02.045Z"
+  "importantCount": 217,
+  "breakingCount": 42,
+  "securityCount": 56,
+  "updatedAt": "2026-07-05T14:11:43.306Z"
 }
