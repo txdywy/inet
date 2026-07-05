@@ -1,7 +1,7 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 220,
+    "count": 221,
     "category": "client"
   },
   {
@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 99,
+    "count": 100,
     "category": "ecosystem"
   },
   {
@@ -50,14 +50,14 @@
     "category": "dns_rules"
   },
   {
+    "tag": "OpenVPN",
+    "count": 55,
+    "category": "core"
+  },
+  {
     "tag": "网络代理",
     "count": 54,
     "category": "ecosystem"
-  },
-  {
-    "tag": "OpenVPN",
-    "count": 54,
-    "category": "core"
   },
   {
     "tag": "rules",
@@ -71,7 +71,7 @@
   },
   {
     "tag": "3x-ui",
-    "count": 43,
+    "count": 44,
     "category": "core"
   },
   {
@@ -110,24 +110,24 @@
     "category": "client"
   },
   {
+    "tag": "xhttp-opts",
+    "count": 29,
+    "category": "core"
+  },
+  {
+    "tag": "go-gost",
+    "count": 28,
+    "category": "ecosystem"
+  },
+  {
     "tag": "Linux",
     "count": 28,
     "category": "client"
   },
   {
-    "tag": "xhttp-opts",
-    "count": 28,
-    "category": "core"
-  },
-  {
     "tag": "网络协议",
     "count": 27,
     "category": "ecosystem"
-  },
-  {
-    "tag": "go-gost",
-    "count": 27,
-    "category": "core"
   },
   {
     "tag": "Tailscale",
@@ -141,8 +141,13 @@
   },
   {
     "tag": "Snell",
-    "count": 25,
+    "count": 26,
     "category": "protocol"
+  },
+  {
+    "tag": "开发版本",
+    "count": 24,
+    "category": "ecosystem"
   },
   {
     "tag": "HTTP/2",
@@ -151,11 +156,6 @@
   },
   {
     "tag": "网络工具",
-    "count": 23,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "开发版本",
     "count": 23,
     "category": "ecosystem"
   },
@@ -173,6 +173,11 @@
     "tag": "QUIC",
     "count": 19,
     "category": "client"
+  },
+  {
+    "tag": "rematch",
+    "count": 19,
+    "category": "core"
   },
   {
     "tag": "CHACHA20-POLY1305",
@@ -193,11 +198,6 @@
     "tag": "Xray",
     "count": 18,
     "category": "core"
-  },
-  {
-    "tag": "rematch",
-    "count": 18,
-    "category": "ecosystem"
   },
   {
     "tag": "用户界面",
@@ -230,14 +230,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "自动化构建",
+    "count": 14,
+    "category": "ecosystem"
+  },
+  {
     "tag": "naiveproxy",
     "count": 13,
     "category": "core"
-  },
-  {
-    "tag": "自动化构建",
-    "count": 13,
-    "category": "ecosystem"
   },
   {
     "tag": "TLS",
@@ -600,6 +600,16 @@
     "category": "protocol"
   },
   {
+    "tag": "依赖库",
+    "count": 4,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "go",
+    "count": 4,
+    "category": "ecosystem"
+  },
+  {
     "tag": "SDK",
     "count": 4,
     "category": "client"
@@ -725,11 +735,6 @@
     "category": "core"
   },
   {
-    "tag": "依赖库",
-    "count": 3,
-    "category": "core"
-  },
-  {
     "tag": "分类更新",
     "count": 3,
     "category": "ecosystem"
@@ -748,11 +753,6 @@
     "tag": "DoH",
     "count": 3,
     "category": "protocol"
-  },
-  {
-    "tag": "go",
-    "count": 3,
-    "category": "ecosystem"
   },
   {
     "tag": "本地化",
@@ -898,6 +898,11 @@
     "tag": "protocol",
     "count": 3,
     "category": "protocol"
+  },
+  {
+    "tag": "插件",
+    "count": 2,
+    "category": "ecosystem"
   },
   {
     "tag": "广告过滤",
@@ -1868,11 +1873,6 @@
     "tag": "广告规则",
     "count": 1,
     "category": "dns_rules"
-  },
-  {
-    "tag": "插件",
-    "count": 1,
-    "category": "ecosystem"
   },
   {
     "tag": "Firebase",
