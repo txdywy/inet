@@ -1,12 +1,12 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 217,
-    "category": "client"
+    "count": 218,
+    "category": "ecosystem"
   },
   {
     "tag": "v2fly",
-    "count": 147,
+    "count": 149,
     "category": "ecosystem"
   },
   {
@@ -21,22 +21,22 @@
   },
   {
     "tag": "v2ray",
-    "count": 74,
+    "count": 75,
     "category": "ecosystem"
   },
   {
     "tag": "domain-list-community",
-    "count": 73,
-    "category": "ecosystem"
+    "count": 74,
+    "category": "dns_rules"
   },
   {
     "tag": "meta-rules-dat",
-    "count": 62,
+    "count": 63,
     "category": "ecosystem"
   },
   {
     "tag": "Loyalsoldier",
-    "count": 61,
+    "count": 62,
     "category": "ecosystem"
   },
   {
@@ -61,7 +61,7 @@
   },
   {
     "tag": "rules",
-    "count": 48,
+    "count": 49,
     "category": "ecosystem"
   },
   {
@@ -71,7 +71,7 @@
   },
   {
     "tag": "3x-ui",
-    "count": 42,
+    "count": 43,
     "category": "core"
   },
   {
@@ -95,14 +95,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "dat",
+    "count": 31,
+    "category": "ecosystem"
+  },
+  {
     "tag": "Windows",
     "count": 30,
     "category": "client"
-  },
-  {
-    "tag": "dat",
-    "count": 30,
-    "category": "ecosystem"
   },
   {
     "tag": "ClashMetaForAndroid",
@@ -155,17 +155,17 @@
     "category": "ecosystem"
   },
   {
+    "tag": "开发版本",
+    "count": 23,
+    "category": "ecosystem"
+  },
+  {
     "tag": "v2rayN",
     "count": 22,
     "category": "client"
   },
   {
     "tag": "VLESS",
-    "count": 22,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "开发版本",
     "count": 22,
     "category": "ecosystem"
   },
@@ -250,6 +250,11 @@
     "category": "client"
   },
   {
+    "tag": "OpenWrt",
+    "count": 12,
+    "category": "ecosystem"
+  },
+  {
     "tag": "v2rayA",
     "count": 12,
     "category": "security"
@@ -258,11 +263,6 @@
     "tag": "xray",
     "count": 11,
     "category": "client"
-  },
-  {
-    "tag": "OpenWrt",
-    "count": 11,
-    "category": "security"
   },
   {
     "tag": "网络规则",
@@ -280,9 +280,19 @@
     "category": "ecosystem"
   },
   {
+    "tag": "自动构建",
+    "count": 11,
+    "category": "ecosystem"
+  },
+  {
     "tag": "SUDOKU-ASCII",
     "count": 11,
     "category": "ecosystem"
+  },
+  {
+    "tag": "dns",
+    "count": 10,
+    "category": "dns_rules"
   },
   {
     "tag": "bugfix",
@@ -296,11 +306,6 @@
   },
   {
     "tag": "域名",
-    "count": 10,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "自动构建",
     "count": 10,
     "category": "ecosystem"
   },
@@ -323,11 +328,6 @@
     "tag": "sudoku",
     "count": 10,
     "category": "ecosystem"
-  },
-  {
-    "tag": "dns",
-    "count": 9,
-    "category": "dns_rules"
   },
   {
     "tag": "域名解析",
@@ -595,6 +595,21 @@
     "category": "protocol"
   },
   {
+    "tag": "helloworld",
+    "count": 4,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "luci-app-ssr-plus",
+    "count": 4,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "域名管理",
+    "count": 4,
+    "category": "ecosystem"
+  },
+  {
     "tag": "V2Ray",
     "count": 4,
     "category": "client"
@@ -703,21 +718,6 @@
     "tag": "依赖库",
     "count": 3,
     "category": "core"
-  },
-  {
-    "tag": "域名管理",
-    "count": 3,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "helloworld",
-    "count": 3,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "luci-app-ssr-plus",
-    "count": 3,
-    "category": "ecosystem"
   },
   {
     "tag": "分类更新",
@@ -893,6 +893,11 @@
     "tag": "protocol",
     "count": 3,
     "category": "protocol"
+  },
+  {
+    "tag": "广告过滤",
+    "count": 2,
+    "category": "dns_rules"
   },
   {
     "tag": "文档",
@@ -1353,6 +1358,11 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "volcengine",
+    "count": 1,
+    "category": "ecosystem"
   },
   {
     "tag": "mTLS",
@@ -2528,11 +2538,6 @@
     "tag": "Linux kernel",
     "count": 1,
     "category": "router"
-  },
-  {
-    "tag": "广告过滤",
-    "count": 1,
-    "category": "ecosystem"
   },
   {
     "tag": "资源解析",

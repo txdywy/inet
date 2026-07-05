@@ -1,21 +1,21 @@
 {
-  "totalItems": 866,
+  "totalItems": 872,
   "last24h": 11,
-  "last7d": 62,
+  "last7d": 64,
   "byCategory": {
     "core": 132,
     "client": 195,
     "router": 1,
     "protocol": 47,
-    "dns_rules": 23,
+    "dns_rules": 24,
     "security": 9,
-    "ecosystem": 459,
+    "ecosystem": 464,
     "trend": 0
   },
   "topProjects": [
     {
       "project": "domain-list-community",
-      "count": 143
+      "count": 145
     },
     {
       "project": "mihomo",
@@ -26,20 +26,20 @@
       "count": 88
     },
     {
+      "project": "v2ray-rules-dat",
+      "count": 66
+    },
+    {
       "project": "metacubexd",
       "count": 65
     },
     {
-      "project": "v2ray-rules-dat",
-      "count": 65
-    },
-    {
       "project": "meta-rules-dat",
-      "count": 62
+      "count": 63
     },
     {
       "project": "3x-ui",
-      "count": 42
+      "count": 43
     },
     {
       "project": "ClashMetaForAndroid",
@@ -57,11 +57,11 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 217
+      "count": 218
     },
     {
       "tag": "v2fly",
-      "count": 147
+      "count": 149
     },
     {
       "tag": "mihomo",
@@ -73,19 +73,19 @@
     },
     {
       "tag": "v2ray",
-      "count": 74
+      "count": 75
     },
     {
       "tag": "domain-list-community",
-      "count": 73
+      "count": 74
     },
     {
       "tag": "meta-rules-dat",
-      "count": 62
+      "count": 63
     },
     {
       "tag": "Loyalsoldier",
-      "count": 61
+      "count": 62
     },
     {
       "tag": "metacubexd",
@@ -105,7 +105,7 @@
     },
     {
       "tag": "rules",
-      "count": 48
+      "count": 49
     },
     {
       "tag": "Android",
@@ -113,7 +113,7 @@
     },
     {
       "tag": "3x-ui",
-      "count": 42
+      "count": 43
     },
     {
       "tag": "代理",
@@ -132,12 +132,12 @@
       "count": 33
     },
     {
-      "tag": "Windows",
-      "count": 30
+      "tag": "dat",
+      "count": 31
     }
   ],
   "importantCount": 214,
   "breakingCount": 41,
   "securityCount": 55,
-  "updatedAt": "2026-07-04T19:34:55.012Z"
+  "updatedAt": "2026-07-05T04:32:38.956Z"
 }
