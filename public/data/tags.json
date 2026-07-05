@@ -1,8 +1,8 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 218,
-    "category": "ecosystem"
+    "count": 219,
+    "category": "client"
   },
   {
     "tag": "v2fly",
@@ -41,7 +41,7 @@
   },
   {
     "tag": "metacubexd",
-    "count": 60,
+    "count": 61,
     "category": "client"
   },
   {
@@ -80,17 +80,17 @@
     "category": "core"
   },
   {
-    "tag": "开源",
-    "count": 33,
-    "category": "ecosystem"
-  },
-  {
     "tag": "代理工具",
-    "count": 33,
+    "count": 34,
     "category": "client"
   },
   {
     "tag": "sing-box",
+    "count": 34,
+    "category": "protocol"
+  },
+  {
+    "tag": "开源",
     "count": 33,
     "category": "ecosystem"
   },
@@ -136,13 +136,13 @@
   },
   {
     "tag": "SagerNet",
-    "count": 25,
-    "category": "ecosystem"
+    "count": 26,
+    "category": "protocol"
   },
   {
     "tag": "Snell",
-    "count": 24,
-    "category": "ecosystem"
+    "count": 25,
+    "category": "protocol"
   },
   {
     "tag": "HTTP/2",
@@ -380,6 +380,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "Go",
+    "count": 8,
+    "category": "protocol"
+  },
+  {
     "tag": "proxy",
     "count": 8,
     "category": "security"
@@ -436,11 +441,6 @@
   },
   {
     "tag": "luci-app-mosdns",
-    "count": 7,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "Go",
     "count": 7,
     "category": "ecosystem"
   },
