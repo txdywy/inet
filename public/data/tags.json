@@ -1,7 +1,7 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 222,
+    "count": 223,
     "category": "ecosystem"
   },
   {
@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 100,
+    "count": 101,
     "category": "ecosystem"
   },
   {
@@ -71,7 +71,7 @@
   },
   {
     "tag": "3x-ui",
-    "count": 45,
+    "count": 46,
     "category": "core"
   },
   {
@@ -80,14 +80,14 @@
     "category": "core"
   },
   {
+    "tag": "sing-box",
+    "count": 35,
+    "category": "protocol"
+  },
+  {
     "tag": "代理工具",
     "count": 34,
     "category": "client"
-  },
-  {
-    "tag": "sing-box",
-    "count": 34,
-    "category": "protocol"
   },
   {
     "tag": "开源",
@@ -115,6 +115,11 @@
     "category": "core"
   },
   {
+    "tag": "Tailscale",
+    "count": 28,
+    "category": "protocol"
+  },
+  {
     "tag": "go-gost",
     "count": 28,
     "category": "ecosystem"
@@ -125,19 +130,14 @@
     "category": "client"
   },
   {
+    "tag": "SagerNet",
+    "count": 27,
+    "category": "protocol"
+  },
+  {
     "tag": "网络协议",
     "count": 27,
     "category": "ecosystem"
-  },
-  {
-    "tag": "Tailscale",
-    "count": 27,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "SagerNet",
-    "count": 26,
-    "category": "protocol"
   },
   {
     "tag": "Snell",
@@ -146,7 +146,7 @@
   },
   {
     "tag": "开发版本",
-    "count": 25,
+    "count": 26,
     "category": "ecosystem"
   },
   {
@@ -231,7 +231,7 @@
   },
   {
     "tag": "自动化构建",
-    "count": 14,
+    "count": 15,
     "category": "ecosystem"
   },
   {
@@ -270,6 +270,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "WireGuard",
+    "count": 11,
+    "category": "protocol"
+  },
+  {
     "tag": "xray",
     "count": 11,
     "category": "client"
@@ -290,6 +295,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "snell",
+    "count": 11,
+    "category": "ecosystem"
+  },
+  {
     "tag": "dns",
     "count": 10,
     "category": "dns_rules"
@@ -298,11 +308,6 @@
     "tag": "bugfix",
     "count": 10,
     "category": "client"
-  },
-  {
-    "tag": "WireGuard",
-    "count": 10,
-    "category": "core"
   },
   {
     "tag": "域名",
@@ -328,11 +333,6 @@
     "tag": "sudoku",
     "count": 10,
     "category": "ecosystem"
-  },
-  {
-    "tag": "snell",
-    "count": 10,
-    "category": "core"
   },
   {
     "tag": "域名解析",
@@ -500,6 +500,11 @@
     "category": "client"
   },
   {
+    "tag": "xhttp",
+    "count": 6,
+    "category": "client"
+  },
+  {
     "tag": "vless",
     "count": 6,
     "category": "protocol"
@@ -563,11 +568,6 @@
     "tag": "dae",
     "count": 5,
     "category": "ecosystem"
-  },
-  {
-    "tag": "xhttp",
-    "count": 5,
-    "category": "client"
   },
   {
     "tag": "Hiddify",
@@ -893,6 +893,11 @@
     "tag": "NekoBoxForAndroid",
     "count": 3,
     "category": "client"
+  },
+  {
+    "tag": "openvpn",
+    "count": 3,
+    "category": "ecosystem"
   },
   {
     "tag": "protocol",
@@ -1345,11 +1350,6 @@
     "category": "client"
   },
   {
-    "tag": "openvpn",
-    "count": 2,
-    "category": "ecosystem"
-  },
-  {
     "tag": "ping keepalive",
     "count": 2,
     "category": "protocol"
@@ -1363,6 +1363,11 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "L3 forwarding",
+    "count": 1,
+    "category": "protocol"
   },
   {
     "tag": "pawchive",
