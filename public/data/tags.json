@@ -1,7 +1,7 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 223,
+    "count": 224,
     "category": "ecosystem"
   },
   {
@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 101,
+    "count": 102,
     "category": "ecosystem"
   },
   {
@@ -45,14 +45,14 @@
     "category": "client"
   },
   {
+    "tag": "OpenVPN",
+    "count": 56,
+    "category": "core"
+  },
+  {
     "tag": "domain-list",
     "count": 55,
     "category": "dns_rules"
-  },
-  {
-    "tag": "OpenVPN",
-    "count": 55,
-    "category": "core"
   },
   {
     "tag": "网络代理",
@@ -71,7 +71,7 @@
   },
   {
     "tag": "3x-ui",
-    "count": 46,
+    "count": 47,
     "category": "core"
   },
   {
@@ -135,18 +135,18 @@
     "category": "protocol"
   },
   {
+    "tag": "Snell",
+    "count": 27,
+    "category": "protocol"
+  },
+  {
     "tag": "网络协议",
     "count": 27,
     "category": "ecosystem"
   },
   {
-    "tag": "Snell",
-    "count": 26,
-    "category": "protocol"
-  },
-  {
     "tag": "开发版本",
-    "count": 26,
+    "count": 27,
     "category": "ecosystem"
   },
   {
@@ -240,6 +240,11 @@
     "category": "core"
   },
   {
+    "tag": "自动构建",
+    "count": 13,
+    "category": "ecosystem"
+  },
+  {
     "tag": "TLS",
     "count": 13,
     "category": "protocol"
@@ -263,11 +268,6 @@
     "tag": "v2rayA",
     "count": 12,
     "category": "security"
-  },
-  {
-    "tag": "自动构建",
-    "count": 12,
-    "category": "ecosystem"
   },
   {
     "tag": "WireGuard",
@@ -450,6 +450,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "xhttp",
+    "count": 7,
+    "category": "client"
+  },
+  {
     "tag": "安全",
     "count": 6,
     "category": "core"
@@ -496,11 +501,6 @@
   },
   {
     "tag": "mihomo-party",
-    "count": 6,
-    "category": "client"
-  },
-  {
-    "tag": "xhttp",
     "count": 6,
     "category": "client"
   },
