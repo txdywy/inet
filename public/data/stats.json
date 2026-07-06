@@ -1,7 +1,7 @@
 {
-  "totalItems": 880,
-  "last24h": 10,
-  "last7d": 61,
+  "totalItems": 883,
+  "last24h": 8,
+  "last7d": 59,
   "byCategory": {
     "core": 135,
     "client": 197,
@@ -9,13 +9,13 @@
     "protocol": 48,
     "dns_rules": 24,
     "security": 9,
-    "ecosystem": 466,
+    "ecosystem": 469,
     "trend": 0
   },
   "topProjects": [
     {
       "project": "domain-list-community",
-      "count": 145
+      "count": 146
     },
     {
       "project": "mihomo",
@@ -26,16 +26,16 @@
       "count": 89
     },
     {
+      "project": "v2ray-rules-dat",
+      "count": 67
+    },
+    {
       "project": "metacubexd",
       "count": 66
     },
     {
-      "project": "v2ray-rules-dat",
-      "count": 66
-    },
-    {
       "project": "meta-rules-dat",
-      "count": 63
+      "count": 64
     },
     {
       "project": "3x-ui",
@@ -57,11 +57,11 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 221
+      "count": 222
     },
     {
       "tag": "v2fly",
-      "count": 149
+      "count": 150
     },
     {
       "tag": "mihomo",
@@ -73,19 +73,19 @@
     },
     {
       "tag": "v2ray",
-      "count": 75
+      "count": 76
     },
     {
       "tag": "domain-list-community",
-      "count": 74
+      "count": 75
     },
     {
       "tag": "meta-rules-dat",
-      "count": 63
+      "count": 64
     },
     {
       "tag": "Loyalsoldier",
-      "count": 62
+      "count": 63
     },
     {
       "tag": "metacubexd",
@@ -105,7 +105,7 @@
     },
     {
       "tag": "rules",
-      "count": 49
+      "count": 50
     },
     {
       "tag": "Android",
@@ -133,11 +133,11 @@
     },
     {
       "tag": "dat",
-      "count": 31
+      "count": 32
     }
   ],
   "importantCount": 217,
   "breakingCount": 42,
   "securityCount": 56,
-  "updatedAt": "2026-07-05T19:41:17.376Z"
+  "updatedAt": "2026-07-06T04:42:08.696Z"
 }

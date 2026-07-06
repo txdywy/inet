@@ -1,12 +1,12 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 221,
-    "category": "client"
+    "count": 222,
+    "category": "ecosystem"
   },
   {
     "tag": "v2fly",
-    "count": 149,
+    "count": 150,
     "category": "ecosystem"
   },
   {
@@ -21,22 +21,22 @@
   },
   {
     "tag": "v2ray",
-    "count": 75,
+    "count": 76,
     "category": "ecosystem"
   },
   {
     "tag": "domain-list-community",
-    "count": 74,
-    "category": "dns_rules"
+    "count": 75,
+    "category": "ecosystem"
   },
   {
     "tag": "meta-rules-dat",
-    "count": 63,
+    "count": 64,
     "category": "ecosystem"
   },
   {
     "tag": "Loyalsoldier",
-    "count": 62,
+    "count": 63,
     "category": "ecosystem"
   },
   {
@@ -61,7 +61,7 @@
   },
   {
     "tag": "rules",
-    "count": 49,
+    "count": 50,
     "category": "ecosystem"
   },
   {
@@ -96,7 +96,7 @@
   },
   {
     "tag": "dat",
-    "count": 31,
+    "count": 32,
     "category": "ecosystem"
   },
   {
@@ -1363,6 +1363,11 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "pawchive",
+    "count": 1,
+    "category": "ecosystem"
   },
   {
     "tag": "volcengine",
