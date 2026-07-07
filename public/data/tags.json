@@ -1,17 +1,17 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 226,
-    "category": "ecosystem"
+    "count": 229,
+    "category": "core"
   },
   {
     "tag": "v2fly",
-    "count": 150,
+    "count": 153,
     "category": "ecosystem"
   },
   {
     "tag": "mihomo",
-    "count": 103,
+    "count": 104,
     "category": "ecosystem"
   },
   {
@@ -20,13 +20,13 @@
     "category": "ecosystem"
   },
   {
-    "tag": "v2ray",
+    "tag": "domain-list-community",
     "count": 77,
     "category": "ecosystem"
   },
   {
-    "tag": "domain-list-community",
-    "count": 75,
+    "tag": "v2ray",
+    "count": 77,
     "category": "ecosystem"
   },
   {
@@ -41,23 +41,23 @@
   },
   {
     "tag": "metacubexd",
-    "count": 61,
-    "category": "client"
+    "count": 63,
+    "category": "core"
+  },
+  {
+    "tag": "网络代理",
+    "count": 57,
+    "category": "core"
+  },
+  {
+    "tag": "domain-list",
+    "count": 56,
+    "category": "ecosystem"
   },
   {
     "tag": "OpenVPN",
     "count": 56,
     "category": "core"
-  },
-  {
-    "tag": "网络代理",
-    "count": 55,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "domain-list",
-    "count": 55,
-    "category": "dns_rules"
   },
   {
     "tag": "rules",
@@ -85,19 +85,24 @@
     "category": "protocol"
   },
   {
+    "tag": "开源",
+    "count": 34,
+    "category": "ecosystem"
+  },
+  {
     "tag": "代理工具",
     "count": 34,
     "category": "client"
   },
   {
-    "tag": "开源",
-    "count": 33,
-    "category": "ecosystem"
-  },
-  {
     "tag": "dat",
     "count": 32,
     "category": "ecosystem"
+  },
+  {
+    "tag": "xhttp-opts",
+    "count": 31,
+    "category": "core"
   },
   {
     "tag": "Windows",
@@ -110,11 +115,6 @@
     "category": "client"
   },
   {
-    "tag": "xhttp-opts",
-    "count": 30,
-    "category": "core"
-  },
-  {
     "tag": "Tailscale",
     "count": 28,
     "category": "protocol"
@@ -123,6 +123,11 @@
     "tag": "go-gost",
     "count": 28,
     "category": "ecosystem"
+  },
+  {
+    "tag": "Snell",
+    "count": 28,
+    "category": "protocol"
   },
   {
     "tag": "开发版本",
@@ -136,11 +141,6 @@
   },
   {
     "tag": "SagerNet",
-    "count": 27,
-    "category": "protocol"
-  },
-  {
-    "tag": "Snell",
     "count": 27,
     "category": "protocol"
   },
@@ -255,6 +255,11 @@
     "category": "client"
   },
   {
+    "tag": "Clash",
+    "count": 12,
+    "category": "ecosystem"
+  },
+  {
     "tag": "HTTP",
     "count": 12,
     "category": "core"
@@ -272,6 +277,16 @@
   {
     "tag": "snell",
     "count": 12,
+    "category": "core"
+  },
+  {
+    "tag": "域名",
+    "count": 11,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "bugfix",
+    "count": 11,
     "category": "core"
   },
   {
@@ -295,11 +310,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "Clash",
-    "count": 11,
-    "category": "ecosystem"
-  },
-  {
     "tag": "SUDOKU-ASCII",
     "count": 11,
     "category": "ecosystem"
@@ -313,16 +323,6 @@
     "tag": "dns",
     "count": 10,
     "category": "dns_rules"
-  },
-  {
-    "tag": "bugfix",
-    "count": 10,
-    "category": "client"
-  },
-  {
-    "tag": "域名",
-    "count": 10,
-    "category": "ecosystem"
   },
   {
     "tag": "Surge",
@@ -380,6 +380,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "OpenClash",
+    "count": 8,
+    "category": "ecosystem"
+  },
+  {
     "tag": "Go",
     "count": 8,
     "category": "protocol"
@@ -408,11 +413,6 @@
     "tag": "Mihomo",
     "count": 8,
     "category": "client"
-  },
-  {
-    "tag": "OpenClash",
-    "count": 7,
-    "category": "ecosystem"
   },
   {
     "tag": "配置管理",
@@ -525,6 +525,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "V2Ray",
+    "count": 5,
+    "category": "ecosystem"
+  },
+  {
     "tag": "证书验证",
     "count": 5,
     "category": "client"
@@ -585,6 +590,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "openvpn",
+    "count": 5,
+    "category": "core"
+  },
+  {
     "tag": "mieru",
     "count": 5,
     "category": "core"
@@ -628,11 +638,6 @@
     "tag": "域名管理",
     "count": 4,
     "category": "ecosystem"
-  },
-  {
-    "tag": "V2Ray",
-    "count": 4,
-    "category": "client"
   },
   {
     "tag": "gost",
@@ -728,11 +733,6 @@
     "tag": "nekoray",
     "count": 4,
     "category": "client"
-  },
-  {
-    "tag": "openvpn",
-    "count": 4,
-    "category": "core"
   },
   {
     "tag": "Node.js",
@@ -1378,6 +1378,26 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "阿里云",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "俄罗斯",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "AI服务",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "自动更新",
+    "count": 1,
+    "category": "core"
   },
   {
     "tag": "插件机制",
@@ -3258,6 +3278,11 @@
     "tag": "Pushover",
     "count": 1,
     "category": "ecosystem"
+  },
+  {
+    "tag": "TUIC",
+    "count": 1,
+    "category": "core"
   },
   {
     "tag": "会话管理",

@@ -51,6 +51,21 @@
     ]
   },
   {
+    "slug": "metacubexd",
+    "name": "metacubexd",
+    "repo": "MetaCubeX/metacubexd",
+    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
+    "category": "ecosystem",
+    "platforms": [
+      "web"
+    ],
+    "tags": [
+      "dashboard",
+      "mihomo",
+      "clash"
+    ]
+  },
+  {
     "slug": "v2ray-rules-dat",
     "name": "v2ray-rules-dat",
     "repo": "Loyalsoldier/v2ray-rules-dat",
@@ -65,21 +80,6 @@
       "ruleset",
       "geosite",
       "geoip"
-    ]
-  },
-  {
-    "slug": "metacubexd",
-    "name": "metacubexd",
-    "repo": "MetaCubeX/metacubexd",
-    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
-    "category": "ecosystem",
-    "platforms": [
-      "web"
-    ],
-    "tags": [
-      "dashboard",
-      "mihomo",
-      "clash"
     ]
   },
   {
@@ -365,21 +365,6 @@
     ]
   },
   {
-    "slug": "v2ray-agent",
-    "name": "v2ray-agent",
-    "repo": "mack-a/v2ray-agent",
-    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
-    "category": "ecosystem",
-    "platforms": [
-      "linux"
-    ],
-    "tags": [
-      "v2ray-agent",
-      "script",
-      "vps"
-    ]
-  },
-  {
     "slug": "openclash",
     "name": "OpenClash",
     "repo": "vernesong/OpenClash",
@@ -394,6 +379,21 @@
       "openwrt",
       "luci",
       "clash"
+    ]
+  },
+  {
+    "slug": "v2ray-agent",
+    "name": "v2ray-agent",
+    "repo": "mack-a/v2ray-agent",
+    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
+    "category": "ecosystem",
+    "platforms": [
+      "linux"
+    ],
+    "tags": [
+      "v2ray-agent",
+      "script",
+      "vps"
     ]
   },
   {

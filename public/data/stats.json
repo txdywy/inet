@@ -1,37 +1,37 @@
 {
-  "totalItems": 896,
-  "last24h": 5,
-  "last7d": 57,
+  "totalItems": 903,
+  "last24h": 11,
+  "last7d": 63,
   "byCategory": {
-    "core": 137,
+    "core": 140,
     "client": 198,
     "router": 1,
     "protocol": 49,
     "dns_rules": 24,
     "security": 9,
-    "ecosystem": 478,
+    "ecosystem": 482,
     "trend": 0
   },
   "topProjects": [
     {
       "project": "domain-list-community",
-      "count": 146
+      "count": 149
     },
     {
       "project": "mihomo",
-      "count": 96
+      "count": 97
     },
     {
       "project": "Sub-Store",
       "count": 90
     },
     {
-      "project": "v2ray-rules-dat",
+      "project": "metacubexd",
       "count": 68
     },
     {
-      "project": "metacubexd",
-      "count": 66
+      "project": "v2ray-rules-dat",
+      "count": 68
     },
     {
       "project": "meta-rules-dat",
@@ -57,27 +57,27 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 226
+      "count": 229
     },
     {
       "tag": "v2fly",
-      "count": 150
+      "count": 153
     },
     {
       "tag": "mihomo",
-      "count": 103
+      "count": 104
     },
     {
       "tag": "Sub-Store",
       "count": 90
     },
     {
-      "tag": "v2ray",
+      "tag": "domain-list-community",
       "count": 77
     },
     {
-      "tag": "domain-list-community",
-      "count": 75
+      "tag": "v2ray",
+      "count": 77
     },
     {
       "tag": "meta-rules-dat",
@@ -89,19 +89,19 @@
     },
     {
       "tag": "metacubexd",
-      "count": 61
+      "count": 63
+    },
+    {
+      "tag": "网络代理",
+      "count": 57
+    },
+    {
+      "tag": "domain-list",
+      "count": 56
     },
     {
       "tag": "OpenVPN",
       "count": 56
-    },
-    {
-      "tag": "网络代理",
-      "count": 55
-    },
-    {
-      "tag": "domain-list",
-      "count": 55
     },
     {
       "tag": "rules",
@@ -124,20 +124,20 @@
       "count": 35
     },
     {
-      "tag": "代理工具",
+      "tag": "开源",
       "count": 34
     },
     {
-      "tag": "开源",
-      "count": 33
+      "tag": "代理工具",
+      "count": 34
     },
     {
       "tag": "dat",
       "count": 32
     }
   ],
-  "importantCount": 220,
+  "importantCount": 221,
   "breakingCount": 42,
   "securityCount": 56,
-  "updatedAt": "2026-07-07T04:19:07.682Z"
+  "updatedAt": "2026-07-07T10:03:07.666Z"
 }
