@@ -1,7 +1,7 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 230,
+    "count": 231,
     "category": "core"
   },
   {
@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 105,
+    "count": 106,
     "category": "ecosystem"
   },
   {
@@ -81,8 +81,8 @@
   },
   {
     "tag": "sing-box",
-    "count": 35,
-    "category": "protocol"
+    "count": 36,
+    "category": "core"
   },
   {
     "tag": "开源",
@@ -120,6 +120,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "SagerNet",
+    "count": 28,
+    "category": "core"
+  },
+  {
     "tag": "Tailscale",
     "count": 28,
     "category": "protocol"
@@ -138,11 +143,6 @@
     "tag": "Linux",
     "count": 28,
     "category": "client"
-  },
-  {
-    "tag": "SagerNet",
-    "count": 27,
-    "category": "protocol"
   },
   {
     "tag": "网络协议",
@@ -420,6 +420,11 @@
     "category": "client"
   },
   {
+    "tag": "xhttp",
+    "count": 8,
+    "category": "client"
+  },
+  {
     "tag": "v2ray-core",
     "count": 7,
     "category": "core"
@@ -453,11 +458,6 @@
     "tag": "shadowsocks",
     "count": 7,
     "category": "ecosystem"
-  },
-  {
-    "tag": "xhttp",
-    "count": 7,
-    "category": "client"
   },
   {
     "tag": "安全",
@@ -516,6 +516,11 @@
   },
   {
     "tag": "clash-verge-rev",
+    "count": 6,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "openvpn",
     "count": 6,
     "category": "ecosystem"
   },
@@ -588,11 +593,6 @@
     "tag": "juicity",
     "count": 5,
     "category": "ecosystem"
-  },
-  {
-    "tag": "openvpn",
-    "count": 5,
-    "category": "core"
   },
   {
     "tag": "mieru",
@@ -900,9 +900,19 @@
     "category": "client"
   },
   {
+    "tag": "TUIC",
+    "count": 3,
+    "category": "ecosystem"
+  },
+  {
     "tag": "protocol",
     "count": 3,
     "category": "protocol"
+  },
+  {
+    "tag": "网络转发",
+    "count": 2,
+    "category": "core"
   },
   {
     "tag": "Mihomo Party",
@@ -1365,11 +1375,6 @@
     "category": "client"
   },
   {
-    "tag": "TUIC",
-    "count": 2,
-    "category": "core"
-  },
-  {
     "tag": "ping keepalive",
     "count": 2,
     "category": "protocol"
@@ -1383,6 +1388,16 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "bridge",
+    "count": 1,
+    "category": "core"
+  },
+  {
+    "tag": "L3",
+    "count": 1,
+    "category": "core"
   },
   {
     "tag": "X-Forwarded-For",
@@ -2091,11 +2106,6 @@
   },
   {
     "tag": "SNI",
-    "count": 1,
-    "category": "core"
-  },
-  {
-    "tag": "网络转发",
     "count": 1,
     "category": "core"
   },
