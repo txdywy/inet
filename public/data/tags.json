@@ -1,7 +1,7 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 229,
+    "count": 230,
     "category": "core"
   },
   {
@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 104,
+    "count": 105,
     "category": "ecosystem"
   },
   {
@@ -46,6 +46,11 @@
   },
   {
     "tag": "网络代理",
+    "count": 58,
+    "category": "core"
+  },
+  {
+    "tag": "OpenVPN",
     "count": 57,
     "category": "core"
   },
@@ -55,18 +60,13 @@
     "category": "ecosystem"
   },
   {
-    "tag": "OpenVPN",
-    "count": 56,
-    "category": "core"
-  },
-  {
     "tag": "rules",
     "count": 50,
     "category": "ecosystem"
   },
   {
     "tag": "3x-ui",
-    "count": 48,
+    "count": 49,
     "category": "core"
   },
   {
@@ -101,7 +101,7 @@
   },
   {
     "tag": "xhttp-opts",
-    "count": 31,
+    "count": 32,
     "category": "core"
   },
   {
@@ -113,6 +113,11 @@
     "tag": "ClashMetaForAndroid",
     "count": 30,
     "category": "client"
+  },
+  {
+    "tag": "开发版本",
+    "count": 29,
+    "category": "ecosystem"
   },
   {
     "tag": "Tailscale",
@@ -128,11 +133,6 @@
     "tag": "Snell",
     "count": 28,
     "category": "protocol"
-  },
-  {
-    "tag": "开发版本",
-    "count": 28,
-    "category": "ecosystem"
   },
   {
     "tag": "Linux",
@@ -230,13 +230,13 @@
     "category": "ecosystem"
   },
   {
-    "tag": "自动化构建",
+    "tag": "自动构建",
     "count": 15,
     "category": "ecosystem"
   },
   {
-    "tag": "自动构建",
-    "count": 14,
+    "tag": "自动化构建",
+    "count": 15,
     "category": "ecosystem"
   },
   {
@@ -253,6 +253,11 @@
     "tag": "SOCKS",
     "count": 13,
     "category": "client"
+  },
+  {
+    "tag": "snell",
+    "count": 13,
+    "category": "core"
   },
   {
     "tag": "Clash",
@@ -273,11 +278,6 @@
     "tag": "v2rayA",
     "count": 12,
     "category": "security"
-  },
-  {
-    "tag": "snell",
-    "count": 12,
-    "category": "core"
   },
   {
     "tag": "域名",
@@ -380,6 +380,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "gRPC",
+    "count": 8,
+    "category": "core"
+  },
+  {
     "tag": "OpenClash",
     "count": 8,
     "category": "ecosystem"
@@ -415,6 +420,11 @@
     "category": "client"
   },
   {
+    "tag": "v2ray-core",
+    "count": 7,
+    "category": "core"
+  },
+  {
     "tag": "配置管理",
     "count": 7,
     "category": "client"
@@ -433,11 +443,6 @@
     "tag": "网络优化",
     "count": 7,
     "category": "ecosystem"
-  },
-  {
-    "tag": "gRPC",
-    "count": 7,
-    "category": "core"
   },
   {
     "tag": "luci-app-mosdns",
@@ -493,11 +498,6 @@
     "tag": "Clash Verge",
     "count": 6,
     "category": "client"
-  },
-  {
-    "tag": "v2ray-core",
-    "count": 6,
-    "category": "core"
   },
   {
     "tag": "mihomo-party",
@@ -1365,6 +1365,11 @@
     "category": "client"
   },
   {
+    "tag": "TUIC",
+    "count": 2,
+    "category": "core"
+  },
+  {
     "tag": "ping keepalive",
     "count": 2,
     "category": "protocol"
@@ -1378,6 +1383,11 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "X-Forwarded-For",
+    "count": 1,
+    "category": "core"
   },
   {
     "tag": "阿里云",
@@ -3278,11 +3288,6 @@
     "tag": "Pushover",
     "count": 1,
     "category": "ecosystem"
-  },
-  {
-    "tag": "TUIC",
-    "count": 1,
-    "category": "core"
   },
   {
     "tag": "会话管理",

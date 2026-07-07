@@ -1,15 +1,15 @@
 {
-  "totalItems": 903,
+  "totalItems": 906,
   "last24h": 11,
   "last7d": 63,
   "byCategory": {
-    "core": 140,
+    "core": 142,
     "client": 198,
     "router": 1,
     "protocol": 49,
     "dns_rules": 24,
     "security": 9,
-    "ecosystem": 482,
+    "ecosystem": 483,
     "trend": 0
   },
   "topProjects": [
@@ -19,7 +19,7 @@
     },
     {
       "project": "mihomo",
-      "count": 97
+      "count": 98
     },
     {
       "project": "Sub-Store",
@@ -39,7 +39,7 @@
     },
     {
       "project": "3x-ui",
-      "count": 48
+      "count": 49
     },
     {
       "project": "ClashMetaForAndroid",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 229
+      "count": 230
     },
     {
       "tag": "v2fly",
@@ -65,7 +65,7 @@
     },
     {
       "tag": "mihomo",
-      "count": 104
+      "count": 105
     },
     {
       "tag": "Sub-Store",
@@ -93,14 +93,14 @@
     },
     {
       "tag": "网络代理",
+      "count": 58
+    },
+    {
+      "tag": "OpenVPN",
       "count": 57
     },
     {
       "tag": "domain-list",
-      "count": 56
-    },
-    {
-      "tag": "OpenVPN",
       "count": 56
     },
     {
@@ -109,7 +109,7 @@
     },
     {
       "tag": "3x-ui",
-      "count": 48
+      "count": 49
     },
     {
       "tag": "Android",
@@ -136,8 +136,8 @@
       "count": 32
     }
   ],
-  "importantCount": 221,
+  "importantCount": 223,
   "breakingCount": 42,
   "securityCount": 56,
-  "updatedAt": "2026-07-07T10:03:07.666Z"
+  "updatedAt": "2026-07-07T15:17:52.709Z"
 }
