@@ -1,7 +1,7 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 224,
+    "count": 226,
     "category": "ecosystem"
   },
   {
@@ -11,17 +11,17 @@
   },
   {
     "tag": "mihomo",
-    "count": 102,
+    "count": 103,
     "category": "ecosystem"
   },
   {
     "tag": "Sub-Store",
-    "count": 89,
-    "category": "core"
+    "count": 90,
+    "category": "ecosystem"
   },
   {
     "tag": "v2ray",
-    "count": 76,
+    "count": 77,
     "category": "ecosystem"
   },
   {
@@ -31,12 +31,12 @@
   },
   {
     "tag": "meta-rules-dat",
-    "count": 64,
+    "count": 65,
     "category": "ecosystem"
   },
   {
     "tag": "Loyalsoldier",
-    "count": 63,
+    "count": 64,
     "category": "ecosystem"
   },
   {
@@ -50,14 +50,14 @@
     "category": "core"
   },
   {
+    "tag": "网络代理",
+    "count": 55,
+    "category": "ecosystem"
+  },
+  {
     "tag": "domain-list",
     "count": 55,
     "category": "dns_rules"
-  },
-  {
-    "tag": "网络代理",
-    "count": 54,
-    "category": "ecosystem"
   },
   {
     "tag": "rules",
@@ -65,14 +65,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "3x-ui",
+    "count": 48,
+    "category": "core"
+  },
+  {
     "tag": "Android",
     "count": 47,
     "category": "client"
-  },
-  {
-    "tag": "3x-ui",
-    "count": 47,
-    "category": "core"
   },
   {
     "tag": "代理",
@@ -111,7 +111,7 @@
   },
   {
     "tag": "xhttp-opts",
-    "count": 29,
+    "count": 30,
     "category": "core"
   },
   {
@@ -121,6 +121,11 @@
   },
   {
     "tag": "go-gost",
+    "count": 28,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "开发版本",
     "count": 28,
     "category": "ecosystem"
   },
@@ -145,11 +150,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "开发版本",
-    "count": 27,
-    "category": "ecosystem"
-  },
-  {
     "tag": "HTTP/2",
     "count": 24,
     "category": "protocol"
@@ -170,14 +170,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "rematch",
+    "count": 20,
+    "category": "core"
+  },
+  {
     "tag": "QUIC",
     "count": 19,
     "category": "client"
-  },
-  {
-    "tag": "rematch",
-    "count": 19,
-    "category": "core"
   },
   {
     "tag": "CHACHA20-POLY1305",
@@ -235,14 +235,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "自动构建",
+    "count": 14,
+    "category": "ecosystem"
+  },
+  {
     "tag": "naiveproxy",
     "count": 13,
     "category": "core"
-  },
-  {
-    "tag": "自动构建",
-    "count": 13,
-    "category": "ecosystem"
   },
   {
     "tag": "TLS",
@@ -270,6 +270,16 @@
     "category": "security"
   },
   {
+    "tag": "snell",
+    "count": 12,
+    "category": "core"
+  },
+  {
+    "tag": "用户体验",
+    "count": 11,
+    "category": "client"
+  },
+  {
     "tag": "WireGuard",
     "count": 11,
     "category": "protocol"
@@ -295,9 +305,9 @@
     "category": "ecosystem"
   },
   {
-    "tag": "snell",
-    "count": 11,
-    "category": "ecosystem"
+    "tag": "性能优化",
+    "count": 10,
+    "category": "client"
   },
   {
     "tag": "dns",
@@ -318,11 +328,6 @@
     "tag": "Surge",
     "count": 10,
     "category": "protocol"
-  },
-  {
-    "tag": "用户体验",
-    "count": 10,
-    "category": "client"
   },
   {
     "tag": "VMess",
@@ -358,11 +363,6 @@
     "tag": "bug修复",
     "count": 9,
     "category": "ecosystem"
-  },
-  {
-    "tag": "性能优化",
-    "count": 9,
-    "category": "client"
   },
   {
     "tag": ".NET",
@@ -730,6 +730,11 @@
     "category": "client"
   },
   {
+    "tag": "openvpn",
+    "count": 4,
+    "category": "core"
+  },
+  {
     "tag": "Node.js",
     "count": 3,
     "category": "core"
@@ -895,14 +900,24 @@
     "category": "client"
   },
   {
-    "tag": "openvpn",
-    "count": 3,
-    "category": "ecosystem"
-  },
-  {
     "tag": "protocol",
     "count": 3,
     "category": "protocol"
+  },
+  {
+    "tag": "Mihomo Party",
+    "count": 2,
+    "category": "client"
+  },
+  {
+    "tag": "规则数据库",
+    "count": 2,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "组合订阅",
+    "count": 2,
+    "category": "ecosystem"
   },
   {
     "tag": "插件",
@@ -1365,6 +1380,16 @@
     "category": "security"
   },
   {
+    "tag": "插件机制",
+    "count": 1,
+    "category": "client"
+  },
+  {
+    "tag": "context.raw",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
     "tag": "L3 forwarding",
     "count": 1,
     "category": "protocol"
@@ -1491,11 +1516,6 @@
   },
   {
     "tag": "alpha",
-    "count": 1,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "规则数据库",
     "count": 1,
     "category": "ecosystem"
   },
@@ -1708,11 +1728,6 @@
     "tag": "read-model",
     "count": 1,
     "category": "ecosystem"
-  },
-  {
-    "tag": "Mihomo Party",
-    "count": 1,
-    "category": "client"
   },
   {
     "tag": "MASQUE",
@@ -2798,11 +2813,6 @@
     "tag": "Material 3",
     "count": 1,
     "category": "client"
-  },
-  {
-    "tag": "组合订阅",
-    "count": 1,
-    "category": "ecosystem"
   },
   {
     "tag": "流量管理",

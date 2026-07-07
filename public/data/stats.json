@@ -1,15 +1,15 @@
 {
-  "totalItems": 890,
-  "last24h": 4,
-  "last7d": 56,
+  "totalItems": 896,
+  "last24h": 5,
+  "last7d": 57,
   "byCategory": {
-    "core": 136,
-    "client": 197,
+    "core": 137,
+    "client": 198,
     "router": 1,
     "protocol": 49,
     "dns_rules": 24,
     "security": 9,
-    "ecosystem": 474,
+    "ecosystem": 478,
     "trend": 0
   },
   "topProjects": [
@@ -19,15 +19,15 @@
     },
     {
       "project": "mihomo",
-      "count": 95
+      "count": 96
     },
     {
       "project": "Sub-Store",
-      "count": 89
+      "count": 90
     },
     {
       "project": "v2ray-rules-dat",
-      "count": 67
+      "count": 68
     },
     {
       "project": "metacubexd",
@@ -35,11 +35,11 @@
     },
     {
       "project": "meta-rules-dat",
-      "count": 64
+      "count": 65
     },
     {
       "project": "3x-ui",
-      "count": 47
+      "count": 48
     },
     {
       "project": "ClashMetaForAndroid",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 224
+      "count": 226
     },
     {
       "tag": "v2fly",
@@ -65,15 +65,15 @@
     },
     {
       "tag": "mihomo",
-      "count": 102
+      "count": 103
     },
     {
       "tag": "Sub-Store",
-      "count": 89
+      "count": 90
     },
     {
       "tag": "v2ray",
-      "count": 76
+      "count": 77
     },
     {
       "tag": "domain-list-community",
@@ -81,11 +81,11 @@
     },
     {
       "tag": "meta-rules-dat",
-      "count": 64
+      "count": 65
     },
     {
       "tag": "Loyalsoldier",
-      "count": 63
+      "count": 64
     },
     {
       "tag": "metacubexd",
@@ -96,23 +96,23 @@
       "count": 56
     },
     {
-      "tag": "domain-list",
+      "tag": "网络代理",
       "count": 55
     },
     {
-      "tag": "网络代理",
-      "count": 54
+      "tag": "domain-list",
+      "count": 55
     },
     {
       "tag": "rules",
       "count": 50
     },
     {
-      "tag": "Android",
-      "count": 47
+      "tag": "3x-ui",
+      "count": 48
     },
     {
-      "tag": "3x-ui",
+      "tag": "Android",
       "count": 47
     },
     {
@@ -136,8 +136,8 @@
       "count": 32
     }
   ],
-  "importantCount": 219,
+  "importantCount": 220,
   "breakingCount": 42,
   "securityCount": 56,
-  "updatedAt": "2026-07-06T20:13:02.767Z"
+  "updatedAt": "2026-07-07T04:19:07.682Z"
 }
