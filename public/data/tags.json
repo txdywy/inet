@@ -1,8 +1,8 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 231,
-    "category": "core"
+    "count": 234,
+    "category": "ecosystem"
   },
   {
     "tag": "v2fly",
@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 106,
+    "count": 108,
     "category": "ecosystem"
   },
   {
@@ -20,23 +20,23 @@
     "category": "ecosystem"
   },
   {
+    "tag": "v2ray",
+    "count": 78,
+    "category": "ecosystem"
+  },
+  {
     "tag": "domain-list-community",
     "count": 77,
     "category": "ecosystem"
   },
   {
-    "tag": "v2ray",
-    "count": 77,
-    "category": "ecosystem"
-  },
-  {
     "tag": "meta-rules-dat",
-    "count": 65,
+    "count": 66,
     "category": "ecosystem"
   },
   {
     "tag": "Loyalsoldier",
-    "count": 64,
+    "count": 65,
     "category": "ecosystem"
   },
   {
@@ -45,13 +45,13 @@
     "category": "core"
   },
   {
-    "tag": "网络代理",
-    "count": 58,
-    "category": "core"
+    "tag": "OpenVPN",
+    "count": 59,
+    "category": "ecosystem"
   },
   {
-    "tag": "OpenVPN",
-    "count": 57,
+    "tag": "网络代理",
+    "count": 58,
     "category": "core"
   },
   {
@@ -61,17 +61,17 @@
   },
   {
     "tag": "rules",
-    "count": 50,
+    "count": 51,
     "category": "ecosystem"
   },
   {
     "tag": "3x-ui",
-    "count": 49,
+    "count": 50,
     "category": "core"
   },
   {
     "tag": "Android",
-    "count": 47,
+    "count": 49,
     "category": "client"
   },
   {
@@ -95,14 +95,19 @@
     "category": "client"
   },
   {
+    "tag": "xhttp-opts",
+    "count": 33,
+    "category": "core"
+  },
+  {
+    "tag": "ClashMetaForAndroid",
+    "count": 32,
+    "category": "client"
+  },
+  {
     "tag": "dat",
     "count": 32,
     "category": "ecosystem"
-  },
-  {
-    "tag": "xhttp-opts",
-    "count": 32,
-    "category": "core"
   },
   {
     "tag": "Windows",
@@ -110,14 +115,14 @@
     "category": "client"
   },
   {
-    "tag": "ClashMetaForAndroid",
+    "tag": "开发版本",
     "count": 30,
-    "category": "client"
+    "category": "ecosystem"
   },
   {
-    "tag": "开发版本",
+    "tag": "Snell",
     "count": 29,
-    "category": "ecosystem"
+    "category": "protocol"
   },
   {
     "tag": "SagerNet",
@@ -135,11 +140,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "Snell",
-    "count": 28,
-    "category": "protocol"
-  },
-  {
     "tag": "Linux",
     "count": 28,
     "category": "client"
@@ -150,14 +150,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "网络工具",
+    "count": 24,
+    "category": "ecosystem"
+  },
+  {
     "tag": "HTTP/2",
     "count": 24,
     "category": "protocol"
-  },
-  {
-    "tag": "网络工具",
-    "count": 23,
-    "category": "ecosystem"
   },
   {
     "tag": "v2rayN",
@@ -173,6 +173,11 @@
     "tag": "rematch",
     "count": 20,
     "category": "core"
+  },
+  {
+    "tag": "依赖更新",
+    "count": 19,
+    "category": "client"
   },
   {
     "tag": "QUIC",
@@ -210,8 +215,8 @@
     "category": "dns_rules"
   },
   {
-    "tag": "依赖更新",
-    "count": 17,
+    "tag": "自动化构建",
+    "count": 16,
     "category": "ecosystem"
   },
   {
@@ -235,8 +240,8 @@
     "category": "ecosystem"
   },
   {
-    "tag": "自动化构建",
-    "count": 15,
+    "tag": "snell",
+    "count": 14,
     "category": "ecosystem"
   },
   {
@@ -253,11 +258,6 @@
     "tag": "SOCKS",
     "count": 13,
     "category": "client"
-  },
-  {
-    "tag": "snell",
-    "count": 13,
-    "category": "core"
   },
   {
     "tag": "Clash",
@@ -425,6 +425,11 @@
     "category": "client"
   },
   {
+    "tag": "shadow-tls",
+    "count": 7,
+    "category": "ecosystem"
+  },
+  {
     "tag": "v2ray-core",
     "count": 7,
     "category": "core"
@@ -471,11 +476,6 @@
   },
   {
     "tag": "Shadowrocket",
-    "count": 6,
-    "category": "client"
-  },
-  {
-    "tag": "shadow-tls",
     "count": 6,
     "category": "client"
   },
@@ -733,6 +733,11 @@
     "tag": "nekoray",
     "count": 4,
     "category": "client"
+  },
+  {
+    "tag": "vmess",
+    "count": 3,
+    "category": "ecosystem"
   },
   {
     "tag": "Node.js",
@@ -1260,6 +1265,11 @@
     "category": "client"
   },
   {
+    "tag": "Hysteria2",
+    "count": 2,
+    "category": "protocol"
+  },
+  {
     "tag": "masque",
     "count": 2,
     "category": "ecosystem"
@@ -1360,11 +1370,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "vmess",
-    "count": 2,
-    "category": "ecosystem"
-  },
-  {
     "tag": "logging",
     "count": 2,
     "category": "core"
@@ -1388,6 +1393,11 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "INTERACT_ACROSS_USERS",
+    "count": 1,
+    "category": "client"
   },
   {
     "tag": "bridge",
@@ -2353,11 +2363,6 @@
     "tag": "mipsel",
     "count": 1,
     "category": "client"
-  },
-  {
-    "tag": "Hysteria2",
-    "count": 1,
-    "category": "protocol"
   },
   {
     "tag": "流量混淆",
