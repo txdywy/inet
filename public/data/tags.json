@@ -1,7 +1,7 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 235,
+    "count": 236,
     "category": "ecosystem"
   },
   {
@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 109,
+    "count": 110,
     "category": "ecosystem"
   },
   {
@@ -66,7 +66,7 @@
   },
   {
     "tag": "3x-ui",
-    "count": 50,
+    "count": 51,
     "category": "core"
   },
   {
@@ -110,14 +110,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "开发版本",
+    "count": 31,
+    "category": "ecosystem"
+  },
+  {
     "tag": "Windows",
     "count": 30,
     "category": "client"
-  },
-  {
-    "tag": "开发版本",
-    "count": 30,
-    "category": "ecosystem"
   },
   {
     "tag": "Snell",
@@ -215,6 +215,11 @@
     "category": "dns_rules"
   },
   {
+    "tag": "自动构建",
+    "count": 16,
+    "category": "ecosystem"
+  },
+  {
     "tag": "自动化构建",
     "count": 16,
     "category": "ecosystem"
@@ -231,11 +236,6 @@
   },
   {
     "tag": "VPN",
-    "count": 15,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "自动构建",
     "count": 15,
     "category": "ecosystem"
   },
@@ -670,6 +670,11 @@
     "category": "core"
   },
   {
+    "tag": "修复",
+    "count": 4,
+    "category": "ecosystem"
+  },
+  {
     "tag": "优化",
     "count": 4,
     "category": "ecosystem"
@@ -745,11 +750,6 @@
     "category": "core"
   },
   {
-    "tag": "修复",
-    "count": 3,
-    "category": "ecosystem"
-  },
-  {
     "tag": "分类更新",
     "count": 3,
     "category": "ecosystem"
@@ -773,6 +773,11 @@
     "tag": "本地化",
     "count": 3,
     "category": "client"
+  },
+  {
+    "tag": "MHSanaei",
+    "count": 3,
+    "category": "ecosystem"
   },
   {
     "tag": "文件路由",
@@ -1043,11 +1048,6 @@
     "tag": "SQLite",
     "count": 2,
     "category": "core"
-  },
-  {
-    "tag": "MHSanaei",
-    "count": 2,
-    "category": "ecosystem"
   },
   {
     "tag": "服务器",
@@ -1378,6 +1378,11 @@
     "tag": "NekoBox",
     "count": 2,
     "category": "client"
+  },
+  {
+    "tag": "监听器",
+    "count": 2,
+    "category": "core"
   },
   {
     "tag": "ping keepalive",
@@ -3303,11 +3308,6 @@
     "tag": "Pushover",
     "count": 1,
     "category": "ecosystem"
-  },
-  {
-    "tag": "监听器",
-    "count": 1,
-    "category": "core"
   },
   {
     "tag": "会话管理",
