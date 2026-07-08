@@ -1,9 +1,9 @@
 {
-  "totalItems": 915,
-  "last24h": 13,
-  "last7d": 60,
+  "totalItems": 916,
+  "last24h": 7,
+  "last7d": 58,
   "byCategory": {
-    "core": 144,
+    "core": 145,
     "client": 200,
     "router": 1,
     "protocol": 49,
@@ -19,7 +19,7 @@
     },
     {
       "project": "mihomo",
-      "count": 101
+      "count": 102
     },
     {
       "project": "Sub-Store",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 234
+      "count": 235
     },
     {
       "tag": "v2fly",
@@ -65,7 +65,7 @@
     },
     {
       "tag": "mihomo",
-      "count": 108
+      "count": 109
     },
     {
       "tag": "Sub-Store",
@@ -139,5 +139,5 @@
   "importantCount": 227,
   "breakingCount": 43,
   "securityCount": 57,
-  "updatedAt": "2026-07-08T03:48:35.872Z"
+  "updatedAt": "2026-07-08T08:46:27.406Z"
 }

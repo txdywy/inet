@@ -1,7 +1,7 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 234,
+    "count": 235,
     "category": "ecosystem"
   },
   {
@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 108,
+    "count": 109,
     "category": "ecosystem"
   },
   {
@@ -745,6 +745,11 @@
     "category": "core"
   },
   {
+    "tag": "修复",
+    "count": 3,
+    "category": "ecosystem"
+  },
+  {
     "tag": "分类更新",
     "count": 3,
     "category": "ecosystem"
@@ -988,11 +993,6 @@
     "tag": "多客户端",
     "count": 2,
     "category": "core"
-  },
-  {
-    "tag": "修复",
-    "count": 2,
-    "category": "ecosystem"
   },
   {
     "tag": "改进",
@@ -3303,6 +3303,11 @@
     "tag": "Pushover",
     "count": 1,
     "category": "ecosystem"
+  },
+  {
+    "tag": "监听器",
+    "count": 1,
+    "category": "core"
   },
   {
     "tag": "会话管理",
