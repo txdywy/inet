@@ -1,12 +1,12 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 236,
-    "category": "ecosystem"
+    "count": 237,
+    "category": "client"
   },
   {
     "tag": "v2fly",
-    "count": 153,
+    "count": 154,
     "category": "ecosystem"
   },
   {
@@ -20,13 +20,13 @@
     "category": "ecosystem"
   },
   {
-    "tag": "v2ray",
+    "tag": "domain-list-community",
     "count": 78,
     "category": "ecosystem"
   },
   {
-    "tag": "domain-list-community",
-    "count": 77,
+    "tag": "v2ray",
+    "count": 78,
     "category": "ecosystem"
   },
   {
@@ -41,8 +41,8 @@
   },
   {
     "tag": "metacubexd",
-    "count": 63,
-    "category": "core"
+    "count": 64,
+    "category": "client"
   },
   {
     "tag": "OpenVPN",
@@ -60,14 +60,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "3x-ui",
+    "count": 52,
+    "category": "core"
+  },
+  {
     "tag": "rules",
     "count": 51,
     "category": "ecosystem"
-  },
-  {
-    "tag": "3x-ui",
-    "count": 51,
-    "category": "core"
   },
   {
     "tag": "Android",
@@ -76,8 +76,8 @@
   },
   {
     "tag": "代理",
-    "count": 38,
-    "category": "core"
+    "count": 39,
+    "category": "client"
   },
   {
     "tag": "sing-box",
@@ -170,14 +170,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "依赖更新",
+    "count": 20,
+    "category": "ecosystem"
+  },
+  {
     "tag": "rematch",
     "count": 20,
     "category": "core"
-  },
-  {
-    "tag": "依赖更新",
-    "count": 19,
-    "category": "client"
   },
   {
     "tag": "QUIC",
@@ -216,7 +216,7 @@
   },
   {
     "tag": "自动构建",
-    "count": 16,
+    "count": 17,
     "category": "ecosystem"
   },
   {
@@ -925,6 +925,11 @@
     "category": "protocol"
   },
   {
+    "tag": "桌面应用",
+    "count": 2,
+    "category": "client"
+  },
+  {
     "tag": "网络转发",
     "count": 2,
     "category": "core"
@@ -1048,6 +1053,11 @@
     "tag": "SQLite",
     "count": 2,
     "category": "core"
+  },
+  {
+    "tag": "开发版",
+    "count": 2,
+    "category": "ecosystem"
   },
   {
     "tag": "服务器",
@@ -1705,11 +1715,6 @@
     "category": "core"
   },
   {
-    "tag": "开发版",
-    "count": 1,
-    "category": "ecosystem"
-  },
-  {
     "tag": "版本升级",
     "count": 1,
     "category": "core"
@@ -1801,11 +1806,6 @@
   },
   {
     "tag": "越狱",
-    "count": 1,
-    "category": "client"
-  },
-  {
-    "tag": "桌面应用",
     "count": 1,
     "category": "client"
   },
