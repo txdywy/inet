@@ -1,17 +1,17 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 238,
+    "count": 239,
     "category": "ecosystem"
   },
   {
     "tag": "v2fly",
-    "count": 156,
+    "count": 157,
     "category": "ecosystem"
   },
   {
     "tag": "mihomo",
-    "count": 110,
+    "count": 111,
     "category": "ecosystem"
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "tag": "domain-list-community",
-    "count": 79,
+    "count": 80,
     "category": "ecosystem"
   },
   {
@@ -61,7 +61,7 @@
   },
   {
     "tag": "3x-ui",
-    "count": 53,
+    "count": 54,
     "category": "core"
   },
   {
@@ -81,7 +81,7 @@
   },
   {
     "tag": "sing-box",
-    "count": 36,
+    "count": 37,
     "category": "core"
   },
   {
@@ -100,6 +100,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "开发版本",
+    "count": 33,
+    "category": "ecosystem"
+  },
+  {
     "tag": "xhttp-opts",
     "count": 33,
     "category": "core"
@@ -110,24 +115,19 @@
     "category": "client"
   },
   {
-    "tag": "开发版本",
-    "count": 32,
-    "category": "ecosystem"
+    "tag": "Windows",
+    "count": 31,
+    "category": "core"
   },
   {
-    "tag": "Windows",
-    "count": 30,
-    "category": "client"
+    "tag": "SagerNet",
+    "count": 29,
+    "category": "core"
   },
   {
     "tag": "Snell",
     "count": 29,
     "category": "protocol"
-  },
-  {
-    "tag": "SagerNet",
-    "count": 28,
-    "category": "core"
   },
   {
     "tag": "Tailscale",
@@ -200,6 +200,11 @@
     "category": "core"
   },
   {
+    "tag": "自动化构建",
+    "count": 18,
+    "category": "ecosystem"
+  },
+  {
     "tag": "Xray",
     "count": 18,
     "category": "core"
@@ -213,11 +218,6 @@
     "tag": "DNS",
     "count": 17,
     "category": "dns_rules"
-  },
-  {
-    "tag": "自动化构建",
-    "count": 17,
-    "category": "ecosystem"
   },
   {
     "tag": "自动构建",
@@ -535,6 +535,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "hysteria2",
+    "count": 5,
+    "category": "core"
+  },
+  {
     "tag": "V2Ray",
     "count": 5,
     "category": "ecosystem"
@@ -548,6 +553,11 @@
     "tag": "安全修复",
     "count": 5,
     "category": "security"
+  },
+  {
+    "tag": "修复",
+    "count": 5,
+    "category": "ecosystem"
   },
   {
     "tag": "quic-go",
@@ -670,11 +680,6 @@
     "category": "core"
   },
   {
-    "tag": "修复",
-    "count": 4,
-    "category": "ecosystem"
-  },
-  {
     "tag": "优化",
     "count": 4,
     "category": "ecosystem"
@@ -686,6 +691,11 @@
   },
   {
     "tag": "依赖管理",
+    "count": 4,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "MHSanaei",
     "count": 4,
     "category": "ecosystem"
   },
@@ -715,11 +725,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "hysteria2",
-    "count": 4,
-    "category": "protocol"
-  },
-  {
     "tag": "CI",
     "count": 4,
     "category": "ecosystem"
@@ -738,6 +743,11 @@
     "tag": "nekoray",
     "count": 4,
     "category": "client"
+  },
+  {
+    "tag": "域名分类",
+    "count": 3,
+    "category": "ecosystem"
   },
   {
     "tag": "vmess",
@@ -773,11 +783,6 @@
     "tag": "本地化",
     "count": 3,
     "category": "client"
-  },
-  {
-    "tag": "MHSanaei",
-    "count": 3,
-    "category": "ecosystem"
   },
   {
     "tag": "文件路由",
@@ -915,6 +920,11 @@
     "category": "client"
   },
   {
+    "tag": "监听器",
+    "count": 3,
+    "category": "core"
+  },
+  {
     "tag": "TUIC",
     "count": 3,
     "category": "ecosystem"
@@ -923,6 +933,11 @@
     "tag": "protocol",
     "count": 3,
     "category": "protocol"
+  },
+  {
+    "tag": "bridge",
+    "count": 2,
+    "category": "core"
   },
   {
     "tag": "BPF",
@@ -1133,11 +1148,6 @@
     "tag": "Chromium",
     "count": 2,
     "category": "core"
-  },
-  {
-    "tag": "域名分类",
-    "count": 2,
-    "category": "ecosystem"
   },
   {
     "tag": "连接管理",
@@ -1395,11 +1405,6 @@
     "category": "client"
   },
   {
-    "tag": "监听器",
-    "count": 2,
-    "category": "core"
-  },
-  {
     "tag": "ping keepalive",
     "count": 2,
     "category": "protocol"
@@ -1415,6 +1420,11 @@
     "category": "security"
   },
   {
+    "tag": "苹果",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
     "tag": "aux",
     "count": 1,
     "category": "ecosystem"
@@ -1423,11 +1433,6 @@
     "tag": "INTERACT_ACROSS_USERS",
     "count": 1,
     "category": "client"
-  },
-  {
-    "tag": "bridge",
-    "count": 1,
-    "category": "core"
   },
   {
     "tag": "L3",
