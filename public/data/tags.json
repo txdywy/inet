@@ -1,12 +1,12 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 237,
-    "category": "client"
+    "count": 238,
+    "category": "ecosystem"
   },
   {
     "tag": "v2fly",
-    "count": 154,
+    "count": 156,
     "category": "ecosystem"
   },
   {
@@ -21,22 +21,22 @@
   },
   {
     "tag": "domain-list-community",
-    "count": 78,
+    "count": 79,
     "category": "ecosystem"
   },
   {
     "tag": "v2ray",
-    "count": 78,
+    "count": 79,
     "category": "ecosystem"
   },
   {
     "tag": "meta-rules-dat",
-    "count": 66,
+    "count": 67,
     "category": "ecosystem"
   },
   {
     "tag": "Loyalsoldier",
-    "count": 65,
+    "count": 66,
     "category": "ecosystem"
   },
   {
@@ -56,17 +56,17 @@
   },
   {
     "tag": "domain-list",
-    "count": 56,
+    "count": 57,
     "category": "ecosystem"
   },
   {
     "tag": "3x-ui",
-    "count": 52,
+    "count": 53,
     "category": "core"
   },
   {
     "tag": "rules",
-    "count": 51,
+    "count": 52,
     "category": "ecosystem"
   },
   {
@@ -95,6 +95,11 @@
     "category": "client"
   },
   {
+    "tag": "dat",
+    "count": 33,
+    "category": "ecosystem"
+  },
+  {
     "tag": "xhttp-opts",
     "count": 33,
     "category": "core"
@@ -105,13 +110,8 @@
     "category": "client"
   },
   {
-    "tag": "dat",
-    "count": 32,
-    "category": "ecosystem"
-  },
-  {
     "tag": "开发版本",
-    "count": 31,
+    "count": 32,
     "category": "ecosystem"
   },
   {
@@ -215,13 +215,13 @@
     "category": "dns_rules"
   },
   {
-    "tag": "自动构建",
+    "tag": "自动化构建",
     "count": 17,
     "category": "ecosystem"
   },
   {
-    "tag": "自动化构建",
-    "count": 16,
+    "tag": "自动构建",
+    "count": 17,
     "category": "ecosystem"
   },
   {
@@ -315,6 +315,16 @@
     "category": "ecosystem"
   },
   {
+    "tag": "域名解析",
+    "count": 10,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "Docker",
+    "count": 10,
+    "category": "ecosystem"
+  },
+  {
     "tag": "性能优化",
     "count": 10,
     "category": "client"
@@ -340,9 +350,9 @@
     "category": "ecosystem"
   },
   {
-    "tag": "域名解析",
+    "tag": "Go",
     "count": 9,
-    "category": "dns_rules"
+    "category": "ecosystem"
   },
   {
     "tag": "中国域名",
@@ -351,11 +361,6 @@
   },
   {
     "tag": "域名列表",
-    "count": 9,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "Docker",
     "count": 9,
     "category": "ecosystem"
   },
@@ -388,11 +393,6 @@
     "tag": "OpenClash",
     "count": 8,
     "category": "ecosystem"
-  },
-  {
-    "tag": "Go",
-    "count": 8,
-    "category": "protocol"
   },
   {
     "tag": "proxy",
@@ -462,6 +462,11 @@
   {
     "tag": "shadowsocks",
     "count": 7,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "dae",
+    "count": 6,
     "category": "ecosystem"
   },
   {
@@ -573,11 +578,6 @@
     "tag": "CloudflareSpeedTest",
     "count": 5,
     "category": "client"
-  },
-  {
-    "tag": "dae",
-    "count": 5,
-    "category": "ecosystem"
   },
   {
     "tag": "Hiddify",
@@ -923,6 +923,11 @@
     "tag": "protocol",
     "count": 3,
     "category": "protocol"
+  },
+  {
+    "tag": "BPF",
+    "count": 2,
+    "category": "ecosystem"
   },
   {
     "tag": "桌面应用",
@@ -1408,6 +1413,11 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "aux",
+    "count": 1,
+    "category": "ecosystem"
   },
   {
     "tag": "INTERACT_ACROSS_USERS",
@@ -2938,11 +2948,6 @@
     "tag": "发布候选",
     "count": 1,
     "category": "ecosystem"
-  },
-  {
-    "tag": "BPF",
-    "count": 1,
-    "category": "core"
   },
   {
     "tag": "bash",
