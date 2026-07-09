@@ -1,14 +1,14 @@
 {
-  "totalItems": 931,
-  "last24h": 9,
-  "last7d": 62,
+  "totalItems": 932,
+  "last24h": 8,
+  "last7d": 57,
   "byCategory": {
     "core": 148,
     "client": 201,
     "router": 1,
     "protocol": 49,
     "dns_rules": 24,
-    "security": 9,
+    "security": 10,
     "ecosystem": 499,
     "trend": 0
   },
@@ -136,8 +136,8 @@
       "count": 33
     }
   ],
-  "importantCount": 230,
+  "importantCount": 231,
   "breakingCount": 43,
-  "securityCount": 57,
-  "updatedAt": "2026-07-09T09:59:27.748Z"
+  "securityCount": 58,
+  "updatedAt": "2026-07-09T15:35:37.876Z"
 }
