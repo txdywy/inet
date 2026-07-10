@@ -16,8 +16,8 @@
   },
   {
     "tag": "Sub-Store",
-    "count": 90,
-    "category": "ecosystem"
+    "count": 91,
+    "category": "protocol"
   },
   {
     "tag": "v2ray",
@@ -46,7 +46,7 @@
   },
   {
     "tag": "网络代理",
-    "count": 59,
+    "count": 60,
     "category": "ecosystem"
   },
   {
@@ -76,17 +76,17 @@
   },
   {
     "tag": "代理",
-    "count": 39,
-    "category": "client"
+    "count": 40,
+    "category": "protocol"
   },
   {
     "tag": "sing-box",
-    "count": 37,
-    "category": "core"
+    "count": 38,
+    "category": "ecosystem"
   },
   {
     "tag": "开源",
-    "count": 35,
+    "count": 36,
     "category": "ecosystem"
   },
   {
@@ -120,18 +120,23 @@
     "category": "client"
   },
   {
+    "tag": "SagerNet",
+    "count": 30,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "Snell",
+    "count": 30,
+    "category": "protocol"
+  },
+  {
     "tag": "Linux",
     "count": 29,
     "category": "security"
   },
   {
-    "tag": "SagerNet",
-    "count": 29,
-    "category": "core"
-  },
-  {
-    "tag": "Snell",
-    "count": 29,
+    "tag": "网络协议",
+    "count": 28,
     "category": "protocol"
   },
   {
@@ -142,11 +147,6 @@
   {
     "tag": "go-gost",
     "count": 28,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "网络协议",
-    "count": 27,
     "category": "ecosystem"
   },
   {
@@ -620,6 +620,11 @@
     "category": "protocol"
   },
   {
+    "tag": "ShadowTLS",
+    "count": 4,
+    "category": "protocol"
+  },
+  {
     "tag": "依赖库",
     "count": 4,
     "category": "ecosystem"
@@ -806,11 +811,6 @@
   },
   {
     "tag": "网络",
-    "count": 3,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "ShadowTLS",
     "count": 3,
     "category": "ecosystem"
   },

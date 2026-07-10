@@ -1,15 +1,15 @@
 {
-  "totalItems": 935,
+  "totalItems": 937,
   "last24h": 6,
-  "last7d": 57,
+  "last7d": 59,
   "byCategory": {
     "core": 148,
     "client": 201,
     "router": 1,
-    "protocol": 49,
+    "protocol": 50,
     "dns_rules": 24,
     "security": 10,
-    "ecosystem": 502,
+    "ecosystem": 503,
     "trend": 0
   },
   "topProjects": [
@@ -23,7 +23,7 @@
     },
     {
       "project": "Sub-Store",
-      "count": 90
+      "count": 91
     },
     {
       "project": "v2ray-rules-dat",
@@ -47,7 +47,7 @@
     },
     {
       "project": "sing-box",
-      "count": 29
+      "count": 30
     },
     {
       "project": "gost",
@@ -69,7 +69,7 @@
     },
     {
       "tag": "Sub-Store",
-      "count": 90
+      "count": 91
     },
     {
       "tag": "v2ray",
@@ -93,7 +93,7 @@
     },
     {
       "tag": "网络代理",
-      "count": 59
+      "count": 60
     },
     {
       "tag": "OpenVPN",
@@ -117,15 +117,15 @@
     },
     {
       "tag": "代理",
-      "count": 39
+      "count": 40
     },
     {
       "tag": "sing-box",
-      "count": 37
+      "count": 38
     },
     {
       "tag": "开源",
-      "count": 35
+      "count": 36
     },
     {
       "tag": "代理工具",
@@ -136,8 +136,8 @@
       "count": 33
     }
   ],
-  "importantCount": 231,
+  "importantCount": 232,
   "breakingCount": 43,
   "securityCount": 58,
-  "updatedAt": "2026-07-10T04:18:17.786Z"
+  "updatedAt": "2026-07-10T09:54:35.480Z"
 }
