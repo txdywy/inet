@@ -1,7 +1,7 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 240,
+    "count": 241,
     "category": "ecosystem"
   },
   {
@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 111,
+    "count": 112,
     "category": "ecosystem"
   },
   {
@@ -46,7 +46,7 @@
   },
   {
     "tag": "网络代理",
-    "count": 60,
+    "count": 61,
     "category": "ecosystem"
   },
   {
@@ -61,7 +61,7 @@
   },
   {
     "tag": "3x-ui",
-    "count": 54,
+    "count": 55,
     "category": "core"
   },
   {
@@ -95,12 +95,12 @@
     "category": "client"
   },
   {
-    "tag": "dat",
-    "count": 33,
+    "tag": "开发版本",
+    "count": 34,
     "category": "ecosystem"
   },
   {
-    "tag": "开发版本",
+    "tag": "dat",
     "count": 33,
     "category": "ecosystem"
   },
@@ -180,6 +180,11 @@
     "category": "core"
   },
   {
+    "tag": "自动化构建",
+    "count": 19,
+    "category": "ecosystem"
+  },
+  {
     "tag": "QUIC",
     "count": 19,
     "category": "client"
@@ -198,11 +203,6 @@
     "tag": "Xray-core",
     "count": 18,
     "category": "core"
-  },
-  {
-    "tag": "自动化构建",
-    "count": 18,
-    "category": "ecosystem"
   },
   {
     "tag": "Xray",
@@ -265,6 +265,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "WireGuard",
+    "count": 12,
+    "category": "protocol"
+  },
+  {
     "tag": "HTTP",
     "count": 12,
     "category": "core"
@@ -293,11 +298,6 @@
     "tag": "用户体验",
     "count": 11,
     "category": "client"
-  },
-  {
-    "tag": "WireGuard",
-    "count": 11,
-    "category": "protocol"
   },
   {
     "tag": "xray",
@@ -750,6 +750,11 @@
     "category": "client"
   },
   {
+    "tag": "TUIC",
+    "count": 4,
+    "category": "client"
+  },
+  {
     "tag": "域名分类",
     "count": 3,
     "category": "ecosystem"
@@ -923,11 +928,6 @@
     "tag": "监听器",
     "count": 3,
     "category": "core"
-  },
-  {
-    "tag": "TUIC",
-    "count": 3,
-    "category": "ecosystem"
   },
   {
     "tag": "protocol",
