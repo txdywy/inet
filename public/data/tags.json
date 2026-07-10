@@ -1,12 +1,12 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 239,
+    "count": 240,
     "category": "ecosystem"
   },
   {
     "tag": "v2fly",
-    "count": 157,
+    "count": 158,
     "category": "ecosystem"
   },
   {
@@ -20,23 +20,23 @@
     "category": "ecosystem"
   },
   {
+    "tag": "v2ray",
+    "count": 80,
+    "category": "ecosystem"
+  },
+  {
     "tag": "domain-list-community",
     "count": 80,
     "category": "ecosystem"
   },
   {
-    "tag": "v2ray",
-    "count": 79,
-    "category": "ecosystem"
-  },
-  {
     "tag": "meta-rules-dat",
-    "count": 67,
+    "count": 68,
     "category": "ecosystem"
   },
   {
     "tag": "Loyalsoldier",
-    "count": 66,
+    "count": 67,
     "category": "ecosystem"
   },
   {
@@ -45,18 +45,18 @@
     "category": "client"
   },
   {
+    "tag": "网络代理",
+    "count": 59,
+    "category": "ecosystem"
+  },
+  {
     "tag": "OpenVPN",
     "count": 59,
     "category": "ecosystem"
   },
   {
-    "tag": "网络代理",
-    "count": 58,
-    "category": "core"
-  },
-  {
     "tag": "domain-list",
-    "count": 57,
+    "count": 58,
     "category": "ecosystem"
   },
   {
@@ -66,7 +66,7 @@
   },
   {
     "tag": "rules",
-    "count": 52,
+    "count": 53,
     "category": "ecosystem"
   },
   {
@@ -86,7 +86,7 @@
   },
   {
     "tag": "开源",
-    "count": 34,
+    "count": 35,
     "category": "ecosystem"
   },
   {
@@ -151,7 +151,7 @@
   },
   {
     "tag": "网络工具",
-    "count": 24,
+    "count": 25,
     "category": "ecosystem"
   },
   {
