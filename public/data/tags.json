@@ -1,31 +1,31 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 241,
+    "count": 242,
     "category": "ecosystem"
   },
   {
     "tag": "v2fly",
-    "count": 158,
+    "count": 159,
     "category": "ecosystem"
   },
   {
     "tag": "mihomo",
-    "count": 112,
+    "count": 113,
     "category": "ecosystem"
   },
   {
     "tag": "Sub-Store",
-    "count": 91,
-    "category": "protocol"
-  },
-  {
-    "tag": "v2ray",
-    "count": 80,
-    "category": "ecosystem"
+    "count": 92,
+    "category": "client"
   },
   {
     "tag": "domain-list-community",
+    "count": 81,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "v2ray",
     "count": 80,
     "category": "ecosystem"
   },
@@ -46,8 +46,8 @@
   },
   {
     "tag": "网络代理",
-    "count": 61,
-    "category": "ecosystem"
+    "count": 62,
+    "category": "client"
   },
   {
     "tag": "OpenVPN",
@@ -200,6 +200,11 @@
     "category": "client"
   },
   {
+    "tag": "DNS",
+    "count": 18,
+    "category": "dns_rules"
+  },
+  {
     "tag": "Xray-core",
     "count": 18,
     "category": "core"
@@ -218,11 +223,6 @@
     "tag": "用户界面",
     "count": 17,
     "category": "client"
-  },
-  {
-    "tag": "DNS",
-    "count": 17,
-    "category": "dns_rules"
   },
   {
     "tag": "自动构建",
@@ -245,6 +245,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "WireGuard",
+    "count": 13,
+    "category": "protocol"
+  },
+  {
     "tag": "naiveproxy",
     "count": 13,
     "category": "core"
@@ -260,14 +265,14 @@
     "category": "client"
   },
   {
+    "tag": "SUDOKU-ASCII",
+    "count": 12,
+    "category": "core"
+  },
+  {
     "tag": "Clash",
     "count": 12,
     "category": "ecosystem"
-  },
-  {
-    "tag": "WireGuard",
-    "count": 12,
-    "category": "protocol"
   },
   {
     "tag": "HTTP",
@@ -283,6 +288,16 @@
     "tag": "v2rayA",
     "count": 12,
     "category": "security"
+  },
+  {
+    "tag": "sudoku",
+    "count": 11,
+    "category": "core"
+  },
+  {
+    "tag": "性能优化",
+    "count": 11,
+    "category": "core"
   },
   {
     "tag": "域名",
@@ -310,11 +325,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "SUDOKU-ASCII",
-    "count": 11,
-    "category": "ecosystem"
-  },
-  {
     "tag": "域名解析",
     "count": 10,
     "category": "ecosystem"
@@ -323,11 +333,6 @@
     "tag": "Docker",
     "count": 10,
     "category": "ecosystem"
-  },
-  {
-    "tag": "性能优化",
-    "count": 10,
-    "category": "client"
   },
   {
     "tag": "dns",
@@ -343,11 +348,6 @@
     "tag": "VMess",
     "count": 10,
     "category": "protocol"
-  },
-  {
-    "tag": "sudoku",
-    "count": 10,
-    "category": "ecosystem"
   },
   {
     "tag": "Go",
@@ -425,6 +425,11 @@
     "category": "client"
   },
   {
+    "tag": "API",
+    "count": 7,
+    "category": "core"
+  },
+  {
     "tag": "shadow-tls",
     "count": 7,
     "category": "ecosystem"
@@ -483,11 +488,6 @@
     "tag": "Shadowrocket",
     "count": 6,
     "category": "client"
-  },
-  {
-    "tag": "API",
-    "count": 6,
-    "category": "ecosystem"
   },
   {
     "tag": "Loon",
@@ -603,6 +603,11 @@
     "tag": "juicity",
     "count": 5,
     "category": "ecosystem"
+  },
+  {
+    "tag": "TUIC",
+    "count": 5,
+    "category": "client"
   },
   {
     "tag": "mieru",
@@ -750,8 +755,8 @@
     "category": "client"
   },
   {
-    "tag": "TUIC",
-    "count": 4,
+    "tag": "Trojan",
+    "count": 3,
     "category": "client"
   },
   {
@@ -1180,11 +1185,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "Trojan",
-    "count": 2,
-    "category": "protocol"
-  },
-  {
     "tag": "流媒体",
     "count": 2,
     "category": "ecosystem"
@@ -1418,6 +1418,21 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "多路复用",
+    "count": 1,
+    "category": "core"
+  },
+  {
+    "tag": "adacpp.com",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "信息技术奥林匹克",
+    "count": 1,
+    "category": "ecosystem"
   },
   {
     "tag": "安全更新",
