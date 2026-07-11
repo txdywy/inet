@@ -1,17 +1,17 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 243,
-    "category": "ecosystem"
+    "count": 246,
+    "category": "client"
   },
   {
     "tag": "v2fly",
-    "count": 160,
+    "count": 161,
     "category": "ecosystem"
   },
   {
     "tag": "mihomo",
-    "count": 113,
+    "count": 114,
     "category": "ecosystem"
   },
   {
@@ -41,7 +41,7 @@
   },
   {
     "tag": "metacubexd",
-    "count": 64,
+    "count": 66,
     "category": "client"
   },
   {
@@ -50,13 +50,13 @@
     "category": "ecosystem"
   },
   {
-    "tag": "OpenVPN",
+    "tag": "domain-list",
     "count": 59,
     "category": "ecosystem"
   },
   {
-    "tag": "domain-list",
-    "count": 58,
+    "tag": "OpenVPN",
+    "count": 59,
     "category": "ecosystem"
   },
   {
@@ -76,8 +76,8 @@
   },
   {
     "tag": "代理",
-    "count": 40,
-    "category": "protocol"
+    "count": 41,
+    "category": "client"
   },
   {
     "tag": "sing-box",
@@ -88,6 +88,11 @@
     "tag": "开源",
     "count": 36,
     "category": "ecosystem"
+  },
+  {
+    "tag": "Windows",
+    "count": 34,
+    "category": "client"
   },
   {
     "tag": "代理工具",
@@ -108,11 +113,6 @@
     "tag": "xhttp-opts",
     "count": 33,
     "category": "core"
-  },
-  {
-    "tag": "Windows",
-    "count": 32,
-    "category": "security"
   },
   {
     "tag": "ClashMetaForAndroid",
@@ -155,14 +155,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "v2rayN",
+    "count": 24,
+    "category": "security"
+  },
+  {
     "tag": "HTTP/2",
     "count": 24,
     "category": "protocol"
-  },
-  {
-    "tag": "v2rayN",
-    "count": 23,
-    "category": "security"
   },
   {
     "tag": "VLESS",
@@ -180,6 +180,11 @@
     "category": "core"
   },
   {
+    "tag": "DNS",
+    "count": 19,
+    "category": "dns_rules"
+  },
+  {
     "tag": "自动化构建",
     "count": 19,
     "category": "ecosystem"
@@ -195,14 +200,14 @@
     "category": "ecosystem"
   },
   {
-    "tag": "v2rayNG",
+    "tag": "用户界面",
     "count": 18,
     "category": "client"
   },
   {
-    "tag": "DNS",
+    "tag": "v2rayNG",
     "count": 18,
-    "category": "dns_rules"
+    "category": "client"
   },
   {
     "tag": "Xray-core",
@@ -218,11 +223,6 @@
     "tag": "macOS",
     "count": 17,
     "category": "security"
-  },
-  {
-    "tag": "用户界面",
-    "count": 17,
-    "category": "client"
   },
   {
     "tag": "自动构建",
@@ -245,14 +245,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "WireGuard",
+    "count": 14,
+    "category": "protocol"
+  },
+  {
     "tag": "SUDOKU-ASCII",
     "count": 13,
     "category": "core"
-  },
-  {
-    "tag": "WireGuard",
-    "count": 13,
-    "category": "protocol"
   },
   {
     "tag": "naiveproxy",
@@ -325,6 +325,16 @@
     "category": "ecosystem"
   },
   {
+    "tag": "TUN",
+    "count": 10,
+    "category": "client"
+  },
+  {
+    "tag": "中国域名",
+    "count": 10,
+    "category": "ecosystem"
+  },
+  {
     "tag": "域名解析",
     "count": 10,
     "category": "ecosystem"
@@ -355,11 +365,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "中国域名",
-    "count": 9,
-    "category": "ecosystem"
-  },
-  {
     "tag": "域名列表",
     "count": 9,
     "category": "ecosystem"
@@ -371,11 +376,6 @@
   },
   {
     "tag": ".NET",
-    "count": 9,
-    "category": "client"
-  },
-  {
-    "tag": "TUN",
     "count": 9,
     "category": "client"
   },
@@ -535,6 +535,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "helloworld",
+    "count": 5,
+    "category": "ecosystem"
+  },
+  {
     "tag": "hysteria2",
     "count": 5,
     "category": "core"
@@ -625,6 +630,11 @@
     "category": "protocol"
   },
   {
+    "tag": "本地化",
+    "count": 4,
+    "category": "security"
+  },
+  {
     "tag": "ShadowTLS",
     "count": 4,
     "category": "protocol"
@@ -643,11 +653,6 @@
     "tag": "SDK",
     "count": 4,
     "category": "client"
-  },
-  {
-    "tag": "helloworld",
-    "count": 4,
-    "category": "ecosystem"
   },
   {
     "tag": "luci-app-ssr-plus",
@@ -795,11 +800,6 @@
     "category": "protocol"
   },
   {
-    "tag": "本地化",
-    "count": 3,
-    "category": "client"
-  },
-  {
     "tag": "文件路由",
     "count": 3,
     "category": "ecosystem"
@@ -938,6 +938,16 @@
     "tag": "protocol",
     "count": 3,
     "category": "protocol"
+  },
+  {
+    "tag": "安全更新",
+    "count": 2,
+    "category": "security"
+  },
+  {
+    "tag": "中间人攻击",
+    "count": 2,
+    "category": "security"
   },
   {
     "tag": "多路复用",
@@ -1425,6 +1435,16 @@
     "category": "security"
   },
   {
+    "tag": "fw876",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "布局修复",
+    "count": 1,
+    "category": "client"
+  },
+  {
     "tag": "Sentry",
     "count": 1,
     "category": "ecosystem"
@@ -1468,16 +1488,6 @@
     "tag": "信息技术奥林匹克",
     "count": 1,
     "category": "ecosystem"
-  },
-  {
-    "tag": "安全更新",
-    "count": 1,
-    "category": "security"
-  },
-  {
-    "tag": "中间人攻击",
-    "count": 1,
-    "category": "security"
   },
   {
     "tag": "苹果",

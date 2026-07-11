@@ -1,25 +1,25 @@
 {
-  "totalItems": 949,
-  "last24h": 9,
-  "last7d": 61,
+  "totalItems": 955,
+  "last24h": 14,
+  "last7d": 63,
   "byCategory": {
-    "core": 152,
-    "client": 204,
+    "core": 153,
+    "client": 206,
     "router": 1,
     "protocol": 50,
     "dns_rules": 24,
-    "security": 10,
-    "ecosystem": 508,
+    "security": 11,
+    "ecosystem": 510,
     "trend": 0
   },
   "topProjects": [
     {
       "project": "domain-list-community",
-      "count": 156
+      "count": 157
     },
     {
       "project": "mihomo",
-      "count": 106
+      "count": 107
     },
     {
       "project": "Sub-Store",
@@ -30,11 +30,11 @@
       "count": 72
     },
     {
-      "project": "meta-rules-dat",
-      "count": 69
+      "project": "metacubexd",
+      "count": 71
     },
     {
-      "project": "metacubexd",
+      "project": "meta-rules-dat",
       "count": 69
     },
     {
@@ -57,15 +57,15 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 243
+      "count": 246
     },
     {
       "tag": "v2fly",
-      "count": 160
+      "count": 161
     },
     {
       "tag": "mihomo",
-      "count": 113
+      "count": 114
     },
     {
       "tag": "Sub-Store",
@@ -89,19 +89,19 @@
     },
     {
       "tag": "metacubexd",
-      "count": 64
+      "count": 66
     },
     {
       "tag": "网络代理",
       "count": 63
     },
     {
-      "tag": "OpenVPN",
+      "tag": "domain-list",
       "count": 59
     },
     {
-      "tag": "domain-list",
-      "count": 58
+      "tag": "OpenVPN",
+      "count": 59
     },
     {
       "tag": "3x-ui",
@@ -117,7 +117,7 @@
     },
     {
       "tag": "代理",
-      "count": 40
+      "count": 41
     },
     {
       "tag": "sing-box",
@@ -128,16 +128,16 @@
       "count": 36
     },
     {
-      "tag": "代理工具",
+      "tag": "Windows",
       "count": 34
     },
     {
-      "tag": "开发版本",
+      "tag": "代理工具",
       "count": 34
     }
   ],
-  "importantCount": 236,
+  "importantCount": 238,
   "breakingCount": 43,
-  "securityCount": 58,
-  "updatedAt": "2026-07-11T08:16:10.362Z"
+  "securityCount": 59,
+  "updatedAt": "2026-07-11T13:57:23.378Z"
 }
