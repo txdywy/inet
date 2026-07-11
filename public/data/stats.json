@@ -1,21 +1,21 @@
 {
-  "totalItems": 943,
-  "last24h": 8,
+  "totalItems": 948,
+  "last24h": 11,
   "last7d": 60,
   "byCategory": {
-    "core": 149,
+    "core": 151,
     "client": 204,
     "router": 1,
     "protocol": 50,
     "dns_rules": 24,
     "security": 10,
-    "ecosystem": 505,
+    "ecosystem": 508,
     "trend": 0
   },
   "topProjects": [
     {
       "project": "domain-list-community",
-      "count": 155
+      "count": 156
     },
     {
       "project": "mihomo",
@@ -23,19 +23,19 @@
     },
     {
       "project": "Sub-Store",
-      "count": 92
+      "count": 93
     },
     {
       "project": "v2ray-rules-dat",
-      "count": 71
+      "count": 72
+    },
+    {
+      "project": "meta-rules-dat",
+      "count": 69
     },
     {
       "project": "metacubexd",
       "count": 69
-    },
-    {
-      "project": "meta-rules-dat",
-      "count": 68
     },
     {
       "project": "3x-ui",
@@ -47,7 +47,7 @@
     },
     {
       "project": "sing-box",
-      "count": 30
+      "count": 31
     },
     {
       "project": "gost",
@@ -57,11 +57,11 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 242
+      "count": 243
     },
     {
       "tag": "v2fly",
-      "count": 159
+      "count": 160
     },
     {
       "tag": "mihomo",
@@ -69,23 +69,23 @@
     },
     {
       "tag": "Sub-Store",
-      "count": 92
+      "count": 93
+    },
+    {
+      "tag": "v2ray",
+      "count": 81
     },
     {
       "tag": "domain-list-community",
       "count": 81
     },
     {
-      "tag": "v2ray",
-      "count": 80
-    },
-    {
       "tag": "meta-rules-dat",
-      "count": 68
+      "count": 69
     },
     {
       "tag": "Loyalsoldier",
-      "count": 67
+      "count": 68
     },
     {
       "tag": "metacubexd",
@@ -93,7 +93,7 @@
     },
     {
       "tag": "网络代理",
-      "count": 62
+      "count": 63
     },
     {
       "tag": "OpenVPN",
@@ -109,7 +109,7 @@
     },
     {
       "tag": "rules",
-      "count": 53
+      "count": 54
     },
     {
       "tag": "Android",
@@ -121,7 +121,7 @@
     },
     {
       "tag": "sing-box",
-      "count": 38
+      "count": 39
     },
     {
       "tag": "开源",
@@ -136,8 +136,8 @@
       "count": 34
     }
   ],
-  "importantCount": 234,
+  "importantCount": 235,
   "breakingCount": 43,
   "securityCount": 58,
-  "updatedAt": "2026-07-10T19:49:30.311Z"
+  "updatedAt": "2026-07-11T03:45:30.415Z"
 }

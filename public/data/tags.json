@@ -1,12 +1,12 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 242,
+    "count": 243,
     "category": "ecosystem"
   },
   {
     "tag": "v2fly",
-    "count": 159,
+    "count": 160,
     "category": "ecosystem"
   },
   {
@@ -16,8 +16,13 @@
   },
   {
     "tag": "Sub-Store",
-    "count": 92,
-    "category": "client"
+    "count": 93,
+    "category": "core"
+  },
+  {
+    "tag": "v2ray",
+    "count": 81,
+    "category": "ecosystem"
   },
   {
     "tag": "domain-list-community",
@@ -25,18 +30,13 @@
     "category": "ecosystem"
   },
   {
-    "tag": "v2ray",
-    "count": 80,
-    "category": "ecosystem"
-  },
-  {
     "tag": "meta-rules-dat",
-    "count": 68,
+    "count": 69,
     "category": "ecosystem"
   },
   {
     "tag": "Loyalsoldier",
-    "count": 67,
+    "count": 68,
     "category": "ecosystem"
   },
   {
@@ -46,8 +46,8 @@
   },
   {
     "tag": "网络代理",
-    "count": 62,
-    "category": "client"
+    "count": 63,
+    "category": "ecosystem"
   },
   {
     "tag": "OpenVPN",
@@ -66,7 +66,7 @@
   },
   {
     "tag": "rules",
-    "count": 53,
+    "count": 54,
     "category": "ecosystem"
   },
   {
@@ -81,8 +81,8 @@
   },
   {
     "tag": "sing-box",
-    "count": 38,
-    "category": "ecosystem"
+    "count": 39,
+    "category": "core"
   },
   {
     "tag": "开源",
@@ -121,18 +121,18 @@
   },
   {
     "tag": "SagerNet",
+    "count": 31,
+    "category": "core"
+  },
+  {
+    "tag": "Linux",
     "count": 30,
-    "category": "ecosystem"
+    "category": "core"
   },
   {
     "tag": "Snell",
     "count": 30,
     "category": "protocol"
-  },
-  {
-    "tag": "Linux",
-    "count": 29,
-    "category": "security"
   },
   {
     "tag": "网络协议",
@@ -1418,6 +1418,36 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "Sentry",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "监控",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "错误追踪",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "网络命名空间",
+    "count": 1,
+    "category": "core"
+  },
+  {
+    "tag": "Base64",
+    "count": 1,
+    "category": "core"
+  },
+  {
+    "tag": "数据解析",
+    "count": 1,
+    "category": "core"
   },
   {
     "tag": "多路复用",
