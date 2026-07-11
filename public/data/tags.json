@@ -1,7 +1,7 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 246,
+    "count": 247,
     "category": "client"
   },
   {
@@ -11,12 +11,12 @@
   },
   {
     "tag": "mihomo",
-    "count": 114,
-    "category": "ecosystem"
+    "count": 117,
+    "category": "core"
   },
   {
     "tag": "Sub-Store",
-    "count": 93,
+    "count": 94,
     "category": "core"
   },
   {
@@ -46,7 +46,7 @@
   },
   {
     "tag": "网络代理",
-    "count": 63,
+    "count": 64,
     "category": "ecosystem"
   },
   {
@@ -61,7 +61,7 @@
   },
   {
     "tag": "3x-ui",
-    "count": 55,
+    "count": 56,
     "category": "core"
   },
   {
@@ -85,24 +85,24 @@
     "category": "core"
   },
   {
+    "tag": "代理工具",
+    "count": 36,
+    "category": "core"
+  },
+  {
     "tag": "开源",
     "count": 36,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "开发版本",
+    "count": 35,
     "category": "ecosystem"
   },
   {
     "tag": "Windows",
     "count": 34,
     "category": "client"
-  },
-  {
-    "tag": "代理工具",
-    "count": 34,
-    "category": "client"
-  },
-  {
-    "tag": "开发版本",
-    "count": 34,
-    "category": "ecosystem"
   },
   {
     "tag": "dat",
@@ -136,18 +136,18 @@
   },
   {
     "tag": "网络协议",
-    "count": 28,
-    "category": "protocol"
+    "count": 29,
+    "category": "core"
+  },
+  {
+    "tag": "go-gost",
+    "count": 29,
+    "category": "core"
   },
   {
     "tag": "Tailscale",
     "count": 28,
     "category": "protocol"
-  },
-  {
-    "tag": "go-gost",
-    "count": 28,
-    "category": "ecosystem"
   },
   {
     "tag": "网络工具",
@@ -168,6 +168,11 @@
     "tag": "VLESS",
     "count": 22,
     "category": "ecosystem"
+  },
+  {
+    "tag": "Xray-core",
+    "count": 20,
+    "category": "core"
   },
   {
     "tag": "依赖更新",
@@ -210,9 +215,9 @@
     "category": "client"
   },
   {
-    "tag": "Xray-core",
+    "tag": "自动构建",
     "count": 18,
-    "category": "core"
+    "category": "ecosystem"
   },
   {
     "tag": "Xray",
@@ -225,9 +230,9 @@
     "category": "security"
   },
   {
-    "tag": "自动构建",
-    "count": 17,
-    "category": "ecosystem"
+    "tag": "WireGuard",
+    "count": 15,
+    "category": "protocol"
   },
   {
     "tag": "Hysteria",
@@ -240,17 +245,17 @@
     "category": "ecosystem"
   },
   {
+    "tag": "SUDOKU-ASCII",
+    "count": 14,
+    "category": "core"
+  },
+  {
     "tag": "snell",
     "count": 14,
     "category": "ecosystem"
   },
   {
-    "tag": "WireGuard",
-    "count": 14,
-    "category": "protocol"
-  },
-  {
-    "tag": "SUDOKU-ASCII",
+    "tag": "sudoku",
     "count": 13,
     "category": "core"
   },
@@ -270,7 +275,7 @@
     "category": "client"
   },
   {
-    "tag": "sudoku",
+    "tag": "性能优化",
     "count": 12,
     "category": "core"
   },
@@ -293,11 +298,6 @@
     "tag": "v2rayA",
     "count": 12,
     "category": "security"
-  },
-  {
-    "tag": "性能优化",
-    "count": 11,
-    "category": "core"
   },
   {
     "tag": "域名",
@@ -440,6 +440,11 @@
     "category": "core"
   },
   {
+    "tag": "网络安全",
+    "count": 7,
+    "category": "security"
+  },
+  {
     "tag": "配置管理",
     "count": 7,
     "category": "client"
@@ -470,6 +475,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "helloworld",
+    "count": 6,
+    "category": "ecosystem"
+  },
+  {
     "tag": "dae",
     "count": 6,
     "category": "ecosystem"
@@ -478,11 +488,6 @@
     "tag": "安全",
     "count": 6,
     "category": "core"
-  },
-  {
-    "tag": "网络安全",
-    "count": 6,
-    "category": "security"
   },
   {
     "tag": "Shadowrocket",
@@ -535,7 +540,12 @@
     "category": "ecosystem"
   },
   {
-    "tag": "helloworld",
+    "tag": "golang",
+    "count": 5,
+    "category": "core"
+  },
+  {
+    "tag": "luci-app-ssr-plus",
     "count": 5,
     "category": "ecosystem"
   },
@@ -655,11 +665,6 @@
     "category": "client"
   },
   {
-    "tag": "luci-app-ssr-plus",
-    "count": 4,
-    "category": "ecosystem"
-  },
-  {
     "tag": "域名管理",
     "count": 4,
     "category": "ecosystem"
@@ -678,11 +683,6 @@
     "tag": "CVE",
     "count": 4,
     "category": "security"
-  },
-  {
-    "tag": "golang",
-    "count": 4,
-    "category": "core"
   },
   {
     "tag": "更新",
@@ -758,6 +758,16 @@
     "tag": "nekoray",
     "count": 4,
     "category": "client"
+  },
+  {
+    "tag": "utls",
+    "count": 3,
+    "category": "core"
+  },
+  {
+    "tag": "xray-core",
+    "count": 3,
+    "category": "ecosystem"
   },
   {
     "tag": "Trojan",
@@ -950,6 +960,11 @@
     "category": "security"
   },
   {
+    "tag": "HTTPMask",
+    "count": 2,
+    "category": "core"
+  },
+  {
     "tag": "多路复用",
     "count": 2,
     "category": "core"
@@ -1085,11 +1100,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "xray-core",
-    "count": 2,
-    "category": "core"
-  },
-  {
     "tag": "SQLite",
     "count": 2,
     "category": "core"
@@ -1141,11 +1151,6 @@
   },
   {
     "tag": "ss",
-    "count": 2,
-    "category": "client"
-  },
-  {
-    "tag": "utls",
     "count": 2,
     "category": "client"
   },
@@ -1435,6 +1440,16 @@
     "category": "security"
   },
   {
+    "tag": "proxies",
+    "count": 1,
+    "category": "core"
+  },
+  {
+    "tag": "预处理器",
+    "count": 1,
+    "category": "core"
+  },
+  {
     "tag": "fw876",
     "count": 1,
     "category": "ecosystem"
@@ -1475,7 +1490,7 @@
     "category": "core"
   },
   {
-    "tag": "HTTPMask",
+    "tag": "multiplex",
     "count": 1,
     "category": "core"
   },
