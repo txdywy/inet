@@ -245,6 +245,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "SUDOKU-ASCII",
+    "count": 13,
+    "category": "core"
+  },
+  {
     "tag": "WireGuard",
     "count": 13,
     "category": "protocol"
@@ -265,7 +270,7 @@
     "category": "client"
   },
   {
-    "tag": "SUDOKU-ASCII",
+    "tag": "sudoku",
     "count": 12,
     "category": "core"
   },
@@ -288,11 +293,6 @@
     "tag": "v2rayA",
     "count": 12,
     "category": "security"
-  },
-  {
-    "tag": "sudoku",
-    "count": 11,
-    "category": "core"
   },
   {
     "tag": "性能优化",
@@ -385,6 +385,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "API",
+    "count": 8,
+    "category": "core"
+  },
+  {
     "tag": "gRPC",
     "count": 8,
     "category": "core"
@@ -423,11 +428,6 @@
     "tag": "xhttp",
     "count": 8,
     "category": "client"
-  },
-  {
-    "tag": "API",
-    "count": 7,
-    "category": "core"
   },
   {
     "tag": "shadow-tls",
@@ -940,6 +940,11 @@
     "category": "protocol"
   },
   {
+    "tag": "多路复用",
+    "count": 2,
+    "category": "core"
+  },
+  {
     "tag": "bridge",
     "count": 2,
     "category": "core"
@@ -1450,7 +1455,7 @@
     "category": "core"
   },
   {
-    "tag": "多路复用",
+    "tag": "HTTPMask",
     "count": 1,
     "category": "core"
   },
