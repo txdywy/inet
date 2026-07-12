@@ -1,12 +1,12 @@
 {
-  "totalItems": 975,
-  "last24h": 10,
+  "totalItems": 977,
+  "last24h": 8,
   "last7d": 63,
   "byCategory": {
-    "core": 160,
+    "core": 161,
     "client": 208,
     "router": 1,
-    "protocol": 50,
+    "protocol": 51,
     "dns_rules": 24,
     "security": 11,
     "ecosystem": 521,
@@ -19,11 +19,11 @@
     },
     {
       "project": "mihomo",
-      "count": 110
+      "count": 111
     },
     {
       "project": "Sub-Store",
-      "count": 94
+      "count": 95
     },
     {
       "project": "v2ray-rules-dat",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 250
+      "count": 251
     },
     {
       "tag": "v2fly",
@@ -65,11 +65,11 @@
     },
     {
       "tag": "mihomo",
-      "count": 120
+      "count": 121
     },
     {
       "tag": "Sub-Store",
-      "count": 94
+      "count": 95
     },
     {
       "tag": "domain-list-community",
@@ -96,11 +96,11 @@
       "count": 64
     },
     {
-      "tag": "domain-list",
-      "count": 60
+      "tag": "OpenVPN",
+      "count": 61
     },
     {
-      "tag": "OpenVPN",
+      "tag": "domain-list",
       "count": 60
     },
     {
@@ -136,8 +136,8 @@
       "count": 36
     }
   ],
-  "importantCount": 243,
+  "importantCount": 245,
   "breakingCount": 43,
   "securityCount": 59,
-  "updatedAt": "2026-07-12T13:58:21.444Z"
+  "updatedAt": "2026-07-12T19:22:38.638Z"
 }

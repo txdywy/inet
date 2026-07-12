@@ -1,7 +1,7 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 250,
+    "count": 251,
     "category": "ecosystem"
   },
   {
@@ -11,13 +11,13 @@
   },
   {
     "tag": "mihomo",
-    "count": 120,
+    "count": 121,
     "category": "ecosystem"
   },
   {
     "tag": "Sub-Store",
-    "count": 94,
-    "category": "core"
+    "count": 95,
+    "category": "protocol"
   },
   {
     "tag": "domain-list-community",
@@ -50,12 +50,12 @@
     "category": "ecosystem"
   },
   {
-    "tag": "domain-list",
-    "count": 60,
+    "tag": "OpenVPN",
+    "count": 61,
     "category": "ecosystem"
   },
   {
-    "tag": "OpenVPN",
+    "tag": "domain-list",
     "count": 60,
     "category": "ecosystem"
   },
@@ -130,14 +130,14 @@
     "category": "core"
   },
   {
-    "tag": "Snell",
+    "tag": "网络协议",
     "count": 30,
     "category": "protocol"
   },
   {
-    "tag": "网络协议",
-    "count": 29,
-    "category": "core"
+    "tag": "Snell",
+    "count": 30,
+    "category": "protocol"
   },
   {
     "tag": "go-gost",
@@ -220,6 +220,11 @@
     "category": "security"
   },
   {
+    "tag": "WireGuard",
+    "count": 18,
+    "category": "protocol"
+  },
+  {
     "tag": "v2rayNG",
     "count": 18,
     "category": "client"
@@ -228,11 +233,6 @@
     "tag": "Xray",
     "count": 18,
     "category": "core"
-  },
-  {
-    "tag": "WireGuard",
-    "count": 17,
-    "category": "protocol"
   },
   {
     "tag": "Hysteria",
@@ -1425,6 +1425,11 @@
     "category": "client"
   },
   {
+    "tag": "TLSAuth",
+    "count": 2,
+    "category": "core"
+  },
+  {
     "tag": "ping keepalive",
     "count": 2,
     "category": "protocol"
@@ -1438,6 +1443,11 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "Shadow QUIC",
+    "count": 1,
+    "category": "protocol"
   },
   {
     "tag": "Espressif",
@@ -3413,11 +3423,6 @@
     "tag": "Pushover",
     "count": 1,
     "category": "ecosystem"
-  },
-  {
-    "tag": "TLSAuth",
-    "count": 1,
-    "category": "client"
   },
   {
     "tag": "会话管理",
