@@ -1,25 +1,25 @@
 {
-  "totalItems": 970,
-  "last24h": 13,
-  "last7d": 62,
+  "totalItems": 975,
+  "last24h": 10,
+  "last7d": 63,
   "byCategory": {
     "core": 160,
-    "client": 207,
+    "client": 208,
     "router": 1,
     "protocol": 50,
     "dns_rules": 24,
     "security": 11,
-    "ecosystem": 517,
+    "ecosystem": 521,
     "trend": 0
   },
   "topProjects": [
     {
       "project": "domain-list-community",
-      "count": 157
+      "count": 160
     },
     {
       "project": "mihomo",
-      "count": 109
+      "count": 110
     },
     {
       "project": "Sub-Store",
@@ -39,7 +39,7 @@
     },
     {
       "project": "3x-ui",
-      "count": 57
+      "count": 58
     },
     {
       "project": "ClashMetaForAndroid",
@@ -57,27 +57,27 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 249
+      "count": 250
     },
     {
       "tag": "v2fly",
-      "count": 161
+      "count": 164
     },
     {
       "tag": "mihomo",
-      "count": 119
+      "count": 120
     },
     {
       "tag": "Sub-Store",
       "count": 94
     },
     {
-      "tag": "v2ray",
-      "count": 82
+      "tag": "domain-list-community",
+      "count": 83
     },
     {
-      "tag": "domain-list-community",
-      "count": 81
+      "tag": "v2ray",
+      "count": 82
     },
     {
       "tag": "meta-rules-dat",
@@ -97,15 +97,15 @@
     },
     {
       "tag": "domain-list",
-      "count": 59
+      "count": 60
     },
     {
       "tag": "OpenVPN",
-      "count": 59
+      "count": 60
     },
     {
       "tag": "3x-ui",
-      "count": 57
+      "count": 58
     },
     {
       "tag": "rules",
@@ -128,16 +128,16 @@
       "count": 37
     },
     {
-      "tag": "开源",
-      "count": 36
+      "tag": "开发版本",
+      "count": 37
     },
     {
-      "tag": "开发版本",
+      "tag": "开源",
       "count": 36
     }
   ],
-  "importantCount": 242,
+  "importantCount": 243,
   "breakingCount": 43,
   "securityCount": 59,
-  "updatedAt": "2026-07-12T08:32:38.825Z"
+  "updatedAt": "2026-07-12T13:58:21.444Z"
 }

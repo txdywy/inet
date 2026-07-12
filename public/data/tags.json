@@ -1,17 +1,17 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 249,
+    "count": 250,
     "category": "ecosystem"
   },
   {
     "tag": "v2fly",
-    "count": 161,
+    "count": 164,
     "category": "ecosystem"
   },
   {
     "tag": "mihomo",
-    "count": 119,
+    "count": 120,
     "category": "ecosystem"
   },
   {
@@ -20,13 +20,13 @@
     "category": "core"
   },
   {
-    "tag": "v2ray",
-    "count": 82,
+    "tag": "domain-list-community",
+    "count": 83,
     "category": "ecosystem"
   },
   {
-    "tag": "domain-list-community",
-    "count": 81,
+    "tag": "v2ray",
+    "count": 82,
     "category": "ecosystem"
   },
   {
@@ -51,17 +51,17 @@
   },
   {
     "tag": "domain-list",
-    "count": 59,
+    "count": 60,
     "category": "ecosystem"
   },
   {
     "tag": "OpenVPN",
-    "count": 59,
+    "count": 60,
     "category": "ecosystem"
   },
   {
     "tag": "3x-ui",
-    "count": 57,
+    "count": 58,
     "category": "core"
   },
   {
@@ -90,12 +90,12 @@
     "category": "core"
   },
   {
-    "tag": "开源",
-    "count": 36,
+    "tag": "开发版本",
+    "count": 37,
     "category": "ecosystem"
   },
   {
-    "tag": "开发版本",
+    "tag": "开源",
     "count": 36,
     "category": "ecosystem"
   },
@@ -180,6 +180,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "自动构建",
+    "count": 20,
+    "category": "ecosystem"
+  },
+  {
     "tag": "rematch",
     "count": 20,
     "category": "core"
@@ -188,11 +193,6 @@
     "tag": "DNS",
     "count": 19,
     "category": "dns_rules"
-  },
-  {
-    "tag": "自动构建",
-    "count": 19,
-    "category": "ecosystem"
   },
   {
     "tag": "自动化构建",
@@ -231,7 +231,7 @@
   },
   {
     "tag": "WireGuard",
-    "count": 16,
+    "count": 17,
     "category": "protocol"
   },
   {
@@ -1438,6 +1438,16 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "Espressif",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "wbcontent.net",
+    "count": 1,
+    "category": "ecosystem"
   },
   {
     "tag": "proxies",
@@ -3403,6 +3413,11 @@
     "tag": "Pushover",
     "count": 1,
     "category": "ecosystem"
+  },
+  {
+    "tag": "TLSAuth",
+    "count": 1,
+    "category": "client"
   },
   {
     "tag": "会话管理",
