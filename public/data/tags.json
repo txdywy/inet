@@ -1,8 +1,8 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 247,
-    "category": "client"
+    "count": 249,
+    "category": "ecosystem"
   },
   {
     "tag": "v2fly",
@@ -11,8 +11,8 @@
   },
   {
     "tag": "mihomo",
-    "count": 117,
-    "category": "core"
+    "count": 119,
+    "category": "ecosystem"
   },
   {
     "tag": "Sub-Store",
@@ -21,7 +21,7 @@
   },
   {
     "tag": "v2ray",
-    "count": 81,
+    "count": 82,
     "category": "ecosystem"
   },
   {
@@ -31,12 +31,12 @@
   },
   {
     "tag": "meta-rules-dat",
-    "count": 69,
+    "count": 70,
     "category": "ecosystem"
   },
   {
     "tag": "Loyalsoldier",
-    "count": 68,
+    "count": 69,
     "category": "ecosystem"
   },
   {
@@ -61,12 +61,12 @@
   },
   {
     "tag": "3x-ui",
-    "count": 56,
+    "count": 57,
     "category": "core"
   },
   {
     "tag": "rules",
-    "count": 54,
+    "count": 55,
     "category": "ecosystem"
   },
   {
@@ -86,7 +86,7 @@
   },
   {
     "tag": "代理工具",
-    "count": 36,
+    "count": 37,
     "category": "core"
   },
   {
@@ -96,17 +96,17 @@
   },
   {
     "tag": "开发版本",
-    "count": 35,
+    "count": 36,
     "category": "ecosystem"
   },
   {
     "tag": "Windows",
-    "count": 34,
+    "count": 35,
     "category": "client"
   },
   {
     "tag": "dat",
-    "count": 33,
+    "count": 34,
     "category": "ecosystem"
   },
   {
@@ -126,7 +126,7 @@
   },
   {
     "tag": "Linux",
-    "count": 30,
+    "count": 31,
     "category": "core"
   },
   {
@@ -190,6 +190,11 @@
     "category": "dns_rules"
   },
   {
+    "tag": "自动构建",
+    "count": 19,
+    "category": "ecosystem"
+  },
+  {
     "tag": "自动化构建",
     "count": 19,
     "category": "ecosystem"
@@ -210,14 +215,14 @@
     "category": "client"
   },
   {
+    "tag": "macOS",
+    "count": 18,
+    "category": "security"
+  },
+  {
     "tag": "v2rayNG",
     "count": 18,
     "category": "client"
-  },
-  {
-    "tag": "自动构建",
-    "count": 18,
-    "category": "ecosystem"
   },
   {
     "tag": "Xray",
@@ -225,13 +230,8 @@
     "category": "core"
   },
   {
-    "tag": "macOS",
-    "count": 17,
-    "category": "security"
-  },
-  {
     "tag": "WireGuard",
-    "count": 15,
+    "count": 16,
     "category": "protocol"
   },
   {
@@ -250,14 +250,14 @@
     "category": "core"
   },
   {
+    "tag": "sudoku",
+    "count": 14,
+    "category": "core"
+  },
+  {
     "tag": "snell",
     "count": 14,
     "category": "ecosystem"
-  },
-  {
-    "tag": "sudoku",
-    "count": 13,
-    "category": "core"
   },
   {
     "tag": "naiveproxy",
@@ -325,6 +325,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "Go",
+    "count": 10,
+    "category": "ecosystem"
+  },
+  {
     "tag": "TUN",
     "count": 10,
     "category": "client"
@@ -360,11 +365,6 @@
     "category": "protocol"
   },
   {
-    "tag": "Go",
-    "count": 9,
-    "category": "ecosystem"
-  },
-  {
     "tag": "域名列表",
     "count": 9,
     "category": "ecosystem"
@@ -382,6 +382,11 @@
   {
     "tag": "CBC",
     "count": 9,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "helloworld",
+    "count": 8,
     "category": "ecosystem"
   },
   {
@@ -430,6 +435,11 @@
     "category": "client"
   },
   {
+    "tag": "luci-app-ssr-plus",
+    "count": 7,
+    "category": "ecosystem"
+  },
+  {
     "tag": "shadow-tls",
     "count": 7,
     "category": "ecosystem"
@@ -475,9 +485,9 @@
     "category": "ecosystem"
   },
   {
-    "tag": "helloworld",
-    "count": 6,
-    "category": "ecosystem"
+    "tag": "Clash Verge Rev",
+    "count": 7,
+    "category": "client"
   },
   {
     "tag": "dae",
@@ -498,11 +508,6 @@
     "tag": "Loon",
     "count": 6,
     "category": "ecosystem"
-  },
-  {
-    "tag": "Clash Verge Rev",
-    "count": 6,
-    "category": "client"
   },
   {
     "tag": "Clash Verge",
@@ -540,14 +545,19 @@
     "category": "ecosystem"
   },
   {
+    "tag": "xray-core",
+    "count": 5,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "CI",
+    "count": 5,
+    "category": "ecosystem"
+  },
+  {
     "tag": "golang",
     "count": 5,
     "category": "core"
-  },
-  {
-    "tag": "luci-app-ssr-plus",
-    "count": 5,
-    "category": "ecosystem"
   },
   {
     "tag": "hysteria2",
@@ -740,11 +750,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "CI",
-    "count": 4,
-    "category": "ecosystem"
-  },
-  {
     "tag": "多语言支持",
     "count": 4,
     "category": "client"
@@ -763,11 +768,6 @@
     "tag": "utls",
     "count": 3,
     "category": "core"
-  },
-  {
-    "tag": "xray-core",
-    "count": 3,
-    "category": "ecosystem"
   },
   {
     "tag": "Trojan",
