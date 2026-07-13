@@ -1,5 +1,38 @@
 [
   {
+    "id": "7ed08f1a4cf59011",
+    "title": "app/v2.10.0",
+    "summary": "Hysteria v2.10.0 更新了对加密客户端问候（ECH）的支持，并新增了禁用速率补偿机制的选项。",
+    "analysis": "此次 Hysteria v2.10.0 更新主要增加了对加密客户端问候（ECH）的支持，这一功能能够增强用户隐私保护，防止流量分析和干扰。同时，新增的 `bandwidth.disableLossCompensation` 选项允许用户在特定情况下关闭 Brutal 的速率补偿机制，从而提高网络稳定性。这对用户和开发者而言都是重要的改进，尤其是在高延迟或不稳定网络环境下。此外，更新中还包含了若干依赖更新和小修复，确保了软件的整体性能和安全性。虽然此次更新没有明显的兼容性风险，但建议用户尽快更新，以利用新功能和提升网络体验。",
+    "rawTitle": "app/v2.10.0",
+    "rawBody": "- Added [Encrypted Client Hello](https://hysteria.network/docs/advanced/ECH/) support\r\n- Added a `bandwidth.disableLossCompensation` option for disabling Brutal congestion control's loss compensation mechanism, which can improve stability in some cases\r\n- Various dependency updates and minor bug fixes\r\n\r\n---\r\n\r\n- 新增 [Encrypted Client Hello](https://hysteria.network/zh/docs/advanced/ECH/) 支持\r\n- 新增 `bandwidth.disableLossCompensation` 选项，用于关闭 Brutal 的速率补偿机制，可以在一些情况下提升稳定性\r\n- 若干依赖更新与小修复",
+    "sourceType": "github_release",
+    "sourceName": "apernet/hysteria",
+    "sourceUrl": "https://github.com/apernet/hysteria/releases/tag/app/v2.10.0",
+    "project": "hysteria",
+    "repo": "apernet/hysteria",
+    "slug": "hysteria",
+    "version": "app/v2.10.0",
+    "category": "core",
+    "tags": [
+      "Hysteria",
+      "ECH",
+      "网络协议",
+      "隐私保护"
+    ],
+    "platforms": [],
+    "importance": 4,
+    "confidence": 0.9,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2026-07-13T04:30:54Z",
+    "fetchedAt": "2026-07-13T09:49:02.768Z",
+    "firstSeenAt": "2026-07-13T09:49:18.673Z",
+    "updatedAt": "2026-07-13T09:49:18.673Z",
+    "hash": "7ed08f1a4cf59011"
+  },
+  {
     "id": "bcdc5811c237ebd6",
     "title": "20260713033814",
     "summary": "本次更新在域名列表中新增了 chatgpt.site，提升了对 OpenAI 服务的支持。",

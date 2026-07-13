@@ -120,6 +120,11 @@
     "category": "client"
   },
   {
+    "tag": "网络协议",
+    "count": 31,
+    "category": "core"
+  },
+  {
     "tag": "SagerNet",
     "count": 31,
     "category": "core"
@@ -128,11 +133,6 @@
     "tag": "Linux",
     "count": 31,
     "category": "core"
-  },
-  {
-    "tag": "网络协议",
-    "count": 30,
-    "category": "protocol"
   },
   {
     "tag": "Snell",
@@ -236,8 +236,8 @@
   },
   {
     "tag": "Hysteria",
-    "count": 15,
-    "category": "client"
+    "count": 16,
+    "category": "core"
   },
   {
     "tag": "VPN",
@@ -765,6 +765,16 @@
     "category": "client"
   },
   {
+    "tag": "ECH",
+    "count": 3,
+    "category": "core"
+  },
+  {
+    "tag": "隐私保护",
+    "count": 3,
+    "category": "core"
+  },
+  {
     "tag": "MTProto",
     "count": 3,
     "category": "core"
@@ -1243,16 +1253,6 @@
     "tag": "图表",
     "count": 2,
     "category": "client"
-  },
-  {
-    "tag": "隐私保护",
-    "count": 2,
-    "category": "client"
-  },
-  {
-    "tag": "ECH",
-    "count": 2,
-    "category": "core"
   },
   {
     "tag": "网络性能",
