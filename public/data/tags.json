@@ -1,7 +1,7 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 257,
+    "count": 260,
     "category": "client"
   },
   {
@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 123,
+    "count": 124,
     "category": "ecosystem"
   },
   {
@@ -30,6 +30,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "metacubexd",
+    "count": 71,
+    "category": "client"
+  },
+  {
     "tag": "meta-rules-dat",
     "count": 71,
     "category": "ecosystem"
@@ -40,18 +45,13 @@
     "category": "ecosystem"
   },
   {
-    "tag": "metacubexd",
-    "count": 69,
-    "category": "client"
-  },
-  {
     "tag": "网络代理",
     "count": 64,
     "category": "ecosystem"
   },
   {
     "tag": "OpenVPN",
-    "count": 63,
+    "count": 64,
     "category": "ecosystem"
   },
   {
@@ -76,7 +76,7 @@
   },
   {
     "tag": "代理",
-    "count": 41,
+    "count": 42,
     "category": "client"
   },
   {
@@ -111,7 +111,7 @@
   },
   {
     "tag": "Linux",
-    "count": 33,
+    "count": 34,
     "category": "client"
   },
   {
@@ -170,6 +170,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "WireGuard",
+    "count": 21,
+    "category": "protocol"
+  },
+  {
     "tag": "自动构建",
     "count": 21,
     "category": "ecosystem"
@@ -183,11 +188,6 @@
     "tag": "依赖更新",
     "count": 20,
     "category": "ecosystem"
-  },
-  {
-    "tag": "WireGuard",
-    "count": 20,
-    "category": "protocol"
   },
   {
     "tag": "rematch",
@@ -260,6 +260,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "bugfix",
+    "count": 13,
+    "category": "client"
+  },
+  {
     "tag": "域名",
     "count": 13,
     "category": "ecosystem"
@@ -282,11 +287,6 @@
   {
     "tag": "SOCKS",
     "count": 13,
-    "category": "client"
-  },
-  {
-    "tag": "bugfix",
-    "count": 12,
     "category": "client"
   },
   {
@@ -630,6 +630,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "TLSAuth",
+    "count": 5,
+    "category": "core"
+  },
+  {
     "tag": "TUIC",
     "count": 5,
     "category": "client"
@@ -761,11 +766,6 @@
   },
   {
     "tag": "nekoray",
-    "count": 4,
-    "category": "client"
-  },
-  {
-    "tag": "TLSAuth",
     "count": 4,
     "category": "client"
   },
@@ -1448,6 +1448,11 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "移动连接",
+    "count": 1,
+    "category": "client"
   },
   {
     "tag": "Homebrew",
