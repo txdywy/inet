@@ -1,29 +1,33 @@
 {
-  "totalItems": 986,
-  "last24h": 11,
-  "last7d": 67,
+  "totalItems": 995,
+  "last24h": 16,
+  "last7d": 74,
   "byCategory": {
     "core": 163,
-    "client": 209,
+    "client": 212,
     "router": 1,
     "protocol": 51,
     "dns_rules": 24,
     "security": 11,
-    "ecosystem": 527,
+    "ecosystem": 533,
     "trend": 0
   },
   "topProjects": [
     {
       "project": "domain-list-community",
-      "count": 163
+      "count": 168
     },
     {
       "project": "mihomo",
-      "count": 112
+      "count": 113
     },
     {
       "project": "Sub-Store",
       "count": 95
+    },
+    {
+      "project": "metacubexd",
+      "count": 74
     },
     {
       "project": "v2ray-rules-dat",
@@ -31,10 +35,6 @@
     },
     {
       "project": "meta-rules-dat",
-      "count": 71
-    },
-    {
-      "project": "metacubexd",
       "count": 71
     },
     {
@@ -57,15 +57,15 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 253
+      "count": 257
     },
     {
       "tag": "v2fly",
-      "count": 167
+      "count": 172
     },
     {
       "tag": "mihomo",
-      "count": 122
+      "count": 123
     },
     {
       "tag": "Sub-Store",
@@ -73,7 +73,7 @@
     },
     {
       "tag": "domain-list-community",
-      "count": 85
+      "count": 90
     },
     {
       "tag": "v2ray",
@@ -89,7 +89,7 @@
     },
     {
       "tag": "metacubexd",
-      "count": 66
+      "count": 69
     },
     {
       "tag": "网络代理",
@@ -97,7 +97,7 @@
     },
     {
       "tag": "OpenVPN",
-      "count": 62
+      "count": 63
     },
     {
       "tag": "3x-ui",
@@ -124,20 +124,20 @@
       "count": 39
     },
     {
+      "tag": "代理工具",
+      "count": 38
+    },
+    {
       "tag": "开发版本",
       "count": 38
     },
     {
       "tag": "开源",
       "count": 37
-    },
-    {
-      "tag": "代理工具",
-      "count": 37
     }
   ],
-  "importantCount": 248,
+  "importantCount": 249,
   "breakingCount": 44,
   "securityCount": 59,
-  "updatedAt": "2026-07-13T09:49:19.135Z"
+  "updatedAt": "2026-07-13T15:14:15.797Z"
 }

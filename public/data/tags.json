@@ -1,17 +1,17 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 253,
-    "category": "ecosystem"
+    "count": 257,
+    "category": "client"
   },
   {
     "tag": "v2fly",
-    "count": 167,
+    "count": 172,
     "category": "ecosystem"
   },
   {
     "tag": "mihomo",
-    "count": 122,
+    "count": 123,
     "category": "ecosystem"
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "tag": "domain-list-community",
-    "count": 85,
+    "count": 90,
     "category": "ecosystem"
   },
   {
@@ -41,7 +41,7 @@
   },
   {
     "tag": "metacubexd",
-    "count": 66,
+    "count": 69,
     "category": "client"
   },
   {
@@ -51,7 +51,7 @@
   },
   {
     "tag": "OpenVPN",
-    "count": 62,
+    "count": 63,
     "category": "ecosystem"
   },
   {
@@ -85,6 +85,11 @@
     "category": "core"
   },
   {
+    "tag": "代理工具",
+    "count": 38,
+    "category": "client"
+  },
+  {
     "tag": "开发版本",
     "count": 38,
     "category": "ecosystem"
@@ -95,11 +100,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "代理工具",
-    "count": 37,
-    "category": "core"
-  },
-  {
     "tag": "dat",
     "count": 35,
     "category": "ecosystem"
@@ -107,6 +107,11 @@
   {
     "tag": "Windows",
     "count": 35,
+    "category": "client"
+  },
+  {
+    "tag": "Linux",
+    "count": 33,
     "category": "client"
   },
   {
@@ -126,11 +131,6 @@
   },
   {
     "tag": "SagerNet",
-    "count": 31,
-    "category": "core"
-  },
-  {
-    "tag": "Linux",
     "count": 31,
     "category": "core"
   },
@@ -185,14 +185,19 @@
     "category": "ecosystem"
   },
   {
+    "tag": "WireGuard",
+    "count": 20,
+    "category": "protocol"
+  },
+  {
     "tag": "rematch",
     "count": 20,
     "category": "core"
   },
   {
-    "tag": "WireGuard",
+    "tag": "用户界面",
     "count": 19,
-    "category": "protocol"
+    "category": "client"
   },
   {
     "tag": "DNS",
@@ -213,11 +218,6 @@
     "tag": "CHACHA20-POLY1305",
     "count": 19,
     "category": "ecosystem"
-  },
-  {
-    "tag": "用户界面",
-    "count": 18,
-    "category": "client"
   },
   {
     "tag": "macOS",
@@ -260,6 +260,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "域名",
+    "count": 13,
+    "category": "ecosystem"
+  },
+  {
     "tag": "性能优化",
     "count": 13,
     "category": "core"
@@ -280,9 +285,9 @@
     "category": "client"
   },
   {
-    "tag": "域名",
+    "tag": "bugfix",
     "count": 12,
-    "category": "ecosystem"
+    "category": "client"
   },
   {
     "tag": "Clash",
@@ -305,9 +310,9 @@
     "category": "security"
   },
   {
-    "tag": "bugfix",
+    "tag": "域名解析",
     "count": 11,
-    "category": "core"
+    "category": "ecosystem"
   },
   {
     "tag": "用户体验",
@@ -336,11 +341,6 @@
   },
   {
     "tag": "中国域名",
-    "count": 10,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "域名解析",
     "count": 10,
     "category": "ecosystem"
   },
@@ -765,6 +765,16 @@
     "category": "client"
   },
   {
+    "tag": "TLSAuth",
+    "count": 4,
+    "category": "client"
+  },
+  {
+    "tag": "geolocation",
+    "count": 3,
+    "category": "ecosystem"
+  },
+  {
     "tag": "ECH",
     "count": 3,
     "category": "core"
@@ -961,11 +971,6 @@
   },
   {
     "tag": "NekoBoxForAndroid",
-    "count": 3,
-    "category": "client"
-  },
-  {
-    "tag": "TLSAuth",
     "count": 3,
     "category": "client"
   },
@@ -1210,11 +1215,6 @@
     "category": "core"
   },
   {
-    "tag": "geolocation",
-    "count": 2,
-    "category": "ecosystem"
-  },
-  {
     "tag": "资源解析器",
     "count": 2,
     "category": "ecosystem"
@@ -1448,6 +1448,36 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "Homebrew",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "kick.com",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "kinopub",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "镜像站点",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "yzsgo.com",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "顶级域名",
+    "count": 1,
+    "category": "ecosystem"
   },
   {
     "tag": "OpenAI",
