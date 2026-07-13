@@ -1,17 +1,17 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 251,
+    "count": 253,
     "category": "ecosystem"
   },
   {
     "tag": "v2fly",
-    "count": 164,
+    "count": 167,
     "category": "ecosystem"
   },
   {
     "tag": "mihomo",
-    "count": 121,
+    "count": 122,
     "category": "ecosystem"
   },
   {
@@ -21,22 +21,22 @@
   },
   {
     "tag": "domain-list-community",
-    "count": 83,
+    "count": 85,
     "category": "ecosystem"
   },
   {
     "tag": "v2ray",
-    "count": 82,
+    "count": 83,
     "category": "ecosystem"
   },
   {
     "tag": "meta-rules-dat",
-    "count": 70,
+    "count": 71,
     "category": "ecosystem"
   },
   {
     "tag": "Loyalsoldier",
-    "count": 69,
+    "count": 70,
     "category": "ecosystem"
   },
   {
@@ -51,8 +51,13 @@
   },
   {
     "tag": "OpenVPN",
-    "count": 61,
+    "count": 62,
     "category": "ecosystem"
+  },
+  {
+    "tag": "3x-ui",
+    "count": 60,
+    "category": "core"
   },
   {
     "tag": "domain-list",
@@ -60,13 +65,8 @@
     "category": "ecosystem"
   },
   {
-    "tag": "3x-ui",
-    "count": 58,
-    "category": "core"
-  },
-  {
     "tag": "rules",
-    "count": 55,
+    "count": 56,
     "category": "ecosystem"
   },
   {
@@ -85,29 +85,29 @@
     "category": "core"
   },
   {
+    "tag": "开发版本",
+    "count": 38,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "开源",
+    "count": 37,
+    "category": "ecosystem"
+  },
+  {
     "tag": "代理工具",
     "count": 37,
     "category": "core"
   },
   {
-    "tag": "开发版本",
-    "count": 37,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "开源",
-    "count": 36,
+    "tag": "dat",
+    "count": 35,
     "category": "ecosystem"
   },
   {
     "tag": "Windows",
     "count": 35,
     "category": "client"
-  },
-  {
-    "tag": "dat",
-    "count": 34,
-    "category": "ecosystem"
   },
   {
     "tag": "xhttp-opts",
@@ -170,6 +170,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "自动构建",
+    "count": 21,
+    "category": "ecosystem"
+  },
+  {
     "tag": "Xray-core",
     "count": 20,
     "category": "core"
@@ -180,14 +185,14 @@
     "category": "ecosystem"
   },
   {
-    "tag": "自动构建",
-    "count": 20,
-    "category": "ecosystem"
-  },
-  {
     "tag": "rematch",
     "count": 20,
     "category": "core"
+  },
+  {
+    "tag": "WireGuard",
+    "count": 19,
+    "category": "protocol"
   },
   {
     "tag": "DNS",
@@ -218,11 +223,6 @@
     "tag": "macOS",
     "count": 18,
     "category": "security"
-  },
-  {
-    "tag": "WireGuard",
-    "count": 18,
-    "category": "protocol"
   },
   {
     "tag": "v2rayNG",
@@ -260,6 +260,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "性能优化",
+    "count": 13,
+    "category": "core"
+  },
+  {
     "tag": "naiveproxy",
     "count": 13,
     "category": "core"
@@ -275,9 +280,9 @@
     "category": "client"
   },
   {
-    "tag": "性能优化",
+    "tag": "域名",
     "count": 12,
-    "category": "core"
+    "category": "ecosystem"
   },
   {
     "tag": "Clash",
@@ -298,11 +303,6 @@
     "tag": "v2rayA",
     "count": 12,
     "category": "security"
-  },
-  {
-    "tag": "域名",
-    "count": 11,
-    "category": "ecosystem"
   },
   {
     "tag": "bugfix",
@@ -365,6 +365,11 @@
     "category": "protocol"
   },
   {
+    "tag": "API",
+    "count": 9,
+    "category": "ecosystem"
+  },
+  {
     "tag": "域名列表",
     "count": 9,
     "category": "ecosystem"
@@ -388,11 +393,6 @@
     "tag": "helloworld",
     "count": 8,
     "category": "ecosystem"
-  },
-  {
-    "tag": "API",
-    "count": 8,
-    "category": "core"
   },
   {
     "tag": "gRPC",
@@ -765,6 +765,21 @@
     "category": "client"
   },
   {
+    "tag": "MTProto",
+    "count": 3,
+    "category": "core"
+  },
+  {
+    "tag": "PostgreSQL",
+    "count": 3,
+    "category": "core"
+  },
+  {
+    "tag": "SQLite",
+    "count": 3,
+    "category": "core"
+  },
+  {
     "tag": "utls",
     "count": 3,
     "category": "core"
@@ -940,6 +955,11 @@
     "category": "client"
   },
   {
+    "tag": "TLSAuth",
+    "count": 3,
+    "category": "client"
+  },
+  {
     "tag": "监听器",
     "count": 3,
     "category": "core"
@@ -948,6 +968,11 @@
     "tag": "protocol",
     "count": 3,
     "category": "protocol"
+  },
+  {
+    "tag": "IP地理检测",
+    "count": 2,
+    "category": "ecosystem"
   },
   {
     "tag": "安全更新",
@@ -1100,11 +1125,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "SQLite",
-    "count": 2,
-    "category": "core"
-  },
-  {
     "tag": "开发版",
     "count": 2,
     "category": "ecosystem"
@@ -1185,11 +1205,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "MTProto",
-    "count": 2,
-    "category": "core"
-  },
-  {
     "tag": "资源解析器",
     "count": 2,
     "category": "ecosystem"
@@ -1236,11 +1251,6 @@
   },
   {
     "tag": "ECH",
-    "count": 2,
-    "category": "core"
-  },
-  {
-    "tag": "PostgreSQL",
     "count": 2,
     "category": "core"
   },
@@ -1425,11 +1435,6 @@
     "category": "client"
   },
   {
-    "tag": "TLSAuth",
-    "count": 2,
-    "category": "core"
-  },
-  {
     "tag": "ping keepalive",
     "count": 2,
     "category": "protocol"
@@ -1443,6 +1448,21 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "OpenAI",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "chatgpt",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "高并发",
+    "count": 1,
+    "category": "core"
   },
   {
     "tag": "Shadow QUIC",
@@ -2941,11 +2961,6 @@
   },
   {
     "tag": "netdisk",
-    "count": 1,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "IP地理检测",
     "count": 1,
     "category": "ecosystem"
   },

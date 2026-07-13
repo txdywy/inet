@@ -1,25 +1,25 @@
 {
-  "totalItems": 977,
-  "last24h": 8,
-  "last7d": 63,
+  "totalItems": 985,
+  "last24h": 10,
+  "last7d": 66,
   "byCategory": {
-    "core": 161,
-    "client": 208,
+    "core": 162,
+    "client": 209,
     "router": 1,
     "protocol": 51,
     "dns_rules": 24,
     "security": 11,
-    "ecosystem": 521,
+    "ecosystem": 527,
     "trend": 0
   },
   "topProjects": [
     {
       "project": "domain-list-community",
-      "count": 160
+      "count": 163
     },
     {
       "project": "mihomo",
-      "count": 111
+      "count": 112
     },
     {
       "project": "Sub-Store",
@@ -27,19 +27,19 @@
     },
     {
       "project": "v2ray-rules-dat",
-      "count": 73
+      "count": 74
+    },
+    {
+      "project": "meta-rules-dat",
+      "count": 71
     },
     {
       "project": "metacubexd",
       "count": 71
     },
     {
-      "project": "meta-rules-dat",
-      "count": 70
-    },
-    {
       "project": "3x-ui",
-      "count": 58
+      "count": 60
     },
     {
       "project": "ClashMetaForAndroid",
@@ -57,15 +57,15 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 251
+      "count": 253
     },
     {
       "tag": "v2fly",
-      "count": 164
+      "count": 167
     },
     {
       "tag": "mihomo",
-      "count": 121
+      "count": 122
     },
     {
       "tag": "Sub-Store",
@@ -73,19 +73,19 @@
     },
     {
       "tag": "domain-list-community",
-      "count": 83
+      "count": 85
     },
     {
       "tag": "v2ray",
-      "count": 82
+      "count": 83
     },
     {
       "tag": "meta-rules-dat",
-      "count": 70
+      "count": 71
     },
     {
       "tag": "Loyalsoldier",
-      "count": 69
+      "count": 70
     },
     {
       "tag": "metacubexd",
@@ -97,19 +97,19 @@
     },
     {
       "tag": "OpenVPN",
-      "count": 61
+      "count": 62
+    },
+    {
+      "tag": "3x-ui",
+      "count": 60
     },
     {
       "tag": "domain-list",
       "count": 60
     },
     {
-      "tag": "3x-ui",
-      "count": 58
-    },
-    {
       "tag": "rules",
-      "count": 55
+      "count": 56
     },
     {
       "tag": "Android",
@@ -124,20 +124,20 @@
       "count": 39
     },
     {
-      "tag": "代理工具",
-      "count": 37
-    },
-    {
       "tag": "开发版本",
-      "count": 37
+      "count": 38
     },
     {
       "tag": "开源",
-      "count": 36
+      "count": 37
+    },
+    {
+      "tag": "代理工具",
+      "count": 37
     }
   ],
-  "importantCount": 245,
-  "breakingCount": 43,
+  "importantCount": 247,
+  "breakingCount": 44,
   "securityCount": 59,
-  "updatedAt": "2026-07-12T19:22:38.638Z"
+  "updatedAt": "2026-07-13T04:03:29.975Z"
 }
