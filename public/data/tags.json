@@ -1,8 +1,8 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 263,
-    "category": "ecosystem"
+    "count": 264,
+    "category": "client"
   },
   {
     "tag": "v2fly",
@@ -30,6 +30,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "metacubexd",
+    "count": 72,
+    "category": "client"
+  },
+  {
     "tag": "meta-rules-dat",
     "count": 72,
     "category": "ecosystem"
@@ -38,11 +43,6 @@
     "tag": "Loyalsoldier",
     "count": 71,
     "category": "ecosystem"
-  },
-  {
-    "tag": "metacubexd",
-    "count": 71,
-    "category": "client"
   },
   {
     "tag": "OpenVPN",
@@ -55,14 +55,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "3x-ui",
+    "count": 62,
+    "category": "core"
+  },
+  {
     "tag": "domain-list",
     "count": 61,
     "category": "ecosystem"
-  },
-  {
-    "tag": "3x-ui",
-    "count": 61,
-    "category": "core"
   },
   {
     "tag": "rules",
@@ -81,12 +81,12 @@
   },
   {
     "tag": "sing-box",
-    "count": 39,
-    "category": "core"
+    "count": 40,
+    "category": "client"
   },
   {
     "tag": "开发版本",
-    "count": 39,
+    "count": 40,
     "category": "ecosystem"
   },
   {
@@ -100,18 +100,18 @@
     "category": "ecosystem"
   },
   {
+    "tag": "Windows",
+    "count": 36,
+    "category": "client"
+  },
+  {
     "tag": "dat",
     "count": 36,
     "category": "ecosystem"
   },
   {
-    "tag": "Windows",
-    "count": 35,
-    "category": "client"
-  },
-  {
     "tag": "Linux",
-    "count": 34,
+    "count": 35,
     "category": "client"
   },
   {
@@ -120,17 +120,17 @@
     "category": "core"
   },
   {
+    "tag": "SagerNet",
+    "count": 32,
+    "category": "client"
+  },
+  {
     "tag": "ClashMetaForAndroid",
     "count": 32,
     "category": "client"
   },
   {
     "tag": "网络协议",
-    "count": 31,
-    "category": "core"
-  },
-  {
-    "tag": "SagerNet",
     "count": 31,
     "category": "core"
   },
@@ -190,6 +190,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "自动化构建",
+    "count": 20,
+    "category": "ecosystem"
+  },
+  {
     "tag": "rematch",
     "count": 20,
     "category": "core"
@@ -203,11 +208,6 @@
     "tag": "DNS",
     "count": 19,
     "category": "dns_rules"
-  },
-  {
-    "tag": "自动化构建",
-    "count": 19,
-    "category": "ecosystem"
   },
   {
     "tag": "QUIC",
@@ -770,6 +770,11 @@
     "category": "client"
   },
   {
+    "tag": "桌面应用",
+    "count": 3,
+    "category": "client"
+  },
+  {
     "tag": "geolocation",
     "count": 3,
     "category": "ecosystem"
@@ -1023,11 +1028,6 @@
     "tag": "BPF",
     "count": 2,
     "category": "ecosystem"
-  },
-  {
-    "tag": "桌面应用",
-    "count": 2,
-    "category": "client"
   },
   {
     "tag": "网络转发",
@@ -1453,6 +1453,11 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "客户端",
+    "count": 1,
+    "category": "client"
   },
   {
     "tag": "Likee",

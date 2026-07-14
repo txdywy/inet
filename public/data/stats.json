@@ -1,15 +1,15 @@
 {
-  "totalItems": 1008,
-  "last24h": 17,
-  "last7d": 73,
+  "totalItems": 1011,
+  "last24h": 14,
+  "last7d": 74,
   "byCategory": {
     "core": 164,
-    "client": 216,
+    "client": 218,
     "router": 1,
     "protocol": 51,
     "dns_rules": 24,
     "security": 11,
-    "ecosystem": 541,
+    "ecosystem": 542,
     "trend": 0
   },
   "topProjects": [
@@ -27,7 +27,7 @@
     },
     {
       "project": "metacubexd",
-      "count": 76
+      "count": 77
     },
     {
       "project": "v2ray-rules-dat",
@@ -39,15 +39,15 @@
     },
     {
       "project": "3x-ui",
-      "count": 61
+      "count": 62
+    },
+    {
+      "project": "sing-box",
+      "count": 32
     },
     {
       "project": "ClashMetaForAndroid",
       "count": 32
-    },
-    {
-      "project": "sing-box",
-      "count": 31
     },
     {
       "project": "gost",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 263
+      "count": 264
     },
     {
       "tag": "v2fly",
@@ -80,15 +80,15 @@
       "count": 84
     },
     {
+      "tag": "metacubexd",
+      "count": 72
+    },
+    {
       "tag": "meta-rules-dat",
       "count": 72
     },
     {
       "tag": "Loyalsoldier",
-      "count": 71
-    },
-    {
-      "tag": "metacubexd",
       "count": 71
     },
     {
@@ -100,11 +100,11 @@
       "count": 64
     },
     {
-      "tag": "domain-list",
-      "count": 61
+      "tag": "3x-ui",
+      "count": 62
     },
     {
-      "tag": "3x-ui",
+      "tag": "domain-list",
       "count": 61
     },
     {
@@ -121,11 +121,11 @@
     },
     {
       "tag": "sing-box",
-      "count": 39
+      "count": 40
     },
     {
       "tag": "开发版本",
-      "count": 39
+      "count": 40
     },
     {
       "tag": "代理工具",
@@ -139,5 +139,5 @@
   "importantCount": 251,
   "breakingCount": 44,
   "securityCount": 60,
-  "updatedAt": "2026-07-14T08:30:07.846Z"
+  "updatedAt": "2026-07-14T14:15:43.789Z"
 }
