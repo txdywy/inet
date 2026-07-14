@@ -1,17 +1,17 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 262,
+    "count": 263,
     "category": "ecosystem"
   },
   {
     "tag": "v2fly",
-    "count": 172,
+    "count": 176,
     "category": "ecosystem"
   },
   {
     "tag": "mihomo",
-    "count": 125,
+    "count": 126,
     "category": "ecosystem"
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "tag": "domain-list-community",
-    "count": 90,
+    "count": 93,
     "category": "ecosystem"
   },
   {
@@ -46,7 +46,7 @@
   },
   {
     "tag": "OpenVPN",
-    "count": 65,
+    "count": 66,
     "category": "ecosystem"
   },
   {
@@ -55,14 +55,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "domain-list",
+    "count": 61,
+    "category": "ecosystem"
+  },
+  {
     "tag": "3x-ui",
     "count": 61,
     "category": "core"
-  },
-  {
-    "tag": "domain-list",
-    "count": 60,
-    "category": "ecosystem"
   },
   {
     "tag": "rules",
@@ -166,7 +166,7 @@
   },
   {
     "tag": "WireGuard",
-    "count": 22,
+    "count": 23,
     "category": "protocol"
   },
   {
@@ -310,6 +310,11 @@
     "category": "security"
   },
   {
+    "tag": "中国域名",
+    "count": 11,
+    "category": "ecosystem"
+  },
+  {
     "tag": "域名解析",
     "count": 11,
     "category": "ecosystem"
@@ -338,11 +343,6 @@
     "tag": "TUN",
     "count": 10,
     "category": "client"
-  },
-  {
-    "tag": "中国域名",
-    "count": 10,
-    "category": "ecosystem"
   },
   {
     "tag": "Docker",
@@ -490,6 +490,11 @@
     "category": "client"
   },
   {
+    "tag": "TLSAuth",
+    "count": 7,
+    "category": "client"
+  },
+  {
     "tag": "dae",
     "count": 6,
     "category": "ecosystem"
@@ -533,11 +538,6 @@
     "tag": "clash-verge-rev",
     "count": 6,
     "category": "ecosystem"
-  },
-  {
-    "tag": "TLSAuth",
-    "count": 6,
-    "category": "client"
   },
   {
     "tag": "openvpn",
@@ -983,6 +983,11 @@
     "tag": "protocol",
     "count": 3,
     "category": "protocol"
+  },
+  {
+    "tag": "代码优化",
+    "count": 2,
+    "category": "ecosystem"
   },
   {
     "tag": "IP地理检测",
@@ -1450,6 +1455,11 @@
     "category": "security"
   },
   {
+    "tag": "Likee",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
     "tag": "链接更新",
     "count": 1,
     "category": "ecosystem"
@@ -1681,11 +1691,6 @@
   },
   {
     "tag": "library",
-    "count": 1,
-    "category": "core"
-  },
-  {
-    "tag": "代码优化",
     "count": 1,
     "category": "core"
   },
