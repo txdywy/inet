@@ -1,8 +1,8 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 260,
-    "category": "client"
+    "count": 262,
+    "category": "ecosystem"
   },
   {
     "tag": "v2fly",
@@ -11,13 +11,13 @@
   },
   {
     "tag": "mihomo",
-    "count": 124,
+    "count": 125,
     "category": "ecosystem"
   },
   {
     "tag": "Sub-Store",
-    "count": 95,
-    "category": "protocol"
+    "count": 96,
+    "category": "ecosystem"
   },
   {
     "tag": "domain-list-community",
@@ -26,7 +26,17 @@
   },
   {
     "tag": "v2ray",
-    "count": 83,
+    "count": 84,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "meta-rules-dat",
+    "count": 72,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "Loyalsoldier",
+    "count": 71,
     "category": "ecosystem"
   },
   {
@@ -35,13 +45,8 @@
     "category": "client"
   },
   {
-    "tag": "meta-rules-dat",
-    "count": 71,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "Loyalsoldier",
-    "count": 70,
+    "tag": "OpenVPN",
+    "count": 65,
     "category": "ecosystem"
   },
   {
@@ -50,13 +55,8 @@
     "category": "ecosystem"
   },
   {
-    "tag": "OpenVPN",
-    "count": 64,
-    "category": "ecosystem"
-  },
-  {
     "tag": "3x-ui",
-    "count": 60,
+    "count": 61,
     "category": "core"
   },
   {
@@ -66,7 +66,7 @@
   },
   {
     "tag": "rules",
-    "count": 56,
+    "count": 57,
     "category": "ecosystem"
   },
   {
@@ -85,14 +85,14 @@
     "category": "core"
   },
   {
+    "tag": "开发版本",
+    "count": 39,
+    "category": "ecosystem"
+  },
+  {
     "tag": "代理工具",
     "count": 38,
     "category": "client"
-  },
-  {
-    "tag": "开发版本",
-    "count": 38,
-    "category": "ecosystem"
   },
   {
     "tag": "开源",
@@ -101,7 +101,7 @@
   },
   {
     "tag": "dat",
-    "count": 35,
+    "count": 36,
     "category": "ecosystem"
   },
   {
@@ -165,18 +165,18 @@
     "category": "protocol"
   },
   {
+    "tag": "WireGuard",
+    "count": 22,
+    "category": "protocol"
+  },
+  {
     "tag": "VLESS",
     "count": 22,
     "category": "ecosystem"
   },
   {
-    "tag": "WireGuard",
-    "count": 21,
-    "category": "protocol"
-  },
-  {
     "tag": "自动构建",
-    "count": 21,
+    "count": 22,
     "category": "ecosystem"
   },
   {
@@ -535,6 +535,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "TLSAuth",
+    "count": 6,
+    "category": "client"
+  },
+  {
     "tag": "openvpn",
     "count": 6,
     "category": "ecosystem"
@@ -628,11 +633,6 @@
     "tag": "juicity",
     "count": 5,
     "category": "ecosystem"
-  },
-  {
-    "tag": "TLSAuth",
-    "count": 5,
-    "category": "core"
   },
   {
     "tag": "TUIC",
@@ -1448,6 +1448,11 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "链接更新",
+    "count": 1,
+    "category": "ecosystem"
   },
   {
     "tag": "移动连接",
