@@ -1,15 +1,15 @@
 {
-  "totalItems": 1011,
-  "last24h": 14,
-  "last7d": 74,
+  "totalItems": 1013,
+  "last24h": 9,
+  "last7d": 73,
   "byCategory": {
-    "core": 164,
+    "core": 165,
     "client": 218,
     "router": 1,
     "protocol": 51,
     "dns_rules": 24,
     "security": 11,
-    "ecosystem": 542,
+    "ecosystem": 543,
     "trend": 0
   },
   "topProjects": [
@@ -19,7 +19,7 @@
     },
     {
       "project": "mihomo",
-      "count": 116
+      "count": 117
     },
     {
       "project": "Sub-Store",
@@ -39,7 +39,7 @@
     },
     {
       "project": "3x-ui",
-      "count": 62
+      "count": 63
     },
     {
       "project": "sing-box",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 264
+      "count": 265
     },
     {
       "tag": "v2fly",
@@ -65,7 +65,7 @@
     },
     {
       "tag": "mihomo",
-      "count": 126
+      "count": 127
     },
     {
       "tag": "Sub-Store",
@@ -93,7 +93,7 @@
     },
     {
       "tag": "OpenVPN",
-      "count": 66
+      "count": 67
     },
     {
       "tag": "网络代理",
@@ -101,7 +101,7 @@
     },
     {
       "tag": "3x-ui",
-      "count": 62
+      "count": 63
     },
     {
       "tag": "domain-list",
@@ -120,11 +120,11 @@
       "count": 42
     },
     {
-      "tag": "sing-box",
-      "count": 40
+      "tag": "开发版本",
+      "count": 41
     },
     {
-      "tag": "开发版本",
+      "tag": "sing-box",
       "count": 40
     },
     {
@@ -136,8 +136,8 @@
       "count": 37
     }
   ],
-  "importantCount": 251,
+  "importantCount": 252,
   "breakingCount": 44,
   "securityCount": 60,
-  "updatedAt": "2026-07-14T14:15:43.789Z"
+  "updatedAt": "2026-07-14T19:41:16.807Z"
 }

@@ -1,7 +1,7 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 264,
+    "count": 265,
     "category": "client"
   },
   {
@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 126,
+    "count": 127,
     "category": "ecosystem"
   },
   {
@@ -46,7 +46,7 @@
   },
   {
     "tag": "OpenVPN",
-    "count": 66,
+    "count": 67,
     "category": "ecosystem"
   },
   {
@@ -56,7 +56,7 @@
   },
   {
     "tag": "3x-ui",
-    "count": 62,
+    "count": 63,
     "category": "core"
   },
   {
@@ -80,14 +80,14 @@
     "category": "client"
   },
   {
+    "tag": "开发版本",
+    "count": 41,
+    "category": "ecosystem"
+  },
+  {
     "tag": "sing-box",
     "count": 40,
     "category": "client"
-  },
-  {
-    "tag": "开发版本",
-    "count": 40,
-    "category": "ecosystem"
   },
   {
     "tag": "代理工具",
@@ -160,22 +160,22 @@
     "category": "security"
   },
   {
+    "tag": "WireGuard",
+    "count": 24,
+    "category": "protocol"
+  },
+  {
     "tag": "HTTP/2",
     "count": 24,
     "category": "protocol"
   },
   {
-    "tag": "WireGuard",
+    "tag": "自动构建",
     "count": 23,
-    "category": "protocol"
-  },
-  {
-    "tag": "VLESS",
-    "count": 22,
     "category": "ecosystem"
   },
   {
-    "tag": "自动构建",
+    "tag": "VLESS",
     "count": 22,
     "category": "ecosystem"
   },
@@ -435,6 +435,11 @@
     "category": "client"
   },
   {
+    "tag": "TLSAuth",
+    "count": 8,
+    "category": "core"
+  },
+  {
     "tag": "luci-app-ssr-plus",
     "count": 7,
     "category": "ecosystem"
@@ -486,11 +491,6 @@
   },
   {
     "tag": "Clash Verge Rev",
-    "count": 7,
-    "category": "client"
-  },
-  {
-    "tag": "TLSAuth",
     "count": 7,
     "category": "client"
   },
