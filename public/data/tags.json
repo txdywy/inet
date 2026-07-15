@@ -1,7 +1,7 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 268,
+    "count": 269,
     "category": "ecosystem"
   },
   {
@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 129,
+    "count": 130,
     "category": "ecosystem"
   },
   {
@@ -46,7 +46,7 @@
   },
   {
     "tag": "OpenVPN",
-    "count": 69,
+    "count": 70,
     "category": "ecosystem"
   },
   {
@@ -151,7 +151,7 @@
   },
   {
     "tag": "WireGuard",
-    "count": 26,
+    "count": 27,
     "category": "protocol"
   },
   {
@@ -335,6 +335,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "TLSAuth",
+    "count": 11,
+    "category": "client"
+  },
+  {
     "tag": "Go",
     "count": 10,
     "category": "ecosystem"
@@ -363,11 +368,6 @@
     "tag": "VMess",
     "count": 10,
     "category": "protocol"
-  },
-  {
-    "tag": "TLSAuth",
-    "count": 10,
-    "category": "core"
   },
   {
     "tag": "API",
