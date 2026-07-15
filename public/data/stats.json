@@ -1,7 +1,7 @@
 {
-  "totalItems": 1013,
-  "last24h": 9,
-  "last7d": 73,
+  "totalItems": 1015,
+  "last24h": 8,
+  "last7d": 70,
   "byCategory": {
     "core": 165,
     "client": 218,
@@ -9,7 +9,7 @@
     "protocol": 51,
     "dns_rules": 24,
     "security": 11,
-    "ecosystem": 543,
+    "ecosystem": 545,
     "trend": 0
   },
   "topProjects": [
@@ -31,11 +31,11 @@
     },
     {
       "project": "v2ray-rules-dat",
-      "count": 75
+      "count": 76
     },
     {
       "project": "meta-rules-dat",
-      "count": 72
+      "count": 73
     },
     {
       "project": "3x-ui",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 265
+      "count": 266
     },
     {
       "tag": "v2fly",
@@ -77,19 +77,19 @@
     },
     {
       "tag": "v2ray",
-      "count": 84
+      "count": 85
+    },
+    {
+      "tag": "meta-rules-dat",
+      "count": 73
+    },
+    {
+      "tag": "Loyalsoldier",
+      "count": 72
     },
     {
       "tag": "metacubexd",
       "count": 72
-    },
-    {
-      "tag": "meta-rules-dat",
-      "count": 72
-    },
-    {
-      "tag": "Loyalsoldier",
-      "count": 71
     },
     {
       "tag": "OpenVPN",
@@ -109,7 +109,7 @@
     },
     {
       "tag": "rules",
-      "count": 57
+      "count": 58
     },
     {
       "tag": "Android",
@@ -132,12 +132,12 @@
       "count": 38
     },
     {
-      "tag": "开源",
+      "tag": "dat",
       "count": 37
     }
   ],
   "importantCount": 252,
   "breakingCount": 44,
   "securityCount": 60,
-  "updatedAt": "2026-07-14T19:41:16.807Z"
+  "updatedAt": "2026-07-15T03:39:15.615Z"
 }

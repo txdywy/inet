@@ -1,8 +1,8 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 265,
-    "category": "client"
+    "count": 266,
+    "category": "ecosystem"
   },
   {
     "tag": "v2fly",
@@ -26,23 +26,23 @@
   },
   {
     "tag": "v2ray",
-    "count": 84,
+    "count": 85,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "meta-rules-dat",
+    "count": 73,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "Loyalsoldier",
+    "count": 72,
     "category": "ecosystem"
   },
   {
     "tag": "metacubexd",
     "count": 72,
     "category": "client"
-  },
-  {
-    "tag": "meta-rules-dat",
-    "count": 72,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "Loyalsoldier",
-    "count": 71,
-    "category": "ecosystem"
   },
   {
     "tag": "OpenVPN",
@@ -66,7 +66,7 @@
   },
   {
     "tag": "rules",
-    "count": 57,
+    "count": 58,
     "category": "ecosystem"
   },
   {
@@ -95,6 +95,11 @@
     "category": "client"
   },
   {
+    "tag": "dat",
+    "count": 37,
+    "category": "ecosystem"
+  },
+  {
     "tag": "开源",
     "count": 37,
     "category": "ecosystem"
@@ -103,11 +108,6 @@
     "tag": "Windows",
     "count": 36,
     "category": "client"
-  },
-  {
-    "tag": "dat",
-    "count": 36,
-    "category": "ecosystem"
   },
   {
     "tag": "Linux",
