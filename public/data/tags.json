@@ -1,23 +1,23 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 267,
+    "count": 268,
     "category": "ecosystem"
   },
   {
     "tag": "v2fly",
-    "count": 177,
+    "count": 178,
     "category": "ecosystem"
   },
   {
     "tag": "mihomo",
-    "count": 128,
+    "count": 129,
     "category": "ecosystem"
   },
   {
     "tag": "Sub-Store",
-    "count": 96,
-    "category": "ecosystem"
+    "count": 97,
+    "category": "client"
   },
   {
     "tag": "domain-list-community",
@@ -46,7 +46,7 @@
   },
   {
     "tag": "OpenVPN",
-    "count": 68,
+    "count": 69,
     "category": "ecosystem"
   },
   {
@@ -61,7 +61,7 @@
   },
   {
     "tag": "domain-list",
-    "count": 61,
+    "count": 62,
     "category": "ecosystem"
   },
   {
@@ -120,6 +120,11 @@
     "category": "core"
   },
   {
+    "tag": "网络协议",
+    "count": 32,
+    "category": "client"
+  },
+  {
     "tag": "SagerNet",
     "count": 32,
     "category": "client"
@@ -128,11 +133,6 @@
     "tag": "ClashMetaForAndroid",
     "count": 32,
     "category": "client"
-  },
-  {
-    "tag": "网络协议",
-    "count": 31,
-    "category": "core"
   },
   {
     "tag": "Snell",
@@ -150,14 +150,14 @@
     "category": "protocol"
   },
   {
+    "tag": "WireGuard",
+    "count": 26,
+    "category": "protocol"
+  },
+  {
     "tag": "网络工具",
     "count": 25,
     "category": "ecosystem"
-  },
-  {
-    "tag": "WireGuard",
-    "count": 25,
-    "category": "protocol"
   },
   {
     "tag": "v2rayN",
@@ -245,6 +245,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "域名",
+    "count": 14,
+    "category": "ecosystem"
+  },
+  {
     "tag": "SUDOKU-ASCII",
     "count": 14,
     "category": "core"
@@ -263,11 +268,6 @@
     "tag": "bugfix",
     "count": 13,
     "category": "client"
-  },
-  {
-    "tag": "域名",
-    "count": 13,
-    "category": "ecosystem"
   },
   {
     "tag": "性能优化",
@@ -365,6 +365,11 @@
     "category": "protocol"
   },
   {
+    "tag": "TLSAuth",
+    "count": 10,
+    "category": "core"
+  },
+  {
     "tag": "API",
     "count": 9,
     "category": "ecosystem"
@@ -385,14 +390,14 @@
     "category": "client"
   },
   {
-    "tag": "TLSAuth",
-    "count": 9,
-    "category": "client"
-  },
-  {
     "tag": "CBC",
     "count": 9,
     "category": "ecosystem"
+  },
+  {
+    "tag": "UDP",
+    "count": 8,
+    "category": "client"
   },
   {
     "tag": "helloworld",
@@ -461,11 +466,6 @@
   },
   {
     "tag": "配置管理",
-    "count": 7,
-    "category": "client"
-  },
-  {
-    "tag": "UDP",
     "count": 7,
     "category": "client"
   },
@@ -547,6 +547,11 @@
   {
     "tag": "Alpha",
     "count": 6,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "更新",
+    "count": 5,
     "category": "ecosystem"
   },
   {
@@ -698,11 +703,6 @@
     "tag": "CVE",
     "count": 4,
     "category": "security"
-  },
-  {
-    "tag": "更新",
-    "count": 4,
-    "category": "ecosystem"
   },
   {
     "tag": "安全性",
