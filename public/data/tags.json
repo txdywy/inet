@@ -1,17 +1,17 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 266,
+    "count": 267,
     "category": "ecosystem"
   },
   {
     "tag": "v2fly",
-    "count": 176,
+    "count": 177,
     "category": "ecosystem"
   },
   {
     "tag": "mihomo",
-    "count": 127,
+    "count": 128,
     "category": "ecosystem"
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "tag": "domain-list-community",
-    "count": 93,
+    "count": 94,
     "category": "ecosystem"
   },
   {
@@ -46,7 +46,7 @@
   },
   {
     "tag": "OpenVPN",
-    "count": 67,
+    "count": 68,
     "category": "ecosystem"
   },
   {
@@ -155,14 +155,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "WireGuard",
+    "count": 25,
+    "category": "protocol"
+  },
+  {
     "tag": "v2rayN",
     "count": 24,
     "category": "security"
-  },
-  {
-    "tag": "WireGuard",
-    "count": 24,
-    "category": "protocol"
   },
   {
     "tag": "HTTP/2",
@@ -385,6 +385,11 @@
     "category": "client"
   },
   {
+    "tag": "TLSAuth",
+    "count": 9,
+    "category": "client"
+  },
+  {
     "tag": "CBC",
     "count": 9,
     "category": "ecosystem"
@@ -433,11 +438,6 @@
     "tag": "xhttp",
     "count": 8,
     "category": "client"
-  },
-  {
-    "tag": "TLSAuth",
-    "count": 8,
-    "category": "core"
   },
   {
     "tag": "luci-app-ssr-plus",
@@ -988,6 +988,11 @@
     "tag": "protocol",
     "count": 3,
     "category": "protocol"
+  },
+  {
+    "tag": "流量管理",
+    "count": 2,
+    "category": "ecosystem"
   },
   {
     "tag": "代码优化",
@@ -3048,11 +3053,6 @@
     "tag": "Material 3",
     "count": 1,
     "category": "client"
-  },
-  {
-    "tag": "流量管理",
-    "count": 1,
-    "category": "ecosystem"
   },
   {
     "tag": "同步",
