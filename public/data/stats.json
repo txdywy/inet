@@ -1,14 +1,14 @@
 {
-  "totalItems": 1025,
-  "last24h": 6,
-  "last7d": 70,
+  "totalItems": 1027,
+  "last24h": 7,
+  "last7d": 69,
   "byCategory": {
-    "core": 166,
+    "core": 167,
     "client": 223,
     "router": 1,
     "protocol": 51,
     "dns_rules": 24,
-    "security": 11,
+    "security": 12,
     "ecosystem": 549,
     "trend": 0
   },
@@ -26,11 +26,11 @@
       "count": 97
     },
     {
-      "project": "v2ray-rules-dat",
-      "count": 77
+      "project": "metacubexd",
+      "count": 78
     },
     {
-      "project": "metacubexd",
+      "project": "v2ray-rules-dat",
       "count": 77
     },
     {
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 271
+      "count": 272
     },
     {
       "tag": "v2fly",
@@ -84,12 +84,12 @@
       "count": 74
     },
     {
-      "tag": "Loyalsoldier",
+      "tag": "metacubexd",
       "count": 73
     },
     {
-      "tag": "metacubexd",
-      "count": 72
+      "tag": "Loyalsoldier",
+      "count": 73
     },
     {
       "tag": "OpenVPN",
@@ -136,8 +136,8 @@
       "count": 37
     }
   ],
-  "importantCount": 257,
+  "importantCount": 258,
   "breakingCount": 44,
-  "securityCount": 63,
-  "updatedAt": "2026-07-16T03:41:37.776Z"
+  "securityCount": 64,
+  "updatedAt": "2026-07-16T08:36:29.775Z"
 }

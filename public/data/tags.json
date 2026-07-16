@@ -1,8 +1,8 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 271,
-    "category": "ecosystem"
+    "count": 272,
+    "category": "core"
   },
   {
     "tag": "v2fly",
@@ -35,14 +35,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "metacubexd",
+    "count": 73,
+    "category": "core"
+  },
+  {
     "tag": "Loyalsoldier",
     "count": 73,
     "category": "ecosystem"
-  },
-  {
-    "tag": "metacubexd",
-    "count": 72,
-    "category": "client"
   },
   {
     "tag": "OpenVPN",
@@ -155,14 +155,14 @@
     "category": "protocol"
   },
   {
+    "tag": "v2rayN",
+    "count": 25,
+    "category": "security"
+  },
+  {
     "tag": "网络工具",
     "count": 25,
     "category": "ecosystem"
-  },
-  {
-    "tag": "v2rayN",
-    "count": 24,
-    "category": "security"
   },
   {
     "tag": "HTTP/2",
@@ -245,6 +245,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "bugfix",
+    "count": 14,
+    "category": "core"
+  },
+  {
     "tag": "域名",
     "count": 14,
     "category": "ecosystem"
@@ -263,11 +268,6 @@
     "tag": "snell",
     "count": 14,
     "category": "ecosystem"
-  },
-  {
-    "tag": "bugfix",
-    "count": 13,
-    "category": "client"
   },
   {
     "tag": "性能优化",
@@ -770,6 +770,16 @@
     "category": "client"
   },
   {
+    "tag": "安全更新",
+    "count": 3,
+    "category": "security"
+  },
+  {
+    "tag": "中间人攻击",
+    "count": 3,
+    "category": "security"
+  },
+  {
     "tag": "桌面应用",
     "count": 3,
     "category": "client"
@@ -1003,16 +1013,6 @@
     "tag": "IP地理检测",
     "count": 2,
     "category": "ecosystem"
-  },
-  {
-    "tag": "安全更新",
-    "count": 2,
-    "category": "security"
-  },
-  {
-    "tag": "中间人攻击",
-    "count": 2,
-    "category": "security"
   },
   {
     "tag": "HTTPMask",
@@ -1457,6 +1457,11 @@
   {
     "tag": "Quantumult X",
     "count": 2,
+    "category": "security"
+  },
+  {
+    "tag": "Avalonia",
+    "count": 1,
     "category": "security"
   },
   {
