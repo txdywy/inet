@@ -1,8 +1,8 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 273,
-    "category": "core"
+    "count": 275,
+    "category": "ecosystem"
   },
   {
     "tag": "v2fly",
@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 132,
+    "count": 133,
     "category": "ecosystem"
   },
   {
@@ -30,14 +30,14 @@
     "category": "ecosystem"
   },
   {
-    "tag": "meta-rules-dat",
+    "tag": "metacubexd",
     "count": 74,
     "category": "ecosystem"
   },
   {
-    "tag": "metacubexd",
-    "count": 73,
-    "category": "core"
+    "tag": "meta-rules-dat",
+    "count": 74,
+    "category": "ecosystem"
   },
   {
     "tag": "Loyalsoldier",
@@ -46,7 +46,7 @@
   },
   {
     "tag": "OpenVPN",
-    "count": 72,
+    "count": 73,
     "category": "ecosystem"
   },
   {
@@ -135,7 +135,17 @@
     "category": "client"
   },
   {
+    "tag": "go-gost",
+    "count": 30,
+    "category": "core"
+  },
+  {
     "tag": "Snell",
+    "count": 30,
+    "category": "protocol"
+  },
+  {
+    "tag": "WireGuard",
     "count": 30,
     "category": "protocol"
   },
@@ -143,16 +153,6 @@
     "tag": "Tailscale",
     "count": 29,
     "category": "client"
-  },
-  {
-    "tag": "go-gost",
-    "count": 29,
-    "category": "core"
-  },
-  {
-    "tag": "WireGuard",
-    "count": 29,
-    "category": "protocol"
   },
   {
     "tag": "v2rayN",
@@ -270,6 +270,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "TLSAuth",
+    "count": 14,
+    "category": "client"
+  },
+  {
     "tag": "性能优化",
     "count": 13,
     "category": "core"
@@ -286,11 +291,6 @@
   },
   {
     "tag": "SOCKS",
-    "count": 13,
-    "category": "client"
-  },
-  {
-    "tag": "TLSAuth",
     "count": 13,
     "category": "client"
   },
@@ -395,6 +395,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "配置管理",
+    "count": 8,
+    "category": "ecosystem"
+  },
+  {
     "tag": "UDP",
     "count": 8,
     "category": "client"
@@ -463,11 +468,6 @@
     "tag": "网络安全",
     "count": 7,
     "category": "security"
-  },
-  {
-    "tag": "配置管理",
-    "count": 7,
-    "category": "client"
   },
   {
     "tag": "加密",
@@ -668,6 +668,11 @@
     "tag": "tuic",
     "count": 5,
     "category": "protocol"
+  },
+  {
+    "tag": "SOCKS5",
+    "count": 4,
+    "category": "core"
   },
   {
     "tag": "本地化",
@@ -883,11 +888,6 @@
     "tag": "网络",
     "count": 3,
     "category": "ecosystem"
-  },
-  {
-    "tag": "SOCKS5",
-    "count": 3,
-    "category": "protocol"
   },
   {
     "tag": "Node",
@@ -1458,6 +1458,21 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "Tor",
+    "count": 1,
+    "category": "core"
+  },
+  {
+    "tag": "e2e testing",
+    "count": 1,
+    "category": "core"
+  },
+  {
+    "tag": "可视化配置",
+    "count": 1,
+    "category": "ecosystem"
   },
   {
     "tag": "xhamster",
