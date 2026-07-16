@@ -1,28 +1,28 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 272,
+    "count": 273,
     "category": "core"
   },
   {
     "tag": "v2fly",
-    "count": 178,
+    "count": 181,
     "category": "ecosystem"
   },
   {
     "tag": "mihomo",
-    "count": 131,
+    "count": 132,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "domain-list-community",
+    "count": 97,
     "category": "ecosystem"
   },
   {
     "tag": "Sub-Store",
     "count": 97,
     "category": "client"
-  },
-  {
-    "tag": "domain-list-community",
-    "count": 94,
-    "category": "ecosystem"
   },
   {
     "tag": "v2ray",
@@ -46,7 +46,7 @@
   },
   {
     "tag": "OpenVPN",
-    "count": 71,
+    "count": 72,
     "category": "ecosystem"
   },
   {
@@ -56,7 +56,7 @@
   },
   {
     "tag": "3x-ui",
-    "count": 63,
+    "count": 64,
     "category": "core"
   },
   {
@@ -80,14 +80,14 @@
     "category": "client"
   },
   {
+    "tag": "开发版本",
+    "count": 42,
+    "category": "ecosystem"
+  },
+  {
     "tag": "sing-box",
     "count": 41,
     "category": "client"
-  },
-  {
-    "tag": "开发版本",
-    "count": 41,
-    "category": "ecosystem"
   },
   {
     "tag": "代理工具",
@@ -151,7 +151,7 @@
   },
   {
     "tag": "WireGuard",
-    "count": 28,
+    "count": 29,
     "category": "protocol"
   },
   {
@@ -180,17 +180,17 @@
     "category": "ecosystem"
   },
   {
+    "tag": "自动化构建",
+    "count": 21,
+    "category": "ecosystem"
+  },
+  {
     "tag": "Xray-core",
     "count": 20,
     "category": "core"
   },
   {
     "tag": "依赖更新",
-    "count": 20,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "自动化构建",
     "count": 20,
     "category": "ecosystem"
   },
@@ -290,6 +290,11 @@
     "category": "client"
   },
   {
+    "tag": "TLSAuth",
+    "count": 13,
+    "category": "client"
+  },
+  {
     "tag": "Clash",
     "count": 12,
     "category": "ecosystem"
@@ -308,11 +313,6 @@
     "tag": "v2rayA",
     "count": 12,
     "category": "security"
-  },
-  {
-    "tag": "TLSAuth",
-    "count": 12,
-    "category": "client"
   },
   {
     "tag": "中国域名",
@@ -550,6 +550,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "geolocation",
+    "count": 5,
+    "category": "ecosystem"
+  },
+  {
     "tag": "SSH",
     "count": 5,
     "category": "client"
@@ -783,11 +788,6 @@
     "tag": "桌面应用",
     "count": 3,
     "category": "client"
-  },
-  {
-    "tag": "geolocation",
-    "count": 3,
-    "category": "ecosystem"
   },
   {
     "tag": "ECH",
@@ -1458,6 +1458,11 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "xhamster",
+    "count": 1,
+    "category": "ecosystem"
   },
   {
     "tag": "Avalonia",
