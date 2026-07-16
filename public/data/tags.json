@@ -1,7 +1,7 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 269,
+    "count": 271,
     "category": "ecosystem"
   },
   {
@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 130,
+    "count": 131,
     "category": "ecosystem"
   },
   {
@@ -26,17 +26,17 @@
   },
   {
     "tag": "v2ray",
-    "count": 85,
+    "count": 86,
     "category": "ecosystem"
   },
   {
     "tag": "meta-rules-dat",
-    "count": 73,
+    "count": 74,
     "category": "ecosystem"
   },
   {
     "tag": "Loyalsoldier",
-    "count": 72,
+    "count": 73,
     "category": "ecosystem"
   },
   {
@@ -46,12 +46,12 @@
   },
   {
     "tag": "OpenVPN",
-    "count": 70,
+    "count": 71,
     "category": "ecosystem"
   },
   {
     "tag": "网络代理",
-    "count": 64,
+    "count": 65,
     "category": "ecosystem"
   },
   {
@@ -66,7 +66,7 @@
   },
   {
     "tag": "rules",
-    "count": 58,
+    "count": 59,
     "category": "ecosystem"
   },
   {
@@ -80,18 +80,23 @@
     "category": "client"
   },
   {
+    "tag": "sing-box",
+    "count": 41,
+    "category": "client"
+  },
+  {
     "tag": "开发版本",
     "count": 41,
     "category": "ecosystem"
   },
   {
-    "tag": "sing-box",
-    "count": 40,
+    "tag": "代理工具",
+    "count": 38,
     "category": "client"
   },
   {
-    "tag": "代理工具",
-    "count": 38,
+    "tag": "Windows",
+    "count": 37,
     "category": "client"
   },
   {
@@ -105,13 +110,13 @@
     "category": "ecosystem"
   },
   {
-    "tag": "Windows",
-    "count": 36,
+    "tag": "Linux",
+    "count": 35,
     "category": "client"
   },
   {
-    "tag": "Linux",
-    "count": 35,
+    "tag": "SagerNet",
+    "count": 33,
     "category": "client"
   },
   {
@@ -121,11 +126,6 @@
   },
   {
     "tag": "网络协议",
-    "count": 32,
-    "category": "client"
-  },
-  {
-    "tag": "SagerNet",
     "count": 32,
     "category": "client"
   },
@@ -140,18 +140,18 @@
     "category": "protocol"
   },
   {
+    "tag": "Tailscale",
+    "count": 29,
+    "category": "client"
+  },
+  {
     "tag": "go-gost",
     "count": 29,
     "category": "core"
   },
   {
-    "tag": "Tailscale",
-    "count": 28,
-    "category": "protocol"
-  },
-  {
     "tag": "WireGuard",
-    "count": 27,
+    "count": 28,
     "category": "protocol"
   },
   {
@@ -310,6 +310,11 @@
     "category": "security"
   },
   {
+    "tag": "TLSAuth",
+    "count": 12,
+    "category": "client"
+  },
+  {
     "tag": "中国域名",
     "count": 11,
     "category": "ecosystem"
@@ -333,11 +338,6 @@
     "tag": "网络规则",
     "count": 11,
     "category": "ecosystem"
-  },
-  {
-    "tag": "TLSAuth",
-    "count": 11,
-    "category": "client"
   },
   {
     "tag": "Go",
@@ -550,6 +550,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "SSH",
+    "count": 5,
+    "category": "client"
+  },
+  {
     "tag": "更新",
     "count": 5,
     "category": "ecosystem"
@@ -728,11 +733,6 @@
     "tag": "MHSanaei",
     "count": 4,
     "category": "ecosystem"
-  },
-  {
-    "tag": "SSH",
-    "count": 4,
-    "category": "core"
   },
   {
     "tag": "功能增强",

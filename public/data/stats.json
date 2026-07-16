@@ -1,15 +1,15 @@
 {
-  "totalItems": 1021,
-  "last24h": 5,
-  "last7d": 71,
+  "totalItems": 1025,
+  "last24h": 6,
+  "last7d": 70,
   "byCategory": {
     "core": 166,
-    "client": 221,
+    "client": 223,
     "router": 1,
     "protocol": 51,
     "dns_rules": 24,
     "security": 11,
-    "ecosystem": 547,
+    "ecosystem": 549,
     "trend": 0
   },
   "topProjects": [
@@ -19,23 +19,23 @@
     },
     {
       "project": "mihomo",
-      "count": 120
+      "count": 121
     },
     {
       "project": "Sub-Store",
       "count": 97
     },
     {
+      "project": "v2ray-rules-dat",
+      "count": 77
+    },
+    {
       "project": "metacubexd",
       "count": 77
     },
     {
-      "project": "v2ray-rules-dat",
-      "count": 76
-    },
-    {
       "project": "meta-rules-dat",
-      "count": 73
+      "count": 74
     },
     {
       "project": "3x-ui",
@@ -43,7 +43,7 @@
     },
     {
       "project": "sing-box",
-      "count": 32
+      "count": 33
     },
     {
       "project": "ClashMetaForAndroid",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 269
+      "count": 271
     },
     {
       "tag": "v2fly",
@@ -65,7 +65,7 @@
     },
     {
       "tag": "mihomo",
-      "count": 130
+      "count": 131
     },
     {
       "tag": "Sub-Store",
@@ -77,15 +77,15 @@
     },
     {
       "tag": "v2ray",
-      "count": 85
+      "count": 86
     },
     {
       "tag": "meta-rules-dat",
-      "count": 73
+      "count": 74
     },
     {
       "tag": "Loyalsoldier",
-      "count": 72
+      "count": 73
     },
     {
       "tag": "metacubexd",
@@ -93,11 +93,11 @@
     },
     {
       "tag": "OpenVPN",
-      "count": 70
+      "count": 71
     },
     {
       "tag": "网络代理",
-      "count": 64
+      "count": 65
     },
     {
       "tag": "3x-ui",
@@ -109,7 +109,7 @@
     },
     {
       "tag": "rules",
-      "count": 58
+      "count": 59
     },
     {
       "tag": "Android",
@@ -120,24 +120,24 @@
       "count": 42
     },
     {
-      "tag": "开发版本",
+      "tag": "sing-box",
       "count": 41
     },
     {
-      "tag": "sing-box",
-      "count": 40
+      "tag": "开发版本",
+      "count": 41
     },
     {
       "tag": "代理工具",
       "count": 38
     },
     {
-      "tag": "dat",
+      "tag": "Windows",
       "count": 37
     }
   ],
-  "importantCount": 255,
+  "importantCount": 257,
   "breakingCount": 44,
-  "securityCount": 62,
-  "updatedAt": "2026-07-15T19:34:35.883Z"
+  "securityCount": 63,
+  "updatedAt": "2026-07-16T03:41:37.776Z"
 }
