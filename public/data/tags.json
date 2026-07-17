@@ -1,12 +1,12 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 275,
+    "count": 276,
     "category": "ecosystem"
   },
   {
     "tag": "v2fly",
-    "count": 181,
+    "count": 183,
     "category": "ecosystem"
   },
   {
@@ -16,7 +16,7 @@
   },
   {
     "tag": "domain-list-community",
-    "count": 97,
+    "count": 99,
     "category": "ecosystem"
   },
   {
@@ -26,22 +26,22 @@
   },
   {
     "tag": "v2ray",
-    "count": 86,
+    "count": 87,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "meta-rules-dat",
+    "count": 75,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "Loyalsoldier",
+    "count": 74,
     "category": "ecosystem"
   },
   {
     "tag": "metacubexd",
     "count": 74,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "meta-rules-dat",
-    "count": 74,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "Loyalsoldier",
-    "count": 73,
     "category": "ecosystem"
   },
   {
@@ -56,7 +56,7 @@
   },
   {
     "tag": "3x-ui",
-    "count": 64,
+    "count": 65,
     "category": "core"
   },
   {
@@ -76,12 +76,12 @@
   },
   {
     "tag": "代理",
-    "count": 42,
-    "category": "client"
+    "count": 43,
+    "category": "ecosystem"
   },
   {
     "tag": "开发版本",
-    "count": 42,
+    "count": 43,
     "category": "ecosystem"
   },
   {
@@ -156,7 +156,7 @@
   },
   {
     "tag": "v2rayN",
-    "count": 25,
+    "count": 26,
     "category": "security"
   },
   {
@@ -165,14 +165,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "自动构建",
+    "count": 24,
+    "category": "ecosystem"
+  },
+  {
     "tag": "HTTP/2",
     "count": 24,
     "category": "protocol"
-  },
-  {
-    "tag": "自动构建",
-    "count": 23,
-    "category": "ecosystem"
   },
   {
     "tag": "VLESS",
@@ -295,6 +295,11 @@
     "category": "client"
   },
   {
+    "tag": "xray",
+    "count": 12,
+    "category": "security"
+  },
+  {
     "tag": "Clash",
     "count": 12,
     "category": "ecosystem"
@@ -326,11 +331,6 @@
   },
   {
     "tag": "用户体验",
-    "count": 11,
-    "category": "client"
-  },
-  {
-    "tag": "xray",
     "count": 11,
     "category": "client"
   },
@@ -1000,6 +1000,11 @@
     "category": "protocol"
   },
   {
+    "tag": "Avalonia",
+    "count": 2,
+    "category": "security"
+  },
+  {
     "tag": "流量管理",
     "count": 2,
     "category": "ecosystem"
@@ -1460,6 +1465,36 @@
     "category": "security"
   },
   {
+    "tag": "actions",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "setup-go",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "MITM",
+    "count": 1,
+    "category": "security"
+  },
+  {
+    "tag": "HappyEyeballs",
+    "count": 1,
+    "category": "security"
+  },
+  {
+    "tag": "QNAP",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "规则",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
     "tag": "Tor",
     "count": 1,
     "category": "core"
@@ -1478,11 +1513,6 @@
     "tag": "xhamster",
     "count": 1,
     "category": "ecosystem"
-  },
-  {
-    "tag": "Avalonia",
-    "count": 1,
-    "category": "security"
   },
   {
     "tag": "客户端",
