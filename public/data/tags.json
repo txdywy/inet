@@ -1,7 +1,7 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 276,
+    "count": 277,
     "category": "ecosystem"
   },
   {
@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 133,
+    "count": 134,
     "category": "ecosystem"
   },
   {
@@ -46,7 +46,7 @@
   },
   {
     "tag": "OpenVPN",
-    "count": 73,
+    "count": 74,
     "category": "ecosystem"
   },
   {
@@ -135,17 +135,17 @@
     "category": "client"
   },
   {
+    "tag": "WireGuard",
+    "count": 31,
+    "category": "protocol"
+  },
+  {
     "tag": "go-gost",
     "count": 30,
     "category": "core"
   },
   {
     "tag": "Snell",
-    "count": 30,
-    "category": "protocol"
-  },
-  {
-    "tag": "WireGuard",
     "count": 30,
     "category": "protocol"
   },
@@ -245,6 +245,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "TLSAuth",
+    "count": 15,
+    "category": "client"
+  },
+  {
     "tag": "bugfix",
     "count": 14,
     "category": "core"
@@ -268,11 +273,6 @@
     "tag": "snell",
     "count": 14,
     "category": "ecosystem"
-  },
-  {
-    "tag": "TLSAuth",
-    "count": 14,
-    "category": "client"
   },
   {
     "tag": "性能优化",

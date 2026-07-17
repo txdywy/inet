@@ -1,10 +1,10 @@
 {
-  "totalItems": 1042,
-  "last24h": 11,
+  "totalItems": 1043,
+  "last24h": 8,
   "last7d": 74,
   "byCategory": {
     "core": 169,
-    "client": 225,
+    "client": 226,
     "router": 1,
     "protocol": 51,
     "dns_rules": 24,
@@ -19,7 +19,7 @@
     },
     {
       "project": "mihomo",
-      "count": 123
+      "count": 124
     },
     {
       "project": "Sub-Store",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 276
+      "count": 277
     },
     {
       "tag": "v2fly",
@@ -65,7 +65,7 @@
     },
     {
       "tag": "mihomo",
-      "count": 133
+      "count": 134
     },
     {
       "tag": "domain-list-community",
@@ -93,7 +93,7 @@
     },
     {
       "tag": "OpenVPN",
-      "count": 73
+      "count": 74
     },
     {
       "tag": "网络代理",
@@ -136,8 +136,8 @@
       "count": 37
     }
   ],
-  "importantCount": 261,
+  "importantCount": 262,
   "breakingCount": 44,
   "securityCount": 66,
-  "updatedAt": "2026-07-17T08:30:10.084Z"
+  "updatedAt": "2026-07-17T14:05:19.273Z"
 }
