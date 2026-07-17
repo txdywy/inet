@@ -1,5 +1,38 @@
 [
   {
+    "id": "f6b4530824a9fe42",
+    "title": "1.14.0-alpha.46",
+    "summary": "SagerNet/sing-box 1.14.0-alpha.46版本增加了对规则集的多标签支持和新的UDP NAT选项。",
+    "analysis": "此次更新主要增加了对规则集的多标签支持，使得用户可以更灵活地定义多个规则集共享其他选项。这一功能的引入将极大简化复杂配置的管理，提高用户的使用体验。此外，新增的UDP NAT选项允许用户更精细地控制NAT映射和过滤行为，以及最大UDP NAT会话数，这对于需要高效网络传输的应用场景尤为重要。对于开发者而言，这些改进可能会影响到现有的配置方式，尤其是在使用UDP协议的场景中。整体来看，此次更新没有明显的兼容性风险，但建议用户在使用新功能时仔细阅读文档以确保配置的正确性。由于这是一个alpha版本，建议对其进行测试后再在生产环境中使用。",
+    "rawTitle": "1.14.0-alpha.46",
+    "rawBody": "## :memo: Release Notes\n\n* Add multiple tags support to rule-sets **1**\n* Add new UDP NAT options **2**\n* Fixes and improvements\n\n**1**:\n\nThe rule-set [`tag`](https://sing-box.sagernet.org/configuration/rule-set/#tag) field now accepts a list of tags to define multiple rule-sets sharing other options at once, with the `{tag}` placeholder in `path` or `url` replaced by each tag.\n\n**2**:\n\nThe new [UDP NAT](https://sing-box.sagernet.org/configuration/shared/udp-nat/) fields [`udp_mapping`](https://sing-box.sagernet.org/configuration/shared/udp-nat/#udp_mapping), [`udp_filtering`](https://sing-box.sagernet.org/configuration/shared/udp-nat/#udp_filtering) and [`udp_nat_max`](https://sing-box.sagernet.org/configuration/shared/udp-nat/#udp_nat_max) configure the NAT mapping and filtering behaviors and the maximum number of UDP NAT sessions for TUN and TProxy inbounds and the WireGuard endpoint.",
+    "sourceType": "github_release",
+    "sourceName": "SagerNet/sing-box",
+    "sourceUrl": "https://github.com/SagerNet/sing-box/releases/tag/v1.14.0-alpha.46",
+    "project": "sing-box",
+    "repo": "SagerNet/sing-box",
+    "slug": "sing-box",
+    "version": "1.14.0-alpha.46",
+    "category": "core",
+    "tags": [
+      "SagerNet",
+      "sing-box",
+      "UDP",
+      "NAT"
+    ],
+    "platforms": [],
+    "importance": 3,
+    "confidence": 0.9,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2026-07-17T04:50:20Z",
+    "fetchedAt": "2026-07-17T08:29:50.836Z",
+    "firstSeenAt": "2026-07-17T08:30:09.624Z",
+    "updatedAt": "2026-07-17T08:30:09.624Z",
+    "hash": "f6b4530824a9fe42"
+  },
+  {
     "id": "f20d826546da2a42",
     "title": "20260717032527",
     "summary": "v2fly/domain-list-community 更新了 actions/setup-go 的版本，从 6 升级到 7。",

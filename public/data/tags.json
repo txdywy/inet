@@ -86,8 +86,8 @@
   },
   {
     "tag": "sing-box",
-    "count": 41,
-    "category": "client"
+    "count": 42,
+    "category": "core"
   },
   {
     "tag": "代理工具",
@@ -116,8 +116,8 @@
   },
   {
     "tag": "SagerNet",
-    "count": 33,
-    "category": "client"
+    "count": 34,
+    "category": "core"
   },
   {
     "tag": "xhttp-opts",
@@ -370,6 +370,11 @@
     "category": "protocol"
   },
   {
+    "tag": "UDP",
+    "count": 9,
+    "category": "core"
+  },
+  {
     "tag": "API",
     "count": 9,
     "category": "ecosystem"
@@ -398,11 +403,6 @@
     "tag": "配置管理",
     "count": 8,
     "category": "ecosystem"
-  },
-  {
-    "tag": "UDP",
-    "count": 8,
-    "category": "client"
   },
   {
     "tag": "helloworld",
@@ -668,6 +668,11 @@
     "tag": "tuic",
     "count": 5,
     "category": "protocol"
+  },
+  {
+    "tag": "NAT",
+    "count": 4,
+    "category": "core"
   },
   {
     "tag": "SOCKS5",
@@ -943,11 +948,6 @@
     "tag": "Google Docs",
     "count": 3,
     "category": "core"
-  },
-  {
-    "tag": "NAT",
-    "count": 3,
-    "category": "protocol"
   },
   {
     "tag": "崩溃修复",

@@ -1,9 +1,9 @@
 {
-  "totalItems": 1041,
-  "last24h": 12,
-  "last7d": 76,
+  "totalItems": 1042,
+  "last24h": 11,
+  "last7d": 74,
   "byCategory": {
-    "core": 168,
+    "core": 169,
     "client": 225,
     "router": 1,
     "protocol": 51,
@@ -43,7 +43,7 @@
     },
     {
       "project": "sing-box",
-      "count": 33
+      "count": 34
     },
     {
       "project": "ClashMetaForAndroid",
@@ -125,7 +125,7 @@
     },
     {
       "tag": "sing-box",
-      "count": 41
+      "count": 42
     },
     {
       "tag": "代理工具",
@@ -139,5 +139,5 @@
   "importantCount": 261,
   "breakingCount": 44,
   "securityCount": 66,
-  "updatedAt": "2026-07-17T03:41:27.593Z"
+  "updatedAt": "2026-07-17T08:30:10.084Z"
 }
