@@ -135,14 +135,14 @@
     "category": "client"
   },
   {
+    "tag": "go-gost",
+    "count": 31,
+    "category": "core"
+  },
+  {
     "tag": "WireGuard",
     "count": 31,
     "category": "protocol"
-  },
-  {
-    "tag": "go-gost",
-    "count": 30,
-    "category": "core"
   },
   {
     "tag": "Snell",
@@ -370,6 +370,11 @@
     "category": "protocol"
   },
   {
+    "tag": "proxy",
+    "count": 9,
+    "category": "core"
+  },
+  {
     "tag": "UDP",
     "count": 9,
     "category": "core"
@@ -418,11 +423,6 @@
     "tag": "OpenClash",
     "count": 8,
     "category": "ecosystem"
-  },
-  {
-    "tag": "proxy",
-    "count": 8,
-    "category": "security"
   },
   {
     "tag": "快捷方式",
@@ -1000,6 +1000,11 @@
     "category": "protocol"
   },
   {
+    "tag": "network",
+    "count": 2,
+    "category": "core"
+  },
+  {
     "tag": "Avalonia",
     "count": 2,
     "category": "security"
@@ -1463,6 +1468,11 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "forwarder",
+    "count": 1,
+    "category": "core"
   },
   {
     "tag": "actions",
@@ -3701,11 +3711,6 @@
   },
   {
     "tag": "quinn",
-    "count": 1,
-    "category": "protocol"
-  },
-  {
-    "tag": "network",
     "count": 1,
     "category": "protocol"
   },

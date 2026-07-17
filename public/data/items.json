@@ -1,5 +1,38 @@
 [
   {
+    "id": "29e47a588778f937",
+    "title": "v3.2.7-nightly.20260717",
+    "summary": "go-gost v3.2.7-nightly.20260717 更新了 forwarder probe passthrough 的修复。",
+    "analysis": "此次更新主要修复了 forwarder probe passthrough 的问题，版本号提升至 v0.13.14。这一修复对于使用 go-gost 进行网络代理的用户来说非常重要，因为它可能影响到数据转发的稳定性和准确性。用户在使用代理服务时，可能会遇到由于 probe passthrough 问题导致的连接不稳定或数据丢失的情况，因此及时更新可以确保更好的使用体验。此更新属于夜间构建版本，可能包含实验性功能或修复，建议开发者和用户在测试环境中先行验证后再考虑在生产环境中部署。总体来看，此次更新没有明显的兼容性风险，但用户应关注后续正式版本的发布。建议尽快更新以获得最新的修复和改进。",
+    "rawTitle": "v3.2.7-nightly.20260717",
+    "rawBody": "## Changelog\n* 5a01aa4fd2085156f1f6138774a9a399dbb92e1a chore: bump x to v0.13.14 (forwarder probe passthrough fix)\n\n",
+    "sourceType": "github_release",
+    "sourceName": "go-gost/gost",
+    "sourceUrl": "https://github.com/go-gost/gost/releases/tag/v3.2.7-nightly.20260717",
+    "project": "gost",
+    "repo": "go-gost/gost",
+    "slug": "gost",
+    "version": "3.2.7-nightly.20260717",
+    "category": "core",
+    "tags": [
+      "go-gost",
+      "proxy",
+      "network",
+      "forwarder"
+    ],
+    "platforms": [],
+    "importance": 3,
+    "confidence": 0.9,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-07-17T15:49:25Z",
+    "fetchedAt": "2026-07-17T19:30:33.495Z",
+    "firstSeenAt": "2026-07-17T19:30:49.520Z",
+    "updatedAt": "2026-07-17T19:30:49.520Z",
+    "hash": "29e47a588778f937"
+  },
+  {
     "id": "f6b4530824a9fe42",
     "title": "1.14.0-alpha.46",
     "summary": "SagerNet/sing-box 1.14.0-alpha.46版本增加了对规则集的多标签支持和新的UDP NAT选项。",

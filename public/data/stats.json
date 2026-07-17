@@ -1,9 +1,9 @@
 {
-  "totalItems": 1043,
-  "last24h": 8,
-  "last7d": 74,
+  "totalItems": 1044,
+  "last24h": 7,
+  "last7d": 70,
   "byCategory": {
-    "core": 169,
+    "core": 170,
     "client": 226,
     "router": 1,
     "protocol": 51,
@@ -51,7 +51,7 @@
     },
     {
       "project": "gost",
-      "count": 30
+      "count": 31
     }
   ],
   "hotTags": [
@@ -139,5 +139,5 @@
   "importantCount": 262,
   "breakingCount": 44,
   "securityCount": 66,
-  "updatedAt": "2026-07-17T14:05:19.273Z"
+  "updatedAt": "2026-07-17T19:30:49.992Z"
 }
