@@ -1,15 +1,15 @@
 {
-  "totalItems": 1044,
+  "totalItems": 1049,
   "last24h": 7,
-  "last7d": 70,
+  "last7d": 71,
   "byCategory": {
     "core": 170,
-    "client": 226,
+    "client": 227,
     "router": 1,
     "protocol": 51,
     "dns_rules": 24,
-    "security": 13,
-    "ecosystem": 559,
+    "security": 14,
+    "ecosystem": 562,
     "trend": 0
   },
   "topProjects": [
@@ -23,19 +23,19 @@
     },
     {
       "project": "Sub-Store",
-      "count": 97
+      "count": 98
+    },
+    {
+      "project": "v2ray-rules-dat",
+      "count": 79
     },
     {
       "project": "metacubexd",
       "count": 79
     },
     {
-      "project": "v2ray-rules-dat",
-      "count": 78
-    },
-    {
       "project": "meta-rules-dat",
-      "count": 75
+      "count": 76
     },
     {
       "project": "3x-ui",
@@ -43,7 +43,7 @@
     },
     {
       "project": "sing-box",
-      "count": 34
+      "count": 35
     },
     {
       "project": "ClashMetaForAndroid",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 277
+      "count": 278
     },
     {
       "tag": "v2fly",
@@ -73,26 +73,26 @@
     },
     {
       "tag": "Sub-Store",
-      "count": 97
+      "count": 98
     },
     {
       "tag": "v2ray",
-      "count": 87
+      "count": 88
     },
     {
       "tag": "meta-rules-dat",
+      "count": 76
+    },
+    {
+      "tag": "OpenVPN",
       "count": 75
     },
     {
       "tag": "Loyalsoldier",
-      "count": 74
+      "count": 75
     },
     {
       "tag": "metacubexd",
-      "count": 74
-    },
-    {
-      "tag": "OpenVPN",
       "count": 74
     },
     {
@@ -109,11 +109,15 @@
     },
     {
       "tag": "rules",
-      "count": 59
+      "count": 60
     },
     {
       "tag": "Android",
       "count": 49
+    },
+    {
+      "tag": "sing-box",
+      "count": 43
     },
     {
       "tag": "代理",
@@ -124,20 +128,16 @@
       "count": 43
     },
     {
-      "tag": "sing-box",
-      "count": 42
+      "tag": "dat",
+      "count": 38
     },
     {
       "tag": "代理工具",
       "count": 38
-    },
-    {
-      "tag": "Windows",
-      "count": 37
     }
   ],
-  "importantCount": 262,
+  "importantCount": 264,
   "breakingCount": 44,
-  "securityCount": 66,
-  "updatedAt": "2026-07-17T19:30:49.992Z"
+  "securityCount": 67,
+  "updatedAt": "2026-07-18T03:36:08.777Z"
 }

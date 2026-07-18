@@ -1,7 +1,7 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 277,
+    "count": 278,
     "category": "ecosystem"
   },
   {
@@ -21,31 +21,31 @@
   },
   {
     "tag": "Sub-Store",
-    "count": 97,
-    "category": "client"
+    "count": 98,
+    "category": "security"
   },
   {
     "tag": "v2ray",
-    "count": 87,
+    "count": 88,
     "category": "ecosystem"
   },
   {
     "tag": "meta-rules-dat",
-    "count": 75,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "Loyalsoldier",
-    "count": 74,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "metacubexd",
-    "count": 74,
+    "count": 76,
     "category": "ecosystem"
   },
   {
     "tag": "OpenVPN",
+    "count": 75,
+    "category": "client"
+  },
+  {
+    "tag": "Loyalsoldier",
+    "count": 75,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "metacubexd",
     "count": 74,
     "category": "ecosystem"
   },
@@ -66,12 +66,17 @@
   },
   {
     "tag": "rules",
-    "count": 59,
+    "count": 60,
     "category": "ecosystem"
   },
   {
     "tag": "Android",
     "count": 49,
+    "category": "client"
+  },
+  {
+    "tag": "sing-box",
+    "count": 43,
     "category": "client"
   },
   {
@@ -85,9 +90,9 @@
     "category": "ecosystem"
   },
   {
-    "tag": "sing-box",
-    "count": 42,
-    "category": "core"
+    "tag": "dat",
+    "count": 38,
+    "category": "ecosystem"
   },
   {
     "tag": "代理工具",
@@ -100,24 +105,19 @@
     "category": "client"
   },
   {
-    "tag": "dat",
-    "count": 37,
-    "category": "ecosystem"
-  },
-  {
     "tag": "开源",
     "count": 37,
     "category": "ecosystem"
   },
   {
-    "tag": "Linux",
+    "tag": "SagerNet",
     "count": 35,
     "category": "client"
   },
   {
-    "tag": "SagerNet",
-    "count": 34,
-    "category": "core"
+    "tag": "Linux",
+    "count": 35,
+    "category": "client"
   },
   {
     "tag": "xhttp-opts",
@@ -235,19 +235,24 @@
     "category": "core"
   },
   {
+    "tag": "VPN",
+    "count": 16,
+    "category": "client"
+  },
+  {
     "tag": "Hysteria",
     "count": 16,
     "category": "core"
   },
   {
-    "tag": "VPN",
-    "count": 15,
-    "category": "ecosystem"
-  },
-  {
     "tag": "TLSAuth",
     "count": 15,
     "category": "client"
+  },
+  {
+    "tag": "naiveproxy",
+    "count": 14,
+    "category": "ecosystem"
   },
   {
     "tag": "bugfix",
@@ -276,11 +281,6 @@
   },
   {
     "tag": "性能优化",
-    "count": 13,
-    "category": "core"
-  },
-  {
-    "tag": "naiveproxy",
     "count": 13,
     "category": "core"
   },
@@ -317,6 +317,11 @@
   {
     "tag": "v2rayA",
     "count": 12,
+    "category": "security"
+  },
+  {
+    "tag": "Surge",
+    "count": 11,
     "category": "security"
   },
   {
@@ -360,14 +365,14 @@
     "category": "dns_rules"
   },
   {
-    "tag": "Surge",
+    "tag": "VMess",
     "count": 10,
     "category": "protocol"
   },
   {
-    "tag": "VMess",
-    "count": 10,
-    "category": "protocol"
+    "tag": "helloworld",
+    "count": 9,
+    "category": "ecosystem"
   },
   {
     "tag": "proxy",
@@ -405,12 +410,12 @@
     "category": "ecosystem"
   },
   {
-    "tag": "配置管理",
+    "tag": "luci-app-ssr-plus",
     "count": 8,
     "category": "ecosystem"
   },
   {
-    "tag": "helloworld",
+    "tag": "配置管理",
     "count": 8,
     "category": "ecosystem"
   },
@@ -448,11 +453,6 @@
     "tag": "xhttp",
     "count": 8,
     "category": "client"
-  },
-  {
-    "tag": "luci-app-ssr-plus",
-    "count": 7,
-    "category": "ecosystem"
   },
   {
     "tag": "shadow-tls",
@@ -1467,6 +1467,26 @@
   {
     "tag": "Quantumult X",
     "count": 2,
+    "category": "security"
+  },
+  {
+    "tag": "hysteria",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "dnsproxy",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "OpenConnect",
+    "count": 1,
+    "category": "client"
+  },
+  {
+    "tag": "server-cert-verify-name",
+    "count": 1,
     "category": "security"
   },
   {
