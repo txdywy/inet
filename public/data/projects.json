@@ -331,6 +331,23 @@
     ]
   },
   {
+    "slug": "openclash",
+    "name": "OpenClash",
+    "repo": "vernesong/OpenClash",
+    "description": "OpenWrt / 路由器固件及插件",
+    "category": "router",
+    "platforms": [
+      "openwrt",
+      "router"
+    ],
+    "tags": [
+      "openclash",
+      "openwrt",
+      "luci",
+      "clash"
+    ]
+  },
+  {
     "slug": "openwrt",
     "name": "openwrt",
     "repo": "openwrt/openwrt",
@@ -378,23 +395,6 @@
       "mihomo-party",
       "mihomo",
       "desktop"
-    ]
-  },
-  {
-    "slug": "openclash",
-    "name": "OpenClash",
-    "repo": "vernesong/OpenClash",
-    "description": "OpenWrt / 路由器固件及插件",
-    "category": "router",
-    "platforms": [
-      "openwrt",
-      "router"
-    ],
-    "tags": [
-      "openclash",
-      "openwrt",
-      "luci",
-      "clash"
     ]
   },
   {

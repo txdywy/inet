@@ -1,7 +1,7 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 278,
+    "count": 279,
     "category": "ecosystem"
   },
   {
@@ -11,8 +11,13 @@
   },
   {
     "tag": "mihomo",
-    "count": 134,
+    "count": 135,
     "category": "ecosystem"
+  },
+  {
+    "tag": "Sub-Store",
+    "count": 100,
+    "category": "protocol"
   },
   {
     "tag": "domain-list-community",
@@ -20,24 +25,19 @@
     "category": "ecosystem"
   },
   {
-    "tag": "Sub-Store",
-    "count": 98,
-    "category": "security"
-  },
-  {
     "tag": "v2ray",
     "count": 88,
     "category": "ecosystem"
   },
   {
+    "tag": "OpenVPN",
+    "count": 76,
+    "category": "client"
+  },
+  {
     "tag": "meta-rules-dat",
     "count": 76,
     "category": "ecosystem"
-  },
-  {
-    "tag": "OpenVPN",
-    "count": 75,
-    "category": "client"
   },
   {
     "tag": "Loyalsoldier",
@@ -51,7 +51,7 @@
   },
   {
     "tag": "网络代理",
-    "count": 65,
+    "count": 66,
     "category": "ecosystem"
   },
   {
@@ -90,6 +90,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "开源",
+    "count": 38,
+    "category": "ecosystem"
+  },
+  {
     "tag": "dat",
     "count": 38,
     "category": "ecosystem"
@@ -105,11 +110,6 @@
     "category": "client"
   },
   {
-    "tag": "开源",
-    "count": 37,
-    "category": "ecosystem"
-  },
-  {
     "tag": "SagerNet",
     "count": 35,
     "category": "client"
@@ -120,14 +120,14 @@
     "category": "client"
   },
   {
+    "tag": "网络协议",
+    "count": 34,
+    "category": "protocol"
+  },
+  {
     "tag": "xhttp-opts",
     "count": 33,
     "category": "core"
-  },
-  {
-    "tag": "网络协议",
-    "count": 32,
-    "category": "client"
   },
   {
     "tag": "ClashMetaForAndroid",
@@ -135,14 +135,14 @@
     "category": "client"
   },
   {
+    "tag": "WireGuard",
+    "count": 32,
+    "category": "protocol"
+  },
+  {
     "tag": "go-gost",
     "count": 31,
     "category": "core"
-  },
-  {
-    "tag": "WireGuard",
-    "count": 31,
-    "category": "protocol"
   },
   {
     "tag": "Snell",
@@ -235,18 +235,18 @@
     "category": "core"
   },
   {
+    "tag": "Hysteria",
+    "count": 17,
+    "category": "protocol"
+  },
+  {
     "tag": "VPN",
     "count": 16,
     "category": "client"
   },
   {
-    "tag": "Hysteria",
-    "count": 16,
-    "category": "core"
-  },
-  {
     "tag": "TLSAuth",
-    "count": 15,
+    "count": 16,
     "category": "client"
   },
   {
@@ -280,6 +280,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "Clash",
+    "count": 13,
+    "category": "ecosystem"
+  },
+  {
     "tag": "性能优化",
     "count": 13,
     "category": "core"
@@ -298,11 +303,6 @@
     "tag": "xray",
     "count": 12,
     "category": "security"
-  },
-  {
-    "tag": "Clash",
-    "count": 12,
-    "category": "ecosystem"
   },
   {
     "tag": "HTTP",
@@ -370,6 +370,11 @@
     "category": "protocol"
   },
   {
+    "tag": "OpenClash",
+    "count": 9,
+    "category": "ecosystem"
+  },
+  {
     "tag": "helloworld",
     "count": 9,
     "category": "ecosystem"
@@ -425,11 +430,6 @@
     "category": "core"
   },
   {
-    "tag": "OpenClash",
-    "count": 8,
-    "category": "ecosystem"
-  },
-  {
     "tag": "快捷方式",
     "count": 8,
     "category": "client"
@@ -453,6 +453,11 @@
     "tag": "xhttp",
     "count": 8,
     "category": "client"
+  },
+  {
+    "tag": "安全",
+    "count": 7,
+    "category": "protocol"
   },
   {
     "tag": "shadow-tls",
@@ -498,11 +503,6 @@
     "tag": "dae",
     "count": 6,
     "category": "ecosystem"
-  },
-  {
-    "tag": "安全",
-    "count": 6,
-    "category": "core"
   },
   {
     "tag": "Shadowrocket",
@@ -667,6 +667,11 @@
   {
     "tag": "tuic",
     "count": 5,
+    "category": "protocol"
+  },
+  {
+    "tag": "AnyTLS",
+    "count": 4,
     "category": "protocol"
   },
   {
@@ -880,11 +885,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "AnyTLS",
-    "count": 3,
-    "category": "ecosystem"
-  },
-  {
     "tag": "steam",
     "count": 3,
     "category": "ecosystem"
@@ -997,6 +997,11 @@
   {
     "tag": "protocol",
     "count": 3,
+    "category": "protocol"
+  },
+  {
+    "tag": "URI",
+    "count": 2,
     "category": "protocol"
   },
   {
@@ -2593,11 +2598,6 @@
     "tag": "广告域名",
     "count": 1,
     "category": "ecosystem"
-  },
-  {
-    "tag": "URI",
-    "count": 1,
-    "category": "protocol"
   },
   {
     "tag": "arena.ai",

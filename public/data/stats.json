@@ -1,15 +1,15 @@
 {
-  "totalItems": 1049,
-  "last24h": 7,
-  "last7d": 71,
+  "totalItems": 1053,
+  "last24h": 9,
+  "last7d": 73,
   "byCategory": {
     "core": 170,
-    "client": 227,
+    "client": 228,
     "router": 1,
-    "protocol": 51,
+    "protocol": 53,
     "dns_rules": 24,
     "security": 14,
-    "ecosystem": 562,
+    "ecosystem": 563,
     "trend": 0
   },
   "topProjects": [
@@ -19,11 +19,11 @@
     },
     {
       "project": "mihomo",
-      "count": 124
+      "count": 125
     },
     {
       "project": "Sub-Store",
-      "count": 98
+      "count": 100
     },
     {
       "project": "v2ray-rules-dat",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 278
+      "count": 279
     },
     {
       "tag": "v2fly",
@@ -65,27 +65,27 @@
     },
     {
       "tag": "mihomo",
-      "count": 134
+      "count": 135
+    },
+    {
+      "tag": "Sub-Store",
+      "count": 100
     },
     {
       "tag": "domain-list-community",
       "count": 99
     },
     {
-      "tag": "Sub-Store",
-      "count": 98
-    },
-    {
       "tag": "v2ray",
       "count": 88
     },
     {
-      "tag": "meta-rules-dat",
+      "tag": "OpenVPN",
       "count": 76
     },
     {
-      "tag": "OpenVPN",
-      "count": 75
+      "tag": "meta-rules-dat",
+      "count": 76
     },
     {
       "tag": "Loyalsoldier",
@@ -97,7 +97,7 @@
     },
     {
       "tag": "网络代理",
-      "count": 65
+      "count": 66
     },
     {
       "tag": "3x-ui",
@@ -128,16 +128,16 @@
       "count": 43
     },
     {
-      "tag": "dat",
+      "tag": "开源",
       "count": 38
     },
     {
-      "tag": "代理工具",
+      "tag": "dat",
       "count": 38
     }
   ],
-  "importantCount": 264,
+  "importantCount": 265,
   "breakingCount": 44,
   "securityCount": 67,
-  "updatedAt": "2026-07-18T03:36:08.777Z"
+  "updatedAt": "2026-07-18T08:11:24.712Z"
 }
