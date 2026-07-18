@@ -1,7 +1,7 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 279,
+    "count": 281,
     "category": "ecosystem"
   },
   {
@@ -11,13 +11,13 @@
   },
   {
     "tag": "mihomo",
-    "count": 135,
+    "count": 137,
     "category": "ecosystem"
   },
   {
     "tag": "Sub-Store",
-    "count": 100,
-    "category": "protocol"
+    "count": 101,
+    "category": "core"
   },
   {
     "tag": "domain-list-community",
@@ -31,8 +31,8 @@
   },
   {
     "tag": "OpenVPN",
-    "count": 76,
-    "category": "client"
+    "count": 78,
+    "category": "ecosystem"
   },
   {
     "tag": "meta-rules-dat",
@@ -51,12 +51,12 @@
   },
   {
     "tag": "网络代理",
-    "count": 66,
-    "category": "ecosystem"
+    "count": 67,
+    "category": "client"
   },
   {
     "tag": "3x-ui",
-    "count": 65,
+    "count": 66,
     "category": "core"
   },
   {
@@ -71,7 +71,7 @@
   },
   {
     "tag": "Android",
-    "count": 49,
+    "count": 50,
     "category": "client"
   },
   {
@@ -110,6 +110,11 @@
     "category": "client"
   },
   {
+    "tag": "网络协议",
+    "count": 35,
+    "category": "core"
+  },
+  {
     "tag": "SagerNet",
     "count": 35,
     "category": "client"
@@ -120,24 +125,19 @@
     "category": "client"
   },
   {
-    "tag": "网络协议",
+    "tag": "ClashMetaForAndroid",
     "count": 34,
+    "category": "client"
+  },
+  {
+    "tag": "WireGuard",
+    "count": 33,
     "category": "protocol"
   },
   {
     "tag": "xhttp-opts",
     "count": 33,
     "category": "core"
-  },
-  {
-    "tag": "ClashMetaForAndroid",
-    "count": 32,
-    "category": "client"
-  },
-  {
-    "tag": "WireGuard",
-    "count": 32,
-    "category": "protocol"
   },
   {
     "tag": "go-gost",
@@ -175,24 +175,24 @@
     "category": "protocol"
   },
   {
+    "tag": "依赖更新",
+    "count": 22,
+    "category": "client"
+  },
+  {
     "tag": "VLESS",
     "count": 22,
     "category": "ecosystem"
   },
   {
     "tag": "自动化构建",
-    "count": 21,
+    "count": 22,
     "category": "ecosystem"
   },
   {
     "tag": "Xray-core",
     "count": 20,
     "category": "core"
-  },
-  {
-    "tag": "依赖更新",
-    "count": 20,
-    "category": "ecosystem"
   },
   {
     "tag": "rematch",
@@ -240,14 +240,19 @@
     "category": "protocol"
   },
   {
+    "tag": "TLSAuth",
+    "count": 17,
+    "category": "client"
+  },
+  {
     "tag": "VPN",
     "count": 16,
     "category": "client"
   },
   {
-    "tag": "TLSAuth",
-    "count": 16,
-    "category": "client"
+    "tag": "TLS",
+    "count": 14,
+    "category": "ecosystem"
   },
   {
     "tag": "naiveproxy",
@@ -288,11 +293,6 @@
     "tag": "性能优化",
     "count": 13,
     "category": "core"
-  },
-  {
-    "tag": "TLS",
-    "count": 13,
-    "category": "protocol"
   },
   {
     "tag": "SOCKS",
@@ -875,6 +875,11 @@
     "category": "protocol"
   },
   {
+    "tag": "开发版",
+    "count": 3,
+    "category": "ecosystem"
+  },
+  {
     "tag": "文件路由",
     "count": 3,
     "category": "ecosystem"
@@ -998,6 +1003,11 @@
     "tag": "protocol",
     "count": 3,
     "category": "protocol"
+  },
+  {
+    "tag": "SNI",
+    "count": 2,
+    "category": "core"
   },
   {
     "tag": "URI",
@@ -1161,11 +1171,6 @@
   },
   {
     "tag": "客户端管理",
-    "count": 2,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "开发版",
     "count": 2,
     "category": "ecosystem"
   },
@@ -1473,6 +1478,21 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "Shadowsocks",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "restls",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "jls",
+    "count": 1,
+    "category": "ecosystem"
   },
   {
     "tag": "hysteria",
@@ -2403,11 +2423,6 @@
     "tag": "时区",
     "count": 1,
     "category": "client"
-  },
-  {
-    "tag": "SNI",
-    "count": 1,
-    "category": "core"
   },
   {
     "tag": "CI流程",
