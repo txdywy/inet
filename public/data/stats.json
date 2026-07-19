@@ -1,10 +1,10 @@
 {
-  "totalItems": 1062,
-  "last24h": 3,
-  "last7d": 64,
+  "totalItems": 1064,
+  "last24h": 5,
+  "last7d": 65,
   "byCategory": {
     "core": 171,
-    "client": 231,
+    "client": 233,
     "router": 1,
     "protocol": 53,
     "dns_rules": 24,
@@ -43,7 +43,7 @@
     },
     {
       "project": "sing-box",
-      "count": 35
+      "count": 36
     },
     {
       "project": "ClashMetaForAndroid",
@@ -81,7 +81,7 @@
     },
     {
       "tag": "OpenVPN",
-      "count": 78
+      "count": 79
     },
     {
       "tag": "meta-rules-dat",
@@ -117,7 +117,7 @@
     },
     {
       "tag": "sing-box",
-      "count": 43
+      "count": 44
     },
     {
       "tag": "代理",
@@ -132,12 +132,12 @@
       "count": 39
     },
     {
-      "tag": "开源",
+      "tag": "Windows",
       "count": 38
     }
   ],
-  "importantCount": 267,
+  "importantCount": 269,
   "breakingCount": 44,
   "securityCount": 67,
-  "updatedAt": "2026-07-19T13:56:53.921Z"
+  "updatedAt": "2026-07-19T19:29:26.335Z"
 }
