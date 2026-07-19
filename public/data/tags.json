@@ -1,7 +1,7 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 281,
+    "count": 282,
     "category": "ecosystem"
   },
   {
@@ -16,8 +16,8 @@
   },
   {
     "tag": "Sub-Store",
-    "count": 101,
-    "category": "core"
+    "count": 102,
+    "category": "ecosystem"
   },
   {
     "tag": "domain-list-community",
@@ -26,7 +26,7 @@
   },
   {
     "tag": "v2ray",
-    "count": 88,
+    "count": 89,
     "category": "ecosystem"
   },
   {
@@ -36,12 +36,12 @@
   },
   {
     "tag": "meta-rules-dat",
-    "count": 76,
+    "count": 77,
     "category": "ecosystem"
   },
   {
     "tag": "Loyalsoldier",
-    "count": 75,
+    "count": 76,
     "category": "ecosystem"
   },
   {
@@ -66,7 +66,7 @@
   },
   {
     "tag": "rules",
-    "count": 60,
+    "count": 61,
     "category": "ecosystem"
   },
   {
@@ -90,12 +90,12 @@
     "category": "ecosystem"
   },
   {
-    "tag": "开源",
-    "count": 38,
+    "tag": "dat",
+    "count": 39,
     "category": "ecosystem"
   },
   {
-    "tag": "dat",
+    "tag": "开源",
     "count": 38,
     "category": "ecosystem"
   },
@@ -250,6 +250,11 @@
     "category": "client"
   },
   {
+    "tag": "性能优化",
+    "count": 14,
+    "category": "ecosystem"
+  },
+  {
     "tag": "TLS",
     "count": 14,
     "category": "ecosystem"
@@ -288,11 +293,6 @@
     "tag": "Clash",
     "count": 13,
     "category": "ecosystem"
-  },
-  {
-    "tag": "性能优化",
-    "count": 13,
-    "category": "core"
   },
   {
     "tag": "SOCKS",
@@ -670,6 +670,11 @@
     "category": "protocol"
   },
   {
+    "tag": "前端",
+    "count": 4,
+    "category": "ecosystem"
+  },
+  {
     "tag": "AnyTLS",
     "count": 4,
     "category": "protocol"
@@ -916,11 +921,6 @@
   },
   {
     "tag": "脚本操作",
-    "count": 3,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "前端",
     "count": 3,
     "category": "ecosystem"
   },
