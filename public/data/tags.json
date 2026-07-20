@@ -16,7 +16,7 @@
   },
   {
     "tag": "Sub-Store",
-    "count": 103,
+    "count": 104,
     "category": "ecosystem"
   },
   {
@@ -125,14 +125,14 @@
     "category": "core"
   },
   {
+    "tag": "WireGuard",
+    "count": 34,
+    "category": "core"
+  },
+  {
     "tag": "ClashMetaForAndroid",
     "count": 34,
     "category": "client"
-  },
-  {
-    "tag": "WireGuard",
-    "count": 33,
-    "category": "protocol"
   },
   {
     "tag": "xhttp-opts",
@@ -151,8 +151,8 @@
   },
   {
     "tag": "Tailscale",
-    "count": 29,
-    "category": "client"
+    "count": 30,
+    "category": "core"
   },
   {
     "tag": "v2rayN",
@@ -235,6 +235,11 @@
     "category": "core"
   },
   {
+    "tag": "VPN",
+    "count": 17,
+    "category": "core"
+  },
+  {
     "tag": "Hysteria",
     "count": 17,
     "category": "protocol"
@@ -242,11 +247,6 @@
   {
     "tag": "TLSAuth",
     "count": 17,
-    "category": "client"
-  },
-  {
-    "tag": "VPN",
-    "count": 16,
     "category": "client"
   },
   {
@@ -800,6 +800,11 @@
     "category": "client"
   },
   {
+    "tag": "备份",
+    "count": 3,
+    "category": "ecosystem"
+  },
+  {
     "tag": "安全更新",
     "count": 3,
     "category": "security"
@@ -1220,11 +1225,6 @@
     "category": "client"
   },
   {
-    "tag": "备份",
-    "count": 2,
-    "category": "ecosystem"
-  },
-  {
     "tag": "ss",
     "count": 2,
     "category": "client"
@@ -1488,6 +1488,11 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "前端优化",
+    "count": 1,
+    "category": "ecosystem"
   },
   {
     "tag": "订阅服务器",

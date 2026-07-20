@@ -331,6 +331,25 @@
     ]
   },
   {
+    "slug": "tailscale",
+    "name": "tailscale",
+    "repo": "tailscale/tailscale",
+    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
+    "category": "ecosystem",
+    "platforms": [
+      "linux",
+      "windows",
+      "macos",
+      "android",
+      "ios"
+    ],
+    "tags": [
+      "tailscale",
+      "wireguard",
+      "mesh"
+    ]
+  },
+  {
     "slug": "openclash",
     "name": "OpenClash",
     "repo": "vernesong/OpenClash",
@@ -359,25 +378,6 @@
     ],
     "tags": [
       "openwrt"
-    ]
-  },
-  {
-    "slug": "tailscale",
-    "name": "tailscale",
-    "repo": "tailscale/tailscale",
-    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
-    "category": "ecosystem",
-    "platforms": [
-      "linux",
-      "windows",
-      "macos",
-      "android",
-      "ios"
-    ],
-    "tags": [
-      "tailscale",
-      "wireguard",
-      "mesh"
     ]
   },
   {
