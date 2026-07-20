@@ -6,7 +6,7 @@
   },
   {
     "tag": "v2fly",
-    "count": 184,
+    "count": 186,
     "category": "ecosystem"
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "tag": "domain-list-community",
-    "count": 99,
+    "count": 101,
     "category": "ecosystem"
   },
   {
@@ -91,8 +91,8 @@
   },
   {
     "tag": "开源",
-    "count": 39,
-    "category": "ecosystem"
+    "count": 40,
+    "category": "core"
   },
   {
     "tag": "dat",
@@ -290,6 +290,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "v2rayA",
+    "count": 13,
+    "category": "core"
+  },
+  {
     "tag": "Clash",
     "count": 13,
     "category": "ecosystem"
@@ -318,11 +323,6 @@
     "tag": "OpenWrt",
     "count": 12,
     "category": "ecosystem"
-  },
-  {
-    "tag": "v2rayA",
-    "count": 12,
-    "category": "security"
   },
   {
     "tag": "VMess",
@@ -1488,6 +1488,31 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "订阅服务器",
+    "count": 1,
+    "category": "core"
+  },
+  {
+    "tag": "嗅探排除",
+    "count": 1,
+    "category": "core"
+  },
+  {
+    "tag": "反审查",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "clashyun.com",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "Formula1",
+    "count": 1,
+    "category": "ecosystem"
   },
   {
     "tag": "community",
