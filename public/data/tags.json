@@ -1,22 +1,22 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 284,
+    "count": 285,
     "category": "ecosystem"
   },
   {
     "tag": "v2fly",
-    "count": 183,
+    "count": 184,
     "category": "ecosystem"
   },
   {
     "tag": "mihomo",
-    "count": 138,
+    "count": 139,
     "category": "ecosystem"
   },
   {
     "tag": "Sub-Store",
-    "count": 102,
+    "count": 103,
     "category": "ecosystem"
   },
   {
@@ -61,7 +61,7 @@
   },
   {
     "tag": "domain-list",
-    "count": 62,
+    "count": 63,
     "category": "ecosystem"
   },
   {
@@ -140,14 +140,14 @@
     "category": "core"
   },
   {
+    "tag": "Snell",
+    "count": 31,
+    "category": "ecosystem"
+  },
+  {
     "tag": "go-gost",
     "count": 31,
     "category": "core"
-  },
-  {
-    "tag": "Snell",
-    "count": 30,
-    "category": "protocol"
   },
   {
     "tag": "Tailscale",
@@ -175,14 +175,14 @@
     "category": "protocol"
   },
   {
+    "tag": "VLESS",
+    "count": 23,
+    "category": "ecosystem"
+  },
+  {
     "tag": "依赖更新",
     "count": 22,
     "category": "client"
-  },
-  {
-    "tag": "VLESS",
-    "count": 22,
-    "category": "ecosystem"
   },
   {
     "tag": "自动化构建",
@@ -325,6 +325,11 @@
     "category": "security"
   },
   {
+    "tag": "VMess",
+    "count": 11,
+    "category": "ecosystem"
+  },
+  {
     "tag": "Surge",
     "count": 11,
     "category": "security"
@@ -365,9 +370,9 @@
     "category": "dns_rules"
   },
   {
-    "tag": "VMess",
+    "tag": "预发布",
     "count": 10,
-    "category": "protocol"
+    "category": "client"
   },
   {
     "tag": "OpenClash",
@@ -406,11 +411,6 @@
   },
   {
     "tag": ".NET",
-    "count": 9,
-    "category": "client"
-  },
-  {
-    "tag": "预发布",
     "count": 9,
     "category": "client"
   },
@@ -460,6 +460,11 @@
     "category": "client"
   },
   {
+    "tag": "Alpha",
+    "count": 8,
+    "category": "ecosystem"
+  },
+  {
     "tag": "安全",
     "count": 7,
     "category": "protocol"
@@ -496,11 +501,6 @@
   },
   {
     "tag": "shadowsocks",
-    "count": 7,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "Alpha",
     "count": 7,
     "category": "ecosystem"
   },
@@ -547,6 +547,11 @@
   {
     "tag": "openvpn",
     "count": 6,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "ShadowTLS",
+    "count": 5,
     "category": "ecosystem"
   },
   {
@@ -670,6 +675,11 @@
     "category": "protocol"
   },
   {
+    "tag": "Trojan",
+    "count": 4,
+    "category": "ecosystem"
+  },
+  {
     "tag": "前端",
     "count": 4,
     "category": "ecosystem"
@@ -693,11 +703,6 @@
     "tag": "本地化",
     "count": 4,
     "category": "security"
-  },
-  {
-    "tag": "ShadowTLS",
-    "count": 4,
-    "category": "protocol"
   },
   {
     "tag": "依赖库",
@@ -838,11 +843,6 @@
     "tag": "utls",
     "count": 3,
     "category": "core"
-  },
-  {
-    "tag": "Trojan",
-    "count": 3,
-    "category": "client"
   },
   {
     "tag": "域名分类",
@@ -1003,6 +1003,11 @@
     "tag": "protocol",
     "count": 3,
     "category": "protocol"
+  },
+  {
+    "tag": "Shadowsocks",
+    "count": 2,
+    "category": "ecosystem"
   },
   {
     "tag": "OpenConnect",
@@ -1485,6 +1490,16 @@
     "category": "security"
   },
   {
+    "tag": "community",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "域名服务",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
     "tag": "AnyConnect",
     "count": 1,
     "category": "client"
@@ -1493,11 +1508,6 @@
     "tag": "SSO",
     "count": 1,
     "category": "client"
-  },
-  {
-    "tag": "Shadowsocks",
-    "count": 1,
-    "category": "ecosystem"
   },
   {
     "tag": "restls",
