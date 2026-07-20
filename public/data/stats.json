@@ -1,7 +1,7 @@
 {
-  "totalItems": 1064,
-  "last24h": 5,
-  "last7d": 65,
+  "totalItems": 1067,
+  "last24h": 4,
+  "last7d": 61,
   "byCategory": {
     "core": 171,
     "client": 233,
@@ -9,7 +9,7 @@
     "protocol": 53,
     "dns_rules": 24,
     "security": 14,
-    "ecosystem": 568,
+    "ecosystem": 571,
     "trend": 0
   },
   "topProjects": [
@@ -19,7 +19,7 @@
     },
     {
       "project": "mihomo",
-      "count": 127
+      "count": 128
     },
     {
       "project": "Sub-Store",
@@ -27,7 +27,7 @@
     },
     {
       "project": "v2ray-rules-dat",
-      "count": 80
+      "count": 81
     },
     {
       "project": "metacubexd",
@@ -35,7 +35,7 @@
     },
     {
       "project": "meta-rules-dat",
-      "count": 77
+      "count": 78
     },
     {
       "project": "3x-ui",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 282
+      "count": 284
     },
     {
       "tag": "v2fly",
@@ -65,7 +65,7 @@
     },
     {
       "tag": "mihomo",
-      "count": 137
+      "count": 138
     },
     {
       "tag": "Sub-Store",
@@ -77,7 +77,7 @@
     },
     {
       "tag": "v2ray",
-      "count": 89
+      "count": 90
     },
     {
       "tag": "OpenVPN",
@@ -85,11 +85,11 @@
     },
     {
       "tag": "meta-rules-dat",
-      "count": 77
+      "count": 78
     },
     {
       "tag": "Loyalsoldier",
-      "count": 76
+      "count": 77
     },
     {
       "tag": "metacubexd",
@@ -128,16 +128,16 @@
       "count": 43
     },
     {
-      "tag": "dat",
+      "tag": "开源",
       "count": 39
     },
     {
-      "tag": "Windows",
-      "count": 38
+      "tag": "dat",
+      "count": 39
     }
   ],
   "importantCount": 269,
   "breakingCount": 44,
   "securityCount": 67,
-  "updatedAt": "2026-07-19T19:29:26.335Z"
+  "updatedAt": "2026-07-20T04:07:33.243Z"
 }

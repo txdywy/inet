@@ -1,7 +1,7 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 282,
+    "count": 284,
     "category": "ecosystem"
   },
   {
@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 137,
+    "count": 138,
     "category": "ecosystem"
   },
   {
@@ -26,7 +26,7 @@
   },
   {
     "tag": "v2ray",
-    "count": 89,
+    "count": 90,
     "category": "ecosystem"
   },
   {
@@ -36,12 +36,12 @@
   },
   {
     "tag": "meta-rules-dat",
-    "count": 77,
+    "count": 78,
     "category": "ecosystem"
   },
   {
     "tag": "Loyalsoldier",
-    "count": 76,
+    "count": 77,
     "category": "ecosystem"
   },
   {
@@ -90,6 +90,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "开源",
+    "count": 39,
+    "category": "ecosystem"
+  },
+  {
     "tag": "dat",
     "count": 39,
     "category": "ecosystem"
@@ -98,11 +103,6 @@
     "tag": "Windows",
     "count": 38,
     "category": "client"
-  },
-  {
-    "tag": "开源",
-    "count": 38,
-    "category": "ecosystem"
   },
   {
     "tag": "代理工具",
@@ -300,6 +300,11 @@
     "category": "client"
   },
   {
+    "tag": "网络规则",
+    "count": 12,
+    "category": "ecosystem"
+  },
+  {
     "tag": "xray",
     "count": 12,
     "category": "security"
@@ -338,11 +343,6 @@
     "tag": "用户体验",
     "count": 11,
     "category": "client"
-  },
-  {
-    "tag": "网络规则",
-    "count": 11,
-    "category": "ecosystem"
   },
   {
     "tag": "Go",
@@ -410,6 +410,11 @@
     "category": "client"
   },
   {
+    "tag": "预发布",
+    "count": 9,
+    "category": "client"
+  },
+  {
     "tag": "CBC",
     "count": 9,
     "category": "ecosystem"
@@ -436,11 +441,6 @@
   },
   {
     "tag": "快捷方式",
-    "count": 8,
-    "category": "client"
-  },
-  {
-    "tag": "预发布",
     "count": 8,
     "category": "client"
   },
@@ -500,6 +500,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "Alpha",
+    "count": 7,
+    "category": "ecosystem"
+  },
+  {
     "tag": "dae",
     "count": 6,
     "category": "ecosystem"
@@ -541,11 +546,6 @@
   },
   {
     "tag": "openvpn",
-    "count": 6,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "Alpha",
     "count": 6,
     "category": "ecosystem"
   },
