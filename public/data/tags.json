@@ -1,7 +1,7 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 285,
+    "count": 288,
     "category": "ecosystem"
   },
   {
@@ -16,7 +16,7 @@
   },
   {
     "tag": "Sub-Store",
-    "count": 104,
+    "count": 105,
     "category": "ecosystem"
   },
   {
@@ -26,7 +26,12 @@
   },
   {
     "tag": "v2ray",
-    "count": 90,
+    "count": 91,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "meta-rules-dat",
+    "count": 79,
     "category": "ecosystem"
   },
   {
@@ -35,19 +40,14 @@
     "category": "client"
   },
   {
-    "tag": "meta-rules-dat",
+    "tag": "Loyalsoldier",
     "count": 78,
     "category": "ecosystem"
   },
   {
-    "tag": "Loyalsoldier",
-    "count": 77,
-    "category": "ecosystem"
-  },
-  {
     "tag": "metacubexd",
-    "count": 74,
-    "category": "ecosystem"
+    "count": 76,
+    "category": "client"
   },
   {
     "tag": "网络代理",
@@ -66,7 +66,7 @@
   },
   {
     "tag": "rules",
-    "count": 61,
+    "count": 62,
     "category": "ecosystem"
   },
   {
@@ -90,14 +90,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "dat",
+    "count": 40,
+    "category": "ecosystem"
+  },
+  {
     "tag": "开源",
     "count": 40,
     "category": "core"
-  },
-  {
-    "tag": "dat",
-    "count": 39,
-    "category": "ecosystem"
   },
   {
     "tag": "Windows",
@@ -675,6 +675,11 @@
     "category": "protocol"
   },
   {
+    "tag": "桌面应用",
+    "count": 4,
+    "category": "client"
+  },
+  {
     "tag": "Trojan",
     "count": 4,
     "category": "ecosystem"
@@ -813,11 +818,6 @@
     "tag": "中间人攻击",
     "count": 3,
     "category": "security"
-  },
-  {
-    "tag": "桌面应用",
-    "count": 3,
-    "category": "client"
   },
   {
     "tag": "ECH",
@@ -1008,6 +1008,11 @@
     "tag": "protocol",
     "count": 3,
     "category": "protocol"
+  },
+  {
+    "tag": "功能更新",
+    "count": 2,
+    "category": "client"
   },
   {
     "tag": "Shadowsocks",
@@ -1488,6 +1493,26 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "请求头",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "风控",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "typescript",
+    "count": 1,
+    "category": "core"
+  },
+  {
+    "tag": "内存图表",
+    "count": 1,
+    "category": "core"
   },
   {
     "tag": "前端优化",
@@ -3506,11 +3531,6 @@
   },
   {
     "tag": "autobuild",
-    "count": 1,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "功能更新",
     "count": 1,
     "category": "ecosystem"
   },

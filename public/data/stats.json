@@ -1,15 +1,15 @@
 {
-  "totalItems": 1075,
-  "last24h": 9,
-  "last7d": 57,
+  "totalItems": 1080,
+  "last24h": 12,
+  "last7d": 59,
   "byCategory": {
-    "core": 173,
-    "client": 233,
+    "core": 174,
+    "client": 234,
     "router": 1,
     "protocol": 53,
     "dns_rules": 24,
     "security": 14,
-    "ecosystem": 577,
+    "ecosystem": 580,
     "trend": 0
   },
   "topProjects": [
@@ -23,19 +23,19 @@
     },
     {
       "project": "Sub-Store",
-      "count": 104
+      "count": 105
     },
     {
       "project": "v2ray-rules-dat",
-      "count": 81
+      "count": 82
     },
     {
       "project": "metacubexd",
-      "count": 79
+      "count": 81
     },
     {
       "project": "meta-rules-dat",
-      "count": 78
+      "count": 79
     },
     {
       "project": "3x-ui",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 285
+      "count": 288
     },
     {
       "tag": "v2fly",
@@ -69,7 +69,7 @@
     },
     {
       "tag": "Sub-Store",
-      "count": 104
+      "count": 105
     },
     {
       "tag": "domain-list-community",
@@ -77,23 +77,23 @@
     },
     {
       "tag": "v2ray",
-      "count": 90
+      "count": 91
+    },
+    {
+      "tag": "meta-rules-dat",
+      "count": 79
     },
     {
       "tag": "OpenVPN",
       "count": 79
     },
     {
-      "tag": "meta-rules-dat",
+      "tag": "Loyalsoldier",
       "count": 78
     },
     {
-      "tag": "Loyalsoldier",
-      "count": 77
-    },
-    {
       "tag": "metacubexd",
-      "count": 74
+      "count": 76
     },
     {
       "tag": "网络代理",
@@ -109,7 +109,7 @@
     },
     {
       "tag": "rules",
-      "count": 61
+      "count": 62
     },
     {
       "tag": "Android",
@@ -128,16 +128,16 @@
       "count": 43
     },
     {
-      "tag": "开源",
+      "tag": "dat",
       "count": 40
     },
     {
-      "tag": "dat",
-      "count": 39
+      "tag": "开源",
+      "count": 40
     }
   ],
   "importantCount": 270,
   "breakingCount": 44,
   "securityCount": 67,
-  "updatedAt": "2026-07-20T19:54:46.851Z"
+  "updatedAt": "2026-07-21T03:49:26.085Z"
 }
