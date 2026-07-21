@@ -1,27 +1,27 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 288,
+    "count": 289,
     "category": "ecosystem"
   },
   {
     "tag": "v2fly",
-    "count": 186,
+    "count": 187,
     "category": "ecosystem"
   },
   {
     "tag": "mihomo",
-    "count": 139,
+    "count": 140,
     "category": "ecosystem"
   },
   {
     "tag": "Sub-Store",
-    "count": 105,
-    "category": "ecosystem"
+    "count": 106,
+    "category": "security"
   },
   {
     "tag": "domain-list-community",
-    "count": 101,
+    "count": 102,
     "category": "ecosystem"
   },
   {
@@ -56,7 +56,7 @@
   },
   {
     "tag": "3x-ui",
-    "count": 66,
+    "count": 67,
     "category": "core"
   },
   {
@@ -80,12 +80,12 @@
     "category": "client"
   },
   {
-    "tag": "代理",
-    "count": 43,
+    "tag": "开发版本",
+    "count": 44,
     "category": "ecosystem"
   },
   {
-    "tag": "开发版本",
+    "tag": "代理",
     "count": 43,
     "category": "ecosystem"
   },
@@ -100,12 +100,12 @@
     "category": "core"
   },
   {
-    "tag": "Windows",
-    "count": 38,
-    "category": "client"
+    "tag": "代理工具",
+    "count": 39,
+    "category": "ecosystem"
   },
   {
-    "tag": "代理工具",
+    "tag": "Windows",
     "count": 38,
     "category": "client"
   },
@@ -166,7 +166,7 @@
   },
   {
     "tag": "自动构建",
-    "count": 24,
+    "count": 25,
     "category": "ecosystem"
   },
   {
@@ -251,8 +251,8 @@
   },
   {
     "tag": "TLS",
-    "count": 15,
-    "category": "client"
+    "count": 16,
+    "category": "security"
   },
   {
     "tag": "性能优化",
@@ -350,6 +350,11 @@
     "category": "client"
   },
   {
+    "tag": "预发布",
+    "count": 11,
+    "category": "client"
+  },
+  {
     "tag": "Go",
     "count": 10,
     "category": "ecosystem"
@@ -368,11 +373,6 @@
     "tag": "dns",
     "count": 10,
     "category": "dns_rules"
-  },
-  {
-    "tag": "预发布",
-    "count": 10,
-    "category": "client"
   },
   {
     "tag": "OpenClash",
@@ -413,6 +413,11 @@
     "tag": ".NET",
     "count": 9,
     "category": "client"
+  },
+  {
+    "tag": "Alpha",
+    "count": 9,
+    "category": "ecosystem"
   },
   {
     "tag": "CBC",
@@ -460,11 +465,6 @@
     "category": "client"
   },
   {
-    "tag": "Alpha",
-    "count": 8,
-    "category": "ecosystem"
-  },
-  {
     "tag": "安全",
     "count": 7,
     "category": "protocol"
@@ -502,6 +502,16 @@
   {
     "tag": "shadowsocks",
     "count": 7,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "证书验证",
+    "count": 6,
+    "category": "security"
+  },
+  {
+    "tag": "V2Ray",
+    "count": 6,
     "category": "ecosystem"
   },
   {
@@ -588,16 +598,6 @@
     "tag": "hysteria2",
     "count": 5,
     "category": "core"
-  },
-  {
-    "tag": "V2Ray",
-    "count": 5,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "证书验证",
-    "count": 5,
-    "category": "client"
   },
   {
     "tag": "安全修复",
@@ -1492,6 +1492,11 @@
   {
     "tag": "Quantumult X",
     "count": 2,
+    "category": "security"
+  },
+  {
+    "tag": "QX",
+    "count": 1,
     "category": "security"
   },
   {
