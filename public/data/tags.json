@@ -6,7 +6,7 @@
   },
   {
     "tag": "v2fly",
-    "count": 187,
+    "count": 188,
     "category": "ecosystem"
   },
   {
@@ -16,8 +16,8 @@
   },
   {
     "tag": "Sub-Store",
-    "count": 106,
-    "category": "security"
+    "count": 107,
+    "category": "client"
   },
   {
     "tag": "domain-list-community",
@@ -50,18 +50,18 @@
     "category": "client"
   },
   {
+    "tag": "3x-ui",
+    "count": 68,
+    "category": "core"
+  },
+  {
     "tag": "网络代理",
     "count": 67,
     "category": "client"
   },
   {
-    "tag": "3x-ui",
-    "count": 67,
-    "category": "core"
-  },
-  {
     "tag": "domain-list",
-    "count": 63,
+    "count": 64,
     "category": "ecosystem"
   },
   {
@@ -75,14 +75,14 @@
     "category": "client"
   },
   {
+    "tag": "开发版本",
+    "count": 45,
+    "category": "ecosystem"
+  },
+  {
     "tag": "sing-box",
     "count": 44,
     "category": "client"
-  },
-  {
-    "tag": "开发版本",
-    "count": 44,
-    "category": "ecosystem"
   },
   {
     "tag": "代理",
@@ -115,14 +115,14 @@
     "category": "client"
   },
   {
-    "tag": "SagerNet",
+    "tag": "网络协议",
     "count": 36,
     "category": "client"
   },
   {
-    "tag": "网络协议",
-    "count": 35,
-    "category": "core"
+    "tag": "SagerNet",
+    "count": 36,
+    "category": "client"
   },
   {
     "tag": "WireGuard",
@@ -141,8 +141,8 @@
   },
   {
     "tag": "Snell",
-    "count": 31,
-    "category": "ecosystem"
+    "count": 32,
+    "category": "client"
   },
   {
     "tag": "go-gost",
@@ -160,12 +160,12 @@
     "category": "security"
   },
   {
-    "tag": "网络工具",
-    "count": 25,
+    "tag": "自动构建",
+    "count": 26,
     "category": "ecosystem"
   },
   {
-    "tag": "自动构建",
+    "tag": "网络工具",
     "count": 25,
     "category": "ecosystem"
   },
@@ -465,6 +465,11 @@
     "category": "client"
   },
   {
+    "tag": "Shadowrocket",
+    "count": 7,
+    "category": "client"
+  },
+  {
     "tag": "安全",
     "count": 7,
     "category": "protocol"
@@ -518,11 +523,6 @@
     "tag": "dae",
     "count": 6,
     "category": "ecosystem"
-  },
-  {
-    "tag": "Shadowrocket",
-    "count": 6,
-    "category": "client"
   },
   {
     "tag": "Loon",
@@ -803,6 +803,11 @@
     "tag": "nekoray",
     "count": 4,
     "category": "client"
+  },
+  {
+    "tag": "cn domains",
+    "count": 3,
+    "category": "ecosystem"
   },
   {
     "tag": "备份",
@@ -1288,11 +1293,6 @@
     "tag": "年龄加密",
     "count": 2,
     "category": "client"
-  },
-  {
-    "tag": "cn domains",
-    "count": 2,
-    "category": "ecosystem"
   },
   {
     "tag": "图表",
