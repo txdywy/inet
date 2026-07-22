@@ -16,8 +16,8 @@
   },
   {
     "tag": "Sub-Store",
-    "count": 110,
-    "category": "ecosystem"
+    "count": 111,
+    "category": "client"
   },
   {
     "tag": "domain-list-community",
@@ -50,14 +50,14 @@
     "category": "client"
   },
   {
+    "tag": "3x-ui",
+    "count": 69,
+    "category": "core"
+  },
+  {
     "tag": "网络代理",
     "count": 68,
     "category": "ecosystem"
-  },
-  {
-    "tag": "3x-ui",
-    "count": 68,
-    "category": "core"
   },
   {
     "tag": "domain-list",
@@ -71,18 +71,18 @@
   },
   {
     "tag": "Android",
-    "count": 50,
+    "count": 51,
     "category": "client"
+  },
+  {
+    "tag": "开发版本",
+    "count": 46,
+    "category": "ecosystem"
   },
   {
     "tag": "sing-box",
     "count": 45,
     "category": "protocol"
-  },
-  {
-    "tag": "开发版本",
-    "count": 45,
-    "category": "ecosystem"
   },
   {
     "tag": "代理",
@@ -155,14 +155,14 @@
     "category": "core"
   },
   {
+    "tag": "自动构建",
+    "count": 27,
+    "category": "ecosystem"
+  },
+  {
     "tag": "v2rayN",
     "count": 26,
     "category": "security"
-  },
-  {
-    "tag": "自动构建",
-    "count": 26,
-    "category": "ecosystem"
   },
   {
     "tag": "网络工具",
@@ -620,6 +620,11 @@
     "category": "client"
   },
   {
+    "tag": "MHSanaei",
+    "count": 5,
+    "category": "ecosystem"
+  },
+  {
     "tag": "age",
     "count": 5,
     "category": "ecosystem"
@@ -673,6 +678,11 @@
     "tag": "tuic",
     "count": 5,
     "category": "protocol"
+  },
+  {
+    "tag": "Node",
+    "count": 4,
+    "category": "client"
   },
   {
     "tag": "桌面应用",
@@ -761,11 +771,6 @@
   },
   {
     "tag": "依赖管理",
-    "count": 4,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "MHSanaei",
     "count": 4,
     "category": "ecosystem"
   },
@@ -916,11 +921,6 @@
   },
   {
     "tag": "网络",
-    "count": 3,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "Node",
     "count": 3,
     "category": "ecosystem"
   },

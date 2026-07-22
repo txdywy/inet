@@ -1,5 +1,39 @@
 [
   {
+    "id": "58526b7e2383cd6c",
+    "title": "2.36.20",
+    "summary": "Sub-Store 2.36.20 版本发布，主要优化了 Android Node 的兼容性和错误日志。",
+    "analysis": "在此次更新中，Sub-Store 进行了针对 Android Node 的兼容性优化，并改进了错误日志的记录方式。这一改进对于 Android 用户来说尤为重要，因为它可以提升应用的稳定性和用户体验，减少因兼容性问题导致的崩溃或错误。同时，优化后的错误日志将帮助开发者更快速地定位和解决问题，从而提高开发效率。此更新没有提及与其他协议或项目的直接关联，且未显示出兼容性风险，因此建议用户尽快更新以享受更好的使用体验。",
+    "rawTitle": "2.36.20",
+    "rawBody": "## <small>2.36.20 (2026-07-22)</small>\n\n* feat: 优化 Android Node 兼容性和错误日志 ([8b49cf5](https://github.com/sub-store-org/Sub-Store/commit/8b49cf5))\n",
+    "sourceType": "github_release",
+    "sourceName": "sub-store-org/Sub-Store",
+    "sourceUrl": "https://github.com/sub-store-org/Sub-Store/releases/tag/2.36.20",
+    "project": "Sub-Store",
+    "repo": "sub-store-org/Sub-Store",
+    "slug": "sub-store",
+    "version": "2.36.20",
+    "category": "client",
+    "tags": [
+      "Sub-Store",
+      "Android",
+      "Node"
+    ],
+    "platforms": [
+      "android"
+    ],
+    "importance": 3,
+    "confidence": 0.9,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-07-22T16:47:15Z",
+    "fetchedAt": "2026-07-22T19:41:12.040Z",
+    "firstSeenAt": "2026-07-22T19:41:26.648Z",
+    "updatedAt": "2026-07-22T19:41:26.648Z",
+    "hash": "58526b7e2383cd6c"
+  },
+  {
     "id": "4c1e96784a0c12ab",
     "title": "v2.4.9",
     "summary": "v2rayA 发布了 v2.4.9 版本，修复了从 BoltDB 迁移的安装中订阅更新导致的服务器列表重复问题。",
@@ -8641,6 +8675,39 @@
     "firstSeenAt": "2026-06-25T04:36:16.426Z",
     "updatedAt": "2026-06-25T04:36:16.426Z",
     "hash": "e54a070ca4e6a5bf"
+  },
+  {
+    "id": "3ca0af27fb1458fd",
+    "title": "Dev build 16b9b3ce",
+    "summary": "MHSanaei/3x-ui 发布了开发版本 16b9b3ce，供开发者通过面板的开发更新频道安装。",
+    "analysis": "此次更新是 MHSanaei/3x-ui 的开发版本，标识为 16b9b3ce，主要用于开发者测试和反馈。由于这是一个自动化的每次提交构建，意味着它并不稳定，可能包含未经过充分测试的新特性或修复。对于开发者而言，这种开发版本可以帮助他们提前体验新功能并提供反馈，但普通用户不建议使用此版本以避免潜在的稳定性问题。此版本的发布与项目的持续开发和迭代密切相关，用户应关注后续的稳定版本发布。由于是开发版本，兼容性风险较高，因此建议用户在非生产环境中进行测试。",
+    "rawTitle": "Dev build 16b9b3ce",
+    "rawBody": "Rolling development build — installs via the panel's Dev update channel.\n\ncommit=16b9b3ce1cab97bbe6d0c6e4d85172c34ae4070e\nbuilt=2026-07-22T18:02:10Z\n\nAutomated per-commit build from main. Not a stable release.",
+    "sourceType": "github_release",
+    "sourceName": "MHSanaei/3x-ui",
+    "sourceUrl": "https://github.com/MHSanaei/3x-ui/releases/tag/dev-latest",
+    "project": "3x-ui",
+    "repo": "MHSanaei/3x-ui",
+    "slug": "3x-ui",
+    "version": "dev-latest",
+    "category": "ecosystem",
+    "tags": [
+      "MHSanaei",
+      "3x-ui",
+      "开发版本",
+      "自动构建"
+    ],
+    "platforms": [],
+    "importance": 3,
+    "confidence": 0.9,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-06-24T16:17:06Z",
+    "fetchedAt": "2026-07-22T19:41:12.157Z",
+    "firstSeenAt": "2026-07-22T19:41:20.516Z",
+    "updatedAt": "2026-07-22T19:41:20.516Z",
+    "hash": "3ca0af27fb1458fd"
   },
   {
     "id": "1561b758c0c97ee4",

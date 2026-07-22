@@ -1,15 +1,15 @@
 {
-  "totalItems": 1095,
-  "last24h": 9,
-  "last7d": 59,
+  "totalItems": 1097,
+  "last24h": 7,
+  "last7d": 60,
   "byCategory": {
     "core": 174,
-    "client": 236,
+    "client": 237,
     "router": 1,
     "protocol": 54,
     "dns_rules": 24,
     "security": 15,
-    "ecosystem": 591,
+    "ecosystem": 592,
     "trend": 0
   },
   "topProjects": [
@@ -23,7 +23,7 @@
     },
     {
       "project": "Sub-Store",
-      "count": 110
+      "count": 111
     },
     {
       "project": "v2ray-rules-dat",
@@ -39,7 +39,7 @@
     },
     {
       "project": "3x-ui",
-      "count": 68
+      "count": 69
     },
     {
       "project": "sing-box",
@@ -69,7 +69,7 @@
     },
     {
       "tag": "Sub-Store",
-      "count": 110
+      "count": 111
     },
     {
       "tag": "domain-list-community",
@@ -96,11 +96,11 @@
       "count": 76
     },
     {
-      "tag": "网络代理",
-      "count": 68
+      "tag": "3x-ui",
+      "count": 69
     },
     {
-      "tag": "3x-ui",
+      "tag": "网络代理",
       "count": 68
     },
     {
@@ -113,14 +113,14 @@
     },
     {
       "tag": "Android",
-      "count": 50
-    },
-    {
-      "tag": "sing-box",
-      "count": 45
+      "count": 51
     },
     {
       "tag": "开发版本",
+      "count": 46
+    },
+    {
+      "tag": "sing-box",
       "count": 45
     },
     {
@@ -139,5 +139,5 @@
   "importantCount": 272,
   "breakingCount": 44,
   "securityCount": 68,
-  "updatedAt": "2026-07-22T14:25:25.293Z"
+  "updatedAt": "2026-07-22T19:41:27.064Z"
 }
