@@ -255,6 +255,11 @@
     "category": "security"
   },
   {
+    "tag": "v2rayA",
+    "count": 14,
+    "category": "client"
+  },
+  {
     "tag": "性能优化",
     "count": 14,
     "category": "ecosystem"
@@ -288,11 +293,6 @@
     "tag": "snell",
     "count": 14,
     "category": "ecosystem"
-  },
-  {
-    "tag": "v2rayA",
-    "count": 13,
-    "category": "core"
   },
   {
     "tag": "Clash",
@@ -510,6 +510,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "更新",
+    "count": 6,
+    "category": "client"
+  },
+  {
     "tag": "证书验证",
     "count": 6,
     "category": "security"
@@ -573,11 +578,6 @@
     "tag": "SSH",
     "count": 5,
     "category": "client"
-  },
-  {
-    "tag": "更新",
-    "count": 5,
-    "category": "ecosystem"
   },
   {
     "tag": "xray-core",
@@ -1513,6 +1513,16 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "BoltDB",
+    "count": 1,
+    "category": "client"
+  },
+  {
+    "tag": "数据库",
+    "count": 1,
+    "category": "client"
   },
   {
     "tag": "导出",

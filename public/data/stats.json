@@ -1,10 +1,10 @@
 {
-  "totalItems": 1094,
-  "last24h": 10,
-  "last7d": 60,
+  "totalItems": 1095,
+  "last24h": 9,
+  "last7d": 59,
   "byCategory": {
     "core": 174,
-    "client": 235,
+    "client": 236,
     "router": 1,
     "protocol": 54,
     "dns_rules": 24,
@@ -139,5 +139,5 @@
   "importantCount": 272,
   "breakingCount": 44,
   "securityCount": 68,
-  "updatedAt": "2026-07-22T08:47:23.270Z"
+  "updatedAt": "2026-07-22T14:25:25.293Z"
 }

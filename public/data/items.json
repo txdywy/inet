@@ -1,5 +1,38 @@
 [
   {
+    "id": "4c1e96784a0c12ab",
+    "title": "v2.4.9",
+    "summary": "v2rayA 发布了 v2.4.9 版本，修复了从 BoltDB 迁移的安装中订阅更新导致的服务器列表重复问题。",
+    "analysis": "此次 v2.4.9 更新主要修复了一个与数据库相关的 bug，即在从 BoltDB 迁移的安装中，订阅更新会导致服务器列表重复。这一问题可能影响到使用 BoltDB 作为数据库的用户，导致他们在更新订阅时遇到数据冗余的问题。修复此问题对于提升用户体验和数据管理的准确性至关重要。此次更新没有涉及协议变化或安全相关的修复，因此兼容性风险较低。建议受影响用户尽快更新，以确保系统的稳定性和数据的准确性。",
+    "rawTitle": "v2.4.9",
+    "rawBody": "## What's Changed\n* fix(db): subscription update duplicates server list on installs migrated from BoltDB by @newptcai in https://github.com/v2rayA/v2rayA/pull/1912\n\n## New Contributors\n* @newptcai made their first contribution in https://github.com/v2rayA/v2rayA/pull/1912\n\n**Full Changelog**: https://github.com/v2rayA/v2rayA/compare/v2.4.8...v2.4.9",
+    "sourceType": "github_release",
+    "sourceName": "v2rayA/v2rayA",
+    "sourceUrl": "https://github.com/v2rayA/v2rayA/releases/tag/v2.4.9",
+    "project": "v2rayA",
+    "repo": "v2rayA/v2rayA",
+    "slug": "v2raya",
+    "version": "2.4.9",
+    "category": "client",
+    "tags": [
+      "v2rayA",
+      "BoltDB",
+      "数据库",
+      "更新"
+    ],
+    "platforms": [],
+    "importance": 3,
+    "confidence": 0.9,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-07-22T12:37:36Z",
+    "fetchedAt": "2026-07-22T14:25:11.948Z",
+    "firstSeenAt": "2026-07-22T14:25:24.930Z",
+    "updatedAt": "2026-07-22T14:25:24.930Z",
+    "hash": "4c1e96784a0c12ab"
+  },
+  {
     "id": "9fb1dc2fdc8d15cc",
     "title": "2.36.19",
     "summary": "Sub-Store 2.36.19 版本优化了导出订阅和文件的逻辑。",
