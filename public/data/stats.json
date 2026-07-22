@@ -1,15 +1,15 @@
 {
-  "totalItems": 1087,
-  "last24h": 9,
-  "last7d": 57,
+  "totalItems": 1090,
+  "last24h": 7,
+  "last7d": 58,
   "byCategory": {
     "core": 174,
     "client": 235,
     "router": 1,
-    "protocol": 53,
+    "protocol": 54,
     "dns_rules": 24,
     "security": 15,
-    "ecosystem": 585,
+    "ecosystem": 587,
     "trend": 0
   },
   "topProjects": [
@@ -27,7 +27,7 @@
     },
     {
       "project": "v2ray-rules-dat",
-      "count": 82
+      "count": 83
     },
     {
       "project": "metacubexd",
@@ -35,7 +35,7 @@
     },
     {
       "project": "meta-rules-dat",
-      "count": 79
+      "count": 80
     },
     {
       "project": "3x-ui",
@@ -43,7 +43,7 @@
     },
     {
       "project": "sing-box",
-      "count": 36
+      "count": 37
     },
     {
       "project": "ClashMetaForAndroid",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 289
+      "count": 290
     },
     {
       "tag": "v2fly",
@@ -77,31 +77,31 @@
     },
     {
       "tag": "v2ray",
-      "count": 91
-    },
-    {
-      "tag": "meta-rules-dat",
-      "count": 79
+      "count": 92
     },
     {
       "tag": "OpenVPN",
-      "count": 79
+      "count": 80
+    },
+    {
+      "tag": "meta-rules-dat",
+      "count": 80
     },
     {
       "tag": "Loyalsoldier",
-      "count": 78
+      "count": 79
     },
     {
       "tag": "metacubexd",
       "count": 76
     },
     {
-      "tag": "3x-ui",
+      "tag": "网络代理",
       "count": 68
     },
     {
-      "tag": "网络代理",
-      "count": 67
+      "tag": "3x-ui",
+      "count": 68
     },
     {
       "tag": "domain-list",
@@ -109,19 +109,19 @@
     },
     {
       "tag": "rules",
-      "count": 62
+      "count": 63
     },
     {
       "tag": "Android",
       "count": 50
     },
     {
-      "tag": "开发版本",
+      "tag": "sing-box",
       "count": 45
     },
     {
-      "tag": "sing-box",
-      "count": 44
+      "tag": "开发版本",
+      "count": 45
     },
     {
       "tag": "代理",
@@ -136,8 +136,8 @@
       "count": 40
     }
   ],
-  "importantCount": 271,
+  "importantCount": 272,
   "breakingCount": 44,
   "securityCount": 68,
-  "updatedAt": "2026-07-21T19:49:28.660Z"
+  "updatedAt": "2026-07-22T03:50:14.821Z"
 }

@@ -1,7 +1,7 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 289,
+    "count": 290,
     "category": "ecosystem"
   },
   {
@@ -26,22 +26,22 @@
   },
   {
     "tag": "v2ray",
-    "count": 91,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "meta-rules-dat",
-    "count": 79,
+    "count": 92,
     "category": "ecosystem"
   },
   {
     "tag": "OpenVPN",
-    "count": 79,
-    "category": "client"
+    "count": 80,
+    "category": "protocol"
+  },
+  {
+    "tag": "meta-rules-dat",
+    "count": 80,
+    "category": "ecosystem"
   },
   {
     "tag": "Loyalsoldier",
-    "count": 78,
+    "count": 79,
     "category": "ecosystem"
   },
   {
@@ -50,14 +50,14 @@
     "category": "client"
   },
   {
+    "tag": "网络代理",
+    "count": 68,
+    "category": "ecosystem"
+  },
+  {
     "tag": "3x-ui",
     "count": 68,
     "category": "core"
-  },
-  {
-    "tag": "网络代理",
-    "count": 67,
-    "category": "client"
   },
   {
     "tag": "domain-list",
@@ -66,7 +66,7 @@
   },
   {
     "tag": "rules",
-    "count": 62,
+    "count": 63,
     "category": "ecosystem"
   },
   {
@@ -75,14 +75,14 @@
     "category": "client"
   },
   {
+    "tag": "sing-box",
+    "count": 45,
+    "category": "protocol"
+  },
+  {
     "tag": "开发版本",
     "count": 45,
     "category": "ecosystem"
-  },
-  {
-    "tag": "sing-box",
-    "count": 44,
-    "category": "client"
   },
   {
     "tag": "代理",
@@ -110,17 +110,17 @@
     "category": "client"
   },
   {
+    "tag": "SagerNet",
+    "count": 37,
+    "category": "protocol"
+  },
+  {
     "tag": "Linux",
     "count": 37,
     "category": "client"
   },
   {
     "tag": "网络协议",
-    "count": 36,
-    "category": "client"
-  },
-  {
-    "tag": "SagerNet",
     "count": 36,
     "category": "client"
   },
@@ -805,6 +805,11 @@
     "category": "client"
   },
   {
+    "tag": "OpenConnect",
+    "count": 3,
+    "category": "protocol"
+  },
+  {
     "tag": "cn domains",
     "count": 3,
     "category": "ecosystem"
@@ -1023,11 +1028,6 @@
     "tag": "Shadowsocks",
     "count": 2,
     "category": "ecosystem"
-  },
-  {
-    "tag": "OpenConnect",
-    "count": 2,
-    "category": "client"
   },
   {
     "tag": "SNI",
@@ -1493,6 +1493,11 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "Fortinet",
+    "count": 1,
+    "category": "protocol"
   },
   {
     "tag": "QX",
