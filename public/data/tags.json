@@ -1,7 +1,7 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 290,
+    "count": 291,
     "category": "ecosystem"
   },
   {
@@ -11,13 +11,13 @@
   },
   {
     "tag": "mihomo",
-    "count": 140,
+    "count": 141,
     "category": "ecosystem"
   },
   {
     "tag": "Sub-Store",
-    "count": 107,
-    "category": "client"
+    "count": 110,
+    "category": "ecosystem"
   },
   {
     "tag": "domain-list-community",
@@ -325,6 +325,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "预发布",
+    "count": 12,
+    "category": "client"
+  },
+  {
     "tag": "VMess",
     "count": 11,
     "category": "ecosystem"
@@ -350,11 +355,6 @@
     "category": "client"
   },
   {
-    "tag": "预发布",
-    "count": 11,
-    "category": "client"
-  },
-  {
     "tag": "Go",
     "count": 10,
     "category": "ecosystem"
@@ -373,6 +373,11 @@
     "tag": "dns",
     "count": 10,
     "category": "dns_rules"
+  },
+  {
+    "tag": "Alpha",
+    "count": 10,
+    "category": "ecosystem"
   },
   {
     "tag": "OpenClash",
@@ -413,11 +418,6 @@
     "tag": ".NET",
     "count": 9,
     "category": "client"
-  },
-  {
-    "tag": "Alpha",
-    "count": 9,
-    "category": "ecosystem"
   },
   {
     "tag": "CBC",
@@ -1020,6 +1020,26 @@
     "category": "protocol"
   },
   {
+    "tag": "订阅",
+    "count": 2,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "undici",
+    "count": 2,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "fetch-socks",
+    "count": 2,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "proxyTunnel",
+    "count": 2,
+    "category": "ecosystem"
+  },
+  {
     "tag": "功能更新",
     "count": 2,
     "category": "client"
@@ -1493,6 +1513,16 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "导出",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "文件",
+    "count": 1,
+    "category": "ecosystem"
   },
   {
     "tag": "Fortinet",
@@ -2898,11 +2928,6 @@
     "tag": "新功能",
     "count": 1,
     "category": "client"
-  },
-  {
-    "tag": "订阅",
-    "count": 1,
-    "category": "ecosystem"
   },
   {
     "tag": "延迟监控",
