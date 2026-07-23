@@ -1,7 +1,7 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 291,
+    "count": 292,
     "category": "ecosystem"
   },
   {
@@ -26,23 +26,23 @@
   },
   {
     "tag": "v2ray",
-    "count": 92,
+    "count": 93,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "meta-rules-dat",
+    "count": 81,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "Loyalsoldier",
+    "count": 80,
     "category": "ecosystem"
   },
   {
     "tag": "OpenVPN",
     "count": 80,
     "category": "protocol"
-  },
-  {
-    "tag": "meta-rules-dat",
-    "count": 80,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "Loyalsoldier",
-    "count": 79,
-    "category": "ecosystem"
   },
   {
     "tag": "metacubexd",
@@ -60,13 +60,13 @@
     "category": "ecosystem"
   },
   {
-    "tag": "domain-list",
+    "tag": "rules",
     "count": 64,
     "category": "ecosystem"
   },
   {
-    "tag": "rules",
-    "count": 63,
+    "tag": "domain-list",
+    "count": 64,
     "category": "ecosystem"
   },
   {
@@ -91,7 +91,7 @@
   },
   {
     "tag": "dat",
-    "count": 40,
+    "count": 41,
     "category": "ecosystem"
   },
   {
