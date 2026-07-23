@@ -1,15 +1,15 @@
 {
-  "totalItems": 1099,
+  "totalItems": 1102,
   "last24h": 4,
-  "last7d": 57,
+  "last7d": 55,
   "byCategory": {
-    "core": 174,
+    "core": 175,
     "client": 237,
     "router": 1,
     "protocol": 54,
     "dns_rules": 24,
     "security": 15,
-    "ecosystem": 594,
+    "ecosystem": 596,
     "trend": 0
   },
   "topProjects": [
@@ -19,7 +19,7 @@
     },
     {
       "project": "mihomo",
-      "count": 131
+      "count": 132
     },
     {
       "project": "Sub-Store",
@@ -39,11 +39,11 @@
     },
     {
       "project": "3x-ui",
-      "count": 69
+      "count": 70
     },
     {
       "project": "sing-box",
-      "count": 37
+      "count": 38
     },
     {
       "project": "ClashMetaForAndroid",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 292
+      "count": 293
     },
     {
       "tag": "v2fly",
@@ -65,7 +65,7 @@
     },
     {
       "tag": "mihomo",
-      "count": 141
+      "count": 142
     },
     {
       "tag": "Sub-Store",
@@ -97,7 +97,7 @@
     },
     {
       "tag": "3x-ui",
-      "count": 69
+      "count": 70
     },
     {
       "tag": "网络代理",
@@ -117,11 +117,11 @@
     },
     {
       "tag": "开发版本",
-      "count": 46
+      "count": 47
     },
     {
       "tag": "sing-box",
-      "count": 45
+      "count": 46
     },
     {
       "tag": "代理",
@@ -136,8 +136,8 @@
       "count": 40
     }
   ],
-  "importantCount": 272,
+  "importantCount": 273,
   "breakingCount": 44,
   "securityCount": 68,
-  "updatedAt": "2026-07-23T08:46:14.955Z"
+  "updatedAt": "2026-07-23T14:35:12.341Z"
 }

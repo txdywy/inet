@@ -1,7 +1,7 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 292,
+    "count": 293,
     "category": "ecosystem"
   },
   {
@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 141,
+    "count": 142,
     "category": "ecosystem"
   },
   {
@@ -51,7 +51,7 @@
   },
   {
     "tag": "3x-ui",
-    "count": 69,
+    "count": 70,
     "category": "core"
   },
   {
@@ -76,13 +76,13 @@
   },
   {
     "tag": "开发版本",
-    "count": 46,
+    "count": 47,
     "category": "ecosystem"
   },
   {
     "tag": "sing-box",
-    "count": 45,
-    "category": "protocol"
+    "count": 46,
+    "category": "core"
   },
   {
     "tag": "代理",
@@ -105,14 +105,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "SagerNet",
+    "count": 38,
+    "category": "core"
+  },
+  {
     "tag": "Windows",
     "count": 38,
     "category": "client"
-  },
-  {
-    "tag": "SagerNet",
-    "count": 37,
-    "category": "protocol"
   },
   {
     "tag": "Linux",
@@ -156,7 +156,7 @@
   },
   {
     "tag": "自动构建",
-    "count": 27,
+    "count": 28,
     "category": "ecosystem"
   },
   {
@@ -190,6 +190,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "DNS",
+    "count": 20,
+    "category": "core"
+  },
+  {
     "tag": "Xray-core",
     "count": 20,
     "category": "core"
@@ -208,11 +213,6 @@
     "tag": "用户界面",
     "count": 19,
     "category": "client"
-  },
-  {
-    "tag": "DNS",
-    "count": 19,
-    "category": "dns_rules"
   },
   {
     "tag": "QUIC",
@@ -355,6 +355,11 @@
     "category": "client"
   },
   {
+    "tag": "Alpha",
+    "count": 11,
+    "category": "ecosystem"
+  },
+  {
     "tag": "Go",
     "count": 10,
     "category": "ecosystem"
@@ -373,11 +378,6 @@
     "tag": "dns",
     "count": 10,
     "category": "dns_rules"
-  },
-  {
-    "tag": "Alpha",
-    "count": 10,
-    "category": "ecosystem"
   },
   {
     "tag": "OpenClash",
@@ -465,6 +465,11 @@
     "category": "client"
   },
   {
+    "tag": "更新",
+    "count": 7,
+    "category": "client"
+  },
+  {
     "tag": "Shadowrocket",
     "count": 7,
     "category": "client"
@@ -508,11 +513,6 @@
     "tag": "shadowsocks",
     "count": 7,
     "category": "ecosystem"
-  },
-  {
-    "tag": "更新",
-    "count": 6,
-    "category": "client"
   },
   {
     "tag": "证书验证",
@@ -1513,6 +1513,11 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "规则集",
+    "count": 1,
+    "category": "core"
   },
   {
     "tag": "BoltDB",
