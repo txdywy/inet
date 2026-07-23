@@ -1,7 +1,7 @@
 {
-  "totalItems": 1102,
-  "last24h": 4,
-  "last7d": 55,
+  "totalItems": 1104,
+  "last24h": 3,
+  "last7d": 53,
   "byCategory": {
     "core": 175,
     "client": 237,
@@ -9,7 +9,7 @@
     "protocol": 54,
     "dns_rules": 24,
     "security": 15,
-    "ecosystem": 596,
+    "ecosystem": 598,
     "trend": 0
   },
   "topProjects": [
@@ -19,7 +19,7 @@
     },
     {
       "project": "mihomo",
-      "count": 132
+      "count": 133
     },
     {
       "project": "Sub-Store",
@@ -39,7 +39,7 @@
     },
     {
       "project": "3x-ui",
-      "count": 70
+      "count": 71
     },
     {
       "project": "sing-box",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 293
+      "count": 294
     },
     {
       "tag": "v2fly",
@@ -65,7 +65,7 @@
     },
     {
       "tag": "mihomo",
-      "count": 142
+      "count": 143
     },
     {
       "tag": "Sub-Store",
@@ -97,7 +97,7 @@
     },
     {
       "tag": "3x-ui",
-      "count": 70
+      "count": 71
     },
     {
       "tag": "网络代理",
@@ -117,7 +117,7 @@
     },
     {
       "tag": "开发版本",
-      "count": 47
+      "count": 48
     },
     {
       "tag": "sing-box",
@@ -139,5 +139,5 @@
   "importantCount": 273,
   "breakingCount": 44,
   "securityCount": 68,
-  "updatedAt": "2026-07-23T14:35:12.341Z"
+  "updatedAt": "2026-07-23T19:43:34.633Z"
 }
