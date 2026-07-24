@@ -1,12 +1,12 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 294,
+    "count": 295,
     "category": "ecosystem"
   },
   {
     "tag": "v2fly",
-    "count": 188,
+    "count": 189,
     "category": "ecosystem"
   },
   {
@@ -21,17 +21,17 @@
   },
   {
     "tag": "domain-list-community",
-    "count": 102,
+    "count": 103,
     "category": "ecosystem"
   },
   {
     "tag": "v2ray",
-    "count": 93,
+    "count": 94,
     "category": "ecosystem"
   },
   {
     "tag": "meta-rules-dat",
-    "count": 81,
+    "count": 82,
     "category": "ecosystem"
   },
   {
@@ -51,7 +51,7 @@
   },
   {
     "tag": "3x-ui",
-    "count": 71,
+    "count": 72,
     "category": "core"
   },
   {
@@ -76,7 +76,7 @@
   },
   {
     "tag": "开发版本",
-    "count": 48,
+    "count": 49,
     "category": "ecosystem"
   },
   {
@@ -86,7 +86,7 @@
   },
   {
     "tag": "代理",
-    "count": 43,
+    "count": 44,
     "category": "ecosystem"
   },
   {
@@ -180,14 +180,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "自动化构建",
+    "count": 23,
+    "category": "ecosystem"
+  },
+  {
     "tag": "依赖更新",
     "count": 22,
     "category": "client"
-  },
-  {
-    "tag": "自动化构建",
-    "count": 22,
-    "category": "ecosystem"
   },
   {
     "tag": "DNS",
@@ -295,6 +295,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "网络规则",
+    "count": 13,
+    "category": "ecosystem"
+  },
+  {
     "tag": "Clash",
     "count": 13,
     "category": "ecosystem"
@@ -308,11 +313,6 @@
     "tag": "预发布",
     "count": 13,
     "category": "client"
-  },
-  {
-    "tag": "网络规则",
-    "count": 12,
-    "category": "ecosystem"
   },
   {
     "tag": "xray",
@@ -1513,6 +1513,11 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "remnawave",
+    "count": 1,
+    "category": "ecosystem"
   },
   {
     "tag": "规则集",
