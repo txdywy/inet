@@ -1,8 +1,8 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 296,
-    "category": "ecosystem"
+    "count": 298,
+    "category": "client"
   },
   {
     "tag": "v2fly",
@@ -11,13 +11,13 @@
   },
   {
     "tag": "mihomo",
-    "count": 144,
+    "count": 145,
     "category": "ecosystem"
   },
   {
     "tag": "Sub-Store",
-    "count": 111,
-    "category": "client"
+    "count": 112,
+    "category": "ecosystem"
   },
   {
     "tag": "domain-list-community",
@@ -46,7 +46,7 @@
   },
   {
     "tag": "metacubexd",
-    "count": 76,
+    "count": 78,
     "category": "client"
   },
   {
@@ -161,7 +161,7 @@
   },
   {
     "tag": "v2rayN",
-    "count": 26,
+    "count": 27,
     "category": "security"
   },
   {
@@ -190,6 +190,11 @@
     "category": "client"
   },
   {
+    "tag": "用户界面",
+    "count": 20,
+    "category": "client"
+  },
+  {
     "tag": "DNS",
     "count": 20,
     "category": "core"
@@ -206,11 +211,6 @@
   },
   {
     "tag": "macOS",
-    "count": 19,
-    "category": "client"
-  },
-  {
-    "tag": "用户界面",
     "count": 19,
     "category": "client"
   },
@@ -255,6 +255,11 @@
     "category": "security"
   },
   {
+    "tag": "bugfix",
+    "count": 15,
+    "category": "client"
+  },
+  {
     "tag": "v2rayA",
     "count": 14,
     "category": "client"
@@ -268,11 +273,6 @@
     "tag": "naiveproxy",
     "count": 14,
     "category": "ecosystem"
-  },
-  {
-    "tag": "bugfix",
-    "count": 14,
-    "category": "core"
   },
   {
     "tag": "域名",
@@ -300,6 +300,11 @@
     "category": "client"
   },
   {
+    "tag": "xray",
+    "count": 13,
+    "category": "security"
+  },
+  {
     "tag": "网络规则",
     "count": 13,
     "category": "ecosystem"
@@ -320,11 +325,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "xray",
-    "count": 12,
-    "category": "security"
-  },
-  {
     "tag": "HTTP",
     "count": 12,
     "category": "core"
@@ -333,6 +333,11 @@
     "tag": "OpenWrt",
     "count": 12,
     "category": "ecosystem"
+  },
+  {
+    "tag": "TUN",
+    "count": 11,
+    "category": "client"
   },
   {
     "tag": "VMess",
@@ -363,11 +368,6 @@
     "tag": "Go",
     "count": 10,
     "category": "ecosystem"
-  },
-  {
-    "tag": "TUN",
-    "count": 10,
-    "category": "client"
   },
   {
     "tag": "Docker",
@@ -680,6 +680,11 @@
     "category": "protocol"
   },
   {
+    "tag": "安全更新",
+    "count": 4,
+    "category": "security"
+  },
+  {
     "tag": "Node",
     "count": 4,
     "category": "client"
@@ -810,6 +815,16 @@
     "category": "client"
   },
   {
+    "tag": "UI",
+    "count": 3,
+    "category": "client"
+  },
+  {
+    "tag": "Avalonia",
+    "count": 3,
+    "category": "security"
+  },
+  {
     "tag": "OpenConnect",
     "count": 3,
     "category": "protocol"
@@ -823,11 +838,6 @@
     "tag": "备份",
     "count": 3,
     "category": "ecosystem"
-  },
-  {
-    "tag": "安全更新",
-    "count": 3,
-    "category": "security"
   },
   {
     "tag": "中间人攻击",
@@ -1020,6 +1030,16 @@
     "category": "protocol"
   },
   {
+    "tag": "兼容性",
+    "count": 2,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "MITM",
+    "count": 2,
+    "category": "security"
+  },
+  {
     "tag": "订阅",
     "count": 2,
     "category": "ecosystem"
@@ -1063,11 +1083,6 @@
     "tag": "network",
     "count": 2,
     "category": "core"
-  },
-  {
-    "tag": "Avalonia",
-    "count": 2,
-    "category": "security"
   },
   {
     "tag": "流量管理",
@@ -1208,11 +1223,6 @@
     "tag": "脚本",
     "count": 2,
     "category": "ecosystem"
-  },
-  {
-    "tag": "UI",
-    "count": 2,
-    "category": "client"
   },
   {
     "tag": "客户端管理",
@@ -1515,6 +1525,11 @@
     "category": "security"
   },
   {
+    "tag": "Nuxt",
+    "count": 1,
+    "category": "client"
+  },
+  {
     "tag": "remnawave",
     "count": 1,
     "category": "ecosystem"
@@ -1663,11 +1678,6 @@
     "tag": "setup-go",
     "count": 1,
     "category": "ecosystem"
-  },
-  {
-    "tag": "MITM",
-    "count": 1,
-    "category": "security"
   },
   {
     "tag": "HappyEyeballs",
@@ -3646,11 +3656,6 @@
   },
   {
     "tag": "调试",
-    "count": 1,
-    "category": "client"
-  },
-  {
-    "tag": "兼容性",
     "count": 1,
     "category": "client"
   },

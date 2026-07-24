@@ -1,15 +1,15 @@
 {
-  "totalItems": 1109,
-  "last24h": 4,
-  "last7d": 50,
+  "totalItems": 1113,
+  "last24h": 7,
+  "last7d": 54,
   "byCategory": {
     "core": 175,
-    "client": 237,
+    "client": 239,
     "router": 1,
     "protocol": 54,
     "dns_rules": 24,
-    "security": 15,
-    "ecosystem": 603,
+    "security": 16,
+    "ecosystem": 604,
     "trend": 0
   },
   "topProjects": [
@@ -23,19 +23,19 @@
     },
     {
       "project": "Sub-Store",
-      "count": 111
+      "count": 112
     },
     {
       "project": "v2ray-rules-dat",
       "count": 85
     },
     {
-      "project": "meta-rules-dat",
-      "count": 82
+      "project": "metacubexd",
+      "count": 83
     },
     {
-      "project": "metacubexd",
-      "count": 81
+      "project": "meta-rules-dat",
+      "count": 82
     },
     {
       "project": "3x-ui",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 296
+      "count": 298
     },
     {
       "tag": "v2fly",
@@ -65,11 +65,11 @@
     },
     {
       "tag": "mihomo",
-      "count": 144
+      "count": 145
     },
     {
       "tag": "Sub-Store",
-      "count": 111
+      "count": 112
     },
     {
       "tag": "domain-list-community",
@@ -93,7 +93,7 @@
     },
     {
       "tag": "metacubexd",
-      "count": 76
+      "count": 78
     },
     {
       "tag": "3x-ui",
@@ -136,8 +136,8 @@
       "count": 40
     }
   ],
-  "importantCount": 273,
+  "importantCount": 274,
   "breakingCount": 44,
-  "securityCount": 68,
-  "updatedAt": "2026-07-24T08:44:54.467Z"
+  "securityCount": 69,
+  "updatedAt": "2026-07-24T14:15:17.454Z"
 }
