@@ -1,7 +1,7 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 295,
+    "count": 296,
     "category": "ecosystem"
   },
   {
@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 143,
+    "count": 144,
     "category": "ecosystem"
   },
   {
@@ -295,6 +295,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "预发布",
+    "count": 14,
+    "category": "client"
+  },
+  {
     "tag": "网络规则",
     "count": 13,
     "category": "ecosystem"
@@ -310,9 +315,9 @@
     "category": "client"
   },
   {
-    "tag": "预发布",
+    "tag": "Alpha",
     "count": 13,
-    "category": "client"
+    "category": "ecosystem"
   },
   {
     "tag": "xray",
@@ -326,11 +331,6 @@
   },
   {
     "tag": "OpenWrt",
-    "count": 12,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "Alpha",
     "count": 12,
     "category": "ecosystem"
   },
