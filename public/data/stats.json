@@ -1,6 +1,6 @@
 {
-  "totalItems": 1113,
-  "last24h": 7,
+  "totalItems": 1114,
+  "last24h": 8,
   "last7d": 54,
   "byCategory": {
     "core": 175,
@@ -9,7 +9,7 @@
     "protocol": 54,
     "dns_rules": 24,
     "security": 16,
-    "ecosystem": 604,
+    "ecosystem": 605,
     "trend": 0
   },
   "topProjects": [
@@ -51,7 +51,7 @@
     },
     {
       "project": "gost",
-      "count": 31
+      "count": 32
     }
   ],
   "hotTags": [
@@ -128,16 +128,16 @@
       "count": 44
     },
     {
-      "tag": "dat",
+      "tag": "开源",
       "count": 41
     },
     {
-      "tag": "开源",
-      "count": 40
+      "tag": "dat",
+      "count": 41
     }
   ],
   "importantCount": 274,
   "breakingCount": 44,
   "securityCount": 69,
-  "updatedAt": "2026-07-24T14:15:17.454Z"
+  "updatedAt": "2026-07-24T19:44:38.581Z"
 }

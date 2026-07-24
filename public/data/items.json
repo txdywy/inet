@@ -1,5 +1,37 @@
 [
   {
+    "id": "3341f235ddbc4bdc",
+    "title": "v3.2.7-nightly.20260724",
+    "summary": "go-gost项目发布了v3.2.7-nightly.20260724版本，主要进行了依赖更新。",
+    "analysis": "此次更新主要集中在依赖的提升上，包含了对所有依赖的更新。这种更新通常是为了确保项目能够利用最新的功能和修复，提升整体的稳定性和安全性。虽然此次更新没有引入新的功能或重大变更，但保持依赖的最新状态对于开发者来说是非常重要的，尤其是在快速变化的开源生态中。用户和开发者应关注依赖的更新，以避免潜在的安全风险和兼容性问题。由于这是一个夜间版本，可能存在不稳定性，因此建议在生产环境中谨慎使用，优先在测试环境中验证其稳定性。",
+    "rawTitle": "v3.2.7-nightly.20260724",
+    "rawBody": "## Changelog\n* 9ccb007589e04f1a2ed33fa2e403aea02cbb0265 chore: bump deps\n* 122dde838550cd9998512e3522d0cd9fe2937b81 chore: go get -u all\n\n",
+    "sourceType": "github_release",
+    "sourceName": "go-gost/gost",
+    "sourceUrl": "https://github.com/go-gost/gost/releases/tag/v3.2.7-nightly.20260724",
+    "project": "gost",
+    "repo": "go-gost/gost",
+    "slug": "gost",
+    "version": "3.2.7-nightly.20260724",
+    "category": "ecosystem",
+    "tags": [
+      "go-gost",
+      "依赖更新",
+      "开源"
+    ],
+    "platforms": [],
+    "importance": 3,
+    "confidence": 0.9,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-07-24T15:51:35Z",
+    "fetchedAt": "2026-07-24T19:44:23.592Z",
+    "firstSeenAt": "2026-07-24T19:44:38.100Z",
+    "updatedAt": "2026-07-24T19:44:38.100Z",
+    "hash": "3341f235ddbc4bdc"
+  },
+  {
     "id": "361ac0a889dca77a",
     "title": "v1.270.2",
     "summary": "MetaCubeX/metacubexd 发布了 v1.270.2 版本，修复了影响 Nuxt 4.5.0 构建的 UI 问题。",

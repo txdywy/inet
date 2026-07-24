@@ -90,14 +90,14 @@
     "category": "ecosystem"
   },
   {
-    "tag": "dat",
+    "tag": "开源",
     "count": 41,
     "category": "ecosystem"
   },
   {
-    "tag": "开源",
-    "count": 40,
-    "category": "core"
+    "tag": "dat",
+    "count": 41,
+    "category": "ecosystem"
   },
   {
     "tag": "代理工具",
@@ -140,14 +140,14 @@
     "category": "core"
   },
   {
+    "tag": "go-gost",
+    "count": 32,
+    "category": "ecosystem"
+  },
+  {
     "tag": "Snell",
     "count": 32,
     "category": "client"
-  },
-  {
-    "tag": "go-gost",
-    "count": 31,
-    "category": "core"
   },
   {
     "tag": "Tailscale",
@@ -175,6 +175,11 @@
     "category": "protocol"
   },
   {
+    "tag": "依赖更新",
+    "count": 23,
+    "category": "ecosystem"
+  },
+  {
     "tag": "VLESS",
     "count": 23,
     "category": "ecosystem"
@@ -183,11 +188,6 @@
     "tag": "自动化构建",
     "count": 23,
     "category": "ecosystem"
-  },
-  {
-    "tag": "依赖更新",
-    "count": 22,
-    "category": "client"
   },
   {
     "tag": "用户界面",
