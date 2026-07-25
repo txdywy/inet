@@ -1,7 +1,7 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 300,
+    "count": 302,
     "category": "core"
   },
   {
@@ -35,6 +35,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "metacubexd",
+    "count": 81,
+    "category": "core"
+  },
+  {
     "tag": "Loyalsoldier",
     "count": 81,
     "category": "ecosystem"
@@ -43,11 +48,6 @@
     "tag": "OpenVPN",
     "count": 80,
     "category": "protocol"
-  },
-  {
-    "tag": "metacubexd",
-    "count": 79,
-    "category": "core"
   },
   {
     "tag": "3x-ui",
@@ -250,14 +250,14 @@
     "category": "client"
   },
   {
+    "tag": "bugfix",
+    "count": 16,
+    "category": "core"
+  },
+  {
     "tag": "TLS",
     "count": 16,
     "category": "security"
-  },
-  {
-    "tag": "bugfix",
-    "count": 15,
-    "category": "client"
   },
   {
     "tag": "网络规则",
@@ -1528,6 +1528,11 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "文档修复",
+    "count": 1,
+    "category": "ecosystem"
   },
   {
     "tag": "Token",
