@@ -1,7 +1,7 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 302,
+    "count": 303,
     "category": "core"
   },
   {
@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 145,
+    "count": 146,
     "category": "ecosystem"
   },
   {
@@ -51,7 +51,7 @@
   },
   {
     "tag": "3x-ui",
-    "count": 73,
+    "count": 74,
     "category": "core"
   },
   {
@@ -76,7 +76,7 @@
   },
   {
     "tag": "开发版本",
-    "count": 50,
+    "count": 51,
     "category": "ecosystem"
   },
   {
@@ -135,14 +135,14 @@
     "category": "client"
   },
   {
-    "tag": "xhttp-opts",
+    "tag": "go-gost",
     "count": 33,
     "category": "core"
   },
   {
-    "tag": "go-gost",
-    "count": 32,
-    "category": "ecosystem"
+    "tag": "xhttp-opts",
+    "count": 33,
+    "category": "core"
   },
   {
     "tag": "Snell",
@@ -170,6 +170,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "自动化构建",
+    "count": 24,
+    "category": "ecosystem"
+  },
+  {
     "tag": "HTTP/2",
     "count": 24,
     "category": "protocol"
@@ -181,11 +186,6 @@
   },
   {
     "tag": "VLESS",
-    "count": 23,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "自动化构建",
     "count": 23,
     "category": "ecosystem"
   },
@@ -260,6 +260,11 @@
     "category": "security"
   },
   {
+    "tag": "预发布",
+    "count": 15,
+    "category": "client"
+  },
+  {
     "tag": "网络规则",
     "count": 14,
     "category": "ecosystem"
@@ -300,9 +305,9 @@
     "category": "ecosystem"
   },
   {
-    "tag": "预发布",
+    "tag": "Alpha",
     "count": 14,
-    "category": "client"
+    "category": "ecosystem"
   },
   {
     "tag": "xray",
@@ -318,11 +323,6 @@
     "tag": "SOCKS",
     "count": 13,
     "category": "client"
-  },
-  {
-    "tag": "Alpha",
-    "count": 13,
-    "category": "ecosystem"
   },
   {
     "tag": "HTTP",
@@ -815,6 +815,11 @@
     "category": "client"
   },
   {
+    "tag": "core",
+    "count": 3,
+    "category": "core"
+  },
+  {
     "tag": "UI",
     "count": 3,
     "category": "client"
@@ -1163,11 +1168,6 @@
     "tag": "TLD",
     "count": 2,
     "category": "dns_rules"
-  },
-  {
-    "tag": "core",
-    "count": 2,
-    "category": "core"
   },
   {
     "tag": "重基",
@@ -1528,6 +1528,11 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "dependency",
+    "count": 1,
+    "category": "core"
   },
   {
     "tag": "文档修复",
