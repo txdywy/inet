@@ -1,8 +1,8 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 299,
-    "category": "ecosystem"
+    "count": 300,
+    "category": "core"
   },
   {
     "tag": "v2fly",
@@ -16,7 +16,7 @@
   },
   {
     "tag": "Sub-Store",
-    "count": 112,
+    "count": 113,
     "category": "ecosystem"
   },
   {
@@ -46,8 +46,8 @@
   },
   {
     "tag": "metacubexd",
-    "count": 78,
-    "category": "client"
+    "count": 79,
+    "category": "core"
   },
   {
     "tag": "3x-ui",
@@ -81,8 +81,8 @@
   },
   {
     "tag": "sing-box",
-    "count": 46,
-    "category": "core"
+    "count": 47,
+    "category": "ecosystem"
   },
   {
     "tag": "代理",
@@ -100,14 +100,14 @@
     "category": "ecosystem"
   },
   {
-    "tag": "代理工具",
+    "tag": "SagerNet",
     "count": 39,
     "category": "ecosystem"
   },
   {
-    "tag": "SagerNet",
-    "count": 38,
-    "category": "core"
+    "tag": "代理工具",
+    "count": 39,
+    "category": "ecosystem"
   },
   {
     "tag": "Windows",
@@ -365,6 +365,11 @@
     "category": "client"
   },
   {
+    "tag": "API",
+    "count": 10,
+    "category": "ecosystem"
+  },
+  {
     "tag": "Go",
     "count": 10,
     "category": "ecosystem"
@@ -378,6 +383,11 @@
     "tag": "dns",
     "count": 10,
     "category": "dns_rules"
+  },
+  {
+    "tag": "配置管理",
+    "count": 9,
+    "category": "ecosystem"
   },
   {
     "tag": "OpenClash",
@@ -398,11 +408,6 @@
     "tag": "UDP",
     "count": 9,
     "category": "core"
-  },
-  {
-    "tag": "API",
-    "count": 9,
-    "category": "ecosystem"
   },
   {
     "tag": "域名列表",
@@ -431,11 +436,6 @@
   },
   {
     "tag": "luci-app-ssr-plus",
-    "count": 8,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "配置管理",
     "count": 8,
     "category": "ecosystem"
   },
@@ -567,6 +567,11 @@
   {
     "tag": "openvpn",
     "count": 6,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "Gist",
+    "count": 5,
     "category": "ecosystem"
   },
   {
@@ -783,11 +788,6 @@
     "tag": "功能增强",
     "count": 4,
     "category": "client"
-  },
-  {
-    "tag": "Gist",
-    "count": 4,
-    "category": "ecosystem"
   },
   {
     "tag": "配置文件",
@@ -1028,6 +1028,11 @@
     "tag": "protocol",
     "count": 3,
     "category": "protocol"
+  },
+  {
+    "tag": "typescript",
+    "count": 2,
+    "category": "core"
   },
   {
     "tag": "兼容性",
@@ -1525,6 +1530,26 @@
     "category": "security"
   },
   {
+    "tag": "Token",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "eslint",
+    "count": 1,
+    "category": "core"
+  },
+  {
+    "tag": "vue-tsc",
+    "count": 1,
+    "category": "core"
+  },
+  {
+    "tag": "JSON Schema",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
     "tag": "Nuxt",
     "count": 1,
     "category": "client"
@@ -1578,11 +1603,6 @@
     "tag": "风控",
     "count": 1,
     "category": "ecosystem"
-  },
-  {
-    "tag": "typescript",
-    "count": 1,
-    "category": "core"
   },
   {
     "tag": "内存图表",

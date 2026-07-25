@@ -1,15 +1,15 @@
 {
-  "totalItems": 1117,
-  "last24h": 7,
+  "totalItems": 1120,
+  "last24h": 10,
   "last7d": 51,
   "byCategory": {
-    "core": 175,
+    "core": 176,
     "client": 239,
     "router": 1,
     "protocol": 54,
     "dns_rules": 24,
     "security": 16,
-    "ecosystem": 608,
+    "ecosystem": 610,
     "trend": 0
   },
   "topProjects": [
@@ -23,18 +23,18 @@
     },
     {
       "project": "Sub-Store",
-      "count": 112
+      "count": 113
     },
     {
       "project": "v2ray-rules-dat",
       "count": 86
     },
     {
-      "project": "meta-rules-dat",
-      "count": 83
+      "project": "metacubexd",
+      "count": 84
     },
     {
-      "project": "metacubexd",
+      "project": "meta-rules-dat",
       "count": 83
     },
     {
@@ -43,7 +43,7 @@
     },
     {
       "project": "sing-box",
-      "count": 38
+      "count": 39
     },
     {
       "project": "ClashMetaForAndroid",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 299
+      "count": 300
     },
     {
       "tag": "v2fly",
@@ -69,7 +69,7 @@
     },
     {
       "tag": "Sub-Store",
-      "count": 112
+      "count": 113
     },
     {
       "tag": "domain-list-community",
@@ -93,7 +93,7 @@
     },
     {
       "tag": "metacubexd",
-      "count": 78
+      "count": 79
     },
     {
       "tag": "3x-ui",
@@ -121,7 +121,7 @@
     },
     {
       "tag": "sing-box",
-      "count": 46
+      "count": 47
     },
     {
       "tag": "代理",
@@ -136,8 +136,8 @@
       "count": 41
     }
   ],
-  "importantCount": 274,
+  "importantCount": 275,
   "breakingCount": 44,
   "securityCount": 69,
-  "updatedAt": "2026-07-25T03:41:41.592Z"
+  "updatedAt": "2026-07-25T08:26:17.051Z"
 }
