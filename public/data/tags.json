@@ -1,8 +1,8 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 298,
-    "category": "client"
+    "count": 299,
+    "category": "ecosystem"
   },
   {
     "tag": "v2fly",
@@ -26,17 +26,17 @@
   },
   {
     "tag": "v2ray",
-    "count": 94,
+    "count": 95,
     "category": "ecosystem"
   },
   {
     "tag": "meta-rules-dat",
-    "count": 82,
+    "count": 83,
     "category": "ecosystem"
   },
   {
     "tag": "Loyalsoldier",
-    "count": 80,
+    "count": 81,
     "category": "ecosystem"
   },
   {
@@ -51,7 +51,7 @@
   },
   {
     "tag": "3x-ui",
-    "count": 72,
+    "count": 73,
     "category": "core"
   },
   {
@@ -76,7 +76,7 @@
   },
   {
     "tag": "开发版本",
-    "count": 49,
+    "count": 50,
     "category": "ecosystem"
   },
   {
@@ -86,7 +86,7 @@
   },
   {
     "tag": "代理",
-    "count": 44,
+    "count": 45,
     "category": "ecosystem"
   },
   {
@@ -156,7 +156,7 @@
   },
   {
     "tag": "自动构建",
-    "count": 29,
+    "count": 30,
     "category": "ecosystem"
   },
   {
@@ -260,6 +260,11 @@
     "category": "client"
   },
   {
+    "tag": "网络规则",
+    "count": 14,
+    "category": "ecosystem"
+  },
+  {
     "tag": "v2rayA",
     "count": 14,
     "category": "client"
@@ -303,11 +308,6 @@
     "tag": "xray",
     "count": 13,
     "category": "security"
-  },
-  {
-    "tag": "网络规则",
-    "count": 13,
-    "category": "ecosystem"
   },
   {
     "tag": "Clash",

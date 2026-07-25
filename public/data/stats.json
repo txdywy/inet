@@ -1,7 +1,7 @@
 {
-  "totalItems": 1114,
-  "last24h": 8,
-  "last7d": 54,
+  "totalItems": 1117,
+  "last24h": 7,
+  "last7d": 51,
   "byCategory": {
     "core": 175,
     "client": 239,
@@ -9,7 +9,7 @@
     "protocol": 54,
     "dns_rules": 24,
     "security": 16,
-    "ecosystem": 605,
+    "ecosystem": 608,
     "trend": 0
   },
   "topProjects": [
@@ -27,19 +27,19 @@
     },
     {
       "project": "v2ray-rules-dat",
-      "count": 85
+      "count": 86
+    },
+    {
+      "project": "meta-rules-dat",
+      "count": 83
     },
     {
       "project": "metacubexd",
       "count": 83
     },
     {
-      "project": "meta-rules-dat",
-      "count": 82
-    },
-    {
       "project": "3x-ui",
-      "count": 72
+      "count": 73
     },
     {
       "project": "sing-box",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 298
+      "count": 299
     },
     {
       "tag": "v2fly",
@@ -77,15 +77,15 @@
     },
     {
       "tag": "v2ray",
-      "count": 94
+      "count": 95
     },
     {
       "tag": "meta-rules-dat",
-      "count": 82
+      "count": 83
     },
     {
       "tag": "Loyalsoldier",
-      "count": 80
+      "count": 81
     },
     {
       "tag": "OpenVPN",
@@ -97,7 +97,7 @@
     },
     {
       "tag": "3x-ui",
-      "count": 72
+      "count": 73
     },
     {
       "tag": "网络代理",
@@ -117,7 +117,7 @@
     },
     {
       "tag": "开发版本",
-      "count": 49
+      "count": 50
     },
     {
       "tag": "sing-box",
@@ -125,7 +125,7 @@
     },
     {
       "tag": "代理",
-      "count": 44
+      "count": 45
     },
     {
       "tag": "开源",
@@ -139,5 +139,5 @@
   "importantCount": 274,
   "breakingCount": 44,
   "securityCount": 69,
-  "updatedAt": "2026-07-24T19:44:38.581Z"
+  "updatedAt": "2026-07-25T03:41:41.592Z"
 }
