@@ -1,5 +1,42 @@
 [
   {
+    "id": "85acc63b9e1c766b",
+    "title": "7.24.3",
+    "summary": "v2rayN 7.24.3版本发布，包含紧急安全更新和多个功能改进。",
+    "analysis": "本次v2rayN 7.24.3版本的发布主要集中在安全性和功能的增强上。最重要的是修复了内置下载器的严重安全漏洞，该漏洞可能导致中间人攻击（MITM），用户被建议立即升级以防止潜在的安全风险。此外，更新中还同步了xray core的更改，增强了连接代理解析策略，并添加了HappyEyeballs支持，提升了连接的稳定性和速度。用户现在可以自定义fakeip范围，并在TUN设置中选择IPv4/IPv6地址选项，这些功能的增加将进一步优化用户体验。由于此次更新涉及安全修复，强烈建议所有用户尽快升级以确保安全性。",
+    "rawTitle": "7.24.3",
+    "rawBody": "### [关于 跳过证书验证 allowInsecure 参数被移除的说明 ](https://github.com/2dust/v2rayN/discussions/9460)\r\n \r\n### 本次更新\r\n\r\n⚠️ **紧急安全更新**：修复了旧版本内置下载器可能导致中间人攻击（MITM）并下载到恶意文件的严重安全漏洞，请所有用户立刻升级！\r\n \r\n* Desktop 版本升级到 Avalonia 12\r\n* 同步 xray core 更改 ，添加 `连接代理解析策略` https://github.com/2dust/v2rayN/pull/9708\r\n* 添加 HappyEyeballs 支持 https://github.com/2dust/v2rayN/pull/9772\r\n* 可自定义 fakeip 范围 https://github.com/2dust/v2rayN/pull/9786\r\n* TUN 设置中，添加 IPv4/IPv6 地址选项\r\n\r\n\r\n### [发布文件介绍，不知道下载哪个文件的请看](https://github.com/2dust/v2rayN/wiki/Release-files-introduction)\r\n ",
+    "sourceType": "github_release",
+    "sourceName": "2dust/v2rayN",
+    "sourceUrl": "https://github.com/2dust/v2rayN/releases/tag/7.24.3",
+    "project": "v2rayN",
+    "repo": "2dust/v2rayN",
+    "slug": "v2rayn",
+    "version": "7.24.3",
+    "category": "security",
+    "tags": [
+      "v2rayN",
+      "xray",
+      "Avalonia",
+      "MITM",
+      "安全更新"
+    ],
+    "platforms": [
+      "windows",
+      "linux"
+    ],
+    "importance": 5,
+    "confidence": 0.9,
+    "isBreaking": false,
+    "isSecurityRelated": true,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-07-26T13:28:23Z",
+    "fetchedAt": "2026-07-26T13:59:39.176Z",
+    "firstSeenAt": "2026-07-26T13:59:57.705Z",
+    "updatedAt": "2026-07-26T13:59:57.705Z",
+    "hash": "85acc63b9e1c766b"
+  },
+  {
     "id": "de3e988a8b7d77b3",
     "title": "20260726062913",
     "summary": "v2fly/domain-list-community 更新了 IP 地理检测功能，新增 myip.link 支持。",
@@ -32477,6 +32514,39 @@
     "firstSeenAt": "2026-05-07T04:09:04.362Z",
     "updatedAt": "2026-05-07T04:09:04.362Z",
     "hash": "5e6adb84fbb7f312"
+  },
+  {
+    "id": "9da1abb269233bee",
+    "title": "Prerelease-Alpha",
+    "summary": "MetaCubeX/mihomo 发布了 Prerelease-Alpha 版本，主要修复了代码中的一个拼写错误。",
+    "analysis": "本次更新主要集中在同步 Alpha 分支的代码更新，并修复了 `uplinkHTTPMethod` 中的拼写错误。虽然此次更新的内容相对较小，但它标志着项目在持续维护和改进方面的努力。对于开发者而言，了解这些小的修复有助于保持代码的整洁性和可读性。此次更新没有涉及重大功能变化或协议更新，因此对现有用户的影响较小。由于是预发布版本，用户在使用时应注意可能存在的不稳定性。建议开发者关注后续正式版本的发布，以获取更全面的功能和修复。",
+    "rawTitle": "Prerelease-Alpha",
+    "rawBody": "Release created at  Sun Jul 26 19:51:09 CST 2026\nSynchronize Alpha branch code updates, keeping only the latest version\n<br>\n[我应该下载哪个文件? / Which file should I download?](https://github.com/MetaCubeX/mihomo/wiki/FAQ)\n[二进制文件筛选 / Binary file selector](https://metacubex.github.io/Meta-Docs/startup/#_1)\n[查看文档 / Docs](https://metacubex.github.io/Meta-Docs/)\n\n\n## What's Changed\n* fix: typo in `uplinkHTTPMethod` by @MakostaDev in https://github.com/MetaCubeX/mihomo/pull/3029\n\n## New Contributors\n* @MakostaDev made their first contribution in https://github.com/MetaCubeX/mihomo/pull/3029\n\n**Full Changelog**: https://github.com/MetaCubeX/mihomo/compare/v1.19.29...Prerelease-Alpha",
+    "sourceType": "github_release",
+    "sourceName": "MetaCubeX/mihomo",
+    "sourceUrl": "https://github.com/MetaCubeX/mihomo/releases/tag/Prerelease-Alpha",
+    "project": "mihomo",
+    "repo": "MetaCubeX/mihomo",
+    "slug": "mihomo",
+    "version": "Prerelease-Alpha",
+    "category": "ecosystem",
+    "tags": [
+      "MetaCubeX",
+      "mihomo",
+      "代码更新",
+      "拼写修复"
+    ],
+    "platforms": [],
+    "importance": 2,
+    "confidence": 0.9,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2024-08-12T17:01:02Z",
+    "fetchedAt": "2026-07-26T13:59:34.798Z",
+    "firstSeenAt": "2026-07-26T13:59:52.329Z",
+    "updatedAt": "2026-07-26T13:59:52.329Z",
+    "hash": "9da1abb269233bee"
   },
   {
     "id": "7e0efe46e419d45c",

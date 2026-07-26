@@ -1,7 +1,7 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 305,
+    "count": 306,
     "category": "ecosystem"
   },
   {
@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 147,
+    "count": 148,
     "category": "ecosystem"
   },
   {
@@ -161,7 +161,7 @@
   },
   {
     "tag": "v2rayN",
-    "count": 27,
+    "count": 28,
     "category": "security"
   },
   {
@@ -275,6 +275,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "xray",
+    "count": 14,
+    "category": "security"
+  },
+  {
     "tag": "v2rayA",
     "count": 14,
     "category": "client"
@@ -308,11 +313,6 @@
     "tag": "snell",
     "count": 14,
     "category": "ecosystem"
-  },
-  {
-    "tag": "xray",
-    "count": 13,
-    "category": "security"
   },
   {
     "tag": "Clash",
@@ -570,6 +570,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "安全更新",
+    "count": 5,
+    "category": "security"
+  },
+  {
     "tag": "Gist",
     "count": 5,
     "category": "ecosystem"
@@ -685,7 +690,7 @@
     "category": "protocol"
   },
   {
-    "tag": "安全更新",
+    "tag": "Avalonia",
     "count": 4,
     "category": "security"
   },
@@ -815,6 +820,11 @@
     "category": "client"
   },
   {
+    "tag": "MITM",
+    "count": 3,
+    "category": "security"
+  },
+  {
     "tag": "IP地理检测",
     "count": 3,
     "category": "ecosystem"
@@ -828,11 +838,6 @@
     "tag": "UI",
     "count": 3,
     "category": "client"
-  },
-  {
-    "tag": "Avalonia",
-    "count": 3,
-    "category": "security"
   },
   {
     "tag": "OpenConnect",
@@ -1048,11 +1053,6 @@
     "tag": "兼容性",
     "count": 2,
     "category": "ecosystem"
-  },
-  {
-    "tag": "MITM",
-    "count": 2,
-    "category": "security"
   },
   {
     "tag": "订阅",
@@ -3746,6 +3746,16 @@
   },
   {
     "tag": "Pushover",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "代码更新",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "拼写修复",
     "count": 1,
     "category": "ecosystem"
   },
