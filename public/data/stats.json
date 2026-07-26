@@ -1,7 +1,7 @@
 {
-  "totalItems": 1125,
+  "totalItems": 1127,
   "last24h": 8,
-  "last7d": 50,
+  "last7d": 49,
   "byCategory": {
     "core": 178,
     "client": 239,
@@ -9,7 +9,7 @@
     "protocol": 54,
     "dns_rules": 24,
     "security": 16,
-    "ecosystem": 613,
+    "ecosystem": 615,
     "trend": 0
   },
   "topProjects": [
@@ -26,16 +26,16 @@
       "count": 113
     },
     {
+      "project": "v2ray-rules-dat",
+      "count": 87
+    },
+    {
       "project": "metacubexd",
       "count": 86
     },
     {
-      "project": "v2ray-rules-dat",
-      "count": 86
-    },
-    {
       "project": "meta-rules-dat",
-      "count": 83
+      "count": 84
     },
     {
       "project": "3x-ui",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 303
+      "count": 304
     },
     {
       "tag": "v2fly",
@@ -77,18 +77,18 @@
     },
     {
       "tag": "v2ray",
-      "count": 95
+      "count": 96
     },
     {
       "tag": "meta-rules-dat",
-      "count": 83
-    },
-    {
-      "tag": "metacubexd",
-      "count": 81
+      "count": 84
     },
     {
       "tag": "Loyalsoldier",
+      "count": 82
+    },
+    {
+      "tag": "metacubexd",
       "count": 81
     },
     {
@@ -139,5 +139,5 @@
   "importantCount": 275,
   "breakingCount": 44,
   "securityCount": 69,
-  "updatedAt": "2026-07-25T19:32:36.140Z"
+  "updatedAt": "2026-07-26T03:58:35.059Z"
 }

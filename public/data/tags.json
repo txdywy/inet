@@ -1,8 +1,8 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 303,
-    "category": "core"
+    "count": 304,
+    "category": "ecosystem"
   },
   {
     "tag": "v2fly",
@@ -26,23 +26,23 @@
   },
   {
     "tag": "v2ray",
-    "count": 95,
+    "count": 96,
     "category": "ecosystem"
   },
   {
     "tag": "meta-rules-dat",
-    "count": 83,
+    "count": 84,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "Loyalsoldier",
+    "count": 82,
     "category": "ecosystem"
   },
   {
     "tag": "metacubexd",
     "count": 81,
     "category": "core"
-  },
-  {
-    "tag": "Loyalsoldier",
-    "count": 81,
-    "category": "ecosystem"
   },
   {
     "tag": "OpenVPN",
@@ -260,14 +260,14 @@
     "category": "security"
   },
   {
+    "tag": "网络规则",
+    "count": 15,
+    "category": "ecosystem"
+  },
+  {
     "tag": "预发布",
     "count": 15,
     "category": "client"
-  },
-  {
-    "tag": "网络规则",
-    "count": 14,
-    "category": "ecosystem"
   },
   {
     "tag": "v2rayA",
