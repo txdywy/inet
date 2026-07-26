@@ -1,17 +1,17 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 304,
+    "count": 305,
     "category": "ecosystem"
   },
   {
     "tag": "v2fly",
-    "count": 189,
+    "count": 190,
     "category": "ecosystem"
   },
   {
     "tag": "mihomo",
-    "count": 146,
+    "count": 147,
     "category": "ecosystem"
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "tag": "domain-list-community",
-    "count": 103,
+    "count": 104,
     "category": "ecosystem"
   },
   {
@@ -260,14 +260,19 @@
     "category": "security"
   },
   {
+    "tag": "预发布",
+    "count": 16,
+    "category": "client"
+  },
+  {
     "tag": "网络规则",
     "count": 15,
     "category": "ecosystem"
   },
   {
-    "tag": "预发布",
+    "tag": "Alpha",
     "count": 15,
-    "category": "client"
+    "category": "ecosystem"
   },
   {
     "tag": "v2rayA",
@@ -301,11 +306,6 @@
   },
   {
     "tag": "snell",
-    "count": 14,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "Alpha",
     "count": 14,
     "category": "ecosystem"
   },
@@ -815,6 +815,11 @@
     "category": "client"
   },
   {
+    "tag": "IP地理检测",
+    "count": 3,
+    "category": "ecosystem"
+  },
+  {
     "tag": "core",
     "count": 3,
     "category": "core"
@@ -1101,11 +1106,6 @@
   },
   {
     "tag": "代码优化",
-    "count": 2,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "IP地理检测",
     "count": 2,
     "category": "ecosystem"
   },
