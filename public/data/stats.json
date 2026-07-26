@@ -1,6 +1,6 @@
 {
-  "totalItems": 1131,
-  "last24h": 5,
+  "totalItems": 1134,
+  "last24h": 6,
   "last7d": 51,
   "byCategory": {
     "core": 178,
@@ -8,8 +8,8 @@
     "router": 1,
     "protocol": 54,
     "dns_rules": 24,
-    "security": 17,
-    "ecosystem": 618,
+    "security": 18,
+    "ecosystem": 620,
     "trend": 0
   },
   "topProjects": [
@@ -19,7 +19,7 @@
     },
     {
       "project": "mihomo",
-      "count": 137
+      "count": 138
     },
     {
       "project": "Sub-Store",
@@ -46,18 +46,18 @@
       "count": 39
     },
     {
-      "project": "ClashMetaForAndroid",
+      "project": "gost",
       "count": 34
     },
     {
-      "project": "gost",
-      "count": 33
+      "project": "ClashMetaForAndroid",
+      "count": 34
     }
   ],
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 306
+      "count": 307
     },
     {
       "tag": "v2fly",
@@ -65,7 +65,7 @@
     },
     {
       "tag": "mihomo",
-      "count": 148
+      "count": 149
     },
     {
       "tag": "Sub-Store",
@@ -136,8 +136,8 @@
       "count": 41
     }
   ],
-  "importantCount": 276,
+  "importantCount": 277,
   "breakingCount": 44,
-  "securityCount": 70,
-  "updatedAt": "2026-07-26T13:59:58.173Z"
+  "securityCount": 71,
+  "updatedAt": "2026-07-26T19:32:34.448Z"
 }

@@ -1,7 +1,7 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 306,
+    "count": 307,
     "category": "ecosystem"
   },
   {
@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 148,
+    "count": 149,
     "category": "ecosystem"
   },
   {
@@ -115,14 +115,19 @@
     "category": "client"
   },
   {
+    "tag": "网络协议",
+    "count": 37,
+    "category": "ecosystem"
+  },
+  {
     "tag": "Linux",
     "count": 37,
     "category": "client"
   },
   {
-    "tag": "网络协议",
-    "count": 36,
-    "category": "client"
+    "tag": "go-gost",
+    "count": 34,
+    "category": "ecosystem"
   },
   {
     "tag": "WireGuard",
@@ -133,11 +138,6 @@
     "tag": "ClashMetaForAndroid",
     "count": 34,
     "category": "client"
-  },
-  {
-    "tag": "go-gost",
-    "count": 33,
-    "category": "core"
   },
   {
     "tag": "xhttp-opts",
@@ -190,6 +190,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "QUIC",
+    "count": 20,
+    "category": "ecosystem"
+  },
+  {
     "tag": "用户界面",
     "count": 20,
     "category": "client"
@@ -215,11 +220,6 @@
     "category": "client"
   },
   {
-    "tag": "QUIC",
-    "count": 19,
-    "category": "client"
-  },
-  {
     "tag": "CHACHA20-POLY1305",
     "count": 19,
     "category": "ecosystem"
@@ -233,6 +233,11 @@
     "tag": "Xray",
     "count": 18,
     "category": "core"
+  },
+  {
+    "tag": "TLS",
+    "count": 17,
+    "category": "ecosystem"
   },
   {
     "tag": "VPN",
@@ -255,22 +260,17 @@
     "category": "core"
   },
   {
-    "tag": "TLS",
-    "count": 16,
-    "category": "security"
-  },
-  {
     "tag": "预发布",
     "count": 16,
     "category": "client"
   },
   {
-    "tag": "网络规则",
-    "count": 15,
+    "tag": "Alpha",
+    "count": 16,
     "category": "ecosystem"
   },
   {
-    "tag": "Alpha",
+    "tag": "网络规则",
     "count": 15,
     "category": "ecosystem"
   },
@@ -315,6 +315,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "OpenWrt",
+    "count": 13,
+    "category": "security"
+  },
+  {
     "tag": "Clash",
     "count": 13,
     "category": "ecosystem"
@@ -328,11 +333,6 @@
     "tag": "HTTP",
     "count": 12,
     "category": "core"
-  },
-  {
-    "tag": "OpenWrt",
-    "count": 12,
-    "category": "ecosystem"
   },
   {
     "tag": "TUN",
@@ -430,6 +430,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "更新",
+    "count": 8,
+    "category": "client"
+  },
+  {
     "tag": "Clash Verge Rev",
     "count": 8,
     "category": "client"
@@ -462,11 +467,6 @@
   {
     "tag": "xhttp",
     "count": 8,
-    "category": "client"
-  },
-  {
-    "tag": "更新",
-    "count": 7,
     "category": "client"
   },
   {
@@ -513,6 +513,11 @@
     "tag": "shadowsocks",
     "count": 7,
     "category": "ecosystem"
+  },
+  {
+    "tag": "安全修复",
+    "count": 6,
+    "category": "security"
   },
   {
     "tag": "证书验证",
@@ -570,6 +575,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "依赖管理",
+    "count": 5,
+    "category": "ecosystem"
+  },
+  {
     "tag": "安全更新",
     "count": 5,
     "category": "security"
@@ -613,11 +623,6 @@
     "tag": "hysteria2",
     "count": 5,
     "category": "core"
-  },
-  {
-    "tag": "安全修复",
-    "count": 5,
-    "category": "security"
   },
   {
     "tag": "修复",
@@ -783,11 +788,6 @@
     "tag": "延迟测试",
     "count": 4,
     "category": "client"
-  },
-  {
-    "tag": "依赖管理",
-    "count": 4,
-    "category": "ecosystem"
   },
   {
     "tag": "功能增强",
@@ -1043,6 +1043,11 @@
     "tag": "protocol",
     "count": 3,
     "category": "protocol"
+  },
+  {
+    "tag": "uhttpd",
+    "count": 2,
+    "category": "security"
   },
   {
     "tag": "typescript",
@@ -1527,6 +1532,11 @@
   {
     "tag": "Quantumult X",
     "count": 2,
+    "category": "security"
+  },
+  {
+    "tag": "DHCPv6",
+    "count": 1,
     "category": "security"
   },
   {
@@ -2031,11 +2041,6 @@
   },
   {
     "tag": "odhcpd",
-    "count": 1,
-    "category": "security"
-  },
-  {
-    "tag": "uhttpd",
     "count": 1,
     "category": "security"
   },
@@ -3746,6 +3751,11 @@
   },
   {
     "tag": "Pushover",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "拼写错误",
     "count": 1,
     "category": "ecosystem"
   },
