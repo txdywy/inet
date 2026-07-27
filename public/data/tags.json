@@ -1,7 +1,7 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 307,
+    "count": 308,
     "category": "ecosystem"
   },
   {
@@ -26,17 +26,17 @@
   },
   {
     "tag": "v2ray",
-    "count": 96,
+    "count": 97,
     "category": "ecosystem"
   },
   {
     "tag": "meta-rules-dat",
-    "count": 84,
+    "count": 85,
     "category": "ecosystem"
   },
   {
     "tag": "Loyalsoldier",
-    "count": 82,
+    "count": 83,
     "category": "ecosystem"
   },
   {
@@ -61,7 +61,7 @@
   },
   {
     "tag": "rules",
-    "count": 64,
+    "count": 65,
     "category": "ecosystem"
   },
   {
@@ -90,12 +90,12 @@
     "category": "ecosystem"
   },
   {
-    "tag": "开源",
-    "count": 41,
+    "tag": "dat",
+    "count": 42,
     "category": "ecosystem"
   },
   {
-    "tag": "dat",
+    "tag": "开源",
     "count": 41,
     "category": "ecosystem"
   },

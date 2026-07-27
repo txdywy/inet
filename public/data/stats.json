@@ -1,5 +1,5 @@
 {
-  "totalItems": 1134,
+  "totalItems": 1136,
   "last24h": 6,
   "last7d": 51,
   "byCategory": {
@@ -9,7 +9,7 @@
     "protocol": 54,
     "dns_rules": 24,
     "security": 18,
-    "ecosystem": 620,
+    "ecosystem": 622,
     "trend": 0
   },
   "topProjects": [
@@ -27,7 +27,7 @@
     },
     {
       "project": "v2ray-rules-dat",
-      "count": 87
+      "count": 88
     },
     {
       "project": "metacubexd",
@@ -35,7 +35,7 @@
     },
     {
       "project": "meta-rules-dat",
-      "count": 84
+      "count": 85
     },
     {
       "project": "3x-ui",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 307
+      "count": 308
     },
     {
       "tag": "v2fly",
@@ -77,15 +77,15 @@
     },
     {
       "tag": "v2ray",
-      "count": 96
+      "count": 97
     },
     {
       "tag": "meta-rules-dat",
-      "count": 84
+      "count": 85
     },
     {
       "tag": "Loyalsoldier",
-      "count": 82
+      "count": 83
     },
     {
       "tag": "metacubexd",
@@ -105,7 +105,7 @@
     },
     {
       "tag": "rules",
-      "count": 64
+      "count": 65
     },
     {
       "tag": "domain-list",
@@ -128,16 +128,16 @@
       "count": 45
     },
     {
-      "tag": "开源",
-      "count": 41
+      "tag": "dat",
+      "count": 42
     },
     {
-      "tag": "dat",
+      "tag": "开源",
       "count": 41
     }
   ],
   "importantCount": 277,
   "breakingCount": 44,
   "securityCount": 71,
-  "updatedAt": "2026-07-26T19:32:34.448Z"
+  "updatedAt": "2026-07-27T04:05:12.589Z"
 }
