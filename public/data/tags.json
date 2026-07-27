@@ -51,7 +51,7 @@
   },
   {
     "tag": "3x-ui",
-    "count": 75,
+    "count": 76,
     "category": "core"
   },
   {
@@ -71,7 +71,7 @@
   },
   {
     "tag": "开发版本",
-    "count": 52,
+    "count": 53,
     "category": "ecosystem"
   },
   {
@@ -126,8 +126,8 @@
   },
   {
     "tag": "go-gost",
-    "count": 34,
-    "category": "ecosystem"
+    "count": 35,
+    "category": "core"
   },
   {
     "tag": "WireGuard",
@@ -150,14 +150,14 @@
     "category": "core"
   },
   {
+    "tag": "自动构建",
+    "count": 31,
+    "category": "ecosystem"
+  },
+  {
     "tag": "Tailscale",
     "count": 30,
     "category": "core"
-  },
-  {
-    "tag": "自动构建",
-    "count": 30,
-    "category": "ecosystem"
   },
   {
     "tag": "v2rayN",
@@ -825,6 +825,11 @@
     "category": "client"
   },
   {
+    "tag": "x",
+    "count": 3,
+    "category": "core"
+  },
+  {
     "tag": "MITM",
     "count": 3,
     "category": "security"
@@ -1350,11 +1355,6 @@
     "category": "client"
   },
   {
-    "tag": "x",
-    "count": 2,
-    "category": "core"
-  },
-  {
     "tag": "后端",
     "count": 2,
     "category": "ecosystem"
@@ -1538,6 +1538,16 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "hopGroup",
+    "count": 1,
+    "category": "core"
+  },
+  {
+    "tag": "failCodes",
+    "count": 1,
+    "category": "core"
   },
   {
     "tag": "quic_proxy_mode",
