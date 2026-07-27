@@ -1,8 +1,8 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 309,
-    "category": "ecosystem"
+    "count": 311,
+    "category": "client"
   },
   {
     "tag": "v2fly",
@@ -11,13 +11,13 @@
   },
   {
     "tag": "mihomo",
-    "count": 150,
+    "count": 151,
     "category": "ecosystem"
   },
   {
     "tag": "Sub-Store",
-    "count": 113,
-    "category": "ecosystem"
+    "count": 114,
+    "category": "protocol"
   },
   {
     "tag": "domain-list-community",
@@ -41,8 +41,8 @@
   },
   {
     "tag": "metacubexd",
-    "count": 81,
-    "category": "core"
+    "count": 82,
+    "category": "client"
   },
   {
     "tag": "OpenVPN",
@@ -51,7 +51,7 @@
   },
   {
     "tag": "3x-ui",
-    "count": 74,
+    "count": 75,
     "category": "core"
   },
   {
@@ -70,14 +70,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "开发版本",
+    "count": 52,
+    "category": "ecosystem"
+  },
+  {
     "tag": "Android",
     "count": 51,
     "category": "client"
-  },
-  {
-    "tag": "开发版本",
-    "count": 51,
-    "category": "ecosystem"
   },
   {
     "tag": "sing-box",
@@ -90,28 +90,28 @@
     "category": "ecosystem"
   },
   {
+    "tag": "开源",
+    "count": 43,
+    "category": "ecosystem"
+  },
+  {
     "tag": "dat",
     "count": 42,
     "category": "ecosystem"
   },
   {
-    "tag": "开源",
-    "count": 42,
-    "category": "ecosystem"
+    "tag": "网络协议",
+    "count": 40,
+    "category": "protocol"
+  },
+  {
+    "tag": "代理工具",
+    "count": 40,
+    "category": "client"
   },
   {
     "tag": "SagerNet",
     "count": 39,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "代理工具",
-    "count": 39,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "网络协议",
-    "count": 38,
     "category": "ecosystem"
   },
   {
@@ -140,14 +140,14 @@
     "category": "client"
   },
   {
+    "tag": "Snell",
+    "count": 33,
+    "category": "protocol"
+  },
+  {
     "tag": "xhttp-opts",
     "count": 33,
     "category": "core"
-  },
-  {
-    "tag": "Snell",
-    "count": 32,
-    "category": "client"
   },
   {
     "tag": "Tailscale",
@@ -171,7 +171,7 @@
   },
   {
     "tag": "自动化构建",
-    "count": 24,
+    "count": 25,
     "category": "ecosystem"
   },
   {
@@ -190,14 +190,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "用户界面",
+    "count": 21,
+    "category": "client"
+  },
+  {
     "tag": "QUIC",
     "count": 20,
     "category": "ecosystem"
-  },
-  {
-    "tag": "用户界面",
-    "count": 20,
-    "category": "client"
   },
   {
     "tag": "DNS",
@@ -1538,6 +1538,11 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "quic_proxy_mode",
+    "count": 1,
+    "category": "protocol"
   },
   {
     "tag": "DHCPv6",
