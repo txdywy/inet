@@ -444,6 +444,23 @@
     ]
   },
   {
+    "slug": "cloudflarespeedtest",
+    "name": "CloudflareSpeedTest",
+    "repo": "XIU2/CloudflareSpeedTest",
+    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
+    "category": "ecosystem",
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "tags": [
+      "cloudflare",
+      "speedtest",
+      "optimization"
+    ]
+  },
+  {
     "slug": "shadowsocks-rust",
     "name": "shadowsocks-rust",
     "repo": "shadowsocks/shadowsocks-rust",
@@ -570,23 +587,6 @@
       "shellclash",
       "mihomo",
       "sing-box"
-    ]
-  },
-  {
-    "slug": "cloudflarespeedtest",
-    "name": "CloudflareSpeedTest",
-    "repo": "XIU2/CloudflareSpeedTest",
-    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
-    "category": "ecosystem",
-    "platforms": [
-      "linux",
-      "windows",
-      "macos"
-    ],
-    "tags": [
-      "cloudflare",
-      "speedtest",
-      "optimization"
     ]
   },
   {

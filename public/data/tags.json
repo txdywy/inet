@@ -1,17 +1,17 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 308,
+    "count": 309,
     "category": "ecosystem"
   },
   {
     "tag": "v2fly",
-    "count": 190,
+    "count": 191,
     "category": "ecosystem"
   },
   {
     "tag": "mihomo",
-    "count": 149,
+    "count": 150,
     "category": "ecosystem"
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "tag": "domain-list-community",
-    "count": 104,
+    "count": 105,
     "category": "ecosystem"
   },
   {
@@ -96,7 +96,7 @@
   },
   {
     "tag": "开源",
-    "count": 41,
+    "count": 42,
     "category": "ecosystem"
   },
   {
@@ -110,18 +110,18 @@
     "category": "ecosystem"
   },
   {
-    "tag": "Windows",
-    "count": 38,
-    "category": "client"
-  },
-  {
     "tag": "网络协议",
-    "count": 37,
+    "count": 38,
     "category": "ecosystem"
   },
   {
     "tag": "Linux",
-    "count": 37,
+    "count": 38,
+    "category": "client"
+  },
+  {
+    "tag": "Windows",
+    "count": 38,
     "category": "client"
   },
   {
@@ -555,6 +555,11 @@
     "category": "client"
   },
   {
+    "tag": "CloudflareSpeedTest",
+    "count": 6,
+    "category": "client"
+  },
+  {
     "tag": "vless",
     "count": 6,
     "category": "protocol"
@@ -655,11 +660,6 @@
     "category": "protocol"
   },
   {
-    "tag": "CloudflareSpeedTest",
-    "count": 5,
-    "category": "client"
-  },
-  {
     "tag": "Hiddify",
     "count": 5,
     "category": "ecosystem"
@@ -693,6 +693,11 @@
     "tag": "tuic",
     "count": 5,
     "category": "protocol"
+  },
+  {
+    "tag": "GitHub",
+    "count": 4,
+    "category": "ecosystem"
   },
   {
     "tag": "Avalonia",
@@ -980,11 +985,6 @@
     "category": "client"
   },
   {
-    "tag": "GitHub",
-    "count": 3,
-    "category": "ecosystem"
-  },
-  {
     "tag": "gdocsviewer",
     "count": 3,
     "category": "core"
@@ -1003,6 +1003,11 @@
     "tag": "持续集成",
     "count": 3,
     "category": "ecosystem"
+  },
+  {
+    "tag": "测速",
+    "count": 3,
+    "category": "client"
   },
   {
     "tag": "NaiveProxy",
@@ -1470,7 +1475,7 @@
     "category": "ecosystem"
   },
   {
-    "tag": "测速",
+    "tag": "HTTPing",
     "count": 2,
     "category": "client"
   },
@@ -3370,7 +3375,7 @@
     "category": "ecosystem"
   },
   {
-    "tag": "HTTPing",
+    "tag": "OpenWRT",
     "count": 1,
     "category": "client"
   },
