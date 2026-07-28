@@ -1,9 +1,9 @@
 {
-  "totalItems": 1148,
+  "totalItems": 1151,
   "last24h": 6,
   "last7d": 45,
   "byCategory": {
-    "core": 181,
+    "core": 184,
     "client": 241,
     "router": 1,
     "protocol": 56,
@@ -19,7 +19,7 @@
     },
     {
       "project": "mihomo",
-      "count": 141
+      "count": 142
     },
     {
       "project": "Sub-Store",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 313
+      "count": 314
     },
     {
       "tag": "v2fly",
@@ -65,7 +65,7 @@
     },
     {
       "tag": "mihomo",
-      "count": 152
+      "count": 153
     },
     {
       "tag": "Sub-Store",
@@ -128,16 +128,16 @@
       "count": 45
     },
     {
-      "tag": "开源",
+      "tag": "网络协议",
       "count": 43
     },
     {
-      "tag": "dat",
-      "count": 42
+      "tag": "开源",
+      "count": 43
     }
   ],
-  "importantCount": 277,
+  "importantCount": 278,
   "breakingCount": 44,
   "securityCount": 71,
-  "updatedAt": "2026-07-28T03:40:00.381Z"
+  "updatedAt": "2026-07-28T09:08:27.136Z"
 }

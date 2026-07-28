@@ -1,7 +1,7 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 313,
+    "count": 314,
     "category": "ecosystem"
   },
   {
@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 152,
+    "count": 153,
     "category": "ecosystem"
   },
   {
@@ -90,24 +90,24 @@
     "category": "ecosystem"
   },
   {
+    "tag": "网络协议",
+    "count": 43,
+    "category": "core"
+  },
+  {
     "tag": "开源",
     "count": 43,
     "category": "ecosystem"
   },
   {
+    "tag": "代理工具",
+    "count": 42,
+    "category": "core"
+  },
+  {
     "tag": "dat",
     "count": 42,
     "category": "ecosystem"
-  },
-  {
-    "tag": "网络协议",
-    "count": 41,
-    "category": "protocol"
-  },
-  {
-    "tag": "代理工具",
-    "count": 40,
-    "category": "client"
   },
   {
     "tag": "SagerNet",
@@ -190,6 +190,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "Xray-core",
+    "count": 22,
+    "category": "core"
+  },
+  {
     "tag": "用户界面",
     "count": 21,
     "category": "client"
@@ -201,11 +206,6 @@
   },
   {
     "tag": "DNS",
-    "count": 20,
-    "category": "core"
-  },
-  {
-    "tag": "Xray-core",
     "count": 20,
     "category": "core"
   },
@@ -1525,6 +1525,16 @@
     "category": "client"
   },
   {
+    "tag": "H2C",
+    "count": 2,
+    "category": "core"
+  },
+  {
+    "tag": "QUICv2",
+    "count": 2,
+    "category": "core"
+  },
+  {
     "tag": "ping keepalive",
     "count": 2,
     "category": "protocol"
@@ -1853,6 +1863,11 @@
     "tag": "wbcontent.net",
     "count": 1,
     "category": "ecosystem"
+  },
+  {
+    "tag": "XTLS",
+    "count": 1,
+    "category": "core"
   },
   {
     "tag": "proxies",
@@ -3773,16 +3788,6 @@
     "tag": "Pushover",
     "count": 1,
     "category": "ecosystem"
-  },
-  {
-    "tag": "H2C",
-    "count": 1,
-    "category": "protocol"
-  },
-  {
-    "tag": "QUICv2",
-    "count": 1,
-    "category": "protocol"
   },
   {
     "tag": "拼写错误",
