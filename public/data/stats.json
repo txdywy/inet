@@ -1,15 +1,15 @@
 {
-  "totalItems": 1145,
+  "totalItems": 1148,
   "last24h": 6,
-  "last7d": 48,
+  "last7d": 45,
   "byCategory": {
     "core": 181,
     "client": 241,
     "router": 1,
-    "protocol": 55,
+    "protocol": 56,
     "dns_rules": 24,
     "security": 18,
-    "ecosystem": 625,
+    "ecosystem": 627,
     "trend": 0
   },
   "topProjects": [
@@ -19,7 +19,7 @@
     },
     {
       "project": "mihomo",
-      "count": 140
+      "count": 141
     },
     {
       "project": "Sub-Store",
@@ -27,7 +27,7 @@
     },
     {
       "project": "v2ray-rules-dat",
-      "count": 88
+      "count": 89
     },
     {
       "project": "metacubexd",
@@ -35,7 +35,7 @@
     },
     {
       "project": "meta-rules-dat",
-      "count": 85
+      "count": 86
     },
     {
       "project": "3x-ui",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 311
+      "count": 313
     },
     {
       "tag": "v2fly",
@@ -65,7 +65,7 @@
     },
     {
       "tag": "mihomo",
-      "count": 151
+      "count": 152
     },
     {
       "tag": "Sub-Store",
@@ -77,15 +77,15 @@
     },
     {
       "tag": "v2ray",
-      "count": 97
+      "count": 98
     },
     {
       "tag": "meta-rules-dat",
-      "count": 85
+      "count": 86
     },
     {
       "tag": "Loyalsoldier",
-      "count": 83
+      "count": 84
     },
     {
       "tag": "metacubexd",
@@ -101,11 +101,11 @@
     },
     {
       "tag": "网络代理",
-      "count": 68
+      "count": 69
     },
     {
       "tag": "rules",
-      "count": 65
+      "count": 66
     },
     {
       "tag": "domain-list",
@@ -139,5 +139,5 @@
   "importantCount": 277,
   "breakingCount": 44,
   "securityCount": 71,
-  "updatedAt": "2026-07-27T19:52:20.238Z"
+  "updatedAt": "2026-07-28T03:40:00.381Z"
 }

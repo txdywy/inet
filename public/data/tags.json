@@ -1,8 +1,8 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 311,
-    "category": "client"
+    "count": 313,
+    "category": "ecosystem"
   },
   {
     "tag": "v2fly",
@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 151,
+    "count": 152,
     "category": "ecosystem"
   },
   {
@@ -26,17 +26,17 @@
   },
   {
     "tag": "v2ray",
-    "count": 97,
+    "count": 98,
     "category": "ecosystem"
   },
   {
     "tag": "meta-rules-dat",
-    "count": 85,
+    "count": 86,
     "category": "ecosystem"
   },
   {
     "tag": "Loyalsoldier",
-    "count": 83,
+    "count": 84,
     "category": "ecosystem"
   },
   {
@@ -56,12 +56,12 @@
   },
   {
     "tag": "网络代理",
-    "count": 68,
+    "count": 69,
     "category": "ecosystem"
   },
   {
     "tag": "rules",
-    "count": 65,
+    "count": 66,
     "category": "ecosystem"
   },
   {
@@ -101,7 +101,7 @@
   },
   {
     "tag": "网络协议",
-    "count": 40,
+    "count": 41,
     "category": "protocol"
   },
   {
@@ -3773,6 +3773,16 @@
     "tag": "Pushover",
     "count": 1,
     "category": "ecosystem"
+  },
+  {
+    "tag": "H2C",
+    "count": 1,
+    "category": "protocol"
+  },
+  {
+    "tag": "QUICv2",
+    "count": 1,
+    "category": "protocol"
   },
   {
     "tag": "拼写错误",
