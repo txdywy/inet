@@ -1,17 +1,17 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 314,
+    "count": 315,
     "category": "ecosystem"
   },
   {
     "tag": "v2fly",
-    "count": 191,
-    "category": "ecosystem"
+    "count": 196,
+    "category": "dns_rules"
   },
   {
     "tag": "mihomo",
-    "count": 153,
+    "count": 154,
     "category": "ecosystem"
   },
   {
@@ -21,8 +21,8 @@
   },
   {
     "tag": "domain-list-community",
-    "count": 105,
-    "category": "ecosystem"
+    "count": 107,
+    "category": "dns_rules"
   },
   {
     "tag": "v2ray",
@@ -51,7 +51,7 @@
   },
   {
     "tag": "3x-ui",
-    "count": 76,
+    "count": 77,
     "category": "core"
   },
   {
@@ -60,18 +60,18 @@
     "category": "ecosystem"
   },
   {
+    "tag": "domain-list",
+    "count": 66,
+    "category": "ecosystem"
+  },
+  {
     "tag": "rules",
     "count": 66,
     "category": "ecosystem"
   },
   {
-    "tag": "domain-list",
-    "count": 64,
-    "category": "ecosystem"
-  },
-  {
     "tag": "开发版本",
-    "count": 53,
+    "count": 54,
     "category": "ecosystem"
   },
   {
@@ -85,6 +85,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "开源",
+    "count": 45,
+    "category": "ecosystem"
+  },
+  {
     "tag": "代理",
     "count": 45,
     "category": "ecosystem"
@@ -93,11 +98,6 @@
     "tag": "网络协议",
     "count": 43,
     "category": "core"
-  },
-  {
-    "tag": "开源",
-    "count": 43,
-    "category": "ecosystem"
   },
   {
     "tag": "代理工具",
@@ -165,12 +165,12 @@
     "category": "security"
   },
   {
-    "tag": "网络工具",
-    "count": 25,
+    "tag": "自动化构建",
+    "count": 26,
     "category": "ecosystem"
   },
   {
-    "tag": "自动化构建",
+    "tag": "网络工具",
     "count": 25,
     "category": "ecosystem"
   },
@@ -190,6 +190,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "DNS",
+    "count": 22,
+    "category": "dns_rules"
+  },
+  {
     "tag": "Xray-core",
     "count": 22,
     "category": "core"
@@ -203,11 +208,6 @@
     "tag": "QUIC",
     "count": 20,
     "category": "ecosystem"
-  },
-  {
-    "tag": "DNS",
-    "count": 20,
-    "category": "core"
   },
   {
     "tag": "rematch",
@@ -825,6 +825,16 @@
     "category": "client"
   },
   {
+    "tag": "CDN",
+    "count": 3,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "俄罗斯域名",
+    "count": 3,
+    "category": "ecosystem"
+  },
+  {
     "tag": "x",
     "count": 3,
     "category": "core"
@@ -1045,6 +1055,16 @@
     "category": "client"
   },
   {
+    "tag": "H2C",
+    "count": 3,
+    "category": "core"
+  },
+  {
+    "tag": "QUICv2",
+    "count": 3,
+    "category": "core"
+  },
+  {
     "tag": "监听器",
     "count": 3,
     "category": "core"
@@ -1053,6 +1073,11 @@
     "tag": "protocol",
     "count": 3,
     "category": "protocol"
+  },
+  {
+    "tag": "地理位置",
+    "count": 2,
+    "category": "ecosystem"
   },
   {
     "tag": "uhttpd",
@@ -1188,11 +1213,6 @@
     "tag": "重基",
     "count": 2,
     "category": "core"
-  },
-  {
-    "tag": "俄罗斯域名",
-    "count": 2,
-    "category": "ecosystem"
   },
   {
     "tag": "openai",
@@ -1485,11 +1505,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "CDN",
-    "count": 2,
-    "category": "core"
-  },
-  {
     "tag": "Reno",
     "count": 2,
     "category": "core"
@@ -1525,16 +1540,6 @@
     "category": "client"
   },
   {
-    "tag": "H2C",
-    "count": 2,
-    "category": "core"
-  },
-  {
-    "tag": "QUICv2",
-    "count": 2,
-    "category": "core"
-  },
-  {
     "tag": "ping keepalive",
     "count": 2,
     "category": "protocol"
@@ -1548,6 +1553,21 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "药店",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "Kinescope",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "IP检测",
+    "count": 1,
+    "category": "ecosystem"
   },
   {
     "tag": "hopGroup",
@@ -2666,11 +2686,6 @@
   },
   {
     "tag": "anthropic",
-    "count": 1,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "地理位置",
     "count": 1,
     "category": "ecosystem"
   },

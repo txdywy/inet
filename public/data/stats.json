@@ -1,25 +1,25 @@
 {
-  "totalItems": 1151,
-  "last24h": 6,
-  "last7d": 45,
+  "totalItems": 1158,
+  "last24h": 10,
+  "last7d": 49,
   "byCategory": {
-    "core": 184,
+    "core": 185,
     "client": 241,
     "router": 1,
     "protocol": 56,
-    "dns_rules": 24,
+    "dns_rules": 25,
     "security": 18,
-    "ecosystem": 627,
+    "ecosystem": 632,
     "trend": 0
   },
   "topProjects": [
     {
       "project": "domain-list-community",
-      "count": 187
+      "count": 192
     },
     {
       "project": "mihomo",
-      "count": 142
+      "count": 143
     },
     {
       "project": "Sub-Store",
@@ -39,7 +39,7 @@
     },
     {
       "project": "3x-ui",
-      "count": 76
+      "count": 77
     },
     {
       "project": "sing-box",
@@ -57,15 +57,15 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 314
+      "count": 315
     },
     {
       "tag": "v2fly",
-      "count": 191
+      "count": 196
     },
     {
       "tag": "mihomo",
-      "count": 153
+      "count": 154
     },
     {
       "tag": "Sub-Store",
@@ -73,7 +73,7 @@
     },
     {
       "tag": "domain-list-community",
-      "count": 105
+      "count": 107
     },
     {
       "tag": "v2ray",
@@ -97,23 +97,23 @@
     },
     {
       "tag": "3x-ui",
-      "count": 76
+      "count": 77
     },
     {
       "tag": "网络代理",
       "count": 69
     },
     {
+      "tag": "domain-list",
+      "count": 66
+    },
+    {
       "tag": "rules",
       "count": 66
     },
     {
-      "tag": "domain-list",
-      "count": 64
-    },
-    {
       "tag": "开发版本",
-      "count": 53
+      "count": 54
     },
     {
       "tag": "Android",
@@ -124,20 +124,20 @@
       "count": 47
     },
     {
+      "tag": "开源",
+      "count": 45
+    },
+    {
       "tag": "代理",
       "count": 45
     },
     {
       "tag": "网络协议",
       "count": 43
-    },
-    {
-      "tag": "开源",
-      "count": 43
     }
   ],
   "importantCount": 278,
   "breakingCount": 44,
   "securityCount": 71,
-  "updatedAt": "2026-07-28T09:08:27.136Z"
+  "updatedAt": "2026-07-28T14:41:14.114Z"
 }
