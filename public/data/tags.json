@@ -1,7 +1,7 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 315,
+    "count": 316,
     "category": "ecosystem"
   },
   {
@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 154,
+    "count": 155,
     "category": "ecosystem"
   },
   {
@@ -51,7 +51,7 @@
   },
   {
     "tag": "3x-ui",
-    "count": 77,
+    "count": 78,
     "category": "core"
   },
   {
@@ -71,7 +71,7 @@
   },
   {
     "tag": "开发版本",
-    "count": 54,
+    "count": 55,
     "category": "ecosystem"
   },
   {
@@ -96,7 +96,7 @@
   },
   {
     "tag": "网络协议",
-    "count": 43,
+    "count": 44,
     "category": "core"
   },
   {
@@ -166,7 +166,7 @@
   },
   {
     "tag": "自动化构建",
-    "count": 26,
+    "count": 27,
     "category": "ecosystem"
   },
   {
@@ -495,6 +495,11 @@
     "category": "security"
   },
   {
+    "tag": "MHSanaei",
+    "count": 7,
+    "category": "ecosystem"
+  },
+  {
     "tag": "加密",
     "count": 7,
     "category": "ecosystem"
@@ -531,11 +536,6 @@
   },
   {
     "tag": "dae",
-    "count": 6,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "MHSanaei",
     "count": 6,
     "category": "ecosystem"
   },
@@ -825,6 +825,16 @@
     "category": "client"
   },
   {
+    "tag": "H2C",
+    "count": 4,
+    "category": "core"
+  },
+  {
+    "tag": "QUICv2",
+    "count": 4,
+    "category": "core"
+  },
+  {
     "tag": "CDN",
     "count": 3,
     "category": "ecosystem"
@@ -1053,16 +1063,6 @@
     "tag": "NekoBoxForAndroid",
     "count": 3,
     "category": "client"
-  },
-  {
-    "tag": "H2C",
-    "count": 3,
-    "category": "core"
-  },
-  {
-    "tag": "QUICv2",
-    "count": 3,
-    "category": "core"
   },
   {
     "tag": "监听器",
