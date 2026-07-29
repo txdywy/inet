@@ -1,7 +1,7 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 318,
+    "count": 319,
     "category": "ecosystem"
   },
   {
@@ -11,13 +11,13 @@
   },
   {
     "tag": "mihomo",
-    "count": 156,
+    "count": 157,
     "category": "ecosystem"
   },
   {
     "tag": "Sub-Store",
-    "count": 114,
-    "category": "protocol"
+    "count": 116,
+    "category": "ecosystem"
   },
   {
     "tag": "domain-list-community",
@@ -51,7 +51,7 @@
   },
   {
     "tag": "3x-ui",
-    "count": 79,
+    "count": 80,
     "category": "core"
   },
   {
@@ -71,7 +71,7 @@
   },
   {
     "tag": "开发版本",
-    "count": 56,
+    "count": 57,
     "category": "ecosystem"
   },
   {
@@ -81,7 +81,7 @@
   },
   {
     "tag": "sing-box",
-    "count": 47,
+    "count": 48,
     "category": "ecosystem"
   },
   {
@@ -151,7 +151,7 @@
   },
   {
     "tag": "自动构建",
-    "count": 31,
+    "count": 32,
     "category": "ecosystem"
   },
   {
@@ -175,14 +175,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "DNS",
+    "count": 24,
+    "category": "dns_rules"
+  },
+  {
     "tag": "HTTP/2",
     "count": 24,
     "category": "protocol"
-  },
-  {
-    "tag": "DNS",
-    "count": 23,
-    "category": "dns_rules"
   },
   {
     "tag": "依赖更新",
@@ -520,6 +520,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "AnyTLS",
+    "count": 6,
+    "category": "ecosystem"
+  },
+  {
     "tag": "geolocation",
     "count": 6,
     "category": "ecosystem"
@@ -578,6 +583,16 @@
     "tag": "clash-verge-rev",
     "count": 6,
     "category": "ecosystem"
+  },
+  {
+    "tag": "H2C",
+    "count": 6,
+    "category": "core"
+  },
+  {
+    "tag": "QUICv2",
+    "count": 6,
+    "category": "core"
   },
   {
     "tag": "openvpn",
@@ -675,16 +690,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "H2C",
-    "count": 5,
-    "category": "protocol"
-  },
-  {
-    "tag": "QUICv2",
-    "count": 5,
-    "category": "protocol"
-  },
-  {
     "tag": "TUIC",
     "count": 5,
     "category": "client"
@@ -733,11 +738,6 @@
     "tag": "前端",
     "count": 4,
     "category": "ecosystem"
-  },
-  {
-    "tag": "AnyTLS",
-    "count": 4,
-    "category": "protocol"
   },
   {
     "tag": "NAT",
@@ -1563,6 +1563,11 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "client_name",
+    "count": 1,
+    "category": "client"
   },
   {
     "tag": "tailscale",
