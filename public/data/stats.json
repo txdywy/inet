@@ -1,15 +1,15 @@
 {
-  "totalItems": 1170,
-  "last24h": 11,
-  "last7d": 47,
+  "totalItems": 1173,
+  "last24h": 9,
+  "last7d": 49,
   "byCategory": {
-    "core": 188,
+    "core": 189,
     "client": 242,
     "router": 1,
     "protocol": 57,
     "dns_rules": 25,
     "security": 18,
-    "ecosystem": 639,
+    "ecosystem": 641,
     "trend": 0
   },
   "topProjects": [
@@ -23,7 +23,7 @@
     },
     {
       "project": "Sub-Store",
-      "count": 116
+      "count": 117
     },
     {
       "project": "v2ray-rules-dat",
@@ -43,7 +43,7 @@
     },
     {
       "project": "sing-box",
-      "count": 39
+      "count": 41
     },
     {
       "project": "gost",
@@ -69,7 +69,7 @@
     },
     {
       "tag": "Sub-Store",
-      "count": 116
+      "count": 117
     },
     {
       "tag": "domain-list-community",
@@ -101,7 +101,7 @@
     },
     {
       "tag": "网络代理",
-      "count": 69
+      "count": 70
     },
     {
       "tag": "domain-list",
@@ -121,15 +121,15 @@
     },
     {
       "tag": "sing-box",
-      "count": 48
+      "count": 50
+    },
+    {
+      "tag": "开源",
+      "count": 46
     },
     {
       "tag": "代理",
       "count": 46
-    },
-    {
-      "tag": "开源",
-      "count": 45
     },
     {
       "tag": "网络协议",
@@ -139,5 +139,5 @@
   "importantCount": 280,
   "breakingCount": 44,
   "securityCount": 71,
-  "updatedAt": "2026-07-29T09:13:06.336Z"
+  "updatedAt": "2026-07-29T14:33:28.794Z"
 }

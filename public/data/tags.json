@@ -16,7 +16,7 @@
   },
   {
     "tag": "Sub-Store",
-    "count": 116,
+    "count": 117,
     "category": "ecosystem"
   },
   {
@@ -56,8 +56,8 @@
   },
   {
     "tag": "网络代理",
-    "count": 69,
-    "category": "ecosystem"
+    "count": 70,
+    "category": "core"
   },
   {
     "tag": "domain-list",
@@ -81,17 +81,17 @@
   },
   {
     "tag": "sing-box",
-    "count": 48,
-    "category": "ecosystem"
+    "count": 50,
+    "category": "core"
+  },
+  {
+    "tag": "开源",
+    "count": 46,
+    "category": "core"
   },
   {
     "tag": "代理",
     "count": 46,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "开源",
-    "count": 45,
     "category": "ecosystem"
   },
   {
@@ -111,8 +111,8 @@
   },
   {
     "tag": "SagerNet",
-    "count": 39,
-    "category": "ecosystem"
+    "count": 41,
+    "category": "core"
   },
   {
     "tag": "Linux",
@@ -600,6 +600,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "优化",
+    "count": 5,
+    "category": "ecosystem"
+  },
+  {
     "tag": "依赖管理",
     "count": 5,
     "category": "ecosystem"
@@ -793,11 +798,6 @@
     "tag": "安全性",
     "count": 4,
     "category": "core"
-  },
-  {
-    "tag": "优化",
-    "count": 4,
-    "category": "ecosystem"
   },
   {
     "tag": "延迟测试",
@@ -1073,6 +1073,11 @@
     "tag": "protocol",
     "count": 3,
     "category": "protocol"
+  },
+  {
+    "tag": "环境变量",
+    "count": 2,
+    "category": "ecosystem"
   },
   {
     "tag": "vpn",
@@ -3626,11 +3631,6 @@
   },
   {
     "tag": "Web UI",
-    "count": 1,
-    "category": "client"
-  },
-  {
-    "tag": "环境变量",
     "count": 1,
     "category": "client"
   },
