@@ -1,17 +1,17 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 316,
+    "count": 318,
     "category": "ecosystem"
   },
   {
     "tag": "v2fly",
-    "count": 196,
-    "category": "dns_rules"
+    "count": 197,
+    "category": "ecosystem"
   },
   {
     "tag": "mihomo",
-    "count": 155,
+    "count": 156,
     "category": "ecosystem"
   },
   {
@@ -26,17 +26,17 @@
   },
   {
     "tag": "v2ray",
-    "count": 98,
+    "count": 99,
     "category": "ecosystem"
   },
   {
     "tag": "meta-rules-dat",
-    "count": 86,
+    "count": 87,
     "category": "ecosystem"
   },
   {
     "tag": "Loyalsoldier",
-    "count": 84,
+    "count": 85,
     "category": "ecosystem"
   },
   {
@@ -51,7 +51,7 @@
   },
   {
     "tag": "3x-ui",
-    "count": 78,
+    "count": 79,
     "category": "core"
   },
   {
@@ -61,7 +61,7 @@
   },
   {
     "tag": "domain-list",
-    "count": 66,
+    "count": 67,
     "category": "ecosystem"
   },
   {
@@ -71,7 +71,7 @@
   },
   {
     "tag": "开发版本",
-    "count": 55,
+    "count": 56,
     "category": "ecosystem"
   },
   {
@@ -85,12 +85,12 @@
     "category": "ecosystem"
   },
   {
-    "tag": "开源",
-    "count": 45,
+    "tag": "代理",
+    "count": 46,
     "category": "ecosystem"
   },
   {
-    "tag": "代理",
+    "tag": "开源",
     "count": 45,
     "category": "ecosystem"
   },
@@ -166,7 +166,7 @@
   },
   {
     "tag": "自动化构建",
-    "count": 27,
+    "count": 28,
     "category": "ecosystem"
   },
   {
@@ -180,6 +180,11 @@
     "category": "protocol"
   },
   {
+    "tag": "DNS",
+    "count": 23,
+    "category": "dns_rules"
+  },
+  {
     "tag": "依赖更新",
     "count": 23,
     "category": "ecosystem"
@@ -188,11 +193,6 @@
     "tag": "VLESS",
     "count": 23,
     "category": "ecosystem"
-  },
-  {
-    "tag": "DNS",
-    "count": 22,
-    "category": "dns_rules"
   },
   {
     "tag": "Xray-core",
@@ -520,6 +520,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "geolocation",
+    "count": 6,
+    "category": "ecosystem"
+  },
+  {
     "tag": "安全修复",
     "count": 6,
     "category": "security"
@@ -600,11 +605,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "geolocation",
-    "count": 5,
-    "category": "ecosystem"
-  },
-  {
     "tag": "SSH",
     "count": 5,
     "category": "client"
@@ -673,6 +673,16 @@
     "tag": "juicity",
     "count": 5,
     "category": "ecosystem"
+  },
+  {
+    "tag": "H2C",
+    "count": 5,
+    "category": "protocol"
+  },
+  {
+    "tag": "QUICv2",
+    "count": 5,
+    "category": "protocol"
   },
   {
     "tag": "TUIC",
@@ -823,16 +833,6 @@
     "tag": "nekoray",
     "count": 4,
     "category": "client"
-  },
-  {
-    "tag": "H2C",
-    "count": 4,
-    "category": "core"
-  },
-  {
-    "tag": "QUICv2",
-    "count": 4,
-    "category": "core"
   },
   {
     "tag": "CDN",
@@ -1073,6 +1073,16 @@
     "tag": "protocol",
     "count": 3,
     "category": "protocol"
+  },
+  {
+    "tag": "vpn",
+    "count": 2,
+    "category": "core"
+  },
+  {
+    "tag": "规则",
+    "count": 2,
+    "category": "ecosystem"
   },
   {
     "tag": "地理位置",
@@ -1555,6 +1565,16 @@
     "category": "security"
   },
   {
+    "tag": "tailscale",
+    "count": 1,
+    "category": "core"
+  },
+  {
+    "tag": "wireguard",
+    "count": 1,
+    "category": "core"
+  },
+  {
     "tag": "药店",
     "count": 1,
     "category": "ecosystem"
@@ -1776,11 +1796,6 @@
   },
   {
     "tag": "QNAP",
-    "count": 1,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "规则",
     "count": 1,
     "category": "ecosystem"
   },
@@ -3748,11 +3763,6 @@
     "tag": "调试模式",
     "count": 1,
     "category": "ecosystem"
-  },
-  {
-    "tag": "vpn",
-    "count": 1,
-    "category": "core"
   },
   {
     "tag": "acl",

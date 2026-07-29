@@ -1,25 +1,25 @@
 {
-  "totalItems": 1160,
-  "last24h": 8,
-  "last7d": 46,
+  "totalItems": 1166,
+  "last24h": 10,
+  "last7d": 47,
   "byCategory": {
-    "core": 186,
+    "core": 187,
     "client": 241,
     "router": 1,
-    "protocol": 56,
+    "protocol": 57,
     "dns_rules": 25,
     "security": 18,
-    "ecosystem": 633,
+    "ecosystem": 637,
     "trend": 0
   },
   "topProjects": [
     {
       "project": "domain-list-community",
-      "count": 192
+      "count": 193
     },
     {
       "project": "mihomo",
-      "count": 144
+      "count": 145
     },
     {
       "project": "Sub-Store",
@@ -27,19 +27,19 @@
     },
     {
       "project": "v2ray-rules-dat",
-      "count": 89
+      "count": 90
+    },
+    {
+      "project": "meta-rules-dat",
+      "count": 87
     },
     {
       "project": "metacubexd",
       "count": 87
     },
     {
-      "project": "meta-rules-dat",
-      "count": 86
-    },
-    {
       "project": "3x-ui",
-      "count": 78
+      "count": 79
     },
     {
       "project": "sing-box",
@@ -57,15 +57,15 @@
   "hotTags": [
     {
       "tag": "MetaCubeX",
-      "count": 316
+      "count": 318
     },
     {
       "tag": "v2fly",
-      "count": 196
+      "count": 197
     },
     {
       "tag": "mihomo",
-      "count": 155
+      "count": 156
     },
     {
       "tag": "Sub-Store",
@@ -77,15 +77,15 @@
     },
     {
       "tag": "v2ray",
-      "count": 98
+      "count": 99
     },
     {
       "tag": "meta-rules-dat",
-      "count": 86
+      "count": 87
     },
     {
       "tag": "Loyalsoldier",
-      "count": 84
+      "count": 85
     },
     {
       "tag": "metacubexd",
@@ -97,7 +97,7 @@
     },
     {
       "tag": "3x-ui",
-      "count": 78
+      "count": 79
     },
     {
       "tag": "网络代理",
@@ -105,7 +105,7 @@
     },
     {
       "tag": "domain-list",
-      "count": 66
+      "count": 67
     },
     {
       "tag": "rules",
@@ -113,7 +113,7 @@
     },
     {
       "tag": "开发版本",
-      "count": 55
+      "count": 56
     },
     {
       "tag": "Android",
@@ -124,11 +124,11 @@
       "count": 47
     },
     {
-      "tag": "开源",
-      "count": 45
+      "tag": "代理",
+      "count": 46
     },
     {
-      "tag": "代理",
+      "tag": "开源",
       "count": 45
     },
     {
@@ -136,8 +136,8 @@
       "count": 44
     }
   ],
-  "importantCount": 278,
+  "importantCount": 279,
   "breakingCount": 44,
   "securityCount": 71,
-  "updatedAt": "2026-07-28T19:50:39.487Z"
+  "updatedAt": "2026-07-29T03:43:52.578Z"
 }
