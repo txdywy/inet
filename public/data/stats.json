@@ -1,15 +1,15 @@
 {
-  "totalItems": 1173,
-  "last24h": 9,
+  "totalItems": 1175,
+  "last24h": 10,
   "last7d": 49,
   "byCategory": {
-    "core": 189,
+    "core": 190,
     "client": 242,
     "router": 1,
     "protocol": 57,
     "dns_rules": 25,
     "security": 18,
-    "ecosystem": 641,
+    "ecosystem": 642,
     "trend": 0
   },
   "topProjects": [
@@ -39,7 +39,7 @@
     },
     {
       "project": "3x-ui",
-      "count": 80
+      "count": 81
     },
     {
       "project": "sing-box",
@@ -47,7 +47,7 @@
     },
     {
       "project": "gost",
-      "count": 35
+      "count": 36
     },
     {
       "project": "ClashMetaForAndroid",
@@ -92,11 +92,11 @@
       "count": 82
     },
     {
-      "tag": "OpenVPN",
-      "count": 80
+      "tag": "3x-ui",
+      "count": 81
     },
     {
-      "tag": "3x-ui",
+      "tag": "OpenVPN",
       "count": 80
     },
     {
@@ -113,7 +113,7 @@
     },
     {
       "tag": "开发版本",
-      "count": 57
+      "count": 58
     },
     {
       "tag": "Android",
@@ -139,5 +139,5 @@
   "importantCount": 280,
   "breakingCount": 44,
   "securityCount": 71,
-  "updatedAt": "2026-07-29T14:33:28.794Z"
+  "updatedAt": "2026-07-29T19:40:39.068Z"
 }

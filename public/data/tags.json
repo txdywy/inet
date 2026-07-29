@@ -45,14 +45,14 @@
     "category": "client"
   },
   {
+    "tag": "3x-ui",
+    "count": 81,
+    "category": "core"
+  },
+  {
     "tag": "OpenVPN",
     "count": 80,
     "category": "protocol"
-  },
-  {
-    "tag": "3x-ui",
-    "count": 80,
-    "category": "core"
   },
   {
     "tag": "网络代理",
@@ -71,7 +71,7 @@
   },
   {
     "tag": "开发版本",
-    "count": 57,
+    "count": 58,
     "category": "ecosystem"
   },
   {
@@ -126,7 +126,7 @@
   },
   {
     "tag": "go-gost",
-    "count": 35,
+    "count": 36,
     "category": "core"
   },
   {
@@ -715,6 +715,11 @@
     "category": "protocol"
   },
   {
+    "tag": "x",
+    "count": 4,
+    "category": "core"
+  },
+  {
     "tag": "GitHub",
     "count": 4,
     "category": "ecosystem"
@@ -843,11 +848,6 @@
     "tag": "俄罗斯域名",
     "count": 3,
     "category": "ecosystem"
-  },
-  {
-    "tag": "x",
-    "count": 3,
-    "category": "core"
   },
   {
     "tag": "MITM",
@@ -1073,6 +1073,11 @@
     "tag": "protocol",
     "count": 3,
     "category": "protocol"
+  },
+  {
+    "tag": "e2e tests",
+    "count": 2,
+    "category": "core"
   },
   {
     "tag": "环境变量",
@@ -1568,6 +1573,16 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "chainGroup",
+    "count": 1,
+    "category": "core"
+  },
+  {
+    "tag": "sniffing",
+    "count": 1,
+    "category": "core"
   },
   {
     "tag": "client_name",
@@ -2190,11 +2205,6 @@
     "category": "client"
   },
   {
-    "tag": "e2e tests",
-    "count": 1,
-    "category": "ecosystem"
-  },
-  {
     "tag": "教育网站",
     "count": 1,
     "category": "ecosystem"
@@ -2278,6 +2288,11 @@
     "tag": "config.js",
     "count": 1,
     "category": "core"
+  },
+  {
+    "tag": "滚动更新",
+    "count": 1,
+    "category": "ecosystem"
   },
   {
     "tag": "版本升级",
