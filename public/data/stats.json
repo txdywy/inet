@@ -1,21 +1,21 @@
 {
-  "totalItems": 1188,
+  "totalItems": 1190,
   "last24h": 11,
-  "last7d": 56,
+  "last7d": 57,
   "byCategory": {
     "core": 192,
     "client": 243,
     "router": 1,
     "protocol": 57,
-    "dns_rules": 25,
+    "dns_rules": 26,
     "security": 19,
-    "ecosystem": 651,
+    "ecosystem": 652,
     "trend": 0
   },
   "topProjects": [
     {
       "project": "domain-list-community",
-      "count": 199
+      "count": 200
     },
     {
       "project": "mihomo",
@@ -39,7 +39,7 @@
     },
     {
       "project": "3x-ui",
-      "count": 83
+      "count": 84
     },
     {
       "project": "sing-box",
@@ -105,7 +105,7 @@
     },
     {
       "tag": "domain-list",
-      "count": 69
+      "count": 70
     },
     {
       "tag": "rules",
@@ -136,8 +136,8 @@
       "count": 44
     }
   ],
-  "importantCount": 284,
+  "importantCount": 286,
   "breakingCount": 45,
   "securityCount": 73,
-  "updatedAt": "2026-07-30T14:34:57.751Z"
+  "updatedAt": "2026-07-30T19:48:55.843Z"
 }

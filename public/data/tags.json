@@ -61,8 +61,8 @@
   },
   {
     "tag": "domain-list",
-    "count": 69,
-    "category": "ecosystem"
+    "count": 70,
+    "category": "dns_rules"
   },
   {
     "tag": "rules",
@@ -485,6 +485,11 @@
     "category": "core"
   },
   {
+    "tag": "xray-core",
+    "count": 7,
+    "category": "client"
+  },
+  {
     "tag": "Shadowrocket",
     "count": 7,
     "category": "client"
@@ -538,11 +543,6 @@
     "tag": "CI",
     "count": 6,
     "category": "ecosystem"
-  },
-  {
-    "tag": "xray-core",
-    "count": 6,
-    "category": "client"
   },
   {
     "tag": "AnyTLS",
@@ -850,6 +850,11 @@
     "category": "client"
   },
   {
+    "tag": "release",
+    "count": 3,
+    "category": "dns_rules"
+  },
+  {
     "tag": "CDN",
     "count": 3,
     "category": "ecosystem"
@@ -1073,6 +1078,11 @@
     "tag": "protocol",
     "count": 3,
     "category": "protocol"
+  },
+  {
+    "tag": "geosite",
+    "count": 2,
+    "category": "dns_rules"
   },
   {
     "tag": "社区",
@@ -2315,6 +2325,16 @@
     "category": "core"
   },
   {
+    "tag": "x-ui",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "panel",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
     "tag": "滚动更新",
     "count": 1,
     "category": "ecosystem"
@@ -3370,11 +3390,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "geosite",
-    "count": 1,
-    "category": "ecosystem"
-  },
-  {
     "tag": "mbedtls",
     "count": 1,
     "category": "ecosystem"
@@ -3906,11 +3921,6 @@
   },
   {
     "tag": "quic",
-    "count": 1,
-    "category": "core"
-  },
-  {
-    "tag": "release",
     "count": 1,
     "category": "core"
   },
