@@ -1,17 +1,17 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 319,
+    "count": 321,
     "category": "ecosystem"
   },
   {
     "tag": "v2fly",
-    "count": 197,
+    "count": 198,
     "category": "ecosystem"
   },
   {
     "tag": "mihomo",
-    "count": 157,
+    "count": 158,
     "category": "ecosystem"
   },
   {
@@ -26,28 +26,28 @@
   },
   {
     "tag": "v2ray",
-    "count": 99,
+    "count": 100,
     "category": "ecosystem"
   },
   {
     "tag": "meta-rules-dat",
-    "count": 87,
+    "count": 88,
     "category": "ecosystem"
   },
   {
     "tag": "Loyalsoldier",
-    "count": 85,
+    "count": 86,
     "category": "ecosystem"
+  },
+  {
+    "tag": "3x-ui",
+    "count": 83,
+    "category": "client"
   },
   {
     "tag": "metacubexd",
     "count": 82,
     "category": "client"
-  },
-  {
-    "tag": "3x-ui",
-    "count": 81,
-    "category": "core"
   },
   {
     "tag": "OpenVPN",
@@ -61,17 +61,17 @@
   },
   {
     "tag": "domain-list",
-    "count": 67,
+    "count": 68,
     "category": "ecosystem"
   },
   {
     "tag": "rules",
-    "count": 66,
+    "count": 67,
     "category": "ecosystem"
   },
   {
     "tag": "开发版本",
-    "count": 58,
+    "count": 59,
     "category": "ecosystem"
   },
   {
@@ -100,14 +100,14 @@
     "category": "core"
   },
   {
+    "tag": "dat",
+    "count": 43,
+    "category": "ecosystem"
+  },
+  {
     "tag": "代理工具",
     "count": 42,
     "category": "core"
-  },
-  {
-    "tag": "dat",
-    "count": 42,
-    "category": "ecosystem"
   },
   {
     "tag": "SagerNet",
@@ -160,24 +160,24 @@
     "category": "core"
   },
   {
+    "tag": "自动化构建",
+    "count": 29,
+    "category": "ecosystem"
+  },
+  {
     "tag": "v2rayN",
     "count": 28,
     "category": "security"
   },
   {
-    "tag": "自动化构建",
-    "count": 28,
-    "category": "ecosystem"
+    "tag": "DNS",
+    "count": 25,
+    "category": "dns_rules"
   },
   {
     "tag": "网络工具",
     "count": 25,
     "category": "ecosystem"
-  },
-  {
-    "tag": "DNS",
-    "count": 24,
-    "category": "dns_rules"
   },
   {
     "tag": "HTTP/2",
@@ -195,14 +195,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "用户界面",
+    "count": 22,
+    "category": "client"
+  },
+  {
     "tag": "Xray-core",
     "count": 22,
     "category": "core"
-  },
-  {
-    "tag": "用户界面",
-    "count": 21,
-    "category": "client"
   },
   {
     "tag": "QUIC",
@@ -450,6 +450,11 @@
     "category": "core"
   },
   {
+    "tag": "MHSanaei",
+    "count": 8,
+    "category": "ecosystem"
+  },
+  {
     "tag": "快捷方式",
     "count": 8,
     "category": "client"
@@ -495,11 +500,6 @@
     "category": "security"
   },
   {
-    "tag": "MHSanaei",
-    "count": 7,
-    "category": "ecosystem"
-  },
-  {
     "tag": "加密",
     "count": 7,
     "category": "ecosystem"
@@ -518,6 +518,21 @@
     "tag": "shadowsocks",
     "count": 7,
     "category": "ecosystem"
+  },
+  {
+    "tag": "H2C",
+    "count": 7,
+    "category": "core"
+  },
+  {
+    "tag": "QUICv2",
+    "count": 7,
+    "category": "core"
+  },
+  {
+    "tag": "xray-core",
+    "count": 6,
+    "category": "client"
   },
   {
     "tag": "AnyTLS",
@@ -585,19 +600,14 @@
     "category": "ecosystem"
   },
   {
-    "tag": "H2C",
-    "count": 6,
-    "category": "core"
-  },
-  {
-    "tag": "QUICv2",
-    "count": 6,
-    "category": "core"
-  },
-  {
     "tag": "openvpn",
     "count": 6,
     "category": "ecosystem"
+  },
+  {
+    "tag": "安全性",
+    "count": 5,
+    "category": "client"
   },
   {
     "tag": "优化",
@@ -628,11 +638,6 @@
     "tag": "SSH",
     "count": 5,
     "category": "client"
-  },
-  {
-    "tag": "xray-core",
-    "count": 5,
-    "category": "ecosystem"
   },
   {
     "tag": "CI",
@@ -798,11 +803,6 @@
     "tag": "CVE",
     "count": 4,
     "category": "security"
-  },
-  {
-    "tag": "安全性",
-    "count": 4,
-    "category": "core"
   },
   {
     "tag": "延迟测试",
@@ -1573,6 +1573,11 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "chess.com",
+    "count": 1,
+    "category": "ecosystem"
   },
   {
     "tag": "chainGroup",
