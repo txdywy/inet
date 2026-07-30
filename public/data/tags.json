@@ -1,17 +1,17 @@
 [
   {
     "tag": "MetaCubeX",
-    "count": 321,
+    "count": 322,
     "category": "ecosystem"
   },
   {
     "tag": "v2fly",
-    "count": 198,
+    "count": 202,
     "category": "ecosystem"
   },
   {
     "tag": "mihomo",
-    "count": 158,
+    "count": 159,
     "category": "ecosystem"
   },
   {
@@ -21,8 +21,8 @@
   },
   {
     "tag": "domain-list-community",
-    "count": 107,
-    "category": "dns_rules"
+    "count": 109,
+    "category": "ecosystem"
   },
   {
     "tag": "v2ray",
@@ -61,7 +61,7 @@
   },
   {
     "tag": "domain-list",
-    "count": 68,
+    "count": 69,
     "category": "ecosystem"
   },
   {
@@ -171,7 +171,7 @@
   },
   {
     "tag": "DNS",
-    "count": 25,
+    "count": 26,
     "category": "dns_rules"
   },
   {
@@ -270,6 +270,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "域名",
+    "count": 15,
+    "category": "ecosystem"
+  },
+  {
     "tag": "网络规则",
     "count": 15,
     "category": "ecosystem"
@@ -291,11 +296,6 @@
   },
   {
     "tag": "naiveproxy",
-    "count": 14,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "域名",
     "count": 14,
     "category": "ecosystem"
   },
@@ -475,6 +475,16 @@
     "category": "client"
   },
   {
+    "tag": "H2C",
+    "count": 8,
+    "category": "core"
+  },
+  {
+    "tag": "QUICv2",
+    "count": 8,
+    "category": "core"
+  },
+  {
     "tag": "Shadowrocket",
     "count": 7,
     "category": "client"
@@ -520,14 +530,9 @@
     "category": "ecosystem"
   },
   {
-    "tag": "H2C",
-    "count": 7,
-    "category": "core"
-  },
-  {
-    "tag": "QUICv2",
-    "count": 7,
-    "category": "core"
+    "tag": "CI",
+    "count": 6,
+    "category": "ecosystem"
   },
   {
     "tag": "xray-core",
@@ -640,11 +645,6 @@
     "category": "client"
   },
   {
-    "tag": "CI",
-    "count": 5,
-    "category": "ecosystem"
-  },
-  {
     "tag": "golang",
     "count": 5,
     "category": "core"
@@ -718,6 +718,11 @@
     "tag": "tuic",
     "count": 5,
     "category": "protocol"
+  },
+  {
+    "tag": "俄罗斯域名",
+    "count": 4,
+    "category": "ecosystem"
   },
   {
     "tag": "x",
@@ -841,11 +846,6 @@
   },
   {
     "tag": "CDN",
-    "count": 3,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "俄罗斯域名",
     "count": 3,
     "category": "ecosystem"
   },
@@ -1073,6 +1073,11 @@
     "tag": "protocol",
     "count": 3,
     "category": "protocol"
+  },
+  {
+    "tag": "社区",
+    "count": 2,
+    "category": "ecosystem"
   },
   {
     "tag": "e2e tests",
@@ -1573,6 +1578,21 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "yandex",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "manhuaren",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "Firefox",
+    "count": 1,
+    "category": "ecosystem"
   },
   {
     "tag": "chess.com",
@@ -3011,11 +3031,6 @@
   },
   {
     "tag": "cron",
-    "count": 1,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "社区",
     "count": 1,
     "category": "ecosystem"
   },
