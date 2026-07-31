@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 160,
+    "count": 161,
     "category": "dns_rules"
   },
   {
@@ -335,6 +335,11 @@
     "category": "core"
   },
   {
+    "tag": "release",
+    "count": 11,
+    "category": "ecosystem"
+  },
+  {
     "tag": "TUN",
     "count": 11,
     "category": "client"
@@ -430,9 +435,9 @@
     "category": "ecosystem"
   },
   {
-    "tag": "release",
+    "tag": "xray-core",
     "count": 8,
-    "category": "core"
+    "category": "client"
   },
   {
     "tag": "更新",
@@ -493,11 +498,6 @@
     "tag": "vless",
     "count": 7,
     "category": "core"
-  },
-  {
-    "tag": "xray-core",
-    "count": 7,
-    "category": "client"
   },
   {
     "tag": "Shadowrocket",
@@ -1315,6 +1315,16 @@
     "category": "ecosystem"
   },
   {
+    "tag": "x-ui",
+    "count": 2,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "panel",
+    "count": 2,
+    "category": "ecosystem"
+  },
+  {
     "tag": "服务器",
     "count": 2,
     "category": "core"
@@ -1585,6 +1595,21 @@
     "category": "client"
   },
   {
+    "tag": "clash",
+    "count": 2,
+    "category": "core"
+  },
+  {
+    "tag": "meta",
+    "count": 2,
+    "category": "core"
+  },
+  {
+    "tag": "quic",
+    "count": 2,
+    "category": "core"
+  },
+  {
     "tag": "ping keepalive",
     "count": 2,
     "category": "protocol"
@@ -1598,6 +1623,16 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "sub-store",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "subscription",
+    "count": 1,
+    "category": "ecosystem"
   },
   {
     "tag": "yandex",
@@ -2333,16 +2368,6 @@
     "tag": "config.js",
     "count": 1,
     "category": "core"
-  },
-  {
-    "tag": "x-ui",
-    "count": 1,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "panel",
-    "count": 1,
-    "category": "ecosystem"
   },
   {
     "tag": "滚动更新",
@@ -3880,6 +3905,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "ech",
+    "count": 1,
+    "category": "core"
+  },
+  {
     "tag": "拼写错误",
     "count": 1,
     "category": "ecosystem"
@@ -3918,21 +3948,6 @@
     "tag": "加密算法",
     "count": 1,
     "category": "protocol"
-  },
-  {
-    "tag": "clash",
-    "count": 1,
-    "category": "core"
-  },
-  {
-    "tag": "meta",
-    "count": 1,
-    "category": "core"
-  },
-  {
-    "tag": "quic",
-    "count": 1,
-    "category": "core"
   },
   {
     "tag": "VLess",

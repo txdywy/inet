@@ -1,15 +1,15 @@
 {
-  "totalItems": 1195,
+  "totalItems": 1198,
   "last24h": 6,
   "last7d": 55,
   "byCategory": {
-    "core": 193,
+    "core": 194,
     "client": 243,
     "router": 1,
     "protocol": 57,
     "dns_rules": 30,
     "security": 19,
-    "ecosystem": 652,
+    "ecosystem": 654,
     "trend": 0
   },
   "topProjects": [
@@ -19,11 +19,11 @@
     },
     {
       "project": "mihomo",
-      "count": 148
+      "count": 149
     },
     {
       "project": "Sub-Store",
-      "count": 117
+      "count": 118
     },
     {
       "project": "v2ray-rules-dat",
@@ -39,7 +39,7 @@
     },
     {
       "project": "3x-ui",
-      "count": 84
+      "count": 85
     },
     {
       "project": "sing-box",
@@ -65,7 +65,7 @@
     },
     {
       "tag": "mihomo",
-      "count": 160
+      "count": 161
     },
     {
       "tag": "Sub-Store",
@@ -136,8 +136,8 @@
       "count": 44
     }
   ],
-  "importantCount": 291,
-  "breakingCount": 45,
+  "importantCount": 293,
+  "breakingCount": 46,
   "securityCount": 73,
-  "updatedAt": "2026-07-31T14:38:08.252Z"
+  "updatedAt": "2026-07-31T19:49:38.323Z"
 }

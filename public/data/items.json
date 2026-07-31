@@ -1,5 +1,42 @@
 [
   {
+    "id": "cdf88091ae317eba",
+    "title": "sub-store-org/Sub-Store 2.36.27",
+    "summary": "2.36.27",
+    "rawTitle": "2.36.27",
+    "rawBody": "## <small>2.36.27 (2026-07-31)</small>\n\n* feat: mihomo 支持 ZeroTier; 协议筛选支持 ZeroTier ([47ce75a](https://github.com/sub-store-org/Sub-Store/commit/47ce75a))\n",
+    "sourceType": "github_release",
+    "sourceName": "sub-store-org/Sub-Store",
+    "sourceUrl": "https://github.com/sub-store-org/Sub-Store/releases/tag/2.36.27",
+    "project": "Sub-Store",
+    "repo": "sub-store-org/Sub-Store",
+    "slug": "sub-store",
+    "version": "2.36.27",
+    "category": "ecosystem",
+    "tags": [
+      "sub-store",
+      "subscription",
+      "release"
+    ],
+    "platforms": [
+      "ios",
+      "android",
+      "macos",
+      "windows",
+      "linux"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-07-31T18:06:19Z",
+    "fetchedAt": "2026-07-31T19:49:32.402Z",
+    "firstSeenAt": "2026-07-31T19:49:37.891Z",
+    "updatedAt": "2026-07-31T19:49:37.891Z",
+    "hash": "cdf88091ae317eba"
+  },
+  {
     "id": "6558dab0da9cf82e",
     "title": "SagerNet/sing-box 1.14.0-beta.4",
     "summary": "1.14.0-beta.4",
@@ -10868,6 +10905,40 @@
     "firstSeenAt": "2026-06-25T04:36:16.426Z",
     "updatedAt": "2026-06-25T04:36:16.426Z",
     "hash": "e54a070ca4e6a5bf"
+  },
+  {
+    "id": "b85525c060cbc426",
+    "title": "MHSanaei/3x-ui Dev build 138e1bd8",
+    "summary": "Dev build 138e1bd8",
+    "rawTitle": "Dev build 138e1bd8",
+    "rawBody": "Rolling development build — installs via the panel's Dev update channel.\n\ncommit=138e1bd840578368278336f230e7a0a28559f8b2\nbuilt=2026-07-31T16:36:07Z\n\nAutomated per-commit build from main. Not a stable release.",
+    "sourceType": "github_release",
+    "sourceName": "MHSanaei/3x-ui",
+    "sourceUrl": "https://github.com/MHSanaei/3x-ui/releases/tag/dev-latest",
+    "project": "3x-ui",
+    "repo": "MHSanaei/3x-ui",
+    "slug": "3x-ui",
+    "version": "dev-latest",
+    "category": "ecosystem",
+    "tags": [
+      "x-ui",
+      "panel",
+      "xray-core",
+      "release"
+    ],
+    "platforms": [
+      "linux"
+    ],
+    "importance": 4,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2026-06-24T16:17:06Z",
+    "fetchedAt": "2026-07-31T19:49:32.438Z",
+    "firstSeenAt": "2026-07-31T19:49:37.082Z",
+    "updatedAt": "2026-07-31T19:49:37.082Z",
+    "hash": "b85525c060cbc426"
   },
   {
     "id": "7e58d611c65bc7d7",
@@ -34278,6 +34349,44 @@
     "firstSeenAt": "2026-05-07T04:09:04.362Z",
     "updatedAt": "2026-05-07T04:09:04.362Z",
     "hash": "5e6adb84fbb7f312"
+  },
+  {
+    "id": "a264fc47ed8026f6",
+    "title": "MetaCubeX/mihomo Prerelease-Alpha",
+    "summary": "Prerelease-Alpha",
+    "rawTitle": "Prerelease-Alpha",
+    "rawBody": "Release created at  Sat Aug  1 02:23:17 CST 2026\nSynchronize Alpha branch code updates, keeping only the latest version\n<br>\n[我应该下载哪个文件? / Which file should I download?](https://github.com/MetaCubeX/mihomo/wiki/FAQ)\n[二进制文件筛选 / Binary file selector](https://metacubex.github.io/Meta-Docs/startup/#_1)\n[查看文档 / Docs](https://metacubex.github.io/Meta-Docs/)\n\n\n## What's Changed\n* fix: typo in `uplinkHTTPMethod` by @MakostaDev in https://github.com/MetaCubeX/mihomo/pull/3029\n* fix: tun dns hijack sending zero-filled or stale packets when PackBuffer reallocates by @TWO666 in https://github.com/MetaCubeX/mihomo/pull/3037\n* feat: support H2C and QUICv2 sniffing by @MakostaDev in https://github.com/MetaCubeX/mihomo/pull/3036\n* fix: echo edns0 opt in dns replies when the request carries one by @TWO666 in https://github.com/MetaCubeX/mihomo/pull/3041\n* fix: truncate udp dns replies to the client's advertised buffer size by @TWO666 in https://github.com/MetaCubeX/mihomo/pull/3043\n* chore: update mieru version by @enfein in https://github.com/MetaCubeX/mihomo/pull/3046\n* chore: remove dohMaxConnsPerHost & dohMaxIdleConns by @ayanamist in https://github.com/MetaCubeX/mihomo/pull/3048\n* perf: avoid string reversal allocation in DomainSet.Has by @Ember-Moth in https://github.com/MetaCubeX/mihomo/pull/3049\n\n## New Contributors\n* @MakostaDev made their first contribution in https://github.com/MetaCubeX/mihomo/pull/3029\n* @TWO666 made their first contribution in https://github.com/MetaCubeX/mihomo/pull/3037\n* @Ember-Moth made their first contribution in https://github.com/MetaCubeX/mihomo/pull/3049\n\n**Full Changelog**: https://github.com/MetaCubeX/mihomo/compare/v1.19.29...Prerelease-Alpha",
+    "sourceType": "github_release",
+    "sourceName": "MetaCubeX/mihomo",
+    "sourceUrl": "https://github.com/MetaCubeX/mihomo/releases/tag/Prerelease-Alpha",
+    "project": "mihomo",
+    "repo": "MetaCubeX/mihomo",
+    "slug": "mihomo",
+    "version": "Prerelease-Alpha",
+    "category": "core",
+    "tags": [
+      "mihomo",
+      "clash",
+      "meta",
+      "ech",
+      "quic",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 3,
+    "confidence": 0.85,
+    "isBreaking": true,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2024-08-12T17:01:02Z",
+    "fetchedAt": "2026-07-31T19:49:21.278Z",
+    "firstSeenAt": "2026-07-31T19:49:36.136Z",
+    "updatedAt": "2026-07-31T19:49:36.136Z",
+    "hash": "a264fc47ed8026f6"
   },
   {
     "id": "6145df94ce5d852d",
