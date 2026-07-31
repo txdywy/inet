@@ -11,8 +11,8 @@
   },
   {
     "tag": "mihomo",
-    "count": 159,
-    "category": "ecosystem"
+    "count": 160,
+    "category": "dns_rules"
   },
   {
     "tag": "Sub-Store",
@@ -55,14 +55,14 @@
     "category": "protocol"
   },
   {
+    "tag": "domain-list",
+    "count": 71,
+    "category": "dns_rules"
+  },
+  {
     "tag": "网络代理",
     "count": 71,
     "category": "ecosystem"
-  },
-  {
-    "tag": "domain-list",
-    "count": 70,
-    "category": "dns_rules"
   },
   {
     "tag": "rules",
@@ -535,6 +535,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "release",
+    "count": 6,
+    "category": "dns_rules"
+  },
+  {
     "tag": "安全更新",
     "count": 6,
     "category": "security"
@@ -613,6 +618,11 @@
     "tag": "openvpn",
     "count": 6,
     "category": "ecosystem"
+  },
+  {
+    "tag": "geosite",
+    "count": 5,
+    "category": "dns_rules"
   },
   {
     "tag": "Avalonia",
@@ -850,11 +860,6 @@
     "category": "client"
   },
   {
-    "tag": "release",
-    "count": 3,
-    "category": "dns_rules"
-  },
-  {
     "tag": "CDN",
     "count": 3,
     "category": "ecosystem"
@@ -1080,7 +1085,12 @@
     "category": "protocol"
   },
   {
-    "tag": "geosite",
+    "tag": "ruleset",
+    "count": 2,
+    "category": "dns_rules"
+  },
+  {
+    "tag": "geoip",
     "count": 2,
     "category": "dns_rules"
   },
