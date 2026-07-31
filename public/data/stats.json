@@ -1,13 +1,13 @@
 {
-  "totalItems": 1193,
+  "totalItems": 1195,
   "last24h": 8,
-  "last7d": 57,
+  "last7d": 58,
   "byCategory": {
-    "core": 192,
+    "core": 193,
     "client": 243,
     "router": 1,
     "protocol": 57,
-    "dns_rules": 29,
+    "dns_rules": 30,
     "security": 19,
     "ecosystem": 652,
     "trend": 0
@@ -15,7 +15,7 @@
   "topProjects": [
     {
       "project": "domain-list-community",
-      "count": 201
+      "count": 202
     },
     {
       "project": "mihomo",
@@ -43,7 +43,7 @@
     },
     {
       "project": "sing-box",
-      "count": 41
+      "count": 42
     },
     {
       "project": "gost",
@@ -101,7 +101,7 @@
     },
     {
       "tag": "domain-list",
-      "count": 71
+      "count": 72
     },
     {
       "tag": "网络代理",
@@ -116,12 +116,12 @@
       "count": 59
     },
     {
-      "tag": "Android",
+      "tag": "sing-box",
       "count": 51
     },
     {
-      "tag": "sing-box",
-      "count": 50
+      "tag": "Android",
+      "count": 51
     },
     {
       "tag": "开源",
@@ -136,8 +136,8 @@
       "count": 44
     }
   ],
-  "importantCount": 289,
+  "importantCount": 291,
   "breakingCount": 45,
   "securityCount": 73,
-  "updatedAt": "2026-07-31T03:53:15.945Z"
+  "updatedAt": "2026-07-31T09:19:02.740Z"
 }
