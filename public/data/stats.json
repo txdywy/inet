@@ -1,25 +1,25 @@
 {
-  "totalItems": 1204,
-  "last24h": 7,
-  "last7d": 54,
+  "totalItems": 1208,
+  "last24h": 9,
+  "last7d": 56,
   "byCategory": {
-    "core": 195,
+    "core": 196,
     "client": 243,
     "router": 1,
     "protocol": 57,
-    "dns_rules": 33,
-    "security": 21,
-    "ecosystem": 654,
+    "dns_rules": 34,
+    "security": 22,
+    "ecosystem": 655,
     "trend": 0
   },
   "topProjects": [
     {
       "project": "domain-list-community",
-      "count": 203
+      "count": 204
     },
     {
       "project": "mihomo",
-      "count": 150
+      "count": 151
     },
     {
       "project": "Sub-Store",
@@ -35,7 +35,7 @@
     },
     {
       "project": "metacubexd",
-      "count": 87
+      "count": 88
     },
     {
       "project": "3x-ui",
@@ -65,7 +65,7 @@
     },
     {
       "tag": "mihomo",
-      "count": 163
+      "count": 165
     },
     {
       "tag": "Sub-Store",
@@ -101,7 +101,7 @@
     },
     {
       "tag": "domain-list",
-      "count": 73
+      "count": 74
     },
     {
       "tag": "网络代理",
@@ -136,8 +136,8 @@
       "count": 44
     }
   ],
-  "importantCount": 297,
-  "breakingCount": 48,
-  "securityCount": 75,
-  "updatedAt": "2026-08-01T08:35:21.407Z"
+  "importantCount": 299,
+  "breakingCount": 49,
+  "securityCount": 76,
+  "updatedAt": "2026-08-01T13:57:54.639Z"
 }
