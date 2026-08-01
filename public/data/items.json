@@ -1,5 +1,74 @@
 [
   {
+    "id": "e12eeff9bb4131f6",
+    "title": "v2fly/domain-list-community 20260801081758",
+    "summary": "20260801081758",
+    "rawTitle": "20260801081758",
+    "rawBody": "## What's Changed\n* Add additional JetBrains domains by @An-Dreika in https://github.com/v2fly/domain-list-community/pull/3894\n\n## New Contributors\n* @An-Dreika made their first contribution in https://github.com/v2fly/domain-list-community/pull/3894\n\n**Full Changelog**: https://github.com/v2fly/domain-list-community/compare/20260731062338...20260801081758",
+    "sourceType": "github_release",
+    "sourceName": "v2fly/domain-list-community",
+    "sourceUrl": "https://github.com/v2fly/domain-list-community/releases/tag/20260801081758",
+    "project": "domain-list-community",
+    "repo": "v2fly/domain-list-community",
+    "slug": "domain-list-community",
+    "version": "20260801081758",
+    "category": "dns_rules",
+    "tags": [
+      "geosite",
+      "domain-list",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-08-01T08:18:08Z",
+    "fetchedAt": "2026-08-01T08:35:19.013Z",
+    "firstSeenAt": "2026-08-01T08:35:20.913Z",
+    "updatedAt": "2026-08-01T08:35:20.913Z",
+    "hash": "e12eeff9bb4131f6"
+  },
+  {
+    "id": "a5312202395be02a",
+    "title": "2dust/v2rayNG 2.3.1",
+    "summary": "2.3.1",
+    "rawTitle": "2.3.1",
+    "rawBody": "### [关于 跳过证书验证 allowInsecure 参数被移除的说明 ](https://github.com/2dust/v2rayN/discussions/9460)\r\n\r\n### 本次更新\r\n\r\n- 迁移到 Jetpack Compose UI , 感谢 @fuilloi  https://github.com/2dust/v2rayNG/pull/5866\r\n \r\n\r\n- [Xray-core v26.7.28](https://github.com/XTLS/Xray-core/releases/tag/v26.7.28)\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n### [发布文件介绍，不知道下载哪个文件的请看](https://github.com/2dust/v2rayNG/wiki/Release-files-introduction-for-Android)",
+    "sourceType": "github_release",
+    "sourceName": "2dust/v2rayNG",
+    "sourceUrl": "https://github.com/2dust/v2rayNG/releases/tag/2.3.1",
+    "project": "v2rayNG",
+    "repo": "2dust/v2rayNG",
+    "slug": "v2rayng",
+    "version": "2.3.1",
+    "category": "security",
+    "tags": [
+      "v2rayng",
+      "android",
+      "xray-core",
+      "release"
+    ],
+    "platforms": [
+      "android"
+    ],
+    "importance": 5,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": true,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-08-01T07:26:56Z",
+    "fetchedAt": "2026-08-01T08:35:09.982Z",
+    "firstSeenAt": "2026-08-01T08:35:19.956Z",
+    "updatedAt": "2026-08-01T08:35:19.956Z",
+    "hash": "a5312202395be02a"
+  },
+  {
     "id": "c2adc2c26dff8320",
     "title": "apernet/hysteria app/v2.11.0",
     "summary": "app/v2.11.0",

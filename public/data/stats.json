@@ -1,21 +1,21 @@
 {
-  "totalItems": 1202,
-  "last24h": 6,
-  "last7d": 56,
+  "totalItems": 1204,
+  "last24h": 7,
+  "last7d": 54,
   "byCategory": {
     "core": 195,
     "client": 243,
     "router": 1,
     "protocol": 57,
-    "dns_rules": 32,
-    "security": 20,
+    "dns_rules": 33,
+    "security": 21,
     "ecosystem": 654,
     "trend": 0
   },
   "topProjects": [
     {
       "project": "domain-list-community",
-      "count": 202
+      "count": 203
     },
     {
       "project": "mihomo",
@@ -101,7 +101,7 @@
     },
     {
       "tag": "domain-list",
-      "count": 72
+      "count": 73
     },
     {
       "tag": "网络代理",
@@ -136,8 +136,8 @@
       "count": 44
     }
   ],
-  "importantCount": 295,
+  "importantCount": 297,
   "breakingCount": 48,
-  "securityCount": 74,
-  "updatedAt": "2026-08-01T03:53:19.769Z"
+  "securityCount": 75,
+  "updatedAt": "2026-08-01T08:35:21.407Z"
 }

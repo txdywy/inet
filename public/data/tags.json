@@ -56,7 +56,7 @@
   },
   {
     "tag": "domain-list",
-    "count": 72,
+    "count": 73,
     "category": "dns_rules"
   },
   {
@@ -235,6 +235,11 @@
     "category": "core"
   },
   {
+    "tag": "release",
+    "count": 17,
+    "category": "dns_rules"
+  },
+  {
     "tag": "TLS",
     "count": 17,
     "category": "ecosystem"
@@ -273,11 +278,6 @@
     "tag": "Alpha",
     "count": 16,
     "category": "ecosystem"
-  },
-  {
-    "tag": "release",
-    "count": 15,
-    "category": "security"
   },
   {
     "tag": "xray",
@@ -390,6 +390,16 @@
     "category": "dns_rules"
   },
   {
+    "tag": "geosite",
+    "count": 9,
+    "category": "dns_rules"
+  },
+  {
+    "tag": "xray-core",
+    "count": 9,
+    "category": "security"
+  },
+  {
     "tag": "配置管理",
     "count": 9,
     "category": "ecosystem"
@@ -433,16 +443,6 @@
     "tag": "CBC",
     "count": 9,
     "category": "ecosystem"
-  },
-  {
-    "tag": "geosite",
-    "count": 8,
-    "category": "dns_rules"
-  },
-  {
-    "tag": "xray-core",
-    "count": 8,
-    "category": "client"
   },
   {
     "tag": "更新",
@@ -1627,6 +1627,16 @@
   {
     "tag": "Quantumult X",
     "count": 2,
+    "category": "security"
+  },
+  {
+    "tag": "v2rayng",
+    "count": 1,
+    "category": "security"
+  },
+  {
+    "tag": "android",
+    "count": 1,
     "category": "security"
   },
   {
