@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 161,
+    "count": 163,
     "category": "dns_rules"
   },
   {
@@ -275,6 +275,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "release",
+    "count": 15,
+    "category": "security"
+  },
+  {
     "tag": "xray",
     "count": 15,
     "category": "security"
@@ -333,11 +338,6 @@
     "tag": "HTTP",
     "count": 12,
     "category": "core"
-  },
-  {
-    "tag": "release",
-    "count": 11,
-    "category": "ecosystem"
   },
   {
     "tag": "TUN",
@@ -435,6 +435,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "geosite",
+    "count": 8,
+    "category": "dns_rules"
+  },
+  {
     "tag": "xray-core",
     "count": 8,
     "category": "client"
@@ -495,6 +500,11 @@
     "category": "core"
   },
   {
+    "tag": "hysteria2",
+    "count": 7,
+    "category": "security"
+  },
+  {
     "tag": "vless",
     "count": 7,
     "category": "core"
@@ -545,19 +555,9 @@
     "category": "ecosystem"
   },
   {
-    "tag": "hysteria2",
-    "count": 6,
-    "category": "core"
-  },
-  {
     "tag": "tuic",
     "count": 6,
     "category": "core"
-  },
-  {
-    "tag": "geosite",
-    "count": 6,
-    "category": "dns_rules"
   },
   {
     "tag": "安全更新",
@@ -735,6 +735,21 @@
     "category": "ecosystem"
   },
   {
+    "tag": "quic",
+    "count": 4,
+    "category": "security"
+  },
+  {
+    "tag": "ruleset",
+    "count": 4,
+    "category": "dns_rules"
+  },
+  {
+    "tag": "geoip",
+    "count": 4,
+    "category": "dns_rules"
+  },
+  {
     "tag": "中间人攻击",
     "count": 4,
     "category": "security"
@@ -858,6 +873,11 @@
     "tag": "nekoray",
     "count": 4,
     "category": "client"
+  },
+  {
+    "tag": "ech",
+    "count": 3,
+    "category": "security"
   },
   {
     "tag": "CDN",
@@ -1075,6 +1095,16 @@
     "category": "client"
   },
   {
+    "tag": "clash",
+    "count": 3,
+    "category": "core"
+  },
+  {
+    "tag": "meta",
+    "count": 3,
+    "category": "core"
+  },
+  {
     "tag": "监听器",
     "count": 3,
     "category": "core"
@@ -1083,16 +1113,6 @@
     "tag": "protocol",
     "count": 3,
     "category": "protocol"
-  },
-  {
-    "tag": "ruleset",
-    "count": 2,
-    "category": "dns_rules"
-  },
-  {
-    "tag": "geoip",
-    "count": 2,
-    "category": "dns_rules"
   },
   {
     "tag": "社区",
@@ -1593,21 +1613,6 @@
     "tag": "NekoBox",
     "count": 2,
     "category": "client"
-  },
-  {
-    "tag": "clash",
-    "count": 2,
-    "category": "core"
-  },
-  {
-    "tag": "meta",
-    "count": 2,
-    "category": "core"
-  },
-  {
-    "tag": "quic",
-    "count": 2,
-    "category": "core"
   },
   {
     "tag": "ping keepalive",
@@ -3903,11 +3908,6 @@
     "tag": "Pushover",
     "count": 1,
     "category": "ecosystem"
-  },
-  {
-    "tag": "ech",
-    "count": 1,
-    "category": "core"
   },
   {
     "tag": "拼写错误",
