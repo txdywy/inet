@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 165,
+    "count": 166,
     "category": "ecosystem"
   },
   {
@@ -56,7 +56,7 @@
   },
   {
     "tag": "domain-list",
-    "count": 74,
+    "count": 76,
     "category": "dns_rules"
   },
   {
@@ -180,6 +180,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "release",
+    "count": 24,
+    "category": "dns_rules"
+  },
+  {
     "tag": "HTTP/2",
     "count": 24,
     "category": "protocol"
@@ -203,11 +208,6 @@
     "tag": "Xray-core",
     "count": 22,
     "category": "core"
-  },
-  {
-    "tag": "release",
-    "count": 21,
-    "category": "ecosystem"
   },
   {
     "tag": "QUIC",
@@ -335,6 +335,11 @@
     "category": "client"
   },
   {
+    "tag": "geosite",
+    "count": 12,
+    "category": "dns_rules"
+  },
+  {
     "tag": "HTTP",
     "count": 12,
     "category": "core"
@@ -368,11 +373,6 @@
     "tag": "用户体验",
     "count": 11,
     "category": "client"
-  },
-  {
-    "tag": "geosite",
-    "count": 10,
-    "category": "dns_rules"
   },
   {
     "tag": "xray-core",
@@ -555,6 +555,16 @@
     "category": "ecosystem"
   },
   {
+    "tag": "clash",
+    "count": 6,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "quic",
+    "count": 6,
+    "category": "security"
+  },
+  {
     "tag": "tuic",
     "count": 6,
     "category": "core"
@@ -635,12 +645,7 @@
     "category": "ecosystem"
   },
   {
-    "tag": "clash",
-    "count": 5,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "quic",
+    "tag": "ech",
     "count": 5,
     "category": "security"
   },
@@ -730,6 +735,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "meta",
+    "count": 5,
+    "category": "core"
+  },
+  {
     "tag": "TUIC",
     "count": 5,
     "category": "client"
@@ -743,11 +753,6 @@
     "tag": "subconverter",
     "count": 5,
     "category": "ecosystem"
-  },
-  {
-    "tag": "ech",
-    "count": 4,
-    "category": "security"
   },
   {
     "tag": "ruleset",
@@ -883,11 +888,6 @@
     "tag": "nekoray",
     "count": 4,
     "category": "client"
-  },
-  {
-    "tag": "meta",
-    "count": 4,
-    "category": "core"
   },
   {
     "tag": "CDN",

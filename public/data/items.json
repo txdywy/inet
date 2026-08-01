@@ -1,5 +1,75 @@
 [
   {
+    "id": "af18b2d94fa678b6",
+    "title": "v2fly/domain-list-community 20260801163240",
+    "summary": "20260801163240",
+    "rawTitle": "20260801163240",
+    "rawBody": "## What's Changed\n* google-deepmind: add notebook.google.com by @vahellame in https://github.com/v2fly/domain-list-community/pull/3898\n\n## New Contributors\n* @vahellame made their first contribution in https://github.com/v2fly/domain-list-community/pull/3898\n\n**Full Changelog**: https://github.com/v2fly/domain-list-community/compare/20260801153114...20260801163240",
+    "sourceType": "github_release",
+    "sourceName": "v2fly/domain-list-community",
+    "sourceUrl": "https://github.com/v2fly/domain-list-community/releases/tag/20260801163240",
+    "project": "domain-list-community",
+    "repo": "v2fly/domain-list-community",
+    "slug": "domain-list-community",
+    "version": "20260801163240",
+    "category": "dns_rules",
+    "tags": [
+      "geosite",
+      "domain-list",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-08-01T16:32:48Z",
+    "fetchedAt": "2026-08-01T19:32:15.545Z",
+    "firstSeenAt": "2026-08-01T19:32:17.317Z",
+    "updatedAt": "2026-08-01T19:32:17.317Z",
+    "hash": "af18b2d94fa678b6"
+  },
+  {
+    "id": "55f7135451298264",
+    "title": "v2fly/domain-list-community 20260801153114",
+    "summary": "20260801153114",
+    "rawTitle": "20260801153114",
+    "rawBody": "## What's Changed\n* google: add more domains by @MkQtS in https://github.com/v2fly/domain-list-community/pull/3897\n\n\n**Full Changelog**: https://github.com/v2fly/domain-list-community/compare/20260801093436...20260801153114",
+    "sourceType": "github_release",
+    "sourceName": "v2fly/domain-list-community",
+    "sourceUrl": "https://github.com/v2fly/domain-list-community/releases/tag/20260801153114",
+    "project": "domain-list-community",
+    "repo": "v2fly/domain-list-community",
+    "slug": "domain-list-community",
+    "version": "20260801153114",
+    "category": "dns_rules",
+    "tags": [
+      "geosite",
+      "domain-list",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-08-01T15:31:21Z",
+    "fetchedAt": "2026-08-01T19:32:15.545Z",
+    "firstSeenAt": "2026-08-01T19:32:18.126Z",
+    "updatedAt": "2026-08-01T19:32:18.126Z",
+    "hash": "55f7135451298264"
+  },
+  {
     "id": "672ed3b35af8239b",
     "title": "MetaCubeX/metacubexd v1.271.0",
     "summary": "v1.271.0",
@@ -34630,6 +34700,44 @@
     "firstSeenAt": "2026-05-07T04:09:04.362Z",
     "updatedAt": "2026-05-07T04:09:04.362Z",
     "hash": "5e6adb84fbb7f312"
+  },
+  {
+    "id": "7d1167e264c98189",
+    "title": "MetaCubeX/mihomo Prerelease-Alpha",
+    "summary": "Prerelease-Alpha",
+    "rawTitle": "Prerelease-Alpha",
+    "rawBody": "Release created at  Sun Aug  2 02:23:39 CST 2026\nSynchronize Alpha branch code updates, keeping only the latest version\n<br>\n[我应该下载哪个文件? / Which file should I download?](https://github.com/MetaCubeX/mihomo/wiki/FAQ)\n[二进制文件筛选 / Binary file selector](https://metacubex.github.io/Meta-Docs/startup/#_1)\n[查看文档 / Docs](https://metacubex.github.io/Meta-Docs/)\n\n\n## What's Changed\n* fix: typo in `uplinkHTTPMethod` by @MakostaDev in https://github.com/MetaCubeX/mihomo/pull/3029\n* fix: tun dns hijack sending zero-filled or stale packets when PackBuffer reallocates by @TWO666 in https://github.com/MetaCubeX/mihomo/pull/3037\n* feat: support H2C and QUICv2 sniffing by @MakostaDev in https://github.com/MetaCubeX/mihomo/pull/3036\n* fix: echo edns0 opt in dns replies when the request carries one by @TWO666 in https://github.com/MetaCubeX/mihomo/pull/3041\n* fix: truncate udp dns replies to the client's advertised buffer size by @TWO666 in https://github.com/MetaCubeX/mihomo/pull/3043\n* chore: update mieru version by @enfein in https://github.com/MetaCubeX/mihomo/pull/3046\n* chore: remove dohMaxConnsPerHost & dohMaxIdleConns by @ayanamist in https://github.com/MetaCubeX/mihomo/pull/3048\n* perf: avoid string reversal allocation in DomainSet.Has by @Ember-Moth in https://github.com/MetaCubeX/mihomo/pull/3049\n\n## New Contributors\n* @MakostaDev made their first contribution in https://github.com/MetaCubeX/mihomo/pull/3029\n* @TWO666 made their first contribution in https://github.com/MetaCubeX/mihomo/pull/3037\n* @Ember-Moth made their first contribution in https://github.com/MetaCubeX/mihomo/pull/3049\n\n**Full Changelog**: https://github.com/MetaCubeX/mihomo/compare/v1.19.29...Prerelease-Alpha",
+    "sourceType": "github_release",
+    "sourceName": "MetaCubeX/mihomo",
+    "sourceUrl": "https://github.com/MetaCubeX/mihomo/releases/tag/Prerelease-Alpha",
+    "project": "mihomo",
+    "repo": "MetaCubeX/mihomo",
+    "slug": "mihomo",
+    "version": "Prerelease-Alpha",
+    "category": "core",
+    "tags": [
+      "mihomo",
+      "clash",
+      "meta",
+      "ech",
+      "quic",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 3,
+    "confidence": 0.85,
+    "isBreaking": true,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2024-08-12T17:01:02Z",
+    "fetchedAt": "2026-08-01T19:32:02.814Z",
+    "firstSeenAt": "2026-08-01T19:32:16.359Z",
+    "updatedAt": "2026-08-01T19:32:16.359Z",
+    "hash": "7d1167e264c98189"
   },
   {
     "id": "4dd571fff1e02563",
