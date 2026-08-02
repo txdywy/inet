@@ -1,5 +1,74 @@
 [
   {
+    "id": "742584d93d1f171d",
+    "title": "2dust/v2rayNG 2.3.2",
+    "summary": "2.3.2",
+    "rawTitle": "2.3.2",
+    "rawBody": "### [关于 跳过证书验证 allowInsecure 参数被移除的说明 ](https://github.com/2dust/v2rayN/discussions/9460)\r\n\r\n### 本次更新\r\n\r\n- 迁移到 Jetpack Compose UI , 感谢 @fuilloi  https://github.com/2dust/v2rayNG/pull/5866\r\n- 订阅分组设置中，更新订阅时可以组合多个选项进行后台任务，如果只更新订阅，则会在当前页面进行 。\r\n\r\n    1. 更新订阅\r\n    2. 更新订阅后自动测试\r\n    3. 测试后自动删除无效\r\n    4. 测试后自动排序\r\n\r\n- 添加 TCP ping 测试，有最大并发控制\r\n- 支持导入v2rayN 内部分享 `v2rayn://`\r\n- 为订阅更新添加自定义 HTTP headers ， JSON 格式内容随意，例子如下 \r\n```\r\n{\r\n  \"X-hwid\": \"my_test_device\",\r\n  \"Authorization\": \"Bearer test\"\r\n}\r\n```\r\n- 修复了一些迁移 UI 导致的问题\r\n- \r\n\r\n- [Xray-core v26.7.28](https://github.com/XTLS/Xray-core/releases/tag/v26.7.28)\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n### [发布文件介绍，不知道下载哪个文件的请看](https://github.com/2dust/v2rayNG/wiki/Release-files-introduction-for-Android)\r\n\r\n**Full Changelog**: https://github.com/2dust/v2rayNG/compare/2.2.6...2.3.1",
+    "sourceType": "github_release",
+    "sourceName": "2dust/v2rayNG",
+    "sourceUrl": "https://github.com/2dust/v2rayNG/releases/tag/2.3.2",
+    "project": "v2rayNG",
+    "repo": "2dust/v2rayNG",
+    "slug": "v2rayng",
+    "version": "2.3.2",
+    "category": "security",
+    "tags": [
+      "v2rayng",
+      "android",
+      "xray-core",
+      "release"
+    ],
+    "platforms": [
+      "android"
+    ],
+    "importance": 3,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": true,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-08-02T07:24:57Z",
+    "fetchedAt": "2026-08-02T08:38:02.291Z",
+    "firstSeenAt": "2026-08-02T08:38:12.365Z",
+    "updatedAt": "2026-08-02T08:38:12.365Z",
+    "hash": "742584d93d1f171d"
+  },
+  {
+    "id": "877b114adb1e1cad",
+    "title": "fw876/helloworld v196.7",
+    "summary": "v196.7",
+    "rawTitle": "v196.7",
+    "rawBody": "# helloworld v196.7\n\nChanges since v196.6:\n\n- luci-app-ssr-plus: bump version to v196.7 (`3194fe2`)\n- xray-core: update to 26.7.28 (`1a6edbe`)\n- luci-app-ssr-plus: Fix incorrect argument passing. (`744f2a4`)\n- luci-app-ssr-plus: Optimize the code. (`737e5d7`)\n- luci-app-ssr-plus: Add mihomo to display the version number and adjust the code format. (`89911e6`)\n- luci-app-ssr-plus: rename xray network to method. (`c7e545e`)\n- luci-app-ssr-plus: support manual fetch of xray hy2 pinnedPeerCertSha256. (`aa3506e`)\n- mihomo: update to 1.19.29 (`be46023`)\n- luci-app-ssr-plus: Adjust the update logic of the database. (`6f10005`)\n\nPackages:\n- luci-app-ssr-plus\n- xray-core\n- mihomo\n",
+    "sourceType": "github_release",
+    "sourceName": "fw876/helloworld",
+    "sourceUrl": "https://github.com/fw876/helloworld/releases/tag/v196.7",
+    "project": "helloworld",
+    "repo": "fw876/helloworld",
+    "slug": "helloworld",
+    "version": "196.7",
+    "category": "router",
+    "tags": [
+      "ssrplus",
+      "openwrt",
+      "luci",
+      "release"
+    ],
+    "platforms": [
+      "openwrt",
+      "router"
+    ],
+    "importance": 2,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-08-02T04:02:08Z",
+    "fetchedAt": "2026-08-02T08:38:05.317Z",
+    "firstSeenAt": "2026-08-02T08:38:13.178Z",
+    "updatedAt": "2026-08-02T08:38:13.178Z",
+    "hash": "877b114adb1e1cad"
+  },
+  {
     "id": "34ba097c18529a02",
     "title": "MetaCubeX/meta-rules-dat Release 2026-08-02 07:26",
     "summary": "Release 2026-08-02 07:26",
@@ -34773,6 +34842,44 @@
     "firstSeenAt": "2026-05-07T04:09:04.362Z",
     "updatedAt": "2026-05-07T04:09:04.362Z",
     "hash": "5e6adb84fbb7f312"
+  },
+  {
+    "id": "5445beb49b94c4f9",
+    "title": "MetaCubeX/mihomo Prerelease-Alpha",
+    "summary": "Prerelease-Alpha",
+    "rawTitle": "Prerelease-Alpha",
+    "rawBody": "Release created at  Sun Aug  2 12:37:45 CST 2026\nSynchronize Alpha branch code updates, keeping only the latest version\n<br>\n[我应该下载哪个文件? / Which file should I download?](https://github.com/MetaCubeX/mihomo/wiki/FAQ)\n[二进制文件筛选 / Binary file selector](https://metacubex.github.io/Meta-Docs/startup/#_1)\n[查看文档 / Docs](https://metacubex.github.io/Meta-Docs/)\n\n\n## What's Changed\n* fix: typo in `uplinkHTTPMethod` by @MakostaDev in https://github.com/MetaCubeX/mihomo/pull/3029\n* fix: tun dns hijack sending zero-filled or stale packets when PackBuffer reallocates by @TWO666 in https://github.com/MetaCubeX/mihomo/pull/3037\n* feat: support H2C and QUICv2 sniffing by @MakostaDev in https://github.com/MetaCubeX/mihomo/pull/3036\n* fix: echo edns0 opt in dns replies when the request carries one by @TWO666 in https://github.com/MetaCubeX/mihomo/pull/3041\n* fix: truncate udp dns replies to the client's advertised buffer size by @TWO666 in https://github.com/MetaCubeX/mihomo/pull/3043\n* chore: update mieru version by @enfein in https://github.com/MetaCubeX/mihomo/pull/3046\n* chore: remove dohMaxConnsPerHost & dohMaxIdleConns by @ayanamist in https://github.com/MetaCubeX/mihomo/pull/3048\n* perf: avoid string reversal allocation in DomainSet.Has by @Ember-Moth in https://github.com/MetaCubeX/mihomo/pull/3049\n\n## New Contributors\n* @MakostaDev made their first contribution in https://github.com/MetaCubeX/mihomo/pull/3029\n* @TWO666 made their first contribution in https://github.com/MetaCubeX/mihomo/pull/3037\n* @Ember-Moth made their first contribution in https://github.com/MetaCubeX/mihomo/pull/3049\n\n**Full Changelog**: https://github.com/MetaCubeX/mihomo/compare/v1.19.29...Prerelease-Alpha",
+    "sourceType": "github_release",
+    "sourceName": "MetaCubeX/mihomo",
+    "sourceUrl": "https://github.com/MetaCubeX/mihomo/releases/tag/Prerelease-Alpha",
+    "project": "mihomo",
+    "repo": "MetaCubeX/mihomo",
+    "slug": "mihomo",
+    "version": "Prerelease-Alpha",
+    "category": "core",
+    "tags": [
+      "mihomo",
+      "clash",
+      "meta",
+      "ech",
+      "quic",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 3,
+    "confidence": 0.85,
+    "isBreaking": true,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2024-08-12T17:01:02Z",
+    "fetchedAt": "2026-08-02T08:37:58.000Z",
+    "firstSeenAt": "2026-08-02T08:38:11.471Z",
+    "updatedAt": "2026-08-02T08:38:11.471Z",
+    "hash": "5445beb49b94c4f9"
   },
   {
     "id": "7d1167e264c98189",

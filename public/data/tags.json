@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 167,
+    "count": 168,
     "category": "dns_rules"
   },
   {
@@ -160,6 +160,11 @@
     "category": "core"
   },
   {
+    "tag": "release",
+    "count": 29,
+    "category": "security"
+  },
+  {
     "tag": "v2rayN",
     "count": 29,
     "category": "security"
@@ -168,11 +173,6 @@
     "tag": "自动化构建",
     "count": 29,
     "category": "ecosystem"
-  },
-  {
-    "tag": "release",
-    "count": 26,
-    "category": "dns_rules"
   },
   {
     "tag": "DNS",
@@ -345,6 +345,11 @@
     "category": "core"
   },
   {
+    "tag": "xray-core",
+    "count": 11,
+    "category": "security"
+  },
+  {
     "tag": "TUN",
     "count": 11,
     "category": "client"
@@ -373,11 +378,6 @@
     "tag": "用户体验",
     "count": 11,
     "category": "client"
-  },
-  {
-    "tag": "xray-core",
-    "count": 10,
-    "category": "security"
   },
   {
     "tag": "API",
@@ -500,7 +500,17 @@
     "category": "core"
   },
   {
+    "tag": "clash",
+    "count": 7,
+    "category": "ecosystem"
+  },
+  {
     "tag": "hysteria2",
+    "count": 7,
+    "category": "security"
+  },
+  {
+    "tag": "quic",
     "count": 7,
     "category": "security"
   },
@@ -565,12 +575,7 @@
     "category": "dns_rules"
   },
   {
-    "tag": "clash",
-    "count": 6,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "quic",
+    "tag": "ech",
     "count": 6,
     "category": "security"
   },
@@ -650,14 +655,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "meta",
+    "count": 6,
+    "category": "core"
+  },
+  {
     "tag": "openvpn",
     "count": 6,
     "category": "ecosystem"
-  },
-  {
-    "tag": "ech",
-    "count": 5,
-    "category": "security"
   },
   {
     "tag": "Avalonia",
@@ -743,11 +748,6 @@
     "tag": "juicity",
     "count": 5,
     "category": "ecosystem"
-  },
-  {
-    "tag": "meta",
-    "count": 5,
-    "category": "core"
   },
   {
     "tag": "TUIC",
@@ -888,6 +888,16 @@
     "tag": "nekoray",
     "count": 4,
     "category": "client"
+  },
+  {
+    "tag": "v2rayng",
+    "count": 3,
+    "category": "security"
+  },
+  {
+    "tag": "android",
+    "count": 3,
+    "category": "security"
   },
   {
     "tag": "CDN",
@@ -1115,19 +1125,14 @@
     "category": "protocol"
   },
   {
+    "tag": "openwrt",
+    "count": 2,
+    "category": "router"
+  },
+  {
     "tag": "dashboard",
     "count": 2,
     "category": "ecosystem"
-  },
-  {
-    "tag": "v2rayng",
-    "count": 2,
-    "category": "security"
-  },
-  {
-    "tag": "android",
-    "count": 2,
-    "category": "security"
   },
   {
     "tag": "社区",
@@ -1643,6 +1648,16 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "ssrplus",
+    "count": 1,
+    "category": "router"
+  },
+  {
+    "tag": "luci",
+    "count": 1,
+    "category": "router"
   },
   {
     "tag": "sub-store",
@@ -3253,11 +3268,6 @@
     "tag": "网络转换",
     "count": 1,
     "category": "core"
-  },
-  {
-    "tag": "openwrt",
-    "count": 1,
-    "category": "ecosystem"
   },
   {
     "tag": "Linux kernel",
