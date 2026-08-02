@@ -1,5 +1,41 @@
 [
   {
+    "id": "46ca6691311dae96",
+    "title": "go-gost/gost v3.2.7-nightly.20260802",
+    "summary": "v3.2.7-nightly.20260802",
+    "rawTitle": "v3.2.7-nightly.20260802",
+    "rawBody": "## Changelog\n* f25148f2e0e00b69b85c676d7d38750962a5ffa7 bump x to v0.15.2 (SSH authorized_keys trailing-newline fix, gost#699)\n* 960f081e53e63d0582a0c42a6446ba822ecfafb2 e2e: add UDP forward QUIC sniffing test\n* c7d793c619e3690f091dd98ac9b4085e212db26f e2e: add cmd probe recovery test (gost#837)\n\n",
+    "sourceType": "github_release",
+    "sourceName": "go-gost/gost",
+    "sourceUrl": "https://github.com/go-gost/gost/releases/tag/v3.2.7-nightly.20260802",
+    "project": "gost",
+    "repo": "go-gost/gost",
+    "slug": "gost",
+    "version": "3.2.7-nightly.20260802",
+    "category": "core",
+    "tags": [
+      "gost",
+      "tunnel",
+      "quic",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 2,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2026-08-02T15:45:38Z",
+    "fetchedAt": "2026-08-02T19:31:15.011Z",
+    "firstSeenAt": "2026-08-02T19:31:26.496Z",
+    "updatedAt": "2026-08-02T19:31:26.496Z",
+    "hash": "46ca6691311dae96"
+  },
+  {
     "id": "9a7e3b01c5f38450",
     "title": "sub-store-org/Sub-Store 2.36.28",
     "summary": "2.36.28",

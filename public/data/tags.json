@@ -150,13 +150,13 @@
     "category": "core"
   },
   {
-    "tag": "自动构建",
+    "tag": "release",
     "count": 32,
-    "category": "ecosystem"
+    "category": "core"
   },
   {
-    "tag": "release",
-    "count": 31,
+    "tag": "自动构建",
+    "count": 32,
     "category": "ecosystem"
   },
   {
@@ -445,6 +445,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "quic",
+    "count": 8,
+    "category": "core"
+  },
+  {
     "tag": "更新",
     "count": 8,
     "category": "client"
@@ -506,11 +511,6 @@
   },
   {
     "tag": "hysteria2",
-    "count": 7,
-    "category": "security"
-  },
-  {
-    "tag": "quic",
     "count": 7,
     "category": "security"
   },
@@ -663,6 +663,11 @@
     "tag": "openvpn",
     "count": 6,
     "category": "ecosystem"
+  },
+  {
+    "tag": "gost",
+    "count": 5,
+    "category": "core"
   },
   {
     "tag": "Avalonia",
@@ -838,11 +843,6 @@
     "tag": "域名管理",
     "count": 4,
     "category": "ecosystem"
-  },
-  {
-    "tag": "gost",
-    "count": 4,
-    "category": "core"
   },
   {
     "tag": "go-gost/x",
@@ -1658,6 +1658,11 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "tunnel",
+    "count": 1,
+    "category": "core"
   },
   {
     "tag": "ssrplus",
