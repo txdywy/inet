@@ -11,8 +11,8 @@
   },
   {
     "tag": "mihomo",
-    "count": 166,
-    "category": "ecosystem"
+    "count": 167,
+    "category": "dns_rules"
   },
   {
     "tag": "Sub-Store",
@@ -170,6 +170,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "release",
+    "count": 26,
+    "category": "dns_rules"
+  },
+  {
     "tag": "DNS",
     "count": 26,
     "category": "dns_rules"
@@ -178,11 +183,6 @@
     "tag": "网络工具",
     "count": 25,
     "category": "ecosystem"
-  },
-  {
-    "tag": "release",
-    "count": 24,
-    "category": "dns_rules"
   },
   {
     "tag": "HTTP/2",
@@ -290,6 +290,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "geosite",
+    "count": 14,
+    "category": "dns_rules"
+  },
+  {
     "tag": "v2rayA",
     "count": 14,
     "category": "client"
@@ -333,11 +338,6 @@
     "tag": "SOCKS",
     "count": 13,
     "category": "client"
-  },
-  {
-    "tag": "geosite",
-    "count": 12,
-    "category": "dns_rules"
   },
   {
     "tag": "HTTP",
@@ -555,6 +555,16 @@
     "category": "ecosystem"
   },
   {
+    "tag": "ruleset",
+    "count": 6,
+    "category": "dns_rules"
+  },
+  {
+    "tag": "geoip",
+    "count": 6,
+    "category": "dns_rules"
+  },
+  {
     "tag": "clash",
     "count": 6,
     "category": "ecosystem"
@@ -753,16 +763,6 @@
     "tag": "subconverter",
     "count": 5,
     "category": "ecosystem"
-  },
-  {
-    "tag": "ruleset",
-    "count": 4,
-    "category": "dns_rules"
-  },
-  {
-    "tag": "geoip",
-    "count": 4,
-    "category": "dns_rules"
   },
   {
     "tag": "中间人攻击",

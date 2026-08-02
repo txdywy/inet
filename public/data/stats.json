@@ -1,13 +1,13 @@
 {
-  "totalItems": 1211,
-  "last24h": 10,
+  "totalItems": 1213,
+  "last24h": 9,
   "last7d": 57,
   "byCategory": {
     "core": 197,
     "client": 243,
     "router": 1,
     "protocol": 57,
-    "dns_rules": 36,
+    "dns_rules": 38,
     "security": 22,
     "ecosystem": 655,
     "trend": 0
@@ -27,11 +27,11 @@
     },
     {
       "project": "v2ray-rules-dat",
-      "count": 93
+      "count": 94
     },
     {
       "project": "meta-rules-dat",
-      "count": 90
+      "count": 91
     },
     {
       "project": "metacubexd",
@@ -65,7 +65,7 @@
     },
     {
       "tag": "mihomo",
-      "count": 166
+      "count": 167
     },
     {
       "tag": "Sub-Store",
@@ -136,8 +136,8 @@
       "count": 44
     }
   ],
-  "importantCount": 301,
+  "importantCount": 303,
   "breakingCount": 50,
   "securityCount": 76,
-  "updatedAt": "2026-08-01T19:32:18.557Z"
+  "updatedAt": "2026-08-02T03:55:51.027Z"
 }
