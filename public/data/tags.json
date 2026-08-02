@@ -155,14 +155,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "release",
+    "count": 31,
+    "category": "ecosystem"
+  },
+  {
     "tag": "Tailscale",
     "count": 30,
     "category": "core"
-  },
-  {
-    "tag": "release",
-    "count": 29,
-    "category": "security"
   },
   {
     "tag": "v2rayN",
@@ -340,14 +340,14 @@
     "category": "client"
   },
   {
+    "tag": "xray-core",
+    "count": 12,
+    "category": "security"
+  },
+  {
     "tag": "HTTP",
     "count": 12,
     "category": "core"
-  },
-  {
-    "tag": "xray-core",
-    "count": 11,
-    "category": "security"
   },
   {
     "tag": "TUN",
@@ -1005,6 +1005,16 @@
     "category": "protocol"
   },
   {
+    "tag": "x-ui",
+    "count": 3,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "panel",
+    "count": 3,
+    "category": "ecosystem"
+  },
+  {
     "tag": "开发版",
     "count": 3,
     "category": "ecosystem"
@@ -1123,6 +1133,16 @@
     "tag": "protocol",
     "count": 3,
     "category": "protocol"
+  },
+  {
+    "tag": "sub-store",
+    "count": 2,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "subscription",
+    "count": 2,
+    "category": "ecosystem"
   },
   {
     "tag": "openwrt",
@@ -1351,16 +1371,6 @@
   },
   {
     "tag": "客户端管理",
-    "count": 2,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "x-ui",
-    "count": 2,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "panel",
     "count": 2,
     "category": "ecosystem"
   },
@@ -1658,16 +1668,6 @@
     "tag": "luci",
     "count": 1,
     "category": "router"
-  },
-  {
-    "tag": "sub-store",
-    "count": 1,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "subscription",
-    "count": 1,
-    "category": "ecosystem"
   },
   {
     "tag": "yandex",

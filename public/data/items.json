@@ -1,5 +1,42 @@
 [
   {
+    "id": "9a7e3b01c5f38450",
+    "title": "sub-store-org/Sub-Store 2.36.28",
+    "summary": "2.36.28",
+    "rawTitle": "2.36.28",
+    "rawBody": "## <small>2.36.28 (2026-08-02)</small>\n\n* feat: 支持单条订阅和组合订阅配置 \"不查询订阅流量信息\"; 支持订阅链接参数传入 `noFlow` 强制指定 \"不查询订阅流量信息\" ([2700c8c](https://github.com/sub-store-org/Sub-Store/commit/2700c8c))\n",
+    "sourceType": "github_release",
+    "sourceName": "sub-store-org/Sub-Store",
+    "sourceUrl": "https://github.com/sub-store-org/Sub-Store/releases/tag/2.36.28",
+    "project": "Sub-Store",
+    "repo": "sub-store-org/Sub-Store",
+    "slug": "sub-store",
+    "version": "2.36.28",
+    "category": "ecosystem",
+    "tags": [
+      "sub-store",
+      "subscription",
+      "release"
+    ],
+    "platforms": [
+      "ios",
+      "android",
+      "macos",
+      "windows",
+      "linux"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-08-02T11:08:16Z",
+    "fetchedAt": "2026-08-02T13:58:56.088Z",
+    "firstSeenAt": "2026-08-02T13:59:01.074Z",
+    "updatedAt": "2026-08-02T13:59:01.074Z",
+    "hash": "9a7e3b01c5f38450"
+  },
+  {
     "id": "742584d93d1f171d",
     "title": "2dust/v2rayNG 2.3.2",
     "summary": "2.3.2",
@@ -11398,6 +11435,40 @@
     "firstSeenAt": "2026-06-25T04:36:16.426Z",
     "updatedAt": "2026-06-25T04:36:16.426Z",
     "hash": "e54a070ca4e6a5bf"
+  },
+  {
+    "id": "e1a8c8c89d252747",
+    "title": "MHSanaei/3x-ui Dev build 216d18b3",
+    "summary": "Dev build 216d18b3",
+    "rawTitle": "Dev build 216d18b3",
+    "rawBody": "Rolling development build — installs via the panel's Dev update channel.\n\ncommit=216d18b3c428ed50147ea10a90400d99af0cd052\nbuilt=2026-08-02T12:43:13Z\n\nAutomated per-commit build from main. Not a stable release.",
+    "sourceType": "github_release",
+    "sourceName": "MHSanaei/3x-ui",
+    "sourceUrl": "https://github.com/MHSanaei/3x-ui/releases/tag/dev-latest",
+    "project": "3x-ui",
+    "repo": "MHSanaei/3x-ui",
+    "slug": "3x-ui",
+    "version": "dev-latest",
+    "category": "ecosystem",
+    "tags": [
+      "x-ui",
+      "panel",
+      "xray-core",
+      "release"
+    ],
+    "platforms": [
+      "linux"
+    ],
+    "importance": 4,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2026-06-24T16:17:06Z",
+    "fetchedAt": "2026-08-02T13:58:56.076Z",
+    "firstSeenAt": "2026-08-02T13:58:59.771Z",
+    "updatedAt": "2026-08-02T13:58:59.771Z",
+    "hash": "e1a8c8c89d252747"
   },
   {
     "id": "b85525c060cbc426",

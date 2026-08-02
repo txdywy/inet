@@ -1,6 +1,6 @@
 {
-  "totalItems": 1216,
-  "last24h": 8,
+  "totalItems": 1218,
+  "last24h": 7,
   "last7d": 58,
   "byCategory": {
     "core": 198,
@@ -9,7 +9,7 @@
     "protocol": 57,
     "dns_rules": 38,
     "security": 23,
-    "ecosystem": 655,
+    "ecosystem": 657,
     "trend": 0
   },
   "topProjects": [
@@ -23,7 +23,7 @@
     },
     {
       "project": "Sub-Store",
-      "count": 118
+      "count": 119
     },
     {
       "project": "v2ray-rules-dat",
@@ -39,7 +39,7 @@
     },
     {
       "project": "3x-ui",
-      "count": 85
+      "count": 86
     },
     {
       "project": "sing-box",
@@ -136,8 +136,8 @@
       "count": 44
     }
   ],
-  "importantCount": 303,
+  "importantCount": 305,
   "breakingCount": 51,
   "securityCount": 77,
-  "updatedAt": "2026-08-02T08:38:13.602Z"
+  "updatedAt": "2026-08-02T13:59:01.514Z"
 }
