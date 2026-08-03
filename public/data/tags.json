@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 170,
+    "count": 171,
     "category": "dns_rules"
   },
   {
@@ -76,8 +76,8 @@
   },
   {
     "tag": "sing-box",
-    "count": 51,
-    "category": "core"
+    "count": 53,
+    "category": "security"
   },
   {
     "tag": "Android",
@@ -115,6 +115,11 @@
     "category": "core"
   },
   {
+    "tag": "release",
+    "count": 39,
+    "category": "security"
+  },
+  {
     "tag": "Linux",
     "count": 38,
     "category": "client"
@@ -123,11 +128,6 @@
     "tag": "Windows",
     "count": 38,
     "category": "client"
-  },
-  {
-    "tag": "release",
-    "count": 36,
-    "category": "dns_rules"
   },
   {
     "tag": "go-gost",
@@ -285,6 +285,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "naiveproxy",
+    "count": 15,
+    "category": "security"
+  },
+  {
     "tag": "xray",
     "count": 15,
     "category": "security"
@@ -301,11 +306,6 @@
   },
   {
     "tag": "性能优化",
-    "count": 14,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "naiveproxy",
     "count": 14,
     "category": "ecosystem"
   },
@@ -350,6 +350,11 @@
     "category": "core"
   },
   {
+    "tag": "quic",
+    "count": 11,
+    "category": "core"
+  },
+  {
     "tag": "TUN",
     "count": 11,
     "category": "client"
@@ -380,9 +385,9 @@
     "category": "client"
   },
   {
-    "tag": "quic",
+    "tag": "vless",
     "count": 10,
-    "category": "core"
+    "category": "security"
   },
   {
     "tag": "API",
@@ -403,6 +408,16 @@
     "tag": "dns",
     "count": 10,
     "category": "dns_rules"
+  },
+  {
+    "tag": "hysteria2",
+    "count": 9,
+    "category": "security"
+  },
+  {
+    "tag": "clash",
+    "count": 9,
+    "category": "ecosystem"
   },
   {
     "tag": "配置管理",
@@ -445,9 +460,19 @@
     "category": "client"
   },
   {
+    "tag": "xhttp",
+    "count": 9,
+    "category": "client"
+  },
+  {
     "tag": "CBC",
     "count": 9,
     "category": "ecosystem"
+  },
+  {
+    "tag": "tuic",
+    "count": 8,
+    "category": "security"
   },
   {
     "tag": "ruleset",
@@ -465,14 +490,9 @@
     "category": "core"
   },
   {
-    "tag": "vless",
+    "tag": "ech",
     "count": 8,
-    "category": "core"
-  },
-  {
-    "tag": "clash",
-    "count": 8,
-    "category": "ecosystem"
+    "category": "security"
   },
   {
     "tag": "更新",
@@ -515,9 +535,9 @@
     "category": "client"
   },
   {
-    "tag": "xhttp",
+    "tag": "meta",
     "count": 8,
-    "category": "client"
+    "category": "core"
   },
   {
     "tag": "H2C",
@@ -528,16 +548,6 @@
     "tag": "QUICv2",
     "count": 8,
     "category": "core"
-  },
-  {
-    "tag": "hysteria2",
-    "count": 7,
-    "category": "security"
-  },
-  {
-    "tag": "ech",
-    "count": 7,
-    "category": "security"
   },
   {
     "tag": "Shadowrocket",
@@ -578,16 +588,6 @@
     "tag": "shadowsocks",
     "count": 7,
     "category": "ecosystem"
-  },
-  {
-    "tag": "meta",
-    "count": 7,
-    "category": "core"
-  },
-  {
-    "tag": "tuic",
-    "count": 6,
-    "category": "core"
   },
   {
     "tag": "安全更新",
@@ -888,6 +888,11 @@
     "tag": "nekoray",
     "count": 4,
     "category": "client"
+  },
+  {
+    "tag": "anytls",
+    "count": 3,
+    "category": "security"
   },
   {
     "tag": "v2rayng",
@@ -3838,11 +3843,6 @@
     "tag": "GostRelay",
     "count": 1,
     "category": "client"
-  },
-  {
-    "tag": "anytls",
-    "count": 1,
-    "category": "core"
   },
   {
     "tag": "udp",
