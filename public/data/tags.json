@@ -116,7 +116,7 @@
   },
   {
     "tag": "release",
-    "count": 39,
+    "count": 40,
     "category": "security"
   },
   {
@@ -770,6 +770,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "anytls",
+    "count": 4,
+    "category": "security"
+  },
+  {
     "tag": "中间人攻击",
     "count": 4,
     "category": "security"
@@ -890,7 +895,12 @@
     "category": "client"
   },
   {
-    "tag": "anytls",
+    "tag": "sub-store",
+    "count": 3,
+    "category": "security"
+  },
+  {
+    "tag": "subscription",
     "count": 3,
     "category": "security"
   },
@@ -1143,16 +1153,6 @@
     "tag": "grpc",
     "count": 2,
     "category": "core"
-  },
-  {
-    "tag": "sub-store",
-    "count": 2,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "subscription",
-    "count": 2,
-    "category": "ecosystem"
   },
   {
     "tag": "openwrt",

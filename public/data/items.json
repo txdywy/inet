@@ -1,5 +1,43 @@
 [
   {
+    "id": "be77d8df4bee818b",
+    "title": "sub-store-org/Sub-Store 2.36.29",
+    "summary": "2.36.29",
+    "rawTitle": "2.36.29",
+    "rawBody": "## <small>2.36.29 (2026-08-03)</small>\n\n* feat: sing-box 支持 AnyTLS `client_metadata` 字段(通过节点字段 `client-metadata` 设置) ([a4c8741](https://github.com/sub-store-org/Sub-Store/commit/a4c8741))\n",
+    "sourceType": "github_release",
+    "sourceName": "sub-store-org/Sub-Store",
+    "sourceUrl": "https://github.com/sub-store-org/Sub-Store/releases/tag/2.36.29",
+    "project": "Sub-Store",
+    "repo": "sub-store-org/Sub-Store",
+    "slug": "sub-store",
+    "version": "2.36.29",
+    "category": "security",
+    "tags": [
+      "sub-store",
+      "subscription",
+      "anytls",
+      "release"
+    ],
+    "platforms": [
+      "ios",
+      "android",
+      "macos",
+      "windows",
+      "linux"
+    ],
+    "importance": 5,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": true,
+    "isProtocolRelated": true,
+    "publishedAt": "2026-08-03T16:44:40Z",
+    "fetchedAt": "2026-08-03T19:54:45.382Z",
+    "firstSeenAt": "2026-08-03T19:54:48.741Z",
+    "updatedAt": "2026-08-03T19:54:48.741Z",
+    "hash": "be77d8df4bee818b"
+  },
+  {
     "id": "61a027bf594269a7",
     "title": "SagerNet/sing-box 1.13.16",
     "summary": "1.13.16",

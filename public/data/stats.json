@@ -1,5 +1,5 @@
 {
-  "totalItems": 1226,
+  "totalItems": 1227,
   "last24h": 6,
   "last7d": 57,
   "byCategory": {
@@ -8,7 +8,7 @@
     "router": 2,
     "protocol": 57,
     "dns_rules": 40,
-    "security": 25,
+    "security": 26,
     "ecosystem": 657,
     "trend": 0
   },
@@ -23,7 +23,7 @@
     },
     {
       "project": "Sub-Store",
-      "count": 119
+      "count": 120
     },
     {
       "project": "v2ray-rules-dat",
@@ -136,8 +136,8 @@
       "count": 44
     }
   ],
-  "importantCount": 309,
+  "importantCount": 310,
   "breakingCount": 55,
-  "securityCount": 79,
-  "updatedAt": "2026-08-03T15:18:51.830Z"
+  "securityCount": 80,
+  "updatedAt": "2026-08-03T19:54:49.170Z"
 }
