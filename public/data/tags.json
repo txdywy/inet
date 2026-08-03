@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 169,
+    "count": 170,
     "category": "dns_rules"
   },
   {
@@ -125,14 +125,14 @@
     "category": "client"
   },
   {
+    "tag": "release",
+    "count": 36,
+    "category": "dns_rules"
+  },
+  {
     "tag": "go-gost",
     "count": 36,
     "category": "core"
-  },
-  {
-    "tag": "release",
-    "count": 35,
-    "category": "dns_rules"
   },
   {
     "tag": "WireGuard",
@@ -380,6 +380,11 @@
     "category": "client"
   },
   {
+    "tag": "quic",
+    "count": 10,
+    "category": "core"
+  },
+  {
     "tag": "API",
     "count": 10,
     "category": "ecosystem"
@@ -398,11 +403,6 @@
     "tag": "dns",
     "count": 10,
     "category": "dns_rules"
-  },
-  {
-    "tag": "quic",
-    "count": 9,
-    "category": "core"
   },
   {
     "tag": "配置管理",
@@ -470,6 +470,11 @@
     "category": "core"
   },
   {
+    "tag": "clash",
+    "count": 8,
+    "category": "ecosystem"
+  },
+  {
     "tag": "更新",
     "count": 8,
     "category": "client"
@@ -525,12 +530,12 @@
     "category": "core"
   },
   {
-    "tag": "clash",
+    "tag": "hysteria2",
     "count": 7,
-    "category": "ecosystem"
+    "category": "security"
   },
   {
-    "tag": "hysteria2",
+    "tag": "ech",
     "count": 7,
     "category": "security"
   },
@@ -575,9 +580,9 @@
     "category": "ecosystem"
   },
   {
-    "tag": "ech",
-    "count": 6,
-    "category": "security"
+    "tag": "meta",
+    "count": 7,
+    "category": "core"
   },
   {
     "tag": "tuic",
@@ -653,11 +658,6 @@
     "tag": "clash-verge-rev",
     "count": 6,
     "category": "ecosystem"
-  },
-  {
-    "tag": "meta",
-    "count": 6,
-    "category": "core"
   },
   {
     "tag": "openvpn",

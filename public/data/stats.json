@@ -1,9 +1,9 @@
 {
-  "totalItems": 1222,
-  "last24h": 7,
-  "last7d": 58,
+  "totalItems": 1223,
+  "last24h": 5,
+  "last7d": 57,
   "byCategory": {
-    "core": 200,
+    "core": 201,
     "client": 243,
     "router": 2,
     "protocol": 57,
@@ -19,7 +19,7 @@
     },
     {
       "project": "mihomo",
-      "count": 153
+      "count": 154
     },
     {
       "project": "Sub-Store",
@@ -65,7 +65,7 @@
     },
     {
       "tag": "mihomo",
-      "count": 169
+      "count": 170
     },
     {
       "tag": "Sub-Store",
@@ -137,7 +137,7 @@
     }
   ],
   "importantCount": 307,
-  "breakingCount": 51,
+  "breakingCount": 52,
   "securityCount": 77,
-  "updatedAt": "2026-08-03T03:58:16.193Z"
+  "updatedAt": "2026-08-03T10:08:02.671Z"
 }
