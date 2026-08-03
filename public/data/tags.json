@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 168,
+    "count": 169,
     "category": "dns_rules"
   },
   {
@@ -130,6 +130,11 @@
     "category": "core"
   },
   {
+    "tag": "release",
+    "count": 35,
+    "category": "dns_rules"
+  },
+  {
     "tag": "WireGuard",
     "count": 34,
     "category": "core"
@@ -147,11 +152,6 @@
   {
     "tag": "xhttp-opts",
     "count": 33,
-    "category": "core"
-  },
-  {
-    "tag": "release",
-    "count": 32,
     "category": "core"
   },
   {
@@ -260,6 +260,11 @@
     "category": "client"
   },
   {
+    "tag": "geosite",
+    "count": 16,
+    "category": "dns_rules"
+  },
+  {
     "tag": "域名",
     "count": 16,
     "category": "ecosystem"
@@ -288,11 +293,6 @@
     "tag": "网络规则",
     "count": 15,
     "category": "ecosystem"
-  },
-  {
-    "tag": "geosite",
-    "count": 14,
-    "category": "dns_rules"
   },
   {
     "tag": "v2rayA",
@@ -400,6 +400,11 @@
     "category": "dns_rules"
   },
   {
+    "tag": "quic",
+    "count": 9,
+    "category": "core"
+  },
+  {
     "tag": "配置管理",
     "count": 9,
     "category": "ecosystem"
@@ -445,7 +450,22 @@
     "category": "ecosystem"
   },
   {
-    "tag": "quic",
+    "tag": "ruleset",
+    "count": 8,
+    "category": "dns_rules"
+  },
+  {
+    "tag": "geoip",
+    "count": 8,
+    "category": "dns_rules"
+  },
+  {
+    "tag": "v2ray-core",
+    "count": 8,
+    "category": "core"
+  },
+  {
+    "tag": "vless",
     "count": 8,
     "category": "core"
   },
@@ -515,11 +535,6 @@
     "category": "security"
   },
   {
-    "tag": "vless",
-    "count": 7,
-    "category": "core"
-  },
-  {
     "tag": "Shadowrocket",
     "count": 7,
     "category": "client"
@@ -533,11 +548,6 @@
     "tag": "shadow-tls",
     "count": 7,
     "category": "ecosystem"
-  },
-  {
-    "tag": "v2ray-core",
-    "count": 7,
-    "category": "core"
   },
   {
     "tag": "网络安全",
@@ -563,16 +573,6 @@
     "tag": "shadowsocks",
     "count": 7,
     "category": "ecosystem"
-  },
-  {
-    "tag": "ruleset",
-    "count": 6,
-    "category": "dns_rules"
-  },
-  {
-    "tag": "geoip",
-    "count": 6,
-    "category": "dns_rules"
   },
   {
     "tag": "ech",
@@ -1133,6 +1133,11 @@
     "tag": "protocol",
     "count": 3,
     "category": "protocol"
+  },
+  {
+    "tag": "grpc",
+    "count": 2,
+    "category": "core"
   },
   {
     "tag": "sub-store",
@@ -3848,11 +3853,6 @@
     "tag": "bpf",
     "count": 1,
     "category": "core"
-  },
-  {
-    "tag": "grpc",
-    "count": 1,
-    "category": "client"
   },
   {
     "tag": "bypass",
