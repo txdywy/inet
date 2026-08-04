@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 172,
+    "count": 173,
     "category": "dns_rules"
   },
   {
@@ -45,14 +45,14 @@
     "category": "client"
   },
   {
+    "tag": "domain-list",
+    "count": 82,
+    "category": "dns_rules"
+  },
+  {
     "tag": "metacubexd",
     "count": 82,
     "category": "client"
-  },
-  {
-    "tag": "domain-list",
-    "count": 80,
-    "category": "dns_rules"
   },
   {
     "tag": "OpenVPN",
@@ -86,7 +86,7 @@
   },
   {
     "tag": "release",
-    "count": 47,
+    "count": 50,
     "category": "dns_rules"
   },
   {
@@ -185,6 +185,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "geosite",
+    "count": 24,
+    "category": "dns_rules"
+  },
+  {
     "tag": "HTTP/2",
     "count": 24,
     "category": "protocol"
@@ -198,11 +203,6 @@
     "tag": "VLESS",
     "count": 23,
     "category": "ecosystem"
-  },
-  {
-    "tag": "geosite",
-    "count": 22,
-    "category": "dns_rules"
   },
   {
     "tag": "用户界面",
@@ -340,6 +340,11 @@
     "category": "client"
   },
   {
+    "tag": "quic",
+    "count": 12,
+    "category": "core"
+  },
+  {
     "tag": "xray-core",
     "count": 12,
     "category": "security"
@@ -347,11 +352,6 @@
   {
     "tag": "HTTP",
     "count": 12,
-    "category": "core"
-  },
-  {
-    "tag": "quic",
-    "count": 11,
     "category": "core"
   },
   {
@@ -400,6 +400,11 @@
     "category": "security"
   },
   {
+    "tag": "clash",
+    "count": 10,
+    "category": "ecosystem"
+  },
+  {
     "tag": "API",
     "count": 10,
     "category": "ecosystem"
@@ -420,14 +425,19 @@
     "category": "dns_rules"
   },
   {
+    "tag": "xhttp",
+    "count": 10,
+    "category": "client"
+  },
+  {
     "tag": "hysteria2",
     "count": 9,
     "category": "security"
   },
   {
-    "tag": "clash",
+    "tag": "ech",
     "count": 9,
-    "category": "ecosystem"
+    "category": "security"
   },
   {
     "tag": "配置管理",
@@ -470,9 +480,9 @@
     "category": "client"
   },
   {
-    "tag": "xhttp",
+    "tag": "meta",
     "count": 9,
-    "category": "client"
+    "category": "core"
   },
   {
     "tag": "CBC",
@@ -488,11 +498,6 @@
     "tag": "v2ray-core",
     "count": 8,
     "category": "core"
-  },
-  {
-    "tag": "ech",
-    "count": 8,
-    "category": "security"
   },
   {
     "tag": "更新",
@@ -533,11 +538,6 @@
     "tag": "Mihomo",
     "count": 8,
     "category": "client"
-  },
-  {
-    "tag": "meta",
-    "count": 8,
-    "category": "core"
   },
   {
     "tag": "H2C",

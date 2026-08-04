@@ -1,13 +1,13 @@
 {
-  "totalItems": 1234,
-  "last24h": 10,
-  "last7d": 62,
+  "totalItems": 1237,
+  "last24h": 12,
+  "last7d": 63,
   "byCategory": {
-    "core": 202,
+    "core": 203,
     "client": 243,
     "router": 2,
     "protocol": 57,
-    "dns_rules": 46,
+    "dns_rules": 48,
     "security": 26,
     "ecosystem": 658,
     "trend": 0
@@ -15,11 +15,11 @@
   "topProjects": [
     {
       "project": "domain-list-community",
-      "count": 210
+      "count": 212
     },
     {
       "project": "mihomo",
-      "count": 155
+      "count": 156
     },
     {
       "project": "Sub-Store",
@@ -65,7 +65,7 @@
     },
     {
       "tag": "mihomo",
-      "count": 172
+      "count": 173
     },
     {
       "tag": "Sub-Store",
@@ -92,12 +92,12 @@
       "count": 83
     },
     {
-      "tag": "metacubexd",
+      "tag": "domain-list",
       "count": 82
     },
     {
-      "tag": "domain-list",
-      "count": 80
+      "tag": "metacubexd",
+      "count": 82
     },
     {
       "tag": "OpenVPN",
@@ -125,7 +125,7 @@
     },
     {
       "tag": "release",
-      "count": 47
+      "count": 50
     },
     {
       "tag": "开源",
@@ -136,8 +136,8 @@
       "count": 46
     }
   ],
-  "importantCount": 317,
-  "breakingCount": 55,
+  "importantCount": 318,
+  "breakingCount": 56,
   "securityCount": 80,
-  "updatedAt": "2026-08-04T03:41:21.111Z"
+  "updatedAt": "2026-08-04T09:11:50.549Z"
 }
