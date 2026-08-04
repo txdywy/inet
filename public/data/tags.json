@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 171,
+    "count": 172,
     "category": "dns_rules"
   },
   {
@@ -50,14 +50,14 @@
     "category": "client"
   },
   {
+    "tag": "domain-list",
+    "count": 80,
+    "category": "dns_rules"
+  },
+  {
     "tag": "OpenVPN",
     "count": 80,
     "category": "protocol"
-  },
-  {
-    "tag": "domain-list",
-    "count": 76,
-    "category": "dns_rules"
   },
   {
     "tag": "网络代理",
@@ -83,6 +83,11 @@
     "tag": "Android",
     "count": 51,
     "category": "client"
+  },
+  {
+    "tag": "release",
+    "count": 47,
+    "category": "dns_rules"
   },
   {
     "tag": "开源",
@@ -113,11 +118,6 @@
     "tag": "SagerNet",
     "count": 41,
     "category": "core"
-  },
-  {
-    "tag": "release",
-    "count": 40,
-    "category": "security"
   },
   {
     "tag": "Linux",
@@ -200,6 +200,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "geosite",
+    "count": 22,
+    "category": "dns_rules"
+  },
+  {
     "tag": "用户界面",
     "count": 22,
     "category": "client"
@@ -258,11 +263,6 @@
     "tag": "TLSAuth",
     "count": 17,
     "category": "client"
-  },
-  {
-    "tag": "geosite",
-    "count": 16,
-    "category": "dns_rules"
   },
   {
     "tag": "域名",
@@ -385,6 +385,16 @@
     "category": "client"
   },
   {
+    "tag": "ruleset",
+    "count": 10,
+    "category": "dns_rules"
+  },
+  {
+    "tag": "geoip",
+    "count": 10,
+    "category": "dns_rules"
+  },
+  {
     "tag": "vless",
     "count": 10,
     "category": "security"
@@ -473,16 +483,6 @@
     "tag": "tuic",
     "count": 8,
     "category": "security"
-  },
-  {
-    "tag": "ruleset",
-    "count": 8,
-    "category": "dns_rules"
-  },
-  {
-    "tag": "geoip",
-    "count": 8,
-    "category": "dns_rules"
   },
   {
     "tag": "v2ray-core",
@@ -1150,6 +1150,16 @@
     "category": "protocol"
   },
   {
+    "tag": "tailscale",
+    "count": 2,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "wireguard",
+    "count": 2,
+    "category": "ecosystem"
+  },
+  {
     "tag": "grpc",
     "count": 2,
     "category": "core"
@@ -1670,6 +1680,11 @@
     "category": "security"
   },
   {
+    "tag": "mesh",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
     "tag": "tunnel",
     "count": 1,
     "category": "core"
@@ -1718,16 +1733,6 @@
     "tag": "client_name",
     "count": 1,
     "category": "client"
-  },
-  {
-    "tag": "tailscale",
-    "count": 1,
-    "category": "core"
-  },
-  {
-    "tag": "wireguard",
-    "count": 1,
-    "category": "core"
   },
   {
     "tag": "药店",

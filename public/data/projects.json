@@ -283,6 +283,25 @@
     ]
   },
   {
+    "slug": "tailscale",
+    "name": "tailscale",
+    "repo": "tailscale/tailscale",
+    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
+    "category": "ecosystem",
+    "platforms": [
+      "linux",
+      "windows",
+      "macos",
+      "android",
+      "ios"
+    ],
+    "tags": [
+      "tailscale",
+      "wireguard",
+      "mesh"
+    ]
+  },
+  {
     "slug": "v2ray-core",
     "name": "v2ray-core",
     "repo": "v2fly/v2ray-core",
@@ -328,25 +347,6 @@
       "ssrplus",
       "openwrt",
       "luci"
-    ]
-  },
-  {
-    "slug": "tailscale",
-    "name": "tailscale",
-    "repo": "tailscale/tailscale",
-    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
-    "category": "ecosystem",
-    "platforms": [
-      "linux",
-      "windows",
-      "macos",
-      "android",
-      "ios"
-    ],
-    "tags": [
-      "tailscale",
-      "wireguard",
-      "mesh"
     ]
   },
   {
