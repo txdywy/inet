@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 174,
+    "count": 175,
     "category": "dns_rules"
   },
   {
@@ -76,7 +76,7 @@
   },
   {
     "tag": "release",
-    "count": 54,
+    "count": 55,
     "category": "dns_rules"
   },
   {
@@ -300,6 +300,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "quic",
+    "count": 14,
+    "category": "core"
+  },
+  {
     "tag": "v2rayA",
     "count": 14,
     "category": "client"
@@ -325,11 +330,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "quic",
-    "count": 13,
-    "category": "core"
-  },
-  {
     "tag": "xray-core",
     "count": 13,
     "category": "security"
@@ -350,14 +350,24 @@
     "category": "client"
   },
   {
+    "tag": "clash",
+    "count": 12,
+    "category": "ecosystem"
+  },
+  {
     "tag": "HTTP",
     "count": 12,
     "category": "core"
   },
   {
-    "tag": "clash",
+    "tag": "xhttp",
+    "count": 12,
+    "category": "client"
+  },
+  {
+    "tag": "ech",
     "count": 11,
-    "category": "ecosystem"
+    "category": "security"
   },
   {
     "tag": "TUN",
@@ -390,9 +400,9 @@
     "category": "client"
   },
   {
-    "tag": "xhttp",
+    "tag": "meta",
     "count": 11,
-    "category": "client"
+    "category": "core"
   },
   {
     "tag": "ruleset",
@@ -406,11 +416,6 @@
   },
   {
     "tag": "vless",
-    "count": 10,
-    "category": "security"
-  },
-  {
-    "tag": "ech",
     "count": 10,
     "category": "security"
   },
@@ -433,11 +438,6 @@
     "tag": "dns",
     "count": 10,
     "category": "dns_rules"
-  },
-  {
-    "tag": "meta",
-    "count": 10,
-    "category": "core"
   },
   {
     "tag": "hysteria2",
