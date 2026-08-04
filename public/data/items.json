@@ -1,5 +1,75 @@
 [
   {
+    "id": "989efe7b6260c643",
+    "title": "v2fly/domain-list-community 20260804102240",
+    "summary": "20260804102240",
+    "rawTitle": "20260804102240",
+    "rawBody": "## What's Changed\n* Fix panic and rule loss in list parsing/resolution by @Loyalsoldier with @Copilot in https://github.com/v2fly/domain-list-community/pull/3905\n\n## New Contributors\n* @Loyalsoldier with @Copilot made their first contribution in https://github.com/v2fly/domain-list-community/pull/3905\n\n**Full Changelog**: https://github.com/v2fly/domain-list-community/compare/20260804095434...20260804102240",
+    "sourceType": "github_release",
+    "sourceName": "v2fly/domain-list-community",
+    "sourceUrl": "https://github.com/v2fly/domain-list-community/releases/tag/20260804102240",
+    "project": "domain-list-community",
+    "repo": "v2fly/domain-list-community",
+    "slug": "domain-list-community",
+    "version": "20260804102240",
+    "category": "dns_rules",
+    "tags": [
+      "geosite",
+      "domain-list",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-08-04T10:22:47Z",
+    "fetchedAt": "2026-08-04T14:41:18.079Z",
+    "firstSeenAt": "2026-08-04T14:41:20.416Z",
+    "updatedAt": "2026-08-04T14:41:20.416Z",
+    "hash": "989efe7b6260c643"
+  },
+  {
+    "id": "e86a8772dfe7b350",
+    "title": "v2fly/domain-list-community 20260804095434",
+    "summary": "20260804095434",
+    "rawTitle": "20260804095434",
+    "rawBody": "## What's Changed\n* Add sonemic list (Rate Your Music, Glitchwave) by @tikhonp in https://github.com/v2fly/domain-list-community/pull/3899\n\n\n**Full Changelog**: https://github.com/v2fly/domain-list-community/compare/20260804035612...20260804095434",
+    "sourceType": "github_release",
+    "sourceName": "v2fly/domain-list-community",
+    "sourceUrl": "https://github.com/v2fly/domain-list-community/releases/tag/20260804095434",
+    "project": "domain-list-community",
+    "repo": "v2fly/domain-list-community",
+    "slug": "domain-list-community",
+    "version": "20260804095434",
+    "category": "dns_rules",
+    "tags": [
+      "geosite",
+      "domain-list",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-08-04T09:54:44Z",
+    "fetchedAt": "2026-08-04T14:41:18.079Z",
+    "firstSeenAt": "2026-08-04T14:41:21.223Z",
+    "updatedAt": "2026-08-04T14:41:21.223Z",
+    "hash": "e86a8772dfe7b350"
+  },
+  {
     "id": "e88089abaed85f32",
     "title": "v2fly/domain-list-community 20260804035612",
     "summary": "20260804035612",
@@ -12021,6 +12091,40 @@
     "firstSeenAt": "2026-06-25T04:36:16.426Z",
     "updatedAt": "2026-06-25T04:36:16.426Z",
     "hash": "e54a070ca4e6a5bf"
+  },
+  {
+    "id": "c8655809aa86d35d",
+    "title": "MHSanaei/3x-ui Dev build 38838827",
+    "summary": "Dev build 38838827",
+    "rawTitle": "Dev build 38838827",
+    "rawBody": "Rolling development build — installs via the panel's Dev update channel.\n\ncommit=3883882726b708e8b3984b14152db8595d628c01\nbuilt=2026-08-04T09:59:22Z\n\nAutomated per-commit build from main. Not a stable release.",
+    "sourceType": "github_release",
+    "sourceName": "MHSanaei/3x-ui",
+    "sourceUrl": "https://github.com/MHSanaei/3x-ui/releases/tag/dev-latest",
+    "project": "3x-ui",
+    "repo": "MHSanaei/3x-ui",
+    "slug": "3x-ui",
+    "version": "dev-latest",
+    "category": "ecosystem",
+    "tags": [
+      "x-ui",
+      "panel",
+      "xray-core",
+      "release"
+    ],
+    "platforms": [
+      "linux"
+    ],
+    "importance": 4,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2026-06-24T16:17:06Z",
+    "fetchedAt": "2026-08-04T14:41:15.355Z",
+    "firstSeenAt": "2026-08-04T14:41:19.607Z",
+    "updatedAt": "2026-08-04T14:41:19.607Z",
+    "hash": "c8655809aa86d35d"
   },
   {
     "id": "e1a8c8c89d252747",
@@ -35499,6 +35603,45 @@
     "firstSeenAt": "2026-05-07T04:09:04.362Z",
     "updatedAt": "2026-05-07T04:09:04.362Z",
     "hash": "5e6adb84fbb7f312"
+  },
+  {
+    "id": "b7a767917628bcf9",
+    "title": "MetaCubeX/mihomo Prerelease-Alpha",
+    "summary": "Prerelease-Alpha",
+    "rawTitle": "Prerelease-Alpha",
+    "rawBody": "Release created at  Tue Aug  4 22:17:48 CST 2026\nSynchronize Alpha branch code updates, keeping only the latest version\n<br>\n[我应该下载哪个文件? / Which file should I download?](https://github.com/MetaCubeX/mihomo/wiki/FAQ)\n[二进制文件筛选 / Binary file selector](https://metacubex.github.io/Meta-Docs/startup/#_1)\n[查看文档 / Docs](https://metacubex.github.io/Meta-Docs/)\n\n\n## What's Changed\n* fix: typo in `uplinkHTTPMethod` by @MakostaDev in https://github.com/MetaCubeX/mihomo/pull/3029\n* fix: tun dns hijack sending zero-filled or stale packets when PackBuffer reallocates by @TWO666 in https://github.com/MetaCubeX/mihomo/pull/3037\n* feat: support H2C and QUICv2 sniffing by @MakostaDev in https://github.com/MetaCubeX/mihomo/pull/3036\n* fix: echo edns0 opt in dns replies when the request carries one by @TWO666 in https://github.com/MetaCubeX/mihomo/pull/3041\n* fix: truncate udp dns replies to the client's advertised buffer size by @TWO666 in https://github.com/MetaCubeX/mihomo/pull/3043\n* chore: update mieru version by @enfein in https://github.com/MetaCubeX/mihomo/pull/3046\n* chore: remove dohMaxConnsPerHost & dohMaxIdleConns by @ayanamist in https://github.com/MetaCubeX/mihomo/pull/3048\n* perf: avoid string reversal allocation in DomainSet.Has by @Ember-Moth in https://github.com/MetaCubeX/mihomo/pull/3049\n* fix(xhttp): apply default uplink chunk size by @vanbujhm in https://github.com/MetaCubeX/mihomo/pull/3061\n* fix: include the upstream version for tailscale IPNVersion by @huiyifyj in https://github.com/MetaCubeX/mihomo/pull/3074\n\n## New Contributors\n* @MakostaDev made their first contribution in https://github.com/MetaCubeX/mihomo/pull/3029\n* @TWO666 made their first contribution in https://github.com/MetaCubeX/mihomo/pull/3037\n* @Ember-Moth made their first contribution in https://github.com/MetaCubeX/mihomo/pull/3049\n* @vanbujhm made their first contribution in https://github.com/MetaCubeX/mihomo/pull/3061\n* @huiyifyj made their first contribution in https://github.com/MetaCubeX/mihomo/pull/3074\n\n**Full Changelog**: https://github.com/MetaCubeX/mihomo/compare/v1.19.29...Prerelease-Alpha",
+    "sourceType": "github_release",
+    "sourceName": "MetaCubeX/mihomo",
+    "sourceUrl": "https://github.com/MetaCubeX/mihomo/releases/tag/Prerelease-Alpha",
+    "project": "mihomo",
+    "repo": "MetaCubeX/mihomo",
+    "slug": "mihomo",
+    "version": "Prerelease-Alpha",
+    "category": "core",
+    "tags": [
+      "mihomo",
+      "clash",
+      "meta",
+      "xhttp",
+      "ech",
+      "quic",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 3,
+    "confidence": 0.85,
+    "isBreaking": true,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2024-08-12T17:01:02Z",
+    "fetchedAt": "2026-08-04T14:41:03.893Z",
+    "firstSeenAt": "2026-08-04T14:41:18.800Z",
+    "updatedAt": "2026-08-04T14:41:18.800Z",
+    "hash": "b7a767917628bcf9"
   },
   {
     "id": "b2e8f4e5aed938f7",

@@ -1,25 +1,25 @@
 {
-  "totalItems": 1237,
+  "totalItems": 1241,
   "last24h": 12,
-  "last7d": 63,
+  "last7d": 60,
   "byCategory": {
-    "core": 203,
+    "core": 204,
     "client": 243,
     "router": 2,
     "protocol": 57,
-    "dns_rules": 48,
+    "dns_rules": 50,
     "security": 26,
-    "ecosystem": 658,
+    "ecosystem": 659,
     "trend": 0
   },
   "topProjects": [
     {
       "project": "domain-list-community",
-      "count": 212
+      "count": 214
     },
     {
       "project": "mihomo",
-      "count": 156
+      "count": 157
     },
     {
       "project": "Sub-Store",
@@ -39,7 +39,7 @@
     },
     {
       "project": "3x-ui",
-      "count": 86
+      "count": 87
     },
     {
       "project": "sing-box",
@@ -65,7 +65,7 @@
     },
     {
       "tag": "mihomo",
-      "count": 173
+      "count": 174
     },
     {
       "tag": "Sub-Store",
@@ -88,12 +88,12 @@
       "count": 86
     },
     {
-      "tag": "3x-ui",
-      "count": 83
+      "tag": "domain-list",
+      "count": 84
     },
     {
-      "tag": "domain-list",
-      "count": 82
+      "tag": "3x-ui",
+      "count": 83
     },
     {
       "tag": "metacubexd",
@@ -116,16 +116,16 @@
       "count": 59
     },
     {
+      "tag": "release",
+      "count": 54
+    },
+    {
       "tag": "sing-box",
       "count": 53
     },
     {
       "tag": "Android",
       "count": 51
-    },
-    {
-      "tag": "release",
-      "count": 50
     },
     {
       "tag": "开源",
@@ -136,8 +136,8 @@
       "count": 46
     }
   ],
-  "importantCount": 318,
-  "breakingCount": 56,
+  "importantCount": 321,
+  "breakingCount": 57,
   "securityCount": 80,
-  "updatedAt": "2026-08-04T09:11:50.549Z"
+  "updatedAt": "2026-08-04T14:41:21.659Z"
 }

@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 173,
+    "count": 174,
     "category": "dns_rules"
   },
   {
@@ -40,14 +40,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "domain-list",
+    "count": 84,
+    "category": "dns_rules"
+  },
+  {
     "tag": "3x-ui",
     "count": 83,
     "category": "client"
-  },
-  {
-    "tag": "domain-list",
-    "count": 82,
-    "category": "dns_rules"
   },
   {
     "tag": "metacubexd",
@@ -75,6 +75,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "release",
+    "count": 54,
+    "category": "dns_rules"
+  },
+  {
     "tag": "sing-box",
     "count": 53,
     "category": "security"
@@ -83,11 +88,6 @@
     "tag": "Android",
     "count": 51,
     "category": "client"
-  },
-  {
-    "tag": "release",
-    "count": 50,
-    "category": "dns_rules"
   },
   {
     "tag": "开源",
@@ -175,6 +175,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "geosite",
+    "count": 26,
+    "category": "dns_rules"
+  },
+  {
     "tag": "DNS",
     "count": 26,
     "category": "dns_rules"
@@ -183,11 +188,6 @@
     "tag": "网络工具",
     "count": 25,
     "category": "ecosystem"
-  },
-  {
-    "tag": "geosite",
-    "count": 24,
-    "category": "dns_rules"
   },
   {
     "tag": "HTTP/2",
@@ -325,6 +325,16 @@
     "category": "ecosystem"
   },
   {
+    "tag": "quic",
+    "count": 13,
+    "category": "core"
+  },
+  {
+    "tag": "xray-core",
+    "count": 13,
+    "category": "security"
+  },
+  {
     "tag": "OpenWrt",
     "count": 13,
     "category": "security"
@@ -340,19 +350,14 @@
     "category": "client"
   },
   {
-    "tag": "quic",
-    "count": 12,
-    "category": "core"
-  },
-  {
-    "tag": "xray-core",
-    "count": 12,
-    "category": "security"
-  },
-  {
     "tag": "HTTP",
     "count": 12,
     "category": "core"
+  },
+  {
+    "tag": "clash",
+    "count": 11,
+    "category": "ecosystem"
   },
   {
     "tag": "TUN",
@@ -385,6 +390,11 @@
     "category": "client"
   },
   {
+    "tag": "xhttp",
+    "count": 11,
+    "category": "client"
+  },
+  {
     "tag": "ruleset",
     "count": 10,
     "category": "dns_rules"
@@ -400,9 +410,9 @@
     "category": "security"
   },
   {
-    "tag": "clash",
+    "tag": "ech",
     "count": 10,
-    "category": "ecosystem"
+    "category": "security"
   },
   {
     "tag": "API",
@@ -425,17 +435,12 @@
     "category": "dns_rules"
   },
   {
-    "tag": "xhttp",
+    "tag": "meta",
     "count": 10,
-    "category": "client"
+    "category": "core"
   },
   {
     "tag": "hysteria2",
-    "count": 9,
-    "category": "security"
-  },
-  {
-    "tag": "ech",
     "count": 9,
     "category": "security"
   },
@@ -478,11 +483,6 @@
     "tag": ".NET",
     "count": 9,
     "category": "client"
-  },
-  {
-    "tag": "meta",
-    "count": 9,
-    "category": "core"
   },
   {
     "tag": "CBC",
@@ -865,6 +865,16 @@
     "category": "client"
   },
   {
+    "tag": "x-ui",
+    "count": 4,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "panel",
+    "count": 4,
+    "category": "ecosystem"
+  },
+  {
     "tag": "功能增强",
     "count": 4,
     "category": "client"
@@ -1018,16 +1028,6 @@
     "tag": "DoH",
     "count": 3,
     "category": "protocol"
-  },
-  {
-    "tag": "x-ui",
-    "count": 3,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "panel",
-    "count": 3,
-    "category": "ecosystem"
   },
   {
     "tag": "开发版",
