@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 175,
+    "count": 177,
     "category": "dns_rules"
   },
   {
@@ -70,18 +70,18 @@
     "category": "ecosystem"
   },
   {
+    "tag": "release",
+    "count": 61,
+    "category": "ecosystem"
+  },
+  {
     "tag": "开发版本",
     "count": 59,
     "category": "ecosystem"
   },
   {
-    "tag": "release",
-    "count": 55,
-    "category": "dns_rules"
-  },
-  {
     "tag": "sing-box",
-    "count": 53,
+    "count": 54,
     "category": "security"
   },
   {
@@ -176,7 +176,7 @@
   },
   {
     "tag": "geosite",
-    "count": 26,
+    "count": 28,
     "category": "dns_rules"
   },
   {
@@ -265,6 +265,11 @@
     "category": "client"
   },
   {
+    "tag": "quic",
+    "count": 16,
+    "category": "security"
+  },
+  {
     "tag": "域名",
     "count": 16,
     "category": "ecosystem"
@@ -300,11 +305,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "quic",
-    "count": 14,
-    "category": "core"
-  },
-  {
     "tag": "v2rayA",
     "count": 14,
     "category": "client"
@@ -335,6 +335,11 @@
     "category": "security"
   },
   {
+    "tag": "clash",
+    "count": 13,
+    "category": "ecosystem"
+  },
+  {
     "tag": "OpenWrt",
     "count": 13,
     "category": "security"
@@ -350,9 +355,24 @@
     "category": "client"
   },
   {
-    "tag": "clash",
+    "tag": "xhttp",
+    "count": 13,
+    "category": "client"
+  },
+  {
+    "tag": "ruleset",
     "count": 12,
-    "category": "ecosystem"
+    "category": "dns_rules"
+  },
+  {
+    "tag": "geoip",
+    "count": 12,
+    "category": "dns_rules"
+  },
+  {
+    "tag": "ech",
+    "count": 12,
+    "category": "security"
   },
   {
     "tag": "HTTP",
@@ -360,12 +380,12 @@
     "category": "core"
   },
   {
-    "tag": "xhttp",
+    "tag": "meta",
     "count": 12,
-    "category": "client"
+    "category": "core"
   },
   {
-    "tag": "ech",
+    "tag": "vless",
     "count": 11,
     "category": "security"
   },
@@ -400,22 +420,7 @@
     "category": "client"
   },
   {
-    "tag": "meta",
-    "count": 11,
-    "category": "core"
-  },
-  {
-    "tag": "ruleset",
-    "count": 10,
-    "category": "dns_rules"
-  },
-  {
-    "tag": "geoip",
-    "count": 10,
-    "category": "dns_rules"
-  },
-  {
-    "tag": "vless",
+    "tag": "hysteria2",
     "count": 10,
     "category": "security"
   },
@@ -440,7 +445,7 @@
     "category": "dns_rules"
   },
   {
-    "tag": "hysteria2",
+    "tag": "tuic",
     "count": 9,
     "category": "security"
   },
@@ -488,11 +493,6 @@
     "tag": "CBC",
     "count": 9,
     "category": "ecosystem"
-  },
-  {
-    "tag": "tuic",
-    "count": 8,
-    "category": "security"
   },
   {
     "tag": "v2ray-core",
@@ -770,6 +770,16 @@
     "category": "ecosystem"
   },
   {
+    "tag": "sub-store",
+    "count": 4,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "subscription",
+    "count": 4,
+    "category": "ecosystem"
+  },
+  {
     "tag": "anytls",
     "count": 4,
     "category": "security"
@@ -905,14 +915,14 @@
     "category": "client"
   },
   {
-    "tag": "sub-store",
+    "tag": "tailscale",
     "count": 3,
-    "category": "security"
+    "category": "ecosystem"
   },
   {
-    "tag": "subscription",
+    "tag": "wireguard",
     "count": 3,
-    "category": "security"
+    "category": "ecosystem"
   },
   {
     "tag": "v2rayng",
@@ -1150,12 +1160,7 @@
     "category": "protocol"
   },
   {
-    "tag": "tailscale",
-    "count": 2,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "wireguard",
+    "tag": "mesh",
     "count": 2,
     "category": "ecosystem"
   },
@@ -1678,11 +1683,6 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
-  },
-  {
-    "tag": "mesh",
-    "count": 1,
-    "category": "ecosystem"
   },
   {
     "tag": "tunnel",

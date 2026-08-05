@@ -1,15 +1,15 @@
 {
-  "totalItems": 1242,
-  "last24h": 11,
-  "last7d": 60,
+  "totalItems": 1248,
+  "last24h": 9,
+  "last7d": 61,
   "byCategory": {
-    "core": 205,
+    "core": 206,
     "client": 243,
     "router": 2,
     "protocol": 57,
-    "dns_rules": 50,
-    "security": 26,
-    "ecosystem": 659,
+    "dns_rules": 52,
+    "security": 27,
+    "ecosystem": 661,
     "trend": 0
   },
   "topProjects": [
@@ -19,19 +19,19 @@
     },
     {
       "project": "mihomo",
-      "count": 158
+      "count": 159
     },
     {
       "project": "Sub-Store",
-      "count": 120
+      "count": 121
     },
     {
       "project": "v2ray-rules-dat",
-      "count": 96
+      "count": 97
     },
     {
       "project": "meta-rules-dat",
-      "count": 93
+      "count": 94
     },
     {
       "project": "metacubexd",
@@ -43,7 +43,7 @@
     },
     {
       "project": "sing-box",
-      "count": 44
+      "count": 45
     },
     {
       "project": "gost",
@@ -65,7 +65,7 @@
     },
     {
       "tag": "mihomo",
-      "count": 175
+      "count": 177
     },
     {
       "tag": "Sub-Store",
@@ -112,16 +112,16 @@
       "count": 67
     },
     {
+      "tag": "release",
+      "count": 61
+    },
+    {
       "tag": "开发版本",
       "count": 59
     },
     {
-      "tag": "release",
-      "count": 55
-    },
-    {
       "tag": "sing-box",
-      "count": 53
+      "count": 54
     },
     {
       "tag": "Android",
@@ -136,8 +136,8 @@
       "count": 46
     }
   ],
-  "importantCount": 321,
-  "breakingCount": 58,
-  "securityCount": 80,
-  "updatedAt": "2026-08-04T19:54:33.117Z"
+  "importantCount": 326,
+  "breakingCount": 59,
+  "securityCount": 81,
+  "updatedAt": "2026-08-05T03:36:25.935Z"
 }
