@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 177,
+    "count": 178,
     "category": "dns_rules"
   },
   {
@@ -31,7 +31,7 @@
   },
   {
     "tag": "domain-list",
-    "count": 89,
+    "count": 91,
     "category": "dns_rules"
   },
   {
@@ -60,14 +60,14 @@
     "category": "protocol"
   },
   {
+    "tag": "release",
+    "count": 71,
+    "category": "dns_rules"
+  },
+  {
     "tag": "网络代理",
     "count": 71,
     "category": "ecosystem"
-  },
-  {
-    "tag": "release",
-    "count": 67,
-    "category": "dns_rules"
   },
   {
     "tag": "rules",
@@ -135,6 +135,11 @@
     "category": "core"
   },
   {
+    "tag": "geosite",
+    "count": 35,
+    "category": "dns_rules"
+  },
+  {
     "tag": "WireGuard",
     "count": 34,
     "category": "core"
@@ -143,11 +148,6 @@
     "tag": "ClashMetaForAndroid",
     "count": 34,
     "category": "client"
-  },
-  {
-    "tag": "geosite",
-    "count": 33,
-    "category": "dns_rules"
   },
   {
     "tag": "Snell",
@@ -245,6 +245,11 @@
     "category": "core"
   },
   {
+    "tag": "quic",
+    "count": 17,
+    "category": "security"
+  },
+  {
     "tag": "TLS",
     "count": 17,
     "category": "ecosystem"
@@ -263,11 +268,6 @@
     "tag": "TLSAuth",
     "count": 17,
     "category": "client"
-  },
-  {
-    "tag": "quic",
-    "count": 16,
-    "category": "security"
   },
   {
     "tag": "域名",
@@ -305,6 +305,21 @@
     "category": "ecosystem"
   },
   {
+    "tag": "xray-core",
+    "count": 14,
+    "category": "client"
+  },
+  {
+    "tag": "ech",
+    "count": 14,
+    "category": "dns_rules"
+  },
+  {
+    "tag": "clash",
+    "count": 14,
+    "category": "ecosystem"
+  },
+  {
     "tag": "v2rayA",
     "count": 14,
     "category": "client"
@@ -330,19 +345,9 @@
     "category": "ecosystem"
   },
   {
-    "tag": "ech",
-    "count": 13,
-    "category": "dns_rules"
-  },
-  {
-    "tag": "xray-core",
-    "count": 13,
-    "category": "security"
-  },
-  {
-    "tag": "clash",
-    "count": 13,
-    "category": "ecosystem"
+    "tag": "xhttp",
+    "count": 14,
+    "category": "client"
   },
   {
     "tag": "OpenWrt",
@@ -360,9 +365,9 @@
     "category": "client"
   },
   {
-    "tag": "xhttp",
+    "tag": "meta",
     "count": 13,
-    "category": "client"
+    "category": "core"
   },
   {
     "tag": "ruleset",
@@ -376,11 +381,6 @@
   },
   {
     "tag": "HTTP",
-    "count": 12,
-    "category": "core"
-  },
-  {
-    "tag": "meta",
     "count": 12,
     "category": "core"
   },
@@ -1683,6 +1683,16 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "v2rayn",
+    "count": 1,
+    "category": "client"
+  },
+  {
+    "tag": "windows",
+    "count": 1,
+    "category": "client"
   },
   {
     "tag": "tunnel",
