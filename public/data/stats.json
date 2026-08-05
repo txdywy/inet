@@ -1,21 +1,21 @@
 {
-  "totalItems": 1248,
-  "last24h": 9,
-  "last7d": 61,
+  "totalItems": 1254,
+  "last24h": 13,
+  "last7d": 65,
   "byCategory": {
     "core": 206,
     "client": 243,
     "router": 2,
     "protocol": 57,
-    "dns_rules": 52,
+    "dns_rules": 57,
     "security": 27,
-    "ecosystem": 661,
+    "ecosystem": 662,
     "trend": 0
   },
   "topProjects": [
     {
       "project": "domain-list-community",
-      "count": 214
+      "count": 219
     },
     {
       "project": "mihomo",
@@ -23,7 +23,7 @@
     },
     {
       "project": "Sub-Store",
-      "count": 121
+      "count": 122
     },
     {
       "project": "v2ray-rules-dat",
@@ -80,16 +80,16 @@
       "count": 100
     },
     {
+      "tag": "domain-list",
+      "count": 89
+    },
+    {
       "tag": "meta-rules-dat",
       "count": 88
     },
     {
       "tag": "Loyalsoldier",
       "count": 86
-    },
-    {
-      "tag": "domain-list",
-      "count": 84
     },
     {
       "tag": "3x-ui",
@@ -108,12 +108,12 @@
       "count": 71
     },
     {
-      "tag": "rules",
+      "tag": "release",
       "count": 67
     },
     {
-      "tag": "release",
-      "count": 61
+      "tag": "rules",
+      "count": 67
     },
     {
       "tag": "开发版本",
@@ -136,8 +136,8 @@
       "count": 46
     }
   ],
-  "importantCount": 326,
+  "importantCount": 332,
   "breakingCount": 59,
   "securityCount": 81,
-  "updatedAt": "2026-08-05T03:36:25.935Z"
+  "updatedAt": "2026-08-05T09:08:45.694Z"
 }

@@ -30,6 +30,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "domain-list",
+    "count": 89,
+    "category": "dns_rules"
+  },
+  {
     "tag": "meta-rules-dat",
     "count": 88,
     "category": "ecosystem"
@@ -38,11 +43,6 @@
     "tag": "Loyalsoldier",
     "count": 86,
     "category": "ecosystem"
-  },
-  {
-    "tag": "domain-list",
-    "count": 84,
-    "category": "dns_rules"
   },
   {
     "tag": "3x-ui",
@@ -65,13 +65,13 @@
     "category": "ecosystem"
   },
   {
-    "tag": "rules",
+    "tag": "release",
     "count": 67,
-    "category": "ecosystem"
+    "category": "dns_rules"
   },
   {
-    "tag": "release",
-    "count": 61,
+    "tag": "rules",
+    "count": 67,
     "category": "ecosystem"
   },
   {
@@ -145,6 +145,11 @@
     "category": "client"
   },
   {
+    "tag": "geosite",
+    "count": 33,
+    "category": "dns_rules"
+  },
+  {
     "tag": "Snell",
     "count": 33,
     "category": "protocol"
@@ -173,11 +178,6 @@
     "tag": "自动化构建",
     "count": 29,
     "category": "ecosystem"
-  },
-  {
-    "tag": "geosite",
-    "count": 28,
-    "category": "dns_rules"
   },
   {
     "tag": "DNS",
@@ -330,6 +330,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "ech",
+    "count": 13,
+    "category": "dns_rules"
+  },
+  {
     "tag": "xray-core",
     "count": 13,
     "category": "security"
@@ -368,11 +373,6 @@
     "tag": "geoip",
     "count": 12,
     "category": "dns_rules"
-  },
-  {
-    "tag": "ech",
-    "count": 12,
-    "category": "security"
   },
   {
     "tag": "HTTP",
@@ -665,6 +665,16 @@
     "category": "ecosystem"
   },
   {
+    "tag": "sub-store",
+    "count": 5,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "subscription",
+    "count": 5,
+    "category": "ecosystem"
+  },
+  {
     "tag": "gost",
     "count": 5,
     "category": "core"
@@ -767,16 +777,6 @@
   {
     "tag": "subconverter",
     "count": 5,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "sub-store",
-    "count": 4,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "subscription",
-    "count": 4,
     "category": "ecosystem"
   },
   {
