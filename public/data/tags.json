@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 179,
+    "count": 181,
     "category": "dns_rules"
   },
   {
@@ -61,7 +61,7 @@
   },
   {
     "tag": "release",
-    "count": 74,
+    "count": 77,
     "category": "dns_rules"
   },
   {
@@ -120,6 +120,11 @@
     "category": "core"
   },
   {
+    "tag": "geosite",
+    "count": 39,
+    "category": "dns_rules"
+  },
+  {
     "tag": "Linux",
     "count": 38,
     "category": "client"
@@ -128,11 +133,6 @@
     "tag": "Windows",
     "count": 38,
     "category": "client"
-  },
-  {
-    "tag": "geosite",
-    "count": 37,
-    "category": "dns_rules"
   },
   {
     "tag": "go-gost",
@@ -225,6 +225,11 @@
     "category": "core"
   },
   {
+    "tag": "quic",
+    "count": 19,
+    "category": "security"
+  },
+  {
     "tag": "macOS",
     "count": 19,
     "category": "client"
@@ -233,11 +238,6 @@
     "tag": "CHACHA20-POLY1305",
     "count": 19,
     "category": "ecosystem"
-  },
-  {
-    "tag": "quic",
-    "count": 18,
-    "category": "security"
   },
   {
     "tag": "v2rayNG",
@@ -270,6 +270,16 @@
     "category": "client"
   },
   {
+    "tag": "ech",
+    "count": 16,
+    "category": "dns_rules"
+  },
+  {
+    "tag": "clash",
+    "count": 16,
+    "category": "ecosystem"
+  },
+  {
     "tag": "域名",
     "count": 16,
     "category": "ecosystem"
@@ -285,24 +295,19 @@
     "category": "client"
   },
   {
+    "tag": "xhttp",
+    "count": 16,
+    "category": "client"
+  },
+  {
     "tag": "Alpha",
     "count": 16,
     "category": "ecosystem"
   },
   {
-    "tag": "ech",
-    "count": 15,
-    "category": "dns_rules"
-  },
-  {
     "tag": "naiveproxy",
     "count": 15,
     "category": "security"
-  },
-  {
-    "tag": "clash",
-    "count": 15,
-    "category": "ecosystem"
   },
   {
     "tag": "xray",
@@ -315,9 +320,19 @@
     "category": "ecosystem"
   },
   {
-    "tag": "xhttp",
+    "tag": "meta",
     "count": 15,
-    "category": "client"
+    "category": "core"
+  },
+  {
+    "tag": "ruleset",
+    "count": 14,
+    "category": "dns_rules"
+  },
+  {
+    "tag": "geoip",
+    "count": 14,
+    "category": "dns_rules"
   },
   {
     "tag": "xray-core",
@@ -350,11 +365,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "meta",
-    "count": 14,
-    "category": "core"
-  },
-  {
     "tag": "OpenWrt",
     "count": 13,
     "category": "security"
@@ -368,16 +378,6 @@
     "tag": "SOCKS",
     "count": 13,
     "category": "client"
-  },
-  {
-    "tag": "ruleset",
-    "count": 12,
-    "category": "dns_rules"
-  },
-  {
-    "tag": "geoip",
-    "count": 12,
-    "category": "dns_rules"
   },
   {
     "tag": "HTTP",
