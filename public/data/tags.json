@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 181,
+    "count": 182,
     "category": "dns_rules"
   },
   {
@@ -55,14 +55,14 @@
     "category": "client"
   },
   {
+    "tag": "release",
+    "count": 81,
+    "category": "core"
+  },
+  {
     "tag": "OpenVPN",
     "count": 80,
     "category": "protocol"
-  },
-  {
-    "tag": "release",
-    "count": 79,
-    "category": "core"
   },
   {
     "tag": "网络代理",
@@ -216,7 +216,7 @@
   },
   {
     "tag": "quic",
-    "count": 20,
+    "count": 21,
     "category": "security"
   },
   {
@@ -250,6 +250,16 @@
     "category": "core"
   },
   {
+    "tag": "ech",
+    "count": 17,
+    "category": "dns_rules"
+  },
+  {
+    "tag": "clash",
+    "count": 17,
+    "category": "ecosystem"
+  },
+  {
     "tag": "TLS",
     "count": 17,
     "category": "ecosystem"
@@ -265,19 +275,14 @@
     "category": "protocol"
   },
   {
-    "tag": "TLSAuth",
+    "tag": "xhttp",
     "count": 17,
     "category": "client"
   },
   {
-    "tag": "ech",
-    "count": 16,
-    "category": "dns_rules"
-  },
-  {
-    "tag": "clash",
-    "count": 16,
-    "category": "ecosystem"
+    "tag": "TLSAuth",
+    "count": 17,
+    "category": "client"
   },
   {
     "tag": "域名",
@@ -295,14 +300,19 @@
     "category": "client"
   },
   {
-    "tag": "xhttp",
+    "tag": "meta",
     "count": 16,
-    "category": "client"
+    "category": "core"
   },
   {
     "tag": "Alpha",
     "count": 16,
     "category": "ecosystem"
+  },
+  {
+    "tag": "xray-core",
+    "count": 15,
+    "category": "client"
   },
   {
     "tag": "naiveproxy",
@@ -320,11 +330,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "meta",
-    "count": 15,
-    "category": "core"
-  },
-  {
     "tag": "ruleset",
     "count": 14,
     "category": "dns_rules"
@@ -333,11 +338,6 @@
     "tag": "geoip",
     "count": 14,
     "category": "dns_rules"
-  },
-  {
-    "tag": "xray-core",
-    "count": 14,
-    "category": "client"
   },
   {
     "tag": "v2rayA",
@@ -735,6 +735,16 @@
     "category": "client"
   },
   {
+    "tag": "x-ui",
+    "count": 5,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "panel",
+    "count": 5,
+    "category": "ecosystem"
+  },
+  {
     "tag": "age",
     "count": 5,
     "category": "ecosystem"
@@ -873,16 +883,6 @@
     "tag": "延迟测试",
     "count": 4,
     "category": "client"
-  },
-  {
-    "tag": "x-ui",
-    "count": 4,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "panel",
-    "count": 4,
-    "category": "ecosystem"
   },
   {
     "tag": "功能增强",

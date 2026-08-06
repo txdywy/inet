@@ -86,21 +86,6 @@
     ]
   },
   {
-    "slug": "metacubexd",
-    "name": "metacubexd",
-    "repo": "MetaCubeX/metacubexd",
-    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
-    "category": "ecosystem",
-    "platforms": [
-      "web"
-    ],
-    "tags": [
-      "dashboard",
-      "mihomo",
-      "clash"
-    ]
-  },
-  {
     "slug": "3x-ui",
     "name": "3x-ui",
     "repo": "MHSanaei/3x-ui",
@@ -113,6 +98,21 @@
       "x-ui",
       "panel",
       "xray-core"
+    ]
+  },
+  {
+    "slug": "metacubexd",
+    "name": "metacubexd",
+    "repo": "MetaCubeX/metacubexd",
+    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
+    "category": "ecosystem",
+    "platforms": [
+      "web"
+    ],
+    "tags": [
+      "dashboard",
+      "mihomo",
+      "clash"
     ]
   },
   {

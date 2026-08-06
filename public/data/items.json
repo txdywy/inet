@@ -12815,6 +12815,40 @@
     "hash": "e54a070ca4e6a5bf"
   },
   {
+    "id": "674b6d51829d7bbe",
+    "title": "MHSanaei/3x-ui Dev build 7eacce6a",
+    "summary": "Dev build 7eacce6a",
+    "rawTitle": "Dev build 7eacce6a",
+    "rawBody": "Rolling development build — installs via the panel's Dev update channel.\n\ncommit=7eacce6a4649a7235a6eb3bad8afb9e169c464d5\nbuilt=2026-08-06T14:34:29Z\n\nAutomated per-commit build from main. Not a stable release.",
+    "sourceType": "github_release",
+    "sourceName": "MHSanaei/3x-ui",
+    "sourceUrl": "https://github.com/MHSanaei/3x-ui/releases/tag/dev-latest",
+    "project": "3x-ui",
+    "repo": "MHSanaei/3x-ui",
+    "slug": "3x-ui",
+    "version": "dev-latest",
+    "category": "ecosystem",
+    "tags": [
+      "x-ui",
+      "panel",
+      "xray-core",
+      "release"
+    ],
+    "platforms": [
+      "linux"
+    ],
+    "importance": 4,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2026-06-24T16:17:06Z",
+    "fetchedAt": "2026-08-06T14:36:58.470Z",
+    "firstSeenAt": "2026-08-06T14:37:02.698Z",
+    "updatedAt": "2026-08-06T14:37:02.698Z",
+    "hash": "674b6d51829d7bbe"
+  },
+  {
     "id": "c8655809aa86d35d",
     "title": "MHSanaei/3x-ui Dev build 38838827",
     "summary": "Dev build 38838827",
@@ -36325,6 +36359,45 @@
     "firstSeenAt": "2026-05-07T04:09:04.362Z",
     "updatedAt": "2026-05-07T04:09:04.362Z",
     "hash": "5e6adb84fbb7f312"
+  },
+  {
+    "id": "5635d7a436bd8251",
+    "title": "MetaCubeX/mihomo Prerelease-Alpha",
+    "summary": "Prerelease-Alpha",
+    "rawTitle": "Prerelease-Alpha",
+    "rawBody": "Release created at  Thu Aug  6 18:28:53 CST 2026\nSynchronize Alpha branch code updates, keeping only the latest version\n<br>\n[我应该下载哪个文件? / Which file should I download?](https://github.com/MetaCubeX/mihomo/wiki/FAQ)\n[二进制文件筛选 / Binary file selector](https://metacubex.github.io/Meta-Docs/startup/#_1)\n[查看文档 / Docs](https://metacubex.github.io/Meta-Docs/)\n\n\n## What's Changed\n* fix: typo in `uplinkHTTPMethod` by @MakostaDev in https://github.com/MetaCubeX/mihomo/pull/3029\n* fix: tun dns hijack sending zero-filled or stale packets when PackBuffer reallocates by @TWO666 in https://github.com/MetaCubeX/mihomo/pull/3037\n* feat: support H2C and QUICv2 sniffing by @MakostaDev in https://github.com/MetaCubeX/mihomo/pull/3036\n* fix: echo edns0 opt in dns replies when the request carries one by @TWO666 in https://github.com/MetaCubeX/mihomo/pull/3041\n* fix: truncate udp dns replies to the client's advertised buffer size by @TWO666 in https://github.com/MetaCubeX/mihomo/pull/3043\n* chore: update mieru version by @enfein in https://github.com/MetaCubeX/mihomo/pull/3046\n* chore: remove dohMaxConnsPerHost & dohMaxIdleConns by @ayanamist in https://github.com/MetaCubeX/mihomo/pull/3048\n* perf: avoid string reversal allocation in DomainSet.Has by @Ember-Moth in https://github.com/MetaCubeX/mihomo/pull/3049\n* fix(xhttp): apply default uplink chunk size by @vanbujhm in https://github.com/MetaCubeX/mihomo/pull/3061\n* fix: include the upstream version for tailscale IPNVersion by @huiyifyj in https://github.com/MetaCubeX/mihomo/pull/3074\n* fix: trim trailing newline from Tailscale VersionDotTxt in IPNVersion by @eivgogo in https://github.com/MetaCubeX/mihomo/pull/3079\n\n## New Contributors\n* @MakostaDev made their first contribution in https://github.com/MetaCubeX/mihomo/pull/3029\n* @TWO666 made their first contribution in https://github.com/MetaCubeX/mihomo/pull/3037\n* @Ember-Moth made their first contribution in https://github.com/MetaCubeX/mihomo/pull/3049\n* @vanbujhm made their first contribution in https://github.com/MetaCubeX/mihomo/pull/3061\n* @huiyifyj made their first contribution in https://github.com/MetaCubeX/mihomo/pull/3074\n* @eivgogo made their first contribution in https://github.com/MetaCubeX/mihomo/pull/3079\n\n**Full Changelog**: https://github.com/MetaCubeX/mihomo/compare/v1.19.29...Prerelease-Alpha",
+    "sourceType": "github_release",
+    "sourceName": "MetaCubeX/mihomo",
+    "sourceUrl": "https://github.com/MetaCubeX/mihomo/releases/tag/Prerelease-Alpha",
+    "project": "mihomo",
+    "repo": "MetaCubeX/mihomo",
+    "slug": "mihomo",
+    "version": "Prerelease-Alpha",
+    "category": "core",
+    "tags": [
+      "mihomo",
+      "clash",
+      "meta",
+      "xhttp",
+      "ech",
+      "quic",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 3,
+    "confidence": 0.85,
+    "isBreaking": true,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2024-08-12T17:01:02Z",
+    "fetchedAt": "2026-08-06T14:36:47.883Z",
+    "firstSeenAt": "2026-08-06T14:37:01.893Z",
+    "updatedAt": "2026-08-06T14:37:01.893Z",
+    "hash": "5635d7a436bd8251"
   },
   {
     "id": "24c758d9f21e7a32",
