@@ -61,8 +61,8 @@
   },
   {
     "tag": "release",
-    "count": 77,
-    "category": "dns_rules"
+    "count": 79,
+    "category": "core"
   },
   {
     "tag": "网络代理",
@@ -81,8 +81,8 @@
   },
   {
     "tag": "sing-box",
-    "count": 54,
-    "category": "security"
+    "count": 55,
+    "category": "core"
   },
   {
     "tag": "Android",
@@ -215,6 +215,11 @@
     "category": "core"
   },
   {
+    "tag": "quic",
+    "count": 20,
+    "category": "security"
+  },
+  {
     "tag": "QUIC",
     "count": 20,
     "category": "ecosystem"
@@ -223,11 +228,6 @@
     "tag": "rematch",
     "count": 20,
     "category": "core"
-  },
-  {
-    "tag": "quic",
-    "count": 19,
-    "category": "security"
   },
   {
     "tag": "macOS",
@@ -380,14 +380,19 @@
     "category": "client"
   },
   {
-    "tag": "HTTP",
+    "tag": "vless",
     "count": 12,
     "category": "core"
   },
   {
-    "tag": "vless",
-    "count": 11,
-    "category": "security"
+    "tag": "hysteria2",
+    "count": 12,
+    "category": "core"
+  },
+  {
+    "tag": "HTTP",
+    "count": 12,
+    "category": "core"
   },
   {
     "tag": "TUN",
@@ -420,9 +425,9 @@
     "category": "client"
   },
   {
-    "tag": "hysteria2",
+    "tag": "tuic",
     "count": 10,
-    "category": "security"
+    "category": "core"
   },
   {
     "tag": "API",
@@ -443,11 +448,6 @@
     "tag": "dns",
     "count": 10,
     "category": "dns_rules"
-  },
-  {
-    "tag": "tuic",
-    "count": 9,
-    "category": "security"
   },
   {
     "tag": "配置管理",

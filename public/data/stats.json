@@ -1,14 +1,14 @@
 {
-  "totalItems": 1264,
-  "last24h": 13,
+  "totalItems": 1266,
+  "last24h": 9,
   "last7d": 62,
   "byCategory": {
-    "core": 209,
+    "core": 210,
     "client": 244,
     "router": 2,
     "protocol": 57,
     "dns_rules": 63,
-    "security": 27,
+    "security": 28,
     "ecosystem": 662,
     "trend": 0
   },
@@ -43,7 +43,7 @@
     },
     {
       "project": "sing-box",
-      "count": 45
+      "count": 46
     },
     {
       "project": "gost",
@@ -105,7 +105,7 @@
     },
     {
       "tag": "release",
-      "count": 77
+      "count": 79
     },
     {
       "tag": "网络代理",
@@ -121,7 +121,7 @@
     },
     {
       "tag": "sing-box",
-      "count": 54
+      "count": 55
     },
     {
       "tag": "Android",
@@ -136,8 +136,8 @@
       "count": 46
     }
   ],
-  "importantCount": 339,
+  "importantCount": 340,
   "breakingCount": 62,
-  "securityCount": 81,
-  "updatedAt": "2026-08-06T03:42:25.789Z"
+  "securityCount": 82,
+  "updatedAt": "2026-08-06T09:08:58.433Z"
 }
