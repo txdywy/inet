@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 184,
+    "count": 185,
     "category": "dns_rules"
   },
   {
@@ -31,7 +31,7 @@
   },
   {
     "tag": "domain-list",
-    "count": 93,
+    "count": 94,
     "category": "dns_rules"
   },
   {
@@ -40,14 +40,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "release",
+    "count": 87,
+    "category": "core"
+  },
+  {
     "tag": "Loyalsoldier",
     "count": 86,
     "category": "ecosystem"
-  },
-  {
-    "tag": "release",
-    "count": 84,
-    "category": "dns_rules"
   },
   {
     "tag": "3x-ui",
@@ -81,7 +81,7 @@
   },
   {
     "tag": "sing-box",
-    "count": 55,
+    "count": 56,
     "category": "core"
   },
   {
@@ -110,14 +110,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "geosite",
+    "count": 42,
+    "category": "dns_rules"
+  },
+  {
     "tag": "代理工具",
     "count": 42,
     "category": "core"
-  },
-  {
-    "tag": "geosite",
-    "count": 41,
-    "category": "dns_rules"
   },
   {
     "tag": "SagerNet",
@@ -195,6 +195,11 @@
     "category": "protocol"
   },
   {
+    "tag": "quic",
+    "count": 23,
+    "category": "security"
+  },
+  {
     "tag": "依赖更新",
     "count": 23,
     "category": "ecosystem"
@@ -203,11 +208,6 @@
     "tag": "VLESS",
     "count": 23,
     "category": "ecosystem"
-  },
-  {
-    "tag": "quic",
-    "count": 22,
-    "category": "security"
   },
   {
     "tag": "用户界面",
@@ -230,23 +230,28 @@
     "category": "core"
   },
   {
+    "tag": "ech",
+    "count": 19,
+    "category": "dns_rules"
+  },
+  {
+    "tag": "clash",
+    "count": 19,
+    "category": "ecosystem"
+  },
+  {
     "tag": "macOS",
+    "count": 19,
+    "category": "client"
+  },
+  {
+    "tag": "xhttp",
     "count": 19,
     "category": "client"
   },
   {
     "tag": "CHACHA20-POLY1305",
     "count": 19,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "ech",
-    "count": 18,
-    "category": "dns_rules"
-  },
-  {
-    "tag": "clash",
-    "count": 18,
     "category": "ecosystem"
   },
   {
@@ -260,9 +265,9 @@
     "category": "core"
   },
   {
-    "tag": "xhttp",
+    "tag": "meta",
     "count": 18,
-    "category": "client"
+    "category": "core"
   },
   {
     "tag": "TLS",
@@ -278,11 +283,6 @@
     "tag": "Hysteria",
     "count": 17,
     "category": "protocol"
-  },
-  {
-    "tag": "meta",
-    "count": 17,
-    "category": "core"
   },
   {
     "tag": "TLSAuth",
@@ -365,6 +365,16 @@
     "category": "ecosystem"
   },
   {
+    "tag": "vless",
+    "count": 13,
+    "category": "core"
+  },
+  {
+    "tag": "hysteria2",
+    "count": 13,
+    "category": "core"
+  },
+  {
     "tag": "OpenWrt",
     "count": 13,
     "category": "security"
@@ -380,18 +390,13 @@
     "category": "client"
   },
   {
-    "tag": "vless",
-    "count": 12,
-    "category": "core"
-  },
-  {
-    "tag": "hysteria2",
-    "count": 12,
-    "category": "core"
-  },
-  {
     "tag": "HTTP",
     "count": 12,
+    "category": "core"
+  },
+  {
+    "tag": "tuic",
+    "count": 11,
     "category": "core"
   },
   {
@@ -423,11 +428,6 @@
     "tag": "用户体验",
     "count": 11,
     "category": "client"
-  },
-  {
-    "tag": "tuic",
-    "count": 10,
-    "category": "core"
   },
   {
     "tag": "API",

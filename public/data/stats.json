@@ -1,13 +1,13 @@
 {
-  "totalItems": 1271,
+  "totalItems": 1274,
   "last24h": 4,
-  "last7d": 58,
+  "last7d": 59,
   "byCategory": {
-    "core": 212,
+    "core": 214,
     "client": 244,
     "router": 2,
     "protocol": 57,
-    "dns_rules": 65,
+    "dns_rules": 66,
     "security": 28,
     "ecosystem": 663,
     "trend": 0
@@ -15,11 +15,11 @@
   "topProjects": [
     {
       "project": "domain-list-community",
-      "count": 223
+      "count": 224
     },
     {
       "project": "mihomo",
-      "count": 164
+      "count": 165
     },
     {
       "project": "Sub-Store",
@@ -43,7 +43,7 @@
     },
     {
       "project": "sing-box",
-      "count": 46
+      "count": 47
     },
     {
       "project": "gost",
@@ -65,7 +65,7 @@
     },
     {
       "tag": "mihomo",
-      "count": 184
+      "count": 185
     },
     {
       "tag": "Sub-Store",
@@ -81,19 +81,19 @@
     },
     {
       "tag": "domain-list",
-      "count": 93
+      "count": 94
     },
     {
       "tag": "meta-rules-dat",
       "count": 88
     },
     {
-      "tag": "Loyalsoldier",
-      "count": 86
+      "tag": "release",
+      "count": 87
     },
     {
-      "tag": "release",
-      "count": 84
+      "tag": "Loyalsoldier",
+      "count": 86
     },
     {
       "tag": "3x-ui",
@@ -121,7 +121,7 @@
     },
     {
       "tag": "sing-box",
-      "count": 55
+      "count": 56
     },
     {
       "tag": "Android",
@@ -136,8 +136,8 @@
       "count": 46
     }
   ],
-  "importantCount": 343,
-  "breakingCount": 64,
+  "importantCount": 345,
+  "breakingCount": 65,
   "securityCount": 82,
-  "updatedAt": "2026-08-07T03:17:45.009Z"
+  "updatedAt": "2026-08-07T07:44:59.796Z"
 }
