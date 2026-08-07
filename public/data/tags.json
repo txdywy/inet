@@ -31,13 +31,13 @@
   },
   {
     "tag": "domain-list",
-    "count": 94,
+    "count": 98,
     "category": "dns_rules"
   },
   {
     "tag": "release",
-    "count": 89,
-    "category": "security"
+    "count": 93,
+    "category": "dns_rules"
   },
   {
     "tag": "meta-rules-dat",
@@ -90,6 +90,11 @@
     "category": "client"
   },
   {
+    "tag": "geosite",
+    "count": 46,
+    "category": "dns_rules"
+  },
+  {
     "tag": "开源",
     "count": 46,
     "category": "core"
@@ -108,11 +113,6 @@
     "tag": "dat",
     "count": 43,
     "category": "ecosystem"
-  },
-  {
-    "tag": "geosite",
-    "count": 42,
-    "category": "dns_rules"
   },
   {
     "tag": "代理工具",

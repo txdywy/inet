@@ -1,13 +1,13 @@
 {
-  "totalItems": 1276,
-  "last24h": 5,
-  "last7d": 59,
+  "totalItems": 1280,
+  "last24h": 9,
+  "last7d": 62,
   "byCategory": {
     "core": 215,
     "client": 244,
     "router": 2,
     "protocol": 57,
-    "dns_rules": 66,
+    "dns_rules": 70,
     "security": 29,
     "ecosystem": 663,
     "trend": 0
@@ -15,7 +15,7 @@
   "topProjects": [
     {
       "project": "domain-list-community",
-      "count": 224
+      "count": 228
     },
     {
       "project": "mihomo",
@@ -81,11 +81,11 @@
     },
     {
       "tag": "domain-list",
-      "count": 94
+      "count": 98
     },
     {
       "tag": "release",
-      "count": 89
+      "count": 93
     },
     {
       "tag": "meta-rules-dat",
@@ -128,16 +128,16 @@
       "count": 51
     },
     {
-      "tag": "开源",
+      "tag": "geosite",
       "count": 46
     },
     {
-      "tag": "代理",
+      "tag": "开源",
       "count": 46
     }
   ],
-  "importantCount": 345,
+  "importantCount": 349,
   "breakingCount": 66,
   "securityCount": 83,
-  "updatedAt": "2026-08-07T13:41:03.287Z"
+  "updatedAt": "2026-08-07T19:12:45.017Z"
 }
