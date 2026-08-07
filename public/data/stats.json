@@ -1,14 +1,14 @@
 {
-  "totalItems": 1274,
-  "last24h": 4,
+  "totalItems": 1276,
+  "last24h": 5,
   "last7d": 59,
   "byCategory": {
-    "core": 214,
+    "core": 215,
     "client": 244,
     "router": 2,
     "protocol": 57,
     "dns_rules": 66,
-    "security": 28,
+    "security": 29,
     "ecosystem": 663,
     "trend": 0
   },
@@ -19,7 +19,7 @@
     },
     {
       "project": "mihomo",
-      "count": 165
+      "count": 166
     },
     {
       "project": "Sub-Store",
@@ -65,7 +65,7 @@
     },
     {
       "tag": "mihomo",
-      "count": 185
+      "count": 186
     },
     {
       "tag": "Sub-Store",
@@ -84,12 +84,12 @@
       "count": 94
     },
     {
-      "tag": "meta-rules-dat",
-      "count": 88
+      "tag": "release",
+      "count": 89
     },
     {
-      "tag": "release",
-      "count": 87
+      "tag": "meta-rules-dat",
+      "count": 88
     },
     {
       "tag": "Loyalsoldier",
@@ -137,7 +137,7 @@
     }
   ],
   "importantCount": 345,
-  "breakingCount": 65,
-  "securityCount": 82,
-  "updatedAt": "2026-08-07T07:44:59.796Z"
+  "breakingCount": 66,
+  "securityCount": 83,
+  "updatedAt": "2026-08-07T13:41:03.287Z"
 }
