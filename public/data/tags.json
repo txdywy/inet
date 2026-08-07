@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 182,
+    "count": 184,
     "category": "dns_rules"
   },
   {
@@ -45,6 +45,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "release",
+    "count": 84,
+    "category": "dns_rules"
+  },
+  {
     "tag": "3x-ui",
     "count": 83,
     "category": "client"
@@ -53,11 +58,6 @@
     "tag": "metacubexd",
     "count": 82,
     "category": "client"
-  },
-  {
-    "tag": "release",
-    "count": 81,
-    "category": "core"
   },
   {
     "tag": "OpenVPN",
@@ -115,14 +115,14 @@
     "category": "core"
   },
   {
+    "tag": "geosite",
+    "count": 41,
+    "category": "dns_rules"
+  },
+  {
     "tag": "SagerNet",
     "count": 41,
     "category": "core"
-  },
-  {
-    "tag": "geosite",
-    "count": 39,
-    "category": "dns_rules"
   },
   {
     "tag": "Linux",
@@ -205,6 +205,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "quic",
+    "count": 22,
+    "category": "security"
+  },
+  {
     "tag": "用户界面",
     "count": 22,
     "category": "client"
@@ -213,11 +218,6 @@
     "tag": "Xray-core",
     "count": 22,
     "category": "core"
-  },
-  {
-    "tag": "quic",
-    "count": 21,
-    "category": "security"
   },
   {
     "tag": "QUIC",
@@ -240,6 +240,16 @@
     "category": "ecosystem"
   },
   {
+    "tag": "ech",
+    "count": 18,
+    "category": "dns_rules"
+  },
+  {
+    "tag": "clash",
+    "count": 18,
+    "category": "ecosystem"
+  },
+  {
     "tag": "v2rayNG",
     "count": 18,
     "category": "client"
@@ -250,14 +260,9 @@
     "category": "core"
   },
   {
-    "tag": "ech",
-    "count": 17,
-    "category": "dns_rules"
-  },
-  {
-    "tag": "clash",
-    "count": 17,
-    "category": "ecosystem"
+    "tag": "xhttp",
+    "count": 18,
+    "category": "client"
   },
   {
     "tag": "TLS",
@@ -275,14 +280,24 @@
     "category": "protocol"
   },
   {
-    "tag": "xhttp",
+    "tag": "meta",
     "count": 17,
-    "category": "client"
+    "category": "core"
   },
   {
     "tag": "TLSAuth",
     "count": 17,
     "category": "client"
+  },
+  {
+    "tag": "ruleset",
+    "count": 16,
+    "category": "dns_rules"
+  },
+  {
+    "tag": "geoip",
+    "count": 16,
+    "category": "dns_rules"
   },
   {
     "tag": "域名",
@@ -298,11 +313,6 @@
     "tag": "预发布",
     "count": 16,
     "category": "client"
-  },
-  {
-    "tag": "meta",
-    "count": 16,
-    "category": "core"
   },
   {
     "tag": "Alpha",
@@ -328,16 +338,6 @@
     "tag": "网络规则",
     "count": 15,
     "category": "ecosystem"
-  },
-  {
-    "tag": "ruleset",
-    "count": 14,
-    "category": "dns_rules"
-  },
-  {
-    "tag": "geoip",
-    "count": 14,
-    "category": "dns_rules"
   },
   {
     "tag": "v2rayA",

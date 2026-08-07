@@ -1,13 +1,13 @@
 {
-  "totalItems": 1268,
-  "last24h": 2,
-  "last7d": 57,
+  "totalItems": 1271,
+  "last24h": 4,
+  "last7d": 58,
   "byCategory": {
-    "core": 211,
+    "core": 212,
     "client": 244,
     "router": 2,
     "protocol": 57,
-    "dns_rules": 63,
+    "dns_rules": 65,
     "security": 28,
     "ecosystem": 663,
     "trend": 0
@@ -19,7 +19,7 @@
     },
     {
       "project": "mihomo",
-      "count": 163
+      "count": 164
     },
     {
       "project": "Sub-Store",
@@ -27,11 +27,11 @@
     },
     {
       "project": "v2ray-rules-dat",
-      "count": 98
+      "count": 99
     },
     {
       "project": "meta-rules-dat",
-      "count": 95
+      "count": 96
     },
     {
       "project": "metacubexd",
@@ -65,7 +65,7 @@
     },
     {
       "tag": "mihomo",
-      "count": 182
+      "count": 184
     },
     {
       "tag": "Sub-Store",
@@ -92,16 +92,16 @@
       "count": 86
     },
     {
+      "tag": "release",
+      "count": 84
+    },
+    {
       "tag": "3x-ui",
       "count": 83
     },
     {
       "tag": "metacubexd",
       "count": 82
-    },
-    {
-      "tag": "release",
-      "count": 81
     },
     {
       "tag": "OpenVPN",
@@ -136,8 +136,8 @@
       "count": 46
     }
   ],
-  "importantCount": 341,
-  "breakingCount": 63,
+  "importantCount": 343,
+  "breakingCount": 64,
   "securityCount": 82,
-  "updatedAt": "2026-08-07T00:13:37.723Z"
+  "updatedAt": "2026-08-07T03:17:45.009Z"
 }
