@@ -1,5 +1,5 @@
 {
-  "totalItems": 1280,
+  "totalItems": 1282,
   "last24h": 9,
   "last7d": 62,
   "byCategory": {
@@ -7,7 +7,7 @@
     "client": 244,
     "router": 2,
     "protocol": 57,
-    "dns_rules": 70,
+    "dns_rules": 72,
     "security": 29,
     "ecosystem": 663,
     "trend": 0
@@ -27,11 +27,11 @@
     },
     {
       "project": "v2ray-rules-dat",
-      "count": 99
+      "count": 100
     },
     {
       "project": "meta-rules-dat",
-      "count": 96
+      "count": 97
     },
     {
       "project": "metacubexd",
@@ -65,7 +65,7 @@
     },
     {
       "tag": "mihomo",
-      "count": 186
+      "count": 187
     },
     {
       "tag": "Sub-Store",
@@ -85,7 +85,7 @@
     },
     {
       "tag": "release",
-      "count": 93
+      "count": 95
     },
     {
       "tag": "meta-rules-dat",
@@ -129,15 +129,15 @@
     },
     {
       "tag": "geosite",
-      "count": 46
+      "count": 48
     },
     {
       "tag": "开源",
       "count": 46
     }
   ],
-  "importantCount": 349,
+  "importantCount": 351,
   "breakingCount": 66,
   "securityCount": 83,
-  "updatedAt": "2026-08-07T19:12:45.017Z"
+  "updatedAt": "2026-08-08T02:23:37.479Z"
 }

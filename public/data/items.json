@@ -1,5 +1,78 @@
 [
   {
+    "id": "9ebe15d489f6f977",
+    "title": "MetaCubeX/meta-rules-dat Release 2026-08-08 07:02",
+    "summary": "Release 2026-08-08 07:02",
+    "rawTitle": "Release 2026-08-08 07:02",
+    "rawBody": "",
+    "sourceType": "github_release",
+    "sourceName": "MetaCubeX/meta-rules-dat",
+    "sourceUrl": "https://github.com/MetaCubeX/meta-rules-dat/releases/tag/latest",
+    "project": "meta-rules-dat",
+    "repo": "MetaCubeX/meta-rules-dat",
+    "slug": "meta-rules-dat",
+    "version": "latest",
+    "category": "dns_rules",
+    "tags": [
+      "ruleset",
+      "geosite",
+      "geoip",
+      "mihomo",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-08-07T23:05:14Z",
+    "fetchedAt": "2026-08-08T02:23:34.295Z",
+    "firstSeenAt": "2026-08-08T02:23:37.069Z",
+    "updatedAt": "2026-08-08T02:23:37.069Z",
+    "hash": "9ebe15d489f6f977"
+  },
+  {
+    "id": "d91fd4c1751c3176",
+    "title": "Loyalsoldier/v2ray-rules-dat Released on 202608072228",
+    "summary": "Released on 202608072228",
+    "rawTitle": "Released on 202608072228",
+    "rawBody": "",
+    "sourceType": "github_release",
+    "sourceName": "Loyalsoldier/v2ray-rules-dat",
+    "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/tag/202608072228",
+    "project": "v2ray-rules-dat",
+    "repo": "Loyalsoldier/v2ray-rules-dat",
+    "slug": "v2ray-rules-dat",
+    "version": "202608072228",
+    "category": "dns_rules",
+    "tags": [
+      "ruleset",
+      "geosite",
+      "geoip",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-08-07T22:28:48Z",
+    "fetchedAt": "2026-08-08T02:23:34.214Z",
+    "firstSeenAt": "2026-08-08T02:23:36.258Z",
+    "updatedAt": "2026-08-08T02:23:36.258Z",
+    "hash": "d91fd4c1751c3176"
+  },
+  {
     "id": "f590a52084e66210",
     "title": "v2fly/domain-list-community 20260807145230",
     "summary": "20260807145230",

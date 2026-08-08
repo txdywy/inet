@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 186,
+    "count": 187,
     "category": "dns_rules"
   },
   {
@@ -36,7 +36,7 @@
   },
   {
     "tag": "release",
-    "count": 93,
+    "count": 95,
     "category": "dns_rules"
   },
   {
@@ -91,7 +91,7 @@
   },
   {
     "tag": "geosite",
-    "count": 46,
+    "count": 48,
     "category": "dns_rules"
   },
   {
@@ -260,6 +260,16 @@
     "category": "ecosystem"
   },
   {
+    "tag": "ruleset",
+    "count": 18,
+    "category": "dns_rules"
+  },
+  {
+    "tag": "geoip",
+    "count": 18,
+    "category": "dns_rules"
+  },
+  {
     "tag": "v2rayNG",
     "count": 18,
     "category": "client"
@@ -293,16 +303,6 @@
     "tag": "xray-core",
     "count": 16,
     "category": "security"
-  },
-  {
-    "tag": "ruleset",
-    "count": 16,
-    "category": "dns_rules"
-  },
-  {
-    "tag": "geoip",
-    "count": 16,
-    "category": "dns_rules"
   },
   {
     "tag": "域名",
