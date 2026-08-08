@@ -1,5 +1,44 @@
 [
   {
+    "id": "5a2af0703390d0b1",
+    "title": "SagerNet/sing-box 1.14.0-beta.10",
+    "summary": "1.14.0-beta.10",
+    "rawTitle": "1.14.0-beta.10",
+    "rawBody": "## :memo: Release Notes\n\n* Fixes and improvements",
+    "sourceType": "github_release",
+    "sourceName": "SagerNet/sing-box",
+    "sourceUrl": "https://github.com/SagerNet/sing-box/releases/tag/v1.14.0-beta.10",
+    "project": "sing-box",
+    "repo": "SagerNet/sing-box",
+    "slug": "sing-box",
+    "version": "1.14.0-beta.10",
+    "category": "core",
+    "tags": [
+      "sing-box",
+      "vless",
+      "hysteria2",
+      "tuic",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos",
+      "android",
+      "ios"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-08-08T14:31:24Z",
+    "fetchedAt": "2026-08-08T18:55:55.768Z",
+    "firstSeenAt": "2026-08-08T18:56:10.119Z",
+    "updatedAt": "2026-08-08T18:56:10.119Z",
+    "hash": "5a2af0703390d0b1"
+  },
+  {
     "id": "fe6c3bbbe2134d44",
     "title": "2dust/v2rayN 7.24.6",
     "summary": "7.24.6",

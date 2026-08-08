@@ -1,9 +1,9 @@
 {
-  "totalItems": 1284,
-  "last24h": 7,
-  "last7d": 57,
+  "totalItems": 1285,
+  "last24h": 4,
+  "last7d": 56,
   "byCategory": {
-    "core": 216,
+    "core": 217,
     "client": 245,
     "router": 2,
     "protocol": 57,
@@ -43,7 +43,7 @@
     },
     {
       "project": "sing-box",
-      "count": 47
+      "count": 48
     },
     {
       "project": "gost",
@@ -80,12 +80,12 @@
       "count": 100
     },
     {
-      "tag": "domain-list",
+      "tag": "release",
       "count": 98
     },
     {
-      "tag": "release",
-      "count": 97
+      "tag": "domain-list",
+      "count": 98
     },
     {
       "tag": "meta-rules-dat",
@@ -121,7 +121,7 @@
     },
     {
       "tag": "sing-box",
-      "count": 56
+      "count": 57
     },
     {
       "tag": "Android",
@@ -136,8 +136,8 @@
       "count": 46
     }
   ],
-  "importantCount": 352,
+  "importantCount": 353,
   "breakingCount": 67,
   "securityCount": 83,
-  "updatedAt": "2026-08-08T13:13:57.469Z"
+  "updatedAt": "2026-08-08T18:56:10.570Z"
 }

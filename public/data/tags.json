@@ -30,14 +30,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "release",
+    "count": 98,
+    "category": "core"
+  },
+  {
     "tag": "domain-list",
     "count": 98,
     "category": "dns_rules"
-  },
-  {
-    "tag": "release",
-    "count": 97,
-    "category": "client"
   },
   {
     "tag": "meta-rules-dat",
@@ -81,7 +81,7 @@
   },
   {
     "tag": "sing-box",
-    "count": 56,
+    "count": 57,
     "category": "core"
   },
   {
@@ -340,6 +340,16 @@
     "category": "ecosystem"
   },
   {
+    "tag": "vless",
+    "count": 14,
+    "category": "core"
+  },
+  {
+    "tag": "hysteria2",
+    "count": 14,
+    "category": "core"
+  },
+  {
     "tag": "v2rayA",
     "count": 14,
     "category": "client"
@@ -365,16 +375,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "vless",
-    "count": 13,
-    "category": "core"
-  },
-  {
-    "tag": "hysteria2",
-    "count": 13,
-    "category": "core"
-  },
-  {
     "tag": "OpenWrt",
     "count": 13,
     "category": "security"
@@ -390,13 +390,13 @@
     "category": "client"
   },
   {
-    "tag": "HTTP",
+    "tag": "tuic",
     "count": 12,
     "category": "core"
   },
   {
-    "tag": "tuic",
-    "count": 11,
+    "tag": "HTTP",
+    "count": 12,
     "category": "core"
   },
   {
