@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 187,
+    "count": 188,
     "category": "dns_rules"
   },
   {
@@ -36,8 +36,8 @@
   },
   {
     "tag": "release",
-    "count": 95,
-    "category": "dns_rules"
+    "count": 97,
+    "category": "client"
   },
   {
     "tag": "meta-rules-dat",
@@ -185,14 +185,14 @@
     "category": "dns_rules"
   },
   {
+    "tag": "quic",
+    "count": 25,
+    "category": "security"
+  },
+  {
     "tag": "网络工具",
     "count": 25,
     "category": "ecosystem"
-  },
-  {
-    "tag": "quic",
-    "count": 24,
-    "category": "security"
   },
   {
     "tag": "HTTP/2",
@@ -221,13 +221,18 @@
   },
   {
     "tag": "ech",
-    "count": 20,
+    "count": 21,
     "category": "dns_rules"
   },
   {
     "tag": "clash",
-    "count": 20,
+    "count": 21,
     "category": "ecosystem"
+  },
+  {
+    "tag": "xhttp",
+    "count": 21,
+    "category": "client"
   },
   {
     "tag": "QUIC",
@@ -235,9 +240,9 @@
     "category": "ecosystem"
   },
   {
-    "tag": "xhttp",
+    "tag": "meta",
     "count": 20,
-    "category": "client"
+    "category": "core"
   },
   {
     "tag": "rematch",
@@ -248,11 +253,6 @@
     "tag": "macOS",
     "count": 19,
     "category": "client"
-  },
-  {
-    "tag": "meta",
-    "count": 19,
-    "category": "core"
   },
   {
     "tag": "CHACHA20-POLY1305",
@@ -280,6 +280,11 @@
     "category": "core"
   },
   {
+    "tag": "xray-core",
+    "count": 17,
+    "category": "client"
+  },
+  {
     "tag": "TLS",
     "count": 17,
     "category": "ecosystem"
@@ -298,11 +303,6 @@
     "tag": "TLSAuth",
     "count": 17,
     "category": "client"
-  },
-  {
-    "tag": "xray-core",
-    "count": 16,
-    "category": "security"
   },
   {
     "tag": "域名",
@@ -1160,6 +1160,16 @@
     "category": "protocol"
   },
   {
+    "tag": "v2rayn",
+    "count": 2,
+    "category": "client"
+  },
+  {
+    "tag": "windows",
+    "count": 2,
+    "category": "client"
+  },
+  {
     "tag": "mesh",
     "count": 2,
     "category": "ecosystem"
@@ -1683,16 +1693,6 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
-  },
-  {
-    "tag": "v2rayn",
-    "count": 1,
-    "category": "client"
-  },
-  {
-    "tag": "windows",
-    "count": 1,
-    "category": "client"
   },
   {
     "tag": "tunnel",

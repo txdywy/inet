@@ -1,10 +1,10 @@
 {
-  "totalItems": 1282,
+  "totalItems": 1284,
   "last24h": 7,
-  "last7d": 61,
+  "last7d": 57,
   "byCategory": {
-    "core": 215,
-    "client": 244,
+    "core": 216,
+    "client": 245,
     "router": 2,
     "protocol": 57,
     "dns_rules": 72,
@@ -19,7 +19,7 @@
     },
     {
       "project": "mihomo",
-      "count": 166
+      "count": 167
     },
     {
       "project": "Sub-Store",
@@ -65,7 +65,7 @@
     },
     {
       "tag": "mihomo",
-      "count": 187
+      "count": 188
     },
     {
       "tag": "Sub-Store",
@@ -85,7 +85,7 @@
     },
     {
       "tag": "release",
-      "count": 95
+      "count": 97
     },
     {
       "tag": "meta-rules-dat",
@@ -136,8 +136,8 @@
       "count": 46
     }
   ],
-  "importantCount": 351,
-  "breakingCount": 66,
+  "importantCount": 352,
+  "breakingCount": 67,
   "securityCount": 83,
-  "updatedAt": "2026-08-08T07:18:08.309Z"
+  "updatedAt": "2026-08-08T13:13:57.469Z"
 }
