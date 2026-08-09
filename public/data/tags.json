@@ -26,7 +26,7 @@
   },
   {
     "tag": "release",
-    "count": 101,
+    "count": 104,
     "category": "core"
   },
   {
@@ -75,14 +75,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "sing-box",
+    "count": 59,
+    "category": "core"
+  },
+  {
     "tag": "开发版本",
     "count": 59,
     "category": "ecosystem"
-  },
-  {
-    "tag": "sing-box",
-    "count": 57,
-    "category": "core"
   },
   {
     "tag": "Android",
@@ -270,6 +270,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "hysteria2",
+    "count": 18,
+    "category": "core"
+  },
+  {
     "tag": "v2rayNG",
     "count": 18,
     "category": "client"
@@ -305,6 +310,16 @@
     "category": "client"
   },
   {
+    "tag": "vless",
+    "count": 16,
+    "category": "core"
+  },
+  {
+    "tag": "naiveproxy",
+    "count": 16,
+    "category": "core"
+  },
+  {
     "tag": "域名",
     "count": 16,
     "category": "ecosystem"
@@ -325,16 +340,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "hysteria2",
-    "count": 15,
-    "category": "core"
-  },
-  {
-    "tag": "naiveproxy",
-    "count": 15,
-    "category": "security"
-  },
-  {
     "tag": "xray",
     "count": 15,
     "category": "security"
@@ -345,7 +350,7 @@
     "category": "ecosystem"
   },
   {
-    "tag": "vless",
+    "tag": "tuic",
     "count": 14,
     "category": "core"
   },
@@ -388,11 +393,6 @@
     "tag": "SOCKS",
     "count": 13,
     "category": "client"
-  },
-  {
-    "tag": "tuic",
-    "count": 12,
-    "category": "core"
   },
   {
     "tag": "HTTP",
@@ -1693,6 +1693,21 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "v2raya",
+    "count": 1,
+    "category": "client"
+  },
+  {
+    "tag": "web",
+    "count": 1,
+    "category": "client"
+  },
+  {
+    "tag": "transparent-proxy",
+    "count": 1,
+    "category": "client"
   },
   {
     "tag": "tunnel",

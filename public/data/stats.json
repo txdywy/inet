@@ -1,10 +1,10 @@
 {
-  "totalItems": 1288,
-  "last24h": 5,
-  "last7d": 55,
+  "totalItems": 1291,
+  "last24h": 7,
+  "last7d": 57,
   "byCategory": {
-    "core": 218,
-    "client": 245,
+    "core": 220,
+    "client": 246,
     "router": 2,
     "protocol": 57,
     "dns_rules": 74,
@@ -43,7 +43,7 @@
     },
     {
       "project": "sing-box",
-      "count": 48
+      "count": 50
     },
     {
       "project": "gost",
@@ -77,7 +77,7 @@
     },
     {
       "tag": "release",
-      "count": 101
+      "count": 104
     },
     {
       "tag": "v2ray",
@@ -116,12 +116,12 @@
       "count": 67
     },
     {
-      "tag": "开发版本",
+      "tag": "sing-box",
       "count": 59
     },
     {
-      "tag": "sing-box",
-      "count": 57
+      "tag": "开发版本",
+      "count": 59
     },
     {
       "tag": "Android",
@@ -136,8 +136,8 @@
       "count": 46
     }
   ],
-  "importantCount": 355,
+  "importantCount": 358,
   "breakingCount": 67,
   "securityCount": 83,
-  "updatedAt": "2026-08-09T07:25:42.040Z"
+  "updatedAt": "2026-08-09T13:17:08.994Z"
 }
