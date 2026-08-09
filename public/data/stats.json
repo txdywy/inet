@@ -1,13 +1,13 @@
 {
-  "totalItems": 1285,
-  "last24h": 4,
-  "last7d": 56,
+  "totalItems": 1288,
+  "last24h": 5,
+  "last7d": 57,
   "byCategory": {
-    "core": 217,
+    "core": 218,
     "client": 245,
     "router": 2,
     "protocol": 57,
-    "dns_rules": 72,
+    "dns_rules": 74,
     "security": 29,
     "ecosystem": 663,
     "trend": 0
@@ -27,11 +27,11 @@
     },
     {
       "project": "v2ray-rules-dat",
-      "count": 100
+      "count": 101
     },
     {
       "project": "meta-rules-dat",
-      "count": 97
+      "count": 98
     },
     {
       "project": "metacubexd",
@@ -65,7 +65,7 @@
     },
     {
       "tag": "mihomo",
-      "count": 188
+      "count": 189
     },
     {
       "tag": "Sub-Store",
@@ -76,12 +76,12 @@
       "count": 109
     },
     {
-      "tag": "v2ray",
-      "count": 100
+      "tag": "release",
+      "count": 101
     },
     {
-      "tag": "release",
-      "count": 98
+      "tag": "v2ray",
+      "count": 100
     },
     {
       "tag": "domain-list",
@@ -129,15 +129,15 @@
     },
     {
       "tag": "geosite",
-      "count": 48
+      "count": 50
     },
     {
       "tag": "开源",
       "count": 46
     }
   ],
-  "importantCount": 353,
+  "importantCount": 355,
   "breakingCount": 67,
   "securityCount": 83,
-  "updatedAt": "2026-08-08T18:56:10.570Z"
+  "updatedAt": "2026-08-09T02:31:25.752Z"
 }

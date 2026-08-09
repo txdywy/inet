@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 188,
+    "count": 189,
     "category": "dns_rules"
   },
   {
@@ -25,14 +25,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "release",
+    "count": 101,
+    "category": "core"
+  },
+  {
     "tag": "v2ray",
     "count": 100,
     "category": "ecosystem"
-  },
-  {
-    "tag": "release",
-    "count": 98,
-    "category": "core"
   },
   {
     "tag": "domain-list",
@@ -91,7 +91,7 @@
   },
   {
     "tag": "geosite",
-    "count": 48,
+    "count": 50,
     "category": "dns_rules"
   },
   {
@@ -180,14 +180,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "quic",
+    "count": 26,
+    "category": "core"
+  },
+  {
     "tag": "DNS",
     "count": 26,
     "category": "dns_rules"
-  },
-  {
-    "tag": "quic",
-    "count": 25,
-    "category": "security"
   },
   {
     "tag": "网络工具",
@@ -210,6 +210,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "ech",
+    "count": 22,
+    "category": "core"
+  },
+  {
     "tag": "用户界面",
     "count": 22,
     "category": "client"
@@ -220,11 +225,6 @@
     "category": "core"
   },
   {
-    "tag": "ech",
-    "count": 21,
-    "category": "dns_rules"
-  },
-  {
     "tag": "clash",
     "count": 21,
     "category": "ecosystem"
@@ -233,6 +233,16 @@
     "tag": "xhttp",
     "count": 21,
     "category": "client"
+  },
+  {
+    "tag": "ruleset",
+    "count": 20,
+    "category": "dns_rules"
+  },
+  {
+    "tag": "geoip",
+    "count": 20,
+    "category": "dns_rules"
   },
   {
     "tag": "QUIC",
@@ -258,16 +268,6 @@
     "tag": "CHACHA20-POLY1305",
     "count": 19,
     "category": "ecosystem"
-  },
-  {
-    "tag": "ruleset",
-    "count": 18,
-    "category": "dns_rules"
-  },
-  {
-    "tag": "geoip",
-    "count": 18,
-    "category": "dns_rules"
   },
   {
     "tag": "v2rayNG",
@@ -325,6 +325,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "hysteria2",
+    "count": 15,
+    "category": "core"
+  },
+  {
     "tag": "naiveproxy",
     "count": 15,
     "category": "security"
@@ -341,11 +346,6 @@
   },
   {
     "tag": "vless",
-    "count": 14,
-    "category": "core"
-  },
-  {
-    "tag": "hysteria2",
     "count": 14,
     "category": "core"
   },
