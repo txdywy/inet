@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 189,
+    "count": 190,
     "category": "dns_rules"
   },
   {
@@ -26,8 +26,8 @@
   },
   {
     "tag": "release",
-    "count": 104,
-    "category": "core"
+    "count": 106,
+    "category": "ecosystem"
   },
   {
     "tag": "v2ray",
@@ -181,7 +181,7 @@
   },
   {
     "tag": "quic",
-    "count": 26,
+    "count": 27,
     "category": "core"
   },
   {
@@ -200,6 +200,11 @@
     "category": "protocol"
   },
   {
+    "tag": "ech",
+    "count": 23,
+    "category": "core"
+  },
+  {
     "tag": "依赖更新",
     "count": 23,
     "category": "ecosystem"
@@ -210,9 +215,9 @@
     "category": "ecosystem"
   },
   {
-    "tag": "ech",
+    "tag": "clash",
     "count": 22,
-    "category": "core"
+    "category": "ecosystem"
   },
   {
     "tag": "用户界面",
@@ -225,14 +230,14 @@
     "category": "core"
   },
   {
-    "tag": "clash",
-    "count": 21,
-    "category": "ecosystem"
+    "tag": "xhttp",
+    "count": 22,
+    "category": "client"
   },
   {
-    "tag": "xhttp",
+    "tag": "meta",
     "count": 21,
-    "category": "client"
+    "category": "core"
   },
   {
     "tag": "ruleset",
@@ -248,11 +253,6 @@
     "tag": "QUIC",
     "count": 20,
     "category": "ecosystem"
-  },
-  {
-    "tag": "meta",
-    "count": 20,
-    "category": "core"
   },
   {
     "tag": "rematch",
@@ -590,6 +590,16 @@
     "category": "ecosystem"
   },
   {
+    "tag": "sub-store",
+    "count": 6,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "subscription",
+    "count": 6,
+    "category": "ecosystem"
+  },
+  {
     "tag": "安全更新",
     "count": 6,
     "category": "security"
@@ -662,16 +672,6 @@
   {
     "tag": "openvpn",
     "count": 6,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "sub-store",
-    "count": 5,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "subscription",
-    "count": 5,
     "category": "ecosystem"
   },
   {

@@ -1,15 +1,15 @@
 {
-  "totalItems": 1291,
+  "totalItems": 1293,
   "last24h": 7,
   "last7d": 57,
   "byCategory": {
-    "core": 220,
+    "core": 221,
     "client": 246,
     "router": 2,
     "protocol": 57,
     "dns_rules": 74,
     "security": 29,
-    "ecosystem": 663,
+    "ecosystem": 664,
     "trend": 0
   },
   "topProjects": [
@@ -19,11 +19,11 @@
     },
     {
       "project": "mihomo",
-      "count": 167
+      "count": 168
     },
     {
       "project": "Sub-Store",
-      "count": 122
+      "count": 123
     },
     {
       "project": "v2ray-rules-dat",
@@ -65,7 +65,7 @@
     },
     {
       "tag": "mihomo",
-      "count": 189
+      "count": 190
     },
     {
       "tag": "Sub-Store",
@@ -77,7 +77,7 @@
     },
     {
       "tag": "release",
-      "count": 104
+      "count": 106
     },
     {
       "tag": "v2ray",
@@ -136,8 +136,8 @@
       "count": 46
     }
   ],
-  "importantCount": 358,
-  "breakingCount": 67,
+  "importantCount": 359,
+  "breakingCount": 68,
   "securityCount": 83,
-  "updatedAt": "2026-08-09T13:17:08.994Z"
+  "updatedAt": "2026-08-09T18:58:46.223Z"
 }
