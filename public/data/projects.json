@@ -350,20 +350,6 @@
     ]
   },
   {
-    "slug": "openwrt",
-    "name": "openwrt",
-    "repo": "openwrt/openwrt",
-    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
-    "category": "ecosystem",
-    "platforms": [
-      "openwrt",
-      "router"
-    ],
-    "tags": [
-      "openwrt"
-    ]
-  },
-  {
     "slug": "openclash",
     "name": "OpenClash",
     "repo": "vernesong/OpenClash",
@@ -378,6 +364,20 @@
       "openwrt",
       "luci",
       "clash"
+    ]
+  },
+  {
+    "slug": "openwrt",
+    "name": "openwrt",
+    "repo": "openwrt/openwrt",
+    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
+    "category": "ecosystem",
+    "platforms": [
+      "openwrt",
+      "router"
+    ],
+    "tags": [
+      "openwrt"
     ]
   },
   {

@@ -21,7 +21,7 @@
   },
   {
     "tag": "release",
-    "count": 111,
+    "count": 113,
     "category": "ecosystem"
   },
   {
@@ -190,24 +190,24 @@
     "category": "dns_rules"
   },
   {
+    "tag": "ech",
+    "count": 25,
+    "category": "router"
+  },
+  {
     "tag": "网络工具",
     "count": 25,
     "category": "ecosystem"
   },
   {
-    "tag": "ech",
+    "tag": "clash",
     "count": 24,
-    "category": "core"
+    "category": "router"
   },
   {
     "tag": "HTTP/2",
     "count": 24,
     "category": "protocol"
-  },
-  {
-    "tag": "clash",
-    "count": 23,
-    "category": "ecosystem"
   },
   {
     "tag": "依赖更新",
@@ -495,6 +495,16 @@
     "category": "ecosystem"
   },
   {
+    "tag": "sub-store",
+    "count": 8,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "subscription",
+    "count": 8,
+    "category": "ecosystem"
+  },
+  {
     "tag": "v2ray-core",
     "count": 8,
     "category": "core"
@@ -548,16 +558,6 @@
     "tag": "QUICv2",
     "count": 8,
     "category": "core"
-  },
-  {
-    "tag": "sub-store",
-    "count": 7,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "subscription",
-    "count": 7,
-    "category": "ecosystem"
   },
   {
     "tag": "Shadowrocket",
@@ -925,6 +925,11 @@
     "category": "client"
   },
   {
+    "tag": "openwrt",
+    "count": 3,
+    "category": "router"
+  },
+  {
     "tag": "tailscale",
     "count": 3,
     "category": "ecosystem"
@@ -1160,6 +1165,11 @@
     "category": "protocol"
   },
   {
+    "tag": "luci",
+    "count": 2,
+    "category": "router"
+  },
+  {
     "tag": "v2rayn",
     "count": 2,
     "category": "client"
@@ -1178,11 +1188,6 @@
     "tag": "grpc",
     "count": 2,
     "category": "core"
-  },
-  {
-    "tag": "openwrt",
-    "count": 2,
-    "category": "router"
   },
   {
     "tag": "dashboard",
@@ -1695,6 +1700,11 @@
     "category": "security"
   },
   {
+    "tag": "openclash",
+    "count": 1,
+    "category": "router"
+  },
+  {
     "tag": "v2raya",
     "count": 1,
     "category": "client"
@@ -1716,11 +1726,6 @@
   },
   {
     "tag": "ssrplus",
-    "count": 1,
-    "category": "router"
-  },
-  {
-    "tag": "luci",
     "count": 1,
     "category": "router"
   },
