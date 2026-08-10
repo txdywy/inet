@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 190,
+    "count": 191,
     "category": "dns_rules"
   },
   {
@@ -26,8 +26,8 @@
   },
   {
     "tag": "release",
-    "count": 106,
-    "category": "ecosystem"
+    "count": 108,
+    "category": "dns_rules"
   },
   {
     "tag": "v2ray",
@@ -85,14 +85,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "geosite",
+    "count": 52,
+    "category": "dns_rules"
+  },
+  {
     "tag": "Android",
     "count": 51,
     "category": "client"
-  },
-  {
-    "tag": "geosite",
-    "count": 50,
-    "category": "dns_rules"
   },
   {
     "tag": "开源",
@@ -215,6 +215,16 @@
     "category": "ecosystem"
   },
   {
+    "tag": "ruleset",
+    "count": 22,
+    "category": "dns_rules"
+  },
+  {
+    "tag": "geoip",
+    "count": 22,
+    "category": "dns_rules"
+  },
+  {
     "tag": "clash",
     "count": 22,
     "category": "ecosystem"
@@ -238,16 +248,6 @@
     "tag": "meta",
     "count": 21,
     "category": "core"
-  },
-  {
-    "tag": "ruleset",
-    "count": 20,
-    "category": "dns_rules"
-  },
-  {
-    "tag": "geoip",
-    "count": 20,
-    "category": "dns_rules"
   },
   {
     "tag": "QUIC",
