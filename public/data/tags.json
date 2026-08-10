@@ -21,8 +21,8 @@
   },
   {
     "tag": "release",
-    "count": 109,
-    "category": "dns_rules"
+    "count": 111,
+    "category": "ecosystem"
   },
   {
     "tag": "domain-list-community",
@@ -76,7 +76,7 @@
   },
   {
     "tag": "sing-box",
-    "count": 59,
+    "count": 60,
     "category": "core"
   },
   {
@@ -260,6 +260,11 @@
     "category": "core"
   },
   {
+    "tag": "hysteria2",
+    "count": 19,
+    "category": "core"
+  },
+  {
     "tag": "macOS",
     "count": 19,
     "category": "client"
@@ -270,11 +275,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "hysteria2",
-    "count": 18,
-    "category": "core"
-  },
-  {
     "tag": "v2rayNG",
     "count": 18,
     "category": "client"
@@ -282,6 +282,11 @@
   {
     "tag": "Xray",
     "count": 18,
+    "category": "core"
+  },
+  {
+    "tag": "vless",
+    "count": 17,
     "category": "core"
   },
   {
@@ -310,11 +315,6 @@
     "category": "client"
   },
   {
-    "tag": "vless",
-    "count": 16,
-    "category": "core"
-  },
-  {
     "tag": "naiveproxy",
     "count": 16,
     "category": "core"
@@ -340,6 +340,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "tuic",
+    "count": 15,
+    "category": "core"
+  },
+  {
     "tag": "xray",
     "count": 15,
     "category": "security"
@@ -348,11 +353,6 @@
     "tag": "网络规则",
     "count": 15,
     "category": "ecosystem"
-  },
-  {
-    "tag": "tuic",
-    "count": 14,
-    "category": "core"
   },
   {
     "tag": "v2rayA",
@@ -550,6 +550,16 @@
     "category": "core"
   },
   {
+    "tag": "sub-store",
+    "count": 7,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "subscription",
+    "count": 7,
+    "category": "ecosystem"
+  },
+  {
     "tag": "Shadowrocket",
     "count": 7,
     "category": "client"
@@ -587,16 +597,6 @@
   {
     "tag": "shadowsocks",
     "count": 7,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "sub-store",
-    "count": 6,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "subscription",
-    "count": 6,
     "category": "ecosystem"
   },
   {

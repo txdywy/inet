@@ -1,15 +1,15 @@
 {
-  "totalItems": 1296,
-  "last24h": 3,
+  "totalItems": 1298,
+  "last24h": 5,
   "last7d": 56,
   "byCategory": {
-    "core": 222,
+    "core": 223,
     "client": 246,
     "router": 2,
     "protocol": 57,
     "dns_rules": 76,
     "security": 29,
-    "ecosystem": 664,
+    "ecosystem": 665,
     "trend": 0
   },
   "topProjects": [
@@ -23,7 +23,7 @@
     },
     {
       "project": "Sub-Store",
-      "count": 123
+      "count": 124
     },
     {
       "project": "v2ray-rules-dat",
@@ -43,7 +43,7 @@
     },
     {
       "project": "sing-box",
-      "count": 50
+      "count": 51
     },
     {
       "project": "gost",
@@ -73,7 +73,7 @@
     },
     {
       "tag": "release",
-      "count": 109
+      "count": 111
     },
     {
       "tag": "domain-list-community",
@@ -117,7 +117,7 @@
     },
     {
       "tag": "sing-box",
-      "count": 59
+      "count": 60
     },
     {
       "tag": "开发版本",
@@ -136,8 +136,8 @@
       "count": 46
     }
   ],
-  "importantCount": 361,
+  "importantCount": 363,
   "breakingCount": 69,
   "securityCount": 83,
-  "updatedAt": "2026-08-10T08:07:16.823Z"
+  "updatedAt": "2026-08-10T13:46:53.388Z"
 }
