@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 191,
+    "count": 192,
     "category": "dns_rules"
   },
   {
@@ -20,14 +20,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "release",
+    "count": 109,
+    "category": "dns_rules"
+  },
+  {
     "tag": "domain-list-community",
     "count": 109,
     "category": "ecosystem"
-  },
-  {
-    "tag": "release",
-    "count": 108,
-    "category": "dns_rules"
   },
   {
     "tag": "v2ray",
@@ -181,7 +181,7 @@
   },
   {
     "tag": "quic",
-    "count": 27,
+    "count": 28,
     "category": "core"
   },
   {
@@ -195,14 +195,19 @@
     "category": "ecosystem"
   },
   {
+    "tag": "ech",
+    "count": 24,
+    "category": "core"
+  },
+  {
     "tag": "HTTP/2",
     "count": 24,
     "category": "protocol"
   },
   {
-    "tag": "ech",
+    "tag": "clash",
     "count": 23,
-    "category": "core"
+    "category": "ecosystem"
   },
   {
     "tag": "依赖更新",
@@ -215,6 +220,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "xhttp",
+    "count": 23,
+    "category": "client"
+  },
+  {
     "tag": "ruleset",
     "count": 22,
     "category": "dns_rules"
@@ -223,11 +233,6 @@
     "tag": "geoip",
     "count": 22,
     "category": "dns_rules"
-  },
-  {
-    "tag": "clash",
-    "count": 22,
-    "category": "ecosystem"
   },
   {
     "tag": "用户界面",
@@ -240,13 +245,8 @@
     "category": "core"
   },
   {
-    "tag": "xhttp",
-    "count": 22,
-    "category": "client"
-  },
-  {
     "tag": "meta",
-    "count": 21,
+    "count": 22,
     "category": "core"
   },
   {
