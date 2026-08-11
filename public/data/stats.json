@@ -1,21 +1,21 @@
 {
-  "totalItems": 1303,
-  "last24h": 7,
-  "last7d": 51,
+  "totalItems": 1307,
+  "last24h": 9,
+  "last7d": 53,
   "byCategory": {
     "core": 224,
-    "client": 246,
+    "client": 247,
     "router": 3,
     "protocol": 57,
-    "dns_rules": 78,
+    "dns_rules": 80,
     "security": 29,
-    "ecosystem": 666,
+    "ecosystem": 667,
     "trend": 0
   },
   "topProjects": [
     {
       "project": "domain-list-community",
-      "count": 228
+      "count": 230
     },
     {
       "project": "mihomo",
@@ -23,7 +23,7 @@
     },
     {
       "project": "Sub-Store",
-      "count": 125
+      "count": 126
     },
     {
       "project": "v2ray-rules-dat",
@@ -65,27 +65,27 @@
     },
     {
       "tag": "mihomo",
-      "count": 193
+      "count": 194
+    },
+    {
+      "tag": "release",
+      "count": 120
     },
     {
       "tag": "Sub-Store",
       "count": 117
     },
     {
-      "tag": "release",
-      "count": 116
-    },
-    {
       "tag": "domain-list-community",
       "count": 109
     },
     {
-      "tag": "v2ray",
+      "tag": "domain-list",
       "count": 100
     },
     {
-      "tag": "domain-list",
-      "count": 98
+      "tag": "v2ray",
+      "count": 100
     },
     {
       "tag": "meta-rules-dat",
@@ -125,7 +125,7 @@
     },
     {
       "tag": "geosite",
-      "count": 54
+      "count": 56
     },
     {
       "tag": "Android",
@@ -136,8 +136,8 @@
       "count": 46
     }
   ],
-  "importantCount": 367,
+  "importantCount": 370,
   "breakingCount": 69,
   "securityCount": 83,
-  "updatedAt": "2026-08-11T07:40:09.047Z"
+  "updatedAt": "2026-08-11T13:45:00.761Z"
 }

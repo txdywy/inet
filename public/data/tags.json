@@ -11,8 +11,13 @@
   },
   {
     "tag": "mihomo",
-    "count": 193,
-    "category": "dns_rules"
+    "count": 194,
+    "category": "client"
+  },
+  {
+    "tag": "release",
+    "count": 120,
+    "category": "client"
   },
   {
     "tag": "Sub-Store",
@@ -20,24 +25,19 @@
     "category": "ecosystem"
   },
   {
-    "tag": "release",
-    "count": 116,
-    "category": "core"
-  },
-  {
     "tag": "domain-list-community",
     "count": 109,
     "category": "ecosystem"
   },
   {
+    "tag": "domain-list",
+    "count": 100,
+    "category": "dns_rules"
+  },
+  {
     "tag": "v2ray",
     "count": 100,
     "category": "ecosystem"
-  },
-  {
-    "tag": "domain-list",
-    "count": 98,
-    "category": "dns_rules"
   },
   {
     "tag": "meta-rules-dat",
@@ -86,7 +86,7 @@
   },
   {
     "tag": "geosite",
-    "count": 54,
+    "count": 56,
     "category": "dns_rules"
   },
   {
@@ -450,6 +450,16 @@
     "category": "dns_rules"
   },
   {
+    "tag": "sub-store",
+    "count": 9,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "subscription",
+    "count": 9,
+    "category": "ecosystem"
+  },
+  {
     "tag": "配置管理",
     "count": 9,
     "category": "ecosystem"
@@ -492,16 +502,6 @@
   {
     "tag": "CBC",
     "count": 9,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "sub-store",
-    "count": 8,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "subscription",
-    "count": 8,
     "category": "ecosystem"
   },
   {
@@ -558,6 +558,11 @@
     "tag": "QUICv2",
     "count": 8,
     "category": "core"
+  },
+  {
+    "tag": "mihomo-party",
+    "count": 7,
+    "category": "client"
   },
   {
     "tag": "Shadowrocket",
@@ -646,11 +651,6 @@
   },
   {
     "tag": "Clash Verge",
-    "count": 6,
-    "category": "client"
-  },
-  {
-    "tag": "mihomo-party",
     "count": 6,
     "category": "client"
   },
@@ -1698,6 +1698,16 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "desktop",
+    "count": 1,
+    "category": "client"
+  },
+  {
+    "tag": "vision",
+    "count": 1,
+    "category": "dns_rules"
   },
   {
     "tag": "openclash",
