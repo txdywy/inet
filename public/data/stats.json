@@ -1,13 +1,13 @@
 {
-  "totalItems": 1300,
+  "totalItems": 1302,
   "last24h": 6,
-  "last7d": 57,
+  "last7d": 56,
   "byCategory": {
     "core": 223,
     "client": 246,
     "router": 3,
     "protocol": 57,
-    "dns_rules": 76,
+    "dns_rules": 78,
     "security": 29,
     "ecosystem": 666,
     "trend": 0
@@ -27,11 +27,11 @@
     },
     {
       "project": "v2ray-rules-dat",
-      "count": 102
+      "count": 103
     },
     {
       "project": "meta-rules-dat",
-      "count": 99
+      "count": 100
     },
     {
       "project": "metacubexd",
@@ -65,7 +65,7 @@
     },
     {
       "tag": "mihomo",
-      "count": 192
+      "count": 193
     },
     {
       "tag": "Sub-Store",
@@ -73,7 +73,7 @@
     },
     {
       "tag": "release",
-      "count": 113
+      "count": 115
     },
     {
       "tag": "domain-list-community",
@@ -125,7 +125,7 @@
     },
     {
       "tag": "geosite",
-      "count": 52
+      "count": 54
     },
     {
       "tag": "Android",
@@ -136,8 +136,8 @@
       "count": 46
     }
   ],
-  "importantCount": 364,
+  "importantCount": 366,
   "breakingCount": 69,
   "securityCount": 83,
-  "updatedAt": "2026-08-10T19:14:03.483Z"
+  "updatedAt": "2026-08-11T02:29:48.099Z"
 }

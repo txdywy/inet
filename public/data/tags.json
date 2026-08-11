@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 192,
+    "count": 193,
     "category": "dns_rules"
   },
   {
@@ -21,8 +21,8 @@
   },
   {
     "tag": "release",
-    "count": 113,
-    "category": "ecosystem"
+    "count": 115,
+    "category": "dns_rules"
   },
   {
     "tag": "domain-list-community",
@@ -86,7 +86,7 @@
   },
   {
     "tag": "geosite",
-    "count": 52,
+    "count": 54,
     "category": "dns_rules"
   },
   {
@@ -200,6 +200,16 @@
     "category": "ecosystem"
   },
   {
+    "tag": "ruleset",
+    "count": 24,
+    "category": "dns_rules"
+  },
+  {
+    "tag": "geoip",
+    "count": 24,
+    "category": "dns_rules"
+  },
+  {
     "tag": "clash",
     "count": 24,
     "category": "router"
@@ -223,16 +233,6 @@
     "tag": "xhttp",
     "count": 23,
     "category": "client"
-  },
-  {
-    "tag": "ruleset",
-    "count": 22,
-    "category": "dns_rules"
-  },
-  {
-    "tag": "geoip",
-    "count": 22,
-    "category": "dns_rules"
   },
   {
     "tag": "用户界面",
