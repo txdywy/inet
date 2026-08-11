@@ -1,5 +1,41 @@
 [
   {
+    "id": "1c0c859155396151",
+    "title": "v2rayA/v2rayA v2.4.11",
+    "summary": "v2.4.11",
+    "rawTitle": "v2.4.11",
+    "rawBody": "**Full Changelog**: https://github.com/v2rayA/v2rayA/compare/v2.4.10...v2.4.11",
+    "sourceType": "github_release",
+    "sourceName": "v2rayA/v2rayA",
+    "sourceUrl": "https://github.com/v2rayA/v2rayA/releases/tag/v2.4.11",
+    "project": "v2rayA",
+    "repo": "v2rayA/v2rayA",
+    "slug": "v2raya",
+    "version": "2.4.11",
+    "category": "client",
+    "tags": [
+      "v2raya",
+      "web",
+      "transparent-proxy",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 4,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2026-08-11T14:30:23Z",
+    "fetchedAt": "2026-08-11T19:16:53.884Z",
+    "firstSeenAt": "2026-08-11T19:17:01.294Z",
+    "updatedAt": "2026-08-11T19:17:01.294Z",
+    "hash": "1c0c859155396151"
+  },
+  {
     "id": "fd2e0571128f7bd3",
     "title": "mihomo-party-org/mihomo-party v2.0.1",
     "summary": "v2.0.1",

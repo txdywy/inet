@@ -16,7 +16,7 @@
   },
   {
     "tag": "release",
-    "count": 120,
+    "count": 121,
     "category": "client"
   },
   {
@@ -1165,6 +1165,21 @@
     "category": "protocol"
   },
   {
+    "tag": "v2raya",
+    "count": 2,
+    "category": "client"
+  },
+  {
+    "tag": "web",
+    "count": 2,
+    "category": "client"
+  },
+  {
+    "tag": "transparent-proxy",
+    "count": 2,
+    "category": "client"
+  },
+  {
     "tag": "luci",
     "count": 2,
     "category": "router"
@@ -1713,21 +1728,6 @@
     "tag": "openclash",
     "count": 1,
     "category": "router"
-  },
-  {
-    "tag": "v2raya",
-    "count": 1,
-    "category": "client"
-  },
-  {
-    "tag": "web",
-    "count": 1,
-    "category": "client"
-  },
-  {
-    "tag": "transparent-proxy",
-    "count": 1,
-    "category": "client"
   },
   {
     "tag": "tunnel",
