@@ -21,8 +21,8 @@
   },
   {
     "tag": "release",
-    "count": 115,
-    "category": "dns_rules"
+    "count": 116,
+    "category": "core"
   },
   {
     "tag": "domain-list-community",
@@ -76,7 +76,7 @@
   },
   {
     "tag": "sing-box",
-    "count": 60,
+    "count": 61,
     "category": "core"
   },
   {
@@ -250,6 +250,11 @@
     "category": "core"
   },
   {
+    "tag": "hysteria2",
+    "count": 20,
+    "category": "core"
+  },
+  {
     "tag": "QUIC",
     "count": 20,
     "category": "ecosystem"
@@ -257,11 +262,6 @@
   {
     "tag": "rematch",
     "count": 20,
-    "category": "core"
-  },
-  {
-    "tag": "hysteria2",
-    "count": 19,
     "category": "core"
   },
   {
@@ -275,6 +275,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "vless",
+    "count": 18,
+    "category": "core"
+  },
+  {
     "tag": "v2rayNG",
     "count": 18,
     "category": "client"
@@ -282,11 +287,6 @@
   {
     "tag": "Xray",
     "count": 18,
-    "category": "core"
-  },
-  {
-    "tag": "vless",
-    "count": 17,
     "category": "core"
   },
   {
@@ -315,6 +315,11 @@
     "category": "client"
   },
   {
+    "tag": "tuic",
+    "count": 16,
+    "category": "core"
+  },
+  {
     "tag": "naiveproxy",
     "count": 16,
     "category": "core"
@@ -338,11 +343,6 @@
     "tag": "Alpha",
     "count": 16,
     "category": "ecosystem"
-  },
-  {
-    "tag": "tuic",
-    "count": 15,
-    "category": "core"
   },
   {
     "tag": "xray",
