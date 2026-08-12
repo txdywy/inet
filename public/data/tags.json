@@ -11,13 +11,13 @@
   },
   {
     "tag": "mihomo",
-    "count": 194,
-    "category": "client"
+    "count": 195,
+    "category": "dns_rules"
   },
   {
     "tag": "release",
-    "count": 121,
-    "category": "client"
+    "count": 123,
+    "category": "dns_rules"
   },
   {
     "tag": "Sub-Store",
@@ -86,7 +86,7 @@
   },
   {
     "tag": "geosite",
-    "count": 56,
+    "count": 58,
     "category": "dns_rules"
   },
   {
@@ -185,6 +185,16 @@
     "category": "core"
   },
   {
+    "tag": "ruleset",
+    "count": 26,
+    "category": "dns_rules"
+  },
+  {
+    "tag": "geoip",
+    "count": 26,
+    "category": "dns_rules"
+  },
+  {
     "tag": "DNS",
     "count": 26,
     "category": "dns_rules"
@@ -198,16 +208,6 @@
     "tag": "网络工具",
     "count": 25,
     "category": "ecosystem"
-  },
-  {
-    "tag": "ruleset",
-    "count": 24,
-    "category": "dns_rules"
-  },
-  {
-    "tag": "geoip",
-    "count": 24,
-    "category": "dns_rules"
   },
   {
     "tag": "clash",
