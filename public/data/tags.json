@@ -16,7 +16,7 @@
   },
   {
     "tag": "release",
-    "count": 123,
+    "count": 127,
     "category": "dns_rules"
   },
   {
@@ -31,7 +31,7 @@
   },
   {
     "tag": "domain-list",
-    "count": 100,
+    "count": 104,
     "category": "dns_rules"
   },
   {
@@ -75,6 +75,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "geosite",
+    "count": 62,
+    "category": "dns_rules"
+  },
+  {
     "tag": "sing-box",
     "count": 61,
     "category": "core"
@@ -83,11 +88,6 @@
     "tag": "开发版本",
     "count": 59,
     "category": "ecosystem"
-  },
-  {
-    "tag": "geosite",
-    "count": 58,
-    "category": "dns_rules"
   },
   {
     "tag": "Android",

@@ -1,13 +1,13 @@
 {
-  "totalItems": 1310,
-  "last24h": 8,
-  "last7d": 53,
+  "totalItems": 1314,
+  "last24h": 11,
+  "last7d": 50,
   "byCategory": {
     "core": 224,
     "client": 248,
     "router": 3,
     "protocol": 57,
-    "dns_rules": 82,
+    "dns_rules": 86,
     "security": 29,
     "ecosystem": 667,
     "trend": 0
@@ -15,7 +15,7 @@
   "topProjects": [
     {
       "project": "domain-list-community",
-      "count": 230
+      "count": 234
     },
     {
       "project": "mihomo",
@@ -69,7 +69,7 @@
     },
     {
       "tag": "release",
-      "count": 123
+      "count": 127
     },
     {
       "tag": "Sub-Store",
@@ -81,7 +81,7 @@
     },
     {
       "tag": "domain-list",
-      "count": 100
+      "count": 104
     },
     {
       "tag": "v2ray",
@@ -116,16 +116,16 @@
       "count": 67
     },
     {
+      "tag": "geosite",
+      "count": 62
+    },
+    {
       "tag": "sing-box",
       "count": 61
     },
     {
       "tag": "开发版本",
       "count": 59
-    },
-    {
-      "tag": "geosite",
-      "count": 58
     },
     {
       "tag": "Android",
@@ -136,8 +136,8 @@
       "count": 46
     }
   ],
-  "importantCount": 373,
+  "importantCount": 377,
   "breakingCount": 69,
   "securityCount": 83,
-  "updatedAt": "2026-08-12T02:47:09.094Z"
+  "updatedAt": "2026-08-12T07:54:52.800Z"
 }
