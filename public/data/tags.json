@@ -16,7 +16,7 @@
   },
   {
     "tag": "release",
-    "count": 127,
+    "count": 128,
     "category": "dns_rules"
   },
   {
@@ -280,6 +280,11 @@
     "category": "core"
   },
   {
+    "tag": "xray-core",
+    "count": 18,
+    "category": "client"
+  },
+  {
     "tag": "v2rayNG",
     "count": 18,
     "category": "client"
@@ -288,11 +293,6 @@
     "tag": "Xray",
     "count": 18,
     "category": "core"
-  },
-  {
-    "tag": "xray-core",
-    "count": 17,
-    "category": "client"
   },
   {
     "tag": "TLS",
@@ -645,6 +645,16 @@
     "category": "ecosystem"
   },
   {
+    "tag": "x-ui",
+    "count": 6,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "panel",
+    "count": 6,
+    "category": "ecosystem"
+  },
+  {
     "tag": "Loon",
     "count": 6,
     "category": "ecosystem"
@@ -733,16 +743,6 @@
     "tag": "IPv6",
     "count": 5,
     "category": "client"
-  },
-  {
-    "tag": "x-ui",
-    "count": 5,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "panel",
-    "count": 5,
-    "category": "ecosystem"
   },
   {
     "tag": "age",

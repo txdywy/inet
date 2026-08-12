@@ -1,7 +1,7 @@
 {
-  "totalItems": 1314,
-  "last24h": 11,
-  "last7d": 50,
+  "totalItems": 1315,
+  "last24h": 7,
+  "last7d": 48,
   "byCategory": {
     "core": 224,
     "client": 248,
@@ -9,7 +9,7 @@
     "protocol": 57,
     "dns_rules": 86,
     "security": 29,
-    "ecosystem": 667,
+    "ecosystem": 668,
     "trend": 0
   },
   "topProjects": [
@@ -34,11 +34,11 @@
       "count": 101
     },
     {
-      "project": "metacubexd",
-      "count": 88
+      "project": "3x-ui",
+      "count": 89
     },
     {
-      "project": "3x-ui",
+      "project": "metacubexd",
       "count": 88
     },
     {
@@ -69,7 +69,7 @@
     },
     {
       "tag": "release",
-      "count": 127
+      "count": 128
     },
     {
       "tag": "Sub-Store",
@@ -136,8 +136,8 @@
       "count": 46
     }
   ],
-  "importantCount": 377,
+  "importantCount": 378,
   "breakingCount": 69,
   "securityCount": 83,
-  "updatedAt": "2026-08-12T07:54:52.800Z"
+  "updatedAt": "2026-08-12T13:50:32.120Z"
 }
