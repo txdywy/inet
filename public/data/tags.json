@@ -11,12 +11,12 @@
   },
   {
     "tag": "mihomo",
-    "count": 199,
+    "count": 200,
     "category": "dns_rules"
   },
   {
     "tag": "release",
-    "count": 139,
+    "count": 140,
     "category": "dns_rules"
   },
   {
@@ -160,19 +160,29 @@
     "category": "core"
   },
   {
+    "tag": "quic",
+    "count": 32,
+    "category": "core"
+  },
+  {
     "tag": "自动构建",
     "count": 32,
     "category": "ecosystem"
   },
   {
-    "tag": "quic",
-    "count": 31,
-    "category": "core"
-  },
-  {
     "tag": "Tailscale",
     "count": 30,
     "category": "core"
+  },
+  {
+    "tag": "xhttp",
+    "count": 29,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "ech",
+    "count": 29,
+    "category": "router"
   },
   {
     "tag": "v2rayN",
@@ -195,18 +205,8 @@
     "category": "dns_rules"
   },
   {
-    "tag": "xhttp",
-    "count": 28,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "ech",
-    "count": 28,
-    "category": "router"
-  },
-  {
     "tag": "clash",
-    "count": 27,
+    "count": 28,
     "category": "router"
   },
   {
@@ -215,14 +215,14 @@
     "category": "dns_rules"
   },
   {
+    "tag": "meta",
+    "count": 26,
+    "category": "core"
+  },
+  {
     "tag": "网络工具",
     "count": 25,
     "category": "ecosystem"
-  },
-  {
-    "tag": "meta",
-    "count": 25,
-    "category": "core"
   },
   {
     "tag": "HTTP/2",
