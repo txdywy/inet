@@ -11,12 +11,12 @@
   },
   {
     "tag": "mihomo",
-    "count": 198,
+    "count": 199,
     "category": "dns_rules"
   },
   {
     "tag": "release",
-    "count": 135,
+    "count": 139,
     "category": "dns_rules"
   },
   {
@@ -31,7 +31,7 @@
   },
   {
     "tag": "domain-list",
-    "count": 104,
+    "count": 106,
     "category": "dns_rules"
   },
   {
@@ -76,7 +76,7 @@
   },
   {
     "tag": "geosite",
-    "count": 64,
+    "count": 66,
     "category": "dns_rules"
   },
   {
@@ -166,7 +166,7 @@
   },
   {
     "tag": "quic",
-    "count": 30,
+    "count": 31,
     "category": "core"
   },
   {
@@ -196,17 +196,17 @@
   },
   {
     "tag": "xhttp",
-    "count": 27,
+    "count": 28,
     "category": "ecosystem"
   },
   {
     "tag": "ech",
-    "count": 27,
+    "count": 28,
     "category": "router"
   },
   {
     "tag": "clash",
-    "count": 26,
+    "count": 27,
     "category": "router"
   },
   {
@@ -220,14 +220,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "meta",
+    "count": 25,
+    "category": "core"
+  },
+  {
     "tag": "HTTP/2",
     "count": 24,
     "category": "protocol"
-  },
-  {
-    "tag": "meta",
-    "count": 24,
-    "category": "core"
   },
   {
     "tag": "依赖更新",
@@ -260,6 +260,11 @@
     "category": "core"
   },
   {
+    "tag": "xray-core",
+    "count": 20,
+    "category": "client"
+  },
+  {
     "tag": "QUIC",
     "count": 20,
     "category": "ecosystem"
@@ -268,11 +273,6 @@
     "tag": "rematch",
     "count": 20,
     "category": "core"
-  },
-  {
-    "tag": "xray-core",
-    "count": 19,
-    "category": "client"
   },
   {
     "tag": "macOS",
@@ -530,6 +530,16 @@
     "category": "core"
   },
   {
+    "tag": "x-ui",
+    "count": 8,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "panel",
+    "count": 8,
+    "category": "ecosystem"
+  },
+  {
     "tag": "MHSanaei",
     "count": 8,
     "category": "ecosystem"
@@ -583,16 +593,6 @@
     "tag": "网络安全",
     "count": 7,
     "category": "security"
-  },
-  {
-    "tag": "x-ui",
-    "count": 7,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "panel",
-    "count": 7,
-    "category": "ecosystem"
   },
   {
     "tag": "加密",
