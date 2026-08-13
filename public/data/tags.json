@@ -11,12 +11,12 @@
   },
   {
     "tag": "mihomo",
-    "count": 197,
+    "count": 198,
     "category": "dns_rules"
   },
   {
     "tag": "release",
-    "count": 134,
+    "count": 135,
     "category": "dns_rules"
   },
   {
@@ -165,13 +165,13 @@
     "category": "ecosystem"
   },
   {
-    "tag": "Tailscale",
+    "tag": "quic",
     "count": 30,
     "category": "core"
   },
   {
-    "tag": "quic",
-    "count": 29,
+    "tag": "Tailscale",
+    "count": 30,
     "category": "core"
   },
   {
@@ -196,11 +196,16 @@
   },
   {
     "tag": "xhttp",
-    "count": 26,
+    "count": 27,
     "category": "ecosystem"
   },
   {
     "tag": "ech",
+    "count": 27,
+    "category": "router"
+  },
+  {
+    "tag": "clash",
     "count": 26,
     "category": "router"
   },
@@ -208,11 +213,6 @@
     "tag": "DNS",
     "count": 26,
     "category": "dns_rules"
-  },
-  {
-    "tag": "clash",
-    "count": 25,
-    "category": "router"
   },
   {
     "tag": "网络工具",
@@ -225,6 +225,11 @@
     "category": "protocol"
   },
   {
+    "tag": "meta",
+    "count": 24,
+    "category": "core"
+  },
+  {
     "tag": "依赖更新",
     "count": 23,
     "category": "ecosystem"
@@ -233,11 +238,6 @@
     "tag": "VLESS",
     "count": 23,
     "category": "ecosystem"
-  },
-  {
-    "tag": "meta",
-    "count": 23,
-    "category": "core"
   },
   {
     "tag": "用户界面",
