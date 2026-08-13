@@ -1,5 +1,78 @@
 [
   {
+    "id": "0631502732071735",
+    "title": "MetaCubeX/meta-rules-dat Release 2026-08-13 07:07",
+    "summary": "Release 2026-08-13 07:07",
+    "rawTitle": "Release 2026-08-13 07:07",
+    "rawBody": "",
+    "sourceType": "github_release",
+    "sourceName": "MetaCubeX/meta-rules-dat",
+    "sourceUrl": "https://github.com/MetaCubeX/meta-rules-dat/releases/tag/latest",
+    "project": "meta-rules-dat",
+    "repo": "MetaCubeX/meta-rules-dat",
+    "slug": "meta-rules-dat",
+    "version": "latest",
+    "category": "dns_rules",
+    "tags": [
+      "ruleset",
+      "geosite",
+      "geoip",
+      "mihomo",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-08-12T23:10:07Z",
+    "fetchedAt": "2026-08-13T03:01:23.822Z",
+    "firstSeenAt": "2026-08-13T03:01:26.619Z",
+    "updatedAt": "2026-08-13T03:01:26.619Z",
+    "hash": "0631502732071735"
+  },
+  {
+    "id": "6be2f5bbe541bbc2",
+    "title": "Loyalsoldier/v2ray-rules-dat Released on 202608122233",
+    "summary": "Released on 202608122233",
+    "rawTitle": "Released on 202608122233",
+    "rawBody": "",
+    "sourceType": "github_release",
+    "sourceName": "Loyalsoldier/v2ray-rules-dat",
+    "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/tag/202608122233",
+    "project": "v2ray-rules-dat",
+    "repo": "Loyalsoldier/v2ray-rules-dat",
+    "slug": "v2ray-rules-dat",
+    "version": "202608122233",
+    "category": "dns_rules",
+    "tags": [
+      "ruleset",
+      "geosite",
+      "geoip",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-08-12T22:34:12Z",
+    "fetchedAt": "2026-08-13T03:01:23.841Z",
+    "firstSeenAt": "2026-08-13T03:01:25.813Z",
+    "updatedAt": "2026-08-13T03:01:25.813Z",
+    "hash": "6be2f5bbe541bbc2"
+  },
+  {
     "id": "36f22e98f1bb785f",
     "title": "sub-store-org/Sub-Store 2.36.37",
     "summary": "2.36.37",

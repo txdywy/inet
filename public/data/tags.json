@@ -11,13 +11,13 @@
   },
   {
     "tag": "mihomo",
-    "count": 196,
+    "count": 197,
     "category": "dns_rules"
   },
   {
     "tag": "release",
-    "count": 132,
-    "category": "ecosystem"
+    "count": 134,
+    "category": "dns_rules"
   },
   {
     "tag": "Sub-Store",
@@ -76,7 +76,7 @@
   },
   {
     "tag": "geosite",
-    "count": 62,
+    "count": 64,
     "category": "dns_rules"
   },
   {
@@ -185,19 +185,19 @@
     "category": "ecosystem"
   },
   {
-    "tag": "xhttp",
-    "count": 26,
-    "category": "ecosystem"
-  },
-  {
     "tag": "ruleset",
-    "count": 26,
+    "count": 28,
     "category": "dns_rules"
   },
   {
     "tag": "geoip",
-    "count": 26,
+    "count": 28,
     "category": "dns_rules"
+  },
+  {
+    "tag": "xhttp",
+    "count": 26,
+    "category": "ecosystem"
   },
   {
     "tag": "ech",

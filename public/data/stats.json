@@ -1,5 +1,5 @@
 {
-  "totalItems": 1319,
+  "totalItems": 1321,
   "last24h": 8,
   "last7d": 46,
   "byCategory": {
@@ -7,7 +7,7 @@
     "client": 248,
     "router": 3,
     "protocol": 57,
-    "dns_rules": 86,
+    "dns_rules": 88,
     "security": 29,
     "ecosystem": 671,
     "trend": 0
@@ -27,11 +27,11 @@
     },
     {
       "project": "v2ray-rules-dat",
-      "count": 104
+      "count": 105
     },
     {
       "project": "meta-rules-dat",
-      "count": 101
+      "count": 102
     },
     {
       "project": "3x-ui",
@@ -65,11 +65,11 @@
     },
     {
       "tag": "mihomo",
-      "count": 196
+      "count": 197
     },
     {
       "tag": "release",
-      "count": 132
+      "count": 134
     },
     {
       "tag": "Sub-Store",
@@ -117,7 +117,7 @@
     },
     {
       "tag": "geosite",
-      "count": 62
+      "count": 64
     },
     {
       "tag": "sing-box",
@@ -136,8 +136,8 @@
       "count": 46
     }
   ],
-  "importantCount": 381,
+  "importantCount": 383,
   "breakingCount": 70,
   "securityCount": 83,
-  "updatedAt": "2026-08-12T19:17:35.779Z"
+  "updatedAt": "2026-08-13T03:01:27.079Z"
 }
