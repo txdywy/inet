@@ -1,13 +1,13 @@
 {
-  "totalItems": 1327,
-  "last24h": 4,
-  "last7d": 46,
+  "totalItems": 1331,
+  "last24h": 5,
+  "last7d": 47,
   "byCategory": {
-    "core": 228,
+    "core": 229,
     "client": 248,
     "router": 3,
     "protocol": 57,
-    "dns_rules": 90,
+    "dns_rules": 93,
     "security": 29,
     "ecosystem": 672,
     "trend": 0
@@ -15,11 +15,11 @@
   "topProjects": [
     {
       "project": "domain-list-community",
-      "count": 236
+      "count": 237
     },
     {
       "project": "mihomo",
-      "count": 173
+      "count": 174
     },
     {
       "project": "Sub-Store",
@@ -27,11 +27,11 @@
     },
     {
       "project": "v2ray-rules-dat",
-      "count": 105
+      "count": 106
     },
     {
       "project": "meta-rules-dat",
-      "count": 102
+      "count": 103
     },
     {
       "project": "3x-ui",
@@ -65,11 +65,11 @@
     },
     {
       "tag": "mihomo",
-      "count": 200
+      "count": 202
     },
     {
       "tag": "release",
-      "count": 140
+      "count": 144
     },
     {
       "tag": "Sub-Store",
@@ -81,7 +81,7 @@
     },
     {
       "tag": "domain-list",
-      "count": 106
+      "count": 107
     },
     {
       "tag": "v2ray",
@@ -112,12 +112,12 @@
       "count": 71
     },
     {
-      "tag": "rules",
-      "count": 67
+      "tag": "geosite",
+      "count": 69
     },
     {
-      "tag": "geosite",
-      "count": 66
+      "tag": "rules",
+      "count": 67
     },
     {
       "tag": "sing-box",
@@ -136,8 +136,8 @@
       "count": 46
     }
   ],
-  "importantCount": 386,
-  "breakingCount": 73,
+  "importantCount": 388,
+  "breakingCount": 74,
   "securityCount": 83,
-  "updatedAt": "2026-08-13T19:17:39.596Z"
+  "updatedAt": "2026-08-14T02:48:27.381Z"
 }

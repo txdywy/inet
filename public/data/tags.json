@@ -11,12 +11,12 @@
   },
   {
     "tag": "mihomo",
-    "count": 200,
+    "count": 202,
     "category": "dns_rules"
   },
   {
     "tag": "release",
-    "count": 140,
+    "count": 144,
     "category": "dns_rules"
   },
   {
@@ -31,7 +31,7 @@
   },
   {
     "tag": "domain-list",
-    "count": 106,
+    "count": 107,
     "category": "dns_rules"
   },
   {
@@ -70,14 +70,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "geosite",
+    "count": 69,
+    "category": "dns_rules"
+  },
+  {
     "tag": "rules",
     "count": 67,
     "category": "ecosystem"
-  },
-  {
-    "tag": "geosite",
-    "count": 66,
-    "category": "dns_rules"
   },
   {
     "tag": "sing-box",
@@ -150,6 +150,11 @@
     "category": "client"
   },
   {
+    "tag": "quic",
+    "count": 33,
+    "category": "core"
+  },
+  {
     "tag": "Snell",
     "count": 33,
     "category": "protocol"
@@ -160,14 +165,29 @@
     "category": "core"
   },
   {
-    "tag": "quic",
-    "count": 32,
-    "category": "core"
-  },
-  {
     "tag": "自动构建",
     "count": 32,
     "category": "ecosystem"
+  },
+  {
+    "tag": "ruleset",
+    "count": 30,
+    "category": "dns_rules"
+  },
+  {
+    "tag": "geoip",
+    "count": 30,
+    "category": "dns_rules"
+  },
+  {
+    "tag": "xhttp",
+    "count": 30,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "ech",
+    "count": 30,
+    "category": "router"
   },
   {
     "tag": "Tailscale",
@@ -175,12 +195,7 @@
     "category": "core"
   },
   {
-    "tag": "xhttp",
-    "count": 29,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "ech",
+    "tag": "clash",
     "count": 29,
     "category": "router"
   },
@@ -195,29 +210,14 @@
     "category": "ecosystem"
   },
   {
-    "tag": "ruleset",
-    "count": 28,
-    "category": "dns_rules"
-  },
-  {
-    "tag": "geoip",
-    "count": 28,
-    "category": "dns_rules"
-  },
-  {
-    "tag": "clash",
-    "count": 28,
-    "category": "router"
+    "tag": "meta",
+    "count": 27,
+    "category": "core"
   },
   {
     "tag": "DNS",
     "count": 26,
     "category": "dns_rules"
-  },
-  {
-    "tag": "meta",
-    "count": 26,
-    "category": "core"
   },
   {
     "tag": "网络工具",
