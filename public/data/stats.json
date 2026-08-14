@@ -1,15 +1,15 @@
 {
-  "totalItems": 1332,
+  "totalItems": 1334,
   "last24h": 5,
-  "last7d": 45,
+  "last7d": 46,
   "byCategory": {
     "core": 230,
     "client": 248,
     "router": 3,
     "protocol": 57,
     "dns_rules": 93,
-    "security": 29,
-    "ecosystem": 672,
+    "security": 30,
+    "ecosystem": 673,
     "trend": 0
   },
   "topProjects": [
@@ -23,7 +23,7 @@
     },
     {
       "project": "Sub-Store",
-      "count": 128
+      "count": 129
     },
     {
       "project": "v2ray-rules-dat",
@@ -69,7 +69,7 @@
     },
     {
       "tag": "release",
-      "count": 145
+      "count": 147
     },
     {
       "tag": "Sub-Store",
@@ -138,6 +138,6 @@
   ],
   "importantCount": 388,
   "breakingCount": 75,
-  "securityCount": 83,
-  "updatedAt": "2026-08-14T07:53:05.580Z"
+  "securityCount": 84,
+  "updatedAt": "2026-08-14T13:45:56.241Z"
 }

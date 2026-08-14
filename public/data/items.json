@@ -1,5 +1,76 @@
 [
   {
+    "id": "14c3ce3f970b3184",
+    "title": "2dust/v2rayNG 2.3.4",
+    "summary": "2.3.4",
+    "rawTitle": "2.3.4",
+    "rawBody": "### 本次更新\r\n\r\n- 迁移到 Jetpack Compose UI , 感谢 @fuilloi  https://github.com/2dust/v2rayNG/pull/5866\r\n- 订阅分组设置中，更新订阅时可以组合多个选项进行后台任务，如果只更新订阅，则会在当前页面进行 。\r\n\r\n    1. 更新订阅\r\n    2. 更新订阅后自动测试\r\n    3. 测试后自动删除无效\r\n    4. 测试后自动排序\r\n\r\n- 添加 TCP ping 测试，有最大并发控制\r\n- 支持导入v2rayN 内部分享 `v2rayn://`\r\n- 为订阅更新添加自定义 HTTP headers ， JSON 格式内容随意，例子如下 \r\n```\r\n{\r\n  \"X-hwid\": \"my_test_device\",\r\n  \"Authorization\": \"Bearer test\"\r\n}\r\n```\r\n- 修复了一些迁移 UI 导致的问题\r\n- 一些界面和功能的优化和修复，感谢 @eliotcougar \r\n- 支持莫奈动态色彩 https://github.com/2dust/v2rayNG/pull/6067\r\n\r\n- [Xray-core v26.7.28](https://github.com/XTLS/Xray-core/releases/tag/v26.7.28)\r\n\r\n### [发布文件介绍，不知道下载哪个文件的请看](https://github.com/2dust/v2rayNG/wiki/Release-files-introduction-for-Android)\r\n\r\n### [关于 跳过证书验证 allowInsecure 参数被移除的说明 ](https://github.com/2dust/v2rayN/discussions/9460)\r\n",
+    "sourceType": "github_release",
+    "sourceName": "2dust/v2rayNG",
+    "sourceUrl": "https://github.com/2dust/v2rayNG/releases/tag/2.3.4",
+    "project": "v2rayNG",
+    "repo": "2dust/v2rayNG",
+    "slug": "v2rayng",
+    "version": "2.3.4",
+    "category": "security",
+    "tags": [
+      "v2rayng",
+      "android",
+      "xray-core",
+      "release"
+    ],
+    "platforms": [
+      "android"
+    ],
+    "importance": 3,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": true,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-08-14T12:39:37Z",
+    "fetchedAt": "2026-08-14T13:45:45.673Z",
+    "firstSeenAt": "2026-08-14T13:45:55.101Z",
+    "updatedAt": "2026-08-14T13:45:55.101Z",
+    "hash": "14c3ce3f970b3184"
+  },
+  {
+    "id": "d576c4aba0d07737",
+    "title": "sub-store-org/Sub-Store 2.36.38",
+    "summary": "2.36.38",
+    "rawTitle": "2.36.38",
+    "rawBody": "## <small>2.36.38 (2026-08-14)</small>\n\n* release: bump version ([817f813](https://github.com/sub-store-org/Sub-Store/commit/817f813))\n",
+    "sourceType": "github_release",
+    "sourceName": "sub-store-org/Sub-Store",
+    "sourceUrl": "https://github.com/sub-store-org/Sub-Store/releases/tag/2.36.38",
+    "project": "Sub-Store",
+    "repo": "sub-store-org/Sub-Store",
+    "slug": "sub-store",
+    "version": "2.36.38",
+    "category": "ecosystem",
+    "tags": [
+      "sub-store",
+      "subscription",
+      "release"
+    ],
+    "platforms": [
+      "ios",
+      "android",
+      "macos",
+      "windows",
+      "linux"
+    ],
+    "importance": 2,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-08-14T10:34:36Z",
+    "fetchedAt": "2026-08-14T13:45:51.474Z",
+    "firstSeenAt": "2026-08-14T13:45:55.909Z",
+    "updatedAt": "2026-08-14T13:45:55.909Z",
+    "hash": "d576c4aba0d07737"
+  },
+  {
     "id": "fe30663f3c623d15",
     "title": "v2fly/domain-list-community 20260814022505",
     "summary": "20260814022505",

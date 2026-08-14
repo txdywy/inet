@@ -16,8 +16,8 @@
   },
   {
     "tag": "release",
-    "count": 145,
-    "category": "dns_rules"
+    "count": 147,
+    "category": "security"
   },
   {
     "tag": "Sub-Store",
@@ -250,6 +250,11 @@
     "category": "core"
   },
   {
+    "tag": "xray-core",
+    "count": 21,
+    "category": "security"
+  },
+  {
     "tag": "vless",
     "count": 20,
     "category": "ecosystem"
@@ -258,11 +263,6 @@
     "tag": "hysteria2",
     "count": 20,
     "category": "core"
-  },
-  {
-    "tag": "xray-core",
-    "count": 20,
-    "category": "client"
   },
   {
     "tag": "QUIC",
@@ -395,19 +395,19 @@
     "category": "client"
   },
   {
-    "tag": "HTTP",
-    "count": 12,
-    "category": "core"
-  },
-  {
     "tag": "sub-store",
-    "count": 11,
+    "count": 12,
     "category": "ecosystem"
   },
   {
     "tag": "subscription",
-    "count": 11,
+    "count": 12,
     "category": "ecosystem"
+  },
+  {
+    "tag": "HTTP",
+    "count": 12,
+    "category": "core"
   },
   {
     "tag": "TUN",
@@ -685,6 +685,16 @@
     "category": "ecosystem"
   },
   {
+    "tag": "v2rayng",
+    "count": 5,
+    "category": "security"
+  },
+  {
+    "tag": "android",
+    "count": 5,
+    "category": "security"
+  },
+  {
     "tag": "gost",
     "count": 5,
     "category": "core"
@@ -788,16 +798,6 @@
     "tag": "subconverter",
     "count": 5,
     "category": "ecosystem"
-  },
-  {
-    "tag": "v2rayng",
-    "count": 4,
-    "category": "security"
-  },
-  {
-    "tag": "android",
-    "count": 4,
-    "category": "security"
   },
   {
     "tag": "anytls",
