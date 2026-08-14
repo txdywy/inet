@@ -1,5 +1,41 @@
 [
   {
+    "id": "334f723bf2f9fa96",
+    "title": "mihomo-party-org/mihomo-party v2.0.2",
+    "summary": "v2.0.2",
+    "rawTitle": "v2.0.2",
+    "rawBody": "# 2.0.2\n\n## 修复 (Fix)\n\n- 修复数字小键盘的加、减、乘、除及小数点按键无法正确注册为全局快捷键的问题\n- 修复首次使用欢迎引导中的提示弹层位置配置无效、可能显示异常的问题\n- 修复 Linux ARM64 等交叉编译产物可能混入宿主机架构系统代理模块的问题，并增加原生模块架构校验\n- 修复 Linux 无法注册托盘图标的问题\n\n### 下载地址：\n\n#### Windows10/11：\n\n- 安装版：[64位](https://github.com/mihomo-party-org/clash-party/releases/download/v2.0.2/clash-party-windows-2.0.2-x64-setup.exe) | [32位](https://github.com/mihomo-party-org/clash-party/releases/download/v2.0.2/clash-party-windows-2.0.2-ia32-setup.exe) | [ARM64](https://github.com/mihomo-party-org/clash-party/releases/download/v2.0.2/clash-party-windows-2.0.2-arm64-setup.exe)\n\n- 便携版：[64位](https://github.com/mihomo-party-org/clash-party/releases/download/v2.0.2/clash-party-windows-2.0.2-x64-portable.7z) | [32位](https://github.com/mihomo-party-org/clash-party/releases/download/v2.0.2/clash-party-windows-2.0.2-ia32-portable.7z) | [ARM64](https://github.com/mihomo-party-org/clash-party/releases/download/v2.0.2/clash-party-windows-2.0.2-arm64-portable.7z)\n\n\n#### Windows7/8：\n\n- 安装版：[64位](https://github.com/mihomo-party-org/clash-party/releases/download/v2.0.2/clash-party-win7-2.0.2-x64-setup.exe) | [32位](https://github.com/mihomo-party-org/clash-party/releases/download/v2.0.2/clash-party-win7-2.0.2-ia32-setup.exe)\n\n- 便携版：[64位](https://github.com/mihomo-party-org/clash-party/releases/download/v2.0.2/clash-party-win7-2.0.2-x64-portable.7z) | [32位](https://github.com/mihomo-party-org/clash-party/releases/download/v2.0.2/clash-party-win7-2.0.2-ia32-portable.7z)\n\n\n#### macOS 11+：\n\n- PKG：[Intel](https://github.com/mihomo-party-org/clash-party/releases/download/v2.0.2/clash-party-macos-2.0.2-x64.pkg) | [Apple Silicon](https://github.com/mihomo-party-org/clash-party/releases/download/v2.0.2/clash-party-macos-2.0.2-arm64.pkg)\n\n\n#### macOS 10.15+：\n\n- PKG：[Intel](https://github.com/mihomo-party-org/clash-party/releases/download/v2.0.2/clash-party-catalina-2.0.2-x64.pkg) | [Apple Silicon](https://github.com/mihomo-party-org/clash-party/releases/download/v2.0.2/clash-party-catalina-2.0.2-arm64.pkg)\n\n\n#### Linux：\n\n- DEB：[64位](https://github.com/mihomo-party-org/clash-party/releases/download/v2.0.2/clash-party-linux-2.0.2-amd64.deb) | [ARM64](https://github.com/mihomo-party-org/clash-party/releases/download/v2.0.2/clash-party-linux-2.0.2-arm64.deb)\n\n- RPM：[64位](https://github.com/mihomo-party-org/clash-party/releases/download/v2.0.2/clash-party-linux-2.0.2-x86_64.rpm) | [ARM64](https://github.com/mihomo-party-org/clash-party/releases/download/v2.0.2/clash-party-linux-2.0.2-aarch64.rpm)\n\n- PACMAN：[64位](https://github.com/mihomo-party-org/clash-party/releases/download/v2.0.2/clash-party-linux-2.0.2-x64.pkg.tar.zst) | [ARM64](https://github.com/mihomo-party-org/clash-party/releases/download/v2.0.2/clash-party-linux-2.0.2-aarch64.pkg.tar.zst)\n\n### 机场推荐：\n- 高性能海外机场，稳定首选：[https://狗狗加速.com](https://party.dginv.click/#/register?code=ARdo0mXx)",
+    "sourceType": "github_release",
+    "sourceName": "mihomo-party-org/mihomo-party",
+    "sourceUrl": "https://github.com/mihomo-party-org/clash-party/releases/tag/v2.0.2",
+    "project": "mihomo-party",
+    "repo": "mihomo-party-org/mihomo-party",
+    "slug": "mihomo-party",
+    "version": "2.0.2",
+    "category": "client",
+    "tags": [
+      "mihomo-party",
+      "mihomo",
+      "desktop",
+      "release"
+    ],
+    "platforms": [
+      "windows",
+      "macos",
+      "linux"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-08-14T15:07:21Z",
+    "fetchedAt": "2026-08-14T19:11:20.853Z",
+    "firstSeenAt": "2026-08-14T19:11:29.820Z",
+    "updatedAt": "2026-08-14T19:11:29.820Z",
+    "hash": "334f723bf2f9fa96"
+  },
+  {
     "id": "14c3ce3f970b3184",
     "title": "2dust/v2rayNG 2.3.4",
     "summary": "2.3.4",
@@ -14670,6 +14706,40 @@
     "firstSeenAt": "2026-06-25T04:36:16.426Z",
     "updatedAt": "2026-06-25T04:36:16.426Z",
     "hash": "e54a070ca4e6a5bf"
+  },
+  {
+    "id": "8760691442c13f6b",
+    "title": "MHSanaei/3x-ui Dev build ad32144c",
+    "summary": "Dev build ad32144c",
+    "rawTitle": "Dev build ad32144c",
+    "rawBody": "Rolling development build — installs via the panel's Dev update channel.\n\ncommit=ad32144c42455696ea9f14e12168beac3e25f5d2\nbuilt=2026-08-14T18:25:41Z\n\nAutomated per-commit build from main. Not a stable release.",
+    "sourceType": "github_release",
+    "sourceName": "MHSanaei/3x-ui",
+    "sourceUrl": "https://github.com/MHSanaei/3x-ui/releases/tag/dev-latest",
+    "project": "3x-ui",
+    "repo": "MHSanaei/3x-ui",
+    "slug": "3x-ui",
+    "version": "dev-latest",
+    "category": "ecosystem",
+    "tags": [
+      "x-ui",
+      "panel",
+      "xray-core",
+      "release"
+    ],
+    "platforms": [
+      "linux"
+    ],
+    "importance": 4,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2026-06-24T16:17:06Z",
+    "fetchedAt": "2026-08-14T19:11:24.943Z",
+    "firstSeenAt": "2026-08-14T19:11:30.628Z",
+    "updatedAt": "2026-08-14T19:11:30.628Z",
+    "hash": "8760691442c13f6b"
   },
   {
     "id": "45eeec22ba7b2fec",
@@ -38318,6 +38388,45 @@
     "firstSeenAt": "2026-05-07T04:09:04.362Z",
     "updatedAt": "2026-05-07T04:09:04.362Z",
     "hash": "5e6adb84fbb7f312"
+  },
+  {
+    "id": "7ee0c415dd01d7d1",
+    "title": "MetaCubeX/mihomo Prerelease-Alpha",
+    "summary": "Prerelease-Alpha",
+    "rawTitle": "Prerelease-Alpha",
+    "rawBody": "Release created at  Sat Aug 15 00:26:25 CST 2026\nSynchronize Alpha branch code updates, keeping only the latest version\n<br>\n[我应该下载哪个文件? / Which file should I download?](https://github.com/MetaCubeX/mihomo/wiki/FAQ)\n[二进制文件筛选 / Binary file selector](https://metacubex.github.io/Meta-Docs/startup/#_1)\n[查看文档 / Docs](https://metacubex.github.io/Meta-Docs/)\n\n\n## What's Changed\n* fix: typo in `uplinkHTTPMethod` by @MakostaDev in https://github.com/MetaCubeX/mihomo/pull/3029\n* fix: tun dns hijack sending zero-filled or stale packets when PackBuffer reallocates by @TWO666 in https://github.com/MetaCubeX/mihomo/pull/3037\n* feat: support H2C and QUICv2 sniffing by @MakostaDev in https://github.com/MetaCubeX/mihomo/pull/3036\n* fix: echo edns0 opt in dns replies when the request carries one by @TWO666 in https://github.com/MetaCubeX/mihomo/pull/3041\n* fix: truncate udp dns replies to the client's advertised buffer size by @TWO666 in https://github.com/MetaCubeX/mihomo/pull/3043\n* chore: update mieru version by @enfein in https://github.com/MetaCubeX/mihomo/pull/3046\n* chore: remove dohMaxConnsPerHost & dohMaxIdleConns by @ayanamist in https://github.com/MetaCubeX/mihomo/pull/3048\n* perf: avoid string reversal allocation in DomainSet.Has by @Ember-Moth in https://github.com/MetaCubeX/mihomo/pull/3049\n* fix(xhttp): apply default uplink chunk size by @vanbujhm in https://github.com/MetaCubeX/mihomo/pull/3061\n* fix: include the upstream version for tailscale IPNVersion by @huiyifyj in https://github.com/MetaCubeX/mihomo/pull/3074\n* fix: trim trailing newline from Tailscale VersionDotTxt in IPNVersion by @eivgogo in https://github.com/MetaCubeX/mihomo/pull/3079\n* fix: typo in error string by @xlighting2017 in https://github.com/MetaCubeX/mihomo/pull/3090\n\n## New Contributors\n* @MakostaDev made their first contribution in https://github.com/MetaCubeX/mihomo/pull/3029\n* @TWO666 made their first contribution in https://github.com/MetaCubeX/mihomo/pull/3037\n* @Ember-Moth made their first contribution in https://github.com/MetaCubeX/mihomo/pull/3049\n* @vanbujhm made their first contribution in https://github.com/MetaCubeX/mihomo/pull/3061\n* @huiyifyj made their first contribution in https://github.com/MetaCubeX/mihomo/pull/3074\n* @eivgogo made their first contribution in https://github.com/MetaCubeX/mihomo/pull/3079\n* @xlighting2017 made their first contribution in https://github.com/MetaCubeX/mihomo/pull/3090\n\n**Full Changelog**: https://github.com/MetaCubeX/mihomo/compare/v1.19.29...Prerelease-Alpha",
+    "sourceType": "github_release",
+    "sourceName": "MetaCubeX/mihomo",
+    "sourceUrl": "https://github.com/MetaCubeX/mihomo/releases/tag/Prerelease-Alpha",
+    "project": "mihomo",
+    "repo": "MetaCubeX/mihomo",
+    "slug": "mihomo",
+    "version": "Prerelease-Alpha",
+    "category": "core",
+    "tags": [
+      "mihomo",
+      "clash",
+      "meta",
+      "xhttp",
+      "ech",
+      "quic",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 3,
+    "confidence": 0.85,
+    "isBreaking": true,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2024-08-12T17:01:02Z",
+    "fetchedAt": "2026-08-14T19:11:14.429Z",
+    "firstSeenAt": "2026-08-14T19:11:29.011Z",
+    "updatedAt": "2026-08-14T19:11:29.011Z",
+    "hash": "7ee0c415dd01d7d1"
   },
   {
     "id": "a2ce491108b44c4c",

@@ -350,6 +350,23 @@
     ]
   },
   {
+    "slug": "mihomo-party",
+    "name": "mihomo-party",
+    "repo": "mihomo-party-org/mihomo-party",
+    "description": "各平台代理客户端应用",
+    "category": "client",
+    "platforms": [
+      "windows",
+      "macos",
+      "linux"
+    ],
+    "tags": [
+      "mihomo-party",
+      "mihomo",
+      "desktop"
+    ]
+  },
+  {
     "slug": "openclash",
     "name": "OpenClash",
     "repo": "vernesong/OpenClash",
@@ -378,23 +395,6 @@
     ],
     "tags": [
       "openwrt"
-    ]
-  },
-  {
-    "slug": "mihomo-party",
-    "name": "mihomo-party",
-    "repo": "mihomo-party-org/mihomo-party",
-    "description": "各平台代理客户端应用",
-    "category": "client",
-    "platforms": [
-      "windows",
-      "macos",
-      "linux"
-    ],
-    "tags": [
-      "mihomo-party",
-      "mihomo",
-      "desktop"
     ]
   },
   {

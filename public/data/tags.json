@@ -6,8 +6,8 @@
   },
   {
     "tag": "mihomo",
-    "count": 203,
-    "category": "dns_rules"
+    "count": 205,
+    "category": "client"
   },
   {
     "tag": "v2fly",
@@ -16,8 +16,8 @@
   },
   {
     "tag": "release",
-    "count": 147,
-    "category": "security"
+    "count": 150,
+    "category": "client"
   },
   {
     "tag": "Sub-Store",
@@ -141,7 +141,7 @@
   },
   {
     "tag": "quic",
-    "count": 34,
+    "count": 35,
     "category": "core"
   },
   {
@@ -165,17 +165,22 @@
     "category": "core"
   },
   {
+    "tag": "xhttp",
+    "count": 32,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "ech",
+    "count": 32,
+    "category": "router"
+  },
+  {
     "tag": "自动构建",
     "count": 32,
     "category": "ecosystem"
   },
   {
-    "tag": "xhttp",
-    "count": 31,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "ech",
+    "tag": "clash",
     "count": 31,
     "category": "router"
   },
@@ -188,11 +193,6 @@
     "tag": "geoip",
     "count": 30,
     "category": "dns_rules"
-  },
-  {
-    "tag": "clash",
-    "count": 30,
-    "category": "router"
   },
   {
     "tag": "Tailscale",
@@ -211,7 +211,7 @@
   },
   {
     "tag": "meta",
-    "count": 28,
+    "count": 29,
     "category": "core"
   },
   {
@@ -240,6 +240,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "xray-core",
+    "count": 22,
+    "category": "security"
+  },
+  {
     "tag": "用户界面",
     "count": 22,
     "category": "client"
@@ -248,11 +253,6 @@
     "tag": "Xray-core",
     "count": 22,
     "category": "core"
-  },
-  {
-    "tag": "xray-core",
-    "count": 21,
-    "category": "security"
   },
   {
     "tag": "vless",
@@ -495,6 +495,16 @@
     "category": "ecosystem"
   },
   {
+    "tag": "x-ui",
+    "count": 9,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "panel",
+    "count": 9,
+    "category": "ecosystem"
+  },
+  {
     "tag": ".NET",
     "count": 9,
     "category": "client"
@@ -503,6 +513,11 @@
     "tag": "CBC",
     "count": 9,
     "category": "ecosystem"
+  },
+  {
+    "tag": "mihomo-party",
+    "count": 8,
+    "category": "client"
   },
   {
     "tag": "v2ray-core",
@@ -528,16 +543,6 @@
     "tag": "gRPC",
     "count": 8,
     "category": "core"
-  },
-  {
-    "tag": "x-ui",
-    "count": 8,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "panel",
-    "count": 8,
-    "category": "ecosystem"
   },
   {
     "tag": "MHSanaei",
@@ -568,11 +573,6 @@
     "tag": "QUICv2",
     "count": 8,
     "category": "core"
-  },
-  {
-    "tag": "mihomo-party",
-    "count": 7,
-    "category": "client"
   },
   {
     "tag": "Shadowrocket",
@@ -1165,6 +1165,11 @@
     "category": "protocol"
   },
   {
+    "tag": "desktop",
+    "count": 2,
+    "category": "client"
+  },
+  {
     "tag": "v2raya",
     "count": 2,
     "category": "client"
@@ -1713,11 +1718,6 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
-  },
-  {
-    "tag": "desktop",
-    "count": 1,
-    "category": "client"
   },
   {
     "tag": "vision",
