@@ -1,5 +1,78 @@
 [
   {
+    "id": "0836de7cc6e8dd45",
+    "title": "MetaCubeX/meta-rules-dat Release 2026-08-15 06:46",
+    "summary": "Release 2026-08-15 06:46",
+    "rawTitle": "Release 2026-08-15 06:46",
+    "rawBody": "",
+    "sourceType": "github_release",
+    "sourceName": "MetaCubeX/meta-rules-dat",
+    "sourceUrl": "https://github.com/MetaCubeX/meta-rules-dat/releases/tag/latest",
+    "project": "meta-rules-dat",
+    "repo": "MetaCubeX/meta-rules-dat",
+    "slug": "meta-rules-dat",
+    "version": "latest",
+    "category": "dns_rules",
+    "tags": [
+      "ruleset",
+      "geosite",
+      "geoip",
+      "mihomo",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-08-14T22:49:05Z",
+    "fetchedAt": "2026-08-15T01:51:56.412Z",
+    "firstSeenAt": "2026-08-15T01:51:59.279Z",
+    "updatedAt": "2026-08-15T01:51:59.279Z",
+    "hash": "0836de7cc6e8dd45"
+  },
+  {
+    "id": "0a21ee5135915c88",
+    "title": "Loyalsoldier/v2ray-rules-dat Released on 202608142215",
+    "summary": "Released on 202608142215",
+    "rawTitle": "Released on 202608142215",
+    "rawBody": "",
+    "sourceType": "github_release",
+    "sourceName": "Loyalsoldier/v2ray-rules-dat",
+    "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/tag/202608142215",
+    "project": "v2ray-rules-dat",
+    "repo": "Loyalsoldier/v2ray-rules-dat",
+    "slug": "v2ray-rules-dat",
+    "version": "202608142215",
+    "category": "dns_rules",
+    "tags": [
+      "ruleset",
+      "geosite",
+      "geoip",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-08-14T22:16:19Z",
+    "fetchedAt": "2026-08-15T01:51:56.482Z",
+    "firstSeenAt": "2026-08-15T01:51:58.471Z",
+    "updatedAt": "2026-08-15T01:51:58.471Z",
+    "hash": "0a21ee5135915c88"
+  },
+  {
     "id": "334f723bf2f9fa96",
     "title": "mihomo-party-org/mihomo-party v2.0.2",
     "summary": "v2.0.2",

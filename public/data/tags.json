@@ -6,8 +6,8 @@
   },
   {
     "tag": "mihomo",
-    "count": 205,
-    "category": "client"
+    "count": 206,
+    "category": "dns_rules"
   },
   {
     "tag": "v2fly",
@@ -16,8 +16,8 @@
   },
   {
     "tag": "release",
-    "count": 150,
-    "category": "client"
+    "count": 152,
+    "category": "dns_rules"
   },
   {
     "tag": "Sub-Store",
@@ -65,14 +65,14 @@
     "category": "protocol"
   },
   {
+    "tag": "geosite",
+    "count": 71,
+    "category": "dns_rules"
+  },
+  {
     "tag": "网络代理",
     "count": 71,
     "category": "ecosystem"
-  },
-  {
-    "tag": "geosite",
-    "count": 69,
-    "category": "dns_rules"
   },
   {
     "tag": "rules",
@@ -165,6 +165,16 @@
     "category": "core"
   },
   {
+    "tag": "ruleset",
+    "count": 32,
+    "category": "dns_rules"
+  },
+  {
+    "tag": "geoip",
+    "count": 32,
+    "category": "dns_rules"
+  },
+  {
     "tag": "xhttp",
     "count": 32,
     "category": "ecosystem"
@@ -183,16 +193,6 @@
     "tag": "clash",
     "count": 31,
     "category": "router"
-  },
-  {
-    "tag": "ruleset",
-    "count": 30,
-    "category": "dns_rules"
-  },
-  {
-    "tag": "geoip",
-    "count": 30,
-    "category": "dns_rules"
   },
   {
     "tag": "Tailscale",
