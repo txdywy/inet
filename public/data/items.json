@@ -1,5 +1,78 @@
 [
   {
+    "id": "69a841a71b4ea12b",
+    "title": "MetaCubeX/metacubexd v1.272.0",
+    "summary": "v1.272.0",
+    "rawTitle": "v1.272.0",
+    "rawBody": "## [1.272.0](https://github.com/MetaCubeX/metacubexd/compare/v1.271.0...v1.272.0) (2026-08-15)\n\n\n### Features\n\n* **proxies:** refine desktop proxy navigation ([35a46a5](https://github.com/MetaCubeX/metacubexd/commit/35a46a5bd305c8533bf0f8f003362f03a0568adf))",
+    "sourceType": "github_release",
+    "sourceName": "MetaCubeX/metacubexd",
+    "sourceUrl": "https://github.com/MetaCubeX/metacubexd/releases/tag/v1.272.0",
+    "project": "metacubexd",
+    "repo": "MetaCubeX/metacubexd",
+    "slug": "metacubexd",
+    "version": "1.272.0",
+    "category": "ecosystem",
+    "tags": [
+      "dashboard",
+      "mihomo",
+      "clash",
+      "release"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-08-15T14:02:52Z",
+    "fetchedAt": "2026-08-15T18:45:39.159Z",
+    "firstSeenAt": "2026-08-15T18:45:42.732Z",
+    "updatedAt": "2026-08-15T18:45:42.732Z",
+    "hash": "69a841a71b4ea12b"
+  },
+  {
+    "id": "d8057cc193eb4f52",
+    "title": "SagerNet/sing-box 1.14.0-beta.15",
+    "summary": "1.14.0-beta.15",
+    "rawTitle": "1.14.0-beta.15",
+    "rawBody": "## :memo: Release Notes\n\n* Add `api` command **1**\n* Add Taildrop support **2**\n* Add `listen_port` option to Tailscale endpoint\n* Fixes and improvements\n\n**1**:\n\nThe new `sing-box api` command is a CLI client for the [API service](https://sing-box.sagernet.org/configuration/service/api/), providing the same operations available in graphical clients and the Dashboard.\n\n**2**:\n\n[Tailscale](https://sing-box.sagernet.org/configuration/endpoint/tailscale/) endpoints now support [Taildrop](https://tailscale.com/kb/1106/taildrop), the Tailscale file sharing feature. Received files are stored in the directory configured by the new [`taildrop_directory`](https://sing-box.sagernet.org/configuration/endpoint/tailscale/#taildrop_directory) option (`Taildrop` by default). Files can be sent and managed through the graphical clients, the Dashboard, or the new `sing-box api` command.",
+    "sourceType": "github_release",
+    "sourceName": "SagerNet/sing-box",
+    "sourceUrl": "https://github.com/SagerNet/sing-box/releases/tag/v1.14.0-beta.15",
+    "project": "sing-box",
+    "repo": "SagerNet/sing-box",
+    "slug": "sing-box",
+    "version": "1.14.0-beta.15",
+    "category": "core",
+    "tags": [
+      "sing-box",
+      "vless",
+      "hysteria2",
+      "tuic",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos",
+      "android",
+      "ios"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-08-15T14:02:19Z",
+    "fetchedAt": "2026-08-15T18:45:28.375Z",
+    "firstSeenAt": "2026-08-15T18:45:41.117Z",
+    "updatedAt": "2026-08-15T18:45:41.117Z",
+    "hash": "d8057cc193eb4f52"
+  },
+  {
     "id": "c70be2ec00acd43c",
     "title": "v2fly/domain-list-community 20260815024016",
     "summary": "20260815024016",
@@ -14919,6 +14992,40 @@
     "firstSeenAt": "2026-06-25T04:36:16.426Z",
     "updatedAt": "2026-06-25T04:36:16.426Z",
     "hash": "e54a070ca4e6a5bf"
+  },
+  {
+    "id": "de9d4ba6e67d8046",
+    "title": "MHSanaei/3x-ui Dev build 43bc9153",
+    "summary": "Dev build 43bc9153",
+    "rawTitle": "Dev build 43bc9153",
+    "rawBody": "Rolling development build — installs via the panel's Dev update channel.\n\ncommit=43bc915397bdab40dccef15126d87df638231222\nbuilt=2026-08-15T16:23:42Z\n\nAutomated per-commit build from main. Not a stable release.",
+    "sourceType": "github_release",
+    "sourceName": "MHSanaei/3x-ui",
+    "sourceUrl": "https://github.com/MHSanaei/3x-ui/releases/tag/dev-latest",
+    "project": "3x-ui",
+    "repo": "MHSanaei/3x-ui",
+    "slug": "3x-ui",
+    "version": "dev-latest",
+    "category": "ecosystem",
+    "tags": [
+      "x-ui",
+      "panel",
+      "xray-core",
+      "release"
+    ],
+    "platforms": [
+      "linux"
+    ],
+    "importance": 4,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2026-06-24T16:17:06Z",
+    "fetchedAt": "2026-08-15T18:45:37.874Z",
+    "firstSeenAt": "2026-08-15T18:45:41.924Z",
+    "updatedAt": "2026-08-15T18:45:41.924Z",
+    "hash": "de9d4ba6e67d8046"
   },
   {
     "id": "8760691442c13f6b",

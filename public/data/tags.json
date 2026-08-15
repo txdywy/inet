@@ -6,8 +6,8 @@
   },
   {
     "tag": "mihomo",
-    "count": 207,
-    "category": "dns_rules"
+    "count": 208,
+    "category": "ecosystem"
   },
   {
     "tag": "v2fly",
@@ -16,8 +16,8 @@
   },
   {
     "tag": "release",
-    "count": 157,
-    "category": "dns_rules"
+    "count": 160,
+    "category": "ecosystem"
   },
   {
     "tag": "Sub-Store",
@@ -81,7 +81,7 @@
   },
   {
     "tag": "sing-box",
-    "count": 61,
+    "count": 62,
     "category": "core"
   },
   {
@@ -160,6 +160,11 @@
     "category": "client"
   },
   {
+    "tag": "clash",
+    "count": 33,
+    "category": "ecosystem"
+  },
+  {
     "tag": "xhttp",
     "count": 33,
     "category": "ecosystem"
@@ -183,11 +188,6 @@
     "tag": "geoip",
     "count": 32,
     "category": "dns_rules"
-  },
-  {
-    "tag": "clash",
-    "count": 32,
-    "category": "router"
   },
   {
     "tag": "自动构建",
@@ -225,14 +225,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "xray-core",
+    "count": 24,
+    "category": "client"
+  },
+  {
     "tag": "HTTP/2",
     "count": 24,
     "category": "protocol"
-  },
-  {
-    "tag": "xray-core",
-    "count": 23,
-    "category": "client"
   },
   {
     "tag": "依赖更新",
@@ -256,12 +256,12 @@
   },
   {
     "tag": "vless",
-    "count": 20,
-    "category": "ecosystem"
+    "count": 21,
+    "category": "core"
   },
   {
     "tag": "hysteria2",
-    "count": 20,
+    "count": 21,
     "category": "core"
   },
   {
@@ -295,6 +295,11 @@
     "category": "core"
   },
   {
+    "tag": "tuic",
+    "count": 17,
+    "category": "core"
+  },
+  {
     "tag": "TLS",
     "count": 17,
     "category": "ecosystem"
@@ -313,11 +318,6 @@
     "tag": "TLSAuth",
     "count": 17,
     "category": "client"
-  },
-  {
-    "tag": "tuic",
-    "count": 16,
-    "category": "core"
   },
   {
     "tag": "naiveproxy",
@@ -460,6 +460,16 @@
     "category": "dns_rules"
   },
   {
+    "tag": "x-ui",
+    "count": 10,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "panel",
+    "count": 10,
+    "category": "ecosystem"
+  },
+  {
     "tag": "配置管理",
     "count": 9,
     "category": "ecosystem"
@@ -491,16 +501,6 @@
   },
   {
     "tag": "bug修复",
-    "count": 9,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "x-ui",
-    "count": 9,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "panel",
     "count": 9,
     "category": "ecosystem"
   },
@@ -925,6 +925,11 @@
     "category": "client"
   },
   {
+    "tag": "dashboard",
+    "count": 3,
+    "category": "ecosystem"
+  },
+  {
     "tag": "v2rayn",
     "count": 3,
     "category": "client"
@@ -1208,11 +1213,6 @@
     "tag": "grpc",
     "count": 2,
     "category": "core"
-  },
-  {
-    "tag": "dashboard",
-    "count": 2,
-    "category": "ecosystem"
   },
   {
     "tag": "社区",
