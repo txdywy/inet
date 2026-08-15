@@ -6,7 +6,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 206,
+    "count": 207,
     "category": "dns_rules"
   },
   {
@@ -16,7 +16,7 @@
   },
   {
     "tag": "release",
-    "count": 152,
+    "count": 157,
     "category": "dns_rules"
   },
   {
@@ -25,14 +25,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "domain-list",
+    "count": 110,
+    "category": "dns_rules"
+  },
+  {
     "tag": "domain-list-community",
     "count": 109,
     "category": "ecosystem"
-  },
-  {
-    "tag": "domain-list",
-    "count": 107,
-    "category": "dns_rules"
   },
   {
     "tag": "v2ray",
@@ -66,7 +66,7 @@
   },
   {
     "tag": "geosite",
-    "count": 71,
+    "count": 74,
     "category": "dns_rules"
   },
   {
@@ -135,14 +135,19 @@
     "category": "client"
   },
   {
+    "tag": "quic",
+    "count": 36,
+    "category": "core"
+  },
+  {
     "tag": "go-gost",
     "count": 36,
     "category": "core"
   },
   {
-    "tag": "quic",
-    "count": 35,
-    "category": "core"
+    "tag": "ech",
+    "count": 34,
+    "category": "client"
   },
   {
     "tag": "WireGuard",
@@ -153,6 +158,11 @@
     "tag": "ClashMetaForAndroid",
     "count": 34,
     "category": "client"
+  },
+  {
+    "tag": "xhttp",
+    "count": 33,
+    "category": "ecosystem"
   },
   {
     "tag": "Snell",
@@ -175,12 +185,7 @@
     "category": "dns_rules"
   },
   {
-    "tag": "xhttp",
-    "count": 32,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "ech",
+    "tag": "clash",
     "count": 32,
     "category": "router"
   },
@@ -190,12 +195,12 @@
     "category": "ecosystem"
   },
   {
-    "tag": "clash",
-    "count": 31,
-    "category": "router"
+    "tag": "Tailscale",
+    "count": 30,
+    "category": "core"
   },
   {
-    "tag": "Tailscale",
+    "tag": "meta",
     "count": 30,
     "category": "core"
   },
@@ -208,11 +213,6 @@
     "tag": "自动化构建",
     "count": 29,
     "category": "ecosystem"
-  },
-  {
-    "tag": "meta",
-    "count": 29,
-    "category": "core"
   },
   {
     "tag": "DNS",
@@ -230,6 +230,11 @@
     "category": "protocol"
   },
   {
+    "tag": "xray-core",
+    "count": 23,
+    "category": "client"
+  },
+  {
     "tag": "依赖更新",
     "count": 23,
     "category": "ecosystem"
@@ -238,11 +243,6 @@
     "tag": "VLESS",
     "count": 23,
     "category": "ecosystem"
-  },
-  {
-    "tag": "xray-core",
-    "count": 22,
-    "category": "security"
   },
   {
     "tag": "用户界面",
@@ -925,6 +925,16 @@
     "category": "client"
   },
   {
+    "tag": "v2rayn",
+    "count": 3,
+    "category": "client"
+  },
+  {
+    "tag": "windows",
+    "count": 3,
+    "category": "client"
+  },
+  {
     "tag": "openwrt",
     "count": 3,
     "category": "router"
@@ -1188,16 +1198,6 @@
     "tag": "luci",
     "count": 2,
     "category": "router"
-  },
-  {
-    "tag": "v2rayn",
-    "count": 2,
-    "category": "client"
-  },
-  {
-    "tag": "windows",
-    "count": 2,
-    "category": "client"
   },
   {
     "tag": "mesh",
