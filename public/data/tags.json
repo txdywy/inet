@@ -6,8 +6,8 @@
   },
   {
     "tag": "mihomo",
-    "count": 208,
-    "category": "ecosystem"
+    "count": 210,
+    "category": "dns_rules"
   },
   {
     "tag": "v2fly",
@@ -16,8 +16,8 @@
   },
   {
     "tag": "release",
-    "count": 160,
-    "category": "ecosystem"
+    "count": 164,
+    "category": "dns_rules"
   },
   {
     "tag": "Sub-Store",
@@ -66,7 +66,7 @@
   },
   {
     "tag": "geosite",
-    "count": 74,
+    "count": 76,
     "category": "dns_rules"
   },
   {
@@ -136,7 +136,7 @@
   },
   {
     "tag": "quic",
-    "count": 36,
+    "count": 37,
     "category": "core"
   },
   {
@@ -146,8 +146,28 @@
   },
   {
     "tag": "ech",
-    "count": 34,
+    "count": 35,
     "category": "client"
+  },
+  {
+    "tag": "ruleset",
+    "count": 34,
+    "category": "dns_rules"
+  },
+  {
+    "tag": "geoip",
+    "count": 34,
+    "category": "dns_rules"
+  },
+  {
+    "tag": "clash",
+    "count": 34,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "xhttp",
+    "count": 34,
+    "category": "ecosystem"
   },
   {
     "tag": "WireGuard",
@@ -160,16 +180,6 @@
     "category": "client"
   },
   {
-    "tag": "clash",
-    "count": 33,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "xhttp",
-    "count": 33,
-    "category": "ecosystem"
-  },
-  {
     "tag": "Snell",
     "count": 33,
     "category": "protocol"
@@ -180,27 +190,17 @@
     "category": "core"
   },
   {
-    "tag": "ruleset",
-    "count": 32,
-    "category": "dns_rules"
-  },
-  {
-    "tag": "geoip",
-    "count": 32,
-    "category": "dns_rules"
-  },
-  {
     "tag": "自动构建",
     "count": 32,
     "category": "ecosystem"
   },
   {
-    "tag": "Tailscale",
-    "count": 30,
+    "tag": "meta",
+    "count": 31,
     "category": "core"
   },
   {
-    "tag": "meta",
+    "tag": "Tailscale",
     "count": 30,
     "category": "core"
   },
@@ -220,14 +220,14 @@
     "category": "dns_rules"
   },
   {
+    "tag": "xray-core",
+    "count": 25,
+    "category": "client"
+  },
+  {
     "tag": "网络工具",
     "count": 25,
     "category": "ecosystem"
-  },
-  {
-    "tag": "xray-core",
-    "count": 24,
-    "category": "client"
   },
   {
     "tag": "HTTP/2",
@@ -440,6 +440,16 @@
     "category": "client"
   },
   {
+    "tag": "x-ui",
+    "count": 11,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "panel",
+    "count": 11,
+    "category": "ecosystem"
+  },
+  {
     "tag": "API",
     "count": 10,
     "category": "ecosystem"
@@ -458,16 +468,6 @@
     "tag": "dns",
     "count": 10,
     "category": "dns_rules"
-  },
-  {
-    "tag": "x-ui",
-    "count": 10,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "panel",
-    "count": 10,
-    "category": "ecosystem"
   },
   {
     "tag": "配置管理",

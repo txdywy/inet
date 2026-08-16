@@ -1,5 +1,78 @@
 [
   {
+    "id": "9b574ff7740f60b7",
+    "title": "MetaCubeX/meta-rules-dat Release 2026-08-16 06:44",
+    "summary": "Release 2026-08-16 06:44",
+    "rawTitle": "Release 2026-08-16 06:44",
+    "rawBody": "",
+    "sourceType": "github_release",
+    "sourceName": "MetaCubeX/meta-rules-dat",
+    "sourceUrl": "https://github.com/MetaCubeX/meta-rules-dat/releases/tag/latest",
+    "project": "meta-rules-dat",
+    "repo": "MetaCubeX/meta-rules-dat",
+    "slug": "meta-rules-dat",
+    "version": "latest",
+    "category": "dns_rules",
+    "tags": [
+      "ruleset",
+      "geosite",
+      "geoip",
+      "mihomo",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-08-15T22:47:30Z",
+    "fetchedAt": "2026-08-16T01:58:36.897Z",
+    "firstSeenAt": "2026-08-16T01:58:41.246Z",
+    "updatedAt": "2026-08-16T01:58:41.246Z",
+    "hash": "9b574ff7740f60b7"
+  },
+  {
+    "id": "79f8a7f29d8ec018",
+    "title": "Loyalsoldier/v2ray-rules-dat Released on 202608152214",
+    "summary": "Released on 202608152214",
+    "rawTitle": "Released on 202608152214",
+    "rawBody": "",
+    "sourceType": "github_release",
+    "sourceName": "Loyalsoldier/v2ray-rules-dat",
+    "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/tag/202608152214",
+    "project": "v2ray-rules-dat",
+    "repo": "Loyalsoldier/v2ray-rules-dat",
+    "slug": "v2ray-rules-dat",
+    "version": "202608152214",
+    "category": "dns_rules",
+    "tags": [
+      "ruleset",
+      "geosite",
+      "geoip",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-08-15T22:14:44Z",
+    "fetchedAt": "2026-08-16T01:58:36.878Z",
+    "firstSeenAt": "2026-08-16T01:58:40.436Z",
+    "updatedAt": "2026-08-16T01:58:40.436Z",
+    "hash": "79f8a7f29d8ec018"
+  },
+  {
     "id": "69a841a71b4ea12b",
     "title": "MetaCubeX/metacubexd v1.272.0",
     "summary": "v1.272.0",
@@ -14992,6 +15065,40 @@
     "firstSeenAt": "2026-06-25T04:36:16.426Z",
     "updatedAt": "2026-06-25T04:36:16.426Z",
     "hash": "e54a070ca4e6a5bf"
+  },
+  {
+    "id": "74a9740018aae68f",
+    "title": "MHSanaei/3x-ui Dev build b53a5515",
+    "summary": "Dev build b53a5515",
+    "rawTitle": "Dev build b53a5515",
+    "rawBody": "Rolling development build — installs via the panel's Dev update channel.\n\ncommit=b53a5515d6ef2ebf50c65e636381615354c4a4d7\nbuilt=2026-08-15T21:39:01Z\n\nAutomated per-commit build from main. Not a stable release.",
+    "sourceType": "github_release",
+    "sourceName": "MHSanaei/3x-ui",
+    "sourceUrl": "https://github.com/MHSanaei/3x-ui/releases/tag/dev-latest",
+    "project": "3x-ui",
+    "repo": "MHSanaei/3x-ui",
+    "slug": "3x-ui",
+    "version": "dev-latest",
+    "category": "ecosystem",
+    "tags": [
+      "x-ui",
+      "panel",
+      "xray-core",
+      "release"
+    ],
+    "platforms": [
+      "linux"
+    ],
+    "importance": 4,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2026-06-24T16:17:06Z",
+    "fetchedAt": "2026-08-16T01:58:35.610Z",
+    "firstSeenAt": "2026-08-16T01:58:39.625Z",
+    "updatedAt": "2026-08-16T01:58:39.625Z",
+    "hash": "74a9740018aae68f"
   },
   {
     "id": "de9d4ba6e67d8046",
@@ -38708,6 +38815,45 @@
     "firstSeenAt": "2026-05-07T04:09:04.362Z",
     "updatedAt": "2026-05-07T04:09:04.362Z",
     "hash": "5e6adb84fbb7f312"
+  },
+  {
+    "id": "981973d1415c92ac",
+    "title": "MetaCubeX/mihomo Prerelease-Alpha",
+    "summary": "Prerelease-Alpha",
+    "rawTitle": "Prerelease-Alpha",
+    "rawBody": "Release created at  Sun Aug 16 03:01:26 CST 2026\nSynchronize Alpha branch code updates, keeping only the latest version\n<br>\n[我应该下载哪个文件? / Which file should I download?](https://github.com/MetaCubeX/mihomo/wiki/FAQ)\n[二进制文件筛选 / Binary file selector](https://metacubex.github.io/Meta-Docs/startup/#_1)\n[查看文档 / Docs](https://metacubex.github.io/Meta-Docs/)\n\n\n## What's Changed\n* fix: typo in `uplinkHTTPMethod` by @MakostaDev in https://github.com/MetaCubeX/mihomo/pull/3029\n* fix: tun dns hijack sending zero-filled or stale packets when PackBuffer reallocates by @TWO666 in https://github.com/MetaCubeX/mihomo/pull/3037\n* feat: support H2C and QUICv2 sniffing by @MakostaDev in https://github.com/MetaCubeX/mihomo/pull/3036\n* fix: echo edns0 opt in dns replies when the request carries one by @TWO666 in https://github.com/MetaCubeX/mihomo/pull/3041\n* fix: truncate udp dns replies to the client's advertised buffer size by @TWO666 in https://github.com/MetaCubeX/mihomo/pull/3043\n* chore: update mieru version by @enfein in https://github.com/MetaCubeX/mihomo/pull/3046\n* chore: remove dohMaxConnsPerHost & dohMaxIdleConns by @ayanamist in https://github.com/MetaCubeX/mihomo/pull/3048\n* perf: avoid string reversal allocation in DomainSet.Has by @Ember-Moth in https://github.com/MetaCubeX/mihomo/pull/3049\n* fix(xhttp): apply default uplink chunk size by @vanbujhm in https://github.com/MetaCubeX/mihomo/pull/3061\n* fix: include the upstream version for tailscale IPNVersion by @huiyifyj in https://github.com/MetaCubeX/mihomo/pull/3074\n* fix: trim trailing newline from Tailscale VersionDotTxt in IPNVersion by @eivgogo in https://github.com/MetaCubeX/mihomo/pull/3079\n* fix: typo in error string by @xlighting2017 in https://github.com/MetaCubeX/mihomo/pull/3090\n* fix(openvpn): survive server-initiated soft reset and rekey by @ayanami-desu in https://github.com/MetaCubeX/mihomo/pull/3109\n\n## New Contributors\n* @MakostaDev made their first contribution in https://github.com/MetaCubeX/mihomo/pull/3029\n* @TWO666 made their first contribution in https://github.com/MetaCubeX/mihomo/pull/3037\n* @Ember-Moth made their first contribution in https://github.com/MetaCubeX/mihomo/pull/3049\n* @vanbujhm made their first contribution in https://github.com/MetaCubeX/mihomo/pull/3061\n* @huiyifyj made their first contribution in https://github.com/MetaCubeX/mihomo/pull/3074\n* @eivgogo made their first contribution in https://github.com/MetaCubeX/mihomo/pull/3079\n* @xlighting2017 made their first contribution in https://github.com/MetaCubeX/mihomo/pull/3090\n* @ayanami-desu made their first contribution in https://github.com/MetaCubeX/mihomo/pull/3109\n\n**Full Changelog**: https://github.com/MetaCubeX/mihomo/compare/v1.19.29...Prerelease-Alpha",
+    "sourceType": "github_release",
+    "sourceName": "MetaCubeX/mihomo",
+    "sourceUrl": "https://github.com/MetaCubeX/mihomo/releases/tag/Prerelease-Alpha",
+    "project": "mihomo",
+    "repo": "MetaCubeX/mihomo",
+    "slug": "mihomo",
+    "version": "Prerelease-Alpha",
+    "category": "core",
+    "tags": [
+      "mihomo",
+      "clash",
+      "meta",
+      "xhttp",
+      "ech",
+      "quic",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 3,
+    "confidence": 0.85,
+    "isBreaking": true,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2024-08-12T17:01:02Z",
+    "fetchedAt": "2026-08-16T01:58:25.807Z",
+    "firstSeenAt": "2026-08-16T01:58:38.815Z",
+    "updatedAt": "2026-08-16T01:58:38.815Z",
+    "hash": "981973d1415c92ac"
   },
   {
     "id": "bc45532a6bb231a7",
