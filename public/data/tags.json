@@ -6,8 +6,8 @@
   },
   {
     "tag": "mihomo",
-    "count": 210,
-    "category": "dns_rules"
+    "count": 215,
+    "category": "ecosystem"
   },
   {
     "tag": "v2fly",
@@ -16,8 +16,8 @@
   },
   {
     "tag": "release",
-    "count": 164,
-    "category": "dns_rules"
+    "count": 172,
+    "category": "router"
   },
   {
     "tag": "Sub-Store",
@@ -26,7 +26,7 @@
   },
   {
     "tag": "domain-list",
-    "count": 110,
+    "count": 111,
     "category": "dns_rules"
   },
   {
@@ -66,7 +66,7 @@
   },
   {
     "tag": "geosite",
-    "count": 76,
+    "count": 77,
     "category": "dns_rules"
   },
   {
@@ -125,6 +125,16 @@
     "category": "core"
   },
   {
+    "tag": "clash",
+    "count": 39,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "quic",
+    "count": 39,
+    "category": "security"
+  },
+  {
     "tag": "Linux",
     "count": 38,
     "category": "client"
@@ -135,19 +145,19 @@
     "category": "client"
   },
   {
-    "tag": "quic",
+    "tag": "ech",
     "count": 37,
-    "category": "core"
+    "category": "security"
+  },
+  {
+    "tag": "xhttp",
+    "count": 36,
+    "category": "security"
   },
   {
     "tag": "go-gost",
     "count": 36,
     "category": "core"
-  },
-  {
-    "tag": "ech",
-    "count": 35,
-    "category": "client"
   },
   {
     "tag": "ruleset",
@@ -160,16 +170,6 @@
     "category": "dns_rules"
   },
   {
-    "tag": "clash",
-    "count": 34,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "xhttp",
-    "count": 34,
-    "category": "ecosystem"
-  },
-  {
     "tag": "WireGuard",
     "count": 34,
     "category": "core"
@@ -178,6 +178,11 @@
     "tag": "ClashMetaForAndroid",
     "count": 34,
     "category": "client"
+  },
+  {
+    "tag": "meta",
+    "count": 33,
+    "category": "security"
   },
   {
     "tag": "Snell",
@@ -195,11 +200,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "meta",
-    "count": 31,
-    "category": "core"
-  },
-  {
     "tag": "Tailscale",
     "count": 30,
     "category": "core"
@@ -215,14 +215,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "xray-core",
+    "count": 26,
+    "category": "client"
+  },
+  {
     "tag": "DNS",
     "count": 26,
     "category": "dns_rules"
-  },
-  {
-    "tag": "xray-core",
-    "count": 25,
-    "category": "client"
   },
   {
     "tag": "网络工具",
@@ -245,6 +245,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "hysteria2",
+    "count": 22,
+    "category": "security"
+  },
+  {
     "tag": "用户界面",
     "count": 22,
     "category": "client"
@@ -256,11 +261,6 @@
   },
   {
     "tag": "vless",
-    "count": 21,
-    "category": "core"
-  },
-  {
-    "tag": "hysteria2",
     "count": 21,
     "category": "core"
   },
@@ -410,6 +410,21 @@
     "category": "core"
   },
   {
+    "tag": "x-ui",
+    "count": 12,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "panel",
+    "count": 12,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "dns",
+    "count": 11,
+    "category": "router"
+  },
+  {
     "tag": "TUN",
     "count": 11,
     "category": "client"
@@ -440,16 +455,6 @@
     "category": "client"
   },
   {
-    "tag": "x-ui",
-    "count": 11,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "panel",
-    "count": 11,
-    "category": "ecosystem"
-  },
-  {
     "tag": "API",
     "count": 10,
     "category": "ecosystem"
@@ -463,11 +468,6 @@
     "tag": "Docker",
     "count": 10,
     "category": "ecosystem"
-  },
-  {
-    "tag": "dns",
-    "count": 10,
-    "category": "dns_rules"
   },
   {
     "tag": "配置管理",
@@ -573,6 +573,11 @@
     "tag": "QUICv2",
     "count": 8,
     "category": "core"
+  },
+  {
+    "tag": "android",
+    "count": 7,
+    "category": "client"
   },
   {
     "tag": "Shadowrocket",
@@ -685,12 +690,12 @@
     "category": "ecosystem"
   },
   {
-    "tag": "v2rayng",
+    "tag": "anytls",
     "count": 5,
     "category": "security"
   },
   {
-    "tag": "android",
+    "tag": "v2rayng",
     "count": 5,
     "category": "security"
   },
@@ -800,7 +805,17 @@
     "category": "ecosystem"
   },
   {
-    "tag": "anytls",
+    "tag": "openwrt",
+    "count": 4,
+    "category": "router"
+  },
+  {
+    "tag": "dashboard",
+    "count": 4,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "wireguard",
     "count": 4,
     "category": "security"
   },
@@ -925,11 +940,6 @@
     "category": "client"
   },
   {
-    "tag": "dashboard",
-    "count": 3,
-    "category": "ecosystem"
-  },
-  {
     "tag": "v2rayn",
     "count": 3,
     "category": "client"
@@ -940,17 +950,7 @@
     "category": "client"
   },
   {
-    "tag": "openwrt",
-    "count": 3,
-    "category": "router"
-  },
-  {
     "tag": "tailscale",
-    "count": 3,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "wireguard",
     "count": 3,
     "category": "ecosystem"
   },
@@ -1178,6 +1178,11 @@
     "tag": "protocol",
     "count": 3,
     "category": "protocol"
+  },
+  {
+    "tag": "mosdns",
+    "count": 2,
+    "category": "router"
   },
   {
     "tag": "desktop",
@@ -1717,6 +1722,11 @@
   {
     "tag": "Quantumult X",
     "count": 2,
+    "category": "security"
+  },
+  {
+    "tag": "amneziawg",
+    "count": 1,
     "category": "security"
   },
   {
@@ -3763,11 +3773,6 @@
     "tag": "用户体验优化",
     "count": 1,
     "category": "client"
-  },
-  {
-    "tag": "mosdns",
-    "count": 1,
-    "category": "ecosystem"
   },
   {
     "tag": "固件更新",
