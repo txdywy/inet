@@ -6,7 +6,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 216,
+    "count": 217,
     "category": "dns_rules"
   },
   {
@@ -16,7 +16,7 @@
   },
   {
     "tag": "release",
-    "count": 175,
+    "count": 176,
     "category": "dns_rules"
   },
   {
@@ -126,7 +126,7 @@
   },
   {
     "tag": "clash",
-    "count": 39,
+    "count": 40,
     "category": "ecosystem"
   },
   {
@@ -170,6 +170,11 @@
     "category": "core"
   },
   {
+    "tag": "meta",
+    "count": 34,
+    "category": "security"
+  },
+  {
     "tag": "WireGuard",
     "count": 34,
     "category": "core"
@@ -178,11 +183,6 @@
     "tag": "ClashMetaForAndroid",
     "count": 34,
     "category": "client"
-  },
-  {
-    "tag": "meta",
-    "count": 33,
-    "category": "security"
   },
   {
     "tag": "Snell",
