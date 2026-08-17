@@ -6,8 +6,8 @@
   },
   {
     "tag": "mihomo",
-    "count": 215,
-    "category": "ecosystem"
+    "count": 216,
+    "category": "dns_rules"
   },
   {
     "tag": "v2fly",
@@ -16,8 +16,8 @@
   },
   {
     "tag": "release",
-    "count": 172,
-    "category": "router"
+    "count": 175,
+    "category": "dns_rules"
   },
   {
     "tag": "Sub-Store",
@@ -66,7 +66,7 @@
   },
   {
     "tag": "geosite",
-    "count": 77,
+    "count": 79,
     "category": "dns_rules"
   },
   {
@@ -150,6 +150,16 @@
     "category": "security"
   },
   {
+    "tag": "ruleset",
+    "count": 36,
+    "category": "dns_rules"
+  },
+  {
+    "tag": "geoip",
+    "count": 36,
+    "category": "dns_rules"
+  },
+  {
     "tag": "xhttp",
     "count": 36,
     "category": "security"
@@ -158,16 +168,6 @@
     "tag": "go-gost",
     "count": 36,
     "category": "core"
-  },
-  {
-    "tag": "ruleset",
-    "count": 34,
-    "category": "dns_rules"
-  },
-  {
-    "tag": "geoip",
-    "count": 34,
-    "category": "dns_rules"
   },
   {
     "tag": "WireGuard",
@@ -216,7 +216,7 @@
   },
   {
     "tag": "xray-core",
-    "count": 26,
+    "count": 27,
     "category": "client"
   },
   {
@@ -390,6 +390,16 @@
     "category": "ecosystem"
   },
   {
+    "tag": "x-ui",
+    "count": 13,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "panel",
+    "count": 13,
+    "category": "ecosystem"
+  },
+  {
     "tag": "SOCKS",
     "count": 13,
     "category": "client"
@@ -408,16 +418,6 @@
     "tag": "HTTP",
     "count": 12,
     "category": "core"
-  },
-  {
-    "tag": "x-ui",
-    "count": 12,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "panel",
-    "count": 12,
-    "category": "ecosystem"
   },
   {
     "tag": "dns",

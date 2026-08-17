@@ -1,5 +1,5 @@
 {
-  "totalItems": 1359,
+  "totalItems": 1362,
   "last24h": 8,
   "last7d": 48,
   "byCategory": {
@@ -7,9 +7,9 @@
     "client": 252,
     "router": 4,
     "protocol": 57,
-    "dns_rules": 101,
+    "dns_rules": 103,
     "security": 31,
-    "ecosystem": 679,
+    "ecosystem": 680,
     "trend": 0
   },
   "topProjects": [
@@ -27,15 +27,15 @@
     },
     {
       "project": "v2ray-rules-dat",
-      "count": 108
+      "count": 109
     },
     {
       "project": "meta-rules-dat",
-      "count": 105
+      "count": 106
     },
     {
       "project": "3x-ui",
-      "count": 95
+      "count": 96
     },
     {
       "project": "metacubexd",
@@ -61,7 +61,7 @@
     },
     {
       "tag": "mihomo",
-      "count": 215
+      "count": 216
     },
     {
       "tag": "v2fly",
@@ -69,7 +69,7 @@
     },
     {
       "tag": "release",
-      "count": 172
+      "count": 175
     },
     {
       "tag": "Sub-Store",
@@ -109,7 +109,7 @@
     },
     {
       "tag": "geosite",
-      "count": 77
+      "count": 79
     },
     {
       "tag": "网络代理",
@@ -136,8 +136,8 @@
       "count": 46
     }
   ],
-  "importantCount": 406,
+  "importantCount": 409,
   "breakingCount": 80,
   "securityCount": 85,
-  "updatedAt": "2026-08-16T18:44:59.655Z"
+  "updatedAt": "2026-08-17T01:56:42.590Z"
 }
