@@ -16,8 +16,8 @@
   },
   {
     "tag": "release",
-    "count": 176,
-    "category": "dns_rules"
+    "count": 178,
+    "category": "core"
   },
   {
     "tag": "Sub-Store",
@@ -81,7 +81,7 @@
   },
   {
     "tag": "sing-box",
-    "count": 62,
+    "count": 64,
     "category": "core"
   },
   {
@@ -230,9 +230,19 @@
     "category": "ecosystem"
   },
   {
+    "tag": "hysteria2",
+    "count": 24,
+    "category": "core"
+  },
+  {
     "tag": "HTTP/2",
     "count": 24,
     "category": "protocol"
+  },
+  {
+    "tag": "vless",
+    "count": 23,
+    "category": "core"
   },
   {
     "tag": "依赖更新",
@@ -245,11 +255,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "hysteria2",
-    "count": 22,
-    "category": "security"
-  },
-  {
     "tag": "用户界面",
     "count": 22,
     "category": "client"
@@ -260,11 +265,6 @@
     "category": "core"
   },
   {
-    "tag": "vless",
-    "count": 21,
-    "category": "core"
-  },
-  {
     "tag": "QUIC",
     "count": 20,
     "category": "ecosystem"
@@ -272,6 +272,11 @@
   {
     "tag": "rematch",
     "count": 20,
+    "category": "core"
+  },
+  {
+    "tag": "tuic",
+    "count": 19,
     "category": "core"
   },
   {
@@ -292,11 +297,6 @@
   {
     "tag": "Xray",
     "count": 18,
-    "category": "core"
-  },
-  {
-    "tag": "tuic",
-    "count": 17,
     "category": "core"
   },
   {

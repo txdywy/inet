@@ -1,9 +1,9 @@
 {
-  "totalItems": 1363,
-  "last24h": 8,
+  "totalItems": 1365,
+  "last24h": 4,
   "last7d": 48,
   "byCategory": {
-    "core": 236,
+    "core": 238,
     "client": 252,
     "router": 4,
     "protocol": 57,
@@ -43,7 +43,7 @@
     },
     {
       "project": "sing-box",
-      "count": 53
+      "count": 55
     },
     {
       "project": "gost",
@@ -69,7 +69,7 @@
     },
     {
       "tag": "release",
-      "count": 176
+      "count": 178
     },
     {
       "tag": "Sub-Store",
@@ -121,7 +121,7 @@
     },
     {
       "tag": "sing-box",
-      "count": 62
+      "count": 64
     },
     {
       "tag": "开发版本",
@@ -136,8 +136,8 @@
       "count": 46
     }
   ],
-  "importantCount": 409,
+  "importantCount": 411,
   "breakingCount": 80,
   "securityCount": 85,
-  "updatedAt": "2026-08-17T07:18:34.614Z"
+  "updatedAt": "2026-08-17T13:08:32.340Z"
 }
