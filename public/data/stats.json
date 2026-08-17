@@ -1,9 +1,9 @@
 {
-  "totalItems": 1365,
-  "last24h": 4,
-  "last7d": 48,
+  "totalItems": 1366,
+  "last24h": 5,
+  "last7d": 47,
   "byCategory": {
-    "core": 238,
+    "core": 239,
     "client": 252,
     "router": 4,
     "protocol": 57,
@@ -47,7 +47,7 @@
     },
     {
       "project": "gost",
-      "count": 37
+      "count": 38
     },
     {
       "project": "ClashMetaForAndroid",
@@ -69,7 +69,7 @@
     },
     {
       "tag": "release",
-      "count": 178
+      "count": 179
     },
     {
       "tag": "Sub-Store",
@@ -136,8 +136,8 @@
       "count": 46
     }
   ],
-  "importantCount": 411,
+  "importantCount": 412,
   "breakingCount": 80,
   "securityCount": 85,
-  "updatedAt": "2026-08-17T13:08:32.340Z"
+  "updatedAt": "2026-08-17T18:55:19.000Z"
 }

@@ -16,7 +16,7 @@
   },
   {
     "tag": "release",
-    "count": 178,
+    "count": 179,
     "category": "core"
   },
   {
@@ -620,6 +620,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "gost",
+    "count": 6,
+    "category": "core"
+  },
+  {
     "tag": "安全更新",
     "count": 6,
     "category": "security"
@@ -698,11 +703,6 @@
     "tag": "v2rayng",
     "count": 5,
     "category": "security"
-  },
-  {
-    "tag": "gost",
-    "count": 5,
-    "category": "core"
   },
   {
     "tag": "Avalonia",
@@ -1178,6 +1178,11 @@
     "tag": "protocol",
     "count": 3,
     "category": "protocol"
+  },
+  {
+    "tag": "tunnel",
+    "count": 2,
+    "category": "core"
   },
   {
     "tag": "mosdns",
@@ -1738,11 +1743,6 @@
     "tag": "openclash",
     "count": 1,
     "category": "router"
-  },
-  {
-    "tag": "tunnel",
-    "count": 1,
-    "category": "core"
   },
   {
     "tag": "ssrplus",

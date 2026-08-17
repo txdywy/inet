@@ -1,5 +1,40 @@
 [
   {
+    "id": "c8c0254e65a7f469",
+    "title": "go-gost/gost v3.2.7-nightly.20260817",
+    "summary": "v3.2.7-nightly.20260817",
+    "rawTitle": "v3.2.7-nightly.20260817",
+    "rawBody": "## Changelog\n* f7b27a2c8b00027fdbc90ff1d85a35f3f60edcbe bump x to v0.15.3\n\n",
+    "sourceType": "github_release",
+    "sourceName": "go-gost/gost",
+    "sourceUrl": "https://github.com/go-gost/gost/releases/tag/v3.2.7-nightly.20260817",
+    "project": "gost",
+    "repo": "go-gost/gost",
+    "slug": "gost",
+    "version": "3.2.7-nightly.20260817",
+    "category": "core",
+    "tags": [
+      "gost",
+      "tunnel",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-08-17T15:39:55Z",
+    "fetchedAt": "2026-08-17T18:55:07.438Z",
+    "firstSeenAt": "2026-08-17T18:55:18.538Z",
+    "updatedAt": "2026-08-17T18:55:18.538Z",
+    "hash": "c8c0254e65a7f469"
+  },
+  {
     "id": "392ce9eb5eced8d7",
     "title": "SagerNet/sing-box 1.13.19",
     "summary": "1.13.19",
