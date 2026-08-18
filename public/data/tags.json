@@ -16,7 +16,7 @@
   },
   {
     "tag": "release",
-    "count": 183,
+    "count": 184,
     "category": "dns_rules"
   },
   {
@@ -216,7 +216,7 @@
   },
   {
     "tag": "xray-core",
-    "count": 27,
+    "count": 28,
     "category": "client"
   },
   {
@@ -380,22 +380,22 @@
     "category": "ecosystem"
   },
   {
+    "tag": "x-ui",
+    "count": 14,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "panel",
+    "count": 14,
+    "category": "ecosystem"
+  },
+  {
     "tag": "OpenWrt",
     "count": 13,
     "category": "security"
   },
   {
     "tag": "Clash",
-    "count": 13,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "x-ui",
-    "count": 13,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "panel",
     "count": 13,
     "category": "ecosystem"
   },
