@@ -16,7 +16,7 @@
   },
   {
     "tag": "release",
-    "count": 184,
+    "count": 185,
     "category": "dns_rules"
   },
   {
@@ -205,6 +205,11 @@
     "category": "core"
   },
   {
+    "tag": "xray-core",
+    "count": 29,
+    "category": "client"
+  },
+  {
     "tag": "v2rayN",
     "count": 29,
     "category": "security"
@@ -213,11 +218,6 @@
     "tag": "自动化构建",
     "count": 29,
     "category": "ecosystem"
-  },
-  {
-    "tag": "xray-core",
-    "count": 28,
-    "category": "client"
   },
   {
     "tag": "DNS",
@@ -355,6 +355,16 @@
     "category": "ecosystem"
   },
   {
+    "tag": "x-ui",
+    "count": 15,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "panel",
+    "count": 15,
+    "category": "ecosystem"
+  },
+  {
     "tag": "v2rayA",
     "count": 14,
     "category": "client"
@@ -376,16 +386,6 @@
   },
   {
     "tag": "snell",
-    "count": 14,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "x-ui",
-    "count": 14,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "panel",
     "count": 14,
     "category": "ecosystem"
   },
