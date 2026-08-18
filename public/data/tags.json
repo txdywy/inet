@@ -16,7 +16,7 @@
   },
   {
     "tag": "release",
-    "count": 182,
+    "count": 183,
     "category": "dns_rules"
   },
   {
@@ -26,7 +26,7 @@
   },
   {
     "tag": "domain-list",
-    "count": 111,
+    "count": 112,
     "category": "dns_rules"
   },
   {
@@ -55,14 +55,14 @@
     "category": "client"
   },
   {
+    "tag": "geosite",
+    "count": 82,
+    "category": "dns_rules"
+  },
+  {
     "tag": "metacubexd",
     "count": 82,
     "category": "client"
-  },
-  {
-    "tag": "geosite",
-    "count": 81,
-    "category": "dns_rules"
   },
   {
     "tag": "OpenVPN",

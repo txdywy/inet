@@ -1,5 +1,40 @@
 [
   {
+    "id": "1d23fd4409e8bdf0",
+    "title": "v2fly/domain-list-community 20260818030538",
+    "summary": "20260818030538",
+    "rawTitle": "20260818030538",
+    "rawBody": "## What's Changed\n* Add nordvpn service and include its domains by @F50Ci37Y in https://github.com/v2fly/domain-list-community/pull/3969\n\n\n**Full Changelog**: https://github.com/v2fly/domain-list-community/compare/20260816111744...20260818030538",
+    "sourceType": "github_release",
+    "sourceName": "v2fly/domain-list-community",
+    "sourceUrl": "https://github.com/v2fly/domain-list-community/releases/tag/20260818030538",
+    "project": "domain-list-community",
+    "repo": "v2fly/domain-list-community",
+    "slug": "domain-list-community",
+    "version": "20260818030538",
+    "category": "dns_rules",
+    "tags": [
+      "geosite",
+      "domain-list",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 2,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-08-18T03:05:49Z",
+    "fetchedAt": "2026-08-18T07:07:25.009Z",
+    "firstSeenAt": "2026-08-18T07:07:25.678Z",
+    "updatedAt": "2026-08-18T07:07:25.678Z",
+    "hash": "1d23fd4409e8bdf0"
+  },
+  {
     "id": "fcbd7ba855d747f5",
     "title": "MetaCubeX/meta-rules-dat Release 2026-08-18 06:47",
     "summary": "Release 2026-08-18 06:47",
