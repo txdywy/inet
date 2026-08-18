@@ -1,13 +1,13 @@
 {
-  "totalItems": 1366,
+  "totalItems": 1369,
   "last24h": 5,
   "last7d": 47,
   "byCategory": {
-    "core": 239,
+    "core": 240,
     "client": 252,
     "router": 4,
     "protocol": 57,
-    "dns_rules": 103,
+    "dns_rules": 105,
     "security": 31,
     "ecosystem": 680,
     "trend": 0
@@ -19,7 +19,7 @@
     },
     {
       "project": "mihomo",
-      "count": 181
+      "count": 182
     },
     {
       "project": "Sub-Store",
@@ -27,11 +27,11 @@
     },
     {
       "project": "v2ray-rules-dat",
-      "count": 109
+      "count": 110
     },
     {
       "project": "meta-rules-dat",
-      "count": 106
+      "count": 107
     },
     {
       "project": "3x-ui",
@@ -61,7 +61,7 @@
     },
     {
       "tag": "mihomo",
-      "count": 217
+      "count": 219
     },
     {
       "tag": "v2fly",
@@ -69,7 +69,7 @@
     },
     {
       "tag": "release",
-      "count": 179
+      "count": 182
     },
     {
       "tag": "Sub-Store",
@@ -104,12 +104,12 @@
       "count": 82
     },
     {
-      "tag": "OpenVPN",
-      "count": 80
+      "tag": "geosite",
+      "count": 81
     },
     {
-      "tag": "geosite",
-      "count": 79
+      "tag": "OpenVPN",
+      "count": 80
     },
     {
       "tag": "网络代理",
@@ -136,8 +136,8 @@
       "count": 46
     }
   ],
-  "importantCount": 412,
+  "importantCount": 414,
   "breakingCount": 80,
   "securityCount": 85,
-  "updatedAt": "2026-08-17T18:55:19.000Z"
+  "updatedAt": "2026-08-18T01:52:39.854Z"
 }

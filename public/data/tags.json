@@ -6,7 +6,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 217,
+    "count": 219,
     "category": "dns_rules"
   },
   {
@@ -16,8 +16,8 @@
   },
   {
     "tag": "release",
-    "count": 179,
-    "category": "core"
+    "count": 182,
+    "category": "dns_rules"
   },
   {
     "tag": "Sub-Store",
@@ -60,14 +60,14 @@
     "category": "client"
   },
   {
+    "tag": "geosite",
+    "count": 81,
+    "category": "dns_rules"
+  },
+  {
     "tag": "OpenVPN",
     "count": 80,
     "category": "protocol"
-  },
-  {
-    "tag": "geosite",
-    "count": 79,
-    "category": "dns_rules"
   },
   {
     "tag": "网络代理",
@@ -120,19 +120,29 @@
     "category": "core"
   },
   {
+    "tag": "clash",
+    "count": 41,
+    "category": "ecosystem"
+  },
+  {
     "tag": "SagerNet",
     "count": 41,
     "category": "core"
   },
   {
-    "tag": "clash",
-    "count": 40,
-    "category": "ecosystem"
-  },
-  {
     "tag": "quic",
     "count": 39,
     "category": "security"
+  },
+  {
+    "tag": "ruleset",
+    "count": 38,
+    "category": "dns_rules"
+  },
+  {
+    "tag": "geoip",
+    "count": 38,
+    "category": "dns_rules"
   },
   {
     "tag": "Linux",
@@ -150,16 +160,6 @@
     "category": "security"
   },
   {
-    "tag": "ruleset",
-    "count": 36,
-    "category": "dns_rules"
-  },
-  {
-    "tag": "geoip",
-    "count": 36,
-    "category": "dns_rules"
-  },
-  {
     "tag": "xhttp",
     "count": 36,
     "category": "security"
@@ -171,7 +171,7 @@
   },
   {
     "tag": "meta",
-    "count": 34,
+    "count": 35,
     "category": "security"
   },
   {
