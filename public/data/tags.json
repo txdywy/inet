@@ -16,18 +16,18 @@
   },
   {
     "tag": "release",
-    "count": 187,
+    "count": 192,
+    "category": "dns_rules"
+  },
+  {
+    "tag": "domain-list",
+    "count": 117,
     "category": "dns_rules"
   },
   {
     "tag": "Sub-Store",
     "count": 117,
     "category": "ecosystem"
-  },
-  {
-    "tag": "domain-list",
-    "count": 112,
-    "category": "dns_rules"
   },
   {
     "tag": "domain-list-community",
@@ -40,6 +40,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "geosite",
+    "count": 89,
+    "category": "dns_rules"
+  },
+  {
     "tag": "meta-rules-dat",
     "count": 88,
     "category": "ecosystem"
@@ -48,11 +53,6 @@
     "tag": "Loyalsoldier",
     "count": 86,
     "category": "ecosystem"
-  },
-  {
-    "tag": "geosite",
-    "count": 84,
-    "category": "dns_rules"
   },
   {
     "tag": "3x-ui",
