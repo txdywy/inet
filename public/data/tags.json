@@ -16,12 +16,12 @@
   },
   {
     "tag": "release",
-    "count": 192,
-    "category": "dns_rules"
+    "count": 197,
+    "category": "core"
   },
   {
     "tag": "domain-list",
-    "count": 117,
+    "count": 119,
     "category": "dns_rules"
   },
   {
@@ -41,7 +41,7 @@
   },
   {
     "tag": "geosite",
-    "count": 89,
+    "count": 91,
     "category": "dns_rules"
   },
   {
@@ -200,14 +200,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "xray-core",
+    "count": 30,
+    "category": "client"
+  },
+  {
     "tag": "Tailscale",
     "count": 30,
     "category": "core"
-  },
-  {
-    "tag": "xray-core",
-    "count": 29,
-    "category": "client"
   },
   {
     "tag": "v2rayN",
@@ -335,6 +335,16 @@
     "category": "core"
   },
   {
+    "tag": "x-ui",
+    "count": 16,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "panel",
+    "count": 16,
+    "category": "ecosystem"
+  },
+  {
     "tag": "预发布",
     "count": 16,
     "category": "client"
@@ -351,16 +361,6 @@
   },
   {
     "tag": "网络规则",
-    "count": 15,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "x-ui",
-    "count": 15,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "panel",
     "count": 15,
     "category": "ecosystem"
   },
@@ -405,6 +405,11 @@
     "category": "client"
   },
   {
+    "tag": "dns",
+    "count": 12,
+    "category": "router"
+  },
+  {
     "tag": "sub-store",
     "count": 12,
     "category": "ecosystem"
@@ -418,11 +423,6 @@
     "tag": "HTTP",
     "count": 12,
     "category": "core"
-  },
-  {
-    "tag": "dns",
-    "count": 11,
-    "category": "router"
   },
   {
     "tag": "TUN",
@@ -575,6 +575,11 @@
     "category": "core"
   },
   {
+    "tag": "gost",
+    "count": 7,
+    "category": "core"
+  },
+  {
     "tag": "android",
     "count": 7,
     "category": "client"
@@ -618,11 +623,6 @@
     "tag": "shadowsocks",
     "count": 7,
     "category": "ecosystem"
-  },
-  {
-    "tag": "gost",
-    "count": 6,
-    "category": "core"
   },
   {
     "tag": "安全更新",
@@ -693,6 +693,11 @@
     "tag": "openvpn",
     "count": 6,
     "category": "ecosystem"
+  },
+  {
+    "tag": "openwrt",
+    "count": 5,
+    "category": "router"
   },
   {
     "tag": "anytls",
@@ -803,11 +808,6 @@
     "tag": "subconverter",
     "count": 5,
     "category": "ecosystem"
-  },
-  {
-    "tag": "openwrt",
-    "count": 4,
-    "category": "router"
   },
   {
     "tag": "dashboard",
@@ -938,6 +938,16 @@
     "tag": "nekoray",
     "count": 4,
     "category": "client"
+  },
+  {
+    "tag": "tunnel",
+    "count": 3,
+    "category": "core"
+  },
+  {
+    "tag": "mosdns",
+    "count": 3,
+    "category": "router"
   },
   {
     "tag": "v2rayn",
@@ -1178,16 +1188,6 @@
     "tag": "protocol",
     "count": 3,
     "category": "protocol"
-  },
-  {
-    "tag": "tunnel",
-    "count": 2,
-    "category": "core"
-  },
-  {
-    "tag": "mosdns",
-    "count": 2,
-    "category": "router"
   },
   {
     "tag": "desktop",
