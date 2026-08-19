@@ -6,7 +6,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 219,
+    "count": 220,
     "category": "dns_rules"
   },
   {
@@ -16,7 +16,7 @@
   },
   {
     "tag": "release",
-    "count": 185,
+    "count": 187,
     "category": "dns_rules"
   },
   {
@@ -50,14 +50,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "geosite",
+    "count": 84,
+    "category": "dns_rules"
+  },
+  {
     "tag": "3x-ui",
     "count": 83,
     "category": "client"
-  },
-  {
-    "tag": "geosite",
-    "count": 82,
-    "category": "dns_rules"
   },
   {
     "tag": "metacubexd",
@@ -130,19 +130,19 @@
     "category": "core"
   },
   {
-    "tag": "quic",
-    "count": 39,
-    "category": "security"
-  },
-  {
     "tag": "ruleset",
-    "count": 38,
+    "count": 40,
     "category": "dns_rules"
   },
   {
     "tag": "geoip",
-    "count": 38,
+    "count": 40,
     "category": "dns_rules"
+  },
+  {
+    "tag": "quic",
+    "count": 39,
+    "category": "security"
   },
   {
     "tag": "Linux",
