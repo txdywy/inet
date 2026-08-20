@@ -10,14 +10,14 @@
     "category": "dns_rules"
   },
   {
-    "tag": "v2fly",
-    "count": 203,
+    "tag": "release",
+    "count": 204,
     "category": "ecosystem"
   },
   {
-    "tag": "release",
-    "count": 202,
-    "category": "security"
+    "tag": "v2fly",
+    "count": 203,
+    "category": "ecosystem"
   },
   {
     "tag": "domain-list",
@@ -185,6 +185,11 @@
     "category": "client"
   },
   {
+    "tag": "xray-core",
+    "count": 33,
+    "category": "security"
+  },
+  {
     "tag": "Snell",
     "count": 33,
     "category": "protocol"
@@ -193,11 +198,6 @@
     "tag": "xhttp-opts",
     "count": 33,
     "category": "core"
-  },
-  {
-    "tag": "xray-core",
-    "count": 32,
-    "category": "security"
   },
   {
     "tag": "自动构建",
@@ -295,6 +295,16 @@
     "category": "client"
   },
   {
+    "tag": "x-ui",
+    "count": 18,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "panel",
+    "count": 18,
+    "category": "ecosystem"
+  },
+  {
     "tag": "Xray",
     "count": 18,
     "category": "core"
@@ -313,16 +323,6 @@
     "tag": "Hysteria",
     "count": 17,
     "category": "protocol"
-  },
-  {
-    "tag": "x-ui",
-    "count": 17,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "panel",
-    "count": 17,
-    "category": "ecosystem"
   },
   {
     "tag": "TLSAuth",
@@ -700,6 +700,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "wireguard",
+    "count": 5,
+    "category": "ecosystem"
+  },
+  {
     "tag": "openwrt",
     "count": 5,
     "category": "router"
@@ -810,14 +815,14 @@
     "category": "ecosystem"
   },
   {
-    "tag": "dashboard",
+    "tag": "tailscale",
     "count": 4,
     "category": "ecosystem"
   },
   {
-    "tag": "wireguard",
+    "tag": "dashboard",
     "count": 4,
-    "category": "security"
+    "category": "ecosystem"
   },
   {
     "tag": "中间人攻击",
@@ -940,6 +945,11 @@
     "category": "client"
   },
   {
+    "tag": "mesh",
+    "count": 3,
+    "category": "ecosystem"
+  },
+  {
     "tag": "tunnel",
     "count": 3,
     "category": "core"
@@ -958,11 +968,6 @@
     "tag": "windows",
     "count": 3,
     "category": "client"
-  },
-  {
-    "tag": "tailscale",
-    "count": 3,
-    "category": "ecosystem"
   },
   {
     "tag": "CDN",
@@ -1213,11 +1218,6 @@
     "tag": "luci",
     "count": 2,
     "category": "router"
-  },
-  {
-    "tag": "mesh",
-    "count": 2,
-    "category": "ecosystem"
   },
   {
     "tag": "grpc",

@@ -1,5 +1,43 @@
 [
   {
+    "id": "7e4c6873a2a2b68d",
+    "title": "tailscale/tailscale v1.102.3",
+    "summary": "v1.102.3",
+    "rawTitle": "v1.102.3",
+    "rawBody": "Please refer to the changelog available at https://tailscale.com/changelog",
+    "sourceType": "github_release",
+    "sourceName": "tailscale/tailscale",
+    "sourceUrl": "https://github.com/tailscale/tailscale/releases/tag/v1.102.3",
+    "project": "tailscale",
+    "repo": "tailscale/tailscale",
+    "slug": "tailscale",
+    "version": "1.102.3",
+    "category": "ecosystem",
+    "tags": [
+      "tailscale",
+      "wireguard",
+      "mesh",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos",
+      "android",
+      "ios"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-08-20T17:52:26Z",
+    "fetchedAt": "2026-08-20T18:56:23.211Z",
+    "firstSeenAt": "2026-08-20T18:56:28.041Z",
+    "updatedAt": "2026-08-20T18:56:28.041Z",
+    "hash": "7e4c6873a2a2b68d"
+  },
+  {
     "id": "aecf5bb227424b72",
     "title": "2dust/v2rayNG 2.3.5",
     "summary": "2.3.5",
@@ -16069,6 +16107,40 @@
     "firstSeenAt": "2026-06-25T04:36:16.426Z",
     "updatedAt": "2026-06-25T04:36:16.426Z",
     "hash": "e54a070ca4e6a5bf"
+  },
+  {
+    "id": "b8553d2ef6965d1e",
+    "title": "MHSanaei/3x-ui Dev build e4798a02",
+    "summary": "Dev build e4798a02",
+    "rawTitle": "Dev build e4798a02",
+    "rawBody": "Rolling development build — installs via the panel's Dev update channel.\n\ncommit=e4798a027cb1e3098f6dce03640d338029c8a362\nbuilt=2026-08-20T17:44:40Z\n\nAutomated per-commit build from main. Not a stable release.",
+    "sourceType": "github_release",
+    "sourceName": "MHSanaei/3x-ui",
+    "sourceUrl": "https://github.com/MHSanaei/3x-ui/releases/tag/dev-latest",
+    "project": "3x-ui",
+    "repo": "MHSanaei/3x-ui",
+    "slug": "3x-ui",
+    "version": "dev-latest",
+    "category": "ecosystem",
+    "tags": [
+      "x-ui",
+      "panel",
+      "xray-core",
+      "release"
+    ],
+    "platforms": [
+      "linux"
+    ],
+    "importance": 4,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2026-06-24T16:17:06Z",
+    "fetchedAt": "2026-08-20T18:56:24.719Z",
+    "firstSeenAt": "2026-08-20T18:56:28.850Z",
+    "updatedAt": "2026-08-20T18:56:28.850Z",
+    "hash": "b8553d2ef6965d1e"
   },
   {
     "id": "88e205f27b79379c",

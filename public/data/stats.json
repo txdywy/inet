@@ -1,7 +1,7 @@
 {
-  "totalItems": 1389,
-  "last24h": 7,
-  "last7d": 44,
+  "totalItems": 1391,
+  "last24h": 4,
+  "last7d": 45,
   "byCategory": {
     "core": 242,
     "client": 252,
@@ -9,7 +9,7 @@
     "protocol": 57,
     "dns_rules": 117,
     "security": 32,
-    "ecosystem": 684,
+    "ecosystem": 686,
     "trend": 0
   },
   "topProjects": [
@@ -35,7 +35,7 @@
     },
     {
       "project": "3x-ui",
-      "count": 100
+      "count": 101
     },
     {
       "project": "metacubexd",
@@ -64,12 +64,12 @@
       "count": 222
     },
     {
-      "tag": "v2fly",
-      "count": 203
+      "tag": "release",
+      "count": 204
     },
     {
-      "tag": "release",
-      "count": 202
+      "tag": "v2fly",
+      "count": 203
     },
     {
       "tag": "domain-list",
@@ -136,8 +136,8 @@
       "count": 46
     }
   ],
-  "importantCount": 430,
+  "importantCount": 432,
   "breakingCount": 80,
   "securityCount": 86,
-  "updatedAt": "2026-08-20T13:13:25.463Z"
+  "updatedAt": "2026-08-20T18:56:29.268Z"
 }
