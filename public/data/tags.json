@@ -16,7 +16,7 @@
   },
   {
     "tag": "release",
-    "count": 199,
+    "count": 200,
     "category": "dns_rules"
   },
   {
@@ -201,7 +201,7 @@
   },
   {
     "tag": "xray-core",
-    "count": 30,
+    "count": 31,
     "category": "client"
   },
   {
@@ -315,6 +315,16 @@
     "category": "protocol"
   },
   {
+    "tag": "x-ui",
+    "count": 17,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "panel",
+    "count": 17,
+    "category": "ecosystem"
+  },
+  {
     "tag": "TLSAuth",
     "count": 17,
     "category": "client"
@@ -333,16 +343,6 @@
     "tag": "bugfix",
     "count": 16,
     "category": "core"
-  },
-  {
-    "tag": "x-ui",
-    "count": 16,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "panel",
-    "count": 16,
-    "category": "ecosystem"
   },
   {
     "tag": "预发布",

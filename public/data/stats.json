@@ -1,5 +1,5 @@
 {
-  "totalItems": 1386,
+  "totalItems": 1387,
   "last24h": 11,
   "last7d": 45,
   "byCategory": {
@@ -9,7 +9,7 @@
     "protocol": 57,
     "dns_rules": 117,
     "security": 31,
-    "ecosystem": 683,
+    "ecosystem": 684,
     "trend": 0
   },
   "topProjects": [
@@ -35,7 +35,7 @@
     },
     {
       "project": "3x-ui",
-      "count": 99
+      "count": 100
     },
     {
       "project": "metacubexd",
@@ -69,7 +69,7 @@
     },
     {
       "tag": "release",
-      "count": 199
+      "count": 200
     },
     {
       "tag": "domain-list",
@@ -136,8 +136,8 @@
       "count": 46
     }
   ],
-  "importantCount": 429,
+  "importantCount": 430,
   "breakingCount": 80,
   "securityCount": 85,
-  "updatedAt": "2026-08-20T01:53:42.405Z"
+  "updatedAt": "2026-08-20T07:08:55.611Z"
 }
