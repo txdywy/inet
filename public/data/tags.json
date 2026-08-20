@@ -6,7 +6,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 221,
+    "count": 222,
     "category": "dns_rules"
   },
   {
@@ -16,8 +16,8 @@
   },
   {
     "tag": "release",
-    "count": 200,
-    "category": "dns_rules"
+    "count": 202,
+    "category": "security"
   },
   {
     "tag": "domain-list",
@@ -125,14 +125,14 @@
     "category": "dns_rules"
   },
   {
+    "tag": "clash",
+    "count": 42,
+    "category": "ecosystem"
+  },
+  {
     "tag": "代理工具",
     "count": 42,
     "category": "core"
-  },
-  {
-    "tag": "clash",
-    "count": 41,
-    "category": "ecosystem"
   },
   {
     "tag": "SagerNet",
@@ -160,6 +160,11 @@
     "category": "security"
   },
   {
+    "tag": "meta",
+    "count": 36,
+    "category": "security"
+  },
+  {
     "tag": "xhttp",
     "count": 36,
     "category": "security"
@@ -168,11 +173,6 @@
     "tag": "go-gost",
     "count": 36,
     "category": "core"
-  },
-  {
-    "tag": "meta",
-    "count": 35,
-    "category": "security"
   },
   {
     "tag": "WireGuard",
@@ -195,14 +195,14 @@
     "category": "core"
   },
   {
+    "tag": "xray-core",
+    "count": 32,
+    "category": "security"
+  },
+  {
     "tag": "自动构建",
     "count": 32,
     "category": "ecosystem"
-  },
-  {
-    "tag": "xray-core",
-    "count": 31,
-    "category": "client"
   },
   {
     "tag": "Tailscale",
@@ -515,6 +515,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "android",
+    "count": 8,
+    "category": "security"
+  },
+  {
     "tag": "mihomo-party",
     "count": 8,
     "category": "client"
@@ -580,11 +585,6 @@
     "category": "core"
   },
   {
-    "tag": "android",
-    "count": 7,
-    "category": "client"
-  },
-  {
     "tag": "Shadowrocket",
     "count": 7,
     "category": "client"
@@ -623,6 +623,11 @@
     "tag": "shadowsocks",
     "count": 7,
     "category": "ecosystem"
+  },
+  {
+    "tag": "v2rayng",
+    "count": 6,
+    "category": "security"
   },
   {
     "tag": "安全更新",
@@ -701,11 +706,6 @@
   },
   {
     "tag": "anytls",
-    "count": 5,
-    "category": "security"
-  },
-  {
-    "tag": "v2rayng",
     "count": 5,
     "category": "security"
   },

@@ -1,5 +1,39 @@
 [
   {
+    "id": "aecf5bb227424b72",
+    "title": "2dust/v2rayNG 2.3.5",
+    "summary": "2.3.5",
+    "rawTitle": "2.3.5",
+    "rawBody": "### 本次更新\r\n\r\n- 迁移到 Jetpack Compose UI , 感谢 @fuilloi  https://github.com/2dust/v2rayNG/pull/5866\r\n- 订阅分组设置中，更新订阅时可以组合多个选项进行后台任务，如果只更新订阅，则会在当前页面进行 。\r\n\r\n    1. 更新订阅\r\n    2. 更新订阅后自动测试\r\n    3. 测试后自动删除无效\r\n    4. 测试后自动排序\r\n\r\n- 添加 TCP ping 测试，有最大并发控制\r\n- 支持导入v2rayN 内部分享 `v2rayn://`\r\n- 为订阅更新添加自定义 HTTP headers ， JSON 格式内容随意，例子如下 \r\n```\r\n{\r\n  \"X-hwid\": \"my_test_device\",\r\n  \"Authorization\": \"Bearer test\"\r\n}\r\n```\r\n- 修复了一些迁移 UI 导致的问题\r\n- 一些界面和功能的优化和修复，感谢 @eliotcougar \r\n- 支持莫奈动态色彩 https://github.com/2dust/v2rayNG/pull/6067\r\n- 添加手动配置文件存储修复 https://github.com/2dust/v2rayNG/pull/6094\r\n\r\n- [Xray-core v26.7.28](https://github.com/XTLS/Xray-core/releases/tag/v26.7.28)\r\n\r\n### [发布文件介绍，不知道下载哪个文件的请看](https://github.com/2dust/v2rayNG/wiki/Release-files-introduction-for-Android)\r\n\r\n### [关于 跳过证书验证 allowInsecure 参数被移除的说明 ](https://github.com/2dust/v2rayN/discussions/9460)\r\n",
+    "sourceType": "github_release",
+    "sourceName": "2dust/v2rayNG",
+    "sourceUrl": "https://github.com/2dust/v2rayNG/releases/tag/2.3.5",
+    "project": "v2rayNG",
+    "repo": "2dust/v2rayNG",
+    "slug": "v2rayng",
+    "version": "2.3.5",
+    "category": "security",
+    "tags": [
+      "v2rayng",
+      "android",
+      "xray-core",
+      "release"
+    ],
+    "platforms": [
+      "android"
+    ],
+    "importance": 3,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": true,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-08-20T09:26:44Z",
+    "fetchedAt": "2026-08-20T13:13:15.113Z",
+    "firstSeenAt": "2026-08-20T13:13:25.034Z",
+    "updatedAt": "2026-08-20T13:13:25.034Z",
+    "hash": "aecf5bb227424b72"
+  },
+  {
     "id": "cc6c7ef39be11791",
     "title": "MetaCubeX/meta-rules-dat Release 2026-08-20 06:49",
     "summary": "Release 2026-08-20 06:49",
@@ -39989,6 +40023,42 @@
     "firstSeenAt": "2026-05-07T04:09:04.362Z",
     "updatedAt": "2026-05-07T04:09:04.362Z",
     "hash": "5e6adb84fbb7f312"
+  },
+  {
+    "id": "51ae7e3a7a60e79f",
+    "title": "MetaCubeX/mihomo Prerelease-Alpha",
+    "summary": "Prerelease-Alpha",
+    "rawTitle": "Prerelease-Alpha",
+    "rawBody": "Release created at  Thu Aug 20 20:40:01 CST 2026\nSynchronize Alpha branch code updates, keeping only the latest version\n<br>\n[我应该下载哪个文件? / Which file should I download?](https://github.com/MetaCubeX/mihomo/wiki/FAQ)\n[二进制文件筛选 / Binary file selector](https://metacubex.github.io/Meta-Docs/startup/#_1)\n[查看文档 / Docs](https://metacubex.github.io/Meta-Docs/)\n\n\n## What's Changed\n* chore: update mieru version by @enfein in https://github.com/MetaCubeX/mihomo/pull/3119\n\n\n**Full Changelog**: https://github.com/MetaCubeX/mihomo/compare/v1.19.30...Prerelease-Alpha",
+    "sourceType": "github_release",
+    "sourceName": "MetaCubeX/mihomo",
+    "sourceUrl": "https://github.com/MetaCubeX/mihomo/releases/tag/Prerelease-Alpha",
+    "project": "mihomo",
+    "repo": "MetaCubeX/mihomo",
+    "slug": "mihomo",
+    "version": "Prerelease-Alpha",
+    "category": "core",
+    "tags": [
+      "mihomo",
+      "clash",
+      "meta",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 2,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2024-08-12T17:01:02Z",
+    "fetchedAt": "2026-08-20T13:13:10.871Z",
+    "firstSeenAt": "2026-08-20T13:13:24.225Z",
+    "updatedAt": "2026-08-20T13:13:24.225Z",
+    "hash": "51ae7e3a7a60e79f"
   },
   {
     "id": "bae1aed7207f4f1a",
