@@ -6,7 +6,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 220,
+    "count": 221,
     "category": "dns_rules"
   },
   {
@@ -16,8 +16,8 @@
   },
   {
     "tag": "release",
-    "count": 197,
-    "category": "core"
+    "count": 199,
+    "category": "dns_rules"
   },
   {
     "tag": "domain-list",
@@ -41,7 +41,7 @@
   },
   {
     "tag": "geosite",
-    "count": 91,
+    "count": 93,
     "category": "dns_rules"
   },
   {
@@ -115,6 +115,16 @@
     "category": "ecosystem"
   },
   {
+    "tag": "ruleset",
+    "count": 42,
+    "category": "dns_rules"
+  },
+  {
+    "tag": "geoip",
+    "count": 42,
+    "category": "dns_rules"
+  },
+  {
     "tag": "代理工具",
     "count": 42,
     "category": "core"
@@ -128,16 +138,6 @@
     "tag": "SagerNet",
     "count": 41,
     "category": "core"
-  },
-  {
-    "tag": "ruleset",
-    "count": 40,
-    "category": "dns_rules"
-  },
-  {
-    "tag": "geoip",
-    "count": 40,
-    "category": "dns_rules"
   },
   {
     "tag": "quic",
