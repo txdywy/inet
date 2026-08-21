@@ -1,5 +1,40 @@
 [
   {
+    "id": "698c8146a544a9f1",
+    "title": "go-gost/gost v3.2.7-nightly.20260821",
+    "summary": "v3.2.7-nightly.20260821",
+    "rawTitle": "v3.2.7-nightly.20260821",
+    "rawBody": "## Changelog\n* 1f14e72e3c8b773e1fe8c2f5554f123b16e091df bump x to v0.15.5\n\n",
+    "sourceType": "github_release",
+    "sourceName": "go-gost/gost",
+    "sourceUrl": "https://github.com/go-gost/gost/releases/tag/v3.2.7-nightly.20260821",
+    "project": "gost",
+    "repo": "go-gost/gost",
+    "slug": "gost",
+    "version": "3.2.7-nightly.20260821",
+    "category": "core",
+    "tags": [
+      "gost",
+      "tunnel",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-08-21T15:30:26Z",
+    "fetchedAt": "2026-08-21T18:52:51.185Z",
+    "firstSeenAt": "2026-08-21T18:53:03.573Z",
+    "updatedAt": "2026-08-21T18:53:03.573Z",
+    "hash": "698c8146a544a9f1"
+  },
+  {
     "id": "1223ffc9a5e2667b",
     "title": "MetaCubeX/meta-rules-dat Release 2026-08-21 06:52",
     "summary": "Release 2026-08-21 06:52",
@@ -40451,6 +40486,42 @@
     "firstSeenAt": "2026-05-07T04:09:04.362Z",
     "updatedAt": "2026-05-07T04:09:04.362Z",
     "hash": "5e6adb84fbb7f312"
+  },
+  {
+    "id": "c59c28590909e64a",
+    "title": "MetaCubeX/mihomo Prerelease-Alpha",
+    "summary": "Prerelease-Alpha",
+    "rawTitle": "Prerelease-Alpha",
+    "rawBody": "Release created at  Sat Aug 22 00:42:39 CST 2026\nSynchronize Alpha branch code updates, keeping only the latest version\n<br>\n[我应该下载哪个文件? / Which file should I download?](https://github.com/MetaCubeX/mihomo/wiki/FAQ)\n[二进制文件筛选 / Binary file selector](https://metacubex.github.io/Meta-Docs/startup/#_1)\n[查看文档 / Docs](https://metacubex.github.io/Meta-Docs/)\n\n\n## What's Changed\n* chore: update mieru version by @enfein in https://github.com/MetaCubeX/mihomo/pull/3119\n\n\n**Full Changelog**: https://github.com/MetaCubeX/mihomo/compare/v1.19.30...Prerelease-Alpha",
+    "sourceType": "github_release",
+    "sourceName": "MetaCubeX/mihomo",
+    "sourceUrl": "https://github.com/MetaCubeX/mihomo/releases/tag/Prerelease-Alpha",
+    "project": "mihomo",
+    "repo": "MetaCubeX/mihomo",
+    "slug": "mihomo",
+    "version": "Prerelease-Alpha",
+    "category": "core",
+    "tags": [
+      "mihomo",
+      "clash",
+      "meta",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 2,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2024-08-12T17:01:02Z",
+    "fetchedAt": "2026-08-21T18:52:48.191Z",
+    "firstSeenAt": "2026-08-21T18:53:02.765Z",
+    "updatedAt": "2026-08-21T18:53:02.765Z",
+    "hash": "c59c28590909e64a"
   },
   {
     "id": "d741784840400fbe",

@@ -6,13 +6,13 @@
   },
   {
     "tag": "mihomo",
-    "count": 224,
+    "count": 225,
     "category": "dns_rules"
   },
   {
     "tag": "release",
-    "count": 215,
-    "category": "dns_rules"
+    "count": 217,
+    "category": "core"
   },
   {
     "tag": "v2fly",
@@ -115,6 +115,11 @@
     "category": "dns_rules"
   },
   {
+    "tag": "clash",
+    "count": 44,
+    "category": "ecosystem"
+  },
+  {
     "tag": "quic",
     "count": 44,
     "category": "security"
@@ -123,11 +128,6 @@
     "tag": "网络协议",
     "count": 44,
     "category": "core"
-  },
-  {
-    "tag": "clash",
-    "count": 43,
-    "category": "ecosystem"
   },
   {
     "tag": "dat",
@@ -150,6 +150,11 @@
     "category": "security"
   },
   {
+    "tag": "meta",
+    "count": 38,
+    "category": "security"
+  },
+  {
     "tag": "Linux",
     "count": 38,
     "category": "client"
@@ -158,11 +163,6 @@
     "tag": "Windows",
     "count": 38,
     "category": "client"
-  },
-  {
-    "tag": "meta",
-    "count": 37,
-    "category": "security"
   },
   {
     "tag": "xhttp",
@@ -515,6 +515,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "gost",
+    "count": 8,
+    "category": "core"
+  },
+  {
     "tag": "android",
     "count": 8,
     "category": "security"
@@ -577,11 +582,6 @@
   {
     "tag": "QUICv2",
     "count": 8,
-    "category": "core"
-  },
-  {
-    "tag": "gost",
-    "count": 7,
     "category": "core"
   },
   {
@@ -815,6 +815,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "tunnel",
+    "count": 4,
+    "category": "core"
+  },
+  {
     "tag": "tailscale",
     "count": 4,
     "category": "ecosystem"
@@ -948,11 +953,6 @@
     "tag": "mesh",
     "count": 3,
     "category": "ecosystem"
-  },
-  {
-    "tag": "tunnel",
-    "count": 3,
-    "category": "core"
   },
   {
     "tag": "mosdns",
