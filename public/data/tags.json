@@ -6,13 +6,13 @@
   },
   {
     "tag": "mihomo",
-    "count": 222,
+    "count": 224,
     "category": "dns_rules"
   },
   {
     "tag": "release",
-    "count": 204,
-    "category": "ecosystem"
+    "count": 214,
+    "category": "dns_rules"
   },
   {
     "tag": "v2fly",
@@ -41,7 +41,7 @@
   },
   {
     "tag": "geosite",
-    "count": 93,
+    "count": 95,
     "category": "dns_rules"
   },
   {
@@ -105,28 +105,33 @@
     "category": "ecosystem"
   },
   {
+    "tag": "ruleset",
+    "count": 44,
+    "category": "dns_rules"
+  },
+  {
+    "tag": "geoip",
+    "count": 44,
+    "category": "dns_rules"
+  },
+  {
+    "tag": "quic",
+    "count": 44,
+    "category": "security"
+  },
+  {
     "tag": "网络协议",
     "count": 44,
     "category": "core"
   },
   {
-    "tag": "dat",
+    "tag": "clash",
     "count": 43,
     "category": "ecosystem"
   },
   {
-    "tag": "ruleset",
-    "count": 42,
-    "category": "dns_rules"
-  },
-  {
-    "tag": "geoip",
-    "count": 42,
-    "category": "dns_rules"
-  },
-  {
-    "tag": "clash",
-    "count": 42,
+    "tag": "dat",
+    "count": 43,
     "category": "ecosystem"
   },
   {
@@ -140,8 +145,8 @@
     "category": "core"
   },
   {
-    "tag": "quic",
-    "count": 39,
+    "tag": "ech",
+    "count": 40,
     "category": "security"
   },
   {
@@ -155,13 +160,8 @@
     "category": "client"
   },
   {
-    "tag": "ech",
-    "count": 37,
-    "category": "security"
-  },
-  {
     "tag": "meta",
-    "count": 36,
+    "count": 37,
     "category": "security"
   },
   {
@@ -175,6 +175,11 @@
     "category": "core"
   },
   {
+    "tag": "xray-core",
+    "count": 34,
+    "category": "security"
+  },
+  {
     "tag": "WireGuard",
     "count": 34,
     "category": "core"
@@ -183,11 +188,6 @@
     "tag": "ClashMetaForAndroid",
     "count": 34,
     "category": "client"
-  },
-  {
-    "tag": "xray-core",
-    "count": 33,
-    "category": "security"
   },
   {
     "tag": "Snell",
@@ -210,6 +210,11 @@
     "category": "core"
   },
   {
+    "tag": "hysteria2",
+    "count": 29,
+    "category": "core"
+  },
+  {
     "tag": "v2rayN",
     "count": 29,
     "category": "security"
@@ -228,11 +233,6 @@
     "tag": "网络工具",
     "count": 25,
     "category": "ecosystem"
-  },
-  {
-    "tag": "hysteria2",
-    "count": 24,
-    "category": "core"
   },
   {
     "tag": "HTTP/2",
@@ -285,6 +285,16 @@
     "category": "client"
   },
   {
+    "tag": "x-ui",
+    "count": 19,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "panel",
+    "count": 19,
+    "category": "ecosystem"
+  },
+  {
     "tag": "CHACHA20-POLY1305",
     "count": 19,
     "category": "ecosystem"
@@ -293,16 +303,6 @@
     "tag": "v2rayNG",
     "count": 18,
     "category": "client"
-  },
-  {
-    "tag": "x-ui",
-    "count": 18,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "panel",
-    "count": 18,
-    "category": "ecosystem"
   },
   {
     "tag": "Xray",
@@ -390,6 +390,16 @@
     "category": "ecosystem"
   },
   {
+    "tag": "sub-store",
+    "count": 13,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "subscription",
+    "count": 13,
+    "category": "ecosystem"
+  },
+  {
     "tag": "OpenWrt",
     "count": 13,
     "category": "security"
@@ -408,16 +418,6 @@
     "tag": "dns",
     "count": 12,
     "category": "router"
-  },
-  {
-    "tag": "sub-store",
-    "count": 12,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "subscription",
-    "count": 12,
-    "category": "ecosystem"
   },
   {
     "tag": "HTTP",

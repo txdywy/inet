@@ -1,5 +1,115 @@
 [
   {
+    "id": "1223ffc9a5e2667b",
+    "title": "MetaCubeX/meta-rules-dat Release 2026-08-21 06:52",
+    "summary": "Release 2026-08-21 06:52",
+    "rawTitle": "Release 2026-08-21 06:52",
+    "rawBody": "",
+    "sourceType": "github_release",
+    "sourceName": "MetaCubeX/meta-rules-dat",
+    "sourceUrl": "https://github.com/MetaCubeX/meta-rules-dat/releases/tag/latest",
+    "project": "meta-rules-dat",
+    "repo": "MetaCubeX/meta-rules-dat",
+    "slug": "meta-rules-dat",
+    "version": "latest",
+    "category": "dns_rules",
+    "tags": [
+      "ruleset",
+      "geosite",
+      "geoip",
+      "mihomo",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-08-20T22:55:13Z",
+    "fetchedAt": "2026-08-21T01:59:32.000Z",
+    "firstSeenAt": "2026-08-21T01:59:41.335Z",
+    "updatedAt": "2026-08-21T01:59:41.335Z",
+    "hash": "1223ffc9a5e2667b"
+  },
+  {
+    "id": "497aa96022fca32d",
+    "title": "Loyalsoldier/v2ray-rules-dat Released on 202608202220",
+    "summary": "Released on 202608202220",
+    "rawTitle": "Released on 202608202220",
+    "rawBody": "",
+    "sourceType": "github_release",
+    "sourceName": "Loyalsoldier/v2ray-rules-dat",
+    "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/tag/202608202220",
+    "project": "v2ray-rules-dat",
+    "repo": "Loyalsoldier/v2ray-rules-dat",
+    "slug": "v2ray-rules-dat",
+    "version": "202608202220",
+    "category": "dns_rules",
+    "tags": [
+      "ruleset",
+      "geosite",
+      "geoip",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-08-20T22:20:40Z",
+    "fetchedAt": "2026-08-21T01:59:31.990Z",
+    "firstSeenAt": "2026-08-21T01:59:40.528Z",
+    "updatedAt": "2026-08-21T01:59:40.528Z",
+    "hash": "497aa96022fca32d"
+  },
+  {
+    "id": "0bf12f8f0162f2df",
+    "title": "sub-store-org/Sub-Store 2.36.39",
+    "summary": "2.36.39",
+    "rawTitle": "2.36.39",
+    "rawBody": "## <small>2.36.39 (2026-08-20)</small>\n\n* fix: 简单处理下 Loon 解析器等脚本中未初始化设置报错的问题 ([19ccd79](https://github.com/sub-store-org/Sub-Store/commit/19ccd79))\n",
+    "sourceType": "github_release",
+    "sourceName": "sub-store-org/Sub-Store",
+    "sourceUrl": "https://github.com/sub-store-org/Sub-Store/releases/tag/2.36.39",
+    "project": "Sub-Store",
+    "repo": "sub-store-org/Sub-Store",
+    "slug": "sub-store",
+    "version": "2.36.39",
+    "category": "ecosystem",
+    "tags": [
+      "sub-store",
+      "subscription",
+      "release"
+    ],
+    "platforms": [
+      "ios",
+      "android",
+      "macos",
+      "windows",
+      "linux"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-08-20T20:20:00Z",
+    "fetchedAt": "2026-08-21T01:59:30.671Z",
+    "firstSeenAt": "2026-08-21T01:59:39.721Z",
+    "updatedAt": "2026-08-21T01:59:39.721Z",
+    "hash": "0bf12f8f0162f2df"
+  },
+  {
     "id": "7e4c6873a2a2b68d",
     "title": "tailscale/tailscale v1.102.3",
     "summary": "v1.102.3",
@@ -2718,6 +2828,42 @@
     "hash": "9e194fec288f3a13"
   },
   {
+    "id": "2cbdaeddd46c0263",
+    "title": "apernet/hysteria app/v2.12.1",
+    "summary": "app/v2.12.1",
+    "rawTitle": "app/v2.12.1",
+    "rawBody": "- Added [Porkbun, Namecheap and Njalla](https://hysteria.network/docs/advanced/ACME-DNS-Config/) as ACME DNS providers\r\n- Fixed slow reconnection after the client has been idle or asleep, most noticeable on mobile devices. The server now sends QUIC stateless resets, so a client holding a stale connection reconnects immediately instead of waiting out its idle timeout\r\n- Fixed [mimic](https://hysteria.network/docs/advanced/Mimic/) refusing to start when its optional kernel module is not loaded\r\n- Various dependency updates\r\n\r\n---\r\n\r\n- 新增 [Porkbun、Namecheap 与 Njalla](https://hysteria.network/zh/docs/advanced/ACME-DNS-Config/) ACME DNS 服务商支持\r\n- 修复客户端空闲或休眠后重连缓慢的问题，在移动端上尤为明显。服务端现在会发送 QUIC 无状态重置（stateless reset），使持有失效连接的客户端能够立即重连，不再等待超时\r\n- 修复未加载可选内核模块时 [mimic](https://hysteria.network/zh/docs/advanced/Mimic/) 拒绝启动的问题\r\n- 若干依赖更新",
+    "sourceType": "github_release",
+    "sourceName": "apernet/hysteria",
+    "sourceUrl": "https://github.com/HyNetworks/hysteria/releases/tag/app/v2.12.1",
+    "project": "hysteria",
+    "repo": "apernet/hysteria",
+    "slug": "hysteria",
+    "version": "app/v2.12.1",
+    "category": "core",
+    "tags": [
+      "hysteria2",
+      "quic",
+      "ech",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 2,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2026-08-09T02:12:03Z",
+    "fetchedAt": "2026-08-21T01:59:22.270Z",
+    "firstSeenAt": "2026-08-21T01:59:34.881Z",
+    "updatedAt": "2026-08-21T01:59:34.881Z",
+    "hash": "2cbdaeddd46c0263"
+  },
+  {
     "id": "fbe43cfcf39bab92",
     "title": "apernet/hysteria app/v2.12.1",
     "summary": "app/v2.12.1",
@@ -3331,6 +3477,41 @@
     "firstSeenAt": "2026-08-06T09:08:57.175Z",
     "updatedAt": "2026-08-06T09:08:57.175Z",
     "hash": "fc0932f74c574774"
+  },
+  {
+    "id": "1c1295342f0e523e",
+    "title": "apernet/hysteria app/v2.12.0",
+    "summary": "app/v2.12.0",
+    "rawTitle": "app/v2.12.0",
+    "rawBody": "- Added [mimic](https://hysteria.network/docs/advanced/Mimic/) integration, which disguises the connection as TCP for networks that restrict UDP (Linux only, requires mimic to be installed separately)\r\n- Improved the accuracy of Chrome QUIC fingerprint parroting\r\n- Fixed a BBR panic on paths with a small MTU, introduced in 2.11.0 by Chrome parroting\r\n- Various dependency updates\r\n\r\n---\r\n\r\n- 新增 [mimic](https://hysteria.network/zh/docs/advanced/Mimic/) 集成，可将连接伪装成 TCP，用于限制 UDP 的网络环境（仅限 Linux，需另行安装 mimic）\r\n- 提升 Chrome QUIC 指纹模仿的准确度\r\n- 修复了小 MTU 下一个 BBR panic 问题，由 2.11.0 的 Chrome 指纹模仿引入\r\n- 若干依赖更新",
+    "sourceType": "github_release",
+    "sourceName": "apernet/hysteria",
+    "sourceUrl": "https://github.com/HyNetworks/hysteria/releases/tag/app/v2.12.0",
+    "project": "hysteria",
+    "repo": "apernet/hysteria",
+    "slug": "hysteria",
+    "version": "app/v2.12.0",
+    "category": "security",
+    "tags": [
+      "hysteria2",
+      "quic",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 3,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": true,
+    "isProtocolRelated": true,
+    "publishedAt": "2026-08-06T04:58:30Z",
+    "fetchedAt": "2026-08-21T01:59:22.270Z",
+    "firstSeenAt": "2026-08-21T01:59:35.688Z",
+    "updatedAt": "2026-08-21T01:59:35.688Z",
+    "hash": "1c1295342f0e523e"
   },
   {
     "id": "5a8011f1514f26da",
@@ -5091,6 +5272,42 @@
     "firstSeenAt": "2026-08-01T08:35:19.956Z",
     "updatedAt": "2026-08-01T08:35:19.956Z",
     "hash": "a5312202395be02a"
+  },
+  {
+    "id": "0625335475119706",
+    "title": "apernet/hysteria app/v2.11.0",
+    "summary": "app/v2.11.0",
+    "rawTitle": "app/v2.11.0",
+    "rawBody": "- Added Chrome QUIC fingerprint parroting: the client's QUIC handshake now looks like Google Chrome's. Enabled by default, but can be turned off with the [`quic.disableChromeParrot`](https://hysteria.network/docs/advanced/Full-Client-Config/#quic-parameters) option\r\n- Modernized the ACME stack (CertMagic, ACMEz and the libdns providers)\r\n- Removed the `namedotcom` [ACME DNS provider](https://hysteria.network/docs/advanced/ACME-DNS-Config/), as it has not been updated for the new libdns API\r\n- Updated quic-go to v0.61.0\r\n\r\n---\r\n\r\n- 新增 Chrome QUIC 指纹模仿：将客户端 QUIC 握手调整至与 Google Chrome 一致。默认启用，可通过 [`quic.disableChromeParrot`](https://hysteria.network/zh/docs/advanced/Full-Client-Config/#quic) 选项关闭\r\n- 更新 ACME 相关依赖（CertMagic, ACMEz, libdns 等）\r\n- 移除了 `namedotcom` [ACME DNS 服务商](https://hysteria.network/zh/docs/advanced/ACME-DNS-Config/)，由于其未针对新的 libdns API 进行更新\r\n- quic-go 更新至 v0.61.0",
+    "sourceType": "github_release",
+    "sourceName": "apernet/hysteria",
+    "sourceUrl": "https://github.com/HyNetworks/hysteria/releases/tag/app/v2.11.0",
+    "project": "hysteria",
+    "repo": "apernet/hysteria",
+    "slug": "hysteria",
+    "version": "app/v2.11.0",
+    "category": "security",
+    "tags": [
+      "hysteria2",
+      "quic",
+      "ech",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 3,
+    "confidence": 0.85,
+    "isBreaking": true,
+    "isSecurityRelated": true,
+    "isProtocolRelated": true,
+    "publishedAt": "2026-08-01T03:13:43Z",
+    "fetchedAt": "2026-08-21T01:59:22.270Z",
+    "firstSeenAt": "2026-08-21T01:59:36.495Z",
+    "updatedAt": "2026-08-21T01:59:36.495Z",
+    "hash": "0625335475119706"
   },
   {
     "id": "c2adc2c26dff8320",
@@ -10194,6 +10411,42 @@
     "hash": "b6385bcb3b2bf4f6"
   },
   {
+    "id": "73b43b96b23a6878",
+    "title": "apernet/hysteria app/v2.10.0",
+    "summary": "app/v2.10.0",
+    "rawTitle": "app/v2.10.0",
+    "rawBody": "- Added [Encrypted Client Hello](https://hysteria.network/docs/advanced/ECH/) support\r\n- Added a `bandwidth.disableLossCompensation` option for disabling Brutal congestion control's loss compensation mechanism, which can improve stability in some cases\r\n- Various dependency updates and minor bug fixes\r\n\r\n---\r\n\r\n- 新增 [Encrypted Client Hello](https://hysteria.network/zh/docs/advanced/ECH/) 支持\r\n- 新增 `bandwidth.disableLossCompensation` 选项，用于关闭 Brutal 的速率补偿机制，可以在一些情况下提升稳定性\r\n- 若干依赖更新与小修复",
+    "sourceType": "github_release",
+    "sourceName": "apernet/hysteria",
+    "sourceUrl": "https://github.com/HyNetworks/hysteria/releases/tag/app/v2.10.0",
+    "project": "hysteria",
+    "repo": "apernet/hysteria",
+    "slug": "hysteria",
+    "version": "app/v2.10.0",
+    "category": "core",
+    "tags": [
+      "hysteria2",
+      "quic",
+      "ech",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 2,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2026-07-13T04:30:54Z",
+    "fetchedAt": "2026-08-21T01:59:22.270Z",
+    "firstSeenAt": "2026-08-21T01:59:37.302Z",
+    "updatedAt": "2026-08-21T01:59:37.302Z",
+    "hash": "73b43b96b23a6878"
+  },
+  {
     "id": "7ed08f1a4cf59011",
     "title": "app/v2.10.0",
     "summary": "Hysteria v2.10.0 更新了对加密客户端问候（ECH）的支持，并新增了禁用速率补偿机制的选项。",
@@ -15119,6 +15372,41 @@
     "hash": "fa7628c62a7c7d7c"
   },
   {
+    "id": "5d5127a923a23cbc",
+    "title": "apernet/hysteria app/v2.9.3",
+    "summary": "app/v2.9.3",
+    "rawTitle": "app/v2.9.3",
+    "rawBody": "- Added [Hysteria Realms](https://hysteria.network/docs/advanced/Realms/) UPnP/NAT-PMP port mapping support for easier NAT traversal\r\n- Added a Hysteria Realms `ipMode` option to restrict connections to IPv4 or IPv6 only\r\n- Updated quic-go to v0.60.0\r\n- Fixed `+` in the authentication credentials being corrupted to a space when parsing `hysteria2://` sharing links\r\n- Fixed the HTTP proxy rejecting valid Basic authentication credentials\r\n- Fixed the HTTPS proxy outbound using `host:port` instead of the hostname as the TLS SNI\r\n- Fixed a data race in the client's HTTP/SOCKS5 listener multiplexer\r\n- Fixed nftables redirect failure when the server binds to a specific IPv6 address\r\n- DNS resolver now limits CNAME chain length to prevent unbounded recursion\r\n\r\n---\r\n\r\n- 为 [Hysteria Realms](https://hysteria.network/zh/docs/advanced/Realms/) 新增 UPnP/NAT-PMP 支持以加强 NAT 穿透能力\r\n- 为 Hysteria Realms 新增 `ipMode` 选项，可将连接限制为仅使用 IPv4 或 IPv6\r\n- quic-go 更新至 v0.60.0\r\n- 修复了解析 `hysteria2://` 分享链接时密码中的 `+` 被错误转换为空格的问题\r\n- 修复了 HTTP 代理拒绝有效 Basic 验证凭据的问题\r\n- 修复了 HTTPS 代理出站将 `host:port` 而非主机名用作 TLS SNI 的问题\r\n- 修复了客户端 HTTP/SOCKS5 监听多路复用器中的线程安全问题\r\n- 修复了服务端绑定指定 IPv6 地址时 nftables 重定向失效的问题\r\n- DNS 解析器增加 CNAME 链长度限制，防止无限递归",
+    "sourceType": "github_release",
+    "sourceName": "apernet/hysteria",
+    "sourceUrl": "https://github.com/HyNetworks/hysteria/releases/tag/app/v2.9.3",
+    "project": "hysteria",
+    "repo": "apernet/hysteria",
+    "slug": "hysteria",
+    "version": "app/v2.9.3",
+    "category": "security",
+    "tags": [
+      "hysteria2",
+      "quic",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 3,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": true,
+    "isProtocolRelated": true,
+    "publishedAt": "2026-06-27T07:06:08Z",
+    "fetchedAt": "2026-08-21T01:59:22.270Z",
+    "firstSeenAt": "2026-08-21T01:59:38.108Z",
+    "updatedAt": "2026-08-21T01:59:38.108Z",
+    "hash": "5d5127a923a23cbc"
+  },
+  {
     "id": "d3d9b09b64fc4731",
     "title": "app/v2.9.3",
     "summary": "Hysteria v2.9.3 更新了 UPnP/NAT-PMP 支持，增强 NAT 穿透能力，并修复了多个重要的代理和解析器问题。",
@@ -16107,6 +16395,40 @@
     "firstSeenAt": "2026-06-25T04:36:16.426Z",
     "updatedAt": "2026-06-25T04:36:16.426Z",
     "hash": "e54a070ca4e6a5bf"
+  },
+  {
+    "id": "785d111bcac0efd4",
+    "title": "MHSanaei/3x-ui Dev build 5321665d",
+    "summary": "Dev build 5321665d",
+    "rawTitle": "Dev build 5321665d",
+    "rawBody": "Rolling development build — installs via the panel's Dev update channel.\n\ncommit=5321665d5b4fc80098e81fe2854bb9bf11a0f20d\nbuilt=2026-08-21T01:41:22Z\n\nAutomated per-commit build from main. Not a stable release.",
+    "sourceType": "github_release",
+    "sourceName": "MHSanaei/3x-ui",
+    "sourceUrl": "https://github.com/MHSanaei/3x-ui/releases/tag/dev-latest",
+    "project": "3x-ui",
+    "repo": "MHSanaei/3x-ui",
+    "slug": "3x-ui",
+    "version": "dev-latest",
+    "category": "ecosystem",
+    "tags": [
+      "x-ui",
+      "panel",
+      "xray-core",
+      "release"
+    ],
+    "platforms": [
+      "linux"
+    ],
+    "importance": 4,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2026-06-24T16:17:06Z",
+    "fetchedAt": "2026-08-21T01:59:30.695Z",
+    "firstSeenAt": "2026-08-21T01:59:38.915Z",
+    "updatedAt": "2026-08-21T01:59:38.915Z",
+    "hash": "785d111bcac0efd4"
   },
   {
     "id": "b8553d2ef6965d1e",
@@ -40095,6 +40417,42 @@
     "firstSeenAt": "2026-05-07T04:09:04.362Z",
     "updatedAt": "2026-05-07T04:09:04.362Z",
     "hash": "5e6adb84fbb7f312"
+  },
+  {
+    "id": "d741784840400fbe",
+    "title": "MetaCubeX/mihomo Prerelease-Alpha",
+    "summary": "Prerelease-Alpha",
+    "rawTitle": "Prerelease-Alpha",
+    "rawBody": "Release created at  Fri Aug 21 09:14:26 CST 2026\nSynchronize Alpha branch code updates, keeping only the latest version\n<br>\n[我应该下载哪个文件? / Which file should I download?](https://github.com/MetaCubeX/mihomo/wiki/FAQ)\n[二进制文件筛选 / Binary file selector](https://metacubex.github.io/Meta-Docs/startup/#_1)\n[查看文档 / Docs](https://metacubex.github.io/Meta-Docs/)\n\n\n## What's Changed\n* chore: update mieru version by @enfein in https://github.com/MetaCubeX/mihomo/pull/3119\n\n\n**Full Changelog**: https://github.com/MetaCubeX/mihomo/compare/v1.19.30...Prerelease-Alpha",
+    "sourceType": "github_release",
+    "sourceName": "MetaCubeX/mihomo",
+    "sourceUrl": "https://github.com/MetaCubeX/mihomo/releases/tag/Prerelease-Alpha",
+    "project": "mihomo",
+    "repo": "MetaCubeX/mihomo",
+    "slug": "mihomo",
+    "version": "Prerelease-Alpha",
+    "category": "core",
+    "tags": [
+      "mihomo",
+      "clash",
+      "meta",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 2,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2024-08-12T17:01:02Z",
+    "fetchedAt": "2026-08-21T01:59:20.376Z",
+    "firstSeenAt": "2026-08-21T01:59:34.073Z",
+    "updatedAt": "2026-08-21T01:59:34.073Z",
+    "hash": "d741784840400fbe"
   },
   {
     "id": "51ae7e3a7a60e79f",
