@@ -11,7 +11,7 @@
   },
   {
     "tag": "release",
-    "count": 214,
+    "count": 215,
     "category": "dns_rules"
   },
   {
@@ -176,7 +176,7 @@
   },
   {
     "tag": "xray-core",
-    "count": 34,
+    "count": 35,
     "category": "security"
   },
   {
@@ -270,6 +270,16 @@
     "category": "ecosystem"
   },
   {
+    "tag": "x-ui",
+    "count": 20,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "panel",
+    "count": 20,
+    "category": "ecosystem"
+  },
+  {
     "tag": "rematch",
     "count": 20,
     "category": "core"
@@ -283,16 +293,6 @@
     "tag": "macOS",
     "count": 19,
     "category": "client"
-  },
-  {
-    "tag": "x-ui",
-    "count": 19,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "panel",
-    "count": 19,
-    "category": "ecosystem"
   },
   {
     "tag": "CHACHA20-POLY1305",
