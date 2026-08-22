@@ -1,10 +1,10 @@
 {
-  "totalItems": 1409,
-  "last24h": 6,
-  "last7d": 42,
+  "totalItems": 1410,
+  "last24h": 7,
+  "last7d": 43,
   "byCategory": {
     "core": 247,
-    "client": 255,
+    "client": 256,
     "router": 5,
     "protocol": 57,
     "dns_rules": 121,
@@ -65,7 +65,7 @@
     },
     {
       "tag": "release",
-      "count": 222
+      "count": 223
     },
     {
       "tag": "v2fly",
@@ -136,8 +136,8 @@
       "count": 46
     }
   ],
-  "importantCount": 442,
+  "importantCount": 443,
   "breakingCount": 81,
   "securityCount": 89,
-  "updatedAt": "2026-08-22T07:02:14.577Z"
+  "updatedAt": "2026-08-22T13:02:26.787Z"
 }

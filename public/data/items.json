@@ -1,5 +1,40 @@
 [
   {
+    "id": "148daad396769f2e",
+    "title": "2dust/v2rayN 7.24.8",
+    "summary": "7.24.8",
+    "rawTitle": "7.24.8",
+    "rawBody": "### [关于 跳过证书验证 allowInsecure 参数被移除的说明 ](https://github.com/2dust/v2rayN/discussions/9460)\r\n \r\n### 本次更新\r\n\r\n⚠️ **紧急安全更新**：修复了旧版本内置下载器可能导致中间人攻击（MITM）并下载到恶意文件的严重安全漏洞，请所有用户立刻升级！\r\n \r\n* Desktop 版本升级到 Avalonia 12\r\n* 同步 xray core 更改 ，添加 `连接代理解析策略` https://github.com/2dust/v2rayN/pull/9708\r\n* 添加 HappyEyeballs 支持 https://github.com/2dust/v2rayN/pull/9772\r\n* 可自定义 fakeip 范围 https://github.com/2dust/v2rayN/pull/9786\r\n* TUN 设置中，添加 IPv4/IPv6 地址选项\r\n* 更新 ReactiveUI 至大版本 24 https://github.com/2dust/v2rayN/pull/9678\r\n* 添加自定义出站支持 https://github.com/2dust/v2rayN/pull/9817\r\n* Xray Core 中移除 `allowInsecure`\r\n* 修复了一些已知的问题\r\n* 无论是否启用 IPv6 地址，始终将 IPv6 路由到 X Ray TUN\r\n* 添加 hy2 ech 支持\r\n* 优化文件下载\r\n* DNS 添加阻止 AAAA 查询选项\r\n\r\n### [发布文件介绍，不知道下载哪个文件的请看](https://github.com/2dust/v2rayN/wiki/Release-files-introduction)\r\n ",
+    "sourceType": "github_release",
+    "sourceName": "2dust/v2rayN",
+    "sourceUrl": "https://github.com/2dust/v2rayN/releases/tag/7.24.8",
+    "project": "v2rayN",
+    "repo": "2dust/v2rayN",
+    "slug": "v2rayn",
+    "version": "7.24.8",
+    "category": "client",
+    "tags": [
+      "v2rayn",
+      "windows",
+      "xray-core",
+      "ech",
+      "release"
+    ],
+    "platforms": [
+      "windows"
+    ],
+    "importance": 4,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2026-08-22T09:33:13Z",
+    "fetchedAt": "2026-08-22T13:02:17.431Z",
+    "firstSeenAt": "2026-08-22T13:02:26.348Z",
+    "updatedAt": "2026-08-22T13:02:26.348Z",
+    "hash": "148daad396769f2e"
+  },
+  {
     "id": "eb7fd595b9b2c300",
     "title": "v2rayA/v2rayA v2.4.14",
     "summary": "v2.4.14",

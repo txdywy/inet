@@ -11,7 +11,7 @@
   },
   {
     "tag": "release",
-    "count": 222,
+    "count": 223,
     "category": "client"
   },
   {
@@ -140,14 +140,14 @@
     "category": "core"
   },
   {
+    "tag": "ech",
+    "count": 41,
+    "category": "client"
+  },
+  {
     "tag": "SagerNet",
     "count": 41,
     "category": "core"
-  },
-  {
-    "tag": "ech",
-    "count": 40,
-    "category": "security"
   },
   {
     "tag": "meta",
@@ -165,6 +165,11 @@
     "category": "client"
   },
   {
+    "tag": "xray-core",
+    "count": 36,
+    "category": "client"
+  },
+  {
     "tag": "xhttp",
     "count": 36,
     "category": "security"
@@ -173,11 +178,6 @@
     "tag": "go-gost",
     "count": 36,
     "category": "core"
-  },
-  {
-    "tag": "xray-core",
-    "count": 35,
-    "category": "security"
   },
   {
     "tag": "WireGuard",
@@ -830,6 +830,16 @@
     "category": "ecosystem"
   },
   {
+    "tag": "v2rayn",
+    "count": 4,
+    "category": "client"
+  },
+  {
+    "tag": "windows",
+    "count": 4,
+    "category": "client"
+  },
+  {
     "tag": "tunnel",
     "count": 4,
     "category": "core"
@@ -973,16 +983,6 @@
     "tag": "mosdns",
     "count": 3,
     "category": "router"
-  },
-  {
-    "tag": "v2rayn",
-    "count": 3,
-    "category": "client"
-  },
-  {
-    "tag": "windows",
-    "count": 3,
-    "category": "client"
   },
   {
     "tag": "CDN",
