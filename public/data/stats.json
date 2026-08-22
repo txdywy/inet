@@ -1,13 +1,13 @@
 {
-  "totalItems": 1404,
-  "last24h": 4,
-  "last7d": 43,
+  "totalItems": 1408,
+  "last24h": 5,
+  "last7d": 45,
   "byCategory": {
     "core": 247,
-    "client": 252,
+    "client": 254,
     "router": 5,
     "protocol": 57,
-    "dns_rules": 119,
+    "dns_rules": 121,
     "security": 35,
     "ecosystem": 689,
     "trend": 0
@@ -27,11 +27,11 @@
     },
     {
       "project": "v2ray-rules-dat",
-      "count": 113
+      "count": 114
     },
     {
       "project": "meta-rules-dat",
-      "count": 110
+      "count": 111
     },
     {
       "project": "3x-ui",
@@ -61,11 +61,11 @@
     },
     {
       "tag": "mihomo",
-      "count": 225
+      "count": 226
     },
     {
       "tag": "release",
-      "count": 217
+      "count": 221
     },
     {
       "tag": "v2fly",
@@ -89,7 +89,7 @@
     },
     {
       "tag": "geosite",
-      "count": 95
+      "count": 97
     },
     {
       "tag": "meta-rules-dat",
@@ -132,12 +132,12 @@
       "count": 51
     },
     {
-      "tag": "开源",
+      "tag": "ruleset",
       "count": 46
     }
   ],
-  "importantCount": 438,
+  "importantCount": 441,
   "breakingCount": 81,
   "securityCount": 89,
-  "updatedAt": "2026-08-21T18:53:03.997Z"
+  "updatedAt": "2026-08-22T01:52:30.901Z"
 }

@@ -6,13 +6,13 @@
   },
   {
     "tag": "mihomo",
-    "count": 225,
+    "count": 226,
     "category": "dns_rules"
   },
   {
     "tag": "release",
-    "count": 217,
-    "category": "core"
+    "count": 221,
+    "category": "client"
   },
   {
     "tag": "v2fly",
@@ -41,7 +41,7 @@
   },
   {
     "tag": "geosite",
-    "count": 95,
+    "count": 97,
     "category": "dns_rules"
   },
   {
@@ -95,6 +95,16 @@
     "category": "client"
   },
   {
+    "tag": "ruleset",
+    "count": 46,
+    "category": "dns_rules"
+  },
+  {
+    "tag": "geoip",
+    "count": 46,
+    "category": "dns_rules"
+  },
+  {
     "tag": "开源",
     "count": 46,
     "category": "core"
@@ -103,16 +113,6 @@
     "tag": "代理",
     "count": 46,
     "category": "ecosystem"
-  },
-  {
-    "tag": "ruleset",
-    "count": 44,
-    "category": "dns_rules"
-  },
-  {
-    "tag": "geoip",
-    "count": 44,
-    "category": "dns_rules"
   },
   {
     "tag": "clash",
@@ -815,6 +815,21 @@
     "category": "ecosystem"
   },
   {
+    "tag": "v2raya",
+    "count": 4,
+    "category": "client"
+  },
+  {
+    "tag": "web",
+    "count": 4,
+    "category": "client"
+  },
+  {
+    "tag": "transparent-proxy",
+    "count": 4,
+    "category": "client"
+  },
+  {
     "tag": "tunnel",
     "count": 4,
     "category": "core"
@@ -1196,21 +1211,6 @@
   },
   {
     "tag": "desktop",
-    "count": 2,
-    "category": "client"
-  },
-  {
-    "tag": "v2raya",
-    "count": 2,
-    "category": "client"
-  },
-  {
-    "tag": "web",
-    "count": 2,
-    "category": "client"
-  },
-  {
-    "tag": "transparent-proxy",
     "count": 2,
     "category": "client"
   },

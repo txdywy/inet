@@ -230,6 +230,23 @@
     ]
   },
   {
+    "slug": "v2raya",
+    "name": "v2rayA",
+    "repo": "v2rayA/v2rayA",
+    "description": "各平台代理客户端应用",
+    "category": "client",
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "tags": [
+      "v2raya",
+      "web",
+      "transparent-proxy"
+    ]
+  },
+  {
     "slug": "xray-core",
     "name": "Xray-core",
     "repo": "XTLS/Xray-core",
@@ -246,23 +263,6 @@
       "vless",
       "xtls",
       "xhttp"
-    ]
-  },
-  {
-    "slug": "v2raya",
-    "name": "v2rayA",
-    "repo": "v2rayA/v2rayA",
-    "description": "各平台代理客户端应用",
-    "category": "client",
-    "platforms": [
-      "linux",
-      "windows",
-      "macos"
-    ],
-    "tags": [
-      "v2raya",
-      "web",
-      "transparent-proxy"
     ]
   },
   {
