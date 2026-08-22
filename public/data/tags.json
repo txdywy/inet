@@ -11,7 +11,7 @@
   },
   {
     "tag": "release",
-    "count": 221,
+    "count": 222,
     "category": "client"
   },
   {
@@ -700,6 +700,21 @@
     "category": "ecosystem"
   },
   {
+    "tag": "v2raya",
+    "count": 5,
+    "category": "client"
+  },
+  {
+    "tag": "web",
+    "count": 5,
+    "category": "client"
+  },
+  {
+    "tag": "transparent-proxy",
+    "count": 5,
+    "category": "client"
+  },
+  {
     "tag": "wireguard",
     "count": 5,
     "category": "ecosystem"
@@ -813,21 +828,6 @@
     "tag": "subconverter",
     "count": 5,
     "category": "ecosystem"
-  },
-  {
-    "tag": "v2raya",
-    "count": 4,
-    "category": "client"
-  },
-  {
-    "tag": "web",
-    "count": 4,
-    "category": "client"
-  },
-  {
-    "tag": "transparent-proxy",
-    "count": 4,
-    "category": "client"
   },
   {
     "tag": "tunnel",

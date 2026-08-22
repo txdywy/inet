@@ -214,22 +214,6 @@
     ]
   },
   {
-    "slug": "hysteria",
-    "name": "hysteria",
-    "repo": "apernet/hysteria",
-    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
-    "category": "core",
-    "platforms": [
-      "linux",
-      "windows",
-      "macos"
-    ],
-    "tags": [
-      "hysteria2",
-      "quic"
-    ]
-  },
-  {
     "slug": "v2raya",
     "name": "v2rayA",
     "repo": "v2rayA/v2rayA",
@@ -244,6 +228,22 @@
       "v2raya",
       "web",
       "transparent-proxy"
+    ]
+  },
+  {
+    "slug": "hysteria",
+    "name": "hysteria",
+    "repo": "apernet/hysteria",
+    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
+    "category": "core",
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "tags": [
+      "hysteria2",
+      "quic"
     ]
   },
   {

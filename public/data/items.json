@@ -1,5 +1,41 @@
 [
   {
+    "id": "eb7fd595b9b2c300",
+    "title": "v2rayA/v2rayA v2.4.14",
+    "summary": "v2.4.14",
+    "rawTitle": "v2.4.14",
+    "rawBody": "**Full Changelog**: https://github.com/v2rayA/v2rayA/compare/v2.4.13...v2.4.14",
+    "sourceType": "github_release",
+    "sourceName": "v2rayA/v2rayA",
+    "sourceUrl": "https://github.com/v2rayA/v2rayA/releases/tag/v2.4.14",
+    "project": "v2rayA",
+    "repo": "v2rayA/v2rayA",
+    "slug": "v2raya",
+    "version": "2.4.14",
+    "category": "client",
+    "tags": [
+      "v2raya",
+      "web",
+      "transparent-proxy",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 4,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2026-08-22T03:43:09Z",
+    "fetchedAt": "2026-08-22T07:02:06.829Z",
+    "firstSeenAt": "2026-08-22T07:02:14.114Z",
+    "updatedAt": "2026-08-22T07:02:14.114Z",
+    "hash": "eb7fd595b9b2c300"
+  },
+  {
     "id": "906cdccf5adb957e",
     "title": "v2rayA/v2rayA v2.4.13",
     "summary": "v2.4.13",
