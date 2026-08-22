@@ -384,20 +384,6 @@
     ]
   },
   {
-    "slug": "openwrt",
-    "name": "openwrt",
-    "repo": "openwrt/openwrt",
-    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
-    "category": "ecosystem",
-    "platforms": [
-      "openwrt",
-      "router"
-    ],
-    "tags": [
-      "openwrt"
-    ]
-  },
-  {
     "slug": "luci-app-mosdns",
     "name": "luci-app-mosdns",
     "repo": "sbwml/luci-app-mosdns",
@@ -411,6 +397,20 @@
       "mosdns",
       "openwrt",
       "dns"
+    ]
+  },
+  {
+    "slug": "openwrt",
+    "name": "openwrt",
+    "repo": "openwrt/openwrt",
+    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
+    "category": "ecosystem",
+    "platforms": [
+      "openwrt",
+      "router"
+    ],
+    "tags": [
+      "openwrt"
     ]
   },
   {

@@ -1,15 +1,15 @@
 {
-  "totalItems": 1410,
+  "totalItems": 1412,
   "last24h": 7,
-  "last7d": 43,
+  "last7d": 42,
   "byCategory": {
     "core": 247,
     "client": 256,
-    "router": 5,
+    "router": 6,
     "protocol": 57,
     "dns_rules": 121,
     "security": 35,
-    "ecosystem": 689,
+    "ecosystem": 690,
     "trend": 0
   },
   "topProjects": [
@@ -35,7 +35,7 @@
     },
     {
       "project": "3x-ui",
-      "count": 103
+      "count": 104
     },
     {
       "project": "metacubexd",
@@ -65,7 +65,7 @@
     },
     {
       "tag": "release",
-      "count": 223
+      "count": 225
     },
     {
       "tag": "v2fly",
@@ -136,8 +136,8 @@
       "count": 46
     }
   ],
-  "importantCount": 443,
+  "importantCount": 445,
   "breakingCount": 81,
   "securityCount": 89,
-  "updatedAt": "2026-08-22T13:02:26.787Z"
+  "updatedAt": "2026-08-22T18:46:52.715Z"
 }
