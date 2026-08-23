@@ -5,14 +5,14 @@
     "category": "ecosystem"
   },
   {
-    "tag": "mihomo",
-    "count": 226,
-    "category": "dns_rules"
+    "tag": "release",
+    "count": 231,
+    "category": "router"
   },
   {
-    "tag": "release",
-    "count": 225,
-    "category": "router"
+    "tag": "mihomo",
+    "count": 228,
+    "category": "dns_rules"
   },
   {
     "tag": "v2fly",
@@ -41,7 +41,7 @@
   },
   {
     "tag": "geosite",
-    "count": 97,
+    "count": 99,
     "category": "dns_rules"
   },
   {
@@ -96,12 +96,12 @@
   },
   {
     "tag": "ruleset",
-    "count": 46,
+    "count": 48,
     "category": "dns_rules"
   },
   {
     "tag": "geoip",
-    "count": 46,
+    "count": 48,
     "category": "dns_rules"
   },
   {
@@ -115,14 +115,14 @@
     "category": "ecosystem"
   },
   {
-    "tag": "clash",
-    "count": 44,
-    "category": "ecosystem"
+    "tag": "quic",
+    "count": 45,
+    "category": "core"
   },
   {
-    "tag": "quic",
-    "count": 44,
-    "category": "security"
+    "tag": "clash",
+    "count": 45,
+    "category": "ecosystem"
   },
   {
     "tag": "网络协议",
@@ -151,8 +151,13 @@
   },
   {
     "tag": "meta",
-    "count": 38,
+    "count": 39,
     "category": "security"
+  },
+  {
+    "tag": "xray-core",
+    "count": 38,
+    "category": "client"
   },
   {
     "tag": "Linux",
@@ -162,11 +167,6 @@
   {
     "tag": "Windows",
     "count": 38,
-    "category": "client"
-  },
-  {
-    "tag": "xray-core",
-    "count": 37,
     "category": "client"
   },
   {
@@ -205,13 +205,13 @@
     "category": "ecosystem"
   },
   {
-    "tag": "Tailscale",
+    "tag": "hysteria2",
     "count": 30,
     "category": "core"
   },
   {
-    "tag": "hysteria2",
-    "count": 29,
+    "tag": "Tailscale",
+    "count": 30,
     "category": "core"
   },
   {
@@ -266,12 +266,12 @@
   },
   {
     "tag": "x-ui",
-    "count": 21,
+    "count": 22,
     "category": "ecosystem"
   },
   {
     "tag": "panel",
-    "count": 21,
+    "count": 22,
     "category": "ecosystem"
   },
   {
@@ -365,6 +365,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "dns",
+    "count": 14,
+    "category": "router"
+  },
+  {
     "tag": "v2rayA",
     "count": 14,
     "category": "client"
@@ -388,11 +393,6 @@
     "tag": "snell",
     "count": 14,
     "category": "ecosystem"
-  },
-  {
-    "tag": "dns",
-    "count": 13,
-    "category": "router"
   },
   {
     "tag": "sub-store",
@@ -585,6 +585,11 @@
     "category": "core"
   },
   {
+    "tag": "openwrt",
+    "count": 7,
+    "category": "router"
+  },
+  {
     "tag": "Shadowrocket",
     "count": 7,
     "category": "client"
@@ -623,11 +628,6 @@
     "tag": "shadowsocks",
     "count": 7,
     "category": "ecosystem"
-  },
-  {
-    "tag": "openwrt",
-    "count": 6,
-    "category": "router"
   },
   {
     "tag": "v2rayng",
@@ -703,6 +703,11 @@
     "tag": "openvpn",
     "count": 6,
     "category": "ecosystem"
+  },
+  {
+    "tag": "mosdns",
+    "count": 5,
+    "category": "router"
   },
   {
     "tag": "v2raya",
@@ -828,11 +833,6 @@
     "tag": "subconverter",
     "count": 5,
     "category": "ecosystem"
-  },
-  {
-    "tag": "mosdns",
-    "count": 4,
-    "category": "router"
   },
   {
     "tag": "v2rayn",

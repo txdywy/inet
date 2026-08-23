@@ -1,15 +1,15 @@
 {
-  "totalItems": 1412,
+  "totalItems": 1418,
   "last24h": 7,
-  "last7d": 42,
+  "last7d": 44,
   "byCategory": {
-    "core": 247,
+    "core": 249,
     "client": 256,
-    "router": 6,
+    "router": 7,
     "protocol": 57,
-    "dns_rules": 121,
+    "dns_rules": 123,
     "security": 35,
-    "ecosystem": 690,
+    "ecosystem": 691,
     "trend": 0
   },
   "topProjects": [
@@ -19,7 +19,7 @@
     },
     {
       "project": "mihomo",
-      "count": 185
+      "count": 186
     },
     {
       "project": "Sub-Store",
@@ -27,15 +27,15 @@
     },
     {
       "project": "v2ray-rules-dat",
-      "count": 114
+      "count": 115
     },
     {
       "project": "meta-rules-dat",
-      "count": 111
+      "count": 112
     },
     {
       "project": "3x-ui",
-      "count": 104
+      "count": 105
     },
     {
       "project": "metacubexd",
@@ -60,12 +60,12 @@
       "count": 322
     },
     {
-      "tag": "mihomo",
-      "count": 226
+      "tag": "release",
+      "count": 231
     },
     {
-      "tag": "release",
-      "count": 225
+      "tag": "mihomo",
+      "count": 228
     },
     {
       "tag": "v2fly",
@@ -89,7 +89,7 @@
     },
     {
       "tag": "geosite",
-      "count": 97
+      "count": 99
     },
     {
       "tag": "meta-rules-dat",
@@ -133,11 +133,11 @@
     },
     {
       "tag": "ruleset",
-      "count": 46
+      "count": 48
     }
   ],
-  "importantCount": 445,
+  "importantCount": 449,
   "breakingCount": 81,
   "securityCount": 89,
-  "updatedAt": "2026-08-22T18:46:52.715Z"
+  "updatedAt": "2026-08-23T02:01:26.606Z"
 }
