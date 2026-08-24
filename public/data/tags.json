@@ -6,12 +6,12 @@
   },
   {
     "tag": "release",
-    "count": 231,
-    "category": "router"
+    "count": 235,
+    "category": "dns_rules"
   },
   {
     "tag": "mihomo",
-    "count": 228,
+    "count": 229,
     "category": "dns_rules"
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "tag": "domain-list",
-    "count": 119,
+    "count": 120,
     "category": "dns_rules"
   },
   {
@@ -35,14 +35,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "geosite",
+    "count": 102,
+    "category": "dns_rules"
+  },
+  {
     "tag": "v2ray",
     "count": 100,
     "category": "ecosystem"
-  },
-  {
-    "tag": "geosite",
-    "count": 99,
-    "category": "dns_rules"
   },
   {
     "tag": "meta-rules-dat",
@@ -96,12 +96,12 @@
   },
   {
     "tag": "ruleset",
-    "count": 48,
+    "count": 50,
     "category": "dns_rules"
   },
   {
     "tag": "geoip",
-    "count": 48,
+    "count": 50,
     "category": "dns_rules"
   },
   {
@@ -150,14 +150,14 @@
     "category": "core"
   },
   {
+    "tag": "xray-core",
+    "count": 39,
+    "category": "client"
+  },
+  {
     "tag": "meta",
     "count": 39,
     "category": "security"
-  },
-  {
-    "tag": "xray-core",
-    "count": 38,
-    "category": "client"
   },
   {
     "tag": "Linux",
@@ -255,6 +255,16 @@
     "category": "ecosystem"
   },
   {
+    "tag": "x-ui",
+    "count": 23,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "panel",
+    "count": 23,
+    "category": "ecosystem"
+  },
+  {
     "tag": "用户界面",
     "count": 22,
     "category": "client"
@@ -263,16 +273,6 @@
     "tag": "Xray-core",
     "count": 22,
     "category": "core"
-  },
-  {
-    "tag": "x-ui",
-    "count": 22,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "panel",
-    "count": 22,
-    "category": "ecosystem"
   },
   {
     "tag": "QUIC",
