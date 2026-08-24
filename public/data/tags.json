@@ -6,8 +6,8 @@
   },
   {
     "tag": "release",
-    "count": 240,
-    "category": "security"
+    "count": 242,
+    "category": "router"
   },
   {
     "tag": "mihomo",
@@ -135,14 +135,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "xray-core",
+    "count": 42,
+    "category": "security"
+  },
+  {
     "tag": "代理工具",
     "count": 42,
     "category": "core"
-  },
-  {
-    "tag": "xray-core",
-    "count": 41,
-    "category": "security"
   },
   {
     "tag": "ech",
@@ -190,6 +190,11 @@
     "category": "client"
   },
   {
+    "tag": "hysteria2",
+    "count": 33,
+    "category": "security"
+  },
+  {
     "tag": "Snell",
     "count": 33,
     "category": "protocol"
@@ -198,11 +203,6 @@
     "tag": "xhttp-opts",
     "count": 33,
     "category": "core"
-  },
-  {
-    "tag": "hysteria2",
-    "count": 32,
-    "category": "security"
   },
   {
     "tag": "自动构建",
@@ -225,19 +225,19 @@
     "category": "ecosystem"
   },
   {
-    "tag": "DNS",
-    "count": 26,
-    "category": "dns_rules"
-  },
-  {
     "tag": "x-ui",
-    "count": 25,
+    "count": 26,
     "category": "security"
   },
   {
     "tag": "panel",
-    "count": 25,
+    "count": 26,
     "category": "security"
+  },
+  {
+    "tag": "DNS",
+    "count": 26,
+    "category": "dns_rules"
   },
   {
     "tag": "vless",
@@ -330,6 +330,11 @@
     "category": "client"
   },
   {
+    "tag": "dns",
+    "count": 16,
+    "category": "router"
+  },
+  {
     "tag": "naiveproxy",
     "count": 16,
     "category": "core"
@@ -353,11 +358,6 @@
     "tag": "Alpha",
     "count": 16,
     "category": "ecosystem"
-  },
-  {
-    "tag": "dns",
-    "count": 15,
-    "category": "router"
   },
   {
     "tag": "xray",
@@ -470,6 +470,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "openwrt",
+    "count": 9,
+    "category": "router"
+  },
+  {
     "tag": "配置管理",
     "count": 9,
     "category": "ecosystem"
@@ -513,11 +518,6 @@
     "tag": "CBC",
     "count": 9,
     "category": "ecosystem"
-  },
-  {
-    "tag": "openwrt",
-    "count": 8,
-    "category": "router"
   },
   {
     "tag": "gost",
@@ -590,6 +590,16 @@
     "category": "core"
   },
   {
+    "tag": "mosdns",
+    "count": 7,
+    "category": "router"
+  },
+  {
+    "tag": "wireguard",
+    "count": 7,
+    "category": "security"
+  },
+  {
     "tag": "Shadowrocket",
     "count": 7,
     "category": "client"
@@ -628,16 +638,6 @@
     "tag": "shadowsocks",
     "count": 7,
     "category": "ecosystem"
-  },
-  {
-    "tag": "wireguard",
-    "count": 6,
-    "category": "security"
-  },
-  {
-    "tag": "mosdns",
-    "count": 6,
-    "category": "router"
   },
   {
     "tag": "v2raya",
@@ -835,6 +835,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "grpc",
+    "count": 4,
+    "category": "security"
+  },
+  {
     "tag": "v2rayn",
     "count": 4,
     "category": "client"
@@ -980,7 +985,12 @@
     "category": "client"
   },
   {
-    "tag": "grpc",
+    "tag": "vision",
+    "count": 3,
+    "category": "security"
+  },
+  {
+    "tag": "amneziawg",
     "count": 3,
     "category": "security"
   },
@@ -1215,12 +1225,12 @@
     "category": "protocol"
   },
   {
-    "tag": "vision",
+    "tag": "reality",
     "count": 2,
     "category": "security"
   },
   {
-    "tag": "amneziawg",
+    "tag": "warp",
     "count": 2,
     "category": "security"
   },
@@ -1737,16 +1747,6 @@
   {
     "tag": "Quantumult X",
     "count": 2,
-    "category": "security"
-  },
-  {
-    "tag": "reality",
-    "count": 1,
-    "category": "security"
-  },
-  {
-    "tag": "warp",
-    "count": 1,
     "category": "security"
   },
   {

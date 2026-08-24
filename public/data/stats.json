@@ -1,14 +1,14 @@
 {
-  "totalItems": 1427,
-  "last24h": 7,
-  "last7d": 41,
+  "totalItems": 1429,
+  "last24h": 9,
+  "last7d": 42,
   "byCategory": {
     "core": 250,
     "client": 257,
-    "router": 8,
+    "router": 9,
     "protocol": 57,
     "dns_rules": 126,
-    "security": 36,
+    "security": 37,
     "ecosystem": 693,
     "trend": 0
   },
@@ -35,7 +35,7 @@
     },
     {
       "project": "3x-ui",
-      "count": 108
+      "count": 109
     },
     {
       "project": "metacubexd",
@@ -61,7 +61,7 @@
     },
     {
       "tag": "release",
-      "count": 240
+      "count": 242
     },
     {
       "tag": "mihomo",
@@ -136,8 +136,8 @@
       "count": 50
     }
   ],
-  "importantCount": 457,
-  "breakingCount": 82,
-  "securityCount": 90,
-  "updatedAt": "2026-08-24T13:15:29.013Z"
+  "importantCount": 458,
+  "breakingCount": 83,
+  "securityCount": 91,
+  "updatedAt": "2026-08-24T18:57:13.097Z"
 }
