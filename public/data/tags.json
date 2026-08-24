@@ -6,8 +6,8 @@
   },
   {
     "tag": "release",
-    "count": 235,
-    "category": "dns_rules"
+    "count": 236,
+    "category": "core"
   },
   {
     "tag": "mihomo",
@@ -81,7 +81,7 @@
   },
   {
     "tag": "sing-box",
-    "count": 64,
+    "count": 65,
     "category": "core"
   },
   {
@@ -206,7 +206,7 @@
   },
   {
     "tag": "hysteria2",
-    "count": 30,
+    "count": 31,
     "category": "core"
   },
   {
@@ -235,14 +235,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "vless",
+    "count": 24,
+    "category": "core"
+  },
+  {
     "tag": "HTTP/2",
     "count": 24,
     "category": "protocol"
-  },
-  {
-    "tag": "vless",
-    "count": 23,
-    "category": "core"
   },
   {
     "tag": "依赖更新",
@@ -275,6 +275,11 @@
     "category": "core"
   },
   {
+    "tag": "tuic",
+    "count": 20,
+    "category": "core"
+  },
+  {
     "tag": "QUIC",
     "count": 20,
     "category": "ecosystem"
@@ -282,11 +287,6 @@
   {
     "tag": "rematch",
     "count": 20,
-    "category": "core"
-  },
-  {
-    "tag": "tuic",
-    "count": 19,
     "category": "core"
   },
   {

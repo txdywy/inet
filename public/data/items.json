@@ -1,5 +1,44 @@
 [
   {
+    "id": "996a49d5cec7cde3",
+    "title": "SagerNet/sing-box 1.14.0-rc.1",
+    "summary": "1.14.0-rc.1",
+    "rawTitle": "1.14.0-rc.1",
+    "rawBody": "## :memo: Release Notes\n\n* Fixes and improvements",
+    "sourceType": "github_release",
+    "sourceName": "SagerNet/sing-box",
+    "sourceUrl": "https://github.com/SagerNet/sing-box/releases/tag/v1.14.0-rc.1",
+    "project": "sing-box",
+    "repo": "SagerNet/sing-box",
+    "slug": "sing-box",
+    "version": "1.14.0-rc.1",
+    "category": "core",
+    "tags": [
+      "sing-box",
+      "vless",
+      "hysteria2",
+      "tuic",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos",
+      "android",
+      "ios"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-08-24T03:21:43Z",
+    "fetchedAt": "2026-08-24T07:30:53.770Z",
+    "firstSeenAt": "2026-08-24T07:31:07.277Z",
+    "updatedAt": "2026-08-24T07:31:07.277Z",
+    "hash": "996a49d5cec7cde3"
+  },
+  {
     "id": "ed2852e2d17bda34",
     "title": "v2fly/domain-list-community 20260824014107",
     "summary": "20260824014107",
