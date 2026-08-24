@@ -214,22 +214,6 @@
     ]
   },
   {
-    "slug": "hysteria",
-    "name": "hysteria",
-    "repo": "apernet/hysteria",
-    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
-    "category": "core",
-    "platforms": [
-      "linux",
-      "windows",
-      "macos"
-    ],
-    "tags": [
-      "hysteria2",
-      "quic"
-    ]
-  },
-  {
     "slug": "v2raya",
     "name": "v2rayA",
     "repo": "v2rayA/v2rayA",
@@ -244,6 +228,22 @@
       "v2raya",
       "web",
       "transparent-proxy"
+    ]
+  },
+  {
+    "slug": "hysteria",
+    "name": "hysteria",
+    "repo": "apernet/hysteria",
+    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
+    "category": "core",
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "tags": [
+      "hysteria2",
+      "quic"
     ]
   },
   {
@@ -318,6 +318,22 @@
     ]
   },
   {
+    "slug": "luci-app-mosdns",
+    "name": "luci-app-mosdns",
+    "repo": "sbwml/luci-app-mosdns",
+    "description": "OpenWrt / 路由器固件及插件",
+    "category": "router",
+    "platforms": [
+      "openwrt",
+      "router"
+    ],
+    "tags": [
+      "mosdns",
+      "openwrt",
+      "dns"
+    ]
+  },
+  {
     "slug": "v2ray-core",
     "name": "v2ray-core",
     "repo": "v2fly/v2ray-core",
@@ -347,22 +363,6 @@
       "ssrplus",
       "openwrt",
       "luci"
-    ]
-  },
-  {
-    "slug": "luci-app-mosdns",
-    "name": "luci-app-mosdns",
-    "repo": "sbwml/luci-app-mosdns",
-    "description": "OpenWrt / 路由器固件及插件",
-    "category": "router",
-    "platforms": [
-      "openwrt",
-      "router"
-    ],
-    "tags": [
-      "mosdns",
-      "openwrt",
-      "dns"
     ]
   },
   {
