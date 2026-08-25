@@ -1,5 +1,78 @@
 [
   {
+    "id": "0e87032a86a1504f",
+    "title": "MetaCubeX/meta-rules-dat Release 2026-08-25 06:50",
+    "summary": "Release 2026-08-25 06:50",
+    "rawTitle": "Release 2026-08-25 06:50",
+    "rawBody": "",
+    "sourceType": "github_release",
+    "sourceName": "MetaCubeX/meta-rules-dat",
+    "sourceUrl": "https://github.com/MetaCubeX/meta-rules-dat/releases/tag/latest",
+    "project": "meta-rules-dat",
+    "repo": "MetaCubeX/meta-rules-dat",
+    "slug": "meta-rules-dat",
+    "version": "latest",
+    "category": "dns_rules",
+    "tags": [
+      "ruleset",
+      "geosite",
+      "geoip",
+      "mihomo",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-08-24T22:53:03Z",
+    "fetchedAt": "2026-08-25T01:54:26.649Z",
+    "firstSeenAt": "2026-08-25T01:54:29.355Z",
+    "updatedAt": "2026-08-25T01:54:29.355Z",
+    "hash": "0e87032a86a1504f"
+  },
+  {
+    "id": "5ee807a5a556023a",
+    "title": "Loyalsoldier/v2ray-rules-dat Released on 202608242219",
+    "summary": "Released on 202608242219",
+    "rawTitle": "Released on 202608242219",
+    "rawBody": "",
+    "sourceType": "github_release",
+    "sourceName": "Loyalsoldier/v2ray-rules-dat",
+    "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/tag/202608242219",
+    "project": "v2ray-rules-dat",
+    "repo": "Loyalsoldier/v2ray-rules-dat",
+    "slug": "v2ray-rules-dat",
+    "version": "202608242219",
+    "category": "dns_rules",
+    "tags": [
+      "ruleset",
+      "geosite",
+      "geoip",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-08-24T22:19:37Z",
+    "fetchedAt": "2026-08-25T01:54:26.654Z",
+    "firstSeenAt": "2026-08-25T01:54:28.523Z",
+    "updatedAt": "2026-08-25T01:54:28.523Z",
+    "hash": "5ee807a5a556023a"
+  },
+  {
     "id": "847fd430d5f3f5cb",
     "title": "sbwml/luci-app-mosdns v5.3.4-r10",
     "summary": "v5.3.4-r10",

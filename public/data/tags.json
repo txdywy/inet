@@ -6,12 +6,12 @@
   },
   {
     "tag": "release",
-    "count": 242,
-    "category": "router"
+    "count": 244,
+    "category": "dns_rules"
   },
   {
     "tag": "mihomo",
-    "count": 229,
+    "count": 230,
     "category": "dns_rules"
   },
   {
@@ -36,7 +36,7 @@
   },
   {
     "tag": "geosite",
-    "count": 102,
+    "count": 104,
     "category": "dns_rules"
   },
   {
@@ -90,19 +90,19 @@
     "category": "ecosystem"
   },
   {
-    "tag": "Android",
-    "count": 51,
-    "category": "client"
-  },
-  {
     "tag": "ruleset",
-    "count": 50,
+    "count": 52,
     "category": "dns_rules"
   },
   {
     "tag": "geoip",
-    "count": 50,
+    "count": 52,
     "category": "dns_rules"
+  },
+  {
+    "tag": "Android",
+    "count": 51,
+    "category": "client"
   },
   {
     "tag": "开源",
