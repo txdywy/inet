@@ -1,5 +1,44 @@
 [
   {
+    "id": "314960b995211322",
+    "title": "sub-store-org/Sub-Store 2.36.40",
+    "summary": "2.36.40",
+    "rawTitle": "2.36.40",
+    "rawBody": "## <small>2.36.40 (2026-08-25)</small>\n\n* feat: Stash 支持 VLESS Encryption, Snell v4/5 ([fe01a56](https://github.com/sub-store-org/Sub-Store/commit/fe01a56))\n",
+    "sourceType": "github_release",
+    "sourceName": "sub-store-org/Sub-Store",
+    "sourceUrl": "https://github.com/sub-store-org/Sub-Store/releases/tag/2.36.40",
+    "project": "Sub-Store",
+    "repo": "sub-store-org/Sub-Store",
+    "slug": "sub-store",
+    "version": "2.36.40",
+    "category": "ecosystem",
+    "tags": [
+      "sub-store",
+      "subscription",
+      "vless",
+      "snell",
+      "release"
+    ],
+    "platforms": [
+      "ios",
+      "android",
+      "macos",
+      "windows",
+      "linux"
+    ],
+    "importance": 4,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2026-08-25T12:29:12Z",
+    "fetchedAt": "2026-08-25T13:13:10.786Z",
+    "firstSeenAt": "2026-08-25T13:13:14.179Z",
+    "updatedAt": "2026-08-25T13:13:14.179Z",
+    "hash": "314960b995211322"
+  },
+  {
     "id": "0e87032a86a1504f",
     "title": "MetaCubeX/meta-rules-dat Release 2026-08-25 06:50",
     "summary": "Release 2026-08-25 06:50",

@@ -6,8 +6,8 @@
   },
   {
     "tag": "release",
-    "count": 244,
-    "category": "dns_rules"
+    "count": 245,
+    "category": "ecosystem"
   },
   {
     "tag": "mihomo",
@@ -225,6 +225,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "vless",
+    "count": 26,
+    "category": "ecosystem"
+  },
+  {
     "tag": "x-ui",
     "count": 26,
     "category": "security"
@@ -238,11 +243,6 @@
     "tag": "DNS",
     "count": 26,
     "category": "dns_rules"
-  },
-  {
-    "tag": "vless",
-    "count": 25,
-    "category": "client"
   },
   {
     "tag": "网络工具",
@@ -360,6 +360,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "snell",
+    "count": 15,
+    "category": "ecosystem"
+  },
+  {
     "tag": "xray",
     "count": 15,
     "category": "security"
@@ -367,6 +372,16 @@
   {
     "tag": "网络规则",
     "count": 15,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "sub-store",
+    "count": 14,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "subscription",
+    "count": 14,
     "category": "ecosystem"
   },
   {
@@ -388,21 +403,6 @@
     "tag": "sudoku",
     "count": 14,
     "category": "core"
-  },
-  {
-    "tag": "snell",
-    "count": 14,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "sub-store",
-    "count": 13,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "subscription",
-    "count": 13,
-    "category": "ecosystem"
   },
   {
     "tag": "OpenWrt",
