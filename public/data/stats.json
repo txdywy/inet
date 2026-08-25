@@ -1,13 +1,13 @@
 {
-  "totalItems": 1432,
-  "last24h": 4,
-  "last7d": 42,
+  "totalItems": 1435,
+  "last24h": 6,
+  "last7d": 45,
   "byCategory": {
-    "core": 250,
+    "core": 251,
     "client": 257,
     "router": 9,
     "protocol": 57,
-    "dns_rules": 128,
+    "dns_rules": 130,
     "security": 37,
     "ecosystem": 694,
     "trend": 0
@@ -15,7 +15,7 @@
   "topProjects": [
     {
       "project": "domain-list-community",
-      "count": 250
+      "count": 252
     },
     {
       "project": "mihomo",
@@ -47,7 +47,7 @@
     },
     {
       "project": "gost",
-      "count": 40
+      "count": 41
     },
     {
       "project": "ClashMetaForAndroid",
@@ -61,7 +61,7 @@
     },
     {
       "tag": "release",
-      "count": 245
+      "count": 248
     },
     {
       "tag": "mihomo",
@@ -73,7 +73,7 @@
     },
     {
       "tag": "domain-list",
-      "count": 120
+      "count": 122
     },
     {
       "tag": "Sub-Store",
@@ -85,7 +85,7 @@
     },
     {
       "tag": "geosite",
-      "count": 104
+      "count": 106
     },
     {
       "tag": "v2ray",
@@ -136,8 +136,8 @@
       "count": 52
     }
   ],
-  "importantCount": 461,
+  "importantCount": 463,
   "breakingCount": 83,
   "securityCount": 91,
-  "updatedAt": "2026-08-25T13:13:14.623Z"
+  "updatedAt": "2026-08-25T18:55:00.757Z"
 }

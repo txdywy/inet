@@ -6,8 +6,8 @@
   },
   {
     "tag": "release",
-    "count": 245,
-    "category": "ecosystem"
+    "count": 248,
+    "category": "core"
   },
   {
     "tag": "mihomo",
@@ -21,7 +21,7 @@
   },
   {
     "tag": "domain-list",
-    "count": 120,
+    "count": 122,
     "category": "dns_rules"
   },
   {
@@ -36,7 +36,7 @@
   },
   {
     "tag": "geosite",
-    "count": 104,
+    "count": 106,
     "category": "dns_rules"
   },
   {
@@ -470,6 +470,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "gost",
+    "count": 9,
+    "category": "core"
+  },
+  {
     "tag": "openwrt",
     "count": 9,
     "category": "router"
@@ -518,11 +523,6 @@
     "tag": "CBC",
     "count": 9,
     "category": "ecosystem"
-  },
-  {
-    "tag": "gost",
-    "count": 8,
-    "category": "core"
   },
   {
     "tag": "android",
@@ -730,6 +730,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "tunnel",
+    "count": 5,
+    "category": "core"
+  },
+  {
     "tag": "anytls",
     "count": 5,
     "category": "security"
@@ -848,11 +853,6 @@
     "tag": "windows",
     "count": 4,
     "category": "client"
-  },
-  {
-    "tag": "tunnel",
-    "count": 4,
-    "category": "core"
   },
   {
     "tag": "tailscale",
