@@ -6,12 +6,12 @@
   },
   {
     "tag": "release",
-    "count": 255,
-    "category": "dns_rules"
+    "count": 257,
+    "category": "client"
   },
   {
     "tag": "mihomo",
-    "count": 231,
+    "count": 232,
     "category": "dns_rules"
   },
   {
@@ -105,6 +105,11 @@
     "category": "client"
   },
   {
+    "tag": "clash",
+    "count": 46,
+    "category": "ecosystem"
+  },
+  {
     "tag": "开源",
     "count": 46,
     "category": "core"
@@ -118,11 +123,6 @@
     "tag": "quic",
     "count": 45,
     "category": "core"
-  },
-  {
-    "tag": "clash",
-    "count": 45,
-    "category": "ecosystem"
   },
   {
     "tag": "网络协议",
@@ -156,7 +156,7 @@
   },
   {
     "tag": "meta",
-    "count": 39,
+    "count": 40,
     "category": "security"
   },
   {
@@ -590,6 +590,21 @@
     "category": "core"
   },
   {
+    "tag": "v2raya",
+    "count": 7,
+    "category": "client"
+  },
+  {
+    "tag": "web",
+    "count": 7,
+    "category": "client"
+  },
+  {
+    "tag": "transparent-proxy",
+    "count": 7,
+    "category": "client"
+  },
+  {
     "tag": "mosdns",
     "count": 7,
     "category": "router"
@@ -638,21 +653,6 @@
     "tag": "shadowsocks",
     "count": 7,
     "category": "ecosystem"
-  },
-  {
-    "tag": "v2raya",
-    "count": 6,
-    "category": "client"
-  },
-  {
-    "tag": "web",
-    "count": 6,
-    "category": "client"
-  },
-  {
-    "tag": "transparent-proxy",
-    "count": 6,
-    "category": "client"
   },
   {
     "tag": "v2rayng",

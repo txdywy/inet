@@ -1,5 +1,41 @@
 [
   {
+    "id": "54fa34f7f8166d78",
+    "title": "v2rayA/v2rayA v2.4.16",
+    "summary": "v2.4.16",
+    "rawTitle": "v2.4.16",
+    "rawBody": "## What's Changed\n* fix: transparent proxy startup failure and DNS bootstrap deadlock by @xuweizhi in https://github.com/v2rayA/v2rayA/pull/1947\n\n\n**Full Changelog**: https://github.com/v2rayA/v2rayA/compare/v2.4.15...v2.4.16",
+    "sourceType": "github_release",
+    "sourceName": "v2rayA/v2rayA",
+    "sourceUrl": "https://github.com/v2rayA/v2rayA/releases/tag/v2.4.16",
+    "project": "v2rayA",
+    "repo": "v2rayA/v2rayA",
+    "slug": "v2raya",
+    "version": "2.4.16",
+    "category": "client",
+    "tags": [
+      "v2raya",
+      "web",
+      "transparent-proxy",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 4,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2026-08-26T12:04:50Z",
+    "fetchedAt": "2026-08-26T13:18:07.523Z",
+    "firstSeenAt": "2026-08-26T13:18:16.021Z",
+    "updatedAt": "2026-08-26T13:18:16.021Z",
+    "hash": "54fa34f7f8166d78"
+  },
+  {
     "id": "75d524ede8d2eb62",
     "title": "v2fly/domain-list-community 20260826065759",
     "summary": "20260826065759",
@@ -41818,6 +41854,42 @@
     "firstSeenAt": "2026-05-07T04:09:04.362Z",
     "updatedAt": "2026-05-07T04:09:04.362Z",
     "hash": "5e6adb84fbb7f312"
+  },
+  {
+    "id": "de86d2d6260db1bd",
+    "title": "MetaCubeX/mihomo Prerelease-Alpha",
+    "summary": "Prerelease-Alpha",
+    "rawTitle": "Prerelease-Alpha",
+    "rawBody": "Release created at  Wed Aug 26 19:48:47 CST 2026\nSynchronize Alpha branch code updates, keeping only the latest version\n<br>\n[我应该下载哪个文件? / Which file should I download?](https://github.com/MetaCubeX/mihomo/wiki/FAQ)\n[二进制文件筛选 / Binary file selector](https://metacubex.github.io/Meta-Docs/startup/#_1)\n[查看文档 / Docs](https://metacubex.github.io/Meta-Docs/)\n\n\n## What's Changed\n* chore: update mieru version by @enfein in https://github.com/MetaCubeX/mihomo/pull/3119\n* fix: typo in config.yaml by @MakostaDev in https://github.com/MetaCubeX/mihomo/pull/3145\n\n\n**Full Changelog**: https://github.com/MetaCubeX/mihomo/compare/v1.19.30...Prerelease-Alpha",
+    "sourceType": "github_release",
+    "sourceName": "MetaCubeX/mihomo",
+    "sourceUrl": "https://github.com/MetaCubeX/mihomo/releases/tag/Prerelease-Alpha",
+    "project": "mihomo",
+    "repo": "MetaCubeX/mihomo",
+    "slug": "mihomo",
+    "version": "Prerelease-Alpha",
+    "category": "core",
+    "tags": [
+      "mihomo",
+      "clash",
+      "meta",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 2,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2024-08-12T17:01:02Z",
+    "fetchedAt": "2026-08-26T13:18:01.226Z",
+    "firstSeenAt": "2026-08-26T13:18:15.212Z",
+    "updatedAt": "2026-08-26T13:18:15.212Z",
+    "hash": "de86d2d6260db1bd"
   },
   {
     "id": "11e4bad90e98c9bc",
