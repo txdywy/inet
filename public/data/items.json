@@ -1,5 +1,78 @@
 [
   {
+    "id": "58f7f5a7b9d7a5ee",
+    "title": "MetaCubeX/meta-rules-dat Release 2026-08-26 06:52",
+    "summary": "Release 2026-08-26 06:52",
+    "rawTitle": "Release 2026-08-26 06:52",
+    "rawBody": "",
+    "sourceType": "github_release",
+    "sourceName": "MetaCubeX/meta-rules-dat",
+    "sourceUrl": "https://github.com/MetaCubeX/meta-rules-dat/releases/tag/latest",
+    "project": "meta-rules-dat",
+    "repo": "MetaCubeX/meta-rules-dat",
+    "slug": "meta-rules-dat",
+    "version": "latest",
+    "category": "dns_rules",
+    "tags": [
+      "ruleset",
+      "geosite",
+      "geoip",
+      "mihomo",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-08-25T22:54:55Z",
+    "fetchedAt": "2026-08-26T02:00:22.635Z",
+    "firstSeenAt": "2026-08-26T02:00:25.568Z",
+    "updatedAt": "2026-08-26T02:00:25.568Z",
+    "hash": "58f7f5a7b9d7a5ee"
+  },
+  {
+    "id": "5b8ddd015f05fd0b",
+    "title": "Loyalsoldier/v2ray-rules-dat Released on 202608252219",
+    "summary": "Released on 202608252219",
+    "rawTitle": "Released on 202608252219",
+    "rawBody": "",
+    "sourceType": "github_release",
+    "sourceName": "Loyalsoldier/v2ray-rules-dat",
+    "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/tag/202608252219",
+    "project": "v2ray-rules-dat",
+    "repo": "Loyalsoldier/v2ray-rules-dat",
+    "slug": "v2ray-rules-dat",
+    "version": "202608252219",
+    "category": "dns_rules",
+    "tags": [
+      "ruleset",
+      "geosite",
+      "geoip",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-08-25T22:20:15Z",
+    "fetchedAt": "2026-08-26T02:00:22.682Z",
+    "firstSeenAt": "2026-08-26T02:00:24.759Z",
+    "updatedAt": "2026-08-26T02:00:24.759Z",
+    "hash": "5b8ddd015f05fd0b"
+  },
+  {
     "id": "cc8c4e9d4ae174db",
     "title": "go-gost/gost v3.2.7-nightly.20260825",
     "summary": "v3.2.7-nightly.20260825",
