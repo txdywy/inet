@@ -429,6 +429,22 @@
     ]
   },
   {
+    "slug": "shadowsocks-rust",
+    "name": "shadowsocks-rust",
+    "repo": "shadowsocks/shadowsocks-rust",
+    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
+    "category": "core",
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "tags": [
+      "shadowsocks",
+      "rust"
+    ]
+  },
+  {
     "slug": "dae",
     "name": "dae",
     "repo": "daeuniverse/dae",
@@ -458,22 +474,6 @@
       "cloudflare",
       "speedtest",
       "optimization"
-    ]
-  },
-  {
-    "slug": "shadowsocks-rust",
-    "name": "shadowsocks-rust",
-    "repo": "shadowsocks/shadowsocks-rust",
-    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
-    "category": "core",
-    "platforms": [
-      "linux",
-      "windows",
-      "macos"
-    ],
-    "tags": [
-      "shadowsocks",
-      "rust"
     ]
   },
   {

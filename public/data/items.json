@@ -1,5 +1,75 @@
 [
   {
+    "id": "08de04993346eafd",
+    "title": "shadowsocks/shadowsocks-rust v1.25.0",
+    "summary": "v1.25.0",
+    "rawTitle": "v1.25.0",
+    "rawBody": "## Breaking Changes\r\n\r\n- MSRV bumps to v1.91, required by `smoltcp` v0.13\r\n- `refactor(service)!: rework outbound proxy chain into a unified client`. The outbound proxy architecture has been completely reworked into a single self-contained module `net::outbound`, exposing `OutboundProxyClient`, `OutboundProxyStream`, `Socks5Auth`, `HttpProxyAuth` and a `TcpDialer` trait.\r\n  - `crate::net::outbound_proxy` — removed; use `crate::net::OutboundProxyClient`\r\n  - `crate::net::http_connect::HttpConnectClient` — moved to `crate::net::HttpConnectClient` (only available with the `local-http` feature)\r\n  - `crate::net::Socks5TcpClient` (the chain-mixing wrapper) — split: the pure SOCKS5 client is now `crate::local::socks::client::socks5::Socks5TcpClient`; the in-band negotiator is `crate::net::Socks5Negotiator`\r\n  - `crate::local::net::tcp::outbound_proxy` — removed\r\n  - `ServiceContext::outbound_proxies()` — replaced by `outbound_client()` returning `Option<&Arc<OutboundProxyClient>>`\r\n- `create_inbound_udp_socket` public function signature changed, added `allow_fragmentation` parameter\r\n- `inbound_udp_allow_fragmentation` new configuration option split from `outbound_udp_allow_fragmentation`, which now only controls outbound sockets. The inbound (listener) UDP sockets default to disabling IP fragmentation (`false`).\r\n\r\n## Features\r\n\r\n- #2106 Allow chaining `ssserver` to another SOCKS5/HTTP/HTTPS proxy\r\n- #2109 Expose `user_key()` on `CryptoStream` and `ProxyServerStream`, lets callers identify which multi-user identity was authenticated after an AEAD-2022 handshake\r\n- EIH (Extended Identity Header) support\r\n- #1994 `local-http`: Support HTTP Basic auth\r\n- `service`: Outbound UDP relay through SOCKS5-only chains. UDP traffic can now be relayed through proxy chains when all hops are SOCKS5. Chains containing HTTP/HTTPS hops will emit a startup warning and UDP traffic will bypass the chain.\r\n- Optimized `socket2::Socket` with `socket2::SockRef`\r\n\r\n## Bug Fixes\r\n\r\n- Allow fragmentation for inbound UDP replies\r\n- RUSTSEC-2026-0258, RUSTSEC-2026-0204, RUSTSEC-2026-0185, RUSTSEC-2026-0119, RUSTSEC-2026-0104, RUSTSEC-2026-0099\r\n- `net`: Make UDP batch configs match the BSD module routing for tvOS/watchOS\r\n- #2100 Native build error on arm64\r\n- `shadowsocks-service`: Fixed build without `local-http` feature\r\n- #2062 `http`: Add `is_ready` method and enhance connection checks\r\n- #2097 Unify alpine base version in Docker images\r\n- #2093 `PingBalancer`: Remove unnecessary double checks\r\n- `netbsd`: Cross-compilation fixes with `getentropy` shim and passthrough `RUSTFLAGS` syntax\r\n\r\n## Miscellaneous\r\n\r\n- `shadowsocks-crypto` upgraded to v0.8.0\r\n- `smoltcp` upgraded to v0.14\r\n- Upgraded various dependencies\r\n\r\n## What's Changed\r\n* chore(deps): update actions/upload-artifact action to v6 by @renovate[bot] in https://github.com/shadowsocks/shadowsocks-rust/pull/2056\r\n* fix(deps): update rust crate reqwest to 0.13 by @renovate[bot] in https://github.com/shadowsocks/shadowsocks-rust/pull/2058\r\n* chore: clippy fix by @AaronChen0 in https://github.com/shadowsocks/shadowsocks-rust/pull/2059\r\n* fix(http): add is_ready method and enhance connection checks by @arloor in https://github.com/shadowsocks/shadowsocks-rust/pull/2062\r\n* fix(deps): update rust crate nix to 0.31 by @renovate[bot] in https://github.com/shadowsocks/shadowsocks-rust/pull/2066\r\n* chore(deps): update rust crate time to v0.3.46 by @renovate[bot] in https://github.com/shadowsocks/shadowsocks-rust/pull/2067\r\n* chore(deps): update rust crate clap to v4.5.57 by @renovate[bot] in https://github.com/shadowsocks/shadowsocks-rust/pull/2071\r\n* chore(deps): update rust crate regex to v1.12.3 by @renovate[bot] in https://github.com/shadowsocks/shadowsocks-rust/pull/2072\r\n* chore: fix a warning by @AaronChen0 in https://github.com/shadowsocks/shadowsocks-rust/pull/2076\r\n* chore: fix typos by @AaronChen0 in https://github.com/shadowsocks/shadowsocks-rust/pull/2075\r\n* fix(deps): update rust crate rand to 0.10 by @renovate[bot] in https://github.com/shadowsocks/shadowsocks-rust/pull/2074\r\n* chore(deps): update actions/upload-artifact action to v7 by @renovate[bot] in https://github.com/shadowsocks/shadowsocks-rust/pull/2079\r\n* chore(deps): bump quinn-proto from 0.11.13 to 0.11.14 in the cargo group across 1 directory by @dependabot[bot] in https://github.com/shadowsocks/shadowsocks-rust/pull/2080\r\n* chore(deps): update rust crate libc to v0.2.183 by @renovate[bot] in https://github.com/shadowsocks/shadowsocks-rust/pull/2085\r\n* chore(deps): update rust crate socket2 to v0.6.3 by @renovate[bot] in https://github.com/shadowsocks/shadowsocks-rust/pull/2086\r\n* chore(deps): update rust crate tracing-subscriber to v0.3.23 by @renovate[bot] in https://github.com/shadowsocks/shadowsocks-rust/pull/2087\r\n* chore(deps): update rust crate tun to v0.8.6 by @renovate[bot] in https://github.com/shadowsocks/shadowsocks-rust/pull/2088\r\n* chore(deps): update rust crate clap to v4.6.0 by @renovate[bot] in https://github.com/shadowsocks/shadowsocks-rust/pull/2089\r\n* chore(deps): update rust crate ipnet to v2.12.0 by @renovate[bot] in https://github.com/shadowsocks/shadowsocks-rust/pull/2090\r\n* chore(deps): update rust crate tokio to v1.50.0 by @renovate[bot] in https://github.com/shadowsocks/shadowsocks-rust/pull/2091\r\n* chore(deps): update rust docker tag to v1.94.0 by @renovate[bot] in https://github.com/shadowsocks/shadowsocks-rust/pull/2092\r\n* chore(deps): update docker/build-push-action action to v7 by @renovate[bot] in https://github.com/shadowsocks/shadowsocks-rust/pull/2081\r\n* chore(deps): update docker/login-action action to v4 by @renovate[bot] in https://github.com/shadowsocks/shadowsocks-rust/pull/2082\r\n* chore(deps): update docker/setup-buildx-action action to v4 by @renovate[bot] in https://github.com/shadowsocks/shadowsocks-rust/pull/2084\r\n* chore(deps): update docker/metadata-action action to v6 by @renovate[bot] in https://github.com/shadowsocks/shadowsocks-rust/pull/2083\r\n* fix: remove unnecessary double checks in PingBalancer by @AaronChen0 in https://github.com/shadowsocks/shadowsocks-rust/pull/2093\r\n* fix: unify alpine base version by @vndroid in https://github.com/shadowsocks/shadowsocks-rust/pull/2097\r\n* chore(deps): update rust crate arc-swap to v1.9.0 - autoclosed by @renovate[bot] in https://github.com/shadowsocks/shadowsocks-rust/pull/2096\r\n* chore(deps): bump rustls-webpki from 0.103.8 to 0.103.10 in the cargo group across 1 directory by @dependabot[bot] in https://github.com/shadowsocks/shadowsocks-rust/pull/2095\r\n* fix(deps): update rust crate smoltcp to 0.13 by @renovate[bot] in https://github.com/shadowsocks/shadowsocks-rust/pull/2094\r\n* fix: native build error on arm64 by @vndroid in https://github.com/shadowsocks/shadowsocks-rust/pull/2100\r\n* chore(deps): update rust crate libc to v0.2.184 by @renovate[bot] in https://github.com/shadowsocks/shadowsocks-rust/pull/2104\r\n* chore(deps): update rust crate tokio to v1.51.1 by @renovate[bot] in https://github.com/shadowsocks/shadowsocks-rust/pull/2105\r\n* [Feature]: Allow to chain ssserver to another socks5/http/https proxy #1397 by @missdeer in https://github.com/shadowsocks/shadowsocks-rust/pull/2106\r\n* feat: expose user_key() on CryptoStream and ProxyServerStream by @ibigbug in https://github.com/shadowsocks/shadowsocks-rust/pull/2109\r\n* chore(deps): update softprops/action-gh-release action to v3 by @renovate[bot] in https://github.com/shadowsocks/shadowsocks-rust/pull/2108\r\n* Remove unused imports in outbound_proxy by @faern in https://github.com/shadowsocks/shadowsocks-rust/pull/2111\r\n* chore(deps): update rust crate clap to v4.6.1 by @renovate[bot] in https://github.com/shadowsocks/shadowsocks-rust/pull/2113\r\n* chore(deps): update rust crate tracing-appender to v0.2.5 by @renovate[bot] in https://github.com/shadowsocks/shadowsocks-rust/pull/2119\r\n* chore(deps): update rust crate webpki-roots to v1.0.7 by @renovate[bot] in https://github.com/shadowsocks/shadowsocks-rust/pull/2116\r\n* chore(deps): update rust crate tokio to v1.52.1 by @renovate[bot] in https://github.com/shadowsocks/shadowsocks-rust/pull/2110\r\n* chore(deps): update rust docker tag to v1.95.0 by @renovate[bot] in https://github.com/shadowsocks/shadowsocks-rust/pull/2118\r\n* feat: add eih support by @alex27riva in https://github.com/shadowsocks/shadowsocks-rust/pull/2115\r\n* chore(deps): update rust crate blake3 to v1.8.5 by @renovate[bot] in https://github.com/shadowsocks/shadowsocks-rust/pull/2123\r\n* chore(deps): update rust crate libc to v0.2.186 by @renovate[bot] in https://github.com/shadowsocks/shadowsocks-rust/pull/2122\r\n* chore(deps): update rust crate mimalloc to v0.1.50 by @renovate[bot] in https://github.com/shadowsocks/shadowsocks-rust/pull/2120\r\n* chore(deps): update rust crate rpassword to v7.5.1 by @renovate[bot] in https://github.com/shadowsocks/shadowsocks-rust/pull/2126\r\n* refactor(service)!: rework outbound proxy chain into a unified client by @zonyitoo in https://github.com/shadowsocks/shadowsocks-rust/pull/2127\r\n* fix(deps): update rust crate aes to 0.9 by @renovate[bot] in https://github.com/shadowsocks/shadowsocks-rust/pull/2107\r\n* Replace `ring` with `aws-lc-rs` by @faern in https://github.com/shadowsocks/shadowsocks-rust/pull/2112\r\n* fix(deps): update rust crate hickory-resolver to 0.26 by @renovate[bot] in https://github.com/shadowsocks/shadowsocks-rust/pull/2114\r\n* chore(deps): update rust crate pin-project to v1.1.12 by @renovate[bot] in https://github.com/shadowsocks/shadowsocks-rust/pull/2133\r\n* chore(deps): update rust crate hickory-resolver to v0.26.1 by @renovate[bot] in https://github.com/shadowsocks/shadowsocks-rust/pull/2132\r\n* chore(deps): bump openssl from 0.10.75 to 0.10.79 in the cargo group across 1 directory by @dependabot[bot] in https://github.com/shadowsocks/shadowsocks-rust/pull/2121\r\n* chore(deps): update rust crate tokio to v1.52.2 by @renovate[bot] in https://github.com/shadowsocks/shadowsocks-rust/pull/2131\r\n* chore(deps): update rust crate rpassword to v7.5.2 by @renovate[bot] in https://github.com/shadowsocks/shadowsocks-rust/pull/2130\r\n* Document redir iptables setup by @TurboTheTurtle in https://github.com/shadowsocks/shadowsocks-rust/pull/2135\r\n* fix(deps): update rust crate spin to 0.12 by @renovate[bot] in https://github.com/shadowsocks/shadowsocks-rust/pull/2136\r\n* chore(deps): update rust crate log to v0.4.32 by @renovate[bot] in https://github.com/shadowsocks/shadowsocks-rust/pull/2140\r\n* chore(deps): update rust crate time to v0.3.49 by @renovate[bot] in https://github.com/shadowsocks/shadowsocks-rust/pull/2141\r\n* chore(deps): update actions/checkout action to v7 by @renovate[bot] in https://github.com/shadowsocks/shadowsocks-rust/pull/2145\r\n* chore(deps): update rust crate arc-swap to v1.9.2 by @renovate[bot] in https://github.com/shadowsocks/shadowsocks-rust/pull/2149\r\n* chore(deps): update rust crate dynosaur to v0.3.1 by @renovate[bot] in https://github.com/shadowsocks/shadowsocks-rust/pull/2153\r\n* chore(deps): update rust crate env_logger to v0.11.11 by @renovate[bot] in https://github.com/shadowsocks/shadowsocks-rust/pull/2148\r\n* chore(deps): update rust crate etherparse to v0.20.3 by @renovate[bot] in https://github.com/shadowsocks/shadowsocks-rust/pull/2154\r\n* chore(deps): update rust crate spin to v0.12.1 by @renovate[bot] in https://github.com/shadowsocks/shadowsocks-rust/pull/2147\r\n* chore(deps): update rust crate time to v0.3.53 by @renovate[bot] in https://github.com/shadowsocks/shadowsocks-rust/pull/2150\r\n* chore(deps): update rust docker tag to v1.96.1 by @renovate[bot] in https://github.com/shadowsocks/shadowsocks-rust/pull/2151\r\n* chore(deps): update rust crate rand to v0.10.2 by @renovate[bot] in https://github.com/shadowsocks/shadowsocks-rust/pull/2152\r\n* chore(deps): update rust crate bytes to v1.12.1 by @renovate[bot] in https://github.com/shadowsocks/shadowsocks-rust/pull/2155\r\n* chore(deps): update rust crate spin to v0.12.2 by @renovate[bot] in https://github.com/shadowsocks/shadowsocks-rust/pull/2156\r\n* chore(deps): update rust crate clap to v4.6.4 by @renovate[bot] in https://github.com/shadowsocks/shadowsocks-rust/pull/2159\r\n* chore(deps): update rust crate tun to v0.8.14 by @renovate[bot] in https://github.com/shadowsocks/shadowsocks-rust/pull/2158\r\n* fix(net): make udp batch cfgs match the bsd module routing for tvos/watchos by @gengjiawen in https://github.com/shadowsocks/shadowsocks-rust/pull/2162\r\n* chore(deps): update rust crate clap to v4.6.6 by @renovate[bot] in https://github.com/shadowsocks/shadowsocks-rust/pull/2163\r\n* fix: allow fragmentation for inbound UDP replies by @pengwk in https://github.com/shadowsocks/shadowsocks-rust/pull/2161\r\n* chore(deps): update rust crate blake3 to v1.8.7 by @renovate[bot] in https://github.com/shadowsocks/shadowsocks-rust/pull/2166\r\n* chore(deps): update rust crate log to v0.4.34 by @renovate[bot] in https://github.com/shadowsocks/shadowsocks-rust/pull/2168\r\n* chore(deps): update rust crate spin to v0.12.3 by @renovate[bot] in https://github.com/shadowsocks/shadowsocks-rust/pull/2165\r\n* chore(deps): update rust docker tag to v1.98.0 by @renovate[bot] in https://github.com/shadowsocks/shadowsocks-rust/pull/2167\r\n\r\n## New Contributors\r\n* @arloor made their first contribution in https://github.com/shadowsocks/shadowsocks-rust/pull/2062\r\n* @missdeer made their first contribution in https://github.com/shadowsocks/shadowsocks-rust/pull/2106\r\n* @alex27riva made their first contribution in https://github.com/shadowsocks/shadowsocks-rust/pull/2115\r\n* @TurboTheTurtle made their first contribution in https://github.com/shadowsocks/shadowsocks-rust/pull/2135\r\n* @gengjiawen made their first contribution in https://github.com/shadowsocks/shadowsocks-rust/pull/2162\r\n* @pengwk made their first contribution in https://github.com/shadowsocks/shadowsocks-rust/pull/2161\r\n\r\n**Full Changelog**: https://github.com/shadowsocks/shadowsocks-rust/compare/v1.24.0...v1.25.0",
+    "sourceType": "github_release",
+    "sourceName": "shadowsocks/shadowsocks-rust",
+    "sourceUrl": "https://github.com/shadowsocks/shadowsocks-rust/releases/tag/v1.25.0",
+    "project": "shadowsocks-rust",
+    "repo": "shadowsocks/shadowsocks-rust",
+    "slug": "shadowsocks-rust",
+    "version": "1.25.0",
+    "category": "security",
+    "tags": [
+      "shadowsocks",
+      "rust",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 3,
+    "confidence": 0.85,
+    "isBreaking": true,
+    "isSecurityRelated": true,
+    "isProtocolRelated": true,
+    "publishedAt": "2026-08-26T18:31:35Z",
+    "fetchedAt": "2026-08-26T20:00:54.196Z",
+    "firstSeenAt": "2026-08-26T20:01:07.330Z",
+    "updatedAt": "2026-08-26T20:01:07.330Z",
+    "hash": "08de04993346eafd"
+  },
+  {
+    "id": "b824ca97bdbbe364",
+    "title": "go-gost/gost v3.2.7-nightly.20260826",
+    "summary": "v3.2.7-nightly.20260826",
+    "rawTitle": "v3.2.7-nightly.20260826",
+    "rawBody": "## Changelog\n* 5e40415ac9175a71bdd92a5b17831b1fe889d6af e2e: demux testcontainers exec stream, fix mtls proxy flags, add rtcp filter test\n\n",
+    "sourceType": "github_release",
+    "sourceName": "go-gost/gost",
+    "sourceUrl": "https://github.com/go-gost/gost/releases/tag/v3.2.7-nightly.20260826",
+    "project": "gost",
+    "repo": "go-gost/gost",
+    "slug": "gost",
+    "version": "3.2.7-nightly.20260826",
+    "category": "security",
+    "tags": [
+      "gost",
+      "tunnel",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 3,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": true,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-08-26T16:30:28Z",
+    "fetchedAt": "2026-08-26T20:00:55.915Z",
+    "firstSeenAt": "2026-08-26T20:01:08.141Z",
+    "updatedAt": "2026-08-26T20:01:08.141Z",
+    "hash": "b824ca97bdbbe364"
+  },
+  {
     "id": "54fa34f7f8166d78",
     "title": "v2rayA/v2rayA v2.4.16",
     "summary": "v2.4.16",
@@ -41854,6 +41924,43 @@
     "firstSeenAt": "2026-05-07T04:09:04.362Z",
     "updatedAt": "2026-05-07T04:09:04.362Z",
     "hash": "5e6adb84fbb7f312"
+  },
+  {
+    "id": "6608267ff9f1de98",
+    "title": "MetaCubeX/mihomo Prerelease-Alpha",
+    "summary": "Prerelease-Alpha",
+    "rawTitle": "Prerelease-Alpha",
+    "rawBody": "Release created at  Thu Aug 27 01:27:16 CST 2026\nSynchronize Alpha branch code updates, keeping only the latest version\n<br>\n[我应该下载哪个文件? / Which file should I download?](https://github.com/MetaCubeX/mihomo/wiki/FAQ)\n[二进制文件筛选 / Binary file selector](https://metacubex.github.io/Meta-Docs/startup/#_1)\n[查看文档 / Docs](https://metacubex.github.io/Meta-Docs/)\n\n\n## What's Changed\n* chore: update mieru version by @enfein in https://github.com/MetaCubeX/mihomo/pull/3119\n* fix: typo in config.yaml by @MakostaDev in https://github.com/MetaCubeX/mihomo/pull/3145\n* fix(outbound): prevent nil pointer dereference in WireGuard initializ… by @sinspired in https://github.com/MetaCubeX/mihomo/pull/3148\n\n\n**Full Changelog**: https://github.com/MetaCubeX/mihomo/compare/v1.19.30...Prerelease-Alpha",
+    "sourceType": "github_release",
+    "sourceName": "MetaCubeX/mihomo",
+    "sourceUrl": "https://github.com/MetaCubeX/mihomo/releases/tag/Prerelease-Alpha",
+    "project": "mihomo",
+    "repo": "MetaCubeX/mihomo",
+    "slug": "mihomo",
+    "version": "Prerelease-Alpha",
+    "category": "core",
+    "tags": [
+      "mihomo",
+      "clash",
+      "meta",
+      "wireguard",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 2,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2024-08-12T17:01:02Z",
+    "fetchedAt": "2026-08-26T20:00:52.843Z",
+    "firstSeenAt": "2026-08-26T20:01:06.519Z",
+    "updatedAt": "2026-08-26T20:01:06.519Z",
+    "hash": "6608267ff9f1de98"
   },
   {
     "id": "de86d2d6260db1bd",

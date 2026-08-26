@@ -6,12 +6,12 @@
   },
   {
     "tag": "release",
-    "count": 257,
-    "category": "client"
+    "count": 260,
+    "category": "security"
   },
   {
     "tag": "mihomo",
-    "count": 232,
+    "count": 233,
     "category": "dns_rules"
   },
   {
@@ -106,7 +106,7 @@
   },
   {
     "tag": "clash",
-    "count": 46,
+    "count": 47,
     "category": "ecosystem"
   },
   {
@@ -150,14 +150,14 @@
     "category": "core"
   },
   {
+    "tag": "meta",
+    "count": 41,
+    "category": "security"
+  },
+  {
     "tag": "SagerNet",
     "count": 41,
     "category": "core"
-  },
-  {
-    "tag": "meta",
-    "count": 40,
-    "category": "security"
   },
   {
     "tag": "Linux",
@@ -455,6 +455,11 @@
     "category": "client"
   },
   {
+    "tag": "gost",
+    "count": 10,
+    "category": "security"
+  },
+  {
     "tag": "API",
     "count": 10,
     "category": "ecosystem"
@@ -468,11 +473,6 @@
     "tag": "Docker",
     "count": 10,
     "category": "ecosystem"
-  },
-  {
-    "tag": "gost",
-    "count": 9,
-    "category": "core"
   },
   {
     "tag": "openwrt",
@@ -523,6 +523,16 @@
     "tag": "CBC",
     "count": 9,
     "category": "ecosystem"
+  },
+  {
+    "tag": "shadowsocks",
+    "count": 8,
+    "category": "security"
+  },
+  {
+    "tag": "wireguard",
+    "count": 8,
+    "category": "security"
   },
   {
     "tag": "android",
@@ -590,6 +600,11 @@
     "category": "core"
   },
   {
+    "tag": "rust",
+    "count": 7,
+    "category": "security"
+  },
+  {
     "tag": "v2raya",
     "count": 7,
     "category": "client"
@@ -608,11 +623,6 @@
     "tag": "mosdns",
     "count": 7,
     "category": "router"
-  },
-  {
-    "tag": "wireguard",
-    "count": 7,
-    "category": "security"
   },
   {
     "tag": "Shadowrocket",
@@ -650,9 +660,9 @@
     "category": "ecosystem"
   },
   {
-    "tag": "shadowsocks",
-    "count": 7,
-    "category": "ecosystem"
+    "tag": "tunnel",
+    "count": 6,
+    "category": "security"
   },
   {
     "tag": "v2rayng",
@@ -715,11 +725,6 @@
     "category": "client"
   },
   {
-    "tag": "rust",
-    "count": 6,
-    "category": "core"
-  },
-  {
     "tag": "clash-verge-rev",
     "count": 6,
     "category": "ecosystem"
@@ -728,11 +733,6 @@
     "tag": "openvpn",
     "count": 6,
     "category": "ecosystem"
-  },
-  {
-    "tag": "tunnel",
-    "count": 5,
-    "category": "core"
   },
   {
     "tag": "anytls",

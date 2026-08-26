@@ -1,14 +1,14 @@
 {
-  "totalItems": 1444,
-  "last24h": 11,
-  "last7d": 46,
+  "totalItems": 1447,
+  "last24h": 10,
+  "last7d": 44,
   "byCategory": {
-    "core": 252,
+    "core": 253,
     "client": 258,
     "router": 9,
     "protocol": 57,
     "dns_rules": 137,
-    "security": 37,
+    "security": 39,
     "ecosystem": 694,
     "trend": 0
   },
@@ -19,7 +19,7 @@
     },
     {
       "project": "mihomo",
-      "count": 187
+      "count": 188
     },
     {
       "project": "Sub-Store",
@@ -47,7 +47,7 @@
     },
     {
       "project": "gost",
-      "count": 41
+      "count": 42
     },
     {
       "project": "ClashMetaForAndroid",
@@ -61,11 +61,11 @@
     },
     {
       "tag": "release",
-      "count": 257
+      "count": 260
     },
     {
       "tag": "mihomo",
-      "count": 232
+      "count": 233
     },
     {
       "tag": "v2fly",
@@ -137,7 +137,7 @@
     }
   ],
   "importantCount": 470,
-  "breakingCount": 83,
-  "securityCount": 91,
-  "updatedAt": "2026-08-26T13:18:16.478Z"
+  "breakingCount": 84,
+  "securityCount": 93,
+  "updatedAt": "2026-08-26T20:01:08.477Z"
 }
