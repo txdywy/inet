@@ -6,12 +6,12 @@
   },
   {
     "tag": "release",
-    "count": 260,
-    "category": "security"
+    "count": 263,
+    "category": "dns_rules"
   },
   {
     "tag": "mihomo",
-    "count": 233,
+    "count": 235,
     "category": "dns_rules"
   },
   {
@@ -31,7 +31,7 @@
   },
   {
     "tag": "geosite",
-    "count": 113,
+    "count": 115,
     "category": "dns_rules"
   },
   {
@@ -91,12 +91,12 @@
   },
   {
     "tag": "ruleset",
-    "count": 54,
+    "count": 56,
     "category": "dns_rules"
   },
   {
     "tag": "geoip",
-    "count": 54,
+    "count": 56,
     "category": "dns_rules"
   },
   {
@@ -106,7 +106,7 @@
   },
   {
     "tag": "clash",
-    "count": 47,
+    "count": 48,
     "category": "ecosystem"
   },
   {
@@ -145,14 +145,14 @@
     "category": "security"
   },
   {
+    "tag": "meta",
+    "count": 42,
+    "category": "security"
+  },
+  {
     "tag": "代理工具",
     "count": 42,
     "category": "core"
-  },
-  {
-    "tag": "meta",
-    "count": 41,
-    "category": "security"
   },
   {
     "tag": "SagerNet",
@@ -480,6 +480,11 @@
     "category": "router"
   },
   {
+    "tag": "wireguard",
+    "count": 9,
+    "category": "security"
+  },
+  {
     "tag": "配置管理",
     "count": 9,
     "category": "ecosystem"
@@ -526,11 +531,6 @@
   },
   {
     "tag": "shadowsocks",
-    "count": 8,
-    "category": "security"
-  },
-  {
-    "tag": "wireguard",
     "count": 8,
     "category": "security"
   },

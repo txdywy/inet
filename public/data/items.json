@@ -1,5 +1,78 @@
 [
   {
+    "id": "8057c5be0a3687b4",
+    "title": "MetaCubeX/meta-rules-dat Release 2026-08-27 11:25",
+    "summary": "Release 2026-08-27 11:25",
+    "rawTitle": "Release 2026-08-27 11:25",
+    "rawBody": "",
+    "sourceType": "github_release",
+    "sourceName": "MetaCubeX/meta-rules-dat",
+    "sourceUrl": "https://github.com/MetaCubeX/meta-rules-dat/releases/tag/latest",
+    "project": "meta-rules-dat",
+    "repo": "MetaCubeX/meta-rules-dat",
+    "slug": "meta-rules-dat",
+    "version": "latest",
+    "category": "dns_rules",
+    "tags": [
+      "ruleset",
+      "geosite",
+      "geoip",
+      "mihomo",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-08-27T03:28:07Z",
+    "fetchedAt": "2026-08-27T09:55:03.669Z",
+    "firstSeenAt": "2026-08-27T09:55:07.581Z",
+    "updatedAt": "2026-08-27T09:55:07.581Z",
+    "hash": "8057c5be0a3687b4"
+  },
+  {
+    "id": "8b1b148c4ac15dca",
+    "title": "Loyalsoldier/v2ray-rules-dat Released on 202608270248",
+    "summary": "Released on 202608270248",
+    "rawTitle": "Released on 202608270248",
+    "rawBody": "",
+    "sourceType": "github_release",
+    "sourceName": "Loyalsoldier/v2ray-rules-dat",
+    "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/tag/202608270248",
+    "project": "v2ray-rules-dat",
+    "repo": "Loyalsoldier/v2ray-rules-dat",
+    "slug": "v2ray-rules-dat",
+    "version": "202608270248",
+    "category": "dns_rules",
+    "tags": [
+      "ruleset",
+      "geosite",
+      "geoip",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-08-27T02:48:53Z",
+    "fetchedAt": "2026-08-27T09:55:03.693Z",
+    "firstSeenAt": "2026-08-27T09:55:06.772Z",
+    "updatedAt": "2026-08-27T09:55:06.772Z",
+    "hash": "8b1b148c4ac15dca"
+  },
+  {
     "id": "08de04993346eafd",
     "title": "shadowsocks/shadowsocks-rust v1.25.0",
     "summary": "v1.25.0",
@@ -41924,6 +41997,43 @@
     "firstSeenAt": "2026-05-07T04:09:04.362Z",
     "updatedAt": "2026-05-07T04:09:04.362Z",
     "hash": "5e6adb84fbb7f312"
+  },
+  {
+    "id": "99cf37144366f86f",
+    "title": "MetaCubeX/mihomo Prerelease-Alpha",
+    "summary": "Prerelease-Alpha",
+    "rawTitle": "Prerelease-Alpha",
+    "rawBody": "Release created at  Thu Aug 27 16:12:53 CST 2026\nSynchronize Alpha branch code updates, keeping only the latest version\n<br>\n[我应该下载哪个文件? / Which file should I download?](https://github.com/MetaCubeX/mihomo/wiki/FAQ)\n[二进制文件筛选 / Binary file selector](https://metacubex.github.io/Meta-Docs/startup/#_1)\n[查看文档 / Docs](https://metacubex.github.io/Meta-Docs/)\n\n\n## What's Changed\n* chore: update mieru version by @enfein in https://github.com/MetaCubeX/mihomo/pull/3119\n* fix: typo in config.yaml by @MakostaDev in https://github.com/MetaCubeX/mihomo/pull/3145\n* fix(outbound): prevent nil pointer dereference in WireGuard initializ… by @sinspired in https://github.com/MetaCubeX/mihomo/pull/3148\n\n\n**Full Changelog**: https://github.com/MetaCubeX/mihomo/compare/v1.19.30...Prerelease-Alpha",
+    "sourceType": "github_release",
+    "sourceName": "MetaCubeX/mihomo",
+    "sourceUrl": "https://github.com/MetaCubeX/mihomo/releases/tag/Prerelease-Alpha",
+    "project": "mihomo",
+    "repo": "MetaCubeX/mihomo",
+    "slug": "mihomo",
+    "version": "Prerelease-Alpha",
+    "category": "core",
+    "tags": [
+      "mihomo",
+      "clash",
+      "meta",
+      "wireguard",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 2,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2024-08-12T17:01:02Z",
+    "fetchedAt": "2026-08-27T09:54:51.564Z",
+    "firstSeenAt": "2026-08-27T09:55:05.964Z",
+    "updatedAt": "2026-08-27T09:55:05.964Z",
+    "hash": "99cf37144366f86f"
   },
   {
     "id": "6608267ff9f1de98",
