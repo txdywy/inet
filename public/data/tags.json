@@ -6,7 +6,7 @@
   },
   {
     "tag": "release",
-    "count": 263,
+    "count": 267,
     "category": "dns_rules"
   },
   {
@@ -21,18 +21,18 @@
   },
   {
     "tag": "domain-list",
-    "count": 127,
+    "count": 131,
+    "category": "dns_rules"
+  },
+  {
+    "tag": "geosite",
+    "count": 119,
     "category": "dns_rules"
   },
   {
     "tag": "Sub-Store",
     "count": 117,
     "category": "ecosystem"
-  },
-  {
-    "tag": "geosite",
-    "count": 115,
-    "category": "dns_rules"
   },
   {
     "tag": "domain-list-community",

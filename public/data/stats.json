@@ -1,13 +1,13 @@
 {
-  "totalItems": 1450,
-  "last24h": 5,
-  "last7d": 43,
+  "totalItems": 1454,
+  "last24h": 7,
+  "last7d": 47,
   "byCategory": {
     "core": 254,
     "client": 258,
     "router": 9,
     "protocol": 57,
-    "dns_rules": 139,
+    "dns_rules": 143,
     "security": 39,
     "ecosystem": 694,
     "trend": 0
@@ -15,7 +15,7 @@
   "topProjects": [
     {
       "project": "domain-list-community",
-      "count": 257
+      "count": 261
     },
     {
       "project": "mihomo",
@@ -61,7 +61,7 @@
     },
     {
       "tag": "release",
-      "count": 263
+      "count": 267
     },
     {
       "tag": "mihomo",
@@ -73,15 +73,15 @@
     },
     {
       "tag": "domain-list",
-      "count": 127
+      "count": 131
+    },
+    {
+      "tag": "geosite",
+      "count": 119
     },
     {
       "tag": "Sub-Store",
       "count": 117
-    },
-    {
-      "tag": "geosite",
-      "count": 115
     },
     {
       "tag": "domain-list-community",
@@ -136,8 +136,8 @@
       "count": 56
     }
   ],
-  "importantCount": 472,
+  "importantCount": 476,
   "breakingCount": 84,
   "securityCount": 93,
-  "updatedAt": "2026-08-27T09:55:08.044Z"
+  "updatedAt": "2026-08-27T17:40:49.125Z"
 }
