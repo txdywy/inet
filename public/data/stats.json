@@ -1,9 +1,9 @@
 {
-  "totalItems": 1456,
-  "last24h": 6,
+  "totalItems": 1457,
+  "last24h": 3,
   "last7d": 45,
   "byCategory": {
-    "core": 254,
+    "core": 255,
     "client": 258,
     "router": 9,
     "protocol": 57,
@@ -43,7 +43,7 @@
     },
     {
       "project": "sing-box",
-      "count": 56
+      "count": 57
     },
     {
       "project": "gost",
@@ -61,7 +61,7 @@
     },
     {
       "tag": "release",
-      "count": 269
+      "count": 270
     },
     {
       "tag": "mihomo",
@@ -121,7 +121,7 @@
     },
     {
       "tag": "sing-box",
-      "count": 65
+      "count": 66
     },
     {
       "tag": "开发版本",
@@ -136,8 +136,8 @@
       "count": 58
     }
   ],
-  "importantCount": 478,
-  "breakingCount": 84,
+  "importantCount": 479,
+  "breakingCount": 85,
   "securityCount": 93,
-  "updatedAt": "2026-08-28T11:28:57.948Z"
+  "updatedAt": "2026-08-28T18:47:27.617Z"
 }

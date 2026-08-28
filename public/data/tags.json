@@ -6,8 +6,8 @@
   },
   {
     "tag": "release",
-    "count": 269,
-    "category": "dns_rules"
+    "count": 270,
+    "category": "core"
   },
   {
     "tag": "mihomo",
@@ -81,7 +81,7 @@
   },
   {
     "tag": "sing-box",
-    "count": 65,
+    "count": 66,
     "category": "core"
   },
   {
@@ -180,6 +180,11 @@
     "category": "core"
   },
   {
+    "tag": "hysteria2",
+    "count": 34,
+    "category": "core"
+  },
+  {
     "tag": "WireGuard",
     "count": 34,
     "category": "core"
@@ -188,11 +193,6 @@
     "tag": "ClashMetaForAndroid",
     "count": 34,
     "category": "client"
-  },
-  {
-    "tag": "hysteria2",
-    "count": 33,
-    "category": "security"
   },
   {
     "tag": "Snell",
@@ -226,8 +226,8 @@
   },
   {
     "tag": "vless",
-    "count": 26,
-    "category": "ecosystem"
+    "count": 27,
+    "category": "core"
   },
   {
     "tag": "x-ui",
@@ -276,7 +276,7 @@
   },
   {
     "tag": "tuic",
-    "count": 20,
+    "count": 21,
     "category": "core"
   },
   {

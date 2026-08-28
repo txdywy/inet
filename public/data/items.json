@@ -1,5 +1,44 @@
 [
   {
+    "id": "d2745c1821c0a437",
+    "title": "SagerNet/sing-box 1.14.0-rc.2",
+    "summary": "1.14.0-rc.2",
+    "rawTitle": "1.14.0-rc.2",
+    "rawBody": "## :memo: Release Notes\n\n* Migrate Apple platform clients to a new Apple developer account **1**\n* Fixes and improvements\n\n**1**: For the macOS standalone client, profiles and settings are not inherited, see [Migration](https://sing-box.sagernet.org/migration/#migrate-the-macos-standalone-client-data).",
+    "sourceType": "github_release",
+    "sourceName": "SagerNet/sing-box",
+    "sourceUrl": "https://github.com/SagerNet/sing-box/releases/tag/v1.14.0-rc.2",
+    "project": "sing-box",
+    "repo": "SagerNet/sing-box",
+    "slug": "sing-box",
+    "version": "1.14.0-rc.2",
+    "category": "core",
+    "tags": [
+      "sing-box",
+      "vless",
+      "hysteria2",
+      "tuic",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos",
+      "android",
+      "ios"
+    ],
+    "importance": 5,
+    "confidence": 0.7999999999999999,
+    "isBreaking": true,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-08-28T16:47:08Z",
+    "fetchedAt": "2026-08-28T18:47:13.254Z",
+    "firstSeenAt": "2026-08-28T18:47:27.186Z",
+    "updatedAt": "2026-08-28T18:47:27.186Z",
+    "hash": "d2745c1821c0a437"
+  },
+  {
     "id": "b17eb35bd08a6861",
     "title": "MetaCubeX/meta-rules-dat Release 2026-08-28 14:12",
     "summary": "Release 2026-08-28 14:12",
