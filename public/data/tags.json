@@ -6,7 +6,7 @@
   },
   {
     "tag": "release",
-    "count": 277,
+    "count": 278,
     "category": "core"
   },
   {
@@ -425,6 +425,11 @@
     "category": "core"
   },
   {
+    "tag": "gost",
+    "count": 11,
+    "category": "core"
+  },
+  {
     "tag": "wireguard",
     "count": 11,
     "category": "client"
@@ -458,11 +463,6 @@
     "tag": "用户体验",
     "count": 11,
     "category": "client"
-  },
-  {
-    "tag": "gost",
-    "count": 10,
-    "category": "security"
   },
   {
     "tag": "API",
@@ -600,6 +600,11 @@
     "category": "core"
   },
   {
+    "tag": "tunnel",
+    "count": 7,
+    "category": "core"
+  },
+  {
     "tag": "v2rayng",
     "count": 7,
     "category": "security"
@@ -663,11 +668,6 @@
     "tag": "luci-app-mosdns",
     "count": 7,
     "category": "ecosystem"
-  },
-  {
-    "tag": "tunnel",
-    "count": 6,
-    "category": "security"
   },
   {
     "tag": "安全更新",

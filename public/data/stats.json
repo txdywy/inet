@@ -1,9 +1,9 @@
 {
-  "totalItems": 1464,
+  "totalItems": 1465,
   "last24h": 7,
-  "last7d": 44,
+  "last7d": 45,
   "byCategory": {
-    "core": 258,
+    "core": 259,
     "client": 259,
     "router": 9,
     "protocol": 57,
@@ -47,7 +47,7 @@
     },
     {
       "project": "gost",
-      "count": 42
+      "count": 43
     },
     {
       "project": "ClashMetaForAndroid",
@@ -61,7 +61,7 @@
     },
     {
       "tag": "release",
-      "count": 277
+      "count": 278
     },
     {
       "tag": "mihomo",
@@ -139,5 +139,5 @@
   "importantCount": 484,
   "breakingCount": 85,
   "securityCount": 94,
-  "updatedAt": "2026-08-29T16:45:14.296Z"
+  "updatedAt": "2026-08-29T20:53:31.659Z"
 }
