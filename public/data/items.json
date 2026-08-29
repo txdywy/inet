@@ -1,5 +1,44 @@
 [
   {
+    "id": "b9ddcb67746fa53c",
+    "title": "SagerNet/sing-box 1.14.0-rc.4",
+    "summary": "1.14.0-rc.4",
+    "rawTitle": "1.14.0-rc.4",
+    "rawBody": "## :memo: Release Notes\n\n* Fixes and improvements",
+    "sourceType": "github_release",
+    "sourceName": "SagerNet/sing-box",
+    "sourceUrl": "https://github.com/SagerNet/sing-box/releases/tag/v1.14.0-rc.4",
+    "project": "sing-box",
+    "repo": "SagerNet/sing-box",
+    "slug": "sing-box",
+    "version": "1.14.0-rc.4",
+    "category": "core",
+    "tags": [
+      "sing-box",
+      "vless",
+      "hysteria2",
+      "tuic",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos",
+      "android",
+      "ios"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-08-29T12:54:20Z",
+    "fetchedAt": "2026-08-29T16:44:59.045Z",
+    "firstSeenAt": "2026-08-29T16:45:13.012Z",
+    "updatedAt": "2026-08-29T16:45:13.012Z",
+    "hash": "b9ddcb67746fa53c"
+  },
+  {
     "id": "84f229b11b76edc9",
     "title": "SagerNet/sing-box 1.13.20",
     "summary": "1.13.20",
@@ -42431,6 +42470,43 @@
     "firstSeenAt": "2026-05-07T04:09:04.362Z",
     "updatedAt": "2026-05-07T04:09:04.362Z",
     "hash": "5e6adb84fbb7f312"
+  },
+  {
+    "id": "90ebffa23aefefbb",
+    "title": "MetaCubeX/mihomo Prerelease-Alpha",
+    "summary": "Prerelease-Alpha",
+    "rawTitle": "Prerelease-Alpha",
+    "rawBody": "Release created at  Sat Aug 29 21:41:51 CST 2026\nSynchronize Alpha branch code updates, keeping only the latest version\n<br>\n[我应该下载哪个文件? / Which file should I download?](https://github.com/MetaCubeX/mihomo/wiki/FAQ)\n[二进制文件筛选 / Binary file selector](https://metacubex.github.io/Meta-Docs/startup/#_1)\n[查看文档 / Docs](https://metacubex.github.io/Meta-Docs/)\n\n\n## What's Changed\n* chore: update mieru version by @enfein in https://github.com/MetaCubeX/mihomo/pull/3119\n* fix: typo in config.yaml by @MakostaDev in https://github.com/MetaCubeX/mihomo/pull/3145\n* fix(outbound): prevent nil pointer dereference in WireGuard initializ… by @sinspired in https://github.com/MetaCubeX/mihomo/pull/3148\n* chore: reduce memory usage in converter by @beck-8 in https://github.com/MetaCubeX/mihomo/pull/3159\n\n\n**Full Changelog**: https://github.com/MetaCubeX/mihomo/compare/v1.19.30...Prerelease-Alpha",
+    "sourceType": "github_release",
+    "sourceName": "MetaCubeX/mihomo",
+    "sourceUrl": "https://github.com/MetaCubeX/mihomo/releases/tag/Prerelease-Alpha",
+    "project": "mihomo",
+    "repo": "MetaCubeX/mihomo",
+    "slug": "mihomo",
+    "version": "Prerelease-Alpha",
+    "category": "core",
+    "tags": [
+      "mihomo",
+      "clash",
+      "meta",
+      "wireguard",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 2,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2024-08-12T17:01:02Z",
+    "fetchedAt": "2026-08-29T16:44:58.971Z",
+    "firstSeenAt": "2026-08-29T16:45:13.834Z",
+    "updatedAt": "2026-08-29T16:45:13.834Z",
+    "hash": "90ebffa23aefefbb"
   },
   {
     "id": "99cf37144366f86f",

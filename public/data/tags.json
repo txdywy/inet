@@ -6,12 +6,12 @@
   },
   {
     "tag": "release",
-    "count": 275,
+    "count": 277,
     "category": "core"
   },
   {
     "tag": "mihomo",
-    "count": 237,
+    "count": 238,
     "category": "dns_rules"
   },
   {
@@ -76,7 +76,7 @@
   },
   {
     "tag": "sing-box",
-    "count": 67,
+    "count": 68,
     "category": "core"
   },
   {
@@ -106,7 +106,7 @@
   },
   {
     "tag": "clash",
-    "count": 48,
+    "count": 49,
     "category": "ecosystem"
   },
   {
@@ -140,14 +140,14 @@
     "category": "client"
   },
   {
+    "tag": "meta",
+    "count": 43,
+    "category": "security"
+  },
+  {
     "tag": "dat",
     "count": 43,
     "category": "ecosystem"
-  },
-  {
-    "tag": "meta",
-    "count": 42,
-    "category": "security"
   },
   {
     "tag": "代理工具",
@@ -170,6 +170,11 @@
     "category": "client"
   },
   {
+    "tag": "hysteria2",
+    "count": 36,
+    "category": "core"
+  },
+  {
     "tag": "xhttp",
     "count": 36,
     "category": "security"
@@ -177,11 +182,6 @@
   {
     "tag": "go-gost",
     "count": 36,
-    "category": "core"
-  },
-  {
-    "tag": "hysteria2",
-    "count": 35,
     "category": "core"
   },
   {
@@ -215,6 +215,11 @@
     "category": "core"
   },
   {
+    "tag": "vless",
+    "count": 29,
+    "category": "core"
+  },
+  {
     "tag": "v2rayN",
     "count": 29,
     "category": "security"
@@ -223,11 +228,6 @@
     "tag": "自动化构建",
     "count": 29,
     "category": "ecosystem"
-  },
-  {
-    "tag": "vless",
-    "count": 28,
-    "category": "core"
   },
   {
     "tag": "x-ui",
@@ -255,6 +255,11 @@
     "category": "protocol"
   },
   {
+    "tag": "tuic",
+    "count": 23,
+    "category": "core"
+  },
+  {
     "tag": "依赖更新",
     "count": 23,
     "category": "ecosystem"
@@ -263,11 +268,6 @@
     "tag": "VLESS",
     "count": 23,
     "category": "ecosystem"
-  },
-  {
-    "tag": "tuic",
-    "count": 22,
-    "category": "core"
   },
   {
     "tag": "用户界面",
@@ -425,6 +425,11 @@
     "category": "core"
   },
   {
+    "tag": "wireguard",
+    "count": 11,
+    "category": "client"
+  },
+  {
     "tag": "TUN",
     "count": 11,
     "category": "client"
@@ -452,11 +457,6 @@
   {
     "tag": "用户体验",
     "count": 11,
-    "category": "client"
-  },
-  {
-    "tag": "wireguard",
-    "count": 10,
     "category": "client"
   },
   {
