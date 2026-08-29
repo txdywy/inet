@@ -1,14 +1,14 @@
 {
-  "totalItems": 1460,
-  "last24h": 4,
-  "last7d": 43,
+  "totalItems": 1462,
+  "last24h": 6,
+  "last7d": 44,
   "byCategory": {
-    "core": 255,
+    "core": 256,
     "client": 259,
     "router": 9,
     "protocol": 57,
     "dns_rules": 147,
-    "security": 39,
+    "security": 40,
     "ecosystem": 694,
     "trend": 0
   },
@@ -43,7 +43,7 @@
     },
     {
       "project": "sing-box",
-      "count": 57
+      "count": 58
     },
     {
       "project": "gost",
@@ -61,7 +61,7 @@
     },
     {
       "tag": "release",
-      "count": 273
+      "count": 275
     },
     {
       "tag": "mihomo",
@@ -116,12 +116,12 @@
       "count": 71
     },
     {
-      "tag": "rules",
+      "tag": "sing-box",
       "count": 67
     },
     {
-      "tag": "sing-box",
-      "count": 66
+      "tag": "rules",
+      "count": 67
     },
     {
       "tag": "ruleset",
@@ -136,8 +136,8 @@
       "count": 59
     }
   ],
-  "importantCount": 482,
+  "importantCount": 483,
   "breakingCount": 85,
-  "securityCount": 93,
-  "updatedAt": "2026-08-29T07:08:46.544Z"
+  "securityCount": 94,
+  "updatedAt": "2026-08-29T12:43:49.833Z"
 }
