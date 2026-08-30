@@ -283,6 +283,22 @@
     ]
   },
   {
+    "slug": "luci-app-mosdns",
+    "name": "luci-app-mosdns",
+    "repo": "sbwml/luci-app-mosdns",
+    "description": "OpenWrt / 路由器固件及插件",
+    "category": "router",
+    "platforms": [
+      "openwrt",
+      "router"
+    ],
+    "tags": [
+      "mosdns",
+      "openwrt",
+      "dns"
+    ]
+  },
+  {
     "slug": "tailscale",
     "name": "tailscale",
     "repo": "tailscale/tailscale",
@@ -299,22 +315,6 @@
       "tailscale",
       "wireguard",
       "mesh"
-    ]
-  },
-  {
-    "slug": "luci-app-mosdns",
-    "name": "luci-app-mosdns",
-    "repo": "sbwml/luci-app-mosdns",
-    "description": "OpenWrt / 路由器固件及插件",
-    "category": "router",
-    "platforms": [
-      "openwrt",
-      "router"
-    ],
-    "tags": [
-      "mosdns",
-      "openwrt",
-      "dns"
     ]
   },
   {

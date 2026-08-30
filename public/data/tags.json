@@ -6,12 +6,12 @@
   },
   {
     "tag": "release",
-    "count": 278,
-    "category": "core"
+    "count": 281,
+    "category": "router"
   },
   {
     "tag": "mihomo",
-    "count": 238,
+    "count": 239,
     "category": "dns_rules"
   },
   {
@@ -26,7 +26,7 @@
   },
   {
     "tag": "geosite",
-    "count": 123,
+    "count": 125,
     "category": "dns_rules"
   },
   {
@@ -86,12 +86,12 @@
   },
   {
     "tag": "ruleset",
-    "count": 60,
+    "count": 62,
     "category": "dns_rules"
   },
   {
     "tag": "geoip",
-    "count": 60,
+    "count": 62,
     "category": "dns_rules"
   },
   {
@@ -310,6 +310,11 @@
     "category": "core"
   },
   {
+    "tag": "dns",
+    "count": 17,
+    "category": "router"
+  },
+  {
     "tag": "TLS",
     "count": 17,
     "category": "ecosystem"
@@ -328,11 +333,6 @@
     "tag": "TLSAuth",
     "count": 17,
     "category": "client"
-  },
-  {
-    "tag": "dns",
-    "count": 16,
-    "category": "router"
   },
   {
     "tag": "naiveproxy",
@@ -465,6 +465,11 @@
     "category": "client"
   },
   {
+    "tag": "openwrt",
+    "count": 10,
+    "category": "router"
+  },
+  {
     "tag": "API",
     "count": 10,
     "category": "ecosystem"
@@ -483,11 +488,6 @@
     "tag": "android",
     "count": 9,
     "category": "security"
-  },
-  {
-    "tag": "openwrt",
-    "count": 9,
-    "category": "router"
   },
   {
     "tag": "配置管理",
@@ -533,6 +533,11 @@
     "tag": "CBC",
     "count": 9,
     "category": "ecosystem"
+  },
+  {
+    "tag": "mosdns",
+    "count": 8,
+    "category": "router"
   },
   {
     "tag": "shadowsocks",
@@ -628,11 +633,6 @@
     "tag": "transparent-proxy",
     "count": 7,
     "category": "client"
-  },
-  {
-    "tag": "mosdns",
-    "count": 7,
-    "category": "router"
   },
   {
     "tag": "Shadowrocket",
