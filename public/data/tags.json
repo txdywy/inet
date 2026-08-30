@@ -6,8 +6,8 @@
   },
   {
     "tag": "release",
-    "count": 288,
-    "category": "core"
+    "count": 294,
+    "category": "router"
   },
   {
     "tag": "mihomo",
@@ -21,12 +21,12 @@
   },
   {
     "tag": "domain-list",
-    "count": 131,
+    "count": 136,
     "category": "dns_rules"
   },
   {
     "tag": "geosite",
-    "count": 125,
+    "count": 130,
     "category": "dns_rules"
   },
   {
@@ -290,6 +290,11 @@
     "category": "core"
   },
   {
+    "tag": "dns",
+    "count": 19,
+    "category": "router"
+  },
+  {
     "tag": "macOS",
     "count": 19,
     "category": "client"
@@ -298,11 +303,6 @@
     "tag": "CHACHA20-POLY1305",
     "count": 19,
     "category": "ecosystem"
-  },
-  {
-    "tag": "dns",
-    "count": 18,
-    "category": "router"
   },
   {
     "tag": "v2rayNG",
@@ -420,6 +420,11 @@
     "category": "client"
   },
   {
+    "tag": "openwrt",
+    "count": 12,
+    "category": "router"
+  },
+  {
     "tag": "gost",
     "count": 12,
     "category": "core"
@@ -428,11 +433,6 @@
     "tag": "HTTP",
     "count": 12,
     "category": "core"
-  },
-  {
-    "tag": "openwrt",
-    "count": 11,
-    "category": "router"
   },
   {
     "tag": "wireguard",
@@ -470,6 +470,11 @@
     "category": "client"
   },
   {
+    "tag": "mosdns",
+    "count": 10,
+    "category": "router"
+  },
+  {
     "tag": "API",
     "count": 10,
     "category": "ecosystem"
@@ -483,11 +488,6 @@
     "tag": "Docker",
     "count": 10,
     "category": "ecosystem"
-  },
-  {
-    "tag": "mosdns",
-    "count": 9,
-    "category": "router"
   },
   {
     "tag": "android",
