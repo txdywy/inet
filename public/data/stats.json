@@ -1,6 +1,6 @@
 {
   "totalItems": 1481,
-  "last24h": 17,
+  "last24h": 16,
   "last7d": 57,
   "byCategory": {
     "core": 262,
@@ -139,5 +139,5 @@
   "importantCount": 497,
   "breakingCount": 85,
   "securityCount": 95,
-  "updatedAt": "2026-08-30T16:44:13.052Z"
+  "updatedAt": "2026-08-30T21:01:35.395Z"
 }
