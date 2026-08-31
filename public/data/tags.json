@@ -6,12 +6,12 @@
   },
   {
     "tag": "release",
-    "count": 294,
-    "category": "router"
+    "count": 299,
+    "category": "security"
   },
   {
     "tag": "mihomo",
-    "count": 239,
+    "count": 240,
     "category": "dns_rules"
   },
   {
@@ -26,7 +26,7 @@
   },
   {
     "tag": "geosite",
-    "count": 130,
+    "count": 132,
     "category": "dns_rules"
   },
   {
@@ -70,14 +70,14 @@
     "category": "protocol"
   },
   {
+    "tag": "sing-box",
+    "count": 71,
+    "category": "security"
+  },
+  {
     "tag": "网络代理",
     "count": 71,
     "category": "ecosystem"
-  },
-  {
-    "tag": "sing-box",
-    "count": 70,
-    "category": "core"
   },
   {
     "tag": "rules",
@@ -86,12 +86,12 @@
   },
   {
     "tag": "ruleset",
-    "count": 62,
+    "count": 64,
     "category": "dns_rules"
   },
   {
     "tag": "geoip",
-    "count": 62,
+    "count": 64,
     "category": "dns_rules"
   },
   {
@@ -110,6 +110,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "quic",
+    "count": 46,
+    "category": "security"
+  },
+  {
     "tag": "开源",
     "count": 46,
     "category": "core"
@@ -118,11 +123,6 @@
     "tag": "代理",
     "count": 46,
     "category": "ecosystem"
-  },
-  {
-    "tag": "quic",
-    "count": 45,
-    "category": "core"
   },
   {
     "tag": "xray-core",
@@ -161,8 +161,8 @@
   },
   {
     "tag": "hysteria2",
-    "count": 38,
-    "category": "core"
+    "count": 39,
+    "category": "security"
   },
   {
     "tag": "Linux",
@@ -205,14 +205,14 @@
     "category": "core"
   },
   {
+    "tag": "vless",
+    "count": 32,
+    "category": "security"
+  },
+  {
     "tag": "自动构建",
     "count": 32,
     "category": "ecosystem"
-  },
-  {
-    "tag": "vless",
-    "count": 31,
-    "category": "core"
   },
   {
     "tag": "Tailscale",
@@ -230,6 +230,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "tuic",
+    "count": 26,
+    "category": "security"
+  },
+  {
     "tag": "x-ui",
     "count": 26,
     "category": "security"
@@ -243,11 +248,6 @@
     "tag": "DNS",
     "count": 26,
     "category": "dns_rules"
-  },
-  {
-    "tag": "tuic",
-    "count": 25,
-    "category": "core"
   },
   {
     "tag": "网络工具",
@@ -280,6 +280,11 @@
     "category": "core"
   },
   {
+    "tag": "dns",
+    "count": 20,
+    "category": "router"
+  },
+  {
     "tag": "QUIC",
     "count": 20,
     "category": "ecosystem"
@@ -290,11 +295,6 @@
     "category": "core"
   },
   {
-    "tag": "dns",
-    "count": 19,
-    "category": "router"
-  },
-  {
     "tag": "macOS",
     "count": 19,
     "category": "client"
@@ -302,6 +302,16 @@
   {
     "tag": "CHACHA20-POLY1305",
     "count": 19,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "sub-store",
+    "count": 18,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "subscription",
+    "count": 18,
     "category": "ecosystem"
   },
   {
@@ -315,14 +325,9 @@
     "category": "core"
   },
   {
-    "tag": "sub-store",
+    "tag": "naiveproxy",
     "count": 17,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "subscription",
-    "count": 17,
-    "category": "ecosystem"
+    "category": "security"
   },
   {
     "tag": "TLS",
@@ -345,9 +350,9 @@
     "category": "client"
   },
   {
-    "tag": "naiveproxy",
+    "tag": "snell",
     "count": 16,
-    "category": "core"
+    "category": "security"
   },
   {
     "tag": "域名",
@@ -367,11 +372,6 @@
   {
     "tag": "Alpha",
     "count": 16,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "snell",
-    "count": 15,
     "category": "ecosystem"
   },
   {
@@ -405,6 +405,11 @@
     "category": "core"
   },
   {
+    "tag": "openwrt",
+    "count": 13,
+    "category": "router"
+  },
+  {
     "tag": "OpenWrt",
     "count": 13,
     "category": "security"
@@ -420,9 +425,9 @@
     "category": "client"
   },
   {
-    "tag": "openwrt",
+    "tag": "wireguard",
     "count": 12,
-    "category": "router"
+    "category": "security"
   },
   {
     "tag": "gost",
@@ -435,9 +440,9 @@
     "category": "core"
   },
   {
-    "tag": "wireguard",
+    "tag": "mosdns",
     "count": 11,
-    "category": "client"
+    "category": "router"
   },
   {
     "tag": "TUN",
@@ -468,11 +473,6 @@
     "tag": "用户体验",
     "count": 11,
     "category": "client"
-  },
-  {
-    "tag": "mosdns",
-    "count": 10,
-    "category": "router"
   },
   {
     "tag": "API",
@@ -735,6 +735,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "grpc",
+    "count": 5,
+    "category": "security"
+  },
+  {
     "tag": "v2rayn",
     "count": 5,
     "category": "client"
@@ -848,11 +853,6 @@
     "tag": "subconverter",
     "count": 5,
     "category": "ecosystem"
-  },
-  {
-    "tag": "grpc",
-    "count": 4,
-    "category": "security"
   },
   {
     "tag": "tailscale",
@@ -1747,6 +1747,11 @@
   {
     "tag": "Quantumult X",
     "count": 2,
+    "category": "security"
+  },
+  {
+    "tag": "http/3",
+    "count": 1,
     "category": "security"
   },
   {
