@@ -1,5 +1,75 @@
 [
   {
+    "id": "a070c0e8c1fca017",
+    "title": "v2fly/domain-list-community 20260831135149",
+    "summary": "20260831135149",
+    "rawTitle": "20260831135149",
+    "rawBody": "## What's Changed\n* gateio: add domains by @npwc in https://github.com/v2fly/domain-list-community/pull/4012\n\n## New Contributors\n* @npwc made their first contribution in https://github.com/v2fly/domain-list-community/pull/4012\n\n**Full Changelog**: https://github.com/v2fly/domain-list-community/compare/20260831133640...20260831135149",
+    "sourceType": "github_release",
+    "sourceName": "v2fly/domain-list-community",
+    "sourceUrl": "https://github.com/v2fly/domain-list-community/releases/tag/20260831135149",
+    "project": "domain-list-community",
+    "repo": "v2fly/domain-list-community",
+    "slug": "domain-list-community",
+    "version": "20260831135149",
+    "category": "dns_rules",
+    "tags": [
+      "geosite",
+      "domain-list",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-08-31T13:51:57Z",
+    "fetchedAt": "2026-08-31T13:59:59.483Z",
+    "firstSeenAt": "2026-08-31T14:00:00.978Z",
+    "updatedAt": "2026-08-31T14:00:00.978Z",
+    "hash": "a070c0e8c1fca017"
+  },
+  {
+    "id": "ba0412e2d807bdd9",
+    "title": "v2fly/domain-list-community 20260831133640",
+    "summary": "20260831133640",
+    "rawTitle": "20260831133640",
+    "rawBody": "## What's Changed\n* feat(vixengroup): add vixengroup domain list and include in category-… by @F50Ci37Y in https://github.com/v2fly/domain-list-community/pull/3994\n\n\n**Full Changelog**: https://github.com/v2fly/domain-list-community/compare/20260830143421...20260831133640",
+    "sourceType": "github_release",
+    "sourceName": "v2fly/domain-list-community",
+    "sourceUrl": "https://github.com/v2fly/domain-list-community/releases/tag/20260831133640",
+    "project": "domain-list-community",
+    "repo": "v2fly/domain-list-community",
+    "slug": "domain-list-community",
+    "version": "20260831133640",
+    "category": "dns_rules",
+    "tags": [
+      "geosite",
+      "domain-list",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 2,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-08-31T13:36:47Z",
+    "fetchedAt": "2026-08-31T13:59:59.483Z",
+    "firstSeenAt": "2026-08-31T14:00:01.789Z",
+    "updatedAt": "2026-08-31T14:00:01.789Z",
+    "hash": "ba0412e2d807bdd9"
+  },
+  {
     "id": "0f85f353c1e26486",
     "title": "SagerNet/sing-box 1.14.0",
     "summary": "1.14.0",
@@ -43272,6 +43342,44 @@
     "firstSeenAt": "2026-05-07T04:09:04.362Z",
     "updatedAt": "2026-05-07T04:09:04.362Z",
     "hash": "5e6adb84fbb7f312"
+  },
+  {
+    "id": "b2cbe3144bd89552",
+    "title": "MetaCubeX/mihomo Prerelease-Alpha",
+    "summary": "Prerelease-Alpha",
+    "rawTitle": "Prerelease-Alpha",
+    "rawBody": "Release created at  Mon Aug 31 15:59:25 CST 2026\nSynchronize Alpha branch code updates, keeping only the latest version\n<br>\n[我应该下载哪个文件? / Which file should I download?](https://github.com/MetaCubeX/mihomo/wiki/FAQ)\n[二进制文件筛选 / Binary file selector](https://metacubex.github.io/Meta-Docs/startup/#_1)\n[查看文档 / Docs](https://metacubex.github.io/Meta-Docs/)\n\n\n## What's Changed\n* chore: update mieru version by @enfein in https://github.com/MetaCubeX/mihomo/pull/3119\n* fix: typo in config.yaml by @MakostaDev in https://github.com/MetaCubeX/mihomo/pull/3145\n* fix(outbound): prevent nil pointer dereference in WireGuard initializ… by @sinspired in https://github.com/MetaCubeX/mihomo/pull/3148\n* chore: reduce memory usage in converter by @beck-8 in https://github.com/MetaCubeX/mihomo/pull/3159\n* fix: ipv6 url parse in xhttp by @CyberVacation in https://github.com/MetaCubeX/mihomo/pull/3160\n\n## New Contributors\n* @CyberVacation made their first contribution in https://github.com/MetaCubeX/mihomo/pull/3160\n\n**Full Changelog**: https://github.com/MetaCubeX/mihomo/compare/v1.19.30...Prerelease-Alpha",
+    "sourceType": "github_release",
+    "sourceName": "MetaCubeX/mihomo",
+    "sourceUrl": "https://github.com/MetaCubeX/mihomo/releases/tag/Prerelease-Alpha",
+    "project": "mihomo",
+    "repo": "MetaCubeX/mihomo",
+    "slug": "mihomo",
+    "version": "Prerelease-Alpha",
+    "category": "core",
+    "tags": [
+      "mihomo",
+      "clash",
+      "meta",
+      "xhttp",
+      "wireguard",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 2,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2024-08-12T17:01:02Z",
+    "fetchedAt": "2026-08-31T13:59:46.972Z",
+    "firstSeenAt": "2026-08-31T14:00:00.167Z",
+    "updatedAt": "2026-08-31T14:00:00.167Z",
+    "hash": "b2cbe3144bd89552"
   },
   {
     "id": "90ebffa23aefefbb",
