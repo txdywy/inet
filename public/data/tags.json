@@ -6,8 +6,8 @@
   },
   {
     "tag": "release",
-    "count": 302,
-    "category": "dns_rules"
+    "count": 307,
+    "category": "ecosystem"
   },
   {
     "tag": "mihomo",
@@ -21,12 +21,12 @@
   },
   {
     "tag": "domain-list",
-    "count": 138,
+    "count": 140,
     "category": "dns_rules"
   },
   {
     "tag": "geosite",
-    "count": 134,
+    "count": 136,
     "category": "dns_rules"
   },
   {
@@ -165,6 +165,11 @@
     "category": "security"
   },
   {
+    "tag": "xhttp",
+    "count": 38,
+    "category": "ecosystem"
+  },
+  {
     "tag": "Linux",
     "count": 38,
     "category": "client"
@@ -173,11 +178,6 @@
     "tag": "Windows",
     "count": 38,
     "category": "client"
-  },
-  {
-    "tag": "xhttp",
-    "count": 37,
-    "category": "security"
   },
   {
     "tag": "go-gost",
@@ -281,7 +281,7 @@
   },
   {
     "tag": "dns",
-    "count": 20,
+    "count": 21,
     "category": "router"
   },
   {
@@ -385,6 +385,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "openwrt",
+    "count": 14,
+    "category": "router"
+  },
+  {
     "tag": "v2rayA",
     "count": 14,
     "category": "client"
@@ -405,14 +410,14 @@
     "category": "core"
   },
   {
+    "tag": "gost",
+    "count": 13,
+    "category": "core"
+  },
+  {
     "tag": "wireguard",
     "count": 13,
     "category": "security"
-  },
-  {
-    "tag": "openwrt",
-    "count": 13,
-    "category": "router"
   },
   {
     "tag": "OpenWrt",
@@ -430,19 +435,14 @@
     "category": "client"
   },
   {
-    "tag": "gost",
+    "tag": "mosdns",
     "count": 12,
-    "category": "core"
+    "category": "router"
   },
   {
     "tag": "HTTP",
     "count": 12,
     "category": "core"
-  },
-  {
-    "tag": "mosdns",
-    "count": 11,
-    "category": "router"
   },
   {
     "tag": "TUN",
@@ -488,6 +488,16 @@
     "tag": "Docker",
     "count": 10,
     "category": "ecosystem"
+  },
+  {
+    "tag": "v2ray-agent",
+    "count": 9,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "tunnel",
+    "count": 9,
+    "category": "core"
   },
   {
     "tag": "android",
@@ -540,11 +550,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "tunnel",
-    "count": 8,
-    "category": "core"
-  },
-  {
     "tag": "shadowsocks",
     "count": 8,
     "category": "security"
@@ -588,11 +593,6 @@
     "tag": "快捷方式",
     "count": 8,
     "category": "client"
-  },
-  {
-    "tag": "v2ray-agent",
-    "count": 8,
-    "category": "core"
   },
   {
     "tag": "Mihomo",
@@ -985,6 +985,11 @@
     "category": "client"
   },
   {
+    "tag": "reality",
+    "count": 3,
+    "category": "ecosystem"
+  },
+  {
     "tag": "vision",
     "count": 3,
     "category": "security"
@@ -1223,11 +1228,6 @@
     "tag": "protocol",
     "count": 3,
     "category": "protocol"
-  },
-  {
-    "tag": "reality",
-    "count": 2,
-    "category": "security"
   },
   {
     "tag": "warp",
@@ -1748,6 +1748,16 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "script",
+    "count": 1,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "vps",
+    "count": 1,
+    "category": "ecosystem"
   },
   {
     "tag": "http/3",
