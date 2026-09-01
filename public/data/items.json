@@ -1,5 +1,42 @@
 [
   {
+    "id": "0869d6f2eadeac9e",
+    "title": "sub-store-org/Sub-Store 2.36.56",
+    "summary": "2.36.56",
+    "rawTitle": "2.36.56",
+    "rawBody": "## <small>2.36.56 (2026-09-01)</small>\n\n* ms s ([0c93d68](https://github.com/sub-store-org/Sub-Store/commit/0c93d68))\n",
+    "sourceType": "github_release",
+    "sourceName": "sub-store-org/Sub-Store",
+    "sourceUrl": "https://github.com/sub-store-org/Sub-Store/releases/tag/2.36.56",
+    "project": "Sub-Store",
+    "repo": "sub-store-org/Sub-Store",
+    "slug": "sub-store",
+    "version": "2.36.56",
+    "category": "ecosystem",
+    "tags": [
+      "sub-store",
+      "subscription",
+      "release"
+    ],
+    "platforms": [
+      "ios",
+      "android",
+      "macos",
+      "windows",
+      "linux"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-09-01T07:20:10Z",
+    "fetchedAt": "2026-09-01T11:44:12.685Z",
+    "firstSeenAt": "2026-09-01T11:44:16.151Z",
+    "updatedAt": "2026-09-01T11:44:16.151Z",
+    "hash": "0869d6f2eadeac9e"
+  },
+  {
     "id": "62180db56e01c7f6",
     "title": "MetaCubeX/meta-rules-dat Release 2026-09-01 09:20",
     "summary": "Release 2026-09-01 09:20",

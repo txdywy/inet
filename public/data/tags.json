@@ -6,8 +6,8 @@
   },
   {
     "tag": "release",
-    "count": 310,
-    "category": "dns_rules"
+    "count": 311,
+    "category": "ecosystem"
   },
   {
     "tag": "mihomo",
@@ -295,6 +295,16 @@
     "category": "core"
   },
   {
+    "tag": "sub-store",
+    "count": 19,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "subscription",
+    "count": 19,
+    "category": "ecosystem"
+  },
+  {
     "tag": "macOS",
     "count": 19,
     "category": "client"
@@ -302,16 +312,6 @@
   {
     "tag": "CHACHA20-POLY1305",
     "count": 19,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "sub-store",
-    "count": 18,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "subscription",
-    "count": 18,
     "category": "ecosystem"
   },
   {

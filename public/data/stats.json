@@ -1,7 +1,7 @@
 {
-  "totalItems": 1497,
-  "last24h": 9,
-  "last7d": 60,
+  "totalItems": 1498,
+  "last24h": 10,
+  "last7d": 61,
   "byCategory": {
     "core": 264,
     "client": 259,
@@ -9,7 +9,7 @@
     "protocol": 57,
     "dns_rules": 162,
     "security": 43,
-    "ecosystem": 698,
+    "ecosystem": 699,
     "trend": 0
   },
   "topProjects": [
@@ -23,7 +23,7 @@
     },
     {
       "project": "Sub-Store",
-      "count": 135
+      "count": 136
     },
     {
       "project": "v2ray-rules-dat",
@@ -61,7 +61,7 @@
     },
     {
       "tag": "release",
-      "count": 310
+      "count": 311
     },
     {
       "tag": "mihomo",
@@ -136,8 +136,8 @@
       "count": 59
     }
   ],
-  "importantCount": 507,
+  "importantCount": 508,
   "breakingCount": 87,
   "securityCount": 97,
-  "updatedAt": "2026-09-01T05:15:33.609Z"
+  "updatedAt": "2026-09-01T11:44:16.539Z"
 }
