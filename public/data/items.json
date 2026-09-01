@@ -1,5 +1,40 @@
 [
   {
+    "id": "8a87324c128dfdb5",
+    "title": "mack-a/v2ray-agent v3.5.22",
+    "summary": "v3.5.22",
+    "rawTitle": "v3.5.22",
+    "rawBody": "fix(订阅): 修复 sing-box Reality 端口变量拼接问题\r\nfix(sing-box): 修复订阅无法使用问题",
+    "sourceType": "github_release",
+    "sourceName": "mack-a/v2ray-agent",
+    "sourceUrl": "https://github.com/mack-a/v2ray-agent/releases/tag/v3.5.22",
+    "project": "v2ray-agent",
+    "repo": "mack-a/v2ray-agent",
+    "slug": "v2ray-agent",
+    "version": "3.5.22",
+    "category": "ecosystem",
+    "tags": [
+      "v2ray-agent",
+      "script",
+      "vps",
+      "reality",
+      "release"
+    ],
+    "platforms": [
+      "linux"
+    ],
+    "importance": 4,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2026-09-01T20:21:05Z",
+    "fetchedAt": "2026-09-01T20:59:50.834Z",
+    "firstSeenAt": "2026-09-01T20:59:54.214Z",
+    "updatedAt": "2026-09-01T20:59:54.214Z",
+    "hash": "8a87324c128dfdb5"
+  },
+  {
     "id": "0869d6f2eadeac9e",
     "title": "sub-store-org/Sub-Store 2.36.56",
     "summary": "2.36.56",

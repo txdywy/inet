@@ -6,7 +6,7 @@
   },
   {
     "tag": "release",
-    "count": 311,
+    "count": 312,
     "category": "ecosystem"
   },
   {
@@ -475,6 +475,11 @@
     "category": "client"
   },
   {
+    "tag": "v2ray-agent",
+    "count": 10,
+    "category": "ecosystem"
+  },
+  {
     "tag": "API",
     "count": 10,
     "category": "ecosystem"
@@ -487,11 +492,6 @@
   {
     "tag": "Docker",
     "count": 10,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "v2ray-agent",
-    "count": 9,
     "category": "ecosystem"
   },
   {
@@ -735,6 +735,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "reality",
+    "count": 5,
+    "category": "ecosystem"
+  },
+  {
     "tag": "grpc",
     "count": 5,
     "category": "security"
@@ -852,11 +857,6 @@
   {
     "tag": "subconverter",
     "count": 5,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "reality",
-    "count": 4,
     "category": "ecosystem"
   },
   {
@@ -1228,6 +1228,16 @@
     "tag": "protocol",
     "count": 3,
     "category": "protocol"
+  },
+  {
+    "tag": "script",
+    "count": 2,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "vps",
+    "count": 2,
+    "category": "ecosystem"
   },
   {
     "tag": "warp",
@@ -1748,16 +1758,6 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
-  },
-  {
-    "tag": "script",
-    "count": 1,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "vps",
-    "count": 1,
-    "category": "ecosystem"
   },
   {
     "tag": "http/3",
