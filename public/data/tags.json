@@ -6,12 +6,12 @@
   },
   {
     "tag": "release",
-    "count": 307,
-    "category": "ecosystem"
+    "count": 310,
+    "category": "dns_rules"
   },
   {
     "tag": "mihomo",
-    "count": 241,
+    "count": 242,
     "category": "dns_rules"
   },
   {
@@ -26,7 +26,7 @@
   },
   {
     "tag": "geosite",
-    "count": 136,
+    "count": 138,
     "category": "dns_rules"
   },
   {
@@ -86,12 +86,12 @@
   },
   {
     "tag": "ruleset",
-    "count": 64,
+    "count": 66,
     "category": "dns_rules"
   },
   {
     "tag": "geoip",
-    "count": 64,
+    "count": 66,
     "category": "dns_rules"
   },
   {
@@ -126,7 +126,7 @@
   },
   {
     "tag": "xray-core",
-    "count": 44,
+    "count": 45,
     "category": "security"
   },
   {
@@ -160,14 +160,14 @@
     "category": "core"
   },
   {
+    "tag": "xhttp",
+    "count": 39,
+    "category": "ecosystem"
+  },
+  {
     "tag": "hysteria2",
     "count": 39,
     "category": "security"
-  },
-  {
-    "tag": "xhttp",
-    "count": 38,
-    "category": "ecosystem"
   },
   {
     "tag": "Linux",
@@ -195,6 +195,11 @@
     "category": "client"
   },
   {
+    "tag": "vless",
+    "count": 33,
+    "category": "security"
+  },
+  {
     "tag": "Snell",
     "count": 33,
     "category": "protocol"
@@ -203,11 +208,6 @@
     "tag": "xhttp-opts",
     "count": 33,
     "category": "core"
-  },
-  {
-    "tag": "vless",
-    "count": 32,
-    "category": "security"
   },
   {
     "tag": "自动构建",
@@ -855,6 +855,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "reality",
+    "count": 4,
+    "category": "ecosystem"
+  },
+  {
     "tag": "tailscale",
     "count": 4,
     "category": "ecosystem"
@@ -983,11 +988,6 @@
     "tag": "nekoray",
     "count": 4,
     "category": "client"
-  },
-  {
-    "tag": "reality",
-    "count": 3,
-    "category": "ecosystem"
   },
   {
     "tag": "vision",
@@ -1823,6 +1823,11 @@
     "tag": "IP检测",
     "count": 1,
     "category": "ecosystem"
+  },
+  {
+    "tag": "xtls",
+    "count": 1,
+    "category": "security"
   },
   {
     "tag": "hopGroup",
