@@ -6,12 +6,12 @@
   },
   {
     "tag": "release",
-    "count": 316,
+    "count": 318,
     "category": "ecosystem"
   },
   {
     "tag": "mihomo",
-    "count": 244,
+    "count": 245,
     "category": "dns_rules"
   },
   {
@@ -101,7 +101,7 @@
   },
   {
     "tag": "clash",
-    "count": 51,
+    "count": 52,
     "category": "ecosystem"
   },
   {
@@ -115,6 +115,16 @@
     "category": "security"
   },
   {
+    "tag": "xray-core",
+    "count": 46,
+    "category": "security"
+  },
+  {
+    "tag": "meta",
+    "count": 46,
+    "category": "security"
+  },
+  {
     "tag": "开源",
     "count": 46,
     "category": "core"
@@ -123,16 +133,6 @@
     "tag": "代理",
     "count": 46,
     "category": "ecosystem"
-  },
-  {
-    "tag": "xray-core",
-    "count": 45,
-    "category": "security"
-  },
-  {
-    "tag": "meta",
-    "count": 45,
-    "category": "security"
   },
   {
     "tag": "网络协议",
@@ -155,14 +155,14 @@
     "category": "core"
   },
   {
+    "tag": "xhttp",
+    "count": 41,
+    "category": "ecosystem"
+  },
+  {
     "tag": "SagerNet",
     "count": 41,
     "category": "core"
-  },
-  {
-    "tag": "xhttp",
-    "count": 40,
-    "category": "ecosystem"
   },
   {
     "tag": "hysteria2",
@@ -230,17 +230,17 @@
     "category": "ecosystem"
   },
   {
-    "tag": "tuic",
-    "count": 26,
-    "category": "security"
-  },
-  {
     "tag": "x-ui",
-    "count": 26,
+    "count": 27,
     "category": "security"
   },
   {
     "tag": "panel",
+    "count": 27,
+    "category": "security"
+  },
+  {
+    "tag": "tuic",
     "count": 26,
     "category": "security"
   },
@@ -375,6 +375,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "wireguard",
+    "count": 15,
+    "category": "security"
+  },
+  {
     "tag": "xray",
     "count": 15,
     "category": "security"
@@ -388,11 +393,6 @@
     "tag": "openwrt",
     "count": 14,
     "category": "router"
-  },
-  {
-    "tag": "wireguard",
-    "count": 14,
-    "category": "security"
   },
   {
     "tag": "v2rayA",
