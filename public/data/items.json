@@ -1,5 +1,78 @@
 [
   {
+    "id": "1e7bddbcd3b33306",
+    "title": "MetaCubeX/meta-rules-dat Release 2026-09-02 08:22",
+    "summary": "Release 2026-09-02 08:22",
+    "rawTitle": "Release 2026-09-02 08:22",
+    "rawBody": "",
+    "sourceType": "github_release",
+    "sourceName": "MetaCubeX/meta-rules-dat",
+    "sourceUrl": "https://github.com/MetaCubeX/meta-rules-dat/releases/tag/latest",
+    "project": "meta-rules-dat",
+    "repo": "MetaCubeX/meta-rules-dat",
+    "slug": "meta-rules-dat",
+    "version": "latest",
+    "category": "dns_rules",
+    "tags": [
+      "ruleset",
+      "geosite",
+      "geoip",
+      "mihomo",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-09-02T00:24:55Z",
+    "fetchedAt": "2026-09-02T04:40:51.899Z",
+    "firstSeenAt": "2026-09-02T04:40:54.852Z",
+    "updatedAt": "2026-09-02T04:40:54.852Z",
+    "hash": "1e7bddbcd3b33306"
+  },
+  {
+    "id": "39be0f25be60e999",
+    "title": "Loyalsoldier/v2ray-rules-dat Released on 202609012343",
+    "summary": "Released on 202609012343",
+    "rawTitle": "Released on 202609012343",
+    "rawBody": "",
+    "sourceType": "github_release",
+    "sourceName": "Loyalsoldier/v2ray-rules-dat",
+    "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/tag/202609012343",
+    "project": "v2ray-rules-dat",
+    "repo": "Loyalsoldier/v2ray-rules-dat",
+    "slug": "v2ray-rules-dat",
+    "version": "202609012343",
+    "category": "dns_rules",
+    "tags": [
+      "ruleset",
+      "geosite",
+      "geoip",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-09-01T23:44:17Z",
+    "fetchedAt": "2026-09-02T04:40:51.928Z",
+    "firstSeenAt": "2026-09-02T04:40:54.041Z",
+    "updatedAt": "2026-09-02T04:40:54.041Z",
+    "hash": "39be0f25be60e999"
+  },
+  {
     "id": "8a87324c128dfdb5",
     "title": "mack-a/v2ray-agent v3.5.22",
     "summary": "v3.5.22",

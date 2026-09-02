@@ -6,12 +6,12 @@
   },
   {
     "tag": "release",
-    "count": 312,
-    "category": "ecosystem"
+    "count": 314,
+    "category": "dns_rules"
   },
   {
     "tag": "mihomo",
-    "count": 242,
+    "count": 243,
     "category": "dns_rules"
   },
   {
@@ -20,13 +20,13 @@
     "category": "ecosystem"
   },
   {
-    "tag": "domain-list",
+    "tag": "geosite",
     "count": 140,
     "category": "dns_rules"
   },
   {
-    "tag": "geosite",
-    "count": 138,
+    "tag": "domain-list",
+    "count": 140,
     "category": "dns_rules"
   },
   {
@@ -80,19 +80,19 @@
     "category": "ecosystem"
   },
   {
-    "tag": "rules",
-    "count": 67,
-    "category": "ecosystem"
-  },
-  {
     "tag": "ruleset",
-    "count": 66,
+    "count": 68,
     "category": "dns_rules"
   },
   {
     "tag": "geoip",
-    "count": 66,
+    "count": 68,
     "category": "dns_rules"
+  },
+  {
+    "tag": "rules",
+    "count": 67,
+    "category": "ecosystem"
   },
   {
     "tag": "开发版本",

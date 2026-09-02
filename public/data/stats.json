@@ -1,13 +1,13 @@
 {
-  "totalItems": 1499,
+  "totalItems": 1501,
   "last24h": 4,
-  "last7d": 58,
+  "last7d": 56,
   "byCategory": {
     "core": 264,
     "client": 259,
     "router": 14,
     "protocol": 57,
-    "dns_rules": 162,
+    "dns_rules": 164,
     "security": 43,
     "ecosystem": 700,
     "trend": 0
@@ -27,11 +27,11 @@
     },
     {
       "project": "v2ray-rules-dat",
-      "count": 124
+      "count": 125
     },
     {
       "project": "meta-rules-dat",
-      "count": 121
+      "count": 122
     },
     {
       "project": "3x-ui",
@@ -61,23 +61,23 @@
     },
     {
       "tag": "release",
-      "count": 312
+      "count": 314
     },
     {
       "tag": "mihomo",
-      "count": 242
+      "count": 243
     },
     {
       "tag": "v2fly",
       "count": 203
     },
     {
-      "tag": "domain-list",
+      "tag": "geosite",
       "count": 140
     },
     {
-      "tag": "geosite",
-      "count": 138
+      "tag": "domain-list",
+      "count": 140
     },
     {
       "tag": "Sub-Store",
@@ -120,24 +120,24 @@
       "count": 71
     },
     {
-      "tag": "rules",
-      "count": 67
-    },
-    {
       "tag": "ruleset",
-      "count": 66
+      "count": 68
     },
     {
       "tag": "geoip",
-      "count": 66
+      "count": 68
+    },
+    {
+      "tag": "rules",
+      "count": 67
     },
     {
       "tag": "开发版本",
       "count": 59
     }
   ],
-  "importantCount": 509,
+  "importantCount": 511,
   "breakingCount": 87,
   "securityCount": 97,
-  "updatedAt": "2026-09-01T20:59:54.637Z"
+  "updatedAt": "2026-09-02T04:40:55.288Z"
 }
