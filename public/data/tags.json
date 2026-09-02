@@ -6,8 +6,8 @@
   },
   {
     "tag": "release",
-    "count": 314,
-    "category": "dns_rules"
+    "count": 315,
+    "category": "ecosystem"
   },
   {
     "tag": "mihomo",
@@ -285,6 +285,16 @@
     "category": "router"
   },
   {
+    "tag": "sub-store",
+    "count": 20,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "subscription",
+    "count": 20,
+    "category": "ecosystem"
+  },
+  {
     "tag": "QUIC",
     "count": 20,
     "category": "ecosystem"
@@ -293,16 +303,6 @@
     "tag": "rematch",
     "count": 20,
     "category": "core"
-  },
-  {
-    "tag": "sub-store",
-    "count": 19,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "subscription",
-    "count": 19,
-    "category": "ecosystem"
   },
   {
     "tag": "macOS",

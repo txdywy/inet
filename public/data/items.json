@@ -1,5 +1,42 @@
 [
   {
+    "id": "aad1e9fd8fa718d3",
+    "title": "sub-store-org/Sub-Store 2.36.57",
+    "summary": "2.36.57",
+    "rawTitle": "2.36.57",
+    "rawBody": "## <small>2.36.57 (2026-09-02)</small>\n\n* feat: GEO 数据补全 ([bc56515](https://github.com/sub-store-org/Sub-Store/commit/bc56515))\n",
+    "sourceType": "github_release",
+    "sourceName": "sub-store-org/Sub-Store",
+    "sourceUrl": "https://github.com/sub-store-org/Sub-Store/releases/tag/2.36.57",
+    "project": "Sub-Store",
+    "repo": "sub-store-org/Sub-Store",
+    "slug": "sub-store",
+    "version": "2.36.57",
+    "category": "ecosystem",
+    "tags": [
+      "sub-store",
+      "subscription",
+      "release"
+    ],
+    "platforms": [
+      "ios",
+      "android",
+      "macos",
+      "windows",
+      "linux"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-09-02T08:47:02Z",
+    "fetchedAt": "2026-09-02T11:25:05.871Z",
+    "firstSeenAt": "2026-09-02T11:25:09.286Z",
+    "updatedAt": "2026-09-02T11:25:09.286Z",
+    "hash": "aad1e9fd8fa718d3"
+  },
+  {
     "id": "1e7bddbcd3b33306",
     "title": "MetaCubeX/meta-rules-dat Release 2026-09-02 08:22",
     "summary": "Release 2026-09-02 08:22",
