@@ -1,9 +1,9 @@
 {
-  "totalItems": 1502,
+  "totalItems": 1503,
   "last24h": 4,
-  "last7d": 54,
+  "last7d": 52,
   "byCategory": {
-    "core": 264,
+    "core": 265,
     "client": 259,
     "router": 14,
     "protocol": 57,
@@ -19,7 +19,7 @@
     },
     {
       "project": "mihomo",
-      "count": 191
+      "count": 192
     },
     {
       "project": "Sub-Store",
@@ -61,11 +61,11 @@
     },
     {
       "tag": "release",
-      "count": 315
+      "count": 316
     },
     {
       "tag": "mihomo",
-      "count": 243
+      "count": 244
     },
     {
       "tag": "v2fly",
@@ -139,5 +139,5 @@
   "importantCount": 512,
   "breakingCount": 87,
   "securityCount": 97,
-  "updatedAt": "2026-09-02T11:25:09.745Z"
+  "updatedAt": "2026-09-02T16:38:00.237Z"
 }
