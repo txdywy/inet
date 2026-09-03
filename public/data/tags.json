@@ -1,12 +1,12 @@
 [
   {
-    "tag": "MetaCubeX",
-    "count": 322,
+    "tag": "release",
+    "count": 323,
     "category": "ecosystem"
   },
   {
-    "tag": "release",
-    "count": 321,
+    "tag": "MetaCubeX",
+    "count": 322,
     "category": "ecosystem"
   },
   {
@@ -110,12 +110,12 @@
     "category": "client"
   },
   {
-    "tag": "quic",
-    "count": 46,
+    "tag": "xray-core",
+    "count": 47,
     "category": "security"
   },
   {
-    "tag": "xray-core",
+    "tag": "quic",
     "count": 46,
     "category": "security"
   },
@@ -231,12 +231,12 @@
   },
   {
     "tag": "x-ui",
-    "count": 27,
+    "count": 28,
     "category": "security"
   },
   {
     "tag": "panel",
-    "count": 27,
+    "count": 28,
     "category": "security"
   },
   {
@@ -270,6 +270,16 @@
     "category": "ecosystem"
   },
   {
+    "tag": "sub-store",
+    "count": 22,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "subscription",
+    "count": 22,
+    "category": "ecosystem"
+  },
+  {
     "tag": "用户界面",
     "count": 22,
     "category": "client"
@@ -278,16 +288,6 @@
     "tag": "Xray-core",
     "count": 22,
     "category": "core"
-  },
-  {
-    "tag": "sub-store",
-    "count": 21,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "subscription",
-    "count": 21,
-    "category": "ecosystem"
   },
   {
     "tag": "dns",
