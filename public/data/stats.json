@@ -1,7 +1,7 @@
 {
-  "totalItems": 1510,
-  "last24h": 4,
-  "last7d": 49,
+  "totalItems": 1512,
+  "last24h": 5,
+  "last7d": 50,
   "byCategory": {
     "core": 266,
     "client": 259,
@@ -9,7 +9,7 @@
     "protocol": 57,
     "dns_rules": 166,
     "security": 43,
-    "ecosystem": 705,
+    "ecosystem": 707,
     "trend": 0
   },
   "topProjects": [
@@ -35,7 +35,7 @@
     },
     {
       "project": "3x-ui",
-      "count": 111
+      "count": 112
     },
     {
       "project": "metacubexd",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "release",
-      "count": 323
+      "count": 325
     },
     {
       "tag": "MetaCubeX",
@@ -136,8 +136,8 @@
       "count": 59
     }
   ],
-  "importantCount": 517,
+  "importantCount": 519,
   "breakingCount": 87,
   "securityCount": 97,
-  "updatedAt": "2026-09-03T16:28:50.979Z"
+  "updatedAt": "2026-09-03T20:59:35.443Z"
 }

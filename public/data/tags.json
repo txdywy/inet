@@ -1,7 +1,7 @@
 [
   {
     "tag": "release",
-    "count": 323,
+    "count": 325,
     "category": "ecosystem"
   },
   {
@@ -111,7 +111,7 @@
   },
   {
     "tag": "xray-core",
-    "count": 47,
+    "count": 48,
     "category": "security"
   },
   {
@@ -220,6 +220,16 @@
     "category": "core"
   },
   {
+    "tag": "x-ui",
+    "count": 29,
+    "category": "security"
+  },
+  {
+    "tag": "panel",
+    "count": 29,
+    "category": "security"
+  },
+  {
     "tag": "v2rayN",
     "count": 29,
     "category": "security"
@@ -228,16 +238,6 @@
     "tag": "自动化构建",
     "count": 29,
     "category": "ecosystem"
-  },
-  {
-    "tag": "x-ui",
-    "count": 28,
-    "category": "security"
-  },
-  {
-    "tag": "panel",
-    "count": 28,
-    "category": "security"
   },
   {
     "tag": "tuic",
@@ -445,6 +445,11 @@
     "category": "core"
   },
   {
+    "tag": "v2ray-agent",
+    "count": 11,
+    "category": "ecosystem"
+  },
+  {
     "tag": "TUN",
     "count": 11,
     "category": "client"
@@ -473,11 +478,6 @@
     "tag": "用户体验",
     "count": 11,
     "category": "client"
-  },
-  {
-    "tag": "v2ray-agent",
-    "count": 10,
-    "category": "ecosystem"
   },
   {
     "tag": "API",
@@ -990,6 +990,16 @@
     "category": "client"
   },
   {
+    "tag": "script",
+    "count": 3,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "vps",
+    "count": 3,
+    "category": "ecosystem"
+  },
+  {
     "tag": "vision",
     "count": 3,
     "category": "security"
@@ -1228,16 +1238,6 @@
     "tag": "protocol",
     "count": 3,
     "category": "protocol"
-  },
-  {
-    "tag": "script",
-    "count": 2,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "vps",
-    "count": 2,
-    "category": "ecosystem"
   },
   {
     "tag": "warp",
