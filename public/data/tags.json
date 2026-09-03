@@ -6,8 +6,8 @@
   },
   {
     "tag": "release",
-    "count": 320,
-    "category": "dns_rules"
+    "count": 321,
+    "category": "ecosystem"
   },
   {
     "tag": "mihomo",
@@ -280,19 +280,19 @@
     "category": "core"
   },
   {
-    "tag": "dns",
-    "count": 21,
-    "category": "router"
-  },
-  {
     "tag": "sub-store",
-    "count": 20,
+    "count": 21,
     "category": "ecosystem"
   },
   {
     "tag": "subscription",
-    "count": 20,
+    "count": 21,
     "category": "ecosystem"
+  },
+  {
+    "tag": "dns",
+    "count": 21,
+    "category": "router"
   },
   {
     "tag": "QUIC",
