@@ -1,5 +1,42 @@
 [
   {
+    "id": "3b7bcbbaf443f4ac",
+    "title": "sub-store-org/Sub-Store 2.38.2",
+    "summary": "2.38.2",
+    "rawTitle": "2.38.2",
+    "rawBody": "## <small>2.38.2 (2026-09-04)</small>\n\n* feat: 支持订阅/文件级别的禁用缓存 ([b2b2e7d](https://github.com/sub-store-org/Sub-Store/commit/b2b2e7d))\n",
+    "sourceType": "github_release",
+    "sourceName": "sub-store-org/Sub-Store",
+    "sourceUrl": "https://github.com/sub-store-org/Sub-Store/releases/tag/2.38.2",
+    "project": "Sub-Store",
+    "repo": "sub-store-org/Sub-Store",
+    "slug": "sub-store",
+    "version": "2.38.2",
+    "category": "ecosystem",
+    "tags": [
+      "sub-store",
+      "subscription",
+      "release"
+    ],
+    "platforms": [
+      "ios",
+      "android",
+      "macos",
+      "windows",
+      "linux"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-09-04T14:37:46Z",
+    "fetchedAt": "2026-09-04T16:25:01.245Z",
+    "firstSeenAt": "2026-09-04T16:25:06.384Z",
+    "updatedAt": "2026-09-04T16:25:06.384Z",
+    "hash": "3b7bcbbaf443f4ac"
+  },
+  {
     "id": "8d1079f1d26f5cbd",
     "title": "v2rayA/v2rayA v2.4.17",
     "summary": "v2.4.17",
@@ -20096,6 +20133,40 @@
     "firstSeenAt": "2026-06-25T04:36:16.426Z",
     "updatedAt": "2026-06-25T04:36:16.426Z",
     "hash": "e54a070ca4e6a5bf"
+  },
+  {
+    "id": "a379c0c00e2f47e8",
+    "title": "MHSanaei/3x-ui Dev build ed6bc1d8",
+    "summary": "Dev build ed6bc1d8",
+    "rawTitle": "Dev build ed6bc1d8",
+    "rawBody": "Rolling development build — installs via the panel's Dev update channel.\n\ncommit=ed6bc1d898a982d318ef653501ca0ab48d047460\nbuilt=2026-09-04T13:28:23Z\n\nAutomated per-commit build from main. Not a stable release.",
+    "sourceType": "github_release",
+    "sourceName": "MHSanaei/3x-ui",
+    "sourceUrl": "https://github.com/MHSanaei/3x-ui/releases/tag/dev-latest",
+    "project": "3x-ui",
+    "repo": "MHSanaei/3x-ui",
+    "slug": "3x-ui",
+    "version": "dev-latest",
+    "category": "ecosystem",
+    "tags": [
+      "x-ui",
+      "panel",
+      "xray-core",
+      "release"
+    ],
+    "platforms": [
+      "linux"
+    ],
+    "importance": 4,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2026-06-24T16:17:06Z",
+    "fetchedAt": "2026-09-04T16:25:01.343Z",
+    "firstSeenAt": "2026-09-04T16:25:05.571Z",
+    "updatedAt": "2026-09-04T16:25:05.571Z",
+    "hash": "a379c0c00e2f47e8"
   },
   {
     "id": "a8b9657bdd27b5f3",
@@ -44458,6 +44529,44 @@
     "firstSeenAt": "2026-05-07T04:09:04.362Z",
     "updatedAt": "2026-05-07T04:09:04.362Z",
     "hash": "5e6adb84fbb7f312"
+  },
+  {
+    "id": "8aa355f210907e6f",
+    "title": "MetaCubeX/mihomo Prerelease-Alpha",
+    "summary": "Prerelease-Alpha",
+    "rawTitle": "Prerelease-Alpha",
+    "rawBody": "Release created at  Fri Sep  4 22:42:54 CST 2026\nSynchronize Alpha branch code updates, keeping only the latest version\n<br>\n[我应该下载哪个文件? / Which file should I download?](https://github.com/MetaCubeX/mihomo/wiki/FAQ)\n[二进制文件筛选 / Binary file selector](https://metacubex.github.io/Meta-Docs/startup/#_1)\n[查看文档 / Docs](https://metacubex.github.io/Meta-Docs/)\n\n\n## What's Changed\n* chore: update mieru version by @enfein in https://github.com/MetaCubeX/mihomo/pull/3119\n* fix: typo in config.yaml by @MakostaDev in https://github.com/MetaCubeX/mihomo/pull/3145\n* fix(outbound): prevent nil pointer dereference in WireGuard initializ… by @sinspired in https://github.com/MetaCubeX/mihomo/pull/3148\n* chore: reduce memory usage in converter by @beck-8 in https://github.com/MetaCubeX/mihomo/pull/3159\n* fix: ipv6 url parse in xhttp by @CyberVacation in https://github.com/MetaCubeX/mihomo/pull/3160\n* update-tag v1->v3 by @8MiYile in https://github.com/MetaCubeX/mihomo/pull/3172\n* fix: restore hysteria v1 udp handling by @chenx-dust in https://github.com/MetaCubeX/mihomo/pull/3178\n\n## New Contributors\n* @CyberVacation made their first contribution in https://github.com/MetaCubeX/mihomo/pull/3160\n\n**Full Changelog**: https://github.com/MetaCubeX/mihomo/compare/v1.19.30...Prerelease-Alpha",
+    "sourceType": "github_release",
+    "sourceName": "MetaCubeX/mihomo",
+    "sourceUrl": "https://github.com/MetaCubeX/mihomo/releases/tag/Prerelease-Alpha",
+    "project": "mihomo",
+    "repo": "MetaCubeX/mihomo",
+    "slug": "mihomo",
+    "version": "Prerelease-Alpha",
+    "category": "core",
+    "tags": [
+      "mihomo",
+      "clash",
+      "meta",
+      "xhttp",
+      "wireguard",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 2,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2024-08-12T17:01:02Z",
+    "fetchedAt": "2026-09-04T16:24:51.297Z",
+    "firstSeenAt": "2026-09-04T16:25:04.759Z",
+    "updatedAt": "2026-09-04T16:25:04.759Z",
+    "hash": "8aa355f210907e6f"
   },
   {
     "id": "bef31501b47f0bba",
