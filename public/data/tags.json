@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 330,
-    "category": "ecosystem"
+    "count": 335,
+    "category": "client"
   },
   {
     "tag": "MetaCubeX",
@@ -70,6 +70,11 @@
     "category": "protocol"
   },
   {
+    "tag": "sing-box",
+    "count": 72,
+    "category": "core"
+  },
+  {
     "tag": "ruleset",
     "count": 72,
     "category": "dns_rules"
@@ -78,11 +83,6 @@
     "tag": "geoip",
     "count": 72,
     "category": "dns_rules"
-  },
-  {
-    "tag": "sing-box",
-    "count": 71,
-    "category": "security"
   },
   {
     "tag": "网络代理",
@@ -111,7 +111,7 @@
   },
   {
     "tag": "xray-core",
-    "count": 49,
+    "count": 50,
     "category": "security"
   },
   {
@@ -166,8 +166,8 @@
   },
   {
     "tag": "hysteria2",
-    "count": 39,
-    "category": "security"
+    "count": 40,
+    "category": "core"
   },
   {
     "tag": "Linux",
@@ -185,6 +185,11 @@
     "category": "core"
   },
   {
+    "tag": "vless",
+    "count": 34,
+    "category": "core"
+  },
+  {
     "tag": "WireGuard",
     "count": 34,
     "category": "core"
@@ -193,11 +198,6 @@
     "tag": "ClashMetaForAndroid",
     "count": 34,
     "category": "client"
-  },
-  {
-    "tag": "vless",
-    "count": 33,
-    "category": "security"
   },
   {
     "tag": "Snell",
@@ -216,12 +216,12 @@
   },
   {
     "tag": "x-ui",
-    "count": 30,
+    "count": 31,
     "category": "security"
   },
   {
     "tag": "panel",
-    "count": 30,
+    "count": 31,
     "category": "security"
   },
   {
@@ -241,13 +241,23 @@
   },
   {
     "tag": "tuic",
-    "count": 26,
-    "category": "security"
+    "count": 27,
+    "category": "core"
   },
   {
     "tag": "DNS",
     "count": 26,
     "category": "dns_rules"
+  },
+  {
+    "tag": "sub-store",
+    "count": 25,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "subscription",
+    "count": 25,
+    "category": "ecosystem"
   },
   {
     "tag": "网络工具",
@@ -258,16 +268,6 @@
     "tag": "HTTP/2",
     "count": 24,
     "category": "protocol"
-  },
-  {
-    "tag": "sub-store",
-    "count": 23,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "subscription",
-    "count": 23,
-    "category": "ecosystem"
   },
   {
     "tag": "依赖更新",
@@ -350,6 +350,11 @@
     "category": "client"
   },
   {
+    "tag": "wireguard",
+    "count": 16,
+    "category": "core"
+  },
+  {
     "tag": "snell",
     "count": 16,
     "category": "security"
@@ -373,11 +378,6 @@
     "tag": "Alpha",
     "count": 16,
     "category": "ecosystem"
-  },
-  {
-    "tag": "wireguard",
-    "count": 15,
-    "category": "security"
   },
   {
     "tag": "xray",
@@ -550,6 +550,21 @@
     "category": "ecosystem"
   },
   {
+    "tag": "v2raya",
+    "count": 8,
+    "category": "client"
+  },
+  {
+    "tag": "web",
+    "count": 8,
+    "category": "client"
+  },
+  {
+    "tag": "transparent-proxy",
+    "count": 8,
+    "category": "client"
+  },
+  {
     "tag": "shadowsocks",
     "count": 8,
     "category": "security"
@@ -618,21 +633,6 @@
     "tag": "rust",
     "count": 7,
     "category": "security"
-  },
-  {
-    "tag": "v2raya",
-    "count": 7,
-    "category": "client"
-  },
-  {
-    "tag": "web",
-    "count": 7,
-    "category": "client"
-  },
-  {
-    "tag": "transparent-proxy",
-    "count": 7,
-    "category": "client"
   },
   {
     "tag": "Shadowrocket",

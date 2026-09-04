@@ -1,15 +1,15 @@
 {
-  "totalItems": 1517,
-  "last24h": 7,
-  "last7d": 54,
+  "totalItems": 1522,
+  "last24h": 10,
+  "last7d": 56,
   "byCategory": {
-    "core": 266,
-    "client": 259,
+    "core": 267,
+    "client": 260,
     "router": 14,
     "protocol": 57,
     "dns_rules": 169,
     "security": 43,
-    "ecosystem": 709,
+    "ecosystem": 712,
     "trend": 0
   },
   "topProjects": [
@@ -23,7 +23,7 @@
     },
     {
       "project": "Sub-Store",
-      "count": 140
+      "count": 142
     },
     {
       "project": "v2ray-rules-dat",
@@ -35,7 +35,7 @@
     },
     {
       "project": "3x-ui",
-      "count": 113
+      "count": 114
     },
     {
       "project": "metacubexd",
@@ -43,7 +43,7 @@
     },
     {
       "project": "sing-box",
-      "count": 62
+      "count": 63
     },
     {
       "project": "gost",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "release",
-      "count": 330
+      "count": 335
     },
     {
       "tag": "MetaCubeX",
@@ -112,16 +112,16 @@
       "count": 80
     },
     {
+      "tag": "sing-box",
+      "count": 72
+    },
+    {
       "tag": "ruleset",
       "count": 72
     },
     {
       "tag": "geoip",
       "count": 72
-    },
-    {
-      "tag": "sing-box",
-      "count": 71
     },
     {
       "tag": "网络代理",
@@ -136,8 +136,8 @@
       "count": 59
     }
   ],
-  "importantCount": 523,
+  "importantCount": 527,
   "breakingCount": 87,
   "securityCount": 97,
-  "updatedAt": "2026-09-04T04:42:14.683Z"
+  "updatedAt": "2026-09-04T11:24:52.029Z"
 }
