@@ -1,7 +1,7 @@
 [
   {
     "tag": "release",
-    "count": 325,
+    "count": 330,
     "category": "ecosystem"
   },
   {
@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 246,
+    "count": 247,
     "category": "dns_rules"
   },
   {
@@ -21,12 +21,12 @@
   },
   {
     "tag": "geosite",
-    "count": 142,
+    "count": 145,
     "category": "dns_rules"
   },
   {
     "tag": "domain-list",
-    "count": 140,
+    "count": 141,
     "category": "dns_rules"
   },
   {
@@ -70,6 +70,16 @@
     "category": "protocol"
   },
   {
+    "tag": "ruleset",
+    "count": 72,
+    "category": "dns_rules"
+  },
+  {
+    "tag": "geoip",
+    "count": 72,
+    "category": "dns_rules"
+  },
+  {
     "tag": "sing-box",
     "count": 71,
     "category": "security"
@@ -78,16 +88,6 @@
     "tag": "网络代理",
     "count": 71,
     "category": "ecosystem"
-  },
-  {
-    "tag": "ruleset",
-    "count": 70,
-    "category": "dns_rules"
-  },
-  {
-    "tag": "geoip",
-    "count": 70,
-    "category": "dns_rules"
   },
   {
     "tag": "rules",
@@ -111,7 +111,7 @@
   },
   {
     "tag": "xray-core",
-    "count": 48,
+    "count": 49,
     "category": "security"
   },
   {
@@ -215,19 +215,19 @@
     "category": "ecosystem"
   },
   {
-    "tag": "Tailscale",
-    "count": 30,
-    "category": "core"
-  },
-  {
     "tag": "x-ui",
-    "count": 29,
+    "count": 30,
     "category": "security"
   },
   {
     "tag": "panel",
-    "count": 29,
+    "count": 30,
     "category": "security"
+  },
+  {
+    "tag": "Tailscale",
+    "count": 30,
+    "category": "core"
   },
   {
     "tag": "v2rayN",
@@ -260,6 +260,16 @@
     "category": "protocol"
   },
   {
+    "tag": "sub-store",
+    "count": 23,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "subscription",
+    "count": 23,
+    "category": "ecosystem"
+  },
+  {
     "tag": "依赖更新",
     "count": 23,
     "category": "ecosystem"
@@ -267,16 +277,6 @@
   {
     "tag": "VLESS",
     "count": 23,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "sub-store",
-    "count": 22,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "subscription",
-    "count": 22,
     "category": "ecosystem"
   },
   {

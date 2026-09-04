@@ -1,21 +1,21 @@
 {
-  "totalItems": 1512,
-  "last24h": 5,
-  "last7d": 50,
+  "totalItems": 1517,
+  "last24h": 7,
+  "last7d": 54,
   "byCategory": {
     "core": 266,
     "client": 259,
     "router": 14,
     "protocol": 57,
-    "dns_rules": 166,
+    "dns_rules": 169,
     "security": 43,
-    "ecosystem": 707,
+    "ecosystem": 709,
     "trend": 0
   },
   "topProjects": [
     {
       "project": "domain-list-community",
-      "count": 270
+      "count": 271
     },
     {
       "project": "mihomo",
@@ -23,19 +23,19 @@
     },
     {
       "project": "Sub-Store",
-      "count": 139
+      "count": 140
     },
     {
       "project": "v2ray-rules-dat",
-      "count": 126
+      "count": 127
     },
     {
       "project": "meta-rules-dat",
-      "count": 123
+      "count": 124
     },
     {
       "project": "3x-ui",
-      "count": 112
+      "count": 113
     },
     {
       "project": "metacubexd",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "release",
-      "count": 325
+      "count": 330
     },
     {
       "tag": "MetaCubeX",
@@ -65,7 +65,7 @@
     },
     {
       "tag": "mihomo",
-      "count": 246
+      "count": 247
     },
     {
       "tag": "v2fly",
@@ -73,11 +73,11 @@
     },
     {
       "tag": "geosite",
-      "count": 142
+      "count": 145
     },
     {
       "tag": "domain-list",
-      "count": 140
+      "count": 141
     },
     {
       "tag": "Sub-Store",
@@ -112,20 +112,20 @@
       "count": 80
     },
     {
+      "tag": "ruleset",
+      "count": 72
+    },
+    {
+      "tag": "geoip",
+      "count": 72
+    },
+    {
       "tag": "sing-box",
       "count": 71
     },
     {
       "tag": "网络代理",
       "count": 71
-    },
-    {
-      "tag": "ruleset",
-      "count": 70
-    },
-    {
-      "tag": "geoip",
-      "count": 70
     },
     {
       "tag": "rules",
@@ -136,8 +136,8 @@
       "count": 59
     }
   ],
-  "importantCount": 519,
+  "importantCount": 523,
   "breakingCount": 87,
   "securityCount": 97,
-  "updatedAt": "2026-09-03T20:59:35.443Z"
+  "updatedAt": "2026-09-04T04:42:14.683Z"
 }
