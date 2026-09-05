@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 344,
-    "category": "security"
+    "count": 346,
+    "category": "router"
   },
   {
     "tag": "MetaCubeX",
@@ -246,12 +246,12 @@
   },
   {
     "tag": "sub-store",
-    "count": 26,
+    "count": 27,
     "category": "ecosystem"
   },
   {
     "tag": "subscription",
-    "count": 26,
+    "count": 27,
     "category": "ecosystem"
   },
   {
@@ -280,6 +280,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "dns",
+    "count": 22,
+    "category": "router"
+  },
+  {
     "tag": "用户界面",
     "count": 22,
     "category": "client"
@@ -288,11 +293,6 @@
     "tag": "Xray-core",
     "count": 22,
     "category": "core"
-  },
-  {
-    "tag": "dns",
-    "count": 21,
-    "category": "router"
   },
   {
     "tag": "QUIC",
@@ -380,6 +380,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "openwrt",
+    "count": 15,
+    "category": "router"
+  },
+  {
     "tag": "xray",
     "count": 15,
     "category": "security"
@@ -388,11 +393,6 @@
     "tag": "网络规则",
     "count": 15,
     "category": "ecosystem"
-  },
-  {
-    "tag": "openwrt",
-    "count": 14,
-    "category": "router"
   },
   {
     "tag": "v2rayA",
@@ -415,6 +415,11 @@
     "category": "core"
   },
   {
+    "tag": "mosdns",
+    "count": 13,
+    "category": "router"
+  },
+  {
     "tag": "gost",
     "count": 13,
     "category": "core"
@@ -433,11 +438,6 @@
     "tag": "SOCKS",
     "count": 13,
     "category": "client"
-  },
-  {
-    "tag": "mosdns",
-    "count": 12,
-    "category": "router"
   },
   {
     "tag": "HTTP",

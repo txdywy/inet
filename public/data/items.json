@@ -1,5 +1,40 @@
 [
   {
+    "id": "07de76947dfffcfb",
+    "title": "sbwml/luci-app-mosdns v5.3.4-r13",
+    "summary": "v5.3.4-r13",
+    "rawTitle": "v5.3.4-r13",
+    "rawBody": "",
+    "sourceType": "github_release",
+    "sourceName": "sbwml/luci-app-mosdns",
+    "sourceUrl": "https://github.com/sbwml/luci-app-mosdns/releases/tag/v5.3.4-r13",
+    "project": "luci-app-mosdns",
+    "repo": "sbwml/luci-app-mosdns",
+    "slug": "luci-app-mosdns",
+    "version": "5.3.4-r13",
+    "category": "router",
+    "tags": [
+      "mosdns",
+      "openwrt",
+      "dns",
+      "release"
+    ],
+    "platforms": [
+      "openwrt",
+      "router"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-09-05T13:52:31Z",
+    "fetchedAt": "2026-09-05T15:17:28.473Z",
+    "firstSeenAt": "2026-09-05T15:17:33.144Z",
+    "updatedAt": "2026-09-05T15:17:33.144Z",
+    "hash": "07de76947dfffcfb"
+  },
+  {
     "id": "b7bfa9dacdc2b2bf",
     "title": "2dust/v2rayNG 2.3.7",
     "summary": "2.3.7",
@@ -178,6 +213,43 @@
     "firstSeenAt": "2026-09-05T04:35:33.177Z",
     "updatedAt": "2026-09-05T04:35:33.177Z",
     "hash": "5f779eddae61854a"
+  },
+  {
+    "id": "6f2973f68202e1af",
+    "title": "sub-store-org/Sub-Store 2.38.2",
+    "summary": "2.38.2",
+    "rawTitle": "2.38.2",
+    "rawBody": "## <small>2.38.2 (2026-09-05)</small>\n\n* chore: fix package.json LICENSE (#640) ([1b0e4a6](https://github.com/sub-store-org/Sub-Store/commit/1b0e4a6)), closes [#640](https://github.com/sub-store-org/Sub-Store/issues/640)\n",
+    "sourceType": "github_release",
+    "sourceName": "sub-store-org/Sub-Store",
+    "sourceUrl": "https://github.com/sub-store-org/Sub-Store/releases/tag/2.38.2",
+    "project": "Sub-Store",
+    "repo": "sub-store-org/Sub-Store",
+    "slug": "sub-store",
+    "version": "2.38.2",
+    "category": "ecosystem",
+    "tags": [
+      "sub-store",
+      "subscription",
+      "release"
+    ],
+    "platforms": [
+      "ios",
+      "android",
+      "macos",
+      "windows",
+      "linux"
+    ],
+    "importance": 2,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-09-04T14:37:46Z",
+    "fetchedAt": "2026-09-05T15:17:29.761Z",
+    "firstSeenAt": "2026-09-05T15:17:33.960Z",
+    "updatedAt": "2026-09-05T15:17:33.960Z",
+    "hash": "6f2973f68202e1af"
   },
   {
     "id": "3b7bcbbaf443f4ac",
