@@ -1,14 +1,14 @@
 {
-  "totalItems": 1529,
-  "last24h": 8,
-  "last7d": 56,
+  "totalItems": 1531,
+  "last24h": 7,
+  "last7d": 57,
   "byCategory": {
-    "core": 269,
+    "core": 270,
     "client": 261,
     "router": 14,
     "protocol": 57,
     "dns_rules": 171,
-    "security": 43,
+    "security": 44,
     "ecosystem": 714,
     "trend": 0
   },
@@ -43,7 +43,7 @@
     },
     {
       "project": "sing-box",
-      "count": 63
+      "count": 64
     },
     {
       "project": "gost",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "release",
-      "count": 342
+      "count": 344
     },
     {
       "tag": "MetaCubeX",
@@ -121,7 +121,7 @@
     },
     {
       "tag": "sing-box",
-      "count": 72
+      "count": 73
     },
     {
       "tag": "网络代理",
@@ -136,8 +136,8 @@
       "count": 59
     }
   ],
-  "importantCount": 532,
+  "importantCount": 533,
   "breakingCount": 87,
-  "securityCount": 97,
-  "updatedAt": "2026-09-05T04:35:34.474Z"
+  "securityCount": 98,
+  "updatedAt": "2026-09-05T10:41:13.280Z"
 }

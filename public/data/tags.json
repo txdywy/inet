@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 342,
-    "category": "client"
+    "count": 344,
+    "category": "security"
   },
   {
     "tag": "MetaCubeX",
@@ -81,7 +81,7 @@
   },
   {
     "tag": "sing-box",
-    "count": 72,
+    "count": 73,
     "category": "core"
   },
   {
@@ -106,8 +106,8 @@
   },
   {
     "tag": "xray-core",
-    "count": 52,
-    "category": "client"
+    "count": 53,
+    "category": "security"
   },
   {
     "tag": "Android",
@@ -160,13 +160,13 @@
     "category": "core"
   },
   {
-    "tag": "SagerNet",
+    "tag": "hysteria2",
     "count": 41,
     "category": "core"
   },
   {
-    "tag": "hysteria2",
-    "count": 40,
+    "tag": "SagerNet",
+    "count": 41,
     "category": "core"
   },
   {
@@ -186,7 +186,7 @@
   },
   {
     "tag": "vless",
-    "count": 34,
+    "count": 35,
     "category": "core"
   },
   {
@@ -241,7 +241,7 @@
   },
   {
     "tag": "tuic",
-    "count": 27,
+    "count": 28,
     "category": "core"
   },
   {
@@ -480,6 +480,11 @@
     "category": "client"
   },
   {
+    "tag": "android",
+    "count": 10,
+    "category": "security"
+  },
+  {
     "tag": "API",
     "count": 10,
     "category": "ecosystem"
@@ -498,11 +503,6 @@
     "tag": "tunnel",
     "count": 9,
     "category": "core"
-  },
-  {
-    "tag": "android",
-    "count": 9,
-    "category": "security"
   },
   {
     "tag": "配置管理",
@@ -548,6 +548,11 @@
     "tag": "CBC",
     "count": 9,
     "category": "ecosystem"
+  },
+  {
+    "tag": "v2rayng",
+    "count": 8,
+    "category": "security"
   },
   {
     "tag": "v2raya",
@@ -623,11 +628,6 @@
     "tag": "QUICv2",
     "count": 8,
     "category": "core"
-  },
-  {
-    "tag": "v2rayng",
-    "count": 7,
-    "category": "security"
   },
   {
     "tag": "rust",

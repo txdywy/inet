@@ -1,5 +1,78 @@
 [
   {
+    "id": "b7bfa9dacdc2b2bf",
+    "title": "2dust/v2rayNG 2.3.7",
+    "summary": "2.3.7",
+    "rawTitle": "2.3.7",
+    "rawBody": "### 本次更新\r\n\r\n- 迁移到 Jetpack Compose UI , 感谢 @fuilloi  https://github.com/2dust/v2rayNG/pull/5866\r\n- 订阅分组设置中，更新订阅时可以组合多个选项进行后台任务，如果只更新订阅，则会在当前页面进行 。\r\n\r\n    1. 更新订阅\r\n    2. 更新订阅后自动测试\r\n    3. 测试后自动删除无效\r\n    4. 测试后自动排序\r\n\r\n- 添加 TCP ping 测试，有最大并发控制\r\n- 支持导入v2rayN 内部分享 `v2rayn://`\r\n- 为订阅更新添加自定义 HTTP headers ， JSON 格式内容随意，例子如下 \r\n```\r\n{\r\n  \"X-hwid\": \"my_test_device\",\r\n  \"Authorization\": \"Bearer test\"\r\n}\r\n```\r\n- 修复了一些迁移 UI 导致的问题\r\n- 一些界面和功能的优化和修复，感谢 @eliotcougar \r\n- 支持莫奈动态色彩 https://github.com/2dust/v2rayNG/pull/6067\r\n- 添加手动配置文件存储修复 https://github.com/2dust/v2rayNG/pull/6094\r\n- 添加翻译贡献者页面 #6114\r\n- 改进启动自动连接 VPN 设置 - #6179\r\n\r\n- [Xray-core v26.7.28](https://github.com/XTLS/Xray-core/releases/tag/v26.7.28)\r\n\r\n### [发布文件介绍，不知道下载哪个文件的请看](https://github.com/2dust/v2rayNG/wiki/Release-files-introduction-for-Android)\r\n\r\n### [关于 跳过证书验证 allowInsecure 参数被移除的说明 ](https://github.com/2dust/v2rayN/discussions/9460)\r\n",
+    "sourceType": "github_release",
+    "sourceName": "2dust/v2rayNG",
+    "sourceUrl": "https://github.com/2dust/v2rayNG/releases/tag/2.3.7",
+    "project": "v2rayNG",
+    "repo": "2dust/v2rayNG",
+    "slug": "v2rayng",
+    "version": "2.3.7",
+    "category": "security",
+    "tags": [
+      "v2rayng",
+      "android",
+      "xray-core",
+      "release"
+    ],
+    "platforms": [
+      "android"
+    ],
+    "importance": 3,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": true,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-09-05T08:10:46Z",
+    "fetchedAt": "2026-09-05T10:41:03.072Z",
+    "firstSeenAt": "2026-09-05T10:41:12.810Z",
+    "updatedAt": "2026-09-05T10:41:12.810Z",
+    "hash": "b7bfa9dacdc2b2bf"
+  },
+  {
+    "id": "c4ef1b63def16320",
+    "title": "SagerNet/sing-box 1.15.0-alpha.2",
+    "summary": "1.15.0-alpha.2",
+    "rawTitle": "1.15.0-alpha.2",
+    "rawBody": "## :memo: Release Notes\n\n* Fixes and improvements",
+    "sourceType": "github_release",
+    "sourceName": "SagerNet/sing-box",
+    "sourceUrl": "https://github.com/SagerNet/sing-box/releases/tag/v1.15.0-alpha.2",
+    "project": "sing-box",
+    "repo": "SagerNet/sing-box",
+    "slug": "sing-box",
+    "version": "1.15.0-alpha.2",
+    "category": "core",
+    "tags": [
+      "sing-box",
+      "vless",
+      "hysteria2",
+      "tuic",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos",
+      "android",
+      "ios"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-09-05T06:21:10Z",
+    "fetchedAt": "2026-09-05T10:40:58.917Z",
+    "firstSeenAt": "2026-09-05T10:41:12.000Z",
+    "updatedAt": "2026-09-05T10:41:12.000Z",
+    "hash": "c4ef1b63def16320"
+  },
+  {
     "id": "6190c7fe8299568e",
     "title": "2dust/v2rayN 7.25.0",
     "summary": "7.25.0",
