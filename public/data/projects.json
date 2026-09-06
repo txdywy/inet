@@ -231,22 +231,6 @@
     ]
   },
   {
-    "slug": "hysteria",
-    "name": "hysteria",
-    "repo": "apernet/hysteria",
-    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
-    "category": "core",
-    "platforms": [
-      "linux",
-      "windows",
-      "macos"
-    ],
-    "tags": [
-      "hysteria2",
-      "quic"
-    ]
-  },
-  {
     "slug": "luci-app-mosdns",
     "name": "luci-app-mosdns",
     "repo": "sbwml/luci-app-mosdns",
@@ -260,6 +244,22 @@
       "mosdns",
       "openwrt",
       "dns"
+    ]
+  },
+  {
+    "slug": "hysteria",
+    "name": "hysteria",
+    "repo": "apernet/hysteria",
+    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
+    "category": "core",
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "tags": [
+      "hysteria2",
+      "quic"
     ]
   },
   {

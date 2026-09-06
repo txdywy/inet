@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 348,
-    "category": "security"
+    "count": 353,
+    "category": "dns_rules"
   },
   {
     "tag": "MetaCubeX",
@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 250,
+    "count": 251,
     "category": "dns_rules"
   },
   {
@@ -21,12 +21,12 @@
   },
   {
     "tag": "geosite",
-    "count": 147,
+    "count": 150,
     "category": "dns_rules"
   },
   {
     "tag": "domain-list",
-    "count": 141,
+    "count": 142,
     "category": "dns_rules"
   },
   {
@@ -71,12 +71,12 @@
   },
   {
     "tag": "ruleset",
-    "count": 74,
+    "count": 76,
     "category": "dns_rules"
   },
   {
     "tag": "geoip",
-    "count": 74,
+    "count": 76,
     "category": "dns_rules"
   },
   {
@@ -121,8 +121,8 @@
   },
   {
     "tag": "quic",
-    "count": 46,
-    "category": "security"
+    "count": 47,
+    "category": "router"
   },
   {
     "tag": "开源",
@@ -270,6 +270,11 @@
     "category": "protocol"
   },
   {
+    "tag": "dns",
+    "count": 23,
+    "category": "router"
+  },
+  {
     "tag": "依赖更新",
     "count": 23,
     "category": "ecosystem"
@@ -278,11 +283,6 @@
     "tag": "VLESS",
     "count": 23,
     "category": "ecosystem"
-  },
-  {
-    "tag": "dns",
-    "count": 22,
-    "category": "router"
   },
   {
     "tag": "用户界面",
@@ -330,6 +330,11 @@
     "category": "core"
   },
   {
+    "tag": "openwrt",
+    "count": 17,
+    "category": "security"
+  },
+  {
     "tag": "naiveproxy",
     "count": 17,
     "category": "security"
@@ -353,11 +358,6 @@
     "tag": "TLSAuth",
     "count": 17,
     "category": "client"
-  },
-  {
-    "tag": "openwrt",
-    "count": 16,
-    "category": "security"
   },
   {
     "tag": "snell",
@@ -385,6 +385,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "sudoku",
+    "count": 15,
+    "category": "core"
+  },
+  {
     "tag": "xray",
     "count": 15,
     "category": "security"
@@ -393,6 +398,11 @@
     "tag": "网络规则",
     "count": 15,
     "category": "ecosystem"
+  },
+  {
+    "tag": "mosdns",
+    "count": 14,
+    "category": "router"
   },
   {
     "tag": "v2rayA",
@@ -408,16 +418,6 @@
     "tag": "SUDOKU-ASCII",
     "count": 14,
     "category": "core"
-  },
-  {
-    "tag": "sudoku",
-    "count": 14,
-    "category": "core"
-  },
-  {
-    "tag": "mosdns",
-    "count": 13,
-    "category": "router"
   },
   {
     "tag": "gost",
@@ -1763,6 +1763,11 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "obfuscation",
+    "count": 1,
+    "category": "core"
   },
   {
     "tag": "http/3",
