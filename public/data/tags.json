@@ -1,7 +1,7 @@
 [
   {
     "tag": "release",
-    "count": 353,
+    "count": 354,
     "category": "dns_rules"
   },
   {
@@ -101,7 +101,7 @@
   },
   {
     "tag": "xray-core",
-    "count": 54,
+    "count": 55,
     "category": "security"
   },
   {
@@ -190,6 +190,16 @@
     "category": "core"
   },
   {
+    "tag": "x-ui",
+    "count": 34,
+    "category": "security"
+  },
+  {
+    "tag": "panel",
+    "count": 34,
+    "category": "security"
+  },
+  {
     "tag": "WireGuard",
     "count": 34,
     "category": "core"
@@ -198,16 +208,6 @@
     "tag": "ClashMetaForAndroid",
     "count": 34,
     "category": "client"
-  },
-  {
-    "tag": "x-ui",
-    "count": 33,
-    "category": "security"
-  },
-  {
-    "tag": "panel",
-    "count": 33,
-    "category": "security"
   },
   {
     "tag": "Snell",
