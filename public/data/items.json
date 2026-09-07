@@ -1,5 +1,42 @@
 [
   {
+    "id": "f5d30956080555fe",
+    "title": "sub-store-org/Sub-Store 2.38.4",
+    "summary": "2.38.4",
+    "rawTitle": "2.38.4",
+    "rawBody": "## <small>2.38.4 (2026-09-07)</small>\n\n* release: bump version ([6968a25](https://github.com/sub-store-org/Sub-Store/commit/6968a25))\n",
+    "sourceType": "github_release",
+    "sourceName": "sub-store-org/Sub-Store",
+    "sourceUrl": "https://github.com/sub-store-org/Sub-Store/releases/tag/2.38.4",
+    "project": "Sub-Store",
+    "repo": "sub-store-org/Sub-Store",
+    "slug": "sub-store",
+    "version": "2.38.4",
+    "category": "ecosystem",
+    "tags": [
+      "sub-store",
+      "subscription",
+      "release"
+    ],
+    "platforms": [
+      "ios",
+      "android",
+      "macos",
+      "windows",
+      "linux"
+    ],
+    "importance": 2,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-09-07T06:48:59Z",
+    "fetchedAt": "2026-09-07T12:42:06.006Z",
+    "firstSeenAt": "2026-09-07T12:42:09.555Z",
+    "updatedAt": "2026-09-07T12:42:09.555Z",
+    "hash": "f5d30956080555fe"
+  },
+  {
     "id": "7716dd9c871a7f8a",
     "title": "sub-store-org/Sub-Store 2.38.3",
     "summary": "2.38.3",

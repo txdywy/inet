@@ -1,7 +1,7 @@
 {
-  "totalItems": 1547,
-  "last24h": 4,
-  "last7d": 45,
+  "totalItems": 1548,
+  "last24h": 5,
+  "last7d": 46,
   "byCategory": {
     "core": 272,
     "client": 261,
@@ -9,7 +9,7 @@
     "protocol": 57,
     "dns_rules": 176,
     "security": 45,
-    "ecosystem": 719,
+    "ecosystem": 720,
     "trend": 0
   },
   "topProjects": [
@@ -23,7 +23,7 @@
     },
     {
       "project": "Sub-Store",
-      "count": 145
+      "count": 146
     },
     {
       "project": "v2ray-rules-dat",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "release",
-      "count": 360
+      "count": 361
     },
     {
       "tag": "MetaCubeX",
@@ -139,5 +139,5 @@
   "importantCount": 543,
   "breakingCount": 89,
   "securityCount": 99,
-  "updatedAt": "2026-09-07T04:48:22.845Z"
+  "updatedAt": "2026-09-07T12:42:09.837Z"
 }
