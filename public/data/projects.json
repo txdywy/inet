@@ -318,22 +318,6 @@
     ]
   },
   {
-    "slug": "naiveproxy",
-    "name": "naiveproxy",
-    "repo": "klzgrad/naiveproxy",
-    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
-    "category": "core",
-    "platforms": [
-      "linux",
-      "windows",
-      "macos",
-      "android"
-    ],
-    "tags": [
-      "naiveproxy"
-    ]
-  },
-  {
     "slug": "helloworld",
     "name": "helloworld",
     "repo": "fw876/helloworld",
@@ -347,6 +331,22 @@
       "ssrplus",
       "openwrt",
       "luci"
+    ]
+  },
+  {
+    "slug": "naiveproxy",
+    "name": "naiveproxy",
+    "repo": "klzgrad/naiveproxy",
+    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
+    "category": "core",
+    "platforms": [
+      "linux",
+      "windows",
+      "macos",
+      "android"
+    ],
+    "tags": [
+      "naiveproxy"
     ]
   },
   {
