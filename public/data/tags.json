@@ -1,7 +1,7 @@
 [
   {
     "tag": "release",
-    "count": 361,
+    "count": 362,
     "category": "ecosystem"
   },
   {
@@ -101,7 +101,7 @@
   },
   {
     "tag": "xray-core",
-    "count": 56,
+    "count": 57,
     "category": "security"
   },
   {
@@ -180,6 +180,16 @@
     "category": "client"
   },
   {
+    "tag": "x-ui",
+    "count": 36,
+    "category": "security"
+  },
+  {
+    "tag": "panel",
+    "count": 36,
+    "category": "security"
+  },
+  {
     "tag": "go-gost",
     "count": 36,
     "category": "core"
@@ -188,16 +198,6 @@
     "tag": "vless",
     "count": 35,
     "category": "core"
-  },
-  {
-    "tag": "x-ui",
-    "count": 35,
-    "category": "security"
-  },
-  {
-    "tag": "panel",
-    "count": 35,
-    "category": "security"
   },
   {
     "tag": "WireGuard",
