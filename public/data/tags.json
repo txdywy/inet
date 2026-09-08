@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 370,
-    "category": "security"
+    "count": 372,
+    "category": "ecosystem"
   },
   {
     "tag": "MetaCubeX",
@@ -96,7 +96,7 @@
   },
   {
     "tag": "xray-core",
-    "count": 59,
+    "count": 60,
     "category": "security"
   },
   {
@@ -186,12 +186,12 @@
   },
   {
     "tag": "x-ui",
-    "count": 36,
+    "count": 37,
     "category": "security"
   },
   {
     "tag": "panel",
-    "count": 36,
+    "count": 37,
     "category": "security"
   },
   {
@@ -225,19 +225,19 @@
     "category": "ecosystem"
   },
   {
-    "tag": "Tailscale",
-    "count": 30,
-    "category": "core"
-  },
-  {
     "tag": "sub-store",
-    "count": 29,
+    "count": 30,
     "category": "ecosystem"
   },
   {
     "tag": "subscription",
-    "count": 29,
+    "count": 30,
     "category": "ecosystem"
+  },
+  {
+    "tag": "Tailscale",
+    "count": 30,
+    "category": "core"
   },
   {
     "tag": "v2rayN",

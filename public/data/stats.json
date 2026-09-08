@@ -1,7 +1,7 @@
 {
-  "totalItems": 1557,
-  "last24h": 5,
-  "last7d": 41,
+  "totalItems": 1559,
+  "last24h": 6,
+  "last7d": 42,
   "byCategory": {
     "core": 273,
     "client": 261,
@@ -9,7 +9,7 @@
     "protocol": 57,
     "dns_rules": 180,
     "security": 48,
-    "ecosystem": 721,
+    "ecosystem": 723,
     "trend": 0
   },
   "topProjects": [
@@ -23,7 +23,7 @@
     },
     {
       "project": "Sub-Store",
-      "count": 146
+      "count": 147
     },
     {
       "project": "v2ray-rules-dat",
@@ -35,7 +35,7 @@
     },
     {
       "project": "3x-ui",
-      "count": 119
+      "count": 120
     },
     {
       "project": "metacubexd",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "release",
-      "count": 370
+      "count": 372
     },
     {
       "tag": "MetaCubeX",
@@ -133,11 +133,11 @@
     },
     {
       "tag": "xray-core",
-      "count": 59
+      "count": 60
     }
   ],
-  "importantCount": 549,
+  "importantCount": 550,
   "breakingCount": 89,
   "securityCount": 102,
-  "updatedAt": "2026-09-08T11:25:41.888Z"
+  "updatedAt": "2026-09-08T16:41:07.472Z"
 }
