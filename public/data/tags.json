@@ -1,7 +1,7 @@
 [
   {
     "tag": "release",
-    "count": 372,
+    "count": 373,
     "category": "ecosystem"
   },
   {
@@ -96,7 +96,7 @@
   },
   {
     "tag": "xray-core",
-    "count": 60,
+    "count": 61,
     "category": "security"
   },
   {
@@ -170,6 +170,16 @@
     "category": "core"
   },
   {
+    "tag": "x-ui",
+    "count": 38,
+    "category": "security"
+  },
+  {
+    "tag": "panel",
+    "count": 38,
+    "category": "security"
+  },
+  {
     "tag": "Linux",
     "count": 38,
     "category": "client"
@@ -181,16 +191,6 @@
   },
   {
     "tag": "vless",
-    "count": 37,
-    "category": "security"
-  },
-  {
-    "tag": "x-ui",
-    "count": 37,
-    "category": "security"
-  },
-  {
-    "tag": "panel",
     "count": 37,
     "category": "security"
   },
