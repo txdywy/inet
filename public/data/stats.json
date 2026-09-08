@@ -1,25 +1,25 @@
 {
-  "totalItems": 1552,
-  "last24h": 3,
-  "last7d": 39,
+  "totalItems": 1557,
+  "last24h": 5,
+  "last7d": 41,
   "byCategory": {
     "core": 273,
     "client": 261,
     "router": 17,
     "protocol": 57,
-    "dns_rules": 178,
-    "security": 45,
+    "dns_rules": 180,
+    "security": 48,
     "ecosystem": 721,
     "trend": 0
   },
   "topProjects": [
     {
       "project": "domain-list-community",
-      "count": 272
+      "count": 274
     },
     {
       "project": "mihomo",
-      "count": 197
+      "count": 198
     },
     {
       "project": "Sub-Store",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "release",
-      "count": 365
+      "count": 370
     },
     {
       "tag": "MetaCubeX",
@@ -65,7 +65,7 @@
     },
     {
       "tag": "mihomo",
-      "count": 255
+      "count": 256
     },
     {
       "tag": "v2fly",
@@ -73,11 +73,11 @@
     },
     {
       "tag": "geosite",
-      "count": 154
+      "count": 156
     },
     {
       "tag": "domain-list",
-      "count": 142
+      "count": 144
     },
     {
       "tag": "Sub-Store",
@@ -132,12 +132,12 @@
       "count": 67
     },
     {
-      "tag": "开发版本",
+      "tag": "xray-core",
       "count": 59
     }
   ],
-  "importantCount": 546,
+  "importantCount": 549,
   "breakingCount": 89,
-  "securityCount": 99,
-  "updatedAt": "2026-09-08T04:43:53.851Z"
+  "securityCount": 102,
+  "updatedAt": "2026-09-08T11:25:41.888Z"
 }

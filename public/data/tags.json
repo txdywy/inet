@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 365,
-    "category": "dns_rules"
+    "count": 370,
+    "category": "security"
   },
   {
     "tag": "MetaCubeX",
@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 255,
+    "count": 256,
     "category": "dns_rules"
   },
   {
@@ -21,12 +21,12 @@
   },
   {
     "tag": "geosite",
-    "count": 154,
+    "count": 156,
     "category": "dns_rules"
   },
   {
     "tag": "domain-list",
-    "count": 142,
+    "count": 144,
     "category": "dns_rules"
   },
   {
@@ -95,19 +95,24 @@
     "category": "ecosystem"
   },
   {
+    "tag": "xray-core",
+    "count": 59,
+    "category": "security"
+  },
+  {
     "tag": "开发版本",
     "count": 59,
     "category": "ecosystem"
   },
   {
-    "tag": "xray-core",
+    "tag": "clash",
     "count": 57,
-    "category": "security"
+    "category": "ecosystem"
   },
   {
-    "tag": "clash",
-    "count": 56,
-    "category": "ecosystem"
+    "tag": "meta",
+    "count": 51,
+    "category": "security"
   },
   {
     "tag": "Android",
@@ -115,8 +120,8 @@
     "category": "client"
   },
   {
-    "tag": "meta",
-    "count": 50,
+    "tag": "xhttp",
+    "count": 48,
     "category": "security"
   },
   {
@@ -132,11 +137,6 @@
   {
     "tag": "代理",
     "count": 46,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "xhttp",
-    "count": 45,
     "category": "ecosystem"
   },
   {
@@ -180,6 +180,11 @@
     "category": "client"
   },
   {
+    "tag": "vless",
+    "count": 37,
+    "category": "security"
+  },
+  {
     "tag": "x-ui",
     "count": 36,
     "category": "security"
@@ -192,11 +197,6 @@
   {
     "tag": "go-gost",
     "count": 36,
-    "category": "core"
-  },
-  {
-    "tag": "vless",
-    "count": 35,
     "category": "core"
   },
   {
@@ -296,7 +296,7 @@
   },
   {
     "tag": "wireguard",
-    "count": 20,
+    "count": 21,
     "category": "core"
   },
   {
@@ -330,6 +330,11 @@
     "category": "router"
   },
   {
+    "tag": "sudoku",
+    "count": 18,
+    "category": "core"
+  },
+  {
     "tag": "v2rayNG",
     "count": 18,
     "category": "client"
@@ -337,11 +342,6 @@
   {
     "tag": "Xray",
     "count": 18,
-    "category": "core"
-  },
-  {
-    "tag": "sudoku",
-    "count": 17,
     "category": "core"
   },
   {
@@ -670,6 +670,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "reality",
+    "count": 6,
+    "category": "security"
+  },
+  {
     "tag": "anytls",
     "count": 6,
     "category": "security"
@@ -747,11 +752,6 @@
   {
     "tag": "openvpn",
     "count": 6,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "reality",
-    "count": 5,
     "category": "ecosystem"
   },
   {
@@ -993,6 +993,11 @@
     "tag": "nekoray",
     "count": 4,
     "category": "client"
+  },
+  {
+    "tag": "xtls",
+    "count": 3,
+    "category": "security"
   },
   {
     "tag": "ssrplus",
@@ -1828,11 +1833,6 @@
     "tag": "IP检测",
     "count": 1,
     "category": "ecosystem"
-  },
-  {
-    "tag": "xtls",
-    "count": 1,
-    "category": "security"
   },
   {
     "tag": "hopGroup",
