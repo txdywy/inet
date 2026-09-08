@@ -1,13 +1,13 @@
 {
-  "totalItems": 1549,
-  "last24h": 5,
+  "totalItems": 1552,
+  "last24h": 3,
   "last7d": 39,
   "byCategory": {
-    "core": 272,
+    "core": 273,
     "client": 261,
     "router": 17,
     "protocol": 57,
-    "dns_rules": 176,
+    "dns_rules": 178,
     "security": 45,
     "ecosystem": 721,
     "trend": 0
@@ -19,7 +19,7 @@
     },
     {
       "project": "mihomo",
-      "count": 196
+      "count": 197
     },
     {
       "project": "Sub-Store",
@@ -27,11 +27,11 @@
     },
     {
       "project": "v2ray-rules-dat",
-      "count": 130
+      "count": 131
     },
     {
       "project": "meta-rules-dat",
-      "count": 127
+      "count": 128
     },
     {
       "project": "3x-ui",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "release",
-      "count": 362
+      "count": 365
     },
     {
       "tag": "MetaCubeX",
@@ -65,7 +65,7 @@
     },
     {
       "tag": "mihomo",
-      "count": 253
+      "count": 255
     },
     {
       "tag": "v2fly",
@@ -73,7 +73,7 @@
     },
     {
       "tag": "geosite",
-      "count": 152
+      "count": 154
     },
     {
       "tag": "domain-list",
@@ -108,16 +108,16 @@
       "count": 82
     },
     {
-      "tag": "OpenVPN",
+      "tag": "ruleset",
       "count": 80
     },
     {
-      "tag": "ruleset",
-      "count": 78
+      "tag": "geoip",
+      "count": 80
     },
     {
-      "tag": "geoip",
-      "count": 78
+      "tag": "OpenVPN",
+      "count": 80
     },
     {
       "tag": "sing-box",
@@ -136,8 +136,8 @@
       "count": 59
     }
   ],
-  "importantCount": 544,
+  "importantCount": 546,
   "breakingCount": 89,
   "securityCount": 99,
-  "updatedAt": "2026-09-07T21:28:54.389Z"
+  "updatedAt": "2026-09-08T04:43:53.851Z"
 }

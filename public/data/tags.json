@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 362,
-    "category": "ecosystem"
+    "count": 365,
+    "category": "dns_rules"
   },
   {
     "tag": "MetaCubeX",
@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 253,
+    "count": 255,
     "category": "dns_rules"
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "tag": "geosite",
-    "count": 152,
+    "count": 154,
     "category": "dns_rules"
   },
   {
@@ -65,19 +65,19 @@
     "category": "client"
   },
   {
-    "tag": "OpenVPN",
-    "count": 80,
-    "category": "protocol"
-  },
-  {
     "tag": "ruleset",
-    "count": 78,
+    "count": 80,
     "category": "dns_rules"
   },
   {
     "tag": "geoip",
-    "count": 78,
+    "count": 80,
     "category": "dns_rules"
+  },
+  {
+    "tag": "OpenVPN",
+    "count": 80,
+    "category": "protocol"
   },
   {
     "tag": "sing-box",
@@ -106,7 +106,7 @@
   },
   {
     "tag": "clash",
-    "count": 55,
+    "count": 56,
     "category": "ecosystem"
   },
   {
@@ -116,7 +116,7 @@
   },
   {
     "tag": "meta",
-    "count": 49,
+    "count": 50,
     "category": "security"
   },
   {
@@ -136,7 +136,7 @@
   },
   {
     "tag": "xhttp",
-    "count": 44,
+    "count": 45,
     "category": "ecosystem"
   },
   {
@@ -295,6 +295,11 @@
     "category": "core"
   },
   {
+    "tag": "wireguard",
+    "count": 20,
+    "category": "core"
+  },
+  {
     "tag": "QUIC",
     "count": 20,
     "category": "ecosystem"
@@ -302,11 +307,6 @@
   {
     "tag": "rematch",
     "count": 20,
-    "category": "core"
-  },
-  {
-    "tag": "wireguard",
-    "count": 19,
     "category": "core"
   },
   {
@@ -340,6 +340,11 @@
     "category": "core"
   },
   {
+    "tag": "sudoku",
+    "count": 17,
+    "category": "core"
+  },
+  {
     "tag": "TLS",
     "count": 17,
     "category": "ecosystem"
@@ -358,11 +363,6 @@
     "tag": "TLSAuth",
     "count": 17,
     "category": "client"
-  },
-  {
-    "tag": "sudoku",
-    "count": 16,
-    "category": "core"
   },
   {
     "tag": "snell",
