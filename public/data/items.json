@@ -1,5 +1,41 @@
 [
   {
+    "id": "66de9a5d35c83220",
+    "title": "v2rayA/v2rayA v2.4.18",
+    "summary": "v2.4.18",
+    "rawTitle": "v2.4.18",
+    "rawBody": "## What's Changed\n* Add Korean by @jkh0kr in https://github.com/v2rayA/v2rayA/pull/1953\n\n## New Contributors\n* @jkh0kr made their first contribution in https://github.com/v2rayA/v2rayA/pull/1953\n\n**Full Changelog**: https://github.com/v2rayA/v2rayA/compare/v2.4.17...v2.4.18",
+    "sourceType": "github_release",
+    "sourceName": "v2rayA/v2rayA",
+    "sourceUrl": "https://github.com/v2rayA/v2rayA/releases/tag/v2.4.18",
+    "project": "v2rayA",
+    "repo": "v2rayA/v2rayA",
+    "slug": "v2raya",
+    "version": "2.4.18",
+    "category": "client",
+    "tags": [
+      "v2raya",
+      "web",
+      "transparent-proxy",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 4,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2026-09-09T04:53:15Z",
+    "fetchedAt": "2026-09-09T11:30:33.773Z",
+    "firstSeenAt": "2026-09-09T11:30:41.416Z",
+    "updatedAt": "2026-09-09T11:30:41.416Z",
+    "hash": "66de9a5d35c83220"
+  },
+  {
     "id": "807f981b956c2315",
     "title": "sub-store-org/Sub-Store 2.38.6",
     "summary": "2.38.6",
@@ -21229,6 +21265,40 @@
     "firstSeenAt": "2026-06-25T04:36:16.426Z",
     "updatedAt": "2026-06-25T04:36:16.426Z",
     "hash": "e54a070ca4e6a5bf"
+  },
+  {
+    "id": "75b7172ed8ede943",
+    "title": "MHSanaei/3x-ui Dev build 6ee74f20",
+    "summary": "Dev build 6ee74f20",
+    "rawTitle": "Dev build 6ee74f20",
+    "rawBody": "Rolling development build — installs via the panel's Dev update channel.\n\ncommit=6ee74f20322250f10698405e15a85ad2e44fc5cb\nbuilt=2026-09-09T07:43:18Z\n\nAutomated per-commit build from main. Not a stable release.",
+    "sourceType": "github_release",
+    "sourceName": "MHSanaei/3x-ui",
+    "sourceUrl": "https://github.com/MHSanaei/3x-ui/releases/tag/dev-latest",
+    "project": "3x-ui",
+    "repo": "MHSanaei/3x-ui",
+    "slug": "3x-ui",
+    "version": "dev-latest",
+    "category": "ecosystem",
+    "tags": [
+      "x-ui",
+      "panel",
+      "xray-core",
+      "release"
+    ],
+    "platforms": [
+      "linux"
+    ],
+    "importance": 4,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2026-06-24T16:17:06Z",
+    "fetchedAt": "2026-09-09T11:30:38.221Z",
+    "firstSeenAt": "2026-09-09T11:30:42.242Z",
+    "updatedAt": "2026-09-09T11:30:42.242Z",
+    "hash": "75b7172ed8ede943"
   },
   {
     "id": "7373b28233e06a6c",

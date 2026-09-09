@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 379,
-    "category": "security"
+    "count": 381,
+    "category": "client"
   },
   {
     "tag": "MetaCubeX",
@@ -96,7 +96,7 @@
   },
   {
     "tag": "xray-core",
-    "count": 64,
+    "count": 65,
     "category": "security"
   },
   {
@@ -170,17 +170,17 @@
     "category": "core"
   },
   {
-    "tag": "vless",
-    "count": 39,
-    "category": "security"
-  },
-  {
     "tag": "x-ui",
-    "count": 39,
+    "count": 40,
     "category": "security"
   },
   {
     "tag": "panel",
+    "count": 40,
+    "category": "security"
+  },
+  {
+    "tag": "vless",
     "count": 39,
     "category": "security"
   },
@@ -500,6 +500,21 @@
     "category": "ecosystem"
   },
   {
+    "tag": "v2raya",
+    "count": 9,
+    "category": "client"
+  },
+  {
+    "tag": "web",
+    "count": 9,
+    "category": "client"
+  },
+  {
+    "tag": "transparent-proxy",
+    "count": 9,
+    "category": "client"
+  },
+  {
     "tag": "shadowsocks",
     "count": 9,
     "category": "security"
@@ -558,21 +573,6 @@
     "tag": "v2rayng",
     "count": 8,
     "category": "security"
-  },
-  {
-    "tag": "v2raya",
-    "count": 8,
-    "category": "client"
-  },
-  {
-    "tag": "web",
-    "count": 8,
-    "category": "client"
-  },
-  {
-    "tag": "transparent-proxy",
-    "count": 8,
-    "category": "client"
   },
   {
     "tag": "mihomo-party",
