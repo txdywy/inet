@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 373,
-    "category": "ecosystem"
+    "count": 379,
+    "category": "security"
   },
   {
     "tag": "MetaCubeX",
@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 256,
+    "count": 257,
     "category": "dns_rules"
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "tag": "geosite",
-    "count": 156,
+    "count": 158,
     "category": "dns_rules"
   },
   {
@@ -60,19 +60,19 @@
     "category": "client"
   },
   {
-    "tag": "metacubexd",
-    "count": 82,
-    "category": "client"
-  },
-  {
     "tag": "ruleset",
-    "count": 80,
+    "count": 82,
     "category": "dns_rules"
   },
   {
     "tag": "geoip",
-    "count": 80,
+    "count": 82,
     "category": "dns_rules"
+  },
+  {
+    "tag": "metacubexd",
+    "count": 82,
+    "category": "client"
   },
   {
     "tag": "OpenVPN",
@@ -96,7 +96,7 @@
   },
   {
     "tag": "xray-core",
-    "count": 61,
+    "count": 64,
     "category": "security"
   },
   {
@@ -121,7 +121,7 @@
   },
   {
     "tag": "xhttp",
-    "count": 48,
+    "count": 50,
     "category": "security"
   },
   {
@@ -170,13 +170,18 @@
     "category": "core"
   },
   {
+    "tag": "vless",
+    "count": 39,
+    "category": "security"
+  },
+  {
     "tag": "x-ui",
-    "count": 38,
+    "count": 39,
     "category": "security"
   },
   {
     "tag": "panel",
-    "count": 38,
+    "count": 39,
     "category": "security"
   },
   {
@@ -188,11 +193,6 @@
     "tag": "Windows",
     "count": 38,
     "category": "client"
-  },
-  {
-    "tag": "vless",
-    "count": 37,
-    "category": "security"
   },
   {
     "tag": "go-gost",
@@ -226,13 +226,13 @@
   },
   {
     "tag": "sub-store",
-    "count": 30,
-    "category": "ecosystem"
+    "count": 31,
+    "category": "security"
   },
   {
     "tag": "subscription",
-    "count": 30,
-    "category": "ecosystem"
+    "count": 31,
+    "category": "security"
   },
   {
     "tag": "Tailscale",
@@ -500,6 +500,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "shadowsocks",
+    "count": 9,
+    "category": "security"
+  },
+  {
     "tag": "tunnel",
     "count": 9,
     "category": "core"
@@ -570,11 +575,6 @@
     "category": "client"
   },
   {
-    "tag": "shadowsocks",
-    "count": 8,
-    "category": "security"
-  },
-  {
     "tag": "mihomo-party",
     "count": 8,
     "category": "client"
@@ -630,6 +630,11 @@
     "category": "core"
   },
   {
+    "tag": "reality",
+    "count": 7,
+    "category": "security"
+  },
+  {
     "tag": "rust",
     "count": 7,
     "category": "security"
@@ -668,11 +673,6 @@
     "tag": "luci-app-mosdns",
     "count": 7,
     "category": "ecosystem"
-  },
-  {
-    "tag": "reality",
-    "count": 6,
-    "category": "security"
   },
   {
     "tag": "anytls",
@@ -753,6 +753,11 @@
     "tag": "openvpn",
     "count": 6,
     "category": "ecosystem"
+  },
+  {
+    "tag": "xtls",
+    "count": 5,
+    "category": "security"
   },
   {
     "tag": "grpc",
@@ -993,11 +998,6 @@
     "tag": "nekoray",
     "count": 4,
     "category": "client"
-  },
-  {
-    "tag": "xtls",
-    "count": 3,
-    "category": "security"
   },
   {
     "tag": "ssrplus",
