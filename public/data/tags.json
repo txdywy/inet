@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 381,
-    "category": "client"
+    "count": 382,
+    "category": "ecosystem"
   },
   {
     "tag": "MetaCubeX",
@@ -220,19 +220,19 @@
     "category": "core"
   },
   {
-    "tag": "自动构建",
+    "tag": "sub-store",
     "count": 32,
     "category": "ecosystem"
   },
   {
-    "tag": "sub-store",
-    "count": 31,
-    "category": "security"
+    "tag": "subscription",
+    "count": 32,
+    "category": "ecosystem"
   },
   {
-    "tag": "subscription",
-    "count": 31,
-    "category": "security"
+    "tag": "自动构建",
+    "count": 32,
+    "category": "ecosystem"
   },
   {
     "tag": "Tailscale",
