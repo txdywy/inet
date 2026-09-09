@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 382,
-    "category": "ecosystem"
+    "count": 383,
+    "category": "security"
   },
   {
     "tag": "MetaCubeX",
@@ -110,6 +110,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "xhttp",
+    "count": 51,
+    "category": "security"
+  },
+  {
     "tag": "meta",
     "count": 51,
     "category": "security"
@@ -118,11 +123,6 @@
     "tag": "Android",
     "count": 51,
     "category": "client"
-  },
-  {
-    "tag": "xhttp",
-    "count": 50,
-    "category": "security"
   },
   {
     "tag": "quic",
@@ -170,6 +170,11 @@
     "category": "core"
   },
   {
+    "tag": "vless",
+    "count": 40,
+    "category": "security"
+  },
+  {
     "tag": "x-ui",
     "count": 40,
     "category": "security"
@@ -177,11 +182,6 @@
   {
     "tag": "panel",
     "count": 40,
-    "category": "security"
-  },
-  {
-    "tag": "vless",
-    "count": 39,
     "category": "security"
   },
   {
@@ -440,14 +440,14 @@
     "category": "client"
   },
   {
+    "tag": "v2ray-agent",
+    "count": 12,
+    "category": "security"
+  },
+  {
     "tag": "HTTP",
     "count": 12,
     "category": "core"
-  },
-  {
-    "tag": "v2ray-agent",
-    "count": 11,
-    "category": "ecosystem"
   },
   {
     "tag": "TUN",
@@ -865,6 +865,16 @@
     "category": "ecosystem"
   },
   {
+    "tag": "script",
+    "count": 4,
+    "category": "security"
+  },
+  {
+    "tag": "vps",
+    "count": 4,
+    "category": "security"
+  },
+  {
     "tag": "luci",
     "count": 4,
     "category": "router"
@@ -1003,16 +1013,6 @@
     "tag": "ssrplus",
     "count": 3,
     "category": "router"
-  },
-  {
-    "tag": "script",
-    "count": 3,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "vps",
-    "count": 3,
-    "category": "ecosystem"
   },
   {
     "tag": "vision",

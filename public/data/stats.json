@@ -1,14 +1,14 @@
 {
-  "totalItems": 1569,
-  "last24h": 6,
-  "last7d": 45,
+  "totalItems": 1570,
+  "last24h": 7,
+  "last7d": 46,
   "byCategory": {
     "core": 273,
     "client": 262,
     "router": 17,
     "protocol": 57,
     "dns_rules": 182,
-    "security": 51,
+    "security": 52,
     "ecosystem": 727,
     "trend": 0
   },
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "release",
-      "count": 382
+      "count": 383
     },
     {
       "tag": "MetaCubeX",
@@ -136,8 +136,8 @@
       "count": 65
     }
   ],
-  "importantCount": 559,
+  "importantCount": 560,
   "breakingCount": 89,
-  "securityCount": 105,
-  "updatedAt": "2026-09-09T16:41:55.595Z"
+  "securityCount": 106,
+  "updatedAt": "2026-09-09T20:54:05.027Z"
 }

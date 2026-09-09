@@ -1,5 +1,41 @@
 [
   {
+    "id": "76217e1a841c449c",
+    "title": "mack-a/v2ray-agent v3.5.24",
+    "summary": "v3.5.24",
+    "rawTitle": "v3.5.24",
+    "rawBody": "feat(xray): 支持 VLESS XHTTP TLS 任意门模式\r\n\r\n新增协议 14 的部署、账号管理与订阅输出，并为配置更新增加校验和失败回滚。同步中英文脚本及 Cloudflare 连通性检测地址，同时停止跟踪本地文档和测试目录。",
+    "sourceType": "github_release",
+    "sourceName": "mack-a/v2ray-agent",
+    "sourceUrl": "https://github.com/mack-a/v2ray-agent/releases/tag/v3.5.24",
+    "project": "v2ray-agent",
+    "repo": "mack-a/v2ray-agent",
+    "slug": "v2ray-agent",
+    "version": "3.5.24",
+    "category": "security",
+    "tags": [
+      "v2ray-agent",
+      "script",
+      "vps",
+      "vless",
+      "xhttp",
+      "release"
+    ],
+    "platforms": [
+      "linux"
+    ],
+    "importance": 5,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": true,
+    "isProtocolRelated": true,
+    "publishedAt": "2026-09-09T18:13:04Z",
+    "fetchedAt": "2026-09-09T20:54:00.745Z",
+    "firstSeenAt": "2026-09-09T20:54:04.266Z",
+    "updatedAt": "2026-09-09T20:54:04.266Z",
+    "hash": "76217e1a841c449c"
+  },
+  {
     "id": "d39b5b712ce1fa61",
     "title": "sub-store-org/Sub-Store 2.39.0",
     "summary": "2.39.0",
