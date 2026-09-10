@@ -21628,6 +21628,40 @@
     "hash": "e54a070ca4e6a5bf"
   },
   {
+    "id": "88a0916b6f989927",
+    "title": "MHSanaei/3x-ui Dev build 8f162994",
+    "summary": "Dev build 8f162994",
+    "rawTitle": "Dev build 8f162994",
+    "rawBody": "Rolling development build — installs via the panel's Dev update channel.\n\ncommit=8f162994efcf033b95efb46f188fe2403d3449f5\nbuilt=2026-09-10T20:37:01Z\n\nAutomated per-commit build from main. Not a stable release.",
+    "sourceType": "github_release",
+    "sourceName": "MHSanaei/3x-ui",
+    "sourceUrl": "https://github.com/MHSanaei/3x-ui/releases/tag/dev-latest",
+    "project": "3x-ui",
+    "repo": "MHSanaei/3x-ui",
+    "slug": "3x-ui",
+    "version": "dev-latest",
+    "category": "ecosystem",
+    "tags": [
+      "x-ui",
+      "panel",
+      "xray-core",
+      "release"
+    ],
+    "platforms": [
+      "linux"
+    ],
+    "importance": 4,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2026-06-24T16:17:06Z",
+    "fetchedAt": "2026-09-10T20:49:23.915Z",
+    "firstSeenAt": "2026-09-10T20:49:28.272Z",
+    "updatedAt": "2026-09-10T20:49:28.272Z",
+    "hash": "88a0916b6f989927"
+  },
+  {
     "id": "f232222e71be6192",
     "title": "MHSanaei/3x-ui Dev build fc08b533",
     "summary": "Dev build fc08b533",
@@ -46362,6 +46396,47 @@
     "firstSeenAt": "2026-05-07T04:09:04.362Z",
     "updatedAt": "2026-05-07T04:09:04.362Z",
     "hash": "5e6adb84fbb7f312"
+  },
+  {
+    "id": "fde7fb912c0fb53f",
+    "title": "MetaCubeX/mihomo Prerelease-Alpha",
+    "summary": "Prerelease-Alpha",
+    "rawTitle": "Prerelease-Alpha",
+    "rawBody": "Release created at  Fri Sep 11 00:50:05 CST 2026\nSynchronize Alpha branch code updates, keeping only the latest version\n<br>\n[我应该下载哪个文件? / Which file should I download?](https://github.com/MetaCubeX/mihomo/wiki/FAQ)\n[二进制文件筛选 / Binary file selector](https://metacubex.github.io/Meta-Docs/startup/#_1)\n[查看文档 / Docs](https://metacubex.github.io/Meta-Docs/)\n\n\n## What's Changed\n* chore: update mieru version by @enfein in https://github.com/MetaCubeX/mihomo/pull/3119\n* fix: typo in config.yaml by @MakostaDev in https://github.com/MetaCubeX/mihomo/pull/3145\n* fix(outbound): prevent nil pointer dereference in WireGuard initializ… by @sinspired in https://github.com/MetaCubeX/mihomo/pull/3148\n* chore: reduce memory usage in converter by @beck-8 in https://github.com/MetaCubeX/mihomo/pull/3159\n* fix: ipv6 url parse in xhttp by @CyberVacation in https://github.com/MetaCubeX/mihomo/pull/3160\n* update-tag v1->v3 by @8MiYile in https://github.com/MetaCubeX/mihomo/pull/3172\n* fix: restore hysteria v1 udp handling by @chenx-dust in https://github.com/MetaCubeX/mihomo/pull/3178\n* chore. updated sudoku to v0.5.0 and split the large file into smaller, more readable files. by @saba-futai in https://github.com/MetaCubeX/mihomo/pull/3187\n* fix(openvpn): derive the tls-auth HMAC digest from auth instead of hard-coding SHA-1 by @TokenPLS in https://github.com/MetaCubeX/mihomo/pull/3189\n* fix: correct android amd64 core asset name in updater by @NuoFang6 in https://github.com/MetaCubeX/mihomo/pull/3167\n* fix: prevent nil dereference when VLESS listener initialization fails by @Truimo in https://github.com/MetaCubeX/mihomo/pull/3195\n* feat: convert support REALITY ML-KEM option by @Aethersailor in https://github.com/MetaCubeX/mihomo/pull/3199\n\n## New Contributors\n* @CyberVacation made their first contribution in https://github.com/MetaCubeX/mihomo/pull/3160\n* @TokenPLS made their first contribution in https://github.com/MetaCubeX/mihomo/pull/3189\n* @Truimo made their first contribution in https://github.com/MetaCubeX/mihomo/pull/3195\n* @Aethersailor made their first contribution in https://github.com/MetaCubeX/mihomo/pull/3199\n\n**Full Changelog**: https://github.com/MetaCubeX/mihomo/compare/v1.19.30...Prerelease-Alpha",
+    "sourceType": "github_release",
+    "sourceName": "MetaCubeX/mihomo",
+    "sourceUrl": "https://github.com/MetaCubeX/mihomo/releases/tag/Prerelease-Alpha",
+    "project": "mihomo",
+    "repo": "MetaCubeX/mihomo",
+    "slug": "mihomo",
+    "version": "Prerelease-Alpha",
+    "category": "security",
+    "tags": [
+      "mihomo",
+      "clash",
+      "meta",
+      "vless",
+      "xhttp",
+      "reality",
+      "wireguard",
+      "sudoku",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 3,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": true,
+    "isProtocolRelated": true,
+    "publishedAt": "2024-08-12T17:01:02Z",
+    "fetchedAt": "2026-09-10T20:49:13.402Z",
+    "firstSeenAt": "2026-09-10T20:49:27.450Z",
+    "updatedAt": "2026-09-10T20:49:27.450Z",
+    "hash": "fde7fb912c0fb53f"
   },
   {
     "id": "ac5c8117fdfbd9d0",

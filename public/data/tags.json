@@ -1,7 +1,7 @@
 [
   {
     "tag": "release",
-    "count": 395,
+    "count": 397,
     "category": "ecosystem"
   },
   {
@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 261,
+    "count": 262,
     "category": "ecosystem"
   },
   {
@@ -91,7 +91,7 @@
   },
   {
     "tag": "xray-core",
-    "count": 69,
+    "count": 70,
     "category": "security"
   },
   {
@@ -101,7 +101,7 @@
   },
   {
     "tag": "clash",
-    "count": 60,
+    "count": 61,
     "category": "ecosystem"
   },
   {
@@ -111,12 +111,12 @@
   },
   {
     "tag": "xhttp",
-    "count": 53,
+    "count": 54,
     "category": "security"
   },
   {
     "tag": "meta",
-    "count": 53,
+    "count": 54,
     "category": "security"
   },
   {
@@ -140,14 +140,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "vless",
+    "count": 44,
+    "category": "ecosystem"
+  },
+  {
     "tag": "网络协议",
     "count": 44,
     "category": "core"
-  },
-  {
-    "tag": "vless",
-    "count": 43,
-    "category": "ecosystem"
   },
   {
     "tag": "ech",
@@ -155,19 +155,19 @@
     "category": "client"
   },
   {
-    "tag": "dat",
-    "count": 43,
-    "category": "ecosystem"
-  },
-  {
     "tag": "x-ui",
-    "count": 42,
+    "count": 43,
     "category": "security"
   },
   {
     "tag": "panel",
-    "count": 42,
+    "count": 43,
     "category": "security"
+  },
+  {
+    "tag": "dat",
+    "count": 43,
+    "category": "ecosystem"
   },
   {
     "tag": "代理工具",
@@ -265,6 +265,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "wireguard",
+    "count": 24,
+    "category": "core"
+  },
+  {
     "tag": "HTTP/2",
     "count": 24,
     "category": "protocol"
@@ -273,11 +278,6 @@
     "tag": "dns",
     "count": 23,
     "category": "router"
-  },
-  {
-    "tag": "wireguard",
-    "count": 23,
-    "category": "core"
   },
   {
     "tag": "依赖更新",
@@ -301,7 +301,7 @@
   },
   {
     "tag": "sudoku",
-    "count": 20,
+    "count": 21,
     "category": "core"
   },
   {
@@ -525,6 +525,11 @@
     "category": "security"
   },
   {
+    "tag": "reality",
+    "count": 9,
+    "category": "security"
+  },
+  {
     "tag": "tunnel",
     "count": 9,
     "category": "core"
@@ -573,11 +578,6 @@
     "tag": "CBC",
     "count": 9,
     "category": "ecosystem"
-  },
-  {
-    "tag": "reality",
-    "count": 8,
-    "category": "security"
   },
   {
     "tag": "mihomo-party",
