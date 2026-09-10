@@ -1,7 +1,7 @@
 [
   {
     "tag": "release",
-    "count": 391,
+    "count": 395,
     "category": "ecosystem"
   },
   {
@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 260,
+    "count": 261,
     "category": "ecosystem"
   },
   {
@@ -91,7 +91,7 @@
   },
   {
     "tag": "xray-core",
-    "count": 68,
+    "count": 69,
     "category": "security"
   },
   {
@@ -101,7 +101,7 @@
   },
   {
     "tag": "clash",
-    "count": 59,
+    "count": 60,
     "category": "ecosystem"
   },
   {
@@ -111,12 +111,12 @@
   },
   {
     "tag": "xhttp",
-    "count": 52,
+    "count": 53,
     "category": "security"
   },
   {
     "tag": "meta",
-    "count": 52,
+    "count": 53,
     "category": "security"
   },
   {
@@ -145,6 +145,11 @@
     "category": "core"
   },
   {
+    "tag": "vless",
+    "count": 43,
+    "category": "ecosystem"
+  },
+  {
     "tag": "ech",
     "count": 43,
     "category": "client"
@@ -155,29 +160,24 @@
     "category": "ecosystem"
   },
   {
+    "tag": "x-ui",
+    "count": 42,
+    "category": "security"
+  },
+  {
+    "tag": "panel",
+    "count": 42,
+    "category": "security"
+  },
+  {
     "tag": "代理工具",
     "count": 42,
     "category": "core"
   },
   {
-    "tag": "vless",
-    "count": 41,
-    "category": "security"
-  },
-  {
     "tag": "hysteria2",
     "count": 41,
     "category": "core"
-  },
-  {
-    "tag": "x-ui",
-    "count": 41,
-    "category": "security"
-  },
-  {
-    "tag": "panel",
-    "count": 41,
-    "category": "security"
   },
   {
     "tag": "SagerNet",
@@ -200,6 +200,16 @@
     "category": "core"
   },
   {
+    "tag": "sub-store",
+    "count": 35,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "subscription",
+    "count": 35,
+    "category": "ecosystem"
+  },
+  {
     "tag": "WireGuard",
     "count": 34,
     "category": "core"
@@ -208,16 +218,6 @@
     "tag": "ClashMetaForAndroid",
     "count": 34,
     "category": "client"
-  },
-  {
-    "tag": "sub-store",
-    "count": 33,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "subscription",
-    "count": 33,
-    "category": "ecosystem"
   },
   {
     "tag": "Snell",
@@ -275,6 +275,11 @@
     "category": "router"
   },
   {
+    "tag": "wireguard",
+    "count": 23,
+    "category": "core"
+  },
+  {
     "tag": "依赖更新",
     "count": 23,
     "category": "ecosystem"
@@ -283,11 +288,6 @@
     "tag": "VLESS",
     "count": 23,
     "category": "ecosystem"
-  },
-  {
-    "tag": "wireguard",
-    "count": 22,
-    "category": "core"
   },
   {
     "tag": "用户界面",
@@ -300,6 +300,11 @@
     "category": "core"
   },
   {
+    "tag": "sudoku",
+    "count": 20,
+    "category": "core"
+  },
+  {
     "tag": "QUIC",
     "count": 20,
     "category": "ecosystem"
@@ -307,11 +312,6 @@
   {
     "tag": "rematch",
     "count": 20,
-    "category": "core"
-  },
-  {
-    "tag": "sudoku",
-    "count": 19,
     "category": "core"
   },
   {
@@ -345,6 +345,11 @@
     "category": "core"
   },
   {
+    "tag": "snell",
+    "count": 17,
+    "category": "ecosystem"
+  },
+  {
     "tag": "TLS",
     "count": 17,
     "category": "ecosystem"
@@ -363,11 +368,6 @@
     "tag": "TLSAuth",
     "count": 17,
     "category": "client"
-  },
-  {
-    "tag": "snell",
-    "count": 16,
-    "category": "security"
   },
   {
     "tag": "域名",
@@ -575,6 +575,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "reality",
+    "count": 8,
+    "category": "security"
+  },
+  {
     "tag": "mihomo-party",
     "count": 8,
     "category": "client"
@@ -636,11 +641,6 @@
   },
   {
     "tag": "windows",
-    "count": 7,
-    "category": "security"
-  },
-  {
-    "tag": "reality",
     "count": 7,
     "category": "security"
   },

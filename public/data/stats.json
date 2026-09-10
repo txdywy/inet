@@ -1,15 +1,15 @@
 {
-  "totalItems": 1578,
-  "last24h": 8,
-  "last7d": 49,
+  "totalItems": 1582,
+  "last24h": 9,
+  "last7d": 50,
   "byCategory": {
     "core": 273,
     "client": 262,
     "router": 17,
     "protocol": 57,
     "dns_rules": 184,
-    "security": 55,
-    "ecosystem": 730,
+    "security": 56,
+    "ecosystem": 733,
     "trend": 0
   },
   "topProjects": [
@@ -19,11 +19,11 @@
     },
     {
       "project": "mihomo",
-      "count": 199
+      "count": 200
     },
     {
       "project": "Sub-Store",
-      "count": 150
+      "count": 152
     },
     {
       "project": "v2ray-rules-dat",
@@ -35,7 +35,7 @@
     },
     {
       "project": "3x-ui",
-      "count": 124
+      "count": 125
     },
     {
       "project": "metacubexd",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "release",
-      "count": 391
+      "count": 395
     },
     {
       "tag": "MetaCubeX",
@@ -65,7 +65,7 @@
     },
     {
       "tag": "mihomo",
-      "count": 260
+      "count": 261
     },
     {
       "tag": "v2fly",
@@ -129,15 +129,15 @@
     },
     {
       "tag": "xray-core",
-      "count": 68
+      "count": 69
     },
     {
       "tag": "rules",
       "count": 67
     }
   ],
-  "importantCount": 566,
+  "importantCount": 569,
   "breakingCount": 89,
-  "securityCount": 109,
-  "updatedAt": "2026-09-10T11:27:12.417Z"
+  "securityCount": 110,
+  "updatedAt": "2026-09-10T16:27:59.893Z"
 }
