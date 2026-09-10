@@ -1,7 +1,7 @@
 [
   {
     "tag": "release",
-    "count": 383,
+    "count": 387,
     "category": "security"
   },
   {
@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 257,
+    "count": 259,
     "category": "dns_rules"
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "tag": "geosite",
-    "count": 158,
+    "count": 160,
     "category": "dns_rules"
   },
   {
@@ -55,19 +55,19 @@
     "category": "ecosystem"
   },
   {
-    "tag": "3x-ui",
-    "count": 83,
-    "category": "client"
-  },
-  {
     "tag": "ruleset",
-    "count": 82,
+    "count": 84,
     "category": "dns_rules"
   },
   {
     "tag": "geoip",
-    "count": 82,
+    "count": 84,
     "category": "dns_rules"
+  },
+  {
+    "tag": "3x-ui",
+    "count": 83,
+    "category": "client"
   },
   {
     "tag": "metacubexd",
@@ -96,7 +96,7 @@
   },
   {
     "tag": "xray-core",
-    "count": 65,
+    "count": 66,
     "category": "security"
   },
   {
@@ -106,17 +106,17 @@
   },
   {
     "tag": "clash",
-    "count": 57,
+    "count": 58,
     "category": "ecosystem"
   },
   {
     "tag": "xhttp",
-    "count": 51,
+    "count": 52,
     "category": "security"
   },
   {
     "tag": "meta",
-    "count": 51,
+    "count": 52,
     "category": "security"
   },
   {
@@ -160,6 +160,11 @@
     "category": "core"
   },
   {
+    "tag": "vless",
+    "count": 41,
+    "category": "security"
+  },
+  {
     "tag": "hysteria2",
     "count": 41,
     "category": "core"
@@ -168,11 +173,6 @@
     "tag": "SagerNet",
     "count": 41,
     "category": "core"
-  },
-  {
-    "tag": "vless",
-    "count": 40,
-    "category": "security"
   },
   {
     "tag": "x-ui",
@@ -285,6 +285,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "wireguard",
+    "count": 22,
+    "category": "core"
+  },
+  {
     "tag": "用户界面",
     "count": 22,
     "category": "client"
@@ -295,11 +300,6 @@
     "category": "core"
   },
   {
-    "tag": "wireguard",
-    "count": 21,
-    "category": "core"
-  },
-  {
     "tag": "QUIC",
     "count": 20,
     "category": "ecosystem"
@@ -307,6 +307,11 @@
   {
     "tag": "rematch",
     "count": 20,
+    "category": "core"
+  },
+  {
+    "tag": "sudoku",
+    "count": 19,
     "category": "core"
   },
   {
@@ -328,11 +333,6 @@
     "tag": "naiveproxy",
     "count": 18,
     "category": "router"
-  },
-  {
-    "tag": "sudoku",
-    "count": 18,
-    "category": "core"
   },
   {
     "tag": "v2rayNG",
@@ -630,6 +630,16 @@
     "category": "core"
   },
   {
+    "tag": "v2rayn",
+    "count": 7,
+    "category": "security"
+  },
+  {
+    "tag": "windows",
+    "count": 7,
+    "category": "security"
+  },
+  {
     "tag": "reality",
     "count": 7,
     "category": "security"
@@ -678,16 +688,6 @@
     "tag": "anytls",
     "count": 6,
     "category": "security"
-  },
-  {
-    "tag": "v2rayn",
-    "count": 6,
-    "category": "client"
-  },
-  {
-    "tag": "windows",
-    "count": 6,
-    "category": "client"
   },
   {
     "tag": "安全更新",
