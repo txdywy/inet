@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 387,
-    "category": "security"
+    "count": 391,
+    "category": "ecosystem"
   },
   {
     "tag": "MetaCubeX",
@@ -11,8 +11,8 @@
   },
   {
     "tag": "mihomo",
-    "count": 259,
-    "category": "dns_rules"
+    "count": 260,
+    "category": "ecosystem"
   },
   {
     "tag": "v2fly",
@@ -90,23 +90,23 @@
     "category": "ecosystem"
   },
   {
+    "tag": "xray-core",
+    "count": 68,
+    "category": "security"
+  },
+  {
     "tag": "rules",
     "count": 67,
     "category": "ecosystem"
   },
   {
-    "tag": "xray-core",
-    "count": 66,
-    "category": "security"
-  },
-  {
-    "tag": "开发版本",
+    "tag": "clash",
     "count": 59,
     "category": "ecosystem"
   },
   {
-    "tag": "clash",
-    "count": 58,
+    "tag": "开发版本",
+    "count": 59,
     "category": "ecosystem"
   },
   {
@@ -170,19 +170,19 @@
     "category": "core"
   },
   {
-    "tag": "SagerNet",
-    "count": 41,
-    "category": "core"
-  },
-  {
     "tag": "x-ui",
-    "count": 40,
+    "count": 41,
     "category": "security"
   },
   {
     "tag": "panel",
-    "count": 40,
+    "count": 41,
     "category": "security"
+  },
+  {
+    "tag": "SagerNet",
+    "count": 41,
+    "category": "core"
   },
   {
     "tag": "Linux",
@@ -210,6 +210,16 @@
     "category": "client"
   },
   {
+    "tag": "sub-store",
+    "count": 33,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "subscription",
+    "count": 33,
+    "category": "ecosystem"
+  },
+  {
     "tag": "Snell",
     "count": 33,
     "category": "protocol"
@@ -218,16 +228,6 @@
     "tag": "xhttp-opts",
     "count": 33,
     "category": "core"
-  },
-  {
-    "tag": "sub-store",
-    "count": 32,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "subscription",
-    "count": 32,
-    "category": "ecosystem"
   },
   {
     "tag": "自动构建",
@@ -450,6 +450,11 @@
     "category": "core"
   },
   {
+    "tag": "android",
+    "count": 11,
+    "category": "security"
+  },
+  {
     "tag": "TUN",
     "count": 11,
     "category": "client"
@@ -480,11 +485,6 @@
     "category": "client"
   },
   {
-    "tag": "android",
-    "count": 10,
-    "category": "security"
-  },
-  {
     "tag": "API",
     "count": 10,
     "category": "ecosystem"
@@ -498,6 +498,11 @@
     "tag": "Docker",
     "count": 10,
     "category": "ecosystem"
+  },
+  {
+    "tag": "v2rayng",
+    "count": 9,
+    "category": "security"
   },
   {
     "tag": "v2raya",
@@ -568,11 +573,6 @@
     "tag": "CBC",
     "count": 9,
     "category": "ecosystem"
-  },
-  {
-    "tag": "v2rayng",
-    "count": 8,
-    "category": "security"
   },
   {
     "tag": "mihomo-party",
@@ -755,6 +755,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "dashboard",
+    "count": 5,
+    "category": "ecosystem"
+  },
+  {
     "tag": "xtls",
     "count": 5,
     "category": "security"
@@ -881,11 +886,6 @@
   },
   {
     "tag": "tailscale",
-    "count": 4,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "dashboard",
     "count": 4,
     "category": "ecosystem"
   },

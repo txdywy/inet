@@ -1,5 +1,110 @@
 [
   {
+    "id": "bbc981e7061bd48f",
+    "title": "sub-store-org/Sub-Store 2.39.1",
+    "summary": "2.39.1",
+    "rawTitle": "2.39.1",
+    "rawBody": "## <small>2.39.1 (2026-09-10)</small>\n\n* feat: mihomo 格式输入也兼容 MASQUE(Surge) ([fb3088d](https://github.com/sub-store-org/Sub-Store/commit/fb3088d))\n",
+    "sourceType": "github_release",
+    "sourceName": "sub-store-org/Sub-Store",
+    "sourceUrl": "https://github.com/sub-store-org/Sub-Store/releases/tag/2.39.1",
+    "project": "Sub-Store",
+    "repo": "sub-store-org/Sub-Store",
+    "slug": "sub-store",
+    "version": "2.39.1",
+    "category": "ecosystem",
+    "tags": [
+      "sub-store",
+      "subscription",
+      "release"
+    ],
+    "platforms": [
+      "ios",
+      "android",
+      "macos",
+      "windows",
+      "linux"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-09-10T09:09:36Z",
+    "fetchedAt": "2026-09-10T11:27:05.821Z",
+    "firstSeenAt": "2026-09-10T11:27:11.149Z",
+    "updatedAt": "2026-09-10T11:27:11.149Z",
+    "hash": "bbc981e7061bd48f"
+  },
+  {
+    "id": "459eb16a21ffc700",
+    "title": "MetaCubeX/metacubexd v1.273.1",
+    "summary": "v1.273.1",
+    "rawTitle": "v1.273.1",
+    "rawBody": "## [1.273.1](https://github.com/MetaCubeX/metacubexd/compare/v1.273.0...v1.273.1) (2026-09-10)\n\n\n### Bug Fixes\n\n* **desktop:** repair native TUN helper startup and recovery ([81b9f81](https://github.com/MetaCubeX/metacubexd/commit/81b9f81d2664a03cb74fb92f33a5f5cdb3dc2255)), closes [#2149](https://github.com/MetaCubeX/metacubexd/issues/2149)",
+    "sourceType": "github_release",
+    "sourceName": "MetaCubeX/metacubexd",
+    "sourceUrl": "https://github.com/MetaCubeX/metacubexd/releases/tag/v1.273.1",
+    "project": "metacubexd",
+    "repo": "MetaCubeX/metacubexd",
+    "slug": "metacubexd",
+    "version": "1.273.1",
+    "category": "ecosystem",
+    "tags": [
+      "dashboard",
+      "mihomo",
+      "clash",
+      "release"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-09-10T06:51:06Z",
+    "fetchedAt": "2026-09-10T11:27:07.199Z",
+    "firstSeenAt": "2026-09-10T11:27:11.965Z",
+    "updatedAt": "2026-09-10T11:27:11.965Z",
+    "hash": "459eb16a21ffc700"
+  },
+  {
+    "id": "ac0851a6be5f8e8d",
+    "title": "2dust/v2rayNG 2.3.8",
+    "summary": "2.3.8",
+    "rawTitle": "2.3.8",
+    "rawBody": "### 本次更新\r\n\r\n- 迁移到 Jetpack Compose UI , 感谢 @fuilloi  https://github.com/2dust/v2rayNG/pull/5866\r\n- 订阅分组设置中，更新订阅时可以组合多个选项进行后台任务，如果只更新订阅，则会在当前页面进行 。\r\n\r\n    1. 更新订阅\r\n    2. 更新订阅后自动测试\r\n    3. 测试后自动删除无效\r\n    4. 测试后自动排序\r\n\r\n- 添加 TCP ping 测试，有最大并发控制\r\n- 支持导入v2rayN 内部分享 `v2rayn://`\r\n- 为订阅更新添加自定义 HTTP headers ， JSON 格式内容随意，例子如下 \r\n```\r\n{\r\n  \"X-hwid\": \"my_test_device\",\r\n  \"Authorization\": \"Bearer test\"\r\n}\r\n```\r\n- 修复了一些迁移 UI 导致的问题\r\n- 一些界面和功能的优化和修复，感谢 @eliotcougar \r\n- 支持莫奈动态色彩 https://github.com/2dust/v2rayNG/pull/6067\r\n- 添加手动配置文件存储修复 https://github.com/2dust/v2rayNG/pull/6094\r\n- 添加翻译贡献者页面 #6114\r\n- 改进启动自动连接 VPN 设置 - #6179\r\n\r\n- [Xray-core v26.9.9](https://github.com/XTLS/Xray-core/releases/tag/v26.9.9)\r\n\r\n### [发布文件介绍，不知道下载哪个文件的请看](https://github.com/2dust/v2rayNG/wiki/Release-files-introduction-for-Android)\r\n\r\n### [关于 跳过证书验证 allowInsecure 参数被移除的说明 ](https://github.com/2dust/v2rayN/discussions/9460)\r\n",
+    "sourceType": "github_release",
+    "sourceName": "2dust/v2rayNG",
+    "sourceUrl": "https://github.com/2dust/v2rayNG/releases/tag/2.3.8",
+    "project": "v2rayNG",
+    "repo": "2dust/v2rayNG",
+    "slug": "v2rayng",
+    "version": "2.3.8",
+    "category": "security",
+    "tags": [
+      "v2rayng",
+      "android",
+      "xray-core",
+      "release"
+    ],
+    "platforms": [
+      "android"
+    ],
+    "importance": 3,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": true,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-09-10T06:30:48Z",
+    "fetchedAt": "2026-09-10T11:26:59.767Z",
+    "firstSeenAt": "2026-09-10T11:27:09.530Z",
+    "updatedAt": "2026-09-10T11:27:09.530Z",
+    "hash": "ac0851a6be5f8e8d"
+  },
+  {
     "id": "e2d92de8f66df4bd",
     "title": "2dust/v2rayN 7.25.1",
     "summary": "7.25.1",
@@ -21445,6 +21550,40 @@
     "firstSeenAt": "2026-06-25T04:36:16.426Z",
     "updatedAt": "2026-06-25T04:36:16.426Z",
     "hash": "e54a070ca4e6a5bf"
+  },
+  {
+    "id": "5f477a73fc0a0e72",
+    "title": "MHSanaei/3x-ui Dev build 8076d5ed",
+    "summary": "Dev build 8076d5ed",
+    "rawTitle": "Dev build 8076d5ed",
+    "rawBody": "Rolling development build — installs via the panel's Dev update channel.\n\ncommit=8076d5edfaddbff02fa69288e3b913d717552a3d\nbuilt=2026-09-10T08:17:32Z\n\nAutomated per-commit build from main. Not a stable release.",
+    "sourceType": "github_release",
+    "sourceName": "MHSanaei/3x-ui",
+    "sourceUrl": "https://github.com/MHSanaei/3x-ui/releases/tag/dev-latest",
+    "project": "3x-ui",
+    "repo": "MHSanaei/3x-ui",
+    "slug": "3x-ui",
+    "version": "dev-latest",
+    "category": "ecosystem",
+    "tags": [
+      "x-ui",
+      "panel",
+      "xray-core",
+      "release"
+    ],
+    "platforms": [
+      "linux"
+    ],
+    "importance": 4,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2026-06-24T16:17:06Z",
+    "fetchedAt": "2026-09-10T11:27:05.714Z",
+    "firstSeenAt": "2026-09-10T11:27:10.341Z",
+    "updatedAt": "2026-09-10T11:27:10.341Z",
+    "hash": "5f477a73fc0a0e72"
   },
   {
     "id": "75b7172ed8ede943",
