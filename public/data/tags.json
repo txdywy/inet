@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 401,
-    "category": "dns_rules"
+    "count": 403,
+    "category": "ecosystem"
   },
   {
     "tag": "MetaCubeX",
@@ -85,14 +85,14 @@
     "category": "core"
   },
   {
+    "tag": "xray-core",
+    "count": 71,
+    "category": "security"
+  },
+  {
     "tag": "网络代理",
     "count": 71,
     "category": "ecosystem"
-  },
-  {
-    "tag": "xray-core",
-    "count": 70,
-    "category": "security"
   },
   {
     "tag": "rules",
@@ -145,6 +145,16 @@
     "category": "ecosystem"
   },
   {
+    "tag": "x-ui",
+    "count": 44,
+    "category": "security"
+  },
+  {
+    "tag": "panel",
+    "count": 44,
+    "category": "security"
+  },
+  {
     "tag": "网络协议",
     "count": 44,
     "category": "core"
@@ -153,16 +163,6 @@
     "tag": "ech",
     "count": 43,
     "category": "client"
-  },
-  {
-    "tag": "x-ui",
-    "count": 43,
-    "category": "security"
-  },
-  {
-    "tag": "panel",
-    "count": 43,
-    "category": "security"
   },
   {
     "tag": "dat",
@@ -195,19 +195,19 @@
     "category": "client"
   },
   {
-    "tag": "go-gost",
-    "count": 36,
-    "category": "core"
-  },
-  {
     "tag": "sub-store",
-    "count": 35,
+    "count": 36,
     "category": "ecosystem"
   },
   {
     "tag": "subscription",
-    "count": 35,
+    "count": 36,
     "category": "ecosystem"
+  },
+  {
+    "tag": "go-gost",
+    "count": 36,
+    "category": "core"
   },
   {
     "tag": "WireGuard",

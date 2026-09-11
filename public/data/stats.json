@@ -1,7 +1,7 @@
 {
-  "totalItems": 1588,
-  "last24h": 8,
-  "last7d": 48,
+  "totalItems": 1590,
+  "last24h": 6,
+  "last7d": 45,
   "byCategory": {
     "core": 273,
     "client": 262,
@@ -9,7 +9,7 @@
     "protocol": 57,
     "dns_rules": 186,
     "security": 58,
-    "ecosystem": 735,
+    "ecosystem": 737,
     "trend": 0
   },
   "topProjects": [
@@ -23,7 +23,7 @@
     },
     {
       "project": "Sub-Store",
-      "count": 152
+      "count": 153
     },
     {
       "project": "v2ray-rules-dat",
@@ -35,7 +35,7 @@
     },
     {
       "project": "3x-ui",
-      "count": 126
+      "count": 127
     },
     {
       "project": "metacubexd",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "release",
-      "count": 401
+      "count": 403
     },
     {
       "tag": "MetaCubeX",
@@ -124,20 +124,20 @@
       "count": 73
     },
     {
-      "tag": "网络代理",
+      "tag": "xray-core",
       "count": 71
     },
     {
-      "tag": "xray-core",
-      "count": 70
+      "tag": "网络代理",
+      "count": 71
     },
     {
       "tag": "rules",
       "count": 67
     }
   ],
-  "importantCount": 573,
+  "importantCount": 575,
   "breakingCount": 89,
   "securityCount": 112,
-  "updatedAt": "2026-09-11T04:46:33.083Z"
+  "updatedAt": "2026-09-11T11:29:00.200Z"
 }
