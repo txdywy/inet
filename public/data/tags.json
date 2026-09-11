@@ -1,7 +1,7 @@
 [
   {
     "tag": "release",
-    "count": 403,
+    "count": 405,
     "category": "ecosystem"
   },
   {
@@ -86,7 +86,7 @@
   },
   {
     "tag": "xray-core",
-    "count": 71,
+    "count": 72,
     "category": "security"
   },
   {
@@ -146,12 +146,12 @@
   },
   {
     "tag": "x-ui",
-    "count": 44,
+    "count": 45,
     "category": "security"
   },
   {
     "tag": "panel",
-    "count": 44,
+    "count": 45,
     "category": "security"
   },
   {
@@ -196,12 +196,12 @@
   },
   {
     "tag": "sub-store",
-    "count": 36,
+    "count": 37,
     "category": "ecosystem"
   },
   {
     "tag": "subscription",
-    "count": 36,
+    "count": 37,
     "category": "ecosystem"
   },
   {
