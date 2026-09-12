@@ -1,15 +1,15 @@
 {
-  "totalItems": 1594,
-  "last24h": 4,
+  "totalItems": 1597,
+  "last24h": 5,
   "last7d": 43,
   "byCategory": {
     "core": 273,
-    "client": 262,
+    "client": 263,
     "router": 17,
     "protocol": 57,
-    "dns_rules": 188,
+    "dns_rules": 189,
     "security": 58,
-    "ecosystem": 739,
+    "ecosystem": 740,
     "trend": 0
   },
   "topProjects": [
@@ -27,7 +27,7 @@
     },
     {
       "project": "v2ray-rules-dat",
-      "count": 135
+      "count": 136
     },
     {
       "project": "meta-rules-dat",
@@ -35,7 +35,7 @@
     },
     {
       "project": "3x-ui",
-      "count": 128
+      "count": 129
     },
     {
       "project": "metacubexd",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "release",
-      "count": 407
+      "count": 410
     },
     {
       "tag": "MetaCubeX",
@@ -73,7 +73,7 @@
     },
     {
       "tag": "geosite",
-      "count": 164
+      "count": 165
     },
     {
       "tag": "domain-list",
@@ -93,11 +93,11 @@
     },
     {
       "tag": "ruleset",
-      "count": 88
+      "count": 89
     },
     {
       "tag": "geoip",
-      "count": 88
+      "count": 89
     },
     {
       "tag": "meta-rules-dat",
@@ -120,12 +120,12 @@
       "count": 80
     },
     {
-      "tag": "sing-box",
+      "tag": "xray-core",
       "count": 73
     },
     {
-      "tag": "xray-core",
-      "count": 72
+      "tag": "sing-box",
+      "count": 73
     },
     {
       "tag": "网络代理",
@@ -136,8 +136,8 @@
       "count": 67
     }
   ],
-  "importantCount": 579,
+  "importantCount": 582,
   "breakingCount": 89,
   "securityCount": 112,
-  "updatedAt": "2026-09-12T04:40:36.016Z"
+  "updatedAt": "2026-09-12T10:53:25.221Z"
 }

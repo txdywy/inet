@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 407,
-    "category": "dns_rules"
+    "count": 410,
+    "category": "client"
   },
   {
     "tag": "MetaCubeX",
@@ -21,7 +21,7 @@
   },
   {
     "tag": "geosite",
-    "count": 164,
+    "count": 165,
     "category": "dns_rules"
   },
   {
@@ -46,12 +46,12 @@
   },
   {
     "tag": "ruleset",
-    "count": 88,
+    "count": 89,
     "category": "dns_rules"
   },
   {
     "tag": "geoip",
-    "count": 88,
+    "count": 89,
     "category": "dns_rules"
   },
   {
@@ -80,14 +80,14 @@
     "category": "protocol"
   },
   {
+    "tag": "xray-core",
+    "count": 73,
+    "category": "security"
+  },
+  {
     "tag": "sing-box",
     "count": 73,
     "category": "core"
-  },
-  {
-    "tag": "xray-core",
-    "count": 72,
-    "category": "security"
   },
   {
     "tag": "网络代理",
@@ -130,6 +130,16 @@
     "category": "router"
   },
   {
+    "tag": "x-ui",
+    "count": 46,
+    "category": "security"
+  },
+  {
+    "tag": "panel",
+    "count": 46,
+    "category": "security"
+  },
+  {
     "tag": "开源",
     "count": 46,
     "category": "core"
@@ -143,16 +153,6 @@
     "tag": "vless",
     "count": 45,
     "category": "ecosystem"
-  },
-  {
-    "tag": "x-ui",
-    "count": 45,
-    "category": "security"
-  },
-  {
-    "tag": "panel",
-    "count": 45,
-    "category": "security"
   },
   {
     "tag": "网络协议",
@@ -485,6 +485,21 @@
     "category": "client"
   },
   {
+    "tag": "v2raya",
+    "count": 10,
+    "category": "client"
+  },
+  {
+    "tag": "web",
+    "count": 10,
+    "category": "client"
+  },
+  {
+    "tag": "transparent-proxy",
+    "count": 10,
+    "category": "client"
+  },
+  {
     "tag": "reality",
     "count": 10,
     "category": "security"
@@ -508,21 +523,6 @@
     "tag": "v2rayng",
     "count": 9,
     "category": "security"
-  },
-  {
-    "tag": "v2raya",
-    "count": 9,
-    "category": "client"
-  },
-  {
-    "tag": "web",
-    "count": 9,
-    "category": "client"
-  },
-  {
-    "tag": "transparent-proxy",
-    "count": 9,
-    "category": "client"
   },
   {
     "tag": "shadowsocks",
