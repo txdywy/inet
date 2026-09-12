@@ -1,11 +1,11 @@
 {
-  "totalItems": 1597,
-  "last24h": 5,
+  "totalItems": 1599,
+  "last24h": 6,
   "last7d": 43,
   "byCategory": {
-    "core": 273,
+    "core": 274,
     "client": 263,
-    "router": 17,
+    "router": 18,
     "protocol": 57,
     "dns_rules": 189,
     "security": 58,
@@ -47,7 +47,7 @@
     },
     {
       "project": "gost",
-      "count": 45
+      "count": 46
     },
     {
       "project": "v2rayN",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "release",
-      "count": 410
+      "count": 412
     },
     {
       "tag": "MetaCubeX",
@@ -136,8 +136,8 @@
       "count": 67
     }
   ],
-  "importantCount": 582,
+  "importantCount": 583,
   "breakingCount": 89,
   "securityCount": 112,
-  "updatedAt": "2026-09-12T10:53:25.221Z"
+  "updatedAt": "2026-09-12T15:34:49.830Z"
 }

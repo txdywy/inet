@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 410,
-    "category": "client"
+    "count": 412,
+    "category": "core"
   },
   {
     "tag": "MetaCubeX",
@@ -270,14 +270,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "dns",
+    "count": 24,
+    "category": "router"
+  },
+  {
     "tag": "HTTP/2",
     "count": 24,
     "category": "protocol"
-  },
-  {
-    "tag": "dns",
-    "count": 23,
-    "category": "router"
   },
   {
     "tag": "依赖更新",
@@ -315,6 +315,11 @@
     "category": "core"
   },
   {
+    "tag": "openwrt",
+    "count": 19,
+    "category": "router"
+  },
+  {
     "tag": "macOS",
     "count": 19,
     "category": "client"
@@ -323,11 +328,6 @@
     "tag": "CHACHA20-POLY1305",
     "count": 19,
     "category": "ecosystem"
-  },
-  {
-    "tag": "openwrt",
-    "count": 18,
-    "category": "router"
   },
   {
     "tag": "naiveproxy",
@@ -390,6 +390,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "mosdns",
+    "count": 15,
+    "category": "router"
+  },
+  {
     "tag": "xray",
     "count": 15,
     "category": "security"
@@ -400,9 +405,9 @@
     "category": "ecosystem"
   },
   {
-    "tag": "mosdns",
+    "tag": "gost",
     "count": 14,
-    "category": "router"
+    "category": "core"
   },
   {
     "tag": "v2rayA",
@@ -417,11 +422,6 @@
   {
     "tag": "SUDOKU-ASCII",
     "count": 14,
-    "category": "core"
-  },
-  {
-    "tag": "gost",
-    "count": 13,
     "category": "core"
   },
   {
@@ -485,6 +485,11 @@
     "category": "client"
   },
   {
+    "tag": "tunnel",
+    "count": 10,
+    "category": "core"
+  },
+  {
     "tag": "v2raya",
     "count": 10,
     "category": "client"
@@ -528,11 +533,6 @@
     "tag": "shadowsocks",
     "count": 9,
     "category": "security"
-  },
-  {
-    "tag": "tunnel",
-    "count": 9,
-    "category": "core"
   },
   {
     "tag": "配置管理",

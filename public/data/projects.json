@@ -233,6 +233,22 @@
     ]
   },
   {
+    "slug": "luci-app-mosdns",
+    "name": "luci-app-mosdns",
+    "repo": "sbwml/luci-app-mosdns",
+    "description": "OpenWrt / 路由器固件及插件",
+    "category": "router",
+    "platforms": [
+      "openwrt",
+      "router"
+    ],
+    "tags": [
+      "mosdns",
+      "openwrt",
+      "dns"
+    ]
+  },
+  {
     "slug": "clash-verge-rev",
     "name": "clash-verge-rev",
     "repo": "clash-verge-rev/clash-verge-rev",
@@ -247,22 +263,6 @@
       "clash-verge",
       "mihomo",
       "desktop"
-    ]
-  },
-  {
-    "slug": "luci-app-mosdns",
-    "name": "luci-app-mosdns",
-    "repo": "sbwml/luci-app-mosdns",
-    "description": "OpenWrt / 路由器固件及插件",
-    "category": "router",
-    "platforms": [
-      "openwrt",
-      "router"
-    ],
-    "tags": [
-      "mosdns",
-      "openwrt",
-      "dns"
     ]
   },
   {
