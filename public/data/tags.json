@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 405,
-    "category": "ecosystem"
+    "count": 407,
+    "category": "dns_rules"
   },
   {
     "tag": "MetaCubeX",
@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 264,
+    "count": 265,
     "category": "dns_rules"
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "tag": "geosite",
-    "count": 162,
+    "count": 164,
     "category": "dns_rules"
   },
   {
@@ -45,19 +45,19 @@
     "category": "ecosystem"
   },
   {
-    "tag": "meta-rules-dat",
-    "count": 88,
-    "category": "ecosystem"
-  },
-  {
     "tag": "ruleset",
-    "count": 86,
+    "count": 88,
     "category": "dns_rules"
   },
   {
     "tag": "geoip",
-    "count": 86,
+    "count": 88,
     "category": "dns_rules"
+  },
+  {
+    "tag": "meta-rules-dat",
+    "count": 88,
+    "category": "ecosystem"
   },
   {
     "tag": "Loyalsoldier",

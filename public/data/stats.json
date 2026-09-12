@@ -1,13 +1,13 @@
 {
-  "totalItems": 1592,
-  "last24h": 5,
-  "last7d": 44,
+  "totalItems": 1594,
+  "last24h": 4,
+  "last7d": 43,
   "byCategory": {
     "core": 273,
     "client": 262,
     "router": 17,
     "protocol": 57,
-    "dns_rules": 186,
+    "dns_rules": 188,
     "security": 58,
     "ecosystem": 739,
     "trend": 0
@@ -27,11 +27,11 @@
     },
     {
       "project": "v2ray-rules-dat",
-      "count": 134
+      "count": 135
     },
     {
       "project": "meta-rules-dat",
-      "count": 131
+      "count": 132
     },
     {
       "project": "3x-ui",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "release",
-      "count": 405
+      "count": 407
     },
     {
       "tag": "MetaCubeX",
@@ -65,7 +65,7 @@
     },
     {
       "tag": "mihomo",
-      "count": 264
+      "count": 265
     },
     {
       "tag": "v2fly",
@@ -73,7 +73,7 @@
     },
     {
       "tag": "geosite",
-      "count": 162
+      "count": 164
     },
     {
       "tag": "domain-list",
@@ -92,16 +92,16 @@
       "count": 100
     },
     {
-      "tag": "meta-rules-dat",
+      "tag": "ruleset",
       "count": 88
     },
     {
-      "tag": "ruleset",
-      "count": 86
+      "tag": "geoip",
+      "count": 88
     },
     {
-      "tag": "geoip",
-      "count": 86
+      "tag": "meta-rules-dat",
+      "count": 88
     },
     {
       "tag": "Loyalsoldier",
@@ -136,8 +136,8 @@
       "count": 67
     }
   ],
-  "importantCount": 577,
+  "importantCount": 579,
   "breakingCount": 89,
   "securityCount": 112,
-  "updatedAt": "2026-09-11T20:55:54.800Z"
+  "updatedAt": "2026-09-12T04:40:36.016Z"
 }
