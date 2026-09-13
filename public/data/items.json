@@ -1,5 +1,79 @@
 [
   {
+    "id": "1d0fa4491086fc99",
+    "title": "go-gost/gost v3.3.1-nightly.20260913",
+    "summary": "v3.3.1-nightly.20260913",
+    "rawTitle": "v3.3.1-nightly.20260913",
+    "rawBody": "## Changelog\n* ece7770ad78f86744aa95c7887ead065642f96b4 chore(gost): bump github.com/go-gost/x to v0.17.2\n\n",
+    "sourceType": "github_release",
+    "sourceName": "go-gost/gost",
+    "sourceUrl": "https://github.com/go-gost/gost/releases/tag/v3.3.1-nightly.20260913",
+    "project": "gost",
+    "repo": "go-gost/gost",
+    "slug": "gost",
+    "version": "3.3.1-nightly.20260913",
+    "category": "core",
+    "tags": [
+      "gost",
+      "tunnel",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 2,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2026-09-13T15:27:06Z",
+    "fetchedAt": "2026-09-13T16:22:43.425Z",
+    "firstSeenAt": "2026-09-13T16:22:54.783Z",
+    "updatedAt": "2026-09-13T16:22:54.783Z",
+    "hash": "1d0fa4491086fc99"
+  },
+  {
+    "id": "a26fe60f6bca65a0",
+    "title": "SagerNet/sing-box 1.15.0-alpha.3",
+    "summary": "1.15.0-alpha.3",
+    "rawTitle": "1.15.0-alpha.3",
+    "rawBody": "## :memo: Release Notes\n\n* Significantly improve TUN performance with a new TCP/IP stack **1**\n* Fixes and improvements\n\n**1**:\n\nSince 1.15.0, sing-tun uses its own TCP/IP stack, with substantial improvements over all previous implementations in peak performance, energy efficiency, and memory usage. Remove the `stack` option to use it.\n\nThe `stack` option is deprecated and will be removed in sing-box 1.17.0. See [Migration](https://sing-box.sagernet.org/migration/#migrate-tun-stack).\n",
+    "sourceType": "github_release",
+    "sourceName": "SagerNet/sing-box",
+    "sourceUrl": "https://github.com/SagerNet/sing-box/releases/tag/v1.15.0-alpha.3",
+    "project": "sing-box",
+    "repo": "SagerNet/sing-box",
+    "slug": "sing-box",
+    "version": "1.15.0-alpha.3",
+    "category": "core",
+    "tags": [
+      "sing-box",
+      "vless",
+      "hysteria2",
+      "tuic",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos",
+      "android",
+      "ios"
+    ],
+    "importance": 3,
+    "confidence": 0.7999999999999999,
+    "isBreaking": true,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-09-13T14:02:08Z",
+    "fetchedAt": "2026-09-13T16:22:40.407Z",
+    "firstSeenAt": "2026-09-13T16:22:53.974Z",
+    "updatedAt": "2026-09-13T16:22:53.974Z",
+    "hash": "a26fe60f6bca65a0"
+  },
+  {
     "id": "57ba91e630670e02",
     "title": "MetaCubeX/meta-rules-dat Release 2026-09-13 08:05",
     "summary": "Release 2026-09-13 08:05",
@@ -22099,6 +22173,40 @@
     "firstSeenAt": "2026-06-25T04:36:16.426Z",
     "updatedAt": "2026-06-25T04:36:16.426Z",
     "hash": "e54a070ca4e6a5bf"
+  },
+  {
+    "id": "570fd3aed1fd4a9c",
+    "title": "MHSanaei/3x-ui Dev build 768bbd2a",
+    "summary": "Dev build 768bbd2a",
+    "rawTitle": "Dev build 768bbd2a",
+    "rawBody": "Rolling development build — installs via the panel's Dev update channel.\n\ncommit=768bbd2a292edd79bb231e409e1e58efb9eccbd6\nbuilt=2026-09-13T12:54:12Z\n\nAutomated per-commit build from main. Not a stable release.",
+    "sourceType": "github_release",
+    "sourceName": "MHSanaei/3x-ui",
+    "sourceUrl": "https://github.com/MHSanaei/3x-ui/releases/tag/dev-latest",
+    "project": "3x-ui",
+    "repo": "MHSanaei/3x-ui",
+    "slug": "3x-ui",
+    "version": "dev-latest",
+    "category": "ecosystem",
+    "tags": [
+      "x-ui",
+      "panel",
+      "xray-core",
+      "release"
+    ],
+    "platforms": [
+      "linux"
+    ],
+    "importance": 4,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2026-06-24T16:17:06Z",
+    "fetchedAt": "2026-09-13T16:22:50.530Z",
+    "firstSeenAt": "2026-09-13T16:22:55.590Z",
+    "updatedAt": "2026-09-13T16:22:55.590Z",
+    "hash": "570fd3aed1fd4a9c"
   },
   {
     "id": "0aa94801814a40ef",

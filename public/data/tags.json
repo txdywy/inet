@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 415,
-    "category": "dns_rules"
+    "count": 418,
+    "category": "core"
   },
   {
     "tag": "MetaCubeX",
@@ -81,12 +81,12 @@
   },
   {
     "tag": "xray-core",
-    "count": 74,
+    "count": 75,
     "category": "security"
   },
   {
     "tag": "sing-box",
-    "count": 73,
+    "count": 74,
     "category": "core"
   },
   {
@@ -125,19 +125,24 @@
     "category": "client"
   },
   {
+    "tag": "x-ui",
+    "count": 48,
+    "category": "security"
+  },
+  {
+    "tag": "panel",
+    "count": 48,
+    "category": "security"
+  },
+  {
     "tag": "quic",
     "count": 47,
     "category": "router"
   },
   {
-    "tag": "x-ui",
-    "count": 47,
-    "category": "security"
-  },
-  {
-    "tag": "panel",
-    "count": 47,
-    "category": "security"
+    "tag": "vless",
+    "count": 46,
+    "category": "core"
   },
   {
     "tag": "开源",
@@ -147,11 +152,6 @@
   {
     "tag": "代理",
     "count": 46,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "vless",
-    "count": 45,
     "category": "ecosystem"
   },
   {
@@ -170,13 +170,13 @@
     "category": "ecosystem"
   },
   {
-    "tag": "代理工具",
+    "tag": "hysteria2",
     "count": 42,
     "category": "core"
   },
   {
-    "tag": "hysteria2",
-    "count": 41,
+    "tag": "代理工具",
+    "count": 42,
     "category": "core"
   },
   {
@@ -240,6 +240,11 @@
     "category": "core"
   },
   {
+    "tag": "tuic",
+    "count": 29,
+    "category": "core"
+  },
+  {
     "tag": "v2rayN",
     "count": 29,
     "category": "security"
@@ -248,11 +253,6 @@
     "tag": "自动化构建",
     "count": 29,
     "category": "ecosystem"
-  },
-  {
-    "tag": "tuic",
-    "count": 28,
-    "category": "core"
   },
   {
     "tag": "wireguard",
@@ -390,6 +390,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "gost",
+    "count": 15,
+    "category": "core"
+  },
+  {
     "tag": "mosdns",
     "count": 15,
     "category": "router"
@@ -403,11 +408,6 @@
     "tag": "网络规则",
     "count": 15,
     "category": "ecosystem"
-  },
-  {
-    "tag": "gost",
-    "count": 14,
-    "category": "core"
   },
   {
     "tag": "v2rayA",
@@ -450,6 +450,11 @@
     "category": "core"
   },
   {
+    "tag": "tunnel",
+    "count": 11,
+    "category": "core"
+  },
+  {
     "tag": "android",
     "count": 11,
     "category": "security"
@@ -483,11 +488,6 @@
     "tag": "用户体验",
     "count": 11,
     "category": "client"
-  },
-  {
-    "tag": "tunnel",
-    "count": 10,
-    "category": "core"
   },
   {
     "tag": "v2raya",
