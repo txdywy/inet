@@ -1,5 +1,5 @@
 {
-  "totalItems": 1621,
+  "totalItems": 1622,
   "last24h": 9,
   "last7d": 46,
   "byCategory": {
@@ -9,7 +9,7 @@
     "protocol": 57,
     "dns_rules": 195,
     "security": 63,
-    "ecosystem": 746,
+    "ecosystem": 747,
     "trend": 0
   },
   "topProjects": [
@@ -31,7 +31,7 @@
     },
     {
       "project": "3x-ui",
-      "count": 136
+      "count": 137
     },
     {
       "project": "meta-rules-dat",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "release",
-      "count": 434
+      "count": 435
     },
     {
       "tag": "MetaCubeX",
@@ -117,7 +117,7 @@
     },
     {
       "tag": "xray-core",
-      "count": 80
+      "count": 81
     },
     {
       "tag": "OpenVPN",
@@ -136,8 +136,8 @@
       "count": 69
     }
   ],
-  "importantCount": 596,
+  "importantCount": 597,
   "breakingCount": 91,
   "securityCount": 117,
-  "updatedAt": "2026-09-14T18:05:26.267Z"
+  "updatedAt": "2026-09-14T21:46:51.396Z"
 }
