@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 419,
-    "category": "core"
+    "count": 423,
+    "category": "dns_rules"
   },
   {
     "tag": "MetaCubeX",
@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 266,
+    "count": 268,
     "category": "dns_rules"
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "tag": "geosite",
-    "count": 167,
+    "count": 169,
     "category": "dns_rules"
   },
   {
@@ -46,12 +46,12 @@
   },
   {
     "tag": "ruleset",
-    "count": 91,
+    "count": 93,
     "category": "dns_rules"
   },
   {
     "tag": "geoip",
-    "count": 91,
+    "count": 93,
     "category": "dns_rules"
   },
   {
@@ -81,7 +81,7 @@
   },
   {
     "tag": "xray-core",
-    "count": 76,
+    "count": 77,
     "category": "security"
   },
   {
@@ -101,7 +101,7 @@
   },
   {
     "tag": "clash",
-    "count": 62,
+    "count": 63,
     "category": "ecosystem"
   },
   {
@@ -111,12 +111,12 @@
   },
   {
     "tag": "xhttp",
-    "count": 55,
+    "count": 56,
     "category": "security"
   },
   {
     "tag": "meta",
-    "count": 55,
+    "count": 56,
     "category": "security"
   },
   {
@@ -126,23 +126,23 @@
   },
   {
     "tag": "x-ui",
-    "count": 49,
+    "count": 50,
     "category": "security"
   },
   {
     "tag": "panel",
-    "count": 49,
+    "count": 50,
     "category": "security"
+  },
+  {
+    "tag": "vless",
+    "count": 47,
+    "category": "core"
   },
   {
     "tag": "quic",
     "count": 47,
     "category": "router"
-  },
-  {
-    "tag": "vless",
-    "count": 46,
-    "category": "core"
   },
   {
     "tag": "开源",
@@ -256,7 +256,7 @@
   },
   {
     "tag": "wireguard",
-    "count": 26,
+    "count": 27,
     "category": "ecosystem"
   },
   {
@@ -280,6 +280,11 @@
     "category": "protocol"
   },
   {
+    "tag": "sudoku",
+    "count": 23,
+    "category": "core"
+  },
+  {
     "tag": "依赖更新",
     "count": 23,
     "category": "ecosystem"
@@ -288,11 +293,6 @@
     "tag": "VLESS",
     "count": 23,
     "category": "ecosystem"
-  },
-  {
-    "tag": "sudoku",
-    "count": 22,
-    "category": "core"
   },
   {
     "tag": "用户界面",
@@ -460,6 +460,11 @@
     "category": "security"
   },
   {
+    "tag": "reality",
+    "count": 11,
+    "category": "security"
+  },
+  {
     "tag": "TUN",
     "count": 11,
     "category": "client"
@@ -503,11 +508,6 @@
     "tag": "transparent-proxy",
     "count": 10,
     "category": "client"
-  },
-  {
-    "tag": "reality",
-    "count": 10,
-    "category": "security"
   },
   {
     "tag": "API",

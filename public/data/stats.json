@@ -1,15 +1,15 @@
 {
-  "totalItems": 1606,
+  "totalItems": 1610,
   "last24h": 4,
-  "last7d": 42,
+  "last7d": 40,
   "byCategory": {
     "core": 276,
     "client": 263,
     "router": 18,
     "protocol": 57,
-    "dns_rules": 191,
-    "security": 58,
-    "ecosystem": 743,
+    "dns_rules": 193,
+    "security": 59,
+    "ecosystem": 744,
     "trend": 0
   },
   "topProjects": [
@@ -19,7 +19,7 @@
     },
     {
       "project": "mihomo",
-      "count": 202
+      "count": 203
     },
     {
       "project": "Sub-Store",
@@ -27,15 +27,15 @@
     },
     {
       "project": "v2ray-rules-dat",
-      "count": 137
+      "count": 138
     },
     {
       "project": "meta-rules-dat",
-      "count": 133
+      "count": 134
     },
     {
       "project": "3x-ui",
-      "count": 132
+      "count": 133
     },
     {
       "project": "metacubexd",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "release",
-      "count": 419
+      "count": 423
     },
     {
       "tag": "MetaCubeX",
@@ -65,7 +65,7 @@
     },
     {
       "tag": "mihomo",
-      "count": 266
+      "count": 268
     },
     {
       "tag": "v2fly",
@@ -73,7 +73,7 @@
     },
     {
       "tag": "geosite",
-      "count": 167
+      "count": 169
     },
     {
       "tag": "domain-list",
@@ -93,11 +93,11 @@
     },
     {
       "tag": "ruleset",
-      "count": 91
+      "count": 93
     },
     {
       "tag": "geoip",
-      "count": 91
+      "count": 93
     },
     {
       "tag": "meta-rules-dat",
@@ -121,7 +121,7 @@
     },
     {
       "tag": "xray-core",
-      "count": 76
+      "count": 77
     },
     {
       "tag": "sing-box",
@@ -136,8 +136,8 @@
       "count": 67
     }
   ],
-  "importantCount": 588,
+  "importantCount": 591,
   "breakingCount": 90,
-  "securityCount": 112,
-  "updatedAt": "2026-09-13T20:46:06.430Z"
+  "securityCount": 113,
+  "updatedAt": "2026-09-14T05:02:21.511Z"
 }
