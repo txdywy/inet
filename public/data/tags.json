@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 423,
-    "category": "dns_rules"
+    "count": 428,
+    "category": "client"
   },
   {
     "tag": "MetaCubeX",
@@ -11,8 +11,8 @@
   },
   {
     "tag": "mihomo",
-    "count": 268,
-    "category": "dns_rules"
+    "count": 270,
+    "category": "client"
   },
   {
     "tag": "v2fly",
@@ -21,12 +21,12 @@
   },
   {
     "tag": "geosite",
-    "count": 169,
+    "count": 171,
     "category": "dns_rules"
   },
   {
     "tag": "domain-list",
-    "count": 144,
+    "count": 146,
     "category": "dns_rules"
   },
   {
@@ -81,7 +81,7 @@
   },
   {
     "tag": "xray-core",
-    "count": 77,
+    "count": 78,
     "category": "security"
   },
   {
@@ -101,8 +101,8 @@
   },
   {
     "tag": "clash",
-    "count": 63,
-    "category": "ecosystem"
+    "count": 65,
+    "category": "client"
   },
   {
     "tag": "开发版本",
@@ -111,12 +111,22 @@
   },
   {
     "tag": "xhttp",
-    "count": 56,
+    "count": 57,
     "category": "security"
   },
   {
     "tag": "meta",
-    "count": 56,
+    "count": 57,
+    "category": "security"
+  },
+  {
+    "tag": "x-ui",
+    "count": 51,
+    "category": "security"
+  },
+  {
+    "tag": "panel",
+    "count": 51,
     "category": "security"
   },
   {
@@ -125,18 +135,8 @@
     "category": "client"
   },
   {
-    "tag": "x-ui",
-    "count": 50,
-    "category": "security"
-  },
-  {
-    "tag": "panel",
-    "count": 50,
-    "category": "security"
-  },
-  {
     "tag": "vless",
-    "count": 47,
+    "count": 48,
     "category": "core"
   },
   {
@@ -256,7 +256,7 @@
   },
   {
     "tag": "wireguard",
-    "count": 27,
+    "count": 28,
     "category": "ecosystem"
   },
   {
@@ -275,14 +275,14 @@
     "category": "router"
   },
   {
+    "tag": "sudoku",
+    "count": 24,
+    "category": "core"
+  },
+  {
     "tag": "HTTP/2",
     "count": 24,
     "category": "protocol"
-  },
-  {
-    "tag": "sudoku",
-    "count": 23,
-    "category": "core"
   },
   {
     "tag": "依赖更新",
@@ -440,7 +440,17 @@
     "category": "client"
   },
   {
+    "tag": "android",
+    "count": 12,
+    "category": "client"
+  },
+  {
     "tag": "v2ray-agent",
+    "count": 12,
+    "category": "security"
+  },
+  {
+    "tag": "reality",
     "count": 12,
     "category": "security"
   },
@@ -453,16 +463,6 @@
     "tag": "tunnel",
     "count": 11,
     "category": "core"
-  },
-  {
-    "tag": "android",
-    "count": 11,
-    "category": "security"
-  },
-  {
-    "tag": "reality",
-    "count": 11,
-    "category": "security"
   },
   {
     "tag": "TUN",
