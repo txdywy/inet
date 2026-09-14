@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 428,
-    "category": "client"
+    "count": 434,
+    "category": "security"
   },
   {
     "tag": "MetaCubeX",
@@ -11,8 +11,8 @@
   },
   {
     "tag": "mihomo",
-    "count": 270,
-    "category": "client"
+    "count": 274,
+    "category": "security"
   },
   {
     "tag": "v2fly",
@@ -75,14 +75,14 @@
     "category": "client"
   },
   {
+    "tag": "xray-core",
+    "count": 80,
+    "category": "security"
+  },
+  {
     "tag": "OpenVPN",
     "count": 80,
     "category": "protocol"
-  },
-  {
-    "tag": "xray-core",
-    "count": 78,
-    "category": "security"
   },
   {
     "tag": "sing-box",
@@ -95,14 +95,24 @@
     "category": "ecosystem"
   },
   {
+    "tag": "clash",
+    "count": 69,
+    "category": "security"
+  },
+  {
     "tag": "rules",
     "count": 67,
     "category": "ecosystem"
   },
   {
-    "tag": "clash",
-    "count": 65,
-    "category": "client"
+    "tag": "meta",
+    "count": 59,
+    "category": "security"
+  },
+  {
+    "tag": "xhttp",
+    "count": 59,
+    "category": "security"
   },
   {
     "tag": "开发版本",
@@ -110,22 +120,17 @@
     "category": "ecosystem"
   },
   {
-    "tag": "xhttp",
-    "count": 57,
-    "category": "security"
-  },
-  {
-    "tag": "meta",
-    "count": 57,
-    "category": "security"
-  },
-  {
     "tag": "x-ui",
-    "count": 51,
+    "count": 53,
     "category": "security"
   },
   {
     "tag": "panel",
+    "count": 53,
+    "category": "security"
+  },
+  {
+    "tag": "vless",
     "count": 51,
     "category": "security"
   },
@@ -133,11 +138,6 @@
     "tag": "Android",
     "count": 51,
     "category": "client"
-  },
-  {
-    "tag": "vless",
-    "count": 48,
-    "category": "core"
   },
   {
     "tag": "quic",
@@ -160,6 +160,11 @@
     "category": "core"
   },
   {
+    "tag": "hysteria2",
+    "count": 43,
+    "category": "security"
+  },
+  {
     "tag": "ech",
     "count": 43,
     "category": "client"
@@ -168,11 +173,6 @@
     "tag": "dat",
     "count": 43,
     "category": "ecosystem"
-  },
-  {
-    "tag": "hysteria2",
-    "count": 42,
-    "category": "core"
   },
   {
     "tag": "代理工具",
@@ -235,13 +235,18 @@
     "category": "ecosystem"
   },
   {
-    "tag": "Tailscale",
-    "count": 30,
-    "category": "core"
+    "tag": "tuic",
+    "count": 31,
+    "category": "security"
   },
   {
-    "tag": "tuic",
-    "count": 29,
+    "tag": "wireguard",
+    "count": 31,
+    "category": "security"
+  },
+  {
+    "tag": "Tailscale",
+    "count": 30,
     "category": "core"
   },
   {
@@ -255,9 +260,9 @@
     "category": "ecosystem"
   },
   {
-    "tag": "wireguard",
-    "count": 28,
-    "category": "ecosystem"
+    "tag": "sudoku",
+    "count": 26,
+    "category": "security"
   },
   {
     "tag": "DNS",
@@ -273,11 +278,6 @@
     "tag": "dns",
     "count": 24,
     "category": "router"
-  },
-  {
-    "tag": "sudoku",
-    "count": 24,
-    "category": "core"
   },
   {
     "tag": "HTTP/2",
@@ -330,6 +330,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "snell",
+    "count": 18,
+    "category": "security"
+  },
+  {
     "tag": "naiveproxy",
     "count": 18,
     "category": "router"
@@ -343,11 +348,6 @@
     "tag": "Xray",
     "count": 18,
     "category": "core"
-  },
-  {
-    "tag": "snell",
-    "count": 17,
-    "category": "ecosystem"
   },
   {
     "tag": "TLS",
@@ -390,6 +390,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "reality",
+    "count": 15,
+    "category": "security"
+  },
+  {
     "tag": "gost",
     "count": 15,
     "category": "core"
@@ -408,6 +413,11 @@
     "tag": "网络规则",
     "count": 15,
     "category": "ecosystem"
+  },
+  {
+    "tag": "android",
+    "count": 14,
+    "category": "client"
   },
   {
     "tag": "v2rayA",
@@ -440,17 +450,7 @@
     "category": "client"
   },
   {
-    "tag": "android",
-    "count": 12,
-    "category": "client"
-  },
-  {
     "tag": "v2ray-agent",
-    "count": 12,
-    "category": "security"
-  },
-  {
-    "tag": "reality",
     "count": 12,
     "category": "security"
   },
@@ -458,6 +458,11 @@
     "tag": "HTTP",
     "count": 12,
     "category": "core"
+  },
+  {
+    "tag": "shadowsocks",
+    "count": 11,
+    "category": "security"
   },
   {
     "tag": "tunnel",
@@ -526,11 +531,6 @@
   },
   {
     "tag": "v2rayng",
-    "count": 9,
-    "category": "security"
-  },
-  {
-    "tag": "shadowsocks",
     "count": 9,
     "category": "security"
   },
@@ -755,6 +755,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "amneziawg",
+    "count": 5,
+    "category": "security"
+  },
+  {
     "tag": "tailscale",
     "count": 5,
     "category": "ecosystem"
@@ -873,6 +878,11 @@
     "tag": "subconverter",
     "count": 5,
     "category": "ecosystem"
+  },
+  {
+    "tag": "vision",
+    "count": 4,
+    "category": "security"
   },
   {
     "tag": "mesh",
@@ -1018,16 +1028,6 @@
     "tag": "ssrplus",
     "count": 3,
     "category": "router"
-  },
-  {
-    "tag": "vision",
-    "count": 3,
-    "category": "security"
-  },
-  {
-    "tag": "amneziawg",
-    "count": 3,
-    "category": "security"
   },
   {
     "tag": "CDN",
