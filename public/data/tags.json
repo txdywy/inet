@@ -1,7 +1,7 @@
 [
   {
     "tag": "release",
-    "count": 445,
+    "count": 447,
     "category": "ecosystem"
   },
   {
@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 275,
+    "count": 276,
     "category": "dns_rules"
   },
   {
@@ -66,7 +66,7 @@
   },
   {
     "tag": "xray-core",
-    "count": 83,
+    "count": 84,
     "category": "security"
   },
   {
@@ -96,7 +96,7 @@
   },
   {
     "tag": "clash",
-    "count": 69,
+    "count": 70,
     "category": "security"
   },
   {
@@ -106,7 +106,7 @@
   },
   {
     "tag": "meta",
-    "count": 59,
+    "count": 60,
     "category": "security"
   },
   {
@@ -121,12 +121,12 @@
   },
   {
     "tag": "x-ui",
-    "count": 56,
+    "count": 57,
     "category": "security"
   },
   {
     "tag": "panel",
-    "count": 56,
+    "count": 57,
     "category": "security"
   },
   {
