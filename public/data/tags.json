@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 441,
-    "category": "dns_rules"
+    "count": 445,
+    "category": "ecosystem"
   },
   {
     "tag": "MetaCubeX",
@@ -65,14 +65,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "xray-core",
+    "count": 83,
+    "category": "security"
+  },
+  {
     "tag": "3x-ui",
     "count": 83,
     "category": "client"
-  },
-  {
-    "tag": "xray-core",
-    "count": 82,
-    "category": "security"
   },
   {
     "tag": "metacubexd",
@@ -121,18 +121,18 @@
   },
   {
     "tag": "x-ui",
-    "count": 55,
+    "count": 56,
     "category": "security"
   },
   {
     "tag": "panel",
-    "count": 55,
+    "count": 56,
     "category": "security"
   },
   {
     "tag": "vless",
-    "count": 53,
-    "category": "core"
+    "count": 54,
+    "category": "ecosystem"
   },
   {
     "tag": "Android",
@@ -185,6 +185,16 @@
     "category": "core"
   },
   {
+    "tag": "sub-store",
+    "count": 39,
+    "category": "security"
+  },
+  {
+    "tag": "subscription",
+    "count": 39,
+    "category": "security"
+  },
+  {
     "tag": "Linux",
     "count": 38,
     "category": "client"
@@ -193,16 +203,6 @@
     "tag": "Windows",
     "count": 38,
     "category": "client"
-  },
-  {
-    "tag": "sub-store",
-    "count": 37,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "subscription",
-    "count": 37,
-    "category": "ecosystem"
   },
   {
     "tag": "go-gost",
@@ -435,6 +435,11 @@
     "category": "core"
   },
   {
+    "tag": "v2ray-agent",
+    "count": 13,
+    "category": "ecosystem"
+  },
+  {
     "tag": "OpenWrt",
     "count": 13,
     "category": "security"
@@ -448,11 +453,6 @@
     "tag": "SOCKS",
     "count": 13,
     "category": "client"
-  },
-  {
-    "tag": "v2ray-agent",
-    "count": 12,
-    "category": "security"
   },
   {
     "tag": "HTTP",
@@ -755,6 +755,16 @@
     "category": "ecosystem"
   },
   {
+    "tag": "script",
+    "count": 5,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "vps",
+    "count": 5,
+    "category": "ecosystem"
+  },
+  {
     "tag": "amneziawg",
     "count": 5,
     "category": "security"
@@ -888,16 +898,6 @@
     "tag": "mesh",
     "count": 4,
     "category": "ecosystem"
-  },
-  {
-    "tag": "script",
-    "count": 4,
-    "category": "security"
-  },
-  {
-    "tag": "vps",
-    "count": 4,
-    "category": "security"
   },
   {
     "tag": "luci",

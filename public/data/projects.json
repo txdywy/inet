@@ -334,6 +334,21 @@
     ]
   },
   {
+    "slug": "v2ray-agent",
+    "name": "v2ray-agent",
+    "repo": "mack-a/v2ray-agent",
+    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
+    "category": "ecosystem",
+    "platforms": [
+      "linux"
+    ],
+    "tags": [
+      "v2ray-agent",
+      "script",
+      "vps"
+    ]
+  },
+  {
     "slug": "naiveproxy",
     "name": "naiveproxy",
     "repo": "klzgrad/naiveproxy",
@@ -347,21 +362,6 @@
     ],
     "tags": [
       "naiveproxy"
-    ]
-  },
-  {
-    "slug": "v2ray-agent",
-    "name": "v2ray-agent",
-    "repo": "mack-a/v2ray-agent",
-    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
-    "category": "ecosystem",
-    "platforms": [
-      "linux"
-    ],
-    "tags": [
-      "v2ray-agent",
-      "script",
-      "vps"
     ]
   },
   {
