@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 435,
-    "category": "security"
+    "count": 439,
+    "category": "dns_rules"
   },
   {
     "tag": "MetaCubeX",
@@ -11,8 +11,8 @@
   },
   {
     "tag": "mihomo",
-    "count": 274,
-    "category": "security"
+    "count": 275,
+    "category": "dns_rules"
   },
   {
     "tag": "v2fly",
@@ -21,7 +21,7 @@
   },
   {
     "tag": "geosite",
-    "count": 171,
+    "count": 173,
     "category": "dns_rules"
   },
   {
@@ -46,12 +46,12 @@
   },
   {
     "tag": "ruleset",
-    "count": 93,
+    "count": 95,
     "category": "dns_rules"
   },
   {
     "tag": "geoip",
-    "count": 93,
+    "count": 95,
     "category": "dns_rules"
   },
   {
@@ -86,7 +86,7 @@
   },
   {
     "tag": "sing-box",
-    "count": 74,
+    "count": 76,
     "category": "core"
   },
   {
@@ -131,8 +131,8 @@
   },
   {
     "tag": "vless",
-    "count": 51,
-    "category": "security"
+    "count": 53,
+    "category": "core"
   },
   {
     "tag": "Android",
@@ -155,14 +155,14 @@
     "category": "ecosystem"
   },
   {
-    "tag": "网络协议",
-    "count": 44,
+    "tag": "hysteria2",
+    "count": 45,
     "category": "core"
   },
   {
-    "tag": "hysteria2",
-    "count": 43,
-    "category": "security"
+    "tag": "网络协议",
+    "count": 44,
+    "category": "core"
   },
   {
     "tag": "ech",
@@ -220,6 +220,11 @@
     "category": "client"
   },
   {
+    "tag": "tuic",
+    "count": 33,
+    "category": "core"
+  },
+  {
     "tag": "Snell",
     "count": 33,
     "category": "protocol"
@@ -233,11 +238,6 @@
     "tag": "自动构建",
     "count": 32,
     "category": "ecosystem"
-  },
-  {
-    "tag": "tuic",
-    "count": 31,
-    "category": "security"
   },
   {
     "tag": "wireguard",
