@@ -1,5 +1,41 @@
 [
   {
+    "id": "f9617e4a026887d1",
+    "title": "Loyalsoldier/v2ray-rules-dat Released on 202609151013",
+    "summary": "Released on 202609151013",
+    "rawTitle": "Released on 202609151013",
+    "rawBody": "",
+    "sourceType": "github_release",
+    "sourceName": "Loyalsoldier/v2ray-rules-dat",
+    "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/tag/202609151013",
+    "project": "v2ray-rules-dat",
+    "repo": "Loyalsoldier/v2ray-rules-dat",
+    "slug": "v2ray-rules-dat",
+    "version": "202609151013",
+    "category": "dns_rules",
+    "tags": [
+      "ruleset",
+      "geosite",
+      "geoip",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-09-15T10:13:39Z",
+    "fetchedAt": "2026-09-15T11:51:05.997Z",
+    "firstSeenAt": "2026-09-15T11:51:08.851Z",
+    "updatedAt": "2026-09-15T11:51:08.851Z",
+    "hash": "f9617e4a026887d1"
+  },
+  {
     "id": "f81778eee47976ea",
     "title": "MetaCubeX/meta-rules-dat Release 2026-09-15 08:44",
     "summary": "Release 2026-09-15 08:44",
@@ -22656,6 +22692,40 @@
     "firstSeenAt": "2026-06-25T04:36:16.426Z",
     "updatedAt": "2026-06-25T04:36:16.426Z",
     "hash": "e54a070ca4e6a5bf"
+  },
+  {
+    "id": "1e33cec489d52373",
+    "title": "MHSanaei/3x-ui Dev build 43e64993",
+    "summary": "Dev build 43e64993",
+    "rawTitle": "Dev build 43e64993",
+    "rawBody": "Rolling development build — installs via the panel's Dev update channel.\n\ncommit=43e64993fc9a760a74630cc78ec1e6a68b61a7dc\nbuilt=2026-09-15T10:36:35Z\n\nAutomated per-commit build from main. Not a stable release.",
+    "sourceType": "github_release",
+    "sourceName": "MHSanaei/3x-ui",
+    "sourceUrl": "https://github.com/MHSanaei/3x-ui/releases/tag/dev-latest",
+    "project": "3x-ui",
+    "repo": "MHSanaei/3x-ui",
+    "slug": "3x-ui",
+    "version": "dev-latest",
+    "category": "ecosystem",
+    "tags": [
+      "x-ui",
+      "panel",
+      "xray-core",
+      "release"
+    ],
+    "platforms": [
+      "linux"
+    ],
+    "importance": 4,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2026-06-24T16:17:06Z",
+    "fetchedAt": "2026-09-15T11:51:04.689Z",
+    "firstSeenAt": "2026-09-15T11:51:08.024Z",
+    "updatedAt": "2026-09-15T11:51:08.024Z",
+    "hash": "1e33cec489d52373"
   },
   {
     "id": "a4c1ea92079842ee",
