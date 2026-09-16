@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 447,
-    "category": "ecosystem"
+    "count": 453,
+    "category": "core"
   },
   {
     "tag": "MetaCubeX",
@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 276,
+    "count": 277,
     "category": "dns_rules"
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "tag": "geosite",
-    "count": 174,
+    "count": 176,
     "category": "dns_rules"
   },
   {
@@ -46,12 +46,12 @@
   },
   {
     "tag": "ruleset",
-    "count": 96,
+    "count": 98,
     "category": "dns_rules"
   },
   {
     "tag": "geoip",
-    "count": 96,
+    "count": 98,
     "category": "dns_rules"
   },
   {
@@ -60,14 +60,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "xray-core",
+    "count": 87,
+    "category": "security"
+  },
+  {
     "tag": "Loyalsoldier",
     "count": 86,
     "category": "ecosystem"
-  },
-  {
-    "tag": "xray-core",
-    "count": 84,
-    "category": "security"
   },
   {
     "tag": "3x-ui",
@@ -105,6 +105,16 @@
     "category": "ecosystem"
   },
   {
+    "tag": "x-ui",
+    "count": 60,
+    "category": "security"
+  },
+  {
+    "tag": "panel",
+    "count": 60,
+    "category": "security"
+  },
+  {
     "tag": "meta",
     "count": 60,
     "category": "security"
@@ -120,19 +130,9 @@
     "category": "ecosystem"
   },
   {
-    "tag": "x-ui",
-    "count": 57,
-    "category": "security"
-  },
-  {
-    "tag": "panel",
-    "count": 57,
-    "category": "security"
-  },
-  {
     "tag": "vless",
-    "count": 54,
-    "category": "ecosystem"
+    "count": 56,
+    "category": "security"
   },
   {
     "tag": "Android",
@@ -141,8 +141,13 @@
   },
   {
     "tag": "quic",
+    "count": 49,
+    "category": "core"
+  },
+  {
+    "tag": "hysteria2",
     "count": 47,
-    "category": "router"
+    "category": "core"
   },
   {
     "tag": "开源",
@@ -155,19 +160,14 @@
     "category": "ecosystem"
   },
   {
-    "tag": "hysteria2",
-    "count": 45,
+    "tag": "ech",
+    "count": 44,
     "category": "core"
   },
   {
     "tag": "网络协议",
     "count": 44,
     "category": "core"
-  },
-  {
-    "tag": "ech",
-    "count": 43,
-    "category": "client"
   },
   {
     "tag": "dat",
@@ -210,6 +210,11 @@
     "category": "core"
   },
   {
+    "tag": "tuic",
+    "count": 34,
+    "category": "core"
+  },
+  {
     "tag": "WireGuard",
     "count": 34,
     "category": "core"
@@ -218,11 +223,6 @@
     "tag": "ClashMetaForAndroid",
     "count": 34,
     "category": "client"
-  },
-  {
-    "tag": "tuic",
-    "count": 33,
-    "category": "core"
   },
   {
     "tag": "Snell",
@@ -235,14 +235,14 @@
     "category": "core"
   },
   {
+    "tag": "wireguard",
+    "count": 32,
+    "category": "security"
+  },
+  {
     "tag": "自动构建",
     "count": 32,
     "category": "ecosystem"
-  },
-  {
-    "tag": "wireguard",
-    "count": 31,
-    "category": "security"
   },
   {
     "tag": "Tailscale",
@@ -350,6 +350,11 @@
     "category": "core"
   },
   {
+    "tag": "reality",
+    "count": 17,
+    "category": "security"
+  },
+  {
     "tag": "TLS",
     "count": 17,
     "category": "ecosystem"
@@ -388,11 +393,6 @@
     "tag": "Alpha",
     "count": 16,
     "category": "ecosystem"
-  },
-  {
-    "tag": "reality",
-    "count": 15,
-    "category": "security"
   },
   {
     "tag": "gost",
@@ -435,6 +435,11 @@
     "category": "core"
   },
   {
+    "tag": "shadowsocks",
+    "count": 13,
+    "category": "security"
+  },
+  {
     "tag": "v2ray-agent",
     "count": 13,
     "category": "ecosystem"
@@ -458,11 +463,6 @@
     "tag": "HTTP",
     "count": 12,
     "category": "core"
-  },
-  {
-    "tag": "shadowsocks",
-    "count": 11,
-    "category": "security"
   },
   {
     "tag": "tunnel",
@@ -635,6 +635,11 @@
     "category": "core"
   },
   {
+    "tag": "amneziawg",
+    "count": 7,
+    "category": "security"
+  },
+  {
     "tag": "v2rayn",
     "count": 7,
     "category": "security"
@@ -763,11 +768,6 @@
     "tag": "vps",
     "count": 5,
     "category": "ecosystem"
-  },
-  {
-    "tag": "amneziawg",
-    "count": 5,
-    "category": "security"
   },
   {
     "tag": "tailscale",
