@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 453,
-    "category": "core"
+    "count": 456,
+    "category": "client"
   },
   {
     "tag": "MetaCubeX",
@@ -55,14 +55,14 @@
     "category": "dns_rules"
   },
   {
+    "tag": "xray-core",
+    "count": 88,
+    "category": "security"
+  },
+  {
     "tag": "meta-rules-dat",
     "count": 88,
     "category": "ecosystem"
-  },
-  {
-    "tag": "xray-core",
-    "count": 87,
-    "category": "security"
   },
   {
     "tag": "Loyalsoldier",
@@ -86,7 +86,7 @@
   },
   {
     "tag": "sing-box",
-    "count": 76,
+    "count": 77,
     "category": "core"
   },
   {
@@ -106,12 +106,12 @@
   },
   {
     "tag": "x-ui",
-    "count": 60,
+    "count": 61,
     "category": "security"
   },
   {
     "tag": "panel",
-    "count": 60,
+    "count": 61,
     "category": "security"
   },
   {
@@ -131,8 +131,8 @@
   },
   {
     "tag": "vless",
-    "count": 56,
-    "category": "security"
+    "count": 57,
+    "category": "core"
   },
   {
     "tag": "Android",
@@ -146,7 +146,7 @@
   },
   {
     "tag": "hysteria2",
-    "count": 47,
+    "count": 48,
     "category": "core"
   },
   {
@@ -205,13 +205,13 @@
     "category": "client"
   },
   {
-    "tag": "go-gost",
+    "tag": "tuic",
     "count": 36,
-    "category": "core"
+    "category": "client"
   },
   {
-    "tag": "tuic",
-    "count": 34,
+    "tag": "go-gost",
+    "count": 36,
     "category": "core"
   },
   {
@@ -225,6 +225,11 @@
     "category": "client"
   },
   {
+    "tag": "wireguard",
+    "count": 33,
+    "category": "core"
+  },
+  {
     "tag": "Snell",
     "count": 33,
     "category": "protocol"
@@ -233,11 +238,6 @@
     "tag": "xhttp-opts",
     "count": 33,
     "category": "core"
-  },
-  {
-    "tag": "wireguard",
-    "count": 32,
-    "category": "security"
   },
   {
     "tag": "自动构建",
@@ -465,6 +465,21 @@
     "category": "core"
   },
   {
+    "tag": "v2raya",
+    "count": 11,
+    "category": "client"
+  },
+  {
+    "tag": "web",
+    "count": 11,
+    "category": "client"
+  },
+  {
+    "tag": "transparent-proxy",
+    "count": 11,
+    "category": "client"
+  },
+  {
     "tag": "tunnel",
     "count": 11,
     "category": "core"
@@ -497,21 +512,6 @@
   {
     "tag": "用户体验",
     "count": 11,
-    "category": "client"
-  },
-  {
-    "tag": "v2raya",
-    "count": 10,
-    "category": "client"
-  },
-  {
-    "tag": "web",
-    "count": 10,
-    "category": "client"
-  },
-  {
-    "tag": "transparent-proxy",
-    "count": 10,
     "category": "client"
   },
   {

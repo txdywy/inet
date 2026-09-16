@@ -1,15 +1,15 @@
 {
-  "totalItems": 1640,
-  "last24h": 8,
-  "last7d": 47,
+  "totalItems": 1643,
+  "last24h": 9,
+  "last7d": 49,
   "byCategory": {
-    "core": 280,
-    "client": 266,
+    "core": 281,
+    "client": 267,
     "router": 18,
     "protocol": 57,
     "dns_rules": 200,
     "security": 66,
-    "ecosystem": 753,
+    "ecosystem": 754,
     "trend": 0
   },
   "topProjects": [
@@ -27,7 +27,7 @@
     },
     {
       "project": "3x-ui",
-      "count": 143
+      "count": 144
     },
     {
       "project": "v2ray-rules-dat",
@@ -43,7 +43,7 @@
     },
     {
       "project": "sing-box",
-      "count": 67
+      "count": 68
     },
     {
       "project": "gost",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "release",
-      "count": 453
+      "count": 456
     },
     {
       "tag": "MetaCubeX",
@@ -100,12 +100,12 @@
       "count": 98
     },
     {
-      "tag": "meta-rules-dat",
+      "tag": "xray-core",
       "count": 88
     },
     {
-      "tag": "xray-core",
-      "count": 87
+      "tag": "meta-rules-dat",
+      "count": 88
     },
     {
       "tag": "Loyalsoldier",
@@ -125,7 +125,7 @@
     },
     {
       "tag": "sing-box",
-      "count": 76
+      "count": 77
     },
     {
       "tag": "网络代理",
@@ -136,8 +136,8 @@
       "count": 70
     }
   ],
-  "importantCount": 611,
+  "importantCount": 614,
   "breakingCount": 93,
   "securityCount": 120,
-  "updatedAt": "2026-09-16T04:54:24.741Z"
+  "updatedAt": "2026-09-16T11:44:06.372Z"
 }
