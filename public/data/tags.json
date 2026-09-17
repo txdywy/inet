@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 456,
-    "category": "client"
+    "count": 458,
+    "category": "dns_rules"
   },
   {
     "tag": "MetaCubeX",
@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 277,
+    "count": 278,
     "category": "dns_rules"
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "tag": "geosite",
-    "count": 176,
+    "count": 178,
     "category": "dns_rules"
   },
   {
@@ -40,19 +40,19 @@
     "category": "ecosystem"
   },
   {
-    "tag": "v2ray",
-    "count": 100,
-    "category": "ecosystem"
-  },
-  {
     "tag": "ruleset",
-    "count": 98,
+    "count": 100,
     "category": "dns_rules"
   },
   {
     "tag": "geoip",
-    "count": 98,
+    "count": 100,
     "category": "dns_rules"
+  },
+  {
+    "tag": "v2ray",
+    "count": 100,
+    "category": "ecosystem"
   },
   {
     "tag": "xray-core",

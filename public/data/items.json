@@ -1,5 +1,78 @@
 [
   {
+    "id": "2f5858d1dce50568",
+    "title": "MetaCubeX/meta-rules-dat Release 2026-09-17 08:44",
+    "summary": "Release 2026-09-17 08:44",
+    "rawTitle": "Release 2026-09-17 08:44",
+    "rawBody": "",
+    "sourceType": "github_release",
+    "sourceName": "MetaCubeX/meta-rules-dat",
+    "sourceUrl": "https://github.com/MetaCubeX/meta-rules-dat/releases/tag/latest",
+    "project": "meta-rules-dat",
+    "repo": "MetaCubeX/meta-rules-dat",
+    "slug": "meta-rules-dat",
+    "version": "latest",
+    "category": "dns_rules",
+    "tags": [
+      "ruleset",
+      "geosite",
+      "geoip",
+      "mihomo",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-09-17T00:46:38Z",
+    "fetchedAt": "2026-09-17T04:57:29.514Z",
+    "firstSeenAt": "2026-09-17T04:57:32.255Z",
+    "updatedAt": "2026-09-17T04:57:32.255Z",
+    "hash": "2f5858d1dce50568"
+  },
+  {
+    "id": "97aaea3bd259416f",
+    "title": "Loyalsoldier/v2ray-rules-dat Released on 202609170000",
+    "summary": "Released on 202609170000",
+    "rawTitle": "Released on 202609170000",
+    "rawBody": "",
+    "sourceType": "github_release",
+    "sourceName": "Loyalsoldier/v2ray-rules-dat",
+    "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/tag/202609170000",
+    "project": "v2ray-rules-dat",
+    "repo": "Loyalsoldier/v2ray-rules-dat",
+    "slug": "v2ray-rules-dat",
+    "version": "202609170000",
+    "category": "dns_rules",
+    "tags": [
+      "ruleset",
+      "geosite",
+      "geoip",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-09-17T00:00:52Z",
+    "fetchedAt": "2026-09-17T04:57:29.502Z",
+    "firstSeenAt": "2026-09-17T04:57:31.417Z",
+    "updatedAt": "2026-09-17T04:57:31.417Z",
+    "hash": "97aaea3bd259416f"
+  },
+  {
     "id": "85723680778b8338",
     "title": "v2rayA/v2rayA v2.4.20",
     "summary": "v2.4.20",
