@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 458,
-    "category": "dns_rules"
+    "count": 459,
+    "category": "client"
   },
   {
     "tag": "MetaCubeX",
@@ -11,8 +11,8 @@
   },
   {
     "tag": "mihomo",
-    "count": 278,
-    "category": "dns_rules"
+    "count": 279,
+    "category": "client"
   },
   {
     "tag": "v2fly",
@@ -1025,6 +1025,11 @@
     "category": "client"
   },
   {
+    "tag": "desktop",
+    "count": 3,
+    "category": "client"
+  },
+  {
     "tag": "ssrplus",
     "count": 3,
     "category": "router"
@@ -1258,11 +1263,6 @@
     "tag": "warp",
     "count": 2,
     "category": "security"
-  },
-  {
-    "tag": "desktop",
-    "count": 2,
-    "category": "client"
   },
   {
     "tag": "社区",
@@ -1768,6 +1768,11 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
+  },
+  {
+    "tag": "clash-verge",
+    "count": 1,
+    "category": "client"
   },
   {
     "tag": "obfuscation",

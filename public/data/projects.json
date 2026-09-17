@@ -233,6 +233,23 @@
     ]
   },
   {
+    "slug": "clash-verge-rev",
+    "name": "clash-verge-rev",
+    "repo": "clash-verge-rev/clash-verge-rev",
+    "description": "各平台代理客户端应用",
+    "category": "client",
+    "platforms": [
+      "windows",
+      "macos",
+      "linux"
+    ],
+    "tags": [
+      "clash-verge",
+      "mihomo",
+      "desktop"
+    ]
+  },
+  {
     "slug": "luci-app-mosdns",
     "name": "luci-app-mosdns",
     "repo": "sbwml/luci-app-mosdns",
@@ -262,23 +279,6 @@
     "tags": [
       "hysteria2",
       "quic"
-    ]
-  },
-  {
-    "slug": "clash-verge-rev",
-    "name": "clash-verge-rev",
-    "repo": "clash-verge-rev/clash-verge-rev",
-    "description": "各平台代理客户端应用",
-    "category": "client",
-    "platforms": [
-      "windows",
-      "macos",
-      "linux"
-    ],
-    "tags": [
-      "clash-verge",
-      "mihomo",
-      "desktop"
     ]
   },
   {

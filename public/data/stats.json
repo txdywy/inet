@@ -1,10 +1,10 @@
 {
-  "totalItems": 1645,
-  "last24h": 4,
-  "last7d": 46,
+  "totalItems": 1646,
+  "last24h": 3,
+  "last7d": 44,
   "byCategory": {
     "core": 281,
-    "client": 267,
+    "client": 268,
     "router": 18,
     "protocol": 57,
     "dns_rules": 202,
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "release",
-      "count": 458
+      "count": 459
     },
     {
       "tag": "MetaCubeX",
@@ -65,7 +65,7 @@
     },
     {
       "tag": "mihomo",
-      "count": 278
+      "count": 279
     },
     {
       "tag": "v2fly",
@@ -136,8 +136,8 @@
       "count": 70
     }
   ],
-  "importantCount": 616,
+  "importantCount": 617,
   "breakingCount": 93,
   "securityCount": 120,
-  "updatedAt": "2026-09-17T04:57:32.521Z"
+  "updatedAt": "2026-09-17T11:48:40.902Z"
 }
