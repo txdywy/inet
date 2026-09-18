@@ -1,5 +1,43 @@
 [
   {
+    "id": "e724f34a8f7e0c9f",
+    "title": "v2rayA/v2rayA v2.4.22",
+    "summary": "v2.4.22",
+    "rawTitle": "v2.4.22",
+    "rawBody": "## What's Changed\n* build(deps): bump nanoid from 3.3.4 to 3.3.18 in /gui by @dependabot[bot] in https://github.com/v2rayA/v2rayA/pull/1968\n* build(deps): bump browserslist from 4.21.4 to 4.29.0 in /gui by @dependabot[bot] in https://github.com/v2rayA/v2rayA/pull/1969\n* build(deps): bump postcss from 8.4.20 to 8.5.28 in /gui by @dependabot[bot] in https://github.com/v2rayA/v2rayA/pull/1971\n* build(deps): bump github.com/gorilla/websocket from 1.5.0 to 1.5.3 in /service by @dependabot[bot] in https://github.com/v2rayA/v2rayA/pull/1970\n* build(deps): bump brace-expansion from 1.1.11 to 1.1.21 in /gui by @dependabot[bot] in https://github.com/v2rayA/v2rayA/pull/1972\n* Migrate xray-core to Go modules and port QUIC outbounds by @MarksonHon in https://github.com/v2rayA/v2rayA/pull/1977\n* fix(gui): ship only the 44 icons the interface uses by @Zakkaus in https://github.com/v2rayA/v2rayA/pull/1974\n* fix(windows): read the installer's env file before the first reboot by @Zakkaus in https://github.com/v2rayA/v2rayA/pull/1976\n* fix(log): show the log in the web viewer without --log-file, keep the footer on screen by @Zakkaus in https://github.com/v2rayA/v2rayA/pull/1975\n* build(deps): bump golang.org/x/crypto from 0.46.0 to 0.52.0 in /service by @dependabot[bot] in https://github.com/v2rayA/v2rayA/pull/1973\n* feat(gui): use the vector icon for the brand, the favicon and the installer by @Zakkaus in https://github.com/v2rayA/v2rayA/pull/1978\n* build(deps): bump github.com/golang-jwt/jwt/v5 from 5.2.1 to 5.2.2 in /service by @dependabot[bot] in https://github.com/v2rayA/v2rayA/pull/1982\n* build(deps-dev): bump @babel/core from 7.20.7 to 7.29.6 in /gui by @dependabot[bot] in https://github.com/v2rayA/v2rayA/pull/1981\n* build(deps): bump golang.org/x/net from 0.54.0 to 0.55.0 in /service by @dependabot[bot] in https://github.com/v2rayA/v2rayA/pull/1979\n* fix(deps): bump grpc so the service builds against x/net 0.54 by @Zakkaus in https://github.com/v2rayA/v2rayA/pull/1983\n* fix(gui): lay out the status sidebar cards evenly by @Zakkaus in https://github.com/v2rayA/v2rayA/pull/1986\n* fix(gui): keep the log dialog's close button on the card at wide viewports by @Zakkaus in https://github.com/v2rayA/v2rayA/pull/1985\n* fix(subscription): show the usage once; tidy the header and the sidebar handle by @Zakkaus in https://github.com/v2rayA/v2rayA/pull/1984\n\n\n**Full Changelog**: https://github.com/v2rayA/v2rayA/compare/v2.4.21...v2.4.22",
+    "sourceType": "github_release",
+    "sourceName": "v2rayA/v2rayA",
+    "sourceUrl": "https://github.com/v2rayA/v2rayA/releases/tag/v2.4.22",
+    "project": "v2rayA",
+    "repo": "v2rayA/v2rayA",
+    "slug": "v2raya",
+    "version": "2.4.22",
+    "category": "client",
+    "tags": [
+      "v2raya",
+      "web",
+      "transparent-proxy",
+      "quic",
+      "grpc",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 5,
+    "confidence": 0.85,
+    "isBreaking": true,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2026-09-18T06:48:57Z",
+    "fetchedAt": "2026-09-18T11:23:22.520Z",
+    "firstSeenAt": "2026-09-18T11:23:29.847Z",
+    "updatedAt": "2026-09-18T11:23:29.847Z",
+    "hash": "e724f34a8f7e0c9f"
+  },
+  {
     "id": "fb08eef6469e0b06",
     "title": "SagerNet/sing-box 1.15.0-alpha.6",
     "summary": "1.15.0-alpha.6",
@@ -23325,6 +23363,40 @@
     "firstSeenAt": "2026-06-25T04:36:16.426Z",
     "updatedAt": "2026-06-25T04:36:16.426Z",
     "hash": "e54a070ca4e6a5bf"
+  },
+  {
+    "id": "127622ba7fb07bc0",
+    "title": "MHSanaei/3x-ui Dev build 95f19b19",
+    "summary": "Dev build 95f19b19",
+    "rawTitle": "Dev build 95f19b19",
+    "rawBody": "Rolling development build — installs via the panel's Dev update channel.\n\ncommit=95f19b192f477b59cc368dcb7751bcf2e0180e5b\nbuilt=2026-09-18T10:29:35Z\n\nAutomated per-commit build from main. Not a stable release.",
+    "sourceType": "github_release",
+    "sourceName": "MHSanaei/3x-ui",
+    "sourceUrl": "https://github.com/MHSanaei/3x-ui/releases/tag/dev-latest",
+    "project": "3x-ui",
+    "repo": "MHSanaei/3x-ui",
+    "slug": "3x-ui",
+    "version": "dev-latest",
+    "category": "ecosystem",
+    "tags": [
+      "x-ui",
+      "panel",
+      "xray-core",
+      "release"
+    ],
+    "platforms": [
+      "linux"
+    ],
+    "importance": 4,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2026-06-24T16:17:06Z",
+    "fetchedAt": "2026-09-18T11:23:26.560Z",
+    "firstSeenAt": "2026-09-18T11:23:30.659Z",
+    "updatedAt": "2026-09-18T11:23:30.659Z",
+    "hash": "127622ba7fb07bc0"
   },
   {
     "id": "0298515e7d3e4ffc",

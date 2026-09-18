@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 463,
-    "category": "core"
+    "count": 465,
+    "category": "client"
   },
   {
     "tag": "MetaCubeX",
@@ -56,7 +56,7 @@
   },
   {
     "tag": "xray-core",
-    "count": 88,
+    "count": 89,
     "category": "security"
   },
   {
@@ -106,12 +106,12 @@
   },
   {
     "tag": "x-ui",
-    "count": 61,
+    "count": 62,
     "category": "security"
   },
   {
     "tag": "panel",
-    "count": 61,
+    "count": 62,
     "category": "security"
   },
   {
@@ -140,12 +140,12 @@
     "category": "client"
   },
   {
-    "tag": "hysteria2",
-    "count": 49,
-    "category": "core"
+    "tag": "quic",
+    "count": 50,
+    "category": "client"
   },
   {
-    "tag": "quic",
+    "tag": "hysteria2",
     "count": 49,
     "category": "core"
   },
@@ -435,6 +435,21 @@
     "category": "core"
   },
   {
+    "tag": "v2raya",
+    "count": 13,
+    "category": "client"
+  },
+  {
+    "tag": "web",
+    "count": 13,
+    "category": "client"
+  },
+  {
+    "tag": "transparent-proxy",
+    "count": 13,
+    "category": "client"
+  },
+  {
     "tag": "shadowsocks",
     "count": 13,
     "category": "security"
@@ -458,21 +473,6 @@
     "tag": "SOCKS",
     "count": 13,
     "category": "client"
-  },
-  {
-    "tag": "v2raya",
-    "count": 12,
-    "category": "security"
-  },
-  {
-    "tag": "web",
-    "count": 12,
-    "category": "security"
-  },
-  {
-    "tag": "transparent-proxy",
-    "count": 12,
-    "category": "security"
   },
   {
     "tag": "HTTP",
@@ -635,6 +635,11 @@
     "category": "core"
   },
   {
+    "tag": "grpc",
+    "count": 7,
+    "category": "client"
+  },
+  {
     "tag": "amneziawg",
     "count": 7,
     "category": "security"
@@ -688,11 +693,6 @@
     "tag": "luci-app-mosdns",
     "count": 7,
     "category": "ecosystem"
-  },
-  {
-    "tag": "grpc",
-    "count": 6,
-    "category": "security"
   },
   {
     "tag": "anytls",
