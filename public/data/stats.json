@@ -1,14 +1,14 @@
 {
-  "totalItems": 1646,
-  "last24h": 3,
-  "last7d": 42,
+  "totalItems": 1650,
+  "last24h": 5,
+  "last7d": 43,
   "byCategory": {
-    "core": 281,
+    "core": 282,
     "client": 268,
     "router": 18,
     "protocol": 57,
-    "dns_rules": 202,
-    "security": 66,
+    "dns_rules": 204,
+    "security": 67,
     "ecosystem": 754,
     "trend": 0
   },
@@ -31,11 +31,11 @@
     },
     {
       "project": "v2ray-rules-dat",
-      "count": 142
+      "count": 143
     },
     {
       "project": "meta-rules-dat",
-      "count": 137
+      "count": 138
     },
     {
       "project": "metacubexd",
@@ -43,7 +43,7 @@
     },
     {
       "project": "sing-box",
-      "count": 68
+      "count": 69
     },
     {
       "project": "gost",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "release",
-      "count": 459
+      "count": 463
     },
     {
       "tag": "MetaCubeX",
@@ -65,7 +65,7 @@
     },
     {
       "tag": "mihomo",
-      "count": 279
+      "count": 280
     },
     {
       "tag": "v2fly",
@@ -73,7 +73,7 @@
     },
     {
       "tag": "geosite",
-      "count": 178
+      "count": 180
     },
     {
       "tag": "domain-list",
@@ -89,11 +89,11 @@
     },
     {
       "tag": "ruleset",
-      "count": 100
+      "count": 102
     },
     {
       "tag": "geoip",
-      "count": 100
+      "count": 102
     },
     {
       "tag": "v2ray",
@@ -125,7 +125,7 @@
     },
     {
       "tag": "sing-box",
-      "count": 77
+      "count": 78
     },
     {
       "tag": "网络代理",
@@ -136,8 +136,8 @@
       "count": 70
     }
   ],
-  "importantCount": 617,
+  "importantCount": 620,
   "breakingCount": 93,
-  "securityCount": 120,
-  "updatedAt": "2026-09-17T21:18:53.963Z"
+  "securityCount": 121,
+  "updatedAt": "2026-09-18T04:49:41.255Z"
 }

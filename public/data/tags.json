@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 459,
-    "category": "client"
+    "count": 463,
+    "category": "core"
   },
   {
     "tag": "MetaCubeX",
@@ -11,8 +11,8 @@
   },
   {
     "tag": "mihomo",
-    "count": 279,
-    "category": "client"
+    "count": 280,
+    "category": "dns_rules"
   },
   {
     "tag": "v2fly",
@@ -21,7 +21,7 @@
   },
   {
     "tag": "geosite",
-    "count": 178,
+    "count": 180,
     "category": "dns_rules"
   },
   {
@@ -41,12 +41,12 @@
   },
   {
     "tag": "ruleset",
-    "count": 100,
+    "count": 102,
     "category": "dns_rules"
   },
   {
     "tag": "geoip",
-    "count": 100,
+    "count": 102,
     "category": "dns_rules"
   },
   {
@@ -86,7 +86,7 @@
   },
   {
     "tag": "sing-box",
-    "count": 77,
+    "count": 78,
     "category": "core"
   },
   {
@@ -131,7 +131,7 @@
   },
   {
     "tag": "vless",
-    "count": 57,
+    "count": 58,
     "category": "core"
   },
   {
@@ -140,13 +140,13 @@
     "category": "client"
   },
   {
-    "tag": "quic",
+    "tag": "hysteria2",
     "count": 49,
     "category": "core"
   },
   {
-    "tag": "hysteria2",
-    "count": 48,
+    "tag": "quic",
+    "count": 49,
     "category": "core"
   },
   {
@@ -206,8 +206,8 @@
   },
   {
     "tag": "tuic",
-    "count": 36,
-    "category": "client"
+    "count": 37,
+    "category": "core"
   },
   {
     "tag": "go-gost",
@@ -460,24 +460,24 @@
     "category": "client"
   },
   {
-    "tag": "HTTP",
-    "count": 12,
-    "category": "core"
-  },
-  {
     "tag": "v2raya",
-    "count": 11,
-    "category": "client"
+    "count": 12,
+    "category": "security"
   },
   {
     "tag": "web",
-    "count": 11,
-    "category": "client"
+    "count": 12,
+    "category": "security"
   },
   {
     "tag": "transparent-proxy",
-    "count": 11,
-    "category": "client"
+    "count": 12,
+    "category": "security"
+  },
+  {
+    "tag": "HTTP",
+    "count": 12,
+    "category": "core"
   },
   {
     "tag": "tunnel",
@@ -690,6 +690,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "grpc",
+    "count": 6,
+    "category": "security"
+  },
+  {
     "tag": "anytls",
     "count": 6,
     "category": "security"
@@ -781,11 +786,6 @@
   },
   {
     "tag": "xtls",
-    "count": 5,
-    "category": "security"
-  },
-  {
-    "tag": "grpc",
     "count": 5,
     "category": "security"
   },
