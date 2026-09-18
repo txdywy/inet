@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 465,
-    "category": "client"
+    "count": 467,
+    "category": "ecosystem"
   },
   {
     "tag": "MetaCubeX",
@@ -186,13 +186,13 @@
   },
   {
     "tag": "sub-store",
-    "count": 39,
-    "category": "security"
+    "count": 40,
+    "category": "ecosystem"
   },
   {
     "tag": "subscription",
-    "count": 39,
-    "category": "security"
+    "count": 40,
+    "category": "ecosystem"
   },
   {
     "tag": "Linux",
@@ -330,6 +330,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "reality",
+    "count": 18,
+    "category": "security"
+  },
+  {
     "tag": "snell",
     "count": 18,
     "category": "security"
@@ -348,11 +353,6 @@
     "tag": "Xray",
     "count": 18,
     "category": "core"
-  },
-  {
-    "tag": "reality",
-    "count": 17,
-    "category": "security"
   },
   {
     "tag": "TLS",
@@ -635,6 +635,11 @@
     "category": "core"
   },
   {
+    "tag": "dae",
+    "count": 7,
+    "category": "security"
+  },
+  {
     "tag": "grpc",
     "count": 7,
     "category": "client"
@@ -731,11 +736,6 @@
   },
   {
     "tag": "V2Ray",
-    "count": 6,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "dae",
     "count": 6,
     "category": "ecosystem"
   },
@@ -1767,6 +1767,16 @@
   {
     "tag": "Quantumult X",
     "count": 2,
+    "category": "security"
+  },
+  {
+    "tag": "ebpf",
+    "count": 1,
+    "category": "security"
+  },
+  {
+    "tag": "linux",
+    "count": 1,
     "category": "security"
   },
   {

@@ -429,6 +429,21 @@
     ]
   },
   {
+    "slug": "dae",
+    "name": "dae",
+    "repo": "daeuniverse/dae",
+    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
+    "category": "core",
+    "platforms": [
+      "linux"
+    ],
+    "tags": [
+      "dae",
+      "ebpf",
+      "linux"
+    ]
+  },
+  {
     "slug": "shadowsocks-rust",
     "name": "shadowsocks-rust",
     "repo": "shadowsocks/shadowsocks-rust",
@@ -442,21 +457,6 @@
     "tags": [
       "shadowsocks",
       "rust"
-    ]
-  },
-  {
-    "slug": "dae",
-    "name": "dae",
-    "repo": "daeuniverse/dae",
-    "description": "代理核心引擎，如 Xray-core、sing-box、mihomo",
-    "category": "core",
-    "platforms": [
-      "linux"
-    ],
-    "tags": [
-      "dae",
-      "ebpf",
-      "linux"
     ]
   },
   {

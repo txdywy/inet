@@ -1,5 +1,77 @@
 [
   {
+    "id": "d5f9141b698a1a18",
+    "title": "sub-store-org/Sub-Store 2.39.9",
+    "summary": "2.39.9",
+    "rawTitle": "2.39.9",
+    "rawBody": "## <small>2.39.9 (2026-09-18)</small>\n\n* feat: Loon 支持 `server-dns` 用于指定解析节点服务器域名的 DNS ([8c2a695](https://github.com/sub-store-org/Sub-Store/commit/8c2a695))\n",
+    "sourceType": "github_release",
+    "sourceName": "sub-store-org/Sub-Store",
+    "sourceUrl": "https://github.com/sub-store-org/Sub-Store/releases/tag/2.39.9",
+    "project": "Sub-Store",
+    "repo": "sub-store-org/Sub-Store",
+    "slug": "sub-store",
+    "version": "2.39.9",
+    "category": "ecosystem",
+    "tags": [
+      "sub-store",
+      "subscription",
+      "release"
+    ],
+    "platforms": [
+      "ios",
+      "android",
+      "macos",
+      "windows",
+      "linux"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-09-18T16:00:39Z",
+    "fetchedAt": "2026-09-18T16:28:05.576Z",
+    "firstSeenAt": "2026-09-18T16:28:09.731Z",
+    "updatedAt": "2026-09-18T16:28:09.731Z",
+    "hash": "d5f9141b698a1a18"
+  },
+  {
+    "id": "570ebb113c65b46d",
+    "title": "daeuniverse/dae v2.1.1",
+    "summary": "v2.1.1",
+    "rawTitle": "v2.1.1",
+    "rawBody": "## Changelogs\r\n\r\n<!-- BEGIN CHANGELOGS -->\r\n#### Features\r\n\r\n- feat: kdae full sync — datapath, control plane and behaviour rework in [#1099](https://github.com/daeuniverse/dae/pull/1099) by (@olicesx)\r\n\r\n#### Bug Fixes\r\n\r\n- fix(control): preserve dae DNS in group overrides in [#1065](https://github.com/daeuniverse/dae/pull/1065) by (@AkinoKaede)\r\n- fix(control): return TC_ACT_PIPE on wan_egress pass-through paths in [#1087](https://github.com/daeuniverse/dae/pull/1087) by (@uJZk)\r\n- fix(ci): run release gates on the tagged commit in [#1104](https://github.com/daeuniverse/dae/pull/1104) by (@Glassyiris)\r\n\r\n#### Others\r\n\r\n- chore(ebpf): correct misleading comment regarding CO-RE relocation failure in [#1056](https://github.com/daeuniverse/dae/pull/1056) by (@KongQBin)\r\n- chore(outbound): advance fork pin to cc86ced (REALITY post-quantum ClientHello, AES-GCM and fingerprint fixes, protocol fixes, e2e campaign) in [#1101](https://github.com/daeuniverse/dae/pull/1101) by (@olicesx)\r\n- docs: repair the examples and rewrite the manual in English and Chinese in [#1100](https://github.com/daeuniverse/dae/pull/1100) by (@Zakkaus)\r\n\r\n**Example Config**: https://github.com/daeuniverse/dae/blob/v2.1.1/example.dae\r\n\r\n**Full Changelog**: https://github.com/daeuniverse/dae/compare/v2.0.0...v2.1.1\r\n\r\n#### New Contributors\r\n\r\n- @Zakkaus made their first contribution in [#1100](https://github.com/daeuniverse/dae/pull/1100)",
+    "sourceType": "github_release",
+    "sourceName": "daeuniverse/dae",
+    "sourceUrl": "https://github.com/daeuniverse/dae/releases/tag/v2.1.1",
+    "project": "dae",
+    "repo": "daeuniverse/dae",
+    "slug": "dae",
+    "version": "2.1.1",
+    "category": "security",
+    "tags": [
+      "dae",
+      "ebpf",
+      "linux",
+      "reality",
+      "release"
+    ],
+    "platforms": [
+      "linux"
+    ],
+    "importance": 3,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": true,
+    "isProtocolRelated": true,
+    "publishedAt": "2026-09-18T14:44:07Z",
+    "fetchedAt": "2026-09-18T16:27:57.200Z",
+    "firstSeenAt": "2026-09-18T16:28:08.908Z",
+    "updatedAt": "2026-09-18T16:28:08.908Z",
+    "hash": "570ebb113c65b46d"
+  },
+  {
     "id": "e724f34a8f7e0c9f",
     "title": "v2rayA/v2rayA v2.4.22",
     "summary": "v2.4.22",
