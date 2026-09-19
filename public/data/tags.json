@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 467,
-    "category": "ecosystem"
+    "count": 471,
+    "category": "client"
   },
   {
     "tag": "MetaCubeX",
@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 280,
+    "count": 281,
     "category": "dns_rules"
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "tag": "geosite",
-    "count": 180,
+    "count": 182,
     "category": "dns_rules"
   },
   {
@@ -41,12 +41,12 @@
   },
   {
     "tag": "ruleset",
-    "count": 102,
+    "count": 104,
     "category": "dns_rules"
   },
   {
     "tag": "geoip",
-    "count": 102,
+    "count": 104,
     "category": "dns_rules"
   },
   {
@@ -395,6 +395,21 @@
     "category": "ecosystem"
   },
   {
+    "tag": "v2raya",
+    "count": 15,
+    "category": "client"
+  },
+  {
+    "tag": "web",
+    "count": 15,
+    "category": "client"
+  },
+  {
+    "tag": "transparent-proxy",
+    "count": 15,
+    "category": "client"
+  },
+  {
     "tag": "gost",
     "count": 15,
     "category": "core"
@@ -433,21 +448,6 @@
     "tag": "SUDOKU-ASCII",
     "count": 14,
     "category": "core"
-  },
-  {
-    "tag": "v2raya",
-    "count": 13,
-    "category": "client"
-  },
-  {
-    "tag": "web",
-    "count": 13,
-    "category": "client"
-  },
-  {
-    "tag": "transparent-proxy",
-    "count": 13,
-    "category": "client"
   },
   {
     "tag": "shadowsocks",
