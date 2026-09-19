@@ -1,7 +1,7 @@
 [
   {
     "tag": "release",
-    "count": 471,
+    "count": 474,
     "category": "client"
   },
   {
@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 281,
+    "count": 282,
     "category": "dns_rules"
   },
   {
@@ -90,14 +90,14 @@
     "category": "core"
   },
   {
+    "tag": "clash",
+    "count": 71,
+    "category": "security"
+  },
+  {
     "tag": "网络代理",
     "count": 71,
     "category": "ecosystem"
-  },
-  {
-    "tag": "clash",
-    "count": 70,
-    "category": "security"
   },
   {
     "tag": "rules",
@@ -116,7 +116,7 @@
   },
   {
     "tag": "meta",
-    "count": 60,
+    "count": 61,
     "category": "security"
   },
   {
@@ -355,6 +355,21 @@
     "category": "core"
   },
   {
+    "tag": "v2raya",
+    "count": 17,
+    "category": "client"
+  },
+  {
+    "tag": "web",
+    "count": 17,
+    "category": "client"
+  },
+  {
+    "tag": "transparent-proxy",
+    "count": 17,
+    "category": "client"
+  },
+  {
     "tag": "TLS",
     "count": 17,
     "category": "ecosystem"
@@ -393,21 +408,6 @@
     "tag": "Alpha",
     "count": 16,
     "category": "ecosystem"
-  },
-  {
-    "tag": "v2raya",
-    "count": 15,
-    "category": "client"
-  },
-  {
-    "tag": "web",
-    "count": 15,
-    "category": "client"
-  },
-  {
-    "tag": "transparent-proxy",
-    "count": 15,
-    "category": "client"
   },
   {
     "tag": "gost",
@@ -660,6 +660,11 @@
     "category": "security"
   },
   {
+    "tag": "anytls",
+    "count": 7,
+    "category": "security"
+  },
+  {
     "tag": "rust",
     "count": 7,
     "category": "security"
@@ -698,11 +703,6 @@
     "tag": "luci-app-mosdns",
     "count": 7,
     "category": "ecosystem"
-  },
-  {
-    "tag": "anytls",
-    "count": 6,
-    "category": "security"
   },
   {
     "tag": "安全更新",

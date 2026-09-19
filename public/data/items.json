@@ -1,5 +1,77 @@
 [
   {
+    "id": "6f46d8ee9165442c",
+    "title": "v2rayA/v2rayA v2.5.0",
+    "summary": "v2.5.0",
+    "rawTitle": "v2.5.0",
+    "rawBody": "## What's Changed\n* gui: Vue 3, Buefy 3 and Bulma 1, same look and same requests by @Zakkaus in https://github.com/v2rayA/v2rayA/pull/1994\n* service: the confirmed findings of a full backend scan by @Zakkaus in https://github.com/v2rayA/v2rayA/pull/1996\n* gui: a Material 3 rewrite on Vuetify, with a dashboard, node selection and a RoutingA editor by @Zakkaus in https://github.com/v2rayA/v2rayA/pull/1997\n\n\n**Full Changelog**: https://github.com/v2rayA/v2rayA/compare/v2.4.25...v2.5.0",
+    "sourceType": "github_release",
+    "sourceName": "v2rayA/v2rayA",
+    "sourceUrl": "https://github.com/v2rayA/v2rayA/releases/tag/v2.5.0",
+    "project": "v2rayA",
+    "repo": "v2rayA/v2rayA",
+    "slug": "v2raya",
+    "version": "2.5.0",
+    "category": "client",
+    "tags": [
+      "v2raya",
+      "web",
+      "transparent-proxy",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 4,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2026-09-19T13:33:00Z",
+    "fetchedAt": "2026-09-19T15:55:07.512Z",
+    "firstSeenAt": "2026-09-19T15:55:15.510Z",
+    "updatedAt": "2026-09-19T15:55:15.510Z",
+    "hash": "6f46d8ee9165442c"
+  },
+  {
+    "id": "770d24052044a270",
+    "title": "v2rayA/v2rayA v2.4.25",
+    "summary": "v2.4.25",
+    "rawTitle": "v2.4.25",
+    "rawBody": "## What's Changed\n* fix(core): re-add missing xray core version number by @MarksonHon in https://github.com/v2rayA/v2rayA/pull/1995\n\n\n**Full Changelog**: https://github.com/v2rayA/v2rayA/compare/v2.4.24...v2.4.25",
+    "sourceType": "github_release",
+    "sourceName": "v2rayA/v2rayA",
+    "sourceUrl": "https://github.com/v2rayA/v2rayA/releases/tag/v2.4.25",
+    "project": "v2rayA",
+    "repo": "v2rayA/v2rayA",
+    "slug": "v2raya",
+    "version": "2.4.25",
+    "category": "client",
+    "tags": [
+      "v2raya",
+      "web",
+      "transparent-proxy",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 4,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2026-09-19T12:56:56Z",
+    "fetchedAt": "2026-09-19T15:55:07.512Z",
+    "firstSeenAt": "2026-09-19T15:55:16.321Z",
+    "updatedAt": "2026-09-19T15:55:16.321Z",
+    "hash": "770d24052044a270"
+  },
+  {
     "id": "726cf4a76efe5f3c",
     "title": "v2rayA/v2rayA v2.4.24",
     "summary": "v2.4.24",
@@ -48894,6 +48966,43 @@
     "firstSeenAt": "2026-05-07T04:09:04.362Z",
     "updatedAt": "2026-05-07T04:09:04.362Z",
     "hash": "5e6adb84fbb7f312"
+  },
+  {
+    "id": "64d273d93d6faa37",
+    "title": "MetaCubeX/mihomo Prerelease-Alpha",
+    "summary": "Prerelease-Alpha",
+    "rawTitle": "Prerelease-Alpha",
+    "rawBody": "Release created at  Sat Sep 19 22:41:55 CST 2026\nSynchronize Alpha branch code updates, keeping only the latest version\n<br>\n[我应该下载哪个文件? / Which file should I download?](https://github.com/MetaCubeX/mihomo/wiki/FAQ)\n[二进制文件筛选 / Binary file selector](https://metacubex.github.io/Meta-Docs/startup/#_1)\n[查看文档 / Docs](https://metacubex.github.io/Meta-Docs/)\n\n\n## What's Changed\n* fix: restart EasyTier outbound after silent overlay failure by @MiaM1ku in https://github.com/MetaCubeX/mihomo/pull/3215\n* fix(anytls): potential race condition in c.idleSession.Len() in idleCleanupExpTime() by @chenx-dust in https://github.com/MetaCubeX/mihomo/pull/3225\n\n\n**Full Changelog**: https://github.com/MetaCubeX/mihomo/compare/v1.19.31...Prerelease-Alpha",
+    "sourceType": "github_release",
+    "sourceName": "MetaCubeX/mihomo",
+    "sourceUrl": "https://github.com/MetaCubeX/mihomo/releases/tag/Prerelease-Alpha",
+    "project": "mihomo",
+    "repo": "MetaCubeX/mihomo",
+    "slug": "mihomo",
+    "version": "Prerelease-Alpha",
+    "category": "security",
+    "tags": [
+      "mihomo",
+      "clash",
+      "meta",
+      "anytls",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 3,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": true,
+    "isProtocolRelated": true,
+    "publishedAt": "2024-08-12T17:01:02Z",
+    "fetchedAt": "2026-09-19T15:55:01.754Z",
+    "firstSeenAt": "2026-09-19T15:55:14.694Z",
+    "updatedAt": "2026-09-19T15:55:14.694Z",
+    "hash": "64d273d93d6faa37"
   },
   {
     "id": "84adbe8a564a417c",
