@@ -1,5 +1,42 @@
 [
   {
+    "id": "a408bd39fb2c7476",
+    "title": "v2fly/v2ray-core v5.54.0",
+    "summary": "v5.54.0",
+    "rawTitle": "v5.54.0",
+    "rawBody": "## New Features\r\n* Add iOS Client Support Bundle: Packet Bridge Receiver, Subscription Improvment, DNS and other udp improvement in https://github.com/v2fly/v2ray-core/pull/3809\r\n* Add Wireguard Chain Proxy Support in https://github.com/v2fly/v2ray-core/pull/3816\r\n\r\n\r\n## Chores\r\n* Fix: CI tests failures by @Loyalsoldier in https://github.com/v2fly/v2ray-core/pull/3790\r\n* Chore: bump golang.org/x/crypto from 0.54.0 to 0.55.0 by @dependabot[bot] in https://github.com/v2fly/v2ray-core/pull/3803\r\n* Chore: bump google.golang.org/grpc from 1.83.0 to 1.83.2 by @dependabot[bot] in https://github.com/v2fly/v2ray-core/pull/3817\r\n* Chore: bump github.com/go-chi/chi/v5 from 5.3.1 to 5.3.2 by @dependabot[bot] in https://github.com/v2fly/v2ray-core/pull/3815\r\n* Chore: bump github.com/miekg/dns from 1.1.72 to 1.1.73 by @dependabot[bot] in https://github.com/v2fly/v2ray-core/pull/3813\r\n* Chore: bump github.com/pion/stun/v3 from 3.1.6 to 3.1.7 by @dependabot[bot] in https://github.com/v2fly/v2ray-core/pull/3808\r\n* Chore: bump google.golang.org/protobuf from 1.36.11 to 1.36.12 by @dependabot[bot] in https://github.com/v2fly/v2ray-core/pull/3802\r\n* Chore: bump github.com/stretchr/testify from 1.12.0 to 1.12.1 by @dependabot[bot] in https://github.com/v2fly/v2ray-core/pull/3807\r\n* Chore: bump golang.org/x/net from 0.58.0 to 0.59.0 by @dependabot[bot] in https://github.com/v2fly/v2ray-core/pull/3805\r\n\r\n\r\n**Full Changelog**: https://github.com/v2fly/v2ray-core/compare/v5.53.0...v5.54.0",
+    "sourceType": "github_release",
+    "sourceName": "v2fly/v2ray-core",
+    "sourceUrl": "https://github.com/v2fly/v2ray-core/releases/tag/v5.54.0",
+    "project": "v2ray-core",
+    "repo": "v2fly/v2ray-core",
+    "slug": "v2ray-core",
+    "version": "5.54.0",
+    "category": "core",
+    "tags": [
+      "v2ray-core",
+      "vless",
+      "grpc",
+      "wireguard",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 2,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2026-09-20T20:09:32Z",
+    "fetchedAt": "2026-09-20T20:45:55.411Z",
+    "firstSeenAt": "2026-09-20T20:46:09.304Z",
+    "updatedAt": "2026-09-20T20:46:09.304Z",
+    "hash": "a408bd39fb2c7476"
+  },
+  {
     "id": "66636d7b4fccf003",
     "title": "mihomo-party-org/mihomo-party v2.0.3",
     "summary": "v2.0.3",
