@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 483,
-    "category": "dns_rules"
+    "count": 490,
+    "category": "client"
   },
   {
     "tag": "MetaCubeX",
@@ -11,8 +11,8 @@
   },
   {
     "tag": "mihomo",
-    "count": 283,
-    "category": "dns_rules"
+    "count": 285,
+    "category": "client"
   },
   {
     "tag": "v2fly",
@@ -21,12 +21,12 @@
   },
   {
     "tag": "geosite",
-    "count": 189,
+    "count": 193,
     "category": "dns_rules"
   },
   {
     "tag": "domain-list",
-    "count": 151,
+    "count": 155,
     "category": "dns_rules"
   },
   {
@@ -315,6 +315,21 @@
     "category": "core"
   },
   {
+    "tag": "v2raya",
+    "count": 19,
+    "category": "client"
+  },
+  {
+    "tag": "web",
+    "count": 19,
+    "category": "client"
+  },
+  {
+    "tag": "transparent-proxy",
+    "count": 19,
+    "category": "client"
+  },
+  {
     "tag": "openwrt",
     "count": 19,
     "category": "router"
@@ -328,21 +343,6 @@
     "tag": "CHACHA20-POLY1305",
     "count": 19,
     "category": "ecosystem"
-  },
-  {
-    "tag": "v2raya",
-    "count": 18,
-    "category": "client"
-  },
-  {
-    "tag": "web",
-    "count": 18,
-    "category": "client"
-  },
-  {
-    "tag": "transparent-proxy",
-    "count": 18,
-    "category": "client"
   },
   {
     "tag": "reality",
@@ -530,6 +530,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "mihomo-party",
+    "count": 9,
+    "category": "client"
+  },
+  {
     "tag": "v2rayng",
     "count": 9,
     "category": "security"
@@ -588,11 +593,6 @@
     "tag": "windows",
     "count": 8,
     "category": "security"
-  },
-  {
-    "tag": "mihomo-party",
-    "count": 8,
-    "category": "client"
   },
   {
     "tag": "v2ray-core",
@@ -763,6 +763,11 @@
     "tag": "openvpn",
     "count": 6,
     "category": "ecosystem"
+  },
+  {
+    "tag": "desktop",
+    "count": 5,
+    "category": "client"
   },
   {
     "tag": "script",
@@ -1025,11 +1030,6 @@
     "category": "client"
   },
   {
-    "tag": "desktop",
-    "count": 3,
-    "category": "client"
-  },
-  {
     "tag": "ssrplus",
     "count": 3,
     "category": "router"
@@ -1258,6 +1258,11 @@
     "tag": "protocol",
     "count": 3,
     "category": "protocol"
+  },
+  {
+    "tag": "clash-verge",
+    "count": 2,
+    "category": "client"
   },
   {
     "tag": "warp",
@@ -1778,11 +1783,6 @@
     "tag": "linux",
     "count": 1,
     "category": "security"
-  },
-  {
-    "tag": "clash-verge",
-    "count": 1,
-    "category": "client"
   },
   {
     "tag": "obfuscation",
