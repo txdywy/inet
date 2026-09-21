@@ -214,6 +214,23 @@
     ]
   },
   {
+    "slug": "clash-verge-rev",
+    "name": "clash-verge-rev",
+    "repo": "clash-verge-rev/clash-verge-rev",
+    "description": "各平台代理客户端应用",
+    "category": "client",
+    "platforms": [
+      "windows",
+      "macos",
+      "linux"
+    ],
+    "tags": [
+      "clash-verge",
+      "mihomo",
+      "desktop"
+    ]
+  },
+  {
     "slug": "xray-core",
     "name": "Xray-core",
     "repo": "XTLS/Xray-core",
@@ -230,23 +247,6 @@
       "vless",
       "xtls",
       "xhttp"
-    ]
-  },
-  {
-    "slug": "clash-verge-rev",
-    "name": "clash-verge-rev",
-    "repo": "clash-verge-rev/clash-verge-rev",
-    "description": "各平台代理客户端应用",
-    "category": "client",
-    "platforms": [
-      "windows",
-      "macos",
-      "linux"
-    ],
-    "tags": [
-      "clash-verge",
-      "mihomo",
-      "desktop"
     ]
   },
   {
