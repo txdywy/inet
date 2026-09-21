@@ -1,10 +1,10 @@
 {
-  "totalItems": 1683,
-  "last24h": 8,
-  "last7d": 57,
+  "totalItems": 1685,
+  "last24h": 7,
+  "last7d": 54,
   "byCategory": {
-    "core": 283,
-    "client": 280,
+    "core": 284,
+    "client": 281,
     "router": 18,
     "protocol": 57,
     "dns_rules": 219,
@@ -47,7 +47,7 @@
     },
     {
       "project": "gost",
-      "count": 47
+      "count": 48
     },
     {
       "project": "ClashMetaForAndroid",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "release",
-      "count": 496
+      "count": 498
     },
     {
       "tag": "MetaCubeX",
@@ -136,8 +136,8 @@
       "count": 71
     }
   ],
-  "importantCount": 644,
-  "breakingCount": 96,
+  "importantCount": 646,
+  "breakingCount": 97,
   "securityCount": 124,
-  "updatedAt": "2026-09-21T12:56:46.591Z"
+  "updatedAt": "2026-09-21T18:13:31.546Z"
 }

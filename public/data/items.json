@@ -1,5 +1,76 @@
 [
   {
+    "id": "750ea49e1bad1bde",
+    "title": "go-gost/gost v3.3.1-nightly.20260921",
+    "summary": "v3.3.1-nightly.20260921",
+    "rawTitle": "v3.3.1-nightly.20260921",
+    "rawBody": "## Changelog\n* 2a6ba4df856bd0fefafb02d76cd621c715067f9e Add DEB and RPM packages for easier installation (#906)\n* c4e789e2dfb7899c8738b73bfe8bd61d4fa1856a fix(release): pin capability bounding set in gost.service\n* bb45b12809b57161fc44fbf1757c5a39c9a4c63d fix(release): use DynamicUser for gost.service\n\n",
+    "sourceType": "github_release",
+    "sourceName": "go-gost/gost",
+    "sourceUrl": "https://github.com/go-gost/gost/releases/tag/v3.3.1-nightly.20260921",
+    "project": "gost",
+    "repo": "go-gost/gost",
+    "slug": "gost",
+    "version": "3.3.1-nightly.20260921",
+    "category": "core",
+    "tags": [
+      "gost",
+      "tunnel",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 4,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2026-09-21T15:28:03Z",
+    "fetchedAt": "2026-09-21T18:13:19.729Z",
+    "firstSeenAt": "2026-09-21T18:13:30.458Z",
+    "updatedAt": "2026-09-21T18:13:30.458Z",
+    "hash": "750ea49e1bad1bde"
+  },
+  {
+    "id": "a9db7d436027c977",
+    "title": "v2rayA/v2rayA v2.5.5",
+    "summary": "v2.5.5",
+    "rawTitle": "v2.5.5",
+    "rawBody": "## What's Changed\n* fix: preserve subscription servers sharing an endpoint by @Purestreams in https://github.com/v2rayA/v2rayA/pull/2035\n* core: remove outdate license informations by @MarksonHon in https://github.com/v2rayA/v2rayA/pull/2037\n\n## New Contributors\n* @Purestreams made their first contribution in https://github.com/v2rayA/v2rayA/pull/2035\n\n**Full Changelog**: https://github.com/v2rayA/v2rayA/compare/v2.5.4...v2.5.5",
+    "sourceType": "github_release",
+    "sourceName": "v2rayA/v2rayA",
+    "sourceUrl": "https://github.com/v2rayA/v2rayA/releases/tag/v2.5.5",
+    "project": "v2rayA",
+    "repo": "v2rayA/v2rayA",
+    "slug": "v2raya",
+    "version": "2.5.5",
+    "category": "client",
+    "tags": [
+      "v2raya",
+      "web",
+      "transparent-proxy",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 5,
+    "confidence": 0.85,
+    "isBreaking": true,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2026-09-21T14:31:55Z",
+    "fetchedAt": "2026-09-21T18:13:22.733Z",
+    "firstSeenAt": "2026-09-21T18:13:31.279Z",
+    "updatedAt": "2026-09-21T18:13:31.279Z",
+    "hash": "a9db7d436027c977"
+  },
+  {
     "id": "5a9ad5e04db2fa97",
     "title": "v2rayA/v2rayA v2.5.4",
     "summary": "v2.5.4",
