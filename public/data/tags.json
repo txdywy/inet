@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 498,
-    "category": "core"
+    "count": 499,
+    "category": "security"
   },
   {
     "tag": "MetaCubeX",
@@ -121,8 +121,8 @@
   },
   {
     "tag": "vless",
-    "count": 59,
-    "category": "core"
+    "count": 60,
+    "category": "security"
   },
   {
     "tag": "xhttp",
@@ -135,13 +135,13 @@
     "category": "ecosystem"
   },
   {
-    "tag": "Android",
+    "tag": "quic",
     "count": 51,
-    "category": "client"
+    "category": "security"
   },
   {
-    "tag": "quic",
-    "count": 50,
+    "tag": "Android",
+    "count": 51,
     "category": "client"
   },
   {
@@ -210,13 +210,13 @@
     "category": "core"
   },
   {
-    "tag": "go-gost",
+    "tag": "wireguard",
     "count": 36,
-    "category": "core"
+    "category": "security"
   },
   {
-    "tag": "wireguard",
-    "count": 35,
+    "tag": "go-gost",
+    "count": 36,
     "category": "core"
   },
   {
@@ -515,6 +515,11 @@
     "category": "client"
   },
   {
+    "tag": "v2ray-core",
+    "count": 10,
+    "category": "security"
+  },
+  {
     "tag": "API",
     "count": 10,
     "category": "ecosystem"
@@ -530,9 +535,9 @@
     "category": "ecosystem"
   },
   {
-    "tag": "v2ray-core",
+    "tag": "grpc",
     "count": 9,
-    "category": "core"
+    "category": "security"
   },
   {
     "tag": "mihomo-party",
@@ -588,11 +593,6 @@
     "tag": "CBC",
     "count": 9,
     "category": "ecosystem"
-  },
-  {
-    "tag": "grpc",
-    "count": 8,
-    "category": "core"
   },
   {
     "tag": "v2rayn",

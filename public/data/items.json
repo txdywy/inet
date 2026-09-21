@@ -1,5 +1,43 @@
 [
   {
+    "id": "42f43d1a81ddff5d",
+    "title": "v2fly/v2ray-core v5.54.1",
+    "summary": "v5.54.1",
+    "rawTitle": "v5.54.1",
+    "rawBody": "## Security Update\r\n\r\nThis update fixes an issue with quic transport where it sends V2Ray specific handshake parameters that differs from quic-go defaults. Thanks Jackson Sippe, et al. for reporting this issue.\r\n\r\n## -----> ⚠️ Important Message ⚠️<-----\r\nThis update includes security fix recommended for QUIC transport.\r\n## -----> ⚠️ 重要消息 ⚠️<-----\r\n本更新含适用于 QUIC transport 的安全更新。\r\n\r\n## New Features\r\n* Add iOS Client Support Bundle: Packet Bridge Receiver, Subscription Improvment, DNS and other udp improvement in https://github.com/v2fly/v2ray-core/pull/3809\r\n* Add Wireguard Chain Proxy Support in https://github.com/v2fly/v2ray-core/pull/3816\r\n\r\n## Fixes\r\n\r\n* Add safe defaults for QUIC connections in https://github.com/v2fly/v2ray-core/pull/3820\r\n\r\n## Chores\r\n* Fix: CI tests failures by @Loyalsoldier in https://github.com/v2fly/v2ray-core/pull/3790\r\n* Chore: bump golang.org/x/crypto from 0.54.0 to 0.55.0 by @dependabot[bot] in https://github.com/v2fly/v2ray-core/pull/3803\r\n* Chore: bump google.golang.org/grpc from 1.83.0 to 1.83.2 by @dependabot[bot] in https://github.com/v2fly/v2ray-core/pull/3817\r\n* Chore: bump github.com/go-chi/chi/v5 from 5.3.1 to 5.3.2 by @dependabot[bot] in https://github.com/v2fly/v2ray-core/pull/3815\r\n* Chore: bump github.com/miekg/dns from 1.1.72 to 1.1.73 by @dependabot[bot] in https://github.com/v2fly/v2ray-core/pull/3813\r\n* Chore: bump github.com/pion/stun/v3 from 3.1.6 to 3.1.7 by @dependabot[bot] in https://github.com/v2fly/v2ray-core/pull/3808\r\n* Chore: bump google.golang.org/protobuf from 1.36.11 to 1.36.12 by @dependabot[bot] in https://github.com/v2fly/v2ray-core/pull/3802\r\n* Chore: bump github.com/stretchr/testify from 1.12.0 to 1.12.1 by @dependabot[bot] in https://github.com/v2fly/v2ray-core/pull/3807\r\n* Chore: bump golang.org/x/net from 0.58.0 to 0.59.0 by @dependabot[bot] in https://github.com/v2fly/v2ray-core/pull/3805\r\n\r\n\r\n**Full Changelog**: https://github.com/v2fly/v2ray-core/compare/v5.53.0...v5.54.1",
+    "sourceType": "github_release",
+    "sourceName": "v2fly/v2ray-core",
+    "sourceUrl": "https://github.com/v2fly/v2ray-core/releases/tag/v5.54.1",
+    "project": "v2ray-core",
+    "repo": "v2fly/v2ray-core",
+    "slug": "v2ray-core",
+    "version": "5.54.1",
+    "category": "security",
+    "tags": [
+      "v2ray-core",
+      "vless",
+      "quic",
+      "grpc",
+      "wireguard",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 3,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": true,
+    "isProtocolRelated": true,
+    "publishedAt": "2026-09-21T21:26:12Z",
+    "fetchedAt": "2026-09-21T21:56:44.511Z",
+    "firstSeenAt": "2026-09-21T21:56:58.962Z",
+    "updatedAt": "2026-09-21T21:56:58.962Z",
+    "hash": "42f43d1a81ddff5d"
+  },
+  {
     "id": "750ea49e1bad1bde",
     "title": "go-gost/gost v3.3.1-nightly.20260921",
     "summary": "v3.3.1-nightly.20260921",
