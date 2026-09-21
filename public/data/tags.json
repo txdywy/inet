@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 491,
-    "category": "core"
+    "count": 495,
+    "category": "client"
   },
   {
     "tag": "MetaCubeX",
@@ -11,8 +11,8 @@
   },
   {
     "tag": "mihomo",
-    "count": 285,
-    "category": "client"
+    "count": 286,
+    "category": "dns_rules"
   },
   {
     "tag": "v2fly",
@@ -21,7 +21,7 @@
   },
   {
     "tag": "geosite",
-    "count": 193,
+    "count": 195,
     "category": "dns_rules"
   },
   {
@@ -41,12 +41,12 @@
   },
   {
     "tag": "ruleset",
-    "count": 106,
+    "count": 108,
     "category": "dns_rules"
   },
   {
     "tag": "geoip",
-    "count": 106,
+    "count": 108,
     "category": "dns_rules"
   },
   {
@@ -305,6 +305,21 @@
     "category": "core"
   },
   {
+    "tag": "v2raya",
+    "count": 21,
+    "category": "client"
+  },
+  {
+    "tag": "web",
+    "count": 21,
+    "category": "client"
+  },
+  {
+    "tag": "transparent-proxy",
+    "count": 21,
+    "category": "client"
+  },
+  {
     "tag": "QUIC",
     "count": 20,
     "category": "ecosystem"
@@ -313,21 +328,6 @@
     "tag": "rematch",
     "count": 20,
     "category": "core"
-  },
-  {
-    "tag": "v2raya",
-    "count": 19,
-    "category": "client"
-  },
-  {
-    "tag": "web",
-    "count": 19,
-    "category": "client"
-  },
-  {
-    "tag": "transparent-proxy",
-    "count": 19,
-    "category": "client"
   },
   {
     "tag": "openwrt",
