@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 504,
-    "category": "security"
+    "count": 510,
+    "category": "dns_rules"
   },
   {
     "tag": "MetaCubeX",
@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 288,
+    "count": 289,
     "category": "dns_rules"
   },
   {
@@ -21,12 +21,12 @@
   },
   {
     "tag": "geosite",
-    "count": 198,
+    "count": 199,
     "category": "dns_rules"
   },
   {
     "tag": "domain-list",
-    "count": 156,
+    "count": 157,
     "category": "dns_rules"
   },
   {
@@ -56,7 +56,7 @@
   },
   {
     "tag": "xray-core",
-    "count": 90,
+    "count": 91,
     "category": "security"
   },
   {
@@ -91,7 +91,7 @@
   },
   {
     "tag": "clash",
-    "count": 71,
+    "count": 72,
     "category": "security"
   },
   {
@@ -116,12 +116,12 @@
   },
   {
     "tag": "meta",
-    "count": 61,
+    "count": 62,
     "category": "security"
   },
   {
     "tag": "vless",
-    "count": 60,
+    "count": 61,
     "category": "security"
   },
   {
@@ -136,7 +136,7 @@
   },
   {
     "tag": "quic",
-    "count": 51,
+    "count": 52,
     "category": "security"
   },
   {
@@ -175,24 +175,29 @@
     "category": "ecosystem"
   },
   {
+    "tag": "sub-store",
+    "count": 42,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "subscription",
+    "count": 42,
+    "category": "ecosystem"
+  },
+  {
     "tag": "代理工具",
     "count": 42,
     "category": "core"
   },
   {
-    "tag": "sub-store",
-    "count": 41,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "subscription",
-    "count": 41,
-    "category": "ecosystem"
-  },
-  {
     "tag": "SagerNet",
     "count": 41,
     "category": "core"
+  },
+  {
+    "tag": "wireguard",
+    "count": 39,
+    "category": "security"
   },
   {
     "tag": "tuic",
@@ -208,11 +213,6 @@
     "tag": "Windows",
     "count": 38,
     "category": "client"
-  },
-  {
-    "tag": "wireguard",
-    "count": 36,
-    "category": "security"
   },
   {
     "tag": "go-gost",
@@ -275,6 +275,21 @@
     "category": "ecosystem"
   },
   {
+    "tag": "v2raya",
+    "count": 24,
+    "category": "client"
+  },
+  {
+    "tag": "web",
+    "count": 24,
+    "category": "client"
+  },
+  {
+    "tag": "transparent-proxy",
+    "count": 24,
+    "category": "client"
+  },
+  {
     "tag": "dns",
     "count": 24,
     "category": "router"
@@ -283,21 +298,6 @@
     "tag": "HTTP/2",
     "count": 24,
     "category": "protocol"
-  },
-  {
-    "tag": "v2raya",
-    "count": 23,
-    "category": "security"
-  },
-  {
-    "tag": "web",
-    "count": 23,
-    "category": "security"
-  },
-  {
-    "tag": "transparent-proxy",
-    "count": 23,
-    "category": "security"
   },
   {
     "tag": "依赖更新",
@@ -415,6 +415,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "android",
+    "count": 15,
+    "category": "security"
+  },
+  {
     "tag": "mosdns",
     "count": 15,
     "category": "router"
@@ -428,11 +433,6 @@
     "tag": "网络规则",
     "count": 15,
     "category": "ecosystem"
-  },
-  {
-    "tag": "android",
-    "count": 14,
-    "category": "client"
   },
   {
     "tag": "v2rayA",
@@ -485,6 +485,11 @@
     "category": "core"
   },
   {
+    "tag": "v2ray-core",
+    "count": 11,
+    "category": "security"
+  },
+  {
     "tag": "TUN",
     "count": 11,
     "category": "client"
@@ -515,7 +520,12 @@
     "category": "client"
   },
   {
-    "tag": "v2ray-core",
+    "tag": "grpc",
+    "count": 10,
+    "category": "security"
+  },
+  {
+    "tag": "v2rayng",
     "count": 10,
     "category": "security"
   },
@@ -535,7 +545,7 @@
     "category": "ecosystem"
   },
   {
-    "tag": "grpc",
+    "tag": "anytls",
     "count": 9,
     "category": "security"
   },
@@ -543,11 +553,6 @@
     "tag": "mihomo-party",
     "count": 9,
     "category": "client"
-  },
-  {
-    "tag": "v2rayng",
-    "count": 9,
-    "category": "security"
   },
   {
     "tag": "配置管理",
@@ -593,11 +598,6 @@
     "tag": "CBC",
     "count": 9,
     "category": "ecosystem"
-  },
-  {
-    "tag": "anytls",
-    "count": 8,
-    "category": "security"
   },
   {
     "tag": "v2rayn",
