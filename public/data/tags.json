@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 510,
-    "category": "dns_rules"
+    "count": 515,
+    "category": "core"
   },
   {
     "tag": "MetaCubeX",
@@ -11,8 +11,8 @@
   },
   {
     "tag": "mihomo",
-    "count": 289,
-    "category": "dns_rules"
+    "count": 292,
+    "category": "client"
   },
   {
     "tag": "v2fly",
@@ -86,13 +86,13 @@
   },
   {
     "tag": "sing-box",
-    "count": 78,
-    "category": "core"
+    "count": 79,
+    "category": "security"
   },
   {
     "tag": "clash",
-    "count": 72,
-    "category": "security"
+    "count": 74,
+    "category": "client"
   },
   {
     "tag": "网络代理",
@@ -105,6 +105,16 @@
     "category": "ecosystem"
   },
   {
+    "tag": "meta",
+    "count": 63,
+    "category": "security"
+  },
+  {
+    "tag": "vless",
+    "count": 62,
+    "category": "security"
+  },
+  {
     "tag": "x-ui",
     "count": 62,
     "category": "security"
@@ -115,18 +125,8 @@
     "category": "security"
   },
   {
-    "tag": "meta",
-    "count": 62,
-    "category": "security"
-  },
-  {
-    "tag": "vless",
-    "count": 61,
-    "category": "security"
-  },
-  {
     "tag": "xhttp",
-    "count": 59,
+    "count": 60,
     "category": "security"
   },
   {
@@ -146,8 +146,8 @@
   },
   {
     "tag": "hysteria2",
-    "count": 49,
-    "category": "core"
+    "count": 50,
+    "category": "security"
   },
   {
     "tag": "开源",
@@ -161,7 +161,7 @@
   },
   {
     "tag": "ech",
-    "count": 44,
+    "count": 45,
     "category": "core"
   },
   {
@@ -195,13 +195,13 @@
     "category": "core"
   },
   {
-    "tag": "wireguard",
+    "tag": "tuic",
     "count": 39,
     "category": "security"
   },
   {
-    "tag": "tuic",
-    "count": 38,
+    "tag": "wireguard",
+    "count": 39,
     "category": "security"
   },
   {
@@ -370,6 +370,11 @@
     "category": "core"
   },
   {
+    "tag": "gost",
+    "count": 17,
+    "category": "core"
+  },
+  {
     "tag": "TLS",
     "count": 17,
     "category": "ecosystem"
@@ -390,9 +395,9 @@
     "category": "client"
   },
   {
-    "tag": "gost",
+    "tag": "android",
     "count": 16,
-    "category": "core"
+    "category": "client"
   },
   {
     "tag": "域名",
@@ -413,11 +418,6 @@
     "tag": "Alpha",
     "count": 16,
     "category": "ecosystem"
-  },
-  {
-    "tag": "android",
-    "count": 15,
-    "category": "security"
   },
   {
     "tag": "mosdns",
@@ -450,6 +450,11 @@
     "category": "core"
   },
   {
+    "tag": "tunnel",
+    "count": 13,
+    "category": "core"
+  },
+  {
     "tag": "shadowsocks",
     "count": 13,
     "category": "security"
@@ -473,11 +478,6 @@
     "tag": "SOCKS",
     "count": 13,
     "category": "client"
-  },
-  {
-    "tag": "tunnel",
-    "count": 12,
-    "category": "core"
   },
   {
     "tag": "HTTP",
@@ -530,6 +530,11 @@
     "category": "security"
   },
   {
+    "tag": "anytls",
+    "count": 10,
+    "category": "security"
+  },
+  {
     "tag": "API",
     "count": 10,
     "category": "ecosystem"
@@ -543,11 +548,6 @@
     "tag": "Docker",
     "count": 10,
     "category": "ecosystem"
-  },
-  {
-    "tag": "anytls",
-    "count": 9,
-    "category": "security"
   },
   {
     "tag": "mihomo-party",
@@ -655,6 +655,11 @@
     "category": "core"
   },
   {
+    "tag": "desktop",
+    "count": 7,
+    "category": "client"
+  },
+  {
     "tag": "dae",
     "count": 7,
     "category": "security"
@@ -703,11 +708,6 @@
     "tag": "luci-app-mosdns",
     "count": 7,
     "category": "ecosystem"
-  },
-  {
-    "tag": "desktop",
-    "count": 6,
-    "category": "client"
   },
   {
     "tag": "安全更新",
@@ -895,6 +895,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "clash-verge",
+    "count": 4,
+    "category": "client"
+  },
+  {
     "tag": "vision",
     "count": 4,
     "category": "security"
@@ -1027,11 +1032,6 @@
   {
     "tag": "nekoray",
     "count": 4,
-    "category": "client"
-  },
-  {
-    "tag": "clash-verge",
-    "count": 3,
     "category": "client"
   },
   {
@@ -1263,6 +1263,11 @@
     "tag": "protocol",
     "count": 3,
     "category": "protocol"
+  },
+  {
+    "tag": "http/3",
+    "count": 2,
+    "category": "security"
   },
   {
     "tag": "warp",
@@ -1788,11 +1793,6 @@
     "tag": "obfuscation",
     "count": 1,
     "category": "core"
-  },
-  {
-    "tag": "http/3",
-    "count": 1,
-    "category": "security"
   },
   {
     "tag": "openclash",
