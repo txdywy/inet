@@ -1,7 +1,7 @@
 [
   {
     "tag": "release",
-    "count": 499,
+    "count": 504,
     "category": "security"
   },
   {
@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 287,
+    "count": 288,
     "category": "dns_rules"
   },
   {
@@ -21,12 +21,12 @@
   },
   {
     "tag": "geosite",
-    "count": 195,
+    "count": 198,
     "category": "dns_rules"
   },
   {
     "tag": "domain-list",
-    "count": 155,
+    "count": 156,
     "category": "dns_rules"
   },
   {
@@ -35,19 +35,19 @@
     "category": "ecosystem"
   },
   {
-    "tag": "domain-list-community",
-    "count": 109,
-    "category": "ecosystem"
-  },
-  {
     "tag": "ruleset",
-    "count": 108,
+    "count": 110,
     "category": "dns_rules"
   },
   {
     "tag": "geoip",
-    "count": 108,
+    "count": 110,
     "category": "dns_rules"
+  },
+  {
+    "tag": "domain-list-community",
+    "count": 109,
+    "category": "ecosystem"
   },
   {
     "tag": "v2ray",
@@ -180,19 +180,24 @@
     "category": "core"
   },
   {
+    "tag": "sub-store",
+    "count": 41,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "subscription",
+    "count": 41,
+    "category": "ecosystem"
+  },
+  {
     "tag": "SagerNet",
     "count": 41,
     "category": "core"
   },
   {
-    "tag": "sub-store",
-    "count": 40,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "subscription",
-    "count": 40,
-    "category": "ecosystem"
+    "tag": "tuic",
+    "count": 38,
+    "category": "security"
   },
   {
     "tag": "Linux",
@@ -203,11 +208,6 @@
     "tag": "Windows",
     "count": 38,
     "category": "client"
-  },
-  {
-    "tag": "tuic",
-    "count": 37,
-    "category": "core"
   },
   {
     "tag": "wireguard",
@@ -285,6 +285,21 @@
     "category": "protocol"
   },
   {
+    "tag": "v2raya",
+    "count": 23,
+    "category": "security"
+  },
+  {
+    "tag": "web",
+    "count": 23,
+    "category": "security"
+  },
+  {
+    "tag": "transparent-proxy",
+    "count": 23,
+    "category": "security"
+  },
+  {
     "tag": "依赖更新",
     "count": 23,
     "category": "ecosystem"
@@ -293,21 +308,6 @@
     "tag": "VLESS",
     "count": 23,
     "category": "ecosystem"
-  },
-  {
-    "tag": "v2raya",
-    "count": 22,
-    "category": "client"
-  },
-  {
-    "tag": "web",
-    "count": 22,
-    "category": "client"
-  },
-  {
-    "tag": "transparent-proxy",
-    "count": 22,
-    "category": "client"
   },
   {
     "tag": "用户界面",
@@ -595,6 +595,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "anytls",
+    "count": 8,
+    "category": "security"
+  },
+  {
     "tag": "v2rayn",
     "count": 8,
     "category": "security"
@@ -656,11 +661,6 @@
   },
   {
     "tag": "amneziawg",
-    "count": 7,
-    "category": "security"
-  },
-  {
-    "tag": "anytls",
     "count": 7,
     "category": "security"
   },

@@ -1,21 +1,21 @@
 {
-  "totalItems": 1686,
-  "last24h": 7,
-  "last7d": 55,
+  "totalItems": 1691,
+  "last24h": 8,
+  "last7d": 56,
   "byCategory": {
     "core": 284,
     "client": 281,
     "router": 18,
     "protocol": 57,
-    "dns_rules": 219,
-    "security": 71,
-    "ecosystem": 756,
+    "dns_rules": 222,
+    "security": 72,
+    "ecosystem": 757,
     "trend": 0
   },
   "topProjects": [
     {
       "project": "domain-list-community",
-      "count": 285
+      "count": 286
     },
     {
       "project": "mihomo",
@@ -23,11 +23,11 @@
     },
     {
       "project": "Sub-Store",
-      "count": 157
+      "count": 158
     },
     {
       "project": "v2ray-rules-dat",
-      "count": 146
+      "count": 147
     },
     {
       "project": "3x-ui",
@@ -35,7 +35,7 @@
     },
     {
       "project": "meta-rules-dat",
-      "count": 141
+      "count": 142
     },
     {
       "project": "metacubexd",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "release",
-      "count": 499
+      "count": 504
     },
     {
       "tag": "MetaCubeX",
@@ -65,7 +65,7 @@
     },
     {
       "tag": "mihomo",
-      "count": 287
+      "count": 288
     },
     {
       "tag": "v2fly",
@@ -73,27 +73,27 @@
     },
     {
       "tag": "geosite",
-      "count": 195
+      "count": 198
     },
     {
       "tag": "domain-list",
-      "count": 155
+      "count": 156
     },
     {
       "tag": "Sub-Store",
       "count": 117
     },
     {
-      "tag": "domain-list-community",
-      "count": 109
-    },
-    {
       "tag": "ruleset",
-      "count": 108
+      "count": 110
     },
     {
       "tag": "geoip",
-      "count": 108
+      "count": 110
+    },
+    {
+      "tag": "domain-list-community",
+      "count": 109
     },
     {
       "tag": "v2ray",
@@ -136,8 +136,8 @@
       "count": 71
     }
   ],
-  "importantCount": 646,
+  "importantCount": 650,
   "breakingCount": 97,
-  "securityCount": 125,
-  "updatedAt": "2026-09-21T21:56:59.430Z"
+  "securityCount": 126,
+  "updatedAt": "2026-09-22T05:04:13.179Z"
 }
