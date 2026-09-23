@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 517,
-    "category": "dns_rules"
+    "count": 518,
+    "category": "client"
   },
   {
     "tag": "MetaCubeX",
@@ -11,8 +11,8 @@
   },
   {
     "tag": "mihomo",
-    "count": 293,
-    "category": "dns_rules"
+    "count": 294,
+    "category": "client"
   },
   {
     "tag": "v2fly",
@@ -91,7 +91,7 @@
   },
   {
     "tag": "clash",
-    "count": 74,
+    "count": 75,
     "category": "client"
   },
   {
@@ -370,6 +370,11 @@
     "category": "core"
   },
   {
+    "tag": "android",
+    "count": 17,
+    "category": "client"
+  },
+  {
     "tag": "gost",
     "count": 17,
     "category": "core"
@@ -392,11 +397,6 @@
   {
     "tag": "TLSAuth",
     "count": 17,
-    "category": "client"
-  },
-  {
-    "tag": "android",
-    "count": 16,
     "category": "client"
   },
   {

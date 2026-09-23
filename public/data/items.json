@@ -1,5 +1,39 @@
 [
   {
+    "id": "d848dccf9545b78c",
+    "title": "MetaCubeX/ClashMetaForAndroid Prerelease-alpha",
+    "summary": "Prerelease-alpha",
+    "rawTitle": "Prerelease-alpha",
+    "rawBody": "## What's Changed\n* fix the focus state of home page on android tv by @scola in https://github.com/MetaCubeX/ClashMetaForAndroid/pull/839\n\n\n**Full Changelog**: https://github.com/MetaCubeX/ClashMetaForAndroid/compare/v2.11.34...Prerelease-alpha",
+    "sourceType": "github_release",
+    "sourceName": "MetaCubeX/ClashMetaForAndroid",
+    "sourceUrl": "https://github.com/MetaCubeX/ClashMetaForAndroid/releases/tag/Prerelease-alpha",
+    "project": "ClashMetaForAndroid",
+    "repo": "MetaCubeX/ClashMetaForAndroid",
+    "slug": "clashmetaforandroid",
+    "version": "Prerelease-alpha",
+    "category": "client",
+    "tags": [
+      "clash",
+      "android",
+      "mihomo",
+      "release"
+    ],
+    "platforms": [
+      "android"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-09-23T07:13:26Z",
+    "fetchedAt": "2026-09-23T11:45:23.418Z",
+    "firstSeenAt": "2026-09-23T11:45:32.697Z",
+    "updatedAt": "2026-09-23T11:45:32.697Z",
+    "hash": "d848dccf9545b78c"
+  },
+  {
     "id": "c4d95f0a0767106a",
     "title": "MetaCubeX/meta-rules-dat Release 2026-09-23 08:47",
     "summary": "Release 2026-09-23 08:47",
