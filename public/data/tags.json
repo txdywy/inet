@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 518,
-    "category": "client"
+    "count": 520,
+    "category": "dns_rules"
   },
   {
     "tag": "MetaCubeX",
@@ -11,18 +11,18 @@
   },
   {
     "tag": "mihomo",
-    "count": 294,
-    "category": "client"
+    "count": 295,
+    "category": "dns_rules"
+  },
+  {
+    "tag": "geosite",
+    "count": 203,
+    "category": "dns_rules"
   },
   {
     "tag": "v2fly",
     "count": 203,
     "category": "ecosystem"
-  },
-  {
-    "tag": "geosite",
-    "count": 201,
-    "category": "dns_rules"
   },
   {
     "tag": "domain-list",
@@ -36,12 +36,12 @@
   },
   {
     "tag": "ruleset",
-    "count": 112,
+    "count": 114,
     "category": "dns_rules"
   },
   {
     "tag": "geoip",
-    "count": 112,
+    "count": 114,
     "category": "dns_rules"
   },
   {
