@@ -1,9 +1,9 @@
 {
-  "totalItems": 1707,
-  "last24h": 3,
-  "last7d": 58,
+  "totalItems": 1709,
+  "last24h": 4,
+  "last7d": 59,
   "byCategory": {
-    "core": 285,
+    "core": 287,
     "client": 285,
     "router": 18,
     "protocol": 57,
@@ -43,7 +43,7 @@
     },
     {
       "project": "sing-box",
-      "count": 70
+      "count": 72
     },
     {
       "project": "gost",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "release",
-      "count": 520
+      "count": 522
     },
     {
       "tag": "MetaCubeX",
@@ -120,12 +120,12 @@
       "count": 82
     },
     {
-      "tag": "OpenVPN",
-      "count": 80
+      "tag": "sing-box",
+      "count": 81
     },
     {
-      "tag": "sing-box",
-      "count": 79
+      "tag": "OpenVPN",
+      "count": 80
     },
     {
       "tag": "clash",
@@ -136,8 +136,8 @@
       "count": 71
     }
   ],
-  "importantCount": 662,
+  "importantCount": 664,
   "breakingCount": 97,
   "securityCount": 131,
-  "updatedAt": "2026-09-24T04:57:52.036Z"
+  "updatedAt": "2026-09-24T11:54:10.252Z"
 }

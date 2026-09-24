@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 520,
-    "category": "dns_rules"
+    "count": 522,
+    "category": "core"
   },
   {
     "tag": "MetaCubeX",
@@ -80,14 +80,14 @@
     "category": "client"
   },
   {
+    "tag": "sing-box",
+    "count": 81,
+    "category": "core"
+  },
+  {
     "tag": "OpenVPN",
     "count": 80,
     "category": "protocol"
-  },
-  {
-    "tag": "sing-box",
-    "count": 79,
-    "category": "security"
   },
   {
     "tag": "clash",
@@ -105,13 +105,13 @@
     "category": "ecosystem"
   },
   {
-    "tag": "meta",
-    "count": 63,
-    "category": "security"
+    "tag": "vless",
+    "count": 64,
+    "category": "core"
   },
   {
-    "tag": "vless",
-    "count": 62,
+    "tag": "meta",
+    "count": 63,
     "category": "security"
   },
   {
@@ -135,6 +135,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "hysteria2",
+    "count": 52,
+    "category": "core"
+  },
+  {
     "tag": "quic",
     "count": 52,
     "category": "security"
@@ -143,11 +148,6 @@
     "tag": "Android",
     "count": 51,
     "category": "client"
-  },
-  {
-    "tag": "hysteria2",
-    "count": 50,
-    "category": "security"
   },
   {
     "tag": "开源",
@@ -190,14 +190,14 @@
     "category": "core"
   },
   {
-    "tag": "SagerNet",
+    "tag": "tuic",
     "count": 41,
     "category": "core"
   },
   {
-    "tag": "tuic",
-    "count": 39,
-    "category": "security"
+    "tag": "SagerNet",
+    "count": 41,
+    "category": "core"
   },
   {
     "tag": "wireguard",
