@@ -1,7 +1,7 @@
 [
   {
     "tag": "release",
-    "count": 522,
+    "count": 524,
     "category": "core"
   },
   {
@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 295,
+    "count": 296,
     "category": "dns_rules"
   },
   {
@@ -91,7 +91,7 @@
   },
   {
     "tag": "clash",
-    "count": 75,
+    "count": 76,
     "category": "client"
   },
   {
@@ -111,7 +111,7 @@
   },
   {
     "tag": "meta",
-    "count": 63,
+    "count": 64,
     "category": "security"
   },
   {
@@ -126,7 +126,7 @@
   },
   {
     "tag": "xhttp",
-    "count": 60,
+    "count": 61,
     "category": "security"
   },
   {
@@ -150,6 +150,11 @@
     "category": "client"
   },
   {
+    "tag": "ech",
+    "count": 46,
+    "category": "core"
+  },
+  {
     "tag": "开源",
     "count": 46,
     "category": "core"
@@ -158,11 +163,6 @@
     "tag": "代理",
     "count": 46,
     "category": "ecosystem"
-  },
-  {
-    "tag": "ech",
-    "count": 45,
-    "category": "core"
   },
   {
     "tag": "网络协议",
@@ -330,6 +330,11 @@
     "category": "core"
   },
   {
+    "tag": "naiveproxy",
+    "count": 19,
+    "category": "core"
+  },
+  {
     "tag": "openwrt",
     "count": 19,
     "category": "router"
@@ -353,11 +358,6 @@
     "tag": "snell",
     "count": 18,
     "category": "security"
-  },
-  {
-    "tag": "naiveproxy",
-    "count": 18,
-    "category": "router"
   },
   {
     "tag": "v2rayNG",
@@ -490,6 +490,11 @@
     "category": "security"
   },
   {
+    "tag": "anytls",
+    "count": 11,
+    "category": "security"
+  },
+  {
     "tag": "TUN",
     "count": 11,
     "category": "client"
@@ -526,11 +531,6 @@
   },
   {
     "tag": "v2rayng",
-    "count": 10,
-    "category": "security"
-  },
-  {
-    "tag": "anytls",
     "count": 10,
     "category": "security"
   },

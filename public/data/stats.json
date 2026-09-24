@@ -1,14 +1,14 @@
 {
-  "totalItems": 1709,
-  "last24h": 4,
-  "last7d": 59,
+  "totalItems": 1711,
+  "last24h": 5,
+  "last7d": 60,
   "byCategory": {
-    "core": 287,
+    "core": 288,
     "client": 285,
     "router": 18,
     "protocol": 57,
     "dns_rules": 227,
-    "security": 77,
+    "security": 78,
     "ecosystem": 758,
     "trend": 0
   },
@@ -19,7 +19,7 @@
     },
     {
       "project": "mihomo",
-      "count": 210
+      "count": 211
     },
     {
       "project": "Sub-Store",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "release",
-      "count": 522
+      "count": 524
     },
     {
       "tag": "MetaCubeX",
@@ -65,7 +65,7 @@
     },
     {
       "tag": "mihomo",
-      "count": 295
+      "count": 296
     },
     {
       "tag": "geosite",
@@ -129,15 +129,15 @@
     },
     {
       "tag": "clash",
-      "count": 75
+      "count": 76
     },
     {
       "tag": "网络代理",
       "count": 71
     }
   ],
-  "importantCount": 664,
+  "importantCount": 665,
   "breakingCount": 97,
-  "securityCount": 131,
-  "updatedAt": "2026-09-24T11:54:10.252Z"
+  "securityCount": 132,
+  "updatedAt": "2026-09-24T17:15:17.435Z"
 }

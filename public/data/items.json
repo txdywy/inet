@@ -1,5 +1,40 @@
 [
   {
+    "id": "7bd9066fe3ab308c",
+    "title": "klzgrad/naiveproxy v154.0.8037.49-1",
+    "summary": "v154.0.8037.49-1",
+    "rawTitle": "v154.0.8037.49-1",
+    "rawBody": "Rebased to 154.0.8037.49.\r\n\r\nAdded trust_anchors in ClientHello.",
+    "sourceType": "github_release",
+    "sourceName": "klzgrad/naiveproxy",
+    "sourceUrl": "https://github.com/klzgrad/naiveproxy/releases/tag/v154.0.8037.49-1",
+    "project": "naiveproxy",
+    "repo": "klzgrad/naiveproxy",
+    "slug": "naiveproxy",
+    "version": "154.0.8037.49-1",
+    "category": "core",
+    "tags": [
+      "naiveproxy",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos",
+      "android"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-09-24T14:25:36Z",
+    "fetchedAt": "2026-09-24T17:15:05.105Z",
+    "firstSeenAt": "2026-09-24T17:15:16.756Z",
+    "updatedAt": "2026-09-24T17:15:16.756Z",
+    "hash": "7bd9066fe3ab308c"
+  },
+  {
     "id": "1ee0e5ed5bd2da50",
     "title": "SagerNet/sing-box 1.14.2",
     "summary": "1.14.2",
@@ -50628,6 +50663,45 @@
     "firstSeenAt": "2026-05-07T04:09:04.362Z",
     "updatedAt": "2026-05-07T04:09:04.362Z",
     "hash": "5e6adb84fbb7f312"
+  },
+  {
+    "id": "acc1dd805cc74b33",
+    "title": "MetaCubeX/mihomo Prerelease-Alpha",
+    "summary": "Prerelease-Alpha",
+    "rawTitle": "Prerelease-Alpha",
+    "rawBody": "Release created at  Fri Sep 25 01:04:31 CST 2026\nSynchronize Alpha branch code updates, keeping only the latest version\n<br>\n[我应该下载哪个文件? / Which file should I download?](https://github.com/MetaCubeX/mihomo/wiki/FAQ)\n[二进制文件筛选 / Binary file selector](https://metacubex.github.io/Meta-Docs/startup/#_1)\n[查看文档 / Docs](https://metacubex.github.io/Meta-Docs/)\n\n\n## What's Changed\n* fix: restart EasyTier outbound after silent overlay failure by @MiaM1ku in https://github.com/MetaCubeX/mihomo/pull/3215\n* fix(anytls): potential race condition in c.idleSession.Len() in idleCleanupExpTime() by @chenx-dust in https://github.com/MetaCubeX/mihomo/pull/3225\n* fix: fix InUser for mieru by @echizenryoma in https://github.com/MetaCubeX/mihomo/pull/3236\n* feat: convert support xhttp extra.headers by @Medium1992 in https://github.com/MetaCubeX/mihomo/pull/3230\n* feat: add load-balance hash-key to pin a session on the inbound user by @jianzhichun in https://github.com/MetaCubeX/mihomo/pull/3133\n* fix: exclude opcode from P_DATA_V1 AEAD additional data for OpenVPN by @FlyingSB in https://github.com/MetaCubeX/mihomo/pull/3237\n\n## New Contributors\n* @echizenryoma made their first contribution in https://github.com/MetaCubeX/mihomo/pull/3236\n* @jianzhichun made their first contribution in https://github.com/MetaCubeX/mihomo/pull/3133\n* @FlyingSB made their first contribution in https://github.com/MetaCubeX/mihomo/pull/3237\n\n**Full Changelog**: https://github.com/MetaCubeX/mihomo/compare/v1.19.31...Prerelease-Alpha",
+    "sourceType": "github_release",
+    "sourceName": "MetaCubeX/mihomo",
+    "sourceUrl": "https://github.com/MetaCubeX/mihomo/releases/tag/Prerelease-Alpha",
+    "project": "mihomo",
+    "repo": "MetaCubeX/mihomo",
+    "slug": "mihomo",
+    "version": "Prerelease-Alpha",
+    "category": "security",
+    "tags": [
+      "mihomo",
+      "clash",
+      "meta",
+      "anytls",
+      "xhttp",
+      "ech",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 3,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": true,
+    "isProtocolRelated": true,
+    "publishedAt": "2024-08-12T17:01:02Z",
+    "fetchedAt": "2026-09-24T17:15:01.857Z",
+    "firstSeenAt": "2026-09-24T17:15:15.940Z",
+    "updatedAt": "2026-09-24T17:15:15.940Z",
+    "hash": "acc1dd805cc74b33"
   },
   {
     "id": "23c110d1a4082d96",
