@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 531,
-    "category": "core"
+    "count": 533,
+    "category": "router"
   },
   {
     "tag": "MetaCubeX",
@@ -56,7 +56,7 @@
   },
   {
     "tag": "xray-core",
-    "count": 91,
+    "count": 92,
     "category": "security"
   },
   {
@@ -116,12 +116,12 @@
   },
   {
     "tag": "x-ui",
-    "count": 62,
+    "count": 63,
     "category": "security"
   },
   {
     "tag": "panel",
-    "count": 62,
+    "count": 63,
     "category": "security"
   },
   {
@@ -321,8 +321,13 @@
   },
   {
     "tag": "naiveproxy",
+    "count": 21,
+    "category": "router"
+  },
+  {
+    "tag": "openwrt",
     "count": 20,
-    "category": "core"
+    "category": "router"
   },
   {
     "tag": "QUIC",
@@ -333,11 +338,6 @@
     "tag": "rematch",
     "count": 20,
     "category": "core"
-  },
-  {
-    "tag": "openwrt",
-    "count": 19,
-    "category": "router"
   },
   {
     "tag": "macOS",
@@ -435,6 +435,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "shadowsocks",
+    "count": 14,
+    "category": "router"
+  },
+  {
     "tag": "v2rayA",
     "count": 14,
     "category": "client"
@@ -453,11 +458,6 @@
     "tag": "tunnel",
     "count": 13,
     "category": "core"
-  },
-  {
-    "tag": "shadowsocks",
-    "count": 13,
-    "category": "security"
   },
   {
     "tag": "v2ray-agent",
@@ -770,6 +770,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "luci",
+    "count": 5,
+    "category": "router"
+  },
+  {
     "tag": "script",
     "count": 5,
     "category": "ecosystem"
@@ -895,6 +900,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "ssrplus",
+    "count": 4,
+    "category": "router"
+  },
+  {
     "tag": "clash-verge",
     "count": 4,
     "category": "client"
@@ -908,11 +918,6 @@
     "tag": "mesh",
     "count": 4,
     "category": "ecosystem"
-  },
-  {
-    "tag": "luci",
-    "count": 4,
-    "category": "router"
   },
   {
     "tag": "中间人攻击",
@@ -1033,11 +1038,6 @@
     "tag": "nekoray",
     "count": 4,
     "category": "client"
-  },
-  {
-    "tag": "ssrplus",
-    "count": 3,
-    "category": "router"
   },
   {
     "tag": "CDN",

@@ -1,5 +1,42 @@
 [
   {
+    "id": "e01ee002bed6498a",
+    "title": "fw876/helloworld v196.10",
+    "summary": "v196.10",
+    "rawTitle": "v196.10",
+    "rawBody": "# helloworld v196.10\n\nChanges since v196.9:\n\n- luci-app-ssr-plus: bump version to v196.10 (`a6b31a5`)\n- shadowsocksr-libev: fix get_overhead NULL pointer for {auth,verify}_simple (`db7e943`)\n- shadowsocksr-libev: make ssr-libev ~4.5x faster (`97980f2`)\n- luci-app-ssr-plus: Add default direct DNS server configuration. (`4b0d7bb`)\n- luci-app-ssr-plus: Fix subscribe type erro. (`f57afa5`)\n- gn: update to git HEAD (2026-09-02) (`65bd5a4`)\n- luci-app-ssr-plus: Add SOCKS5 auth and unify DNS/Sniffer handling. (`6329b39`)\n- luci-app-ssr-plus: neaten mihomo SOCKS5 authentication. (`d5645f1`)\n- Merge pull request #2045 from zxlhhyccc/fake-ip (`0405684`)\n- luci-app-ssr-plus: Add mihomo SOCKS5 authentication support. (`e1f753f`)\n- luci-app-ssr-plus: Fix YAML line processing pattern (`6af1631`)\n- Merge pull request #2044 from zxlhhyccc/fake-ip (`b96067c`)\n- luci-app-ssr-plus: Add fake-ip mode and Fix Upload yaml config cannot use external DNS resolution. (`56f56ec`)\n- shadowsocks-rust: update to 1.25.0 (`37e1ad7`)\n- xray-core: update to 26.9.9 (`8663a89`)\n- luci-app-ssr-plus: fix SOCKS5 server startup (`4efbf62`)\n- luci-app-ssr-plus: fix main program update check (`44553bc`)\n\nPackages:\n- luci-app-ssr-plus\n- xray-core\n- mihomo\n- naiveproxy\n",
+    "sourceType": "github_release",
+    "sourceName": "fw876/helloworld",
+    "sourceUrl": "https://github.com/fw876/helloworld/releases/tag/v196.10",
+    "project": "helloworld",
+    "repo": "fw876/helloworld",
+    "slug": "helloworld",
+    "version": "196.10",
+    "category": "router",
+    "tags": [
+      "ssrplus",
+      "openwrt",
+      "luci",
+      "naiveproxy",
+      "shadowsocks",
+      "release"
+    ],
+    "platforms": [
+      "openwrt",
+      "router"
+    ],
+    "importance": 2,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2026-09-25T14:05:55Z",
+    "fetchedAt": "2026-09-25T17:15:48.259Z",
+    "firstSeenAt": "2026-09-25T17:15:56.372Z",
+    "updatedAt": "2026-09-25T17:15:56.372Z",
+    "hash": "e01ee002bed6498a"
+  },
+  {
     "id": "82e7ecebcbe286c3",
     "title": "SUDOKU-ASCII/sudoku v0.5.1",
     "summary": "v0.5.1",
@@ -25562,6 +25599,40 @@
     "firstSeenAt": "2026-06-25T04:36:16.426Z",
     "updatedAt": "2026-06-25T04:36:16.426Z",
     "hash": "e54a070ca4e6a5bf"
+  },
+  {
+    "id": "1a3934ff179f28f9",
+    "title": "MHSanaei/3x-ui Dev build d85b3a62",
+    "summary": "Dev build d85b3a62",
+    "rawTitle": "Dev build d85b3a62",
+    "rawBody": "Rolling development build — installs via the panel's Dev update channel.\n\ncommit=d85b3a62656071cc53bfdde078e8104c8687fc55\nbuilt=2026-09-25T15:46:50Z\n\nAutomated per-commit build from main. Not a stable release.",
+    "sourceType": "github_release",
+    "sourceName": "MHSanaei/3x-ui",
+    "sourceUrl": "https://github.com/MHSanaei/3x-ui/releases/tag/dev-latest",
+    "project": "3x-ui",
+    "repo": "MHSanaei/3x-ui",
+    "slug": "3x-ui",
+    "version": "dev-latest",
+    "category": "ecosystem",
+    "tags": [
+      "x-ui",
+      "panel",
+      "xray-core",
+      "release"
+    ],
+    "platforms": [
+      "linux"
+    ],
+    "importance": 4,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2026-06-24T16:17:06Z",
+    "fetchedAt": "2026-09-25T17:15:52.903Z",
+    "firstSeenAt": "2026-09-25T17:15:57.187Z",
+    "updatedAt": "2026-09-25T17:15:57.187Z",
+    "hash": "1a3934ff179f28f9"
   },
   {
     "id": "127622ba7fb07bc0",
