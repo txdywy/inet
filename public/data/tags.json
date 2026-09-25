@@ -1,7 +1,7 @@
 [
   {
     "tag": "release",
-    "count": 530,
+    "count": 531,
     "category": "core"
   },
   {
@@ -261,8 +261,8 @@
   },
   {
     "tag": "sudoku",
-    "count": 26,
-    "category": "security"
+    "count": 27,
+    "category": "core"
   },
   {
     "tag": "DNS",
@@ -1265,6 +1265,11 @@
     "category": "protocol"
   },
   {
+    "tag": "obfuscation",
+    "count": 2,
+    "category": "core"
+  },
+  {
     "tag": "ebpf",
     "count": 2,
     "category": "core"
@@ -1788,11 +1793,6 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
-  },
-  {
-    "tag": "obfuscation",
-    "count": 1,
-    "category": "core"
   },
   {
     "tag": "openclash",

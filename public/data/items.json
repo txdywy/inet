@@ -1,5 +1,41 @@
 [
   {
+    "id": "82e7ecebcbe286c3",
+    "title": "SUDOKU-ASCII/sudoku v0.5.1",
+    "summary": "v0.5.1",
+    "rawTitle": "v0.5.1",
+    "rawBody": "congratulations (holiday). happy mid-autumn festival;\r\n\r\nperf (copy). optimized the data forwarding path;\r\n\r\nperf (memory). reduced memory allocations and improved cpu utilization;",
+    "sourceType": "github_release",
+    "sourceName": "SUDOKU-ASCII/sudoku",
+    "sourceUrl": "https://github.com/SUDOKU-ASCII/sudoku/releases/tag/v0.5.1",
+    "project": "sudoku",
+    "repo": "SUDOKU-ASCII/sudoku",
+    "slug": "sudoku",
+    "version": "0.5.1",
+    "category": "core",
+    "tags": [
+      "sudoku",
+      "obfuscation",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos",
+      "android"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-09-25T05:54:09Z",
+    "fetchedAt": "2026-09-25T11:56:32.706Z",
+    "firstSeenAt": "2026-09-25T11:56:45.250Z",
+    "updatedAt": "2026-09-25T11:56:45.250Z",
+    "hash": "82e7ecebcbe286c3"
+  },
+  {
     "id": "62d1e870e100d8aa",
     "title": "klzgrad/naiveproxy v154.0.8037.49-2",
     "summary": "v154.0.8037.49-2",
