@@ -1,7 +1,7 @@
 [
   {
     "tag": "release",
-    "count": 524,
+    "count": 530,
     "category": "core"
   },
   {
@@ -11,12 +11,12 @@
   },
   {
     "tag": "mihomo",
-    "count": 296,
+    "count": 298,
     "category": "dns_rules"
   },
   {
     "tag": "geosite",
-    "count": 203,
+    "count": 206,
     "category": "dns_rules"
   },
   {
@@ -26,7 +26,7 @@
   },
   {
     "tag": "domain-list",
-    "count": 157,
+    "count": 158,
     "category": "dns_rules"
   },
   {
@@ -36,12 +36,12 @@
   },
   {
     "tag": "ruleset",
-    "count": 114,
+    "count": 116,
     "category": "dns_rules"
   },
   {
     "tag": "geoip",
-    "count": 114,
+    "count": 116,
     "category": "dns_rules"
   },
   {
@@ -91,7 +91,7 @@
   },
   {
     "tag": "clash",
-    "count": 76,
+    "count": 77,
     "category": "client"
   },
   {
@@ -105,14 +105,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "meta",
+    "count": 65,
+    "category": "security"
+  },
+  {
     "tag": "vless",
     "count": 64,
     "category": "core"
-  },
-  {
-    "tag": "meta",
-    "count": 64,
-    "category": "security"
   },
   {
     "tag": "x-ui",
@@ -126,7 +126,7 @@
   },
   {
     "tag": "xhttp",
-    "count": 61,
+    "count": 62,
     "category": "security"
   },
   {
@@ -151,7 +151,7 @@
   },
   {
     "tag": "ech",
-    "count": 46,
+    "count": 47,
     "category": "core"
   },
   {
@@ -320,6 +320,11 @@
     "category": "core"
   },
   {
+    "tag": "naiveproxy",
+    "count": 20,
+    "category": "core"
+  },
+  {
     "tag": "QUIC",
     "count": 20,
     "category": "ecosystem"
@@ -327,11 +332,6 @@
   {
     "tag": "rematch",
     "count": 20,
-    "category": "core"
-  },
-  {
-    "tag": "naiveproxy",
-    "count": 19,
     "category": "core"
   },
   {
@@ -480,17 +480,17 @@
     "category": "client"
   },
   {
+    "tag": "anytls",
+    "count": 12,
+    "category": "security"
+  },
+  {
     "tag": "HTTP",
     "count": 12,
     "category": "core"
   },
   {
     "tag": "v2ray-core",
-    "count": 11,
-    "category": "security"
-  },
-  {
-    "tag": "anytls",
     "count": 11,
     "category": "security"
   },
@@ -600,6 +600,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "dae",
+    "count": 8,
+    "category": "core"
+  },
+  {
     "tag": "v2rayn",
     "count": 8,
     "category": "security"
@@ -658,11 +663,6 @@
     "tag": "desktop",
     "count": 7,
     "category": "client"
-  },
-  {
-    "tag": "dae",
-    "count": 7,
-    "category": "security"
   },
   {
     "tag": "amneziawg",
@@ -1265,6 +1265,16 @@
     "category": "protocol"
   },
   {
+    "tag": "ebpf",
+    "count": 2,
+    "category": "core"
+  },
+  {
+    "tag": "linux",
+    "count": 2,
+    "category": "core"
+  },
+  {
     "tag": "http/3",
     "count": 2,
     "category": "security"
@@ -1777,16 +1787,6 @@
   {
     "tag": "Quantumult X",
     "count": 2,
-    "category": "security"
-  },
-  {
-    "tag": "ebpf",
-    "count": 1,
-    "category": "security"
-  },
-  {
-    "tag": "linux",
-    "count": 1,
     "category": "security"
   },
   {
