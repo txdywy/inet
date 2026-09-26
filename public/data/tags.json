@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 534,
-    "category": "router"
+    "count": 541,
+    "category": "client"
   },
   {
     "tag": "MetaCubeX",
@@ -11,12 +11,12 @@
   },
   {
     "tag": "mihomo",
-    "count": 298,
-    "category": "dns_rules"
+    "count": 300,
+    "category": "client"
   },
   {
     "tag": "geosite",
-    "count": 206,
+    "count": 209,
     "category": "dns_rules"
   },
   {
@@ -26,23 +26,23 @@
   },
   {
     "tag": "domain-list",
-    "count": 158,
+    "count": 159,
+    "category": "dns_rules"
+  },
+  {
+    "tag": "ruleset",
+    "count": 118,
+    "category": "dns_rules"
+  },
+  {
+    "tag": "geoip",
+    "count": 118,
     "category": "dns_rules"
   },
   {
     "tag": "Sub-Store",
     "count": 117,
     "category": "ecosystem"
-  },
-  {
-    "tag": "ruleset",
-    "count": 116,
-    "category": "dns_rules"
-  },
-  {
-    "tag": "geoip",
-    "count": 116,
-    "category": "dns_rules"
   },
   {
     "tag": "domain-list-community",
@@ -56,7 +56,7 @@
   },
   {
     "tag": "xray-core",
-    "count": 93,
+    "count": 94,
     "category": "security"
   },
   {
@@ -105,6 +105,16 @@
     "category": "ecosystem"
   },
   {
+    "tag": "x-ui",
+    "count": 65,
+    "category": "security"
+  },
+  {
+    "tag": "panel",
+    "count": 65,
+    "category": "security"
+  },
+  {
     "tag": "meta",
     "count": 65,
     "category": "security"
@@ -113,16 +123,6 @@
     "tag": "vless",
     "count": 64,
     "category": "core"
-  },
-  {
-    "tag": "x-ui",
-    "count": 64,
-    "category": "security"
-  },
-  {
-    "tag": "panel",
-    "count": 64,
-    "category": "security"
   },
   {
     "tag": "xhttp",
@@ -170,18 +170,18 @@
     "category": "core"
   },
   {
-    "tag": "dat",
+    "tag": "sub-store",
     "count": 43,
     "category": "ecosystem"
   },
   {
-    "tag": "sub-store",
-    "count": 42,
+    "tag": "subscription",
+    "count": 43,
     "category": "ecosystem"
   },
   {
-    "tag": "subscription",
-    "count": 42,
+    "tag": "dat",
+    "count": 43,
     "category": "ecosystem"
   },
   {
@@ -310,6 +310,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "naiveproxy",
+    "count": 22,
+    "category": "router"
+  },
+  {
     "tag": "用户界面",
     "count": 22,
     "category": "client"
@@ -320,13 +325,8 @@
     "category": "core"
   },
   {
-    "tag": "naiveproxy",
-    "count": 21,
-    "category": "router"
-  },
-  {
     "tag": "openwrt",
-    "count": 20,
+    "count": 21,
     "category": "router"
   },
   {
@@ -420,6 +420,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "shadowsocks",
+    "count": 15,
+    "category": "router"
+  },
+  {
     "tag": "mosdns",
     "count": 15,
     "category": "router"
@@ -433,11 +438,6 @@
     "tag": "网络规则",
     "count": 15,
     "category": "ecosystem"
-  },
-  {
-    "tag": "shadowsocks",
-    "count": 14,
-    "category": "router"
   },
   {
     "tag": "v2rayA",
@@ -600,6 +600,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "desktop",
+    "count": 8,
+    "category": "client"
+  },
+  {
     "tag": "dae",
     "count": 8,
     "category": "core"
@@ -660,11 +665,6 @@
     "category": "core"
   },
   {
-    "tag": "desktop",
-    "count": 7,
-    "category": "client"
-  },
-  {
     "tag": "amneziawg",
     "count": 7,
     "category": "security"
@@ -708,6 +708,11 @@
     "tag": "luci-app-mosdns",
     "count": 7,
     "category": "ecosystem"
+  },
+  {
+    "tag": "luci",
+    "count": 6,
+    "category": "router"
   },
   {
     "tag": "安全更新",
@@ -770,7 +775,12 @@
     "category": "ecosystem"
   },
   {
-    "tag": "luci",
+    "tag": "clash-verge",
+    "count": 5,
+    "category": "client"
+  },
+  {
+    "tag": "ssrplus",
     "count": 5,
     "category": "router"
   },
@@ -898,16 +908,6 @@
     "tag": "subconverter",
     "count": 5,
     "category": "ecosystem"
-  },
-  {
-    "tag": "ssrplus",
-    "count": 4,
-    "category": "router"
-  },
-  {
-    "tag": "clash-verge",
-    "count": 4,
-    "category": "client"
   },
   {
     "tag": "vision",

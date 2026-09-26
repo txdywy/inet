@@ -1,21 +1,21 @@
 {
-  "totalItems": 1721,
-  "last24h": 7,
-  "last7d": 60,
+  "totalItems": 1728,
+  "last24h": 8,
+  "last7d": 62,
   "byCategory": {
     "core": 291,
-    "client": 285,
-    "router": 19,
+    "client": 286,
+    "router": 20,
     "protocol": 57,
-    "dns_rules": 230,
+    "dns_rules": 233,
     "security": 79,
-    "ecosystem": 760,
+    "ecosystem": 762,
     "trend": 0
   },
   "topProjects": [
     {
       "project": "domain-list-community",
-      "count": 288
+      "count": 289
     },
     {
       "project": "mihomo",
@@ -23,19 +23,19 @@
     },
     {
       "project": "Sub-Store",
-      "count": 159
+      "count": 160
     },
     {
       "project": "v2ray-rules-dat",
-      "count": 150
+      "count": 151
     },
     {
       "project": "3x-ui",
-      "count": 147
+      "count": 148
     },
     {
       "project": "meta-rules-dat",
-      "count": 145
+      "count": 146
     },
     {
       "project": "metacubexd",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "release",
-      "count": 534
+      "count": 541
     },
     {
       "tag": "MetaCubeX",
@@ -65,11 +65,11 @@
     },
     {
       "tag": "mihomo",
-      "count": 298
+      "count": 300
     },
     {
       "tag": "geosite",
-      "count": 206
+      "count": 209
     },
     {
       "tag": "v2fly",
@@ -77,19 +77,19 @@
     },
     {
       "tag": "domain-list",
-      "count": 158
+      "count": 159
+    },
+    {
+      "tag": "ruleset",
+      "count": 118
+    },
+    {
+      "tag": "geoip",
+      "count": 118
     },
     {
       "tag": "Sub-Store",
       "count": 117
-    },
-    {
-      "tag": "ruleset",
-      "count": 116
-    },
-    {
-      "tag": "geoip",
-      "count": 116
     },
     {
       "tag": "domain-list-community",
@@ -101,7 +101,7 @@
     },
     {
       "tag": "xray-core",
-      "count": 93
+      "count": 94
     },
     {
       "tag": "meta-rules-dat",
@@ -136,8 +136,8 @@
       "count": 71
     }
   ],
-  "importantCount": 673,
+  "importantCount": 679,
   "breakingCount": 97,
   "securityCount": 133,
-  "updatedAt": "2026-09-25T21:31:50.827Z"
+  "updatedAt": "2026-09-26T05:05:30.778Z"
 }
