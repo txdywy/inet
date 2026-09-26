@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 542,
-    "category": "client"
+    "count": 543,
+    "category": "core"
   },
   {
     "tag": "MetaCubeX",
@@ -75,14 +75,14 @@
     "category": "client"
   },
   {
+    "tag": "sing-box",
+    "count": 82,
+    "category": "core"
+  },
+  {
     "tag": "metacubexd",
     "count": 82,
     "category": "client"
-  },
-  {
-    "tag": "sing-box",
-    "count": 81,
-    "category": "core"
   },
   {
     "tag": "OpenVPN",
@@ -115,14 +115,14 @@
     "category": "security"
   },
   {
+    "tag": "vless",
+    "count": 65,
+    "category": "core"
+  },
+  {
     "tag": "meta",
     "count": 65,
     "category": "security"
-  },
-  {
-    "tag": "vless",
-    "count": 64,
-    "category": "core"
   },
   {
     "tag": "xhttp",
@@ -136,7 +136,7 @@
   },
   {
     "tag": "hysteria2",
-    "count": 52,
+    "count": 53,
     "category": "core"
   },
   {
@@ -185,13 +185,13 @@
     "category": "ecosystem"
   },
   {
-    "tag": "代理工具",
+    "tag": "tuic",
     "count": 42,
     "category": "core"
   },
   {
-    "tag": "tuic",
-    "count": 41,
+    "tag": "代理工具",
+    "count": 42,
     "category": "core"
   },
   {
@@ -300,6 +300,11 @@
     "category": "protocol"
   },
   {
+    "tag": "naiveproxy",
+    "count": 23,
+    "category": "core"
+  },
+  {
     "tag": "依赖更新",
     "count": 23,
     "category": "ecosystem"
@@ -308,11 +313,6 @@
     "tag": "VLESS",
     "count": 23,
     "category": "ecosystem"
-  },
-  {
-    "tag": "naiveproxy",
-    "count": 22,
-    "category": "router"
   },
   {
     "tag": "用户界面",
