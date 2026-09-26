@@ -1,7 +1,7 @@
 [
   {
     "tag": "release",
-    "count": 541,
+    "count": 542,
     "category": "client"
   },
   {
@@ -56,7 +56,7 @@
   },
   {
     "tag": "xray-core",
-    "count": 94,
+    "count": 95,
     "category": "security"
   },
   {
@@ -106,12 +106,12 @@
   },
   {
     "tag": "x-ui",
-    "count": 65,
+    "count": 66,
     "category": "security"
   },
   {
     "tag": "panel",
-    "count": 65,
+    "count": 66,
     "category": "security"
   },
   {
