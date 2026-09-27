@@ -1,5 +1,42 @@
 [
   {
+    "id": "9134e3476daa082b",
+    "title": "sub-store-org/Sub-Store 2.42.2",
+    "summary": "2.42.2",
+    "rawTitle": "2.42.2",
+    "rawBody": "## <small>2.42.2 (2026-09-27)</small>\n\n* feat: #652 调整 Loon tls-profile 相关逻辑 ([e08f1b1](https://github.com/sub-store-org/Sub-Store/commit/e08f1b1)), closes [#652](https://github.com/sub-store-org/Sub-Store/issues/652)\n",
+    "sourceType": "github_release",
+    "sourceName": "sub-store-org/Sub-Store",
+    "sourceUrl": "https://github.com/sub-store-org/Sub-Store/releases/tag/2.42.2",
+    "project": "Sub-Store",
+    "repo": "sub-store-org/Sub-Store",
+    "slug": "sub-store",
+    "version": "2.42.2",
+    "category": "security",
+    "tags": [
+      "sub-store",
+      "subscription",
+      "release"
+    ],
+    "platforms": [
+      "ios",
+      "android",
+      "macos",
+      "windows",
+      "linux"
+    ],
+    "importance": 5,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": true,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-09-27T05:55:10Z",
+    "fetchedAt": "2026-09-27T12:09:17.347Z",
+    "firstSeenAt": "2026-09-27T12:09:21.538Z",
+    "updatedAt": "2026-09-27T12:09:21.538Z",
+    "hash": "9134e3476daa082b"
+  },
+  {
     "id": "760246b4526fa352",
     "title": "sub-store-org/Sub-Store 2.42.0",
     "summary": "2.42.0",
@@ -26004,6 +26041,40 @@
     "firstSeenAt": "2026-06-25T04:36:16.426Z",
     "updatedAt": "2026-06-25T04:36:16.426Z",
     "hash": "e54a070ca4e6a5bf"
+  },
+  {
+    "id": "d05cfcf706a338c7",
+    "title": "MHSanaei/3x-ui Dev build 7aa5fc08",
+    "summary": "Dev build 7aa5fc08",
+    "rawTitle": "Dev build 7aa5fc08",
+    "rawBody": "Rolling development build — installs via the panel's Dev update channel.\n\ncommit=7aa5fc085f119de870586714ba1e9e755b6e9a0e\nbuilt=2026-09-27T11:37:55Z\n\nAutomated per-commit build from main. Not a stable release.",
+    "sourceType": "github_release",
+    "sourceName": "MHSanaei/3x-ui",
+    "sourceUrl": "https://github.com/MHSanaei/3x-ui/releases/tag/dev-latest",
+    "project": "3x-ui",
+    "repo": "MHSanaei/3x-ui",
+    "slug": "3x-ui",
+    "version": "dev-latest",
+    "category": "ecosystem",
+    "tags": [
+      "x-ui",
+      "panel",
+      "xray-core",
+      "release"
+    ],
+    "platforms": [
+      "linux"
+    ],
+    "importance": 4,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2026-06-24T16:17:06Z",
+    "fetchedAt": "2026-09-27T12:09:17.406Z",
+    "firstSeenAt": "2026-09-27T12:09:20.728Z",
+    "updatedAt": "2026-09-27T12:09:20.728Z",
+    "hash": "d05cfcf706a338c7"
   },
   {
     "id": "86b49a10ab6ffdaf",

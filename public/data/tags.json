@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 550,
-    "category": "ecosystem"
+    "count": 552,
+    "category": "security"
   },
   {
     "tag": "MetaCubeX",
@@ -56,7 +56,7 @@
   },
   {
     "tag": "xray-core",
-    "count": 97,
+    "count": 98,
     "category": "security"
   },
   {
@@ -101,12 +101,12 @@
   },
   {
     "tag": "x-ui",
-    "count": 68,
+    "count": 69,
     "category": "security"
   },
   {
     "tag": "panel",
-    "count": 68,
+    "count": 69,
     "category": "security"
   },
   {
@@ -155,6 +155,16 @@
     "category": "core"
   },
   {
+    "tag": "sub-store",
+    "count": 46,
+    "category": "security"
+  },
+  {
+    "tag": "subscription",
+    "count": 46,
+    "category": "security"
+  },
+  {
     "tag": "开源",
     "count": 46,
     "category": "core"
@@ -162,16 +172,6 @@
   {
     "tag": "代理",
     "count": 46,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "sub-store",
-    "count": 45,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "subscription",
-    "count": 45,
     "category": "ecosystem"
   },
   {
