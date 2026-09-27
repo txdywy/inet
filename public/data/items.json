@@ -26043,6 +26043,40 @@
     "hash": "e54a070ca4e6a5bf"
   },
   {
+    "id": "34902c47216c0066",
+    "title": "MHSanaei/3x-ui Dev build 09617f04",
+    "summary": "Dev build 09617f04",
+    "rawTitle": "Dev build 09617f04",
+    "rawBody": "Rolling development build — installs via the panel's Dev update channel.\n\ncommit=09617f04f5a7fc3b1c374993e5227368b3cf6b8d\nbuilt=2026-09-27T14:39:36Z\n\nAutomated per-commit build from main. Not a stable release.",
+    "sourceType": "github_release",
+    "sourceName": "MHSanaei/3x-ui",
+    "sourceUrl": "https://github.com/MHSanaei/3x-ui/releases/tag/dev-latest",
+    "project": "3x-ui",
+    "repo": "MHSanaei/3x-ui",
+    "slug": "3x-ui",
+    "version": "dev-latest",
+    "category": "ecosystem",
+    "tags": [
+      "x-ui",
+      "panel",
+      "xray-core",
+      "release"
+    ],
+    "platforms": [
+      "linux"
+    ],
+    "importance": 4,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2026-06-24T16:17:06Z",
+    "fetchedAt": "2026-09-27T17:00:44.814Z",
+    "firstSeenAt": "2026-09-27T17:00:48.371Z",
+    "updatedAt": "2026-09-27T17:00:48.371Z",
+    "hash": "34902c47216c0066"
+  },
+  {
     "id": "d05cfcf706a338c7",
     "title": "MHSanaei/3x-ui Dev build 7aa5fc08",
     "summary": "Dev build 7aa5fc08",
