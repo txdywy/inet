@@ -1,15 +1,15 @@
 {
-  "totalItems": 1731,
-  "last24h": 7,
+  "totalItems": 1737,
+  "last24h": 4,
   "last7d": 61,
   "byCategory": {
     "core": 292,
     "client": 286,
     "router": 20,
     "protocol": 57,
-    "dns_rules": 233,
-    "security": 79,
-    "ecosystem": 764,
+    "dns_rules": 235,
+    "security": 80,
+    "ecosystem": 767,
     "trend": 0
   },
   "topProjects": [
@@ -19,23 +19,23 @@
     },
     {
       "project": "mihomo",
-      "count": 212
+      "count": 213
     },
     {
       "project": "Sub-Store",
-      "count": 160
+      "count": 162
     },
     {
       "project": "v2ray-rules-dat",
-      "count": 151
+      "count": 152
     },
     {
       "project": "3x-ui",
-      "count": 150
+      "count": 151
     },
     {
       "project": "meta-rules-dat",
-      "count": 146
+      "count": 147
     },
     {
       "project": "metacubexd",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "release",
-      "count": 544
+      "count": 550
     },
     {
       "tag": "MetaCubeX",
@@ -65,11 +65,11 @@
     },
     {
       "tag": "mihomo",
-      "count": 300
+      "count": 302
     },
     {
       "tag": "geosite",
-      "count": 209
+      "count": 211
     },
     {
       "tag": "v2fly",
@@ -81,11 +81,11 @@
     },
     {
       "tag": "ruleset",
-      "count": 118
+      "count": 120
     },
     {
       "tag": "geoip",
-      "count": 118
+      "count": 120
     },
     {
       "tag": "Sub-Store",
@@ -101,7 +101,7 @@
     },
     {
       "tag": "xray-core",
-      "count": 96
+      "count": 97
     },
     {
       "tag": "meta-rules-dat",
@@ -129,15 +129,15 @@
     },
     {
       "tag": "clash",
-      "count": 77
+      "count": 78
     },
     {
       "tag": "网络代理",
       "count": 71
     }
   ],
-  "importantCount": 682,
+  "importantCount": 686,
   "breakingCount": 97,
-  "securityCount": 133,
-  "updatedAt": "2026-09-26T21:05:56.782Z"
+  "securityCount": 134,
+  "updatedAt": "2026-09-27T05:23:29.591Z"
 }

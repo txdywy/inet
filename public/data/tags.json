@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 544,
-    "category": "core"
+    "count": 550,
+    "category": "ecosystem"
   },
   {
     "tag": "MetaCubeX",
@@ -11,12 +11,12 @@
   },
   {
     "tag": "mihomo",
-    "count": 300,
-    "category": "client"
+    "count": 302,
+    "category": "dns_rules"
   },
   {
     "tag": "geosite",
-    "count": 209,
+    "count": 211,
     "category": "dns_rules"
   },
   {
@@ -31,12 +31,12 @@
   },
   {
     "tag": "ruleset",
-    "count": 118,
+    "count": 120,
     "category": "dns_rules"
   },
   {
     "tag": "geoip",
-    "count": 118,
+    "count": 120,
     "category": "dns_rules"
   },
   {
@@ -56,7 +56,7 @@
   },
   {
     "tag": "xray-core",
-    "count": 96,
+    "count": 97,
     "category": "security"
   },
   {
@@ -91,7 +91,7 @@
   },
   {
     "tag": "clash",
-    "count": 77,
+    "count": 78,
     "category": "client"
   },
   {
@@ -101,12 +101,12 @@
   },
   {
     "tag": "x-ui",
-    "count": 67,
+    "count": 68,
     "category": "security"
   },
   {
     "tag": "panel",
-    "count": 67,
+    "count": 68,
     "category": "security"
   },
   {
@@ -115,18 +115,18 @@
     "category": "ecosystem"
   },
   {
+    "tag": "meta",
+    "count": 66,
+    "category": "security"
+  },
+  {
     "tag": "vless",
     "count": 65,
     "category": "core"
   },
   {
-    "tag": "meta",
-    "count": 65,
-    "category": "security"
-  },
-  {
     "tag": "xhttp",
-    "count": 62,
+    "count": 63,
     "category": "security"
   },
   {
@@ -151,7 +151,7 @@
   },
   {
     "tag": "ech",
-    "count": 47,
+    "count": 48,
     "category": "core"
   },
   {
@@ -165,19 +165,19 @@
     "category": "ecosystem"
   },
   {
-    "tag": "网络协议",
-    "count": 44,
-    "category": "core"
-  },
-  {
     "tag": "sub-store",
-    "count": 43,
+    "count": 45,
     "category": "ecosystem"
   },
   {
     "tag": "subscription",
-    "count": 43,
+    "count": 45,
     "category": "ecosystem"
+  },
+  {
+    "tag": "网络协议",
+    "count": 44,
+    "category": "core"
   },
   {
     "tag": "dat",
@@ -460,6 +460,11 @@
     "category": "core"
   },
   {
+    "tag": "anytls",
+    "count": 13,
+    "category": "security"
+  },
+  {
     "tag": "v2ray-agent",
     "count": 13,
     "category": "ecosystem"
@@ -478,11 +483,6 @@
     "tag": "SOCKS",
     "count": 13,
     "category": "client"
-  },
-  {
-    "tag": "anytls",
-    "count": 12,
-    "category": "security"
   },
   {
     "tag": "HTTP",
