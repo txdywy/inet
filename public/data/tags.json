@@ -1,7 +1,7 @@
 [
   {
     "tag": "release",
-    "count": 553,
+    "count": 554,
     "category": "security"
   },
   {
@@ -50,14 +50,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "xray-core",
+    "count": 100,
+    "category": "security"
+  },
+  {
     "tag": "v2ray",
     "count": 100,
     "category": "ecosystem"
-  },
-  {
-    "tag": "xray-core",
-    "count": 99,
-    "category": "security"
   },
   {
     "tag": "meta-rules-dat",
@@ -95,19 +95,19 @@
     "category": "client"
   },
   {
-    "tag": "网络代理",
-    "count": 71,
-    "category": "ecosystem"
-  },
-  {
     "tag": "x-ui",
-    "count": 70,
+    "count": 71,
     "category": "security"
   },
   {
     "tag": "panel",
-    "count": 70,
+    "count": 71,
     "category": "security"
+  },
+  {
+    "tag": "网络代理",
+    "count": 71,
+    "category": "ecosystem"
   },
   {
     "tag": "rules",
