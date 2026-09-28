@@ -1,7 +1,7 @@
 [
   {
     "tag": "release",
-    "count": 557,
+    "count": 558,
     "category": "dns_rules"
   },
   {
@@ -51,7 +51,7 @@
   },
   {
     "tag": "xray-core",
-    "count": 101,
+    "count": 102,
     "category": "security"
   },
   {
@@ -96,12 +96,12 @@
   },
   {
     "tag": "x-ui",
-    "count": 72,
+    "count": 73,
     "category": "security"
   },
   {
     "tag": "panel",
-    "count": 72,
+    "count": 73,
     "category": "security"
   },
   {
