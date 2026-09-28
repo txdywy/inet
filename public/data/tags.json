@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 554,
-    "category": "security"
+    "count": 557,
+    "category": "dns_rules"
   },
   {
     "tag": "MetaCubeX",
@@ -11,12 +11,12 @@
   },
   {
     "tag": "mihomo",
-    "count": 302,
+    "count": 303,
     "category": "dns_rules"
   },
   {
     "tag": "geosite",
-    "count": 211,
+    "count": 213,
     "category": "dns_rules"
   },
   {
@@ -31,12 +31,12 @@
   },
   {
     "tag": "ruleset",
-    "count": 120,
+    "count": 122,
     "category": "dns_rules"
   },
   {
     "tag": "geoip",
-    "count": 120,
+    "count": 122,
     "category": "dns_rules"
   },
   {
@@ -51,7 +51,7 @@
   },
   {
     "tag": "xray-core",
-    "count": 100,
+    "count": 101,
     "category": "security"
   },
   {
@@ -96,12 +96,12 @@
   },
   {
     "tag": "x-ui",
-    "count": 71,
+    "count": 72,
     "category": "security"
   },
   {
     "tag": "panel",
-    "count": 71,
+    "count": 72,
     "category": "security"
   },
   {
