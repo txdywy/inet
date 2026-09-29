@@ -1,7 +1,7 @@
 [
   {
     "tag": "release",
-    "count": 566,
+    "count": 568,
     "category": "dns_rules"
   },
   {
@@ -16,7 +16,7 @@
   },
   {
     "tag": "geosite",
-    "count": 220,
+    "count": 221,
     "category": "dns_rules"
   },
   {
@@ -31,12 +31,12 @@
   },
   {
     "tag": "ruleset",
-    "count": 124,
+    "count": 125,
     "category": "dns_rules"
   },
   {
     "tag": "geoip",
-    "count": 124,
+    "count": 125,
     "category": "dns_rules"
   },
   {
@@ -201,8 +201,8 @@
   },
   {
     "tag": "wireguard",
-    "count": 39,
-    "category": "security"
+    "count": 40,
+    "category": "ecosystem"
   },
   {
     "tag": "Linux",
@@ -710,6 +710,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "tailscale",
+    "count": 6,
+    "category": "ecosystem"
+  },
+  {
     "tag": "luci",
     "count": 6,
     "category": "router"
@@ -775,6 +780,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "mesh",
+    "count": 5,
+    "category": "ecosystem"
+  },
+  {
     "tag": "clash-verge",
     "count": 5,
     "category": "client"
@@ -791,11 +801,6 @@
   },
   {
     "tag": "vps",
-    "count": 5,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "tailscale",
     "count": 5,
     "category": "ecosystem"
   },
@@ -913,11 +918,6 @@
     "tag": "vision",
     "count": 4,
     "category": "security"
-  },
-  {
-    "tag": "mesh",
-    "count": 4,
-    "category": "ecosystem"
   },
   {
     "tag": "中间人攻击",
