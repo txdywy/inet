@@ -1,7 +1,7 @@
 [
   {
     "tag": "release",
-    "count": 560,
+    "count": 566,
     "category": "dns_rules"
   },
   {
@@ -11,12 +11,12 @@
   },
   {
     "tag": "mihomo",
-    "count": 304,
+    "count": 305,
     "category": "dns_rules"
   },
   {
     "tag": "geosite",
-    "count": 215,
+    "count": 220,
     "category": "dns_rules"
   },
   {
@@ -26,7 +26,7 @@
   },
   {
     "tag": "domain-list",
-    "count": 159,
+    "count": 164,
     "category": "dns_rules"
   },
   {
@@ -91,7 +91,7 @@
   },
   {
     "tag": "clash",
-    "count": 78,
+    "count": 79,
     "category": "client"
   },
   {
@@ -110,14 +110,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "meta",
+    "count": 67,
+    "category": "security"
+  },
+  {
     "tag": "rules",
     "count": 67,
     "category": "ecosystem"
-  },
-  {
-    "tag": "meta",
-    "count": 66,
-    "category": "security"
   },
   {
     "tag": "vless",
@@ -126,7 +126,7 @@
   },
   {
     "tag": "xhttp",
-    "count": 63,
+    "count": 64,
     "category": "security"
   },
   {
@@ -151,7 +151,7 @@
   },
   {
     "tag": "ech",
-    "count": 48,
+    "count": 49,
     "category": "core"
   },
   {
@@ -440,6 +440,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "anytls",
+    "count": 14,
+    "category": "security"
+  },
+  {
     "tag": "v2rayA",
     "count": 14,
     "category": "client"
@@ -458,11 +463,6 @@
     "tag": "tunnel",
     "count": 13,
     "category": "core"
-  },
-  {
-    "tag": "anytls",
-    "count": 13,
-    "category": "security"
   },
   {
     "tag": "v2ray-agent",
