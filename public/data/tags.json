@@ -1,7 +1,7 @@
 [
   {
     "tag": "release",
-    "count": 571,
+    "count": 575,
     "category": "security"
   },
   {
@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 306,
+    "count": 307,
     "category": "dns_rules"
   },
   {
@@ -51,7 +51,7 @@
   },
   {
     "tag": "xray-core",
-    "count": 103,
+    "count": 106,
     "category": "security"
   },
   {
@@ -85,14 +85,14 @@
     "category": "client"
   },
   {
+    "tag": "clash",
+    "count": 80,
+    "category": "client"
+  },
+  {
     "tag": "OpenVPN",
     "count": 80,
     "category": "protocol"
-  },
-  {
-    "tag": "clash",
-    "count": 79,
-    "category": "client"
   },
   {
     "tag": "x-ui",
@@ -111,6 +111,16 @@
   },
   {
     "tag": "meta",
+    "count": 68,
+    "category": "security"
+  },
+  {
+    "tag": "vless",
+    "count": 67,
+    "category": "security"
+  },
+  {
+    "tag": "xhttp",
     "count": 67,
     "category": "security"
   },
@@ -118,16 +128,6 @@
     "tag": "rules",
     "count": 67,
     "category": "ecosystem"
-  },
-  {
-    "tag": "vless",
-    "count": 65,
-    "category": "core"
-  },
-  {
-    "tag": "xhttp",
-    "count": 64,
-    "category": "security"
   },
   {
     "tag": "开发版本",
@@ -151,7 +151,7 @@
   },
   {
     "tag": "ech",
-    "count": 49,
+    "count": 50,
     "category": "core"
   },
   {
@@ -340,6 +340,11 @@
     "category": "core"
   },
   {
+    "tag": "reality",
+    "count": 19,
+    "category": "security"
+  },
+  {
     "tag": "macOS",
     "count": 19,
     "category": "client"
@@ -348,11 +353,6 @@
     "tag": "CHACHA20-POLY1305",
     "count": 19,
     "category": "ecosystem"
-  },
-  {
-    "tag": "reality",
-    "count": 18,
-    "category": "security"
   },
   {
     "tag": "snell",
@@ -425,6 +425,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "anytls",
+    "count": 15,
+    "category": "security"
+  },
+  {
     "tag": "mosdns",
     "count": 15,
     "category": "router"
@@ -438,11 +443,6 @@
     "tag": "网络规则",
     "count": 15,
     "category": "ecosystem"
-  },
-  {
-    "tag": "anytls",
-    "count": 14,
-    "category": "security"
   },
   {
     "tag": "v2rayA",
@@ -525,6 +525,16 @@
     "category": "client"
   },
   {
+    "tag": "v2rayn",
+    "count": 10,
+    "category": "security"
+  },
+  {
+    "tag": "windows",
+    "count": 10,
+    "category": "security"
+  },
+  {
     "tag": "grpc",
     "count": 10,
     "category": "security"
@@ -548,16 +558,6 @@
     "tag": "Docker",
     "count": 10,
     "category": "ecosystem"
-  },
-  {
-    "tag": "v2rayn",
-    "count": 9,
-    "category": "security"
-  },
-  {
-    "tag": "windows",
-    "count": 9,
-    "category": "security"
   },
   {
     "tag": "mihomo-party",
@@ -663,6 +663,11 @@
     "tag": "QUICv2",
     "count": 8,
     "category": "core"
+  },
+  {
+    "tag": "xtls",
+    "count": 7,
+    "category": "security"
   },
   {
     "tag": "amneziawg",
@@ -808,11 +813,6 @@
     "tag": "dashboard",
     "count": 5,
     "category": "ecosystem"
-  },
-  {
-    "tag": "xtls",
-    "count": 5,
-    "category": "security"
   },
   {
     "tag": "Avalonia",

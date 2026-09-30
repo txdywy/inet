@@ -1,14 +1,14 @@
 {
-  "totalItems": 1758,
-  "last24h": 10,
-  "last7d": 39,
+  "totalItems": 1762,
+  "last24h": 12,
+  "last7d": 40,
   "byCategory": {
     "core": 292,
     "client": 287,
     "router": 20,
     "protocol": 57,
     "dns_rules": 246,
-    "security": 83,
+    "security": 87,
     "ecosystem": 773,
     "trend": 0
   },
@@ -19,7 +19,7 @@
     },
     {
       "project": "mihomo",
-      "count": 214
+      "count": 215
     },
     {
       "project": "Sub-Store",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "release",
-      "count": 571
+      "count": 575
     },
     {
       "tag": "MetaCubeX",
@@ -65,7 +65,7 @@
     },
     {
       "tag": "mihomo",
-      "count": 306
+      "count": 307
     },
     {
       "tag": "geosite",
@@ -97,7 +97,7 @@
     },
     {
       "tag": "xray-core",
-      "count": 103
+      "count": 106
     },
     {
       "tag": "v2ray",
@@ -124,20 +124,20 @@
       "count": 82
     },
     {
-      "tag": "OpenVPN",
+      "tag": "clash",
       "count": 80
     },
     {
-      "tag": "clash",
-      "count": 79
+      "tag": "OpenVPN",
+      "count": 80
     },
     {
       "tag": "x-ui",
       "count": 73
     }
   ],
-  "importantCount": 705,
+  "importantCount": 707,
   "breakingCount": 97,
-  "securityCount": 137,
-  "updatedAt": "2026-09-30T05:38:32.156Z"
+  "securityCount": 141,
+  "updatedAt": "2026-09-30T12:43:06.024Z"
 }
