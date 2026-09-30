@@ -1,5 +1,41 @@
 [
   {
+    "id": "237af45514da84e9",
+    "title": "Loyalsoldier/v2ray-rules-dat Released on 202609302207",
+    "summary": "Released on 202609302207",
+    "rawTitle": "Released on 202609302207",
+    "rawBody": "",
+    "sourceType": "github_release",
+    "sourceName": "Loyalsoldier/v2ray-rules-dat",
+    "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/tag/202609302207",
+    "project": "v2ray-rules-dat",
+    "repo": "Loyalsoldier/v2ray-rules-dat",
+    "slug": "v2ray-rules-dat",
+    "version": "202609302207",
+    "category": "dns_rules",
+    "tags": [
+      "ruleset",
+      "geosite",
+      "geoip",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-09-30T22:08:05Z",
+    "fetchedAt": "2026-09-30T22:11:50.037Z",
+    "firstSeenAt": "2026-09-30T22:11:52.061Z",
+    "updatedAt": "2026-09-30T22:11:52.061Z",
+    "hash": "237af45514da84e9"
+  },
+  {
     "id": "9804c49d23dd2ffb",
     "title": "MetaCubeX/mihomo v1.19.32",
     "summary": "v1.19.32",

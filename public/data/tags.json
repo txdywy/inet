@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 580,
-    "category": "security"
+    "count": 581,
+    "category": "dns_rules"
   },
   {
     "tag": "MetaCubeX",
@@ -16,7 +16,7 @@
   },
   {
     "tag": "geosite",
-    "count": 222,
+    "count": 223,
     "category": "dns_rules"
   },
   {
@@ -31,12 +31,12 @@
   },
   {
     "tag": "ruleset",
-    "count": 126,
+    "count": 127,
     "category": "dns_rules"
   },
   {
     "tag": "geoip",
-    "count": 126,
+    "count": 127,
     "category": "dns_rules"
   },
   {
