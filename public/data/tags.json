@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 568,
-    "category": "dns_rules"
+    "count": 571,
+    "category": "security"
   },
   {
     "tag": "MetaCubeX",
@@ -11,12 +11,12 @@
   },
   {
     "tag": "mihomo",
-    "count": 305,
+    "count": 306,
     "category": "dns_rules"
   },
   {
     "tag": "geosite",
-    "count": 221,
+    "count": 222,
     "category": "dns_rules"
   },
   {
@@ -31,12 +31,12 @@
   },
   {
     "tag": "ruleset",
-    "count": 125,
+    "count": 126,
     "category": "dns_rules"
   },
   {
     "tag": "geoip",
-    "count": 125,
+    "count": 126,
     "category": "dns_rules"
   },
   {
@@ -51,7 +51,7 @@
   },
   {
     "tag": "xray-core",
-    "count": 102,
+    "count": 103,
     "category": "security"
   },
   {
@@ -135,14 +135,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "quic",
+    "count": 53,
+    "category": "client"
+  },
+  {
     "tag": "hysteria2",
     "count": 53,
     "category": "core"
-  },
-  {
-    "tag": "quic",
-    "count": 52,
-    "category": "security"
   },
   {
     "tag": "Android",
@@ -180,14 +180,14 @@
     "category": "core"
   },
   {
+    "tag": "tuic",
+    "count": 43,
+    "category": "client"
+  },
+  {
     "tag": "dat",
     "count": 43,
     "category": "ecosystem"
-  },
-  {
-    "tag": "tuic",
-    "count": 42,
-    "category": "core"
   },
   {
     "tag": "代理工具",
@@ -270,24 +270,24 @@
     "category": "dns_rules"
   },
   {
-    "tag": "网络工具",
-    "count": 25,
-    "category": "ecosystem"
-  },
-  {
     "tag": "v2raya",
-    "count": 24,
+    "count": 25,
     "category": "client"
   },
   {
     "tag": "web",
-    "count": 24,
+    "count": 25,
     "category": "client"
   },
   {
     "tag": "transparent-proxy",
-    "count": 24,
+    "count": 25,
     "category": "client"
+  },
+  {
+    "tag": "网络工具",
+    "count": 25,
+    "category": "ecosystem"
   },
   {
     "tag": "dns",
@@ -400,6 +400,11 @@
     "category": "client"
   },
   {
+    "tag": "shadowsocks",
+    "count": 16,
+    "category": "client"
+  },
+  {
     "tag": "域名",
     "count": 16,
     "category": "ecosystem"
@@ -418,11 +423,6 @@
     "tag": "Alpha",
     "count": 16,
     "category": "ecosystem"
-  },
-  {
-    "tag": "shadowsocks",
-    "count": 15,
-    "category": "router"
   },
   {
     "tag": "mosdns",
@@ -550,6 +550,16 @@
     "category": "ecosystem"
   },
   {
+    "tag": "v2rayn",
+    "count": 9,
+    "category": "security"
+  },
+  {
+    "tag": "windows",
+    "count": 9,
+    "category": "security"
+  },
+  {
     "tag": "mihomo-party",
     "count": 9,
     "category": "client"
@@ -608,16 +618,6 @@
     "tag": "dae",
     "count": 8,
     "category": "core"
-  },
-  {
-    "tag": "v2rayn",
-    "count": 8,
-    "category": "security"
-  },
-  {
-    "tag": "windows",
-    "count": 8,
-    "category": "security"
   },
   {
     "tag": "更新",
