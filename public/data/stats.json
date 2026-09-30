@@ -1,15 +1,15 @@
 {
-  "totalItems": 1762,
-  "last24h": 12,
-  "last7d": 40,
+  "totalItems": 1767,
+  "last24h": 10,
+  "last7d": 43,
   "byCategory": {
     "core": 292,
-    "client": 287,
+    "client": 289,
     "router": 20,
     "protocol": 57,
     "dns_rules": 246,
-    "security": 87,
-    "ecosystem": 773,
+    "security": 89,
+    "ecosystem": 774,
     "trend": 0
   },
   "topProjects": [
@@ -19,7 +19,7 @@
     },
     {
       "project": "mihomo",
-      "count": 215
+      "count": 217
     },
     {
       "project": "Sub-Store",
@@ -27,7 +27,7 @@
     },
     {
       "project": "3x-ui",
-      "count": 156
+      "count": 157
     },
     {
       "project": "v2ray-rules-dat",
@@ -51,13 +51,13 @@
     },
     {
       "project": "ClashMetaForAndroid",
-      "count": 41
+      "count": 43
     }
   ],
   "hotTags": [
     {
       "tag": "release",
-      "count": 575
+      "count": 580
     },
     {
       "tag": "MetaCubeX",
@@ -65,7 +65,7 @@
     },
     {
       "tag": "mihomo",
-      "count": 307
+      "count": 311
     },
     {
       "tag": "geosite",
@@ -97,7 +97,7 @@
     },
     {
       "tag": "xray-core",
-      "count": 106
+      "count": 107
     },
     {
       "tag": "v2ray",
@@ -112,6 +112,10 @@
       "count": 86
     },
     {
+      "tag": "clash",
+      "count": 84
+    },
+    {
       "tag": "3x-ui",
       "count": 83
     },
@@ -124,20 +128,16 @@
       "count": 82
     },
     {
-      "tag": "clash",
-      "count": 80
-    },
-    {
       "tag": "OpenVPN",
       "count": 80
     },
     {
       "tag": "x-ui",
-      "count": 73
+      "count": 74
     }
   ],
-  "importantCount": 707,
+  "importantCount": 708,
   "breakingCount": 97,
-  "securityCount": 141,
-  "updatedAt": "2026-09-30T12:43:06.024Z"
+  "securityCount": 143,
+  "updatedAt": "2026-09-30T18:01:05.099Z"
 }

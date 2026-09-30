@@ -1,5 +1,111 @@
 [
   {
+    "id": "9804c49d23dd2ffb",
+    "title": "MetaCubeX/mihomo v1.19.32",
+    "summary": "v1.19.32",
+    "rawTitle": "v1.19.32",
+    "rawBody": "## What's Changed\n* 3025efad feat: add load-balance hash-key to pin a session on the inbound user (#3133) by @简直蠢丶\n\n## BUG & Fix\n* 409ee57e fix: populate HWCap from auxv on linux by @artbred\n* 41b8a059 fix: account for TCP options in effective MSS by @wwqgtxx\n* 5019cc09 fix: potential race condition in c.idleSession.Len() in idleCleanupExpTime() for anytls (#3225) by @Chenx Dust\n* 60f70cec fix: align unconnected UDP and raw IP ICMP errors with Linux for mipstack by @wwqgtxx\n* 88dcbf7f fix: default listener tun to mips stack (#3264) by @Jiawen Geng\n* 8d57a8c5 fix: exclude opcode from P_DATA_V1 AEAD additional data for OpenVPN (#3237) by @FlyingSB\n* 8fa048d3 fix: half-close in sing-mux by @proxi\n* ac652970 fix: nil pconn deref when ctx is canceled during h2 ClientConn setup by @BESTRUI\n* afe94daf fix: set udp InUser metadata for mieru inbound (#3236) by @Ryoma Dev\n* fbb67422 fix: restart EasyTier outbound after silent overlay failure (#3215) by @MiaM1ku\n\n## Maintenance\n* 13417699 chore: support RX checksum offload for mipstack by @wwqgtxx\n* 3c947c76 chore: convert support xhttp `extra.headers` (#3230) by @Peter Solomon\n* 63bd52ec chore: change default IP stack mode to mips and support `congestion-controller` option for tun by @wwqgtxx\n* 91dd03a9 chore: support lazy receive buffer reads for mipstack and gvisor by @wwqgtxx\n* f103639c chore: update mieru version (#3242) by @enfein\n\n**Full Changelog**: https://github.com/MetaCubeX/mihomo/compare/v1.19.31...v1.19.32\n",
+    "sourceType": "github_release",
+    "sourceName": "MetaCubeX/mihomo",
+    "sourceUrl": "https://github.com/MetaCubeX/mihomo/releases/tag/v1.19.32",
+    "project": "mihomo",
+    "repo": "MetaCubeX/mihomo",
+    "slug": "mihomo",
+    "version": "1.19.32",
+    "category": "security",
+    "tags": [
+      "mihomo",
+      "clash",
+      "meta",
+      "anytls",
+      "xhttp",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 3,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": true,
+    "isProtocolRelated": true,
+    "publishedAt": "2026-09-30T17:09:36Z",
+    "fetchedAt": "2026-09-30T18:00:46.833Z",
+    "firstSeenAt": "2026-09-30T18:01:01.395Z",
+    "updatedAt": "2026-09-30T18:01:01.395Z",
+    "hash": "9804c49d23dd2ffb"
+  },
+  {
+    "id": "c835165edee4a8d8",
+    "title": "MetaCubeX/ClashMetaForAndroid v2.11.35",
+    "summary": "v2.11.35",
+    "rawTitle": "v2.11.35",
+    "rawBody": "## What's Changed\n* fix the focus state of home page on android tv by @scola in https://github.com/MetaCubeX/ClashMetaForAndroid/pull/839\n* Update Dependencies by @clash-meta-maintainer[bot] in https://github.com/MetaCubeX/ClashMetaForAndroid/pull/833\n\n\n**Full Changelog**: https://github.com/MetaCubeX/ClashMetaForAndroid/compare/v2.11.34...v2.11.35",
+    "sourceType": "github_release",
+    "sourceName": "MetaCubeX/ClashMetaForAndroid",
+    "sourceUrl": "https://github.com/MetaCubeX/ClashMetaForAndroid/releases/tag/v2.11.35",
+    "project": "ClashMetaForAndroid",
+    "repo": "MetaCubeX/ClashMetaForAndroid",
+    "slug": "clashmetaforandroid",
+    "version": "2.11.35",
+    "category": "client",
+    "tags": [
+      "clash",
+      "android",
+      "mihomo",
+      "release"
+    ],
+    "platforms": [
+      "android"
+    ],
+    "importance": 2,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-09-30T16:59:35Z",
+    "fetchedAt": "2026-09-30T18:00:51.463Z",
+    "firstSeenAt": "2026-09-30T18:01:03.035Z",
+    "updatedAt": "2026-09-30T18:01:03.035Z",
+    "hash": "c835165edee4a8d8"
+  },
+  {
+    "id": "ce287b7b9fe5bfa3",
+    "title": "MetaCubeX/ClashMetaForAndroid Prerelease-alpha",
+    "summary": "Prerelease-alpha",
+    "rawTitle": "Prerelease-alpha",
+    "rawBody": "## What's Changed\n* fix the focus state of home page on android tv by @scola in https://github.com/MetaCubeX/ClashMetaForAndroid/pull/839\n* Update Dependencies by @clash-meta-maintainer[bot] in https://github.com/MetaCubeX/ClashMetaForAndroid/pull/833\n\n\n**Full Changelog**: https://github.com/MetaCubeX/ClashMetaForAndroid/compare/v2.11.34...Prerelease-alpha",
+    "sourceType": "github_release",
+    "sourceName": "MetaCubeX/ClashMetaForAndroid",
+    "sourceUrl": "https://github.com/MetaCubeX/ClashMetaForAndroid/releases/tag/Prerelease-alpha",
+    "project": "ClashMetaForAndroid",
+    "repo": "MetaCubeX/ClashMetaForAndroid",
+    "slug": "clashmetaforandroid",
+    "version": "Prerelease-alpha",
+    "category": "client",
+    "tags": [
+      "clash",
+      "android",
+      "mihomo",
+      "release"
+    ],
+    "platforms": [
+      "android"
+    ],
+    "importance": 2,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-09-30T16:51:59Z",
+    "fetchedAt": "2026-09-30T18:00:51.463Z",
+    "firstSeenAt": "2026-09-30T18:01:03.857Z",
+    "updatedAt": "2026-09-30T18:01:03.857Z",
+    "hash": "ce287b7b9fe5bfa3"
+  },
+  {
     "id": "b7b83fedec7deeb7",
     "title": "XTLS/Xray-core Xray-core v26.9.30",
     "summary": "Xray-core v26.9.30",
@@ -26659,6 +26765,40 @@
     "hash": "e54a070ca4e6a5bf"
   },
   {
+    "id": "8b92ac7b2931a409",
+    "title": "MHSanaei/3x-ui Dev build 99047c0a",
+    "summary": "Dev build 99047c0a",
+    "rawTitle": "Dev build 99047c0a",
+    "rawBody": "Rolling development build — installs via the panel's Dev update channel.\n\ncommit=99047c0a6394af4f74a3105220f2910ef615dce8\nbuilt=2026-09-30T13:12:26Z\n\nAutomated per-commit build from main. Not a stable release.",
+    "sourceType": "github_release",
+    "sourceName": "MHSanaei/3x-ui",
+    "sourceUrl": "https://github.com/MHSanaei/3x-ui/releases/tag/dev-latest",
+    "project": "3x-ui",
+    "repo": "MHSanaei/3x-ui",
+    "slug": "3x-ui",
+    "version": "dev-latest",
+    "category": "ecosystem",
+    "tags": [
+      "x-ui",
+      "panel",
+      "xray-core",
+      "release"
+    ],
+    "platforms": [
+      "linux"
+    ],
+    "importance": 4,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2026-06-24T16:17:06Z",
+    "fetchedAt": "2026-09-30T18:00:57.796Z",
+    "firstSeenAt": "2026-09-30T18:01:04.681Z",
+    "updatedAt": "2026-09-30T18:01:04.681Z",
+    "hash": "8b92ac7b2931a409"
+  },
+  {
     "id": "cc63025ba54a9c77",
     "title": "MHSanaei/3x-ui Dev build 823db059",
     "summary": "Dev build 823db059",
@@ -52345,6 +52485,45 @@
     "firstSeenAt": "2026-05-07T04:09:04.362Z",
     "updatedAt": "2026-05-07T04:09:04.362Z",
     "hash": "5e6adb84fbb7f312"
+  },
+  {
+    "id": "01e56d5d604ace2e",
+    "title": "MetaCubeX/mihomo Prerelease-Alpha",
+    "summary": "Prerelease-Alpha",
+    "rawTitle": "Prerelease-Alpha",
+    "rawBody": "Release created at  Wed Sep 30 23:25:18 CST 2026\nSynchronize Alpha branch code updates, keeping only the latest version\n<br>\n[我应该下载哪个文件? / Which file should I download?](https://github.com/MetaCubeX/mihomo/wiki/FAQ)\n[二进制文件筛选 / Binary file selector](https://metacubex.github.io/Meta-Docs/startup/#_1)\n[查看文档 / Docs](https://metacubex.github.io/Meta-Docs/)\n\n\n## What's Changed\n* fix: restart EasyTier outbound after silent overlay failure by @MiaM1ku in https://github.com/MetaCubeX/mihomo/pull/3215\n* fix(anytls): potential race condition in c.idleSession.Len() in idleCleanupExpTime() by @chenx-dust in https://github.com/MetaCubeX/mihomo/pull/3225\n* fix: fix InUser for mieru by @echizenryoma in https://github.com/MetaCubeX/mihomo/pull/3236\n* feat: convert support xhttp extra.headers by @Medium1992 in https://github.com/MetaCubeX/mihomo/pull/3230\n* feat: add load-balance hash-key to pin a session on the inbound user by @jianzhichun in https://github.com/MetaCubeX/mihomo/pull/3133\n* fix: exclude opcode from P_DATA_V1 AEAD additional data for OpenVPN by @FlyingSB in https://github.com/MetaCubeX/mihomo/pull/3237\n* chore: update mieru version by @enfein in https://github.com/MetaCubeX/mihomo/pull/3242\n* fix: default listener tun to mips stack by @gengjiawen in https://github.com/MetaCubeX/mihomo/pull/3264\n\n## New Contributors\n* @echizenryoma made their first contribution in https://github.com/MetaCubeX/mihomo/pull/3236\n* @jianzhichun made their first contribution in https://github.com/MetaCubeX/mihomo/pull/3133\n* @FlyingSB made their first contribution in https://github.com/MetaCubeX/mihomo/pull/3237\n* @gengjiawen made their first contribution in https://github.com/MetaCubeX/mihomo/pull/3264\n\n**Full Changelog**: https://github.com/MetaCubeX/mihomo/compare/v1.19.31...Prerelease-Alpha",
+    "sourceType": "github_release",
+    "sourceName": "MetaCubeX/mihomo",
+    "sourceUrl": "https://github.com/MetaCubeX/mihomo/releases/tag/Prerelease-Alpha",
+    "project": "mihomo",
+    "repo": "MetaCubeX/mihomo",
+    "slug": "mihomo",
+    "version": "Prerelease-Alpha",
+    "category": "security",
+    "tags": [
+      "mihomo",
+      "clash",
+      "meta",
+      "anytls",
+      "xhttp",
+      "ech",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 3,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": true,
+    "isProtocolRelated": true,
+    "publishedAt": "2024-08-12T17:01:02Z",
+    "fetchedAt": "2026-09-30T18:00:46.833Z",
+    "firstSeenAt": "2026-09-30T18:01:02.215Z",
+    "updatedAt": "2026-09-30T18:01:02.215Z",
+    "hash": "01e56d5d604ace2e"
   },
   {
     "id": "eee5050bc0cfe45a",

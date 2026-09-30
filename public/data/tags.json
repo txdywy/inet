@@ -1,7 +1,7 @@
 [
   {
     "tag": "release",
-    "count": 575,
+    "count": 580,
     "category": "security"
   },
   {
@@ -11,8 +11,8 @@
   },
   {
     "tag": "mihomo",
-    "count": 307,
-    "category": "dns_rules"
+    "count": 311,
+    "category": "security"
   },
   {
     "tag": "geosite",
@@ -51,7 +51,7 @@
   },
   {
     "tag": "xray-core",
-    "count": 106,
+    "count": 107,
     "category": "security"
   },
   {
@@ -70,6 +70,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "clash",
+    "count": 84,
+    "category": "security"
+  },
+  {
     "tag": "3x-ui",
     "count": 83,
     "category": "client"
@@ -85,23 +90,18 @@
     "category": "client"
   },
   {
-    "tag": "clash",
-    "count": 80,
-    "category": "client"
-  },
-  {
     "tag": "OpenVPN",
     "count": 80,
     "category": "protocol"
   },
   {
     "tag": "x-ui",
-    "count": 73,
+    "count": 74,
     "category": "security"
   },
   {
     "tag": "panel",
-    "count": 73,
+    "count": 74,
     "category": "security"
   },
   {
@@ -111,16 +111,16 @@
   },
   {
     "tag": "meta",
-    "count": 68,
-    "category": "security"
-  },
-  {
-    "tag": "vless",
-    "count": 67,
+    "count": 70,
     "category": "security"
   },
   {
     "tag": "xhttp",
+    "count": 69,
+    "category": "security"
+  },
+  {
+    "tag": "vless",
     "count": 67,
     "category": "security"
   },
@@ -145,14 +145,14 @@
     "category": "core"
   },
   {
+    "tag": "ech",
+    "count": 51,
+    "category": "core"
+  },
+  {
     "tag": "Android",
     "count": 51,
     "category": "client"
-  },
-  {
-    "tag": "ech",
-    "count": 50,
-    "category": "core"
   },
   {
     "tag": "sub-store",
@@ -340,6 +340,11 @@
     "category": "core"
   },
   {
+    "tag": "android",
+    "count": 19,
+    "category": "client"
+  },
+  {
     "tag": "reality",
     "count": 19,
     "category": "security"
@@ -370,9 +375,9 @@
     "category": "core"
   },
   {
-    "tag": "android",
+    "tag": "anytls",
     "count": 17,
-    "category": "client"
+    "category": "security"
   },
   {
     "tag": "gost",
@@ -423,11 +428,6 @@
     "tag": "Alpha",
     "count": 16,
     "category": "ecosystem"
-  },
-  {
-    "tag": "anytls",
-    "count": 15,
-    "category": "security"
   },
   {
     "tag": "mosdns",
