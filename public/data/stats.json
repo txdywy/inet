@@ -1,14 +1,14 @@
 {
-  "totalItems": 1770,
-  "last24h": 8,
+  "totalItems": 1774,
+  "last24h": 7,
   "last7d": 44,
   "byCategory": {
     "core": 292,
-    "client": 289,
+    "client": 291,
     "router": 20,
     "protocol": 57,
     "dns_rules": 249,
-    "security": 89,
+    "security": 91,
     "ecosystem": 774,
     "trend": 0
   },
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "release",
-      "count": 583
+      "count": 587
     },
     {
       "tag": "MetaCubeX",
@@ -65,7 +65,7 @@
     },
     {
       "tag": "mihomo",
-      "count": 312
+      "count": 315
     },
     {
       "tag": "geosite",
@@ -97,7 +97,7 @@
     },
     {
       "tag": "xray-core",
-      "count": 107
+      "count": 108
     },
     {
       "tag": "v2ray",
@@ -136,8 +136,8 @@
       "count": 74
     }
   ],
-  "importantCount": 711,
+  "importantCount": 713,
   "breakingCount": 97,
-  "securityCount": 143,
-  "updatedAt": "2026-10-01T06:02:25.304Z"
+  "securityCount": 145,
+  "updatedAt": "2026-10-01T13:26:41.040Z"
 }

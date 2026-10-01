@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 583,
-    "category": "dns_rules"
+    "count": 587,
+    "category": "security"
   },
   {
     "tag": "MetaCubeX",
@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 312,
+    "count": 315,
     "category": "dns_rules"
   },
   {
@@ -51,7 +51,7 @@
   },
   {
     "tag": "xray-core",
-    "count": 107,
+    "count": 108,
     "category": "security"
   },
   {
@@ -116,12 +116,12 @@
   },
   {
     "tag": "xhttp",
-    "count": 69,
+    "count": 70,
     "category": "security"
   },
   {
     "tag": "vless",
-    "count": 67,
+    "count": 68,
     "category": "security"
   },
   {
@@ -195,14 +195,14 @@
     "category": "core"
   },
   {
+    "tag": "wireguard",
+    "count": 41,
+    "category": "security"
+  },
+  {
     "tag": "SagerNet",
     "count": 41,
     "category": "core"
-  },
-  {
-    "tag": "wireguard",
-    "count": 40,
-    "category": "ecosystem"
   },
   {
     "tag": "Linux",
@@ -330,6 +330,11 @@
     "category": "router"
   },
   {
+    "tag": "android",
+    "count": 20,
+    "category": "security"
+  },
+  {
     "tag": "QUIC",
     "count": 20,
     "category": "ecosystem"
@@ -338,11 +343,6 @@
     "tag": "rematch",
     "count": 20,
     "category": "core"
-  },
-  {
-    "tag": "android",
-    "count": 19,
-    "category": "client"
   },
   {
     "tag": "reality",
@@ -358,6 +358,11 @@
     "tag": "CHACHA20-POLY1305",
     "count": 19,
     "category": "ecosystem"
+  },
+  {
+    "tag": "gost",
+    "count": 18,
+    "category": "core"
   },
   {
     "tag": "snell",
@@ -378,11 +383,6 @@
     "tag": "anytls",
     "count": 17,
     "category": "security"
-  },
-  {
-    "tag": "gost",
-    "count": 17,
-    "category": "core"
   },
   {
     "tag": "TLS",
@@ -490,6 +490,16 @@
     "category": "core"
   },
   {
+    "tag": "v2rayng",
+    "count": 11,
+    "category": "security"
+  },
+  {
+    "tag": "desktop",
+    "count": 11,
+    "category": "client"
+  },
+  {
     "tag": "v2ray-core",
     "count": 11,
     "category": "security"
@@ -536,11 +546,6 @@
   },
   {
     "tag": "grpc",
-    "count": 10,
-    "category": "security"
-  },
-  {
-    "tag": "v2rayng",
     "count": 10,
     "category": "security"
   },
@@ -610,7 +615,7 @@
     "category": "ecosystem"
   },
   {
-    "tag": "desktop",
+    "tag": "clash-verge",
     "count": 8,
     "category": "client"
   },
@@ -788,11 +793,6 @@
     "tag": "mesh",
     "count": 5,
     "category": "ecosystem"
-  },
-  {
-    "tag": "clash-verge",
-    "count": 5,
-    "category": "client"
   },
   {
     "tag": "ssrplus",

@@ -1,5 +1,40 @@
 [
   {
+    "id": "2f1d73e58e0396f6",
+    "title": "2dust/v2rayNG 2.3.10",
+    "summary": "2.3.10",
+    "rawTitle": "2.3.10",
+    "rawBody": "### 本次更新\r\n\r\n- 迁移到 Jetpack Compose UI , 感谢 @fuilloi  https://github.com/2dust/v2rayNG/pull/5866\r\n- 订阅分组设置中，更新订阅时可以组合多个选项进行后台任务，如果只更新订阅，则会在当前页面进行 。\r\n\r\n    1. 更新订阅\r\n    2. 更新订阅后自动测试\r\n    3. 测试后自动删除无效\r\n    4. 测试后自动排序\r\n\r\n- 添加 TCP ping 测试，有最大并发控制\r\n- 支持导入v2rayN 内部分享 `v2rayn://`\r\n- 为订阅更新添加自定义 HTTP headers ， JSON 格式内容随意，例子如下 \r\n```\r\n{\r\n  \"X-hwid\": \"my_test_device\",\r\n  \"Authorization\": \"Bearer test\"\r\n}\r\n```\r\n- 修复了一些迁移 UI 导致的问题\r\n- 一些界面和功能的优化和修复，感谢 @eliotcougar \r\n- 支持莫奈动态色彩 https://github.com/2dust/v2rayNG/pull/6067\r\n- 添加手动配置文件存储修复 https://github.com/2dust/v2rayNG/pull/6094\r\n- 添加翻译贡献者页面 #6114\r\n- 改进启动自动连接 VPN 设置 - #6179\r\n- WireGuard 添加 remoteDNS 字段 - #6230\r\n- 一些优化和修复\r\n\r\n- [Xray-core v26.9.30](https://github.com/XTLS/Xray-core/releases/tag/v26.9.30)\r\n\r\n### [发布文件介绍，不知道下载哪个文件的请看](https://github.com/2dust/v2rayNG/wiki/Release-files-introduction-for-Android)\r\n\r\n### [关于 跳过证书验证 allowInsecure 参数被移除的说明 ](https://github.com/2dust/v2rayN/discussions/9460)\r\n",
+    "sourceType": "github_release",
+    "sourceName": "2dust/v2rayNG",
+    "sourceUrl": "https://github.com/2dust/v2rayNG/releases/tag/2.3.10",
+    "project": "v2rayNG",
+    "repo": "2dust/v2rayNG",
+    "slug": "v2rayng",
+    "version": "2.3.10",
+    "category": "security",
+    "tags": [
+      "v2rayng",
+      "android",
+      "xray-core",
+      "wireguard",
+      "release"
+    ],
+    "platforms": [
+      "android"
+    ],
+    "importance": 3,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": true,
+    "isProtocolRelated": true,
+    "publishedAt": "2026-10-01T09:27:00Z",
+    "fetchedAt": "2026-10-01T13:26:28.709Z",
+    "firstSeenAt": "2026-10-01T13:26:38.123Z",
+    "updatedAt": "2026-10-01T13:26:38.123Z",
+    "hash": "2f1d73e58e0396f6"
+  },
+  {
     "id": "63934ea83de4c63c",
     "title": "Loyalsoldier/v2ray-rules-dat Released on 202610010125",
     "summary": "Released on 202610010125",
@@ -980,6 +1015,42 @@
     "hash": "c31853a342c7cf49"
   },
   {
+    "id": "50cb6bd317f24d97",
+    "title": "clash-verge-rev/clash-verge-rev Clash Verge Rev v2.5.6",
+    "summary": "Clash Verge Rev v2.5.6",
+    "rawTitle": "Clash Verge Rev v2.5.6",
+    "rawBody": "## v2.5.6\r\n\r\n<details>\r\n<summary><strong> 🐞 修复问题 </strong></summary>\r\n\r\n- 修复「代理集合」「规则集合」订阅响应较慢时更新误报失败、且不显示真实失败原因的问题\r\n\r\n**🖥️ Windows**\r\n\r\n- 修复 Windows 部分未安装服务的用户以普通权限运行时，内核无法启动的问题\r\n- 修复 Windows 系统隔离权限被误判，导致服务模式和 TUN 无法使用的问题\r\n- 修复 Windows 旧版服务状态残留导致无法重装的问题，自动备份可识别的残留并恢复安装\r\n- 修复 Windows 服务已停止时，启动要等约两分钟才显示窗口的问题\r\n- 优化 Windows 服务安全检查失败提示：用易懂的文字说明原因，并提供修复文档链接\r\n\r\n**🍎 macOS**\r\n\r\n- macOS 修复编辑规则时「规则内容」输入的首字母被自动转为大写的问题\r\n- macOS 修复残留的服务进程导致内核无法启动、「继续使用 Sidecar」失败且无法修复的问题\r\n- macOS 修复部分账户安装或修复服务时提示无法解析用户组而失败的问题\r\n- macOS 优化用户目录在外置磁盘时服务拒绝启动内核的提示：说明原因并给出修复命令\r\n- macOS 修复服务模式内核意外停止后，系统代理仍指向失效端口导致无法上网的问题\r\n\r\n</details>\r\n\r\n<details>\r\n<summary><strong> 🚀 优化改进 </strong></summary>\r\n\r\n- 优化内核启动失败和服务模式内核意外停止的提示：显示具体原因，并在窗口恢复后提示尚未解决的错误\r\n\r\n</details>\r\n\r\n## 下载地址\r\n\r\n### Windows (不再支持Win7)\r\n#### 正常版本(推荐)\r\n- [64位(常用)](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.6/Clash.Verge_2.5.6_x64-setup.exe) | [ARM64(不常用)](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.6/Clash.Verge_2.5.6_arm64-setup.exe)\r\n\r\n#### 内置Webview2版(体积较大，仅在企业版系统或无法安装webview2时使用)\r\n- [64位](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.6/Clash.Verge_2.5.6_x64_fixed_webview2-setup.exe) | [ARM64](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.6/Clash.Verge_2.5.6_arm64_fixed_webview2-setup.exe)\r\n\r\n### macOS\r\n- [Apple M芯片](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.6/Clash.Verge_2.5.6_aarch64.dmg) | [Intel芯片](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.6/Clash.Verge_2.5.6_x64.dmg)\r\n\r\n### Linux\r\n#### DEB包(Debian系) 使用 apt ./路径 安装\r\n- [64位](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.6/Clash.Verge_2.5.6_amd64.deb) | [ARM64](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.6/Clash.Verge_2.5.6_arm64.deb) | [ARMv7](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.6/Clash.Verge_2.5.6_armhf.deb)\r\n\r\n#### RPM包(Redhat系) 使用 dnf ./路径 安装\r\n- [64位](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.6/Clash.Verge-2.5.6-1.x86_64.rpm) | [ARM64](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.6/Clash.Verge-2.5.6-1.aarch64.rpm) | [ARMv7](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.6/Clash.Verge-2.5.6-1.armhfp.rpm)\r\n\r\n### FAQ\r\n- [常见问题](https://clash-verge-rev.github.io/faq/windows.html)\r\n\r\n### 稳定机场VPN推荐\r\n- [狗狗加速](https://release256.dginv.click/#/register?code=oaxsAGo6)\r\n\r\nCreated at Sat Sep 26 12:11:55 CST 2026.\r\n",
+    "sourceType": "github_release",
+    "sourceName": "clash-verge-rev/clash-verge-rev",
+    "sourceUrl": "https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/v2.5.6",
+    "project": "clash-verge-rev",
+    "repo": "clash-verge-rev/clash-verge-rev",
+    "slug": "clash-verge-rev",
+    "version": "2.5.6",
+    "category": "client",
+    "tags": [
+      "clash-verge",
+      "mihomo",
+      "desktop",
+      "release"
+    ],
+    "platforms": [
+      "windows",
+      "macos",
+      "linux"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-09-26T04:11:55Z",
+    "fetchedAt": "2026-10-01T13:26:30.057Z",
+    "firstSeenAt": "2026-10-01T13:26:38.933Z",
+    "updatedAt": "2026-10-01T13:26:38.933Z",
+    "hash": "50cb6bd317f24d97"
+  },
+  {
     "id": "72f6ca9080f9e0fd",
     "title": "clash-verge-rev/clash-verge-rev Clash Verge Rev v2.5.6",
     "summary": "Clash Verge Rev v2.5.6",
@@ -1845,6 +1916,42 @@
     "firstSeenAt": "2026-09-22T17:00:06.147Z",
     "updatedAt": "2026-09-22T17:00:06.147Z",
     "hash": "cc81fc79afe563bc"
+  },
+  {
+    "id": "67813127025b5dba",
+    "title": "clash-verge-rev/clash-verge-rev Clash Verge Rev v2.5.5",
+    "summary": "Clash Verge Rev v2.5.5",
+    "rawTitle": "Clash Verge Rev v2.5.5",
+    "rawBody": "## v2.5.5\r\n\r\n<details>\r\n<summary><strong> 🐞 修复问题 </strong></summary>\r\n\r\n- 修复不同来源的订阅或规则集共用缓存路径时，服务模式无法启动内核的问题\r\n- 优化文件错误日志，显示具体文件路径和失败原因\r\n- 修复 DNS 覆写：空内容报错、初始值覆盖已有设置、已填写字段残留原配置、空字段在高级编辑器中缺失\r\n- 修复 DNS 覆写中已填写的字段被 Merge 或 Script 覆盖的问题，空字段继续使用扩展配置\r\n- 修复 Merge 覆写 DNS 策略、过滤条件和 hosts 时，旧条目仍被保留的问题\r\n- 修复首次以管理员身份启动后，系统服务因数据目录所有权不符而拒绝启动内核的问题\r\n- 修复重新安装服务后内核缺失、无法继续使用 Sidecar 的问题\r\n- 修复内核未运行时，首页仍显示服务模式的问题\r\n- 修复服务重装重复请求管理员授权、卸载后误报失败的问题\r\n\r\n**🖥️ Windows**\r\n\r\n- 修复 Windows 服务因路径或目录权限问题无法启动时，缺少重新安装服务的提示\r\n- 修复 Windows 服务回退检查失败后状态未更新、无法重新尝试 Sidecar 的问题\r\n\r\n**🐧 Linux**\r\n\r\n- Linux 修复安装或修复服务后仍无法启动内核、开启 TUN 模式的问题\r\n\r\n</details>\r\n\r\n<details>\r\n<summary><strong> 🚀 优化改进 </strong></summary>\r\n\r\n- 优化扩展覆写配置和脚本编辑窗口，提示作用范围、执行顺序及应用设置优先级，并高亮当前步骤\r\n- 优化 DNS 覆写开关：按订阅独立记忆，自动关闭仅影响当前订阅，并提示作用范围\r\n- 优化系统服务兼容性检查：升级后服务版本或协议不兼容时，提示重新安装\r\n- 优化预构建资源，补充 ASN 数据库文件\r\n- 扩展配置或脚本写入由应用设置接管的字段时，弹出提示并在扩展日志中记录该值已被丢弃\r\n\r\n</details>\r\n\r\n## 下载地址\r\n\r\n### Windows (不再支持Win7)\r\n#### 正常版本(推荐)\r\n- [64位(常用)](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.5/Clash.Verge_2.5.5_x64-setup.exe) | [ARM64(不常用)](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.5/Clash.Verge_2.5.5_arm64-setup.exe)\r\n\r\n#### 内置Webview2版(体积较大，仅在企业版系统或无法安装webview2时使用)\r\n- [64位](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.5/Clash.Verge_2.5.5_x64_fixed_webview2-setup.exe) | [ARM64](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.5/Clash.Verge_2.5.5_arm64_fixed_webview2-setup.exe)\r\n\r\n### macOS\r\n- [Apple M芯片](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.5/Clash.Verge_2.5.5_aarch64.dmg) | [Intel芯片](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.5/Clash.Verge_2.5.5_x64.dmg)\r\n\r\n### Linux\r\n#### DEB包(Debian系) 使用 apt ./路径 安装\r\n- [64位](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.5/Clash.Verge_2.5.5_amd64.deb) | [ARM64](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.5/Clash.Verge_2.5.5_arm64.deb) | [ARMv7](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.5/Clash.Verge_2.5.5_armhf.deb)\r\n\r\n#### RPM包(Redhat系) 使用 dnf ./路径 安装\r\n- [64位](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.5/Clash.Verge-2.5.5-1.x86_64.rpm) | [ARM64](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.5/Clash.Verge-2.5.5-1.aarch64.rpm) | [ARMv7](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.5/Clash.Verge-2.5.5-1.armhfp.rpm)\r\n\r\n### FAQ\r\n- [常见问题](https://clash-verge-rev.github.io/faq/windows.html)\r\n\r\n### 稳定机场VPN推荐\r\n- [狗狗加速](https://release255.dginv.click/#/register?code=oaxsAGo6)\r\n\r\nCreated at Tue Sep 22 21:38:47 CST 2026.\r\n",
+    "sourceType": "github_release",
+    "sourceName": "clash-verge-rev/clash-verge-rev",
+    "sourceUrl": "https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/v2.5.5",
+    "project": "clash-verge-rev",
+    "repo": "clash-verge-rev/clash-verge-rev",
+    "slug": "clash-verge-rev",
+    "version": "2.5.5",
+    "category": "client",
+    "tags": [
+      "clash-verge",
+      "mihomo",
+      "desktop",
+      "release"
+    ],
+    "platforms": [
+      "windows",
+      "macos",
+      "linux"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-09-22T13:38:49Z",
+    "fetchedAt": "2026-10-01T13:26:30.057Z",
+    "firstSeenAt": "2026-10-01T13:26:39.744Z",
+    "updatedAt": "2026-10-01T13:26:39.744Z",
+    "hash": "67813127025b5dba"
   },
   {
     "id": "e14afbf83ed7cb99",
@@ -18954,6 +19061,45 @@
     "firstSeenAt": "2026-07-20T04:07:28.686Z",
     "updatedAt": "2026-07-20T04:07:28.686Z",
     "hash": "ddad37262ddd6836"
+  },
+  {
+    "id": "ea86bff021934309",
+    "title": "clash-verge-rev/clash-verge-rev Clash Verge Rev v2.5.2",
+    "summary": "Clash Verge Rev v2.5.2",
+    "rawTitle": "Clash Verge Rev v2.5.2",
+    "rawBody": "## v2.5.2\r\n\r\n### 🐞 修复问题\r\n\r\n- 修复 macOS 托盘速率显示样式异常\r\n- 修复订阅 TLS 1.0/1.1 等过旧协议时显示更明确错误原因\r\n- 修复 gzip 压缩订阅响应被当作无效 YAML 导致导入失败的问题\r\n- 修复订阅 URL 使用空密码 Basic Auth 时未发送认证信息的问题\r\n- 修复 Linux 托盘可能与其他 Tauri 程序冲突导致的图标异常\r\n- 修复前端连接页面导致的内存泄漏\r\n- 修复 macOS 12（Monterey）首页 IP 卡片兼容性问题\r\n- 修复首页代理卡片可能错误显示通信异常的问题\r\n- 修复 Fake-IP 模式开启 IPv6 后未生成 fake-ip-range6 的问题\r\n- 修复 DNS 覆写的高级模式无法正常编辑\r\n- 修复部分非标准 WebDAV 服务器在备份目录已存在时的问题\r\n- 修复 Linux 应用内更新问题\r\n- 修复 JS 脚本验证因 console 方法调用导致的执行失败问题\r\n- 修复 macOS 内存压力下 WebView 渲染进程被系统终止引发的白屏与主进程内存泄漏\r\n- 修复全局热键开关设置可能被意外覆盖的问题\r\n- 修复编辑节点时 Base64 解码未能正确处理非 ASCII 字符的问题\r\n- 修复订阅规则编辑器自定义规则偶发显示为空的问题\r\n- 修复开启“允许局域网连接”后，其他局域网设备仍可能无法连接代理的问题\r\n- 修复“允许局域网连接”页面可能无法显示网络接口的问题\r\n- 修复导入包含无效 v2ray-plugin 参数的 ss:// 链接时可能崩溃的问题\r\n- 修复 macOS 托盘图标可能闪烁的问题\r\n- 修复 macOS 应用启动及从菜单栏重新打开时，窗口可能无法正确激活的问题\r\n- 修复 macOS App Translocation 状态下服务安装或启动异常的问题\r\n- 修复异常窗口尺寸被保存后，应用窗口可能无法正常显示的问题\r\n- 修复首页上传和下载总流量统计不准确的问题\r\n- 修复首页当前代理状态偶尔不同步的问题\r\n- 修复 URLTest 代理组未出现在部分代理组选择列表中的问题\r\n- 修复切换代理模式失败时未正确显示错误的问题\r\n- 修复重新加载 Clash 配置后规则页面数据未及时刷新的问题\r\n- 修复全局快捷键隐藏主窗口行为异常的问题\r\n- 修复外部控制器 CORS 编辑时输入框可能丢失焦点的问题\r\n- 修复日志刷新时页面可能被强制滚动到底部的问题\r\n- 修复全局扩展脚本中的通配符配置可能生成无效 YAML 的问题\r\n- 修复代理组筛选后定位及滚动位置恢复异常的问题\r\n- 修复编辑订阅配置时清空 HTTP 请求超时会报错的问题\r\n- 修复纯 IP 连接的主机地址显示错误，并保留目标 IP 为空时的地址回退\r\n- 修复 Windows 管理员模式下启动 TUN 时因等待不可用 Service 导致延迟 30 秒的问题\r\n- 修复内核启动慢导致首页上下跳动的问题\r\n- 修复 VLESS xhttp 链接解析及 IPv6 地址格式问题\r\n- 修复通过普通导入或深链导入订阅后，自动更新任务未及时生效的问题\r\n- 修复链式配置文件首次编辑失败及校验回滚后遗留空文件的问题，并优化文件读取错误提示\r\n\r\n<details>\r\n<summary><strong> ✨ 新增功能 </strong></summary>\r\n\r\n- **Mihomo(Meta) 内核升级至 v1.19.29**\r\n- 增加 TrustTunnel、OpenVPN、Tailscale、GostRelay 节点显示支持\r\n- 全局扩展脚本增加恢复默认按钮\r\n- DNS 添加 fake-ip-range6 可配置项\r\n- Linux 无边框窗口支持拖拽调整大小\r\n- 代理组新增筛选、排序、延迟测试和快速定位工具\r\n- 首页当前节点过滤已隐藏的代理组\r\n\r\n</details>\r\n\r\n<details>\r\n<summary><strong> 🚀 优化改进 </strong></summary>\r\n\r\n- 更健壮的服务生命周期管理\r\n- 更健壮的 Mihomo API 通信机制\r\n- 关闭 autofill 弹出窗口\r\n- 改进切换订阅后激活选中节点的逻辑\r\n- 实现代理组粘性滚动列表\r\n- 完善了配置覆写的相关逻辑\r\n- 支持 Provider 节点延迟检测\r\n- 优化页面不可见时的 Mihomo WebSocket 订阅，减少后台资源占用\r\n- 代理组支持分别恢复普通模式和链式代理模式的滚动位置\r\n- 重构改进订阅配置切换逻辑\r\n- 优化大量订阅卡片时的拖拽排序性能\r\n\r\n</details>\r\n\r\n<details>\r\n<summary><strong> 👙 界面样式 </strong></summary>\r\n\r\n- 改进 Sticky Groups 的吸顶阴影、间距和展开/折叠样式\r\n- 优化代理组工具栏和筛选框布局\r\n\r\n</details>\r\n\r\n## 下载地址\r\n\r\n### Windows (不再支持Win7)\r\n#### 正常版本(推荐)\r\n- [64位(常用)](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.2/Clash.Verge_2.5.2_x64-setup.exe) | [ARM64(不常用)](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.2/Clash.Verge_2.5.2_arm64-setup.exe)\r\n\r\n#### 内置Webview2版(体积较大，仅在企业版系统或无法安装webview2时使用)\r\n- [64位](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.2/Clash.Verge_2.5.2_x64_fixed_webview2-setup.exe) | [ARM64](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.2/Clash.Verge_2.5.2_arm64_fixed_webview2-setup.exe)\r\n\r\n### macOS\r\n- [Apple M芯片](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.2/Clash.Verge_2.5.2_aarch64.dmg) | [Intel芯片](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.2/Clash.Verge_2.5.2_x64.dmg)\r\n\r\n### Linux\r\n#### DEB包(Debian系) 使用 apt ./路径 安装\r\n- [64位](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.2/Clash.Verge_2.5.2_amd64.deb) | [ARM64](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.2/Clash.Verge_2.5.2_arm64.deb) | [ARMv7](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.2/Clash.Verge_2.5.2_armhf.deb)\r\n\r\n#### RPM包(Redhat系) 使用 dnf ./路径 安装\r\n- [64位](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.2/Clash.Verge-2.5.2-1.x86_64.rpm) | [ARM64](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.2/Clash.Verge-2.5.2-1.aarch64.rpm) | [ARMv7](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.2/Clash.Verge-2.5.2-1.armhfp.rpm)\r\n\r\n### FAQ\r\n- [常见问题](https://clash-verge-rev.github.io/faq/windows.html)\r\n\r\n### 稳定机场VPN推荐\r\n- [狗狗加速](https://release252.dginv.click/#/register?code=oaxsAGo6)\r\n\r\nCreated at Mon Jul 20 01:00:25 CST 2026.\r\n",
+    "sourceType": "github_release",
+    "sourceName": "clash-verge-rev/clash-verge-rev",
+    "sourceUrl": "https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/v2.5.2",
+    "project": "clash-verge-rev",
+    "repo": "clash-verge-rev/clash-verge-rev",
+    "slug": "clash-verge-rev",
+    "version": "2.5.2",
+    "category": "security",
+    "tags": [
+      "clash-verge",
+      "mihomo",
+      "desktop",
+      "vless",
+      "xhttp",
+      "gost",
+      "release"
+    ],
+    "platforms": [
+      "windows",
+      "macos",
+      "linux"
+    ],
+    "importance": 3,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": true,
+    "isProtocolRelated": true,
+    "publishedAt": "2026-07-19T17:00:26Z",
+    "fetchedAt": "2026-10-01T13:26:30.057Z",
+    "firstSeenAt": "2026-10-01T13:26:40.553Z",
+    "updatedAt": "2026-10-01T13:26:40.553Z",
+    "hash": "ea86bff021934309"
   },
   {
     "id": "605ad16a5842450c",
