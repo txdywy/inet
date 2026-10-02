@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 593,
-    "category": "dns_rules"
+    "count": 595,
+    "category": "client"
   },
   {
     "tag": "MetaCubeX",
@@ -11,8 +11,8 @@
   },
   {
     "tag": "mihomo",
-    "count": 317,
-    "category": "dns_rules"
+    "count": 318,
+    "category": "client"
   },
   {
     "tag": "geosite",
@@ -46,7 +46,7 @@
   },
   {
     "tag": "xray-core",
-    "count": 109,
+    "count": 110,
     "category": "security"
   },
   {
@@ -96,12 +96,12 @@
   },
   {
     "tag": "x-ui",
-    "count": 75,
+    "count": 76,
     "category": "security"
   },
   {
     "tag": "panel",
-    "count": 75,
+    "count": 76,
     "category": "security"
   },
   {
@@ -485,6 +485,11 @@
     "category": "client"
   },
   {
+    "tag": "desktop",
+    "count": 12,
+    "category": "client"
+  },
+  {
     "tag": "HTTP",
     "count": 12,
     "category": "core"
@@ -493,11 +498,6 @@
     "tag": "v2rayng",
     "count": 11,
     "category": "security"
-  },
-  {
-    "tag": "desktop",
-    "count": 11,
-    "category": "client"
   },
   {
     "tag": "v2ray-core",
@@ -565,6 +565,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "clash-verge",
+    "count": 9,
+    "category": "client"
+  },
+  {
     "tag": "mihomo-party",
     "count": 9,
     "category": "client"
@@ -613,11 +618,6 @@
     "tag": "CBC",
     "count": 9,
     "category": "ecosystem"
-  },
-  {
-    "tag": "clash-verge",
-    "count": 8,
-    "category": "client"
   },
   {
     "tag": "dae",

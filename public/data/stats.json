@@ -1,15 +1,15 @@
 {
-  "totalItems": 1780,
-  "last24h": 4,
+  "totalItems": 1782,
+  "last24h": 5,
   "last7d": 41,
   "byCategory": {
     "core": 293,
-    "client": 291,
+    "client": 292,
     "router": 21,
     "protocol": 57,
     "dns_rules": 252,
     "security": 91,
-    "ecosystem": 775,
+    "ecosystem": 776,
     "trend": 0
   },
   "topProjects": [
@@ -26,11 +26,11 @@
       "count": 163
     },
     {
-      "project": "v2ray-rules-dat",
-      "count": 158
+      "project": "3x-ui",
+      "count": 159
     },
     {
-      "project": "3x-ui",
+      "project": "v2ray-rules-dat",
       "count": 158
     },
     {
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "release",
-      "count": 593
+      "count": 595
     },
     {
       "tag": "MetaCubeX",
@@ -65,7 +65,7 @@
     },
     {
       "tag": "mihomo",
-      "count": 317
+      "count": 318
     },
     {
       "tag": "geosite",
@@ -93,7 +93,7 @@
     },
     {
       "tag": "xray-core",
-      "count": 109
+      "count": 110
     },
     {
       "tag": "domain-list-community",
@@ -133,11 +133,11 @@
     },
     {
       "tag": "x-ui",
-      "count": 75
+      "count": 76
     }
   ],
-  "importantCount": 717,
+  "importantCount": 719,
   "breakingCount": 97,
   "securityCount": 145,
-  "updatedAt": "2026-10-02T12:45:05.614Z"
+  "updatedAt": "2026-10-02T17:53:56.677Z"
 }

@@ -1,5 +1,41 @@
 [
   {
+    "id": "69cb52733a41591b",
+    "title": "clash-verge-rev/clash-verge-rev Clash Verge Rev v2.5.7",
+    "summary": "Clash Verge Rev v2.5.7",
+    "rawTitle": "Clash Verge Rev v2.5.7",
+    "rawBody": "## v2.5.7\n\n<details>\n<summary><strong> 🐞 修复问题 </strong></summary>\n\n- 修复读屏软件将普通模式下的侧边栏导航项播报为不可用的可拖拽控件的问题\n- 修复订阅包含自定义 DNS 时，确认开启的 DNS 覆写在重启应用后被自动关闭的问题\n\n**🖥️ Windows**\n\n- 修复 Windows 系统盘根目录的删除权限被误判，导致服务模式和 TUN 无法使用的问题\n- 修复 Windows 部分系统安装服务失败，提示「program not found」的问题\n\n**🍎 macOS**\n\n- macOS 修复启动或重启应用时偶发内核启动失败，并误提示「需要更新系统服务」的问题\n- macOS 修复 VPN 接管网络或开机网络未就绪时的问题：服务模式内核无法启动、TUN 不可用、系统代理状态读取报错\n- macOS 修复用 `ipconfig set` 手动配置网卡后无法设置系统代理的问题\n\n**🍎/🐧 macOS/Linux**\n\n- 修复 macOS/Linux 服务模式停止或重启内核时直接强制结束的问题：内核来不及正常退出、最后的日志丢失\n\n</details>\n\n<details>\n<summary><strong> 🚀 优化改进 </strong></summary>\n\n- 优化服务模式的问题排查：服务自身的运行日志会保存到文件，便于追查内核被停止的原因\n\n**🖥️ Windows**\n\n- 优化 Windows 服务安全检查未通过时的启动提示：不再只显示「服务无法启动内核」，直接说明原因并提供修复文档链接\n\n</details>\n\n## 下载地址\n\n### Windows (不再支持Win7)\n#### 正常版本(推荐)\n- [64位(常用)](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.7/Clash.Verge_2.5.7_x64-setup.exe) | [ARM64(不常用)](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.7/Clash.Verge_2.5.7_arm64-setup.exe)\n\n#### 内置Webview2版(体积较大，仅在企业版系统或无法安装webview2时使用)\n- [64位](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.7/Clash.Verge_2.5.7_x64_fixed_webview2-setup.exe) | [ARM64](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.7/Clash.Verge_2.5.7_arm64_fixed_webview2-setup.exe)\n\n### macOS\n- [Apple M芯片](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.7/Clash.Verge_2.5.7_aarch64.dmg) | [Intel芯片](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.7/Clash.Verge_2.5.7_x64.dmg)\n\n### Linux\n#### DEB包(Debian系) 使用 apt ./路径 安装\n- [64位](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.7/Clash.Verge_2.5.7_amd64.deb) | [ARM64](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.7/Clash.Verge_2.5.7_arm64.deb) | [ARMv7](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.7/Clash.Verge_2.5.7_armhf.deb)\n\n#### RPM包(Redhat系) 使用 dnf ./路径 安装\n- [64位](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.7/Clash.Verge-2.5.7-1.x86_64.rpm) | [ARM64](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.7/Clash.Verge-2.5.7-1.aarch64.rpm) | [ARMv7](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.7/Clash.Verge-2.5.7-1.armhfp.rpm)\n\n### FAQ\n- [常见问题](https://clash-verge-rev.github.io/faq/windows.html)\n\n### 稳定机场VPN推荐\n- [狗狗加速](https://cvr.dginv.click/#/register?code=oaxsAGo6)\n\nCreated at Sat Oct  3 00:25:42 CST 2026.\n",
+    "sourceType": "github_release",
+    "sourceName": "clash-verge-rev/clash-verge-rev",
+    "sourceUrl": "https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/v2.5.7",
+    "project": "clash-verge-rev",
+    "repo": "clash-verge-rev/clash-verge-rev",
+    "slug": "clash-verge-rev",
+    "version": "2.5.7",
+    "category": "client",
+    "tags": [
+      "clash-verge",
+      "mihomo",
+      "desktop",
+      "release"
+    ],
+    "platforms": [
+      "windows",
+      "macos",
+      "linux"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-10-02T16:25:43Z",
+    "fetchedAt": "2026-10-02T17:53:47.117Z",
+    "firstSeenAt": "2026-10-02T17:53:55.411Z",
+    "updatedAt": "2026-10-02T17:53:55.411Z",
+    "hash": "69cb52733a41591b"
+  },
+  {
     "id": "f794089d0243bc90",
     "title": "v2fly/domain-list-community 20261002050024",
     "summary": "20261002050024",
@@ -27162,6 +27198,40 @@
     "firstSeenAt": "2026-06-25T04:36:16.426Z",
     "updatedAt": "2026-06-25T04:36:16.426Z",
     "hash": "e54a070ca4e6a5bf"
+  },
+  {
+    "id": "d5e339077aa77c9c",
+    "title": "MHSanaei/3x-ui Dev build 05a083ea",
+    "summary": "Dev build 05a083ea",
+    "rawTitle": "Dev build 05a083ea",
+    "rawBody": "Rolling development build — installs via the panel's Dev update channel.\n\ncommit=05a083eaef0dbbae97256f6dfddab056822b36b6\nbuilt=2026-10-02T17:09:07Z\n\nAutomated per-commit build from main. Not a stable release.",
+    "sourceType": "github_release",
+    "sourceName": "MHSanaei/3x-ui",
+    "sourceUrl": "https://github.com/MHSanaei/3x-ui/releases/tag/dev-latest",
+    "project": "3x-ui",
+    "repo": "MHSanaei/3x-ui",
+    "slug": "3x-ui",
+    "version": "dev-latest",
+    "category": "ecosystem",
+    "tags": [
+      "x-ui",
+      "panel",
+      "xray-core",
+      "release"
+    ],
+    "platforms": [
+      "linux"
+    ],
+    "importance": 4,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2026-06-24T16:17:06Z",
+    "fetchedAt": "2026-10-02T17:53:51.677Z",
+    "firstSeenAt": "2026-10-02T17:53:56.223Z",
+    "updatedAt": "2026-10-02T17:53:56.223Z",
+    "hash": "d5e339077aa77c9c"
   },
   {
     "id": "43838dddfdb6ee1c",
