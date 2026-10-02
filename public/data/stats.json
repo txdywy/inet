@@ -1,13 +1,13 @@
 {
-  "totalItems": 1782,
+  "totalItems": 1783,
   "last24h": 5,
-  "last7d": 41,
+  "last7d": 42,
   "byCategory": {
     "core": 293,
     "client": 292,
     "router": 21,
     "protocol": 57,
-    "dns_rules": 252,
+    "dns_rules": 253,
     "security": 91,
     "ecosystem": 776,
     "trend": 0
@@ -26,12 +26,12 @@
       "count": 163
     },
     {
-      "project": "3x-ui",
+      "project": "v2ray-rules-dat",
       "count": 159
     },
     {
-      "project": "v2ray-rules-dat",
-      "count": 158
+      "project": "3x-ui",
+      "count": 159
     },
     {
       "project": "meta-rules-dat",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "release",
-      "count": 595
+      "count": 596
     },
     {
       "tag": "MetaCubeX",
@@ -69,7 +69,7 @@
     },
     {
       "tag": "geosite",
-      "count": 228
+      "count": 229
     },
     {
       "tag": "v2fly",
@@ -81,11 +81,11 @@
     },
     {
       "tag": "ruleset",
-      "count": 131
+      "count": 132
     },
     {
       "tag": "geoip",
-      "count": 131
+      "count": 132
     },
     {
       "tag": "Sub-Store",
@@ -136,8 +136,8 @@
       "count": 76
     }
   ],
-  "importantCount": 719,
+  "importantCount": 720,
   "breakingCount": 97,
   "securityCount": 145,
-  "updatedAt": "2026-10-02T17:53:56.677Z"
+  "updatedAt": "2026-10-02T22:10:18.757Z"
 }
