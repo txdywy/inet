@@ -1,7 +1,7 @@
 [
   {
     "tag": "release",
-    "count": 592,
+    "count": 593,
     "category": "dns_rules"
   },
   {
@@ -45,14 +45,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "xray-core",
+    "count": 109,
+    "category": "security"
+  },
+  {
     "tag": "domain-list-community",
     "count": 109,
     "category": "ecosystem"
-  },
-  {
-    "tag": "xray-core",
-    "count": 108,
-    "category": "security"
   },
   {
     "tag": "v2ray",
@@ -96,12 +96,12 @@
   },
   {
     "tag": "x-ui",
-    "count": 74,
+    "count": 75,
     "category": "security"
   },
   {
     "tag": "panel",
-    "count": 74,
+    "count": 75,
     "category": "security"
   },
   {
