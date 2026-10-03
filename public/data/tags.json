@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 599,
-    "category": "core"
+    "count": 601,
+    "category": "security"
   },
   {
     "tag": "MetaCubeX",
@@ -46,7 +46,7 @@
   },
   {
     "tag": "xray-core",
-    "count": 111,
+    "count": 113,
     "category": "security"
   },
   {
@@ -96,12 +96,12 @@
   },
   {
     "tag": "x-ui",
-    "count": 77,
+    "count": 79,
     "category": "security"
   },
   {
     "tag": "panel",
-    "count": 77,
+    "count": 79,
     "category": "security"
   },
   {
@@ -115,14 +115,14 @@
     "category": "ecosystem"
   },
   {
-    "tag": "xhttp",
+    "tag": "vless",
     "count": 70,
     "category": "security"
   },
   {
-    "tag": "vless",
-    "count": 69,
-    "category": "core"
+    "tag": "xhttp",
+    "count": 70,
+    "category": "security"
   },
   {
     "tag": "rules",
@@ -136,13 +136,13 @@
   },
   {
     "tag": "hysteria2",
-    "count": 54,
-    "category": "core"
+    "count": 55,
+    "category": "security"
   },
   {
     "tag": "quic",
-    "count": 53,
-    "category": "client"
+    "count": 54,
+    "category": "security"
   },
   {
     "tag": "ech",
@@ -176,8 +176,8 @@
   },
   {
     "tag": "tuic",
-    "count": 44,
-    "category": "core"
+    "count": 45,
+    "category": "security"
   },
   {
     "tag": "网络协议",
@@ -190,14 +190,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "wireguard",
+    "count": 42,
+    "category": "security"
+  },
+  {
     "tag": "代理工具",
     "count": 42,
     "category": "core"
-  },
-  {
-    "tag": "wireguard",
-    "count": 41,
-    "category": "security"
   },
   {
     "tag": "SagerNet",
@@ -330,6 +330,11 @@
     "category": "core"
   },
   {
+    "tag": "reality",
+    "count": 20,
+    "category": "security"
+  },
+  {
     "tag": "android",
     "count": 20,
     "category": "security"
@@ -343,11 +348,6 @@
     "tag": "rematch",
     "count": 20,
     "category": "core"
-  },
-  {
-    "tag": "reality",
-    "count": 19,
-    "category": "security"
   },
   {
     "tag": "macOS",
@@ -620,6 +620,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "amneziawg",
+    "count": 8,
+    "category": "security"
+  },
+  {
     "tag": "dae",
     "count": 8,
     "category": "core"
@@ -676,11 +681,6 @@
   },
   {
     "tag": "xtls",
-    "count": 7,
-    "category": "security"
-  },
-  {
-    "tag": "amneziawg",
     "count": 7,
     "category": "security"
   },
