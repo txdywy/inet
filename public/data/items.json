@@ -1,5 +1,40 @@
 [
   {
+    "id": "1d497583e38ed654",
+    "title": "go-gost/gost v3.3.1-nightly.20261003",
+    "summary": "v3.3.1-nightly.20261003",
+    "rawTitle": "v3.3.1-nightly.20261003",
+    "rawBody": "## Changelog\n* 11220b15bba1539b5c6e6a2fef245720e4065419 chore(gost): bump github.com/go-gost/x to v0.19.5\n* d7656ef3deafec6bf97107b20a332b938153fd54 tests/e2e: concurrent UDP endpoints must share a reverse tunnel intact\n\n",
+    "sourceType": "github_release",
+    "sourceName": "go-gost/gost",
+    "sourceUrl": "https://github.com/go-gost/gost/releases/tag/v3.3.1-nightly.20261003",
+    "project": "gost",
+    "repo": "go-gost/gost",
+    "slug": "gost",
+    "version": "3.3.1-nightly.20261003",
+    "category": "core",
+    "tags": [
+      "gost",
+      "tunnel",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 2,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2026-10-03T16:44:55Z",
+    "fetchedAt": "2026-10-03T21:11:11.812Z",
+    "firstSeenAt": "2026-10-03T21:11:22.496Z",
+    "updatedAt": "2026-10-03T21:11:22.496Z",
+    "hash": "1d497583e38ed654"
+  },
+  {
     "id": "aa582de08fb080ec",
     "title": "fw876/helloworld v196.13",
     "summary": "v196.13",

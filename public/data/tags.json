@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 603,
-    "category": "router"
+    "count": 604,
+    "category": "core"
   },
   {
     "tag": "MetaCubeX",
@@ -350,6 +350,11 @@
     "category": "core"
   },
   {
+    "tag": "gost",
+    "count": 19,
+    "category": "core"
+  },
+  {
     "tag": "macOS",
     "count": 19,
     "category": "client"
@@ -358,11 +363,6 @@
     "tag": "CHACHA20-POLY1305",
     "count": 19,
     "category": "ecosystem"
-  },
-  {
-    "tag": "gost",
-    "count": 18,
-    "category": "core"
   },
   {
     "tag": "snell",
@@ -445,6 +445,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "tunnel",
+    "count": 14,
+    "category": "core"
+  },
+  {
     "tag": "v2rayA",
     "count": 14,
     "category": "client"
@@ -457,11 +462,6 @@
   {
     "tag": "SUDOKU-ASCII",
     "count": 14,
-    "category": "core"
-  },
-  {
-    "tag": "tunnel",
-    "count": 13,
     "category": "core"
   },
   {
