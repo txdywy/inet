@@ -1,5 +1,81 @@
 [
   {
+    "id": "7dac53edded4ecff",
+    "title": "SagerNet/sing-box 1.15.0-alpha.10",
+    "summary": "1.15.0-alpha.10",
+    "rawTitle": "1.15.0-alpha.10",
+    "rawBody": "## :memo: Release Notes\n\n* Fixes and improvements",
+    "sourceType": "github_release",
+    "sourceName": "SagerNet/sing-box",
+    "sourceUrl": "https://github.com/SagerNet/sing-box/releases/tag/v1.15.0-alpha.10",
+    "project": "sing-box",
+    "repo": "SagerNet/sing-box",
+    "slug": "sing-box",
+    "version": "1.15.0-alpha.10",
+    "category": "core",
+    "tags": [
+      "sing-box",
+      "vless",
+      "hysteria2",
+      "tuic",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos",
+      "android",
+      "ios"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-10-03T03:52:29Z",
+    "fetchedAt": "2026-10-03T05:23:37.371Z",
+    "firstSeenAt": "2026-10-03T05:23:50.641Z",
+    "updatedAt": "2026-10-03T05:23:50.641Z",
+    "hash": "7dac53edded4ecff"
+  },
+  {
+    "id": "999ac6b89cfa16ac",
+    "title": "MetaCubeX/meta-rules-dat Release 2026-10-03 09:16",
+    "summary": "Release 2026-10-03 09:16",
+    "rawTitle": "Release 2026-10-03 09:16",
+    "rawBody": "",
+    "sourceType": "github_release",
+    "sourceName": "MetaCubeX/meta-rules-dat",
+    "sourceUrl": "https://github.com/MetaCubeX/meta-rules-dat/releases/tag/latest",
+    "project": "meta-rules-dat",
+    "repo": "MetaCubeX/meta-rules-dat",
+    "slug": "meta-rules-dat",
+    "version": "latest",
+    "category": "dns_rules",
+    "tags": [
+      "ruleset",
+      "geosite",
+      "geoip",
+      "mihomo",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-10-03T01:18:55Z",
+    "fetchedAt": "2026-10-03T05:23:48.652Z",
+    "firstSeenAt": "2026-10-03T05:23:52.284Z",
+    "updatedAt": "2026-10-03T05:23:52.284Z",
+    "hash": "999ac6b89cfa16ac"
+  },
+  {
     "id": "5d3d4b157ba778f0",
     "title": "Loyalsoldier/v2ray-rules-dat Released on 202610022207",
     "summary": "Released on 202610022207",
@@ -27234,6 +27310,40 @@
     "firstSeenAt": "2026-06-25T04:36:16.426Z",
     "updatedAt": "2026-06-25T04:36:16.426Z",
     "hash": "e54a070ca4e6a5bf"
+  },
+  {
+    "id": "6d07ab34fbafd285",
+    "title": "MHSanaei/3x-ui Dev build 0054e671",
+    "summary": "Dev build 0054e671",
+    "rawTitle": "Dev build 0054e671",
+    "rawBody": "Rolling development build — installs via the panel's Dev update channel.\n\ncommit=0054e671f88362696a0cb791e0ae7e4f18f7ed75\nbuilt=2026-10-03T01:01:38Z\n\nAutomated per-commit build from main. Not a stable release.",
+    "sourceType": "github_release",
+    "sourceName": "MHSanaei/3x-ui",
+    "sourceUrl": "https://github.com/MHSanaei/3x-ui/releases/tag/dev-latest",
+    "project": "3x-ui",
+    "repo": "MHSanaei/3x-ui",
+    "slug": "3x-ui",
+    "version": "dev-latest",
+    "category": "ecosystem",
+    "tags": [
+      "x-ui",
+      "panel",
+      "xray-core",
+      "release"
+    ],
+    "platforms": [
+      "linux"
+    ],
+    "importance": 4,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2026-06-24T16:17:06Z",
+    "fetchedAt": "2026-10-03T05:23:47.394Z",
+    "firstSeenAt": "2026-10-03T05:23:51.474Z",
+    "updatedAt": "2026-10-03T05:23:51.474Z",
+    "hash": "6d07ab34fbafd285"
   },
   {
     "id": "d5e339077aa77c9c",

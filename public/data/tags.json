@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 596,
-    "category": "dns_rules"
+    "count": 599,
+    "category": "core"
   },
   {
     "tag": "MetaCubeX",
@@ -11,12 +11,12 @@
   },
   {
     "tag": "mihomo",
-    "count": 318,
-    "category": "client"
+    "count": 319,
+    "category": "dns_rules"
   },
   {
     "tag": "geosite",
-    "count": 229,
+    "count": 230,
     "category": "dns_rules"
   },
   {
@@ -31,12 +31,12 @@
   },
   {
     "tag": "ruleset",
-    "count": 132,
+    "count": 133,
     "category": "dns_rules"
   },
   {
     "tag": "geoip",
-    "count": 132,
+    "count": 133,
     "category": "dns_rules"
   },
   {
@@ -46,7 +46,7 @@
   },
   {
     "tag": "xray-core",
-    "count": 110,
+    "count": 111,
     "category": "security"
   },
   {
@@ -75,14 +75,14 @@
     "category": "security"
   },
   {
+    "tag": "sing-box",
+    "count": 83,
+    "category": "core"
+  },
+  {
     "tag": "3x-ui",
     "count": 83,
     "category": "client"
-  },
-  {
-    "tag": "sing-box",
-    "count": 82,
-    "category": "core"
   },
   {
     "tag": "metacubexd",
@@ -96,12 +96,12 @@
   },
   {
     "tag": "x-ui",
-    "count": 76,
+    "count": 77,
     "category": "security"
   },
   {
     "tag": "panel",
-    "count": 76,
+    "count": 77,
     "category": "security"
   },
   {
@@ -121,8 +121,8 @@
   },
   {
     "tag": "vless",
-    "count": 68,
-    "category": "security"
+    "count": 69,
+    "category": "core"
   },
   {
     "tag": "rules",
@@ -135,14 +135,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "hysteria2",
+    "count": 54,
+    "category": "core"
+  },
+  {
     "tag": "quic",
     "count": 53,
     "category": "client"
-  },
-  {
-    "tag": "hysteria2",
-    "count": 53,
-    "category": "core"
   },
   {
     "tag": "ech",
@@ -175,14 +175,14 @@
     "category": "ecosystem"
   },
   {
-    "tag": "网络协议",
+    "tag": "tuic",
     "count": 44,
     "category": "core"
   },
   {
-    "tag": "tuic",
-    "count": 43,
-    "category": "client"
+    "tag": "网络协议",
+    "count": 44,
+    "category": "core"
   },
   {
     "tag": "dat",
