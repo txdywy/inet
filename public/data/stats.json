@@ -1,15 +1,15 @@
 {
-  "totalItems": 1788,
+  "totalItems": 1790,
   "last24h": 5,
   "last7d": 37,
   "byCategory": {
     "core": 294,
     "client": 292,
-    "router": 21,
+    "router": 22,
     "protocol": 57,
     "dns_rules": 254,
     "security": 92,
-    "ecosystem": 778,
+    "ecosystem": 779,
     "trend": 0
   },
   "topProjects": [
@@ -22,12 +22,12 @@
       "count": 218
     },
     {
-      "project": "Sub-Store",
+      "project": "3x-ui",
       "count": 163
     },
     {
-      "project": "3x-ui",
-      "count": 162
+      "project": "Sub-Store",
+      "count": 163
     },
     {
       "project": "v2ray-rules-dat",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "release",
-      "count": 601
+      "count": 603
     },
     {
       "tag": "MetaCubeX",
@@ -93,7 +93,7 @@
     },
     {
       "tag": "xray-core",
-      "count": 113
+      "count": 114
     },
     {
       "tag": "domain-list-community",
@@ -128,16 +128,16 @@
       "count": 82
     },
     {
-      "tag": "OpenVPN",
+      "tag": "x-ui",
       "count": 80
     },
     {
-      "tag": "x-ui",
-      "count": 79
+      "tag": "panel",
+      "count": 80
     }
   ],
-  "importantCount": 724,
+  "importantCount": 725,
   "breakingCount": 98,
   "securityCount": 146,
-  "updatedAt": "2026-10-03T11:45:32.453Z"
+  "updatedAt": "2026-10-03T16:26:04.663Z"
 }

@@ -1,5 +1,41 @@
 [
   {
+    "id": "aa582de08fb080ec",
+    "title": "fw876/helloworld v196.13",
+    "summary": "v196.13",
+    "rawTitle": "v196.13",
+    "rawBody": "# helloworld v196.13\n\nChanges since v196.11:\n\n- xray-core: enable UPX best compression by default (`d88e25f`)\n- upx: add version 5.2.1 with host build support (`23fe28d`)\n- luci-app-ssr-plus: keep whitelist DNS upstream selection unchanged (`d23e0d6`)\n\nPackages:\n- luci-app-ssr-plus\n- xray-core\n- mihomo\n- naiveproxy\n",
+    "sourceType": "github_release",
+    "sourceName": "fw876/helloworld",
+    "sourceUrl": "https://github.com/fw876/helloworld/releases/tag/v196.13",
+    "project": "helloworld",
+    "repo": "fw876/helloworld",
+    "slug": "helloworld",
+    "version": "196.13",
+    "category": "router",
+    "tags": [
+      "ssrplus",
+      "openwrt",
+      "luci",
+      "naiveproxy",
+      "release"
+    ],
+    "platforms": [
+      "openwrt",
+      "router"
+    ],
+    "importance": 2,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2026-10-03T14:08:58Z",
+    "fetchedAt": "2026-10-03T16:25:57.570Z",
+    "firstSeenAt": "2026-10-03T16:26:03.390Z",
+    "updatedAt": "2026-10-03T16:26:03.390Z",
+    "hash": "aa582de08fb080ec"
+  },
+  {
     "id": "0f691161cecee7f1",
     "title": "MHSanaei/3x-ui v3.9.0",
     "summary": "v3.9.0",
@@ -27351,6 +27387,40 @@
     "firstSeenAt": "2026-06-25T04:36:16.426Z",
     "updatedAt": "2026-06-25T04:36:16.426Z",
     "hash": "e54a070ca4e6a5bf"
+  },
+  {
+    "id": "89d34287de3ac078",
+    "title": "MHSanaei/3x-ui Dev build 815c9c57",
+    "summary": "Dev build 815c9c57",
+    "rawTitle": "Dev build 815c9c57",
+    "rawBody": "Rolling development build — installs via the panel's Dev update channel.\n\ncommit=815c9c57726d0c5df77878da3f49a5d6b95c6c46\nbuilt=2026-10-03T13:52:28Z\n\nAutomated per-commit build from main. Not a stable release.",
+    "sourceType": "github_release",
+    "sourceName": "MHSanaei/3x-ui",
+    "sourceUrl": "https://github.com/MHSanaei/3x-ui/releases/tag/dev-latest",
+    "project": "3x-ui",
+    "repo": "MHSanaei/3x-ui",
+    "slug": "3x-ui",
+    "version": "dev-latest",
+    "category": "ecosystem",
+    "tags": [
+      "x-ui",
+      "panel",
+      "xray-core",
+      "release"
+    ],
+    "platforms": [
+      "linux"
+    ],
+    "importance": 4,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2026-06-24T16:17:06Z",
+    "fetchedAt": "2026-10-03T16:26:00.192Z",
+    "firstSeenAt": "2026-10-03T16:26:04.200Z",
+    "updatedAt": "2026-10-03T16:26:04.200Z",
+    "hash": "89d34287de3ac078"
   },
   {
     "id": "d5a67331429cf71e",

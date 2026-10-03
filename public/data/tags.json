@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 601,
-    "category": "security"
+    "count": 603,
+    "category": "router"
   },
   {
     "tag": "MetaCubeX",
@@ -46,7 +46,7 @@
   },
   {
     "tag": "xray-core",
-    "count": 113,
+    "count": 114,
     "category": "security"
   },
   {
@@ -90,19 +90,19 @@
     "category": "client"
   },
   {
-    "tag": "OpenVPN",
-    "count": 80,
-    "category": "protocol"
-  },
-  {
     "tag": "x-ui",
-    "count": 79,
+    "count": 80,
     "category": "security"
   },
   {
     "tag": "panel",
-    "count": 79,
+    "count": 80,
     "category": "security"
+  },
+  {
+    "tag": "OpenVPN",
+    "count": 80,
+    "category": "protocol"
   },
   {
     "tag": "meta",
@@ -270,6 +270,11 @@
     "category": "dns_rules"
   },
   {
+    "tag": "naiveproxy",
+    "count": 25,
+    "category": "router"
+  },
+  {
     "tag": "v2raya",
     "count": 25,
     "category": "client"
@@ -290,11 +295,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "naiveproxy",
-    "count": 24,
-    "category": "router"
-  },
-  {
     "tag": "dns",
     "count": 24,
     "category": "router"
@@ -305,6 +305,11 @@
     "category": "protocol"
   },
   {
+    "tag": "openwrt",
+    "count": 23,
+    "category": "router"
+  },
+  {
     "tag": "依赖更新",
     "count": 23,
     "category": "ecosystem"
@@ -313,11 +318,6 @@
     "tag": "VLESS",
     "count": 23,
     "category": "ecosystem"
-  },
-  {
-    "tag": "openwrt",
-    "count": 22,
-    "category": "router"
   },
   {
     "tag": "用户界面",
@@ -620,6 +620,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "luci",
+    "count": 8,
+    "category": "router"
+  },
+  {
     "tag": "amneziawg",
     "count": 8,
     "category": "security"
@@ -675,7 +680,7 @@
     "category": "core"
   },
   {
-    "tag": "luci",
+    "tag": "ssrplus",
     "count": 7,
     "category": "router"
   },
@@ -723,11 +728,6 @@
     "tag": "luci-app-mosdns",
     "count": 7,
     "category": "ecosystem"
-  },
-  {
-    "tag": "ssrplus",
-    "count": 6,
-    "category": "router"
   },
   {
     "tag": "tailscale",
