@@ -1,14 +1,14 @@
 {
-  "totalItems": 1794,
-  "last24h": 6,
-  "last7d": 37,
+  "totalItems": 1796,
+  "last24h": 7,
+  "last7d": 39,
   "byCategory": {
     "core": 295,
-    "client": 292,
+    "client": 293,
     "router": 22,
     "protocol": 57,
     "dns_rules": 257,
-    "security": 92,
+    "security": 93,
     "ecosystem": 779,
     "trend": 0
   },
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "release",
-      "count": 607
+      "count": 609
     },
     {
       "tag": "MetaCubeX",
@@ -117,7 +117,7 @@
     },
     {
       "tag": "sing-box",
-      "count": 83
+      "count": 84
     },
     {
       "tag": "3x-ui",
@@ -129,15 +129,15 @@
     },
     {
       "tag": "x-ui",
-      "count": 80
+      "count": 81
     },
     {
       "tag": "panel",
       "count": 80
     }
   ],
-  "importantCount": 728,
-  "breakingCount": 98,
-  "securityCount": 146,
-  "updatedAt": "2026-10-04T05:59:31.859Z"
+  "importantCount": 729,
+  "breakingCount": 99,
+  "securityCount": 147,
+  "updatedAt": "2026-10-04T12:28:40.486Z"
 }

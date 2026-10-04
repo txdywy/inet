@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 607,
-    "category": "dns_rules"
+    "count": 609,
+    "category": "client"
   },
   {
     "tag": "MetaCubeX",
@@ -76,8 +76,8 @@
   },
   {
     "tag": "sing-box",
-    "count": 83,
-    "category": "core"
+    "count": 84,
+    "category": "security"
   },
   {
     "tag": "3x-ui",
@@ -91,8 +91,8 @@
   },
   {
     "tag": "x-ui",
-    "count": 80,
-    "category": "security"
+    "count": 81,
+    "category": "client"
   },
   {
     "tag": "panel",
@@ -103,6 +103,11 @@
     "tag": "OpenVPN",
     "count": 80,
     "category": "protocol"
+  },
+  {
+    "tag": "xhttp",
+    "count": 71,
+    "category": "client"
   },
   {
     "tag": "meta",
@@ -120,11 +125,6 @@
     "category": "security"
   },
   {
-    "tag": "xhttp",
-    "count": 70,
-    "category": "security"
-  },
-  {
     "tag": "rules",
     "count": 67,
     "category": "ecosystem"
@@ -135,19 +135,19 @@
     "category": "ecosystem"
   },
   {
+    "tag": "quic",
+    "count": 55,
+    "category": "security"
+  },
+  {
     "tag": "hysteria2",
     "count": 55,
     "category": "security"
   },
   {
-    "tag": "quic",
-    "count": 54,
-    "category": "security"
-  },
-  {
     "tag": "ech",
-    "count": 51,
-    "category": "core"
+    "count": 52,
+    "category": "security"
   },
   {
     "tag": "Android",
@@ -265,6 +265,21 @@
     "category": "core"
   },
   {
+    "tag": "v2raya",
+    "count": 26,
+    "category": "client"
+  },
+  {
+    "tag": "web",
+    "count": 26,
+    "category": "client"
+  },
+  {
+    "tag": "transparent-proxy",
+    "count": 26,
+    "category": "client"
+  },
+  {
     "tag": "DNS",
     "count": 26,
     "category": "dns_rules"
@@ -273,21 +288,6 @@
     "tag": "naiveproxy",
     "count": 25,
     "category": "router"
-  },
-  {
-    "tag": "v2raya",
-    "count": 25,
-    "category": "client"
-  },
-  {
-    "tag": "web",
-    "count": 25,
-    "category": "client"
-  },
-  {
-    "tag": "transparent-proxy",
-    "count": 25,
-    "category": "client"
   },
   {
     "tag": "网络工具",
@@ -495,6 +495,11 @@
     "category": "core"
   },
   {
+    "tag": "grpc",
+    "count": 11,
+    "category": "security"
+  },
+  {
     "tag": "v2rayng",
     "count": 11,
     "category": "security"
@@ -541,11 +546,6 @@
   },
   {
     "tag": "windows",
-    "count": 10,
-    "category": "security"
-  },
-  {
-    "tag": "grpc",
     "count": 10,
     "category": "security"
   },
@@ -1040,6 +1040,11 @@
     "category": "client"
   },
   {
+    "tag": "warp",
+    "count": 3,
+    "category": "security"
+  },
+  {
     "tag": "CDN",
     "count": 3,
     "category": "ecosystem"
@@ -1281,11 +1286,6 @@
   },
   {
     "tag": "http/3",
-    "count": 2,
-    "category": "security"
-  },
-  {
-    "tag": "warp",
     "count": 2,
     "category": "security"
   },
@@ -1792,6 +1792,16 @@
   {
     "tag": "Quantumult X",
     "count": 2,
+    "category": "security"
+  },
+  {
+    "tag": "hiddify",
+    "count": 1,
+    "category": "security"
+  },
+  {
+    "tag": "universal",
+    "count": 1,
     "category": "security"
   },
   {
