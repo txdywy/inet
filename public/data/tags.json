@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 609,
-    "category": "client"
+    "count": 613,
+    "category": "security"
   },
   {
     "tag": "MetaCubeX",
@@ -11,12 +11,12 @@
   },
   {
     "tag": "mihomo",
-    "count": 320,
+    "count": 321,
     "category": "dns_rules"
   },
   {
     "tag": "geosite",
-    "count": 233,
+    "count": 235,
     "category": "dns_rules"
   },
   {
@@ -31,12 +31,12 @@
   },
   {
     "tag": "ruleset",
-    "count": 135,
+    "count": 137,
     "category": "dns_rules"
   },
   {
     "tag": "geoip",
-    "count": 135,
+    "count": 137,
     "category": "dns_rules"
   },
   {
@@ -70,13 +70,13 @@
     "category": "ecosystem"
   },
   {
-    "tag": "clash",
+    "tag": "sing-box",
     "count": 85,
     "category": "security"
   },
   {
-    "tag": "sing-box",
-    "count": 84,
+    "tag": "clash",
+    "count": 85,
     "category": "security"
   },
   {
@@ -136,17 +136,17 @@
   },
   {
     "tag": "quic",
-    "count": 55,
+    "count": 57,
     "category": "security"
   },
   {
     "tag": "hysteria2",
-    "count": 55,
+    "count": 56,
     "category": "security"
   },
   {
     "tag": "ech",
-    "count": 52,
+    "count": 54,
     "category": "security"
   },
   {
@@ -485,6 +485,11 @@
     "category": "client"
   },
   {
+    "tag": "grpc",
+    "count": 12,
+    "category": "security"
+  },
+  {
     "tag": "desktop",
     "count": 12,
     "category": "client"
@@ -493,11 +498,6 @@
     "tag": "HTTP",
     "count": 12,
     "category": "core"
-  },
-  {
-    "tag": "grpc",
-    "count": 11,
-    "category": "security"
   },
   {
     "tag": "v2rayng",
@@ -915,6 +915,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "warp",
+    "count": 4,
+    "category": "security"
+  },
+  {
     "tag": "vision",
     "count": 4,
     "category": "security"
@@ -1038,11 +1043,6 @@
     "tag": "nekoray",
     "count": 4,
     "category": "client"
-  },
-  {
-    "tag": "warp",
-    "count": 3,
-    "category": "security"
   },
   {
     "tag": "CDN",
@@ -1268,6 +1268,16 @@
     "tag": "protocol",
     "count": 3,
     "category": "protocol"
+  },
+  {
+    "tag": "hiddify",
+    "count": 2,
+    "category": "security"
+  },
+  {
+    "tag": "universal",
+    "count": 2,
+    "category": "security"
   },
   {
     "tag": "obfuscation",
@@ -1792,16 +1802,6 @@
   {
     "tag": "Quantumult X",
     "count": 2,
-    "category": "security"
-  },
-  {
-    "tag": "hiddify",
-    "count": 1,
-    "category": "security"
-  },
-  {
-    "tag": "universal",
-    "count": 1,
     "category": "security"
   },
   {
