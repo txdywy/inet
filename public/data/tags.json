@@ -1,7 +1,7 @@
 [
   {
     "tag": "release",
-    "count": 613,
+    "count": 615,
     "category": "security"
   },
   {
@@ -46,7 +46,7 @@
   },
   {
     "tag": "xray-core",
-    "count": 114,
+    "count": 116,
     "category": "security"
   },
   {
@@ -85,18 +85,18 @@
     "category": "client"
   },
   {
+    "tag": "x-ui",
+    "count": 82,
+    "category": "client"
+  },
+  {
     "tag": "metacubexd",
     "count": 82,
     "category": "client"
   },
   {
-    "tag": "x-ui",
-    "count": 81,
-    "category": "client"
-  },
-  {
     "tag": "panel",
-    "count": 80,
+    "count": 81,
     "category": "security"
   },
   {
@@ -500,6 +500,16 @@
     "category": "core"
   },
   {
+    "tag": "v2rayn",
+    "count": 11,
+    "category": "security"
+  },
+  {
+    "tag": "windows",
+    "count": 11,
+    "category": "security"
+  },
+  {
     "tag": "v2rayng",
     "count": 11,
     "category": "security"
@@ -538,16 +548,6 @@
     "tag": "用户体验",
     "count": 11,
     "category": "client"
-  },
-  {
-    "tag": "v2rayn",
-    "count": 10,
-    "category": "security"
-  },
-  {
-    "tag": "windows",
-    "count": 10,
-    "category": "security"
   },
   {
     "tag": "API",

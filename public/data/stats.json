@@ -1,15 +1,15 @@
 {
-  "totalItems": 1800,
-  "last24h": 6,
-  "last7d": 41,
+  "totalItems": 1802,
+  "last24h": 5,
+  "last7d": 42,
   "byCategory": {
     "core": 295,
     "client": 293,
     "router": 22,
     "protocol": 57,
     "dns_rules": 259,
-    "security": 95,
-    "ecosystem": 779,
+    "security": 96,
+    "ecosystem": 780,
     "trend": 0
   },
   "topProjects": [
@@ -23,7 +23,7 @@
     },
     {
       "project": "3x-ui",
-      "count": 163
+      "count": 164
     },
     {
       "project": "Sub-Store",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "release",
-      "count": 613
+      "count": 615
     },
     {
       "tag": "MetaCubeX",
@@ -93,7 +93,7 @@
     },
     {
       "tag": "xray-core",
-      "count": 114
+      "count": 116
     },
     {
       "tag": "domain-list-community",
@@ -124,20 +124,20 @@
       "count": 83
     },
     {
+      "tag": "x-ui",
+      "count": 82
+    },
+    {
       "tag": "metacubexd",
       "count": 82
     },
     {
-      "tag": "x-ui",
-      "count": 81
-    },
-    {
       "tag": "panel",
-      "count": 80
+      "count": 81
     }
   ],
-  "importantCount": 731,
+  "importantCount": 733,
   "breakingCount": 101,
-  "securityCount": 149,
-  "updatedAt": "2026-10-05T05:48:13.266Z"
+  "securityCount": 150,
+  "updatedAt": "2026-10-05T14:50:45.854Z"
 }

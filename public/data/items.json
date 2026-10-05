@@ -1,5 +1,39 @@
 [
   {
+    "id": "3568e9b1ba1fa366",
+    "title": "2dust/v2rayN 7.25.5",
+    "summary": "7.25.5",
+    "rawTitle": "7.25.5",
+    "rawBody": "### [关于 跳过证书验证 allowInsecure 参数被移除的说明 ](https://github.com/2dust/v2rayN/discussions/9460)\r\n \r\n### 本次更新\r\n \r\n* 支持 sing-box v1.14，更新的用户注意内核版本 #9736\r\n* 锁定最大 sing-box 版本 v1.14  #10091\r\n* 添加通过代理更新检查更新的选项 - #10090\r\n* 在核心设置界面中添加 Mux 设置 - #10055\r\n* 日志和临时文件自动清理时间默认为 7 天\r\n* 调整 Clash API - #10088\r\n* xray core 配置文件格式改为最新版本 #10132\r\n* 为订阅更新添加自定义 HTTP 标头 - #10118\r\n* 添加阿塞拜疆语 (az) UI 本地化 - #10141\r\n* https://github.com/XTLS/Xray-core/releases/tag/v26.9.30\r\n* 添加 MASQUE 支持 - #10233\r\n\r\n\r\n### [发布文件介绍，不知道下载哪个文件的请看](https://github.com/2dust/v2rayN/wiki/Release-files-introduction)\r\n ",
+    "sourceType": "github_release",
+    "sourceName": "2dust/v2rayN",
+    "sourceUrl": "https://github.com/2dust/v2rayN/releases/tag/7.25.5",
+    "project": "v2rayN",
+    "repo": "2dust/v2rayN",
+    "slug": "v2rayn",
+    "version": "7.25.5",
+    "category": "security",
+    "tags": [
+      "v2rayn",
+      "windows",
+      "xray-core",
+      "release"
+    ],
+    "platforms": [
+      "windows"
+    ],
+    "importance": 5,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": true,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-10-05T08:55:29Z",
+    "fetchedAt": "2026-10-05T14:50:35.049Z",
+    "firstSeenAt": "2026-10-05T14:50:44.553Z",
+    "updatedAt": "2026-10-05T14:50:44.553Z",
+    "hash": "3568e9b1ba1fa366"
+  },
+  {
     "id": "11fe355634902468",
     "title": "apernet/hysteria app/v2.13.0",
     "summary": "app/v2.13.0",
@@ -27761,6 +27795,40 @@
     "firstSeenAt": "2026-06-25T04:36:16.426Z",
     "updatedAt": "2026-06-25T04:36:16.426Z",
     "hash": "e54a070ca4e6a5bf"
+  },
+  {
+    "id": "723bb8f3debf3aa0",
+    "title": "MHSanaei/3x-ui Dev build 2c5fc8e7",
+    "summary": "Dev build 2c5fc8e7",
+    "rawTitle": "Dev build 2c5fc8e7",
+    "rawBody": "Rolling development build — installs via the panel's Dev update channel.\n\ncommit=2c5fc8e72c6d56b42febeab299c7a8414b3a86ff\nbuilt=2026-10-05T14:15:40Z\n\nAutomated per-commit build from main. Not a stable release.",
+    "sourceType": "github_release",
+    "sourceName": "MHSanaei/3x-ui",
+    "sourceUrl": "https://github.com/MHSanaei/3x-ui/releases/tag/dev-latest",
+    "project": "3x-ui",
+    "repo": "MHSanaei/3x-ui",
+    "slug": "3x-ui",
+    "version": "dev-latest",
+    "category": "ecosystem",
+    "tags": [
+      "x-ui",
+      "panel",
+      "xray-core",
+      "release"
+    ],
+    "platforms": [
+      "linux"
+    ],
+    "importance": 4,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2026-06-24T16:17:06Z",
+    "fetchedAt": "2026-10-05T14:50:41.025Z",
+    "firstSeenAt": "2026-10-05T14:50:45.365Z",
+    "updatedAt": "2026-10-05T14:50:45.365Z",
+    "hash": "723bb8f3debf3aa0"
   },
   {
     "id": "89d34287de3ac078",
