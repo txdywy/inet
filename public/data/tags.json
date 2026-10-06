@@ -1,7 +1,12 @@
 [
   {
     "tag": "release",
-    "count": 617,
+    "count": 620,
+    "category": "router"
+  },
+  {
+    "tag": "mihomo",
+    "count": 322,
     "category": "dns_rules"
   },
   {
@@ -10,13 +15,8 @@
     "category": "ecosystem"
   },
   {
-    "tag": "mihomo",
-    "count": 321,
-    "category": "dns_rules"
-  },
-  {
     "tag": "geosite",
-    "count": 236,
+    "count": 237,
     "category": "dns_rules"
   },
   {
@@ -31,12 +31,12 @@
   },
   {
     "tag": "ruleset",
-    "count": 138,
+    "count": 139,
     "category": "dns_rules"
   },
   {
     "tag": "geoip",
-    "count": 138,
+    "count": 139,
     "category": "dns_rules"
   },
   {
@@ -136,7 +136,7 @@
   },
   {
     "tag": "quic",
-    "count": 57,
+    "count": 58,
     "category": "security"
   },
   {
@@ -265,6 +265,11 @@
     "category": "core"
   },
   {
+    "tag": "naiveproxy",
+    "count": 26,
+    "category": "security"
+  },
+  {
     "tag": "v2raya",
     "count": 26,
     "category": "client"
@@ -285,14 +290,14 @@
     "category": "dns_rules"
   },
   {
-    "tag": "naiveproxy",
-    "count": 25,
-    "category": "router"
-  },
-  {
     "tag": "网络工具",
     "count": 25,
     "category": "ecosystem"
+  },
+  {
+    "tag": "openwrt",
+    "count": 24,
+    "category": "router"
   },
   {
     "tag": "dns",
@@ -303,11 +308,6 @@
     "tag": "HTTP/2",
     "count": 24,
     "category": "protocol"
-  },
-  {
-    "tag": "openwrt",
-    "count": 23,
-    "category": "router"
   },
   {
     "tag": "依赖更新",
@@ -565,6 +565,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "luci",
+    "count": 9,
+    "category": "router"
+  },
+  {
     "tag": "clash-verge",
     "count": 9,
     "category": "client"
@@ -620,7 +625,7 @@
     "category": "ecosystem"
   },
   {
-    "tag": "luci",
+    "tag": "ssrplus",
     "count": 8,
     "category": "router"
   },
@@ -678,11 +683,6 @@
     "tag": "QUICv2",
     "count": 8,
     "category": "core"
-  },
-  {
-    "tag": "ssrplus",
-    "count": 7,
-    "category": "router"
   },
   {
     "tag": "xtls",
