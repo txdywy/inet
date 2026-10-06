@@ -1,15 +1,15 @@
 {
-  "totalItems": 1802,
-  "last24h": 5,
-  "last7d": 42,
+  "totalItems": 1804,
+  "last24h": 4,
+  "last7d": 43,
   "byCategory": {
     "core": 295,
     "client": 293,
     "router": 22,
     "protocol": 57,
-    "dns_rules": 259,
+    "dns_rules": 260,
     "security": 96,
-    "ecosystem": 780,
+    "ecosystem": 781,
     "trend": 0
   },
   "topProjects": [
@@ -23,7 +23,7 @@
     },
     {
       "project": "3x-ui",
-      "count": 164
+      "count": 165
     },
     {
       "project": "Sub-Store",
@@ -31,7 +31,7 @@
     },
     {
       "project": "v2ray-rules-dat",
-      "count": 161
+      "count": 162
     },
     {
       "project": "meta-rules-dat",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "release",
-      "count": 615
+      "count": 617
     },
     {
       "tag": "MetaCubeX",
@@ -69,7 +69,7 @@
     },
     {
       "tag": "geosite",
-      "count": 235
+      "count": 236
     },
     {
       "tag": "v2fly",
@@ -81,19 +81,19 @@
     },
     {
       "tag": "ruleset",
-      "count": 137
+      "count": 138
     },
     {
       "tag": "geoip",
-      "count": 137
+      "count": 138
+    },
+    {
+      "tag": "xray-core",
+      "count": 117
     },
     {
       "tag": "Sub-Store",
       "count": 117
-    },
-    {
-      "tag": "xray-core",
-      "count": 116
     },
     {
       "tag": "domain-list-community",
@@ -120,24 +120,24 @@
       "count": 85
     },
     {
+      "tag": "x-ui",
+      "count": 83
+    },
+    {
       "tag": "3x-ui",
       "count": 83
     },
     {
-      "tag": "x-ui",
+      "tag": "panel",
       "count": 82
     },
     {
       "tag": "metacubexd",
       "count": 82
-    },
-    {
-      "tag": "panel",
-      "count": 81
     }
   ],
-  "importantCount": 733,
+  "importantCount": 735,
   "breakingCount": 101,
   "securityCount": 150,
-  "updatedAt": "2026-10-05T14:50:45.854Z"
+  "updatedAt": "2026-10-06T00:00:30.681Z"
 }

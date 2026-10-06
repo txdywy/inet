@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 615,
-    "category": "security"
+    "count": 617,
+    "category": "dns_rules"
   },
   {
     "tag": "MetaCubeX",
@@ -16,7 +16,7 @@
   },
   {
     "tag": "geosite",
-    "count": 235,
+    "count": 236,
     "category": "dns_rules"
   },
   {
@@ -31,23 +31,23 @@
   },
   {
     "tag": "ruleset",
-    "count": 137,
+    "count": 138,
     "category": "dns_rules"
   },
   {
     "tag": "geoip",
-    "count": 137,
+    "count": 138,
     "category": "dns_rules"
+  },
+  {
+    "tag": "xray-core",
+    "count": 117,
+    "category": "security"
   },
   {
     "tag": "Sub-Store",
     "count": 117,
     "category": "ecosystem"
-  },
-  {
-    "tag": "xray-core",
-    "count": 116,
-    "category": "security"
   },
   {
     "tag": "domain-list-community",
@@ -80,24 +80,24 @@
     "category": "security"
   },
   {
+    "tag": "x-ui",
+    "count": 83,
+    "category": "client"
+  },
+  {
     "tag": "3x-ui",
     "count": 83,
     "category": "client"
   },
   {
-    "tag": "x-ui",
+    "tag": "panel",
     "count": 82,
-    "category": "client"
+    "category": "security"
   },
   {
     "tag": "metacubexd",
     "count": 82,
     "category": "client"
-  },
-  {
-    "tag": "panel",
-    "count": 81,
-    "category": "security"
   },
   {
     "tag": "OpenVPN",
