@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 620,
-    "category": "router"
+    "count": 624,
+    "category": "security"
   },
   {
     "tag": "mihomo",
@@ -41,7 +41,7 @@
   },
   {
     "tag": "xray-core",
-    "count": 117,
+    "count": 118,
     "category": "security"
   },
   {
@@ -81,18 +81,18 @@
   },
   {
     "tag": "x-ui",
-    "count": 83,
+    "count": 84,
     "category": "client"
+  },
+  {
+    "tag": "panel",
+    "count": 83,
+    "category": "security"
   },
   {
     "tag": "3x-ui",
     "count": 83,
     "category": "client"
-  },
-  {
-    "tag": "panel",
-    "count": 82,
-    "category": "security"
   },
   {
     "tag": "metacubexd",
@@ -156,12 +156,12 @@
   },
   {
     "tag": "sub-store",
-    "count": 46,
+    "count": 47,
     "category": "security"
   },
   {
     "tag": "subscription",
-    "count": 46,
+    "count": 47,
     "category": "security"
   },
   {
@@ -260,12 +260,17 @@
     "category": "ecosystem"
   },
   {
+    "tag": "naiveproxy",
+    "count": 28,
+    "category": "security"
+  },
+  {
     "tag": "sudoku",
     "count": 27,
     "category": "core"
   },
   {
-    "tag": "naiveproxy",
+    "tag": "openwrt",
     "count": 26,
     "category": "security"
   },
@@ -293,11 +298,6 @@
     "tag": "网络工具",
     "count": 25,
     "category": "ecosystem"
-  },
-  {
-    "tag": "openwrt",
-    "count": 24,
-    "category": "router"
   },
   {
     "tag": "dns",
@@ -365,6 +365,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "anytls",
+    "count": 18,
+    "category": "security"
+  },
+  {
     "tag": "snell",
     "count": 18,
     "category": "security"
@@ -378,11 +383,6 @@
     "tag": "Xray",
     "count": 18,
     "category": "core"
-  },
-  {
-    "tag": "anytls",
-    "count": 17,
-    "category": "security"
   },
   {
     "tag": "TLS",
@@ -500,6 +500,11 @@
     "category": "core"
   },
   {
+    "tag": "luci",
+    "count": 11,
+    "category": "security"
+  },
+  {
     "tag": "v2rayn",
     "count": 11,
     "category": "security"
@@ -550,6 +555,11 @@
     "category": "client"
   },
   {
+    "tag": "ssrplus",
+    "count": 10,
+    "category": "security"
+  },
+  {
     "tag": "API",
     "count": 10,
     "category": "ecosystem"
@@ -563,11 +573,6 @@
     "tag": "Docker",
     "count": 10,
     "category": "ecosystem"
-  },
-  {
-    "tag": "luci",
-    "count": 9,
-    "category": "router"
   },
   {
     "tag": "clash-verge",
@@ -623,11 +628,6 @@
     "tag": "CBC",
     "count": 9,
     "category": "ecosystem"
-  },
-  {
-    "tag": "ssrplus",
-    "count": 8,
-    "category": "router"
   },
   {
     "tag": "amneziawg",
