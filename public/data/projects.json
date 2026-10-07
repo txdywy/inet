@@ -250,6 +250,22 @@
     ]
   },
   {
+    "slug": "helloworld",
+    "name": "helloworld",
+    "repo": "fw876/helloworld",
+    "description": "OpenWrt / 路由器固件及插件",
+    "category": "router",
+    "platforms": [
+      "openwrt",
+      "router"
+    ],
+    "tags": [
+      "ssrplus",
+      "openwrt",
+      "luci"
+    ]
+  },
+  {
     "slug": "hysteria",
     "name": "hysteria",
     "repo": "apernet/hysteria",
@@ -279,22 +295,6 @@
       "mosdns",
       "openwrt",
       "dns"
-    ]
-  },
-  {
-    "slug": "helloworld",
-    "name": "helloworld",
-    "repo": "fw876/helloworld",
-    "description": "OpenWrt / 路由器固件及插件",
-    "category": "router",
-    "platforms": [
-      "openwrt",
-      "router"
-    ],
-    "tags": [
-      "ssrplus",
-      "openwrt",
-      "luci"
     ]
   },
   {

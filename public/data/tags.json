@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 627,
-    "category": "security"
+    "count": 631,
+    "category": "router"
   },
   {
     "tag": "mihomo",
@@ -16,7 +16,7 @@
   },
   {
     "tag": "geosite",
-    "count": 239,
+    "count": 240,
     "category": "dns_rules"
   },
   {
@@ -26,7 +26,7 @@
   },
   {
     "tag": "domain-list",
-    "count": 166,
+    "count": 167,
     "category": "dns_rules"
   },
   {
@@ -41,7 +41,7 @@
   },
   {
     "tag": "xray-core",
-    "count": 118,
+    "count": 119,
     "category": "security"
   },
   {
@@ -75,18 +75,18 @@
     "category": "security"
   },
   {
+    "tag": "x-ui",
+    "count": 85,
+    "category": "client"
+  },
+  {
     "tag": "clash",
     "count": 85,
     "category": "security"
   },
   {
-    "tag": "x-ui",
-    "count": 84,
-    "category": "client"
-  },
-  {
     "tag": "panel",
-    "count": 83,
+    "count": 84,
     "category": "security"
   },
   {
@@ -245,14 +245,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "naiveproxy",
+    "count": 30,
+    "category": "router"
+  },
+  {
     "tag": "Tailscale",
     "count": 30,
     "category": "core"
-  },
-  {
-    "tag": "naiveproxy",
-    "count": 29,
-    "category": "security"
   },
   {
     "tag": "v2rayN",
@@ -265,14 +265,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "openwrt",
+    "count": 28,
+    "category": "router"
+  },
+  {
     "tag": "sudoku",
     "count": 27,
     "category": "core"
-  },
-  {
-    "tag": "openwrt",
-    "count": 26,
-    "category": "security"
   },
   {
     "tag": "v2raya",
@@ -465,6 +465,11 @@
     "category": "core"
   },
   {
+    "tag": "luci",
+    "count": 13,
+    "category": "router"
+  },
+  {
     "tag": "v2ray-agent",
     "count": 13,
     "category": "ecosystem"
@@ -485,6 +490,11 @@
     "category": "client"
   },
   {
+    "tag": "ssrplus",
+    "count": 12,
+    "category": "router"
+  },
+  {
     "tag": "grpc",
     "count": 12,
     "category": "security"
@@ -498,11 +508,6 @@
     "tag": "HTTP",
     "count": 12,
     "category": "core"
-  },
-  {
-    "tag": "luci",
-    "count": 11,
-    "category": "security"
   },
   {
     "tag": "v2rayn",
@@ -553,11 +558,6 @@
     "tag": "用户体验",
     "count": 11,
     "category": "client"
-  },
-  {
-    "tag": "ssrplus",
-    "count": 10,
-    "category": "security"
   },
   {
     "tag": "API",

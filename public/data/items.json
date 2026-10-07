@@ -1,5 +1,111 @@
 [
   {
+    "id": "b47f54f5245b229b",
+    "title": "fw876/helloworld v196.19",
+    "summary": "v196.19",
+    "rawTitle": "v196.19",
+    "rawBody": "**Full Changelog**: https://github.com/fw876/helloworld/compare/v196.18...v196.19",
+    "sourceType": "github_release",
+    "sourceName": "fw876/helloworld",
+    "sourceUrl": "https://github.com/fw876/helloworld/releases/tag/v196.19",
+    "project": "helloworld",
+    "repo": "fw876/helloworld",
+    "slug": "helloworld",
+    "version": "196.19",
+    "category": "router",
+    "tags": [
+      "ssrplus",
+      "openwrt",
+      "luci",
+      "release"
+    ],
+    "platforms": [
+      "openwrt",
+      "router"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-10-07T12:36:03Z",
+    "fetchedAt": "2026-10-07T13:32:25.470Z",
+    "firstSeenAt": "2026-10-07T13:32:31.980Z",
+    "updatedAt": "2026-10-07T13:32:31.980Z",
+    "hash": "b47f54f5245b229b"
+  },
+  {
+    "id": "4bec1f07b9febfbd",
+    "title": "fw876/helloworld v196.18",
+    "summary": "v196.18",
+    "rawTitle": "v196.18",
+    "rawBody": "# helloworld v196.18\n\nChanges since v196.16:\n\n- luci-app-ssr-plus: add optional IPv6 traffic proxy support (`afb3aaf`)\n- luci-app-ssr-plus: fix DNS forwarding in nftables GFW mode (`b791299`)\n\nPackages:\n- luci-app-ssr-plus\n- xray-core\n- mihomo\n- naiveproxy\n",
+    "sourceType": "github_release",
+    "sourceName": "fw876/helloworld",
+    "sourceUrl": "https://github.com/fw876/helloworld/releases/tag/v196.18",
+    "project": "helloworld",
+    "repo": "fw876/helloworld",
+    "slug": "helloworld",
+    "version": "196.18",
+    "category": "router",
+    "tags": [
+      "ssrplus",
+      "openwrt",
+      "luci",
+      "naiveproxy",
+      "release"
+    ],
+    "platforms": [
+      "openwrt",
+      "router"
+    ],
+    "importance": 2,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2026-10-07T07:35:02Z",
+    "fetchedAt": "2026-10-07T13:32:25.470Z",
+    "firstSeenAt": "2026-10-07T13:32:32.789Z",
+    "updatedAt": "2026-10-07T13:32:32.789Z",
+    "hash": "4bec1f07b9febfbd"
+  },
+  {
+    "id": "38b9cd7361935397",
+    "title": "v2fly/domain-list-community 20261007072548",
+    "summary": "20261007072548",
+    "rawTitle": "20261007072548",
+    "rawBody": "## What's Changed\n* Update mega.nz by @F50Ci37Y in https://github.com/v2fly/domain-list-community/pull/3776\n\n\n**Full Changelog**: https://github.com/v2fly/domain-list-community/compare/20261004053124...20261007072548",
+    "sourceType": "github_release",
+    "sourceName": "v2fly/domain-list-community",
+    "sourceUrl": "https://github.com/v2fly/domain-list-community/releases/tag/20261007072548",
+    "project": "domain-list-community",
+    "repo": "v2fly/domain-list-community",
+    "slug": "domain-list-community",
+    "version": "20261007072548",
+    "category": "dns_rules",
+    "tags": [
+      "geosite",
+      "domain-list",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 2,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-10-07T07:25:57Z",
+    "fetchedAt": "2026-10-07T13:32:31.137Z",
+    "firstSeenAt": "2026-10-07T13:32:34.405Z",
+    "updatedAt": "2026-10-07T13:32:34.405Z",
+    "hash": "38b9cd7361935397"
+  },
+  {
     "id": "ca0c875ed68b4804",
     "title": "klzgrad/naiveproxy v154.0.8037.49-4",
     "summary": "v154.0.8037.49-4",
@@ -28158,6 +28264,40 @@
     "firstSeenAt": "2026-06-25T04:36:16.426Z",
     "updatedAt": "2026-06-25T04:36:16.426Z",
     "hash": "e54a070ca4e6a5bf"
+  },
+  {
+    "id": "55d799530bb2215f",
+    "title": "MHSanaei/3x-ui Dev build 257559c3",
+    "summary": "Dev build 257559c3",
+    "rawTitle": "Dev build 257559c3",
+    "rawBody": "Rolling development build — installs via the panel's Dev update channel.\n\ncommit=257559c38985a0d569ada02e35a9cfd748394f7e\nbuilt=2026-10-07T12:59:09Z\n\nAutomated per-commit build from main. Not a stable release.",
+    "sourceType": "github_release",
+    "sourceName": "MHSanaei/3x-ui",
+    "sourceUrl": "https://github.com/MHSanaei/3x-ui/releases/tag/dev-latest",
+    "project": "3x-ui",
+    "repo": "MHSanaei/3x-ui",
+    "slug": "3x-ui",
+    "version": "dev-latest",
+    "category": "ecosystem",
+    "tags": [
+      "x-ui",
+      "panel",
+      "xray-core",
+      "release"
+    ],
+    "platforms": [
+      "linux"
+    ],
+    "importance": 4,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2026-06-24T16:17:06Z",
+    "fetchedAt": "2026-10-07T13:32:28.420Z",
+    "firstSeenAt": "2026-10-07T13:32:33.595Z",
+    "updatedAt": "2026-10-07T13:32:33.595Z",
+    "hash": "55d799530bb2215f"
   },
   {
     "id": "c14a1d7dc5693bb8",
