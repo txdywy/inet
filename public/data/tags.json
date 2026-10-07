@@ -1,7 +1,7 @@
 [
   {
     "tag": "release",
-    "count": 631,
+    "count": 632,
     "category": "router"
   },
   {
@@ -246,13 +246,18 @@
   },
   {
     "tag": "naiveproxy",
-    "count": 30,
+    "count": 31,
     "category": "router"
   },
   {
     "tag": "Tailscale",
     "count": 30,
     "category": "core"
+  },
+  {
+    "tag": "openwrt",
+    "count": 29,
+    "category": "router"
   },
   {
     "tag": "v2rayN",
@@ -263,11 +268,6 @@
     "tag": "自动化构建",
     "count": 29,
     "category": "ecosystem"
-  },
-  {
-    "tag": "openwrt",
-    "count": 28,
-    "category": "router"
   },
   {
     "tag": "sudoku",
@@ -445,6 +445,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "luci",
+    "count": 14,
+    "category": "router"
+  },
+  {
     "tag": "tunnel",
     "count": 14,
     "category": "core"
@@ -465,7 +470,7 @@
     "category": "core"
   },
   {
-    "tag": "luci",
+    "tag": "ssrplus",
     "count": 13,
     "category": "router"
   },
@@ -488,11 +493,6 @@
     "tag": "SOCKS",
     "count": 13,
     "category": "client"
-  },
-  {
-    "tag": "ssrplus",
-    "count": 12,
-    "category": "router"
   },
   {
     "tag": "grpc",

@@ -1,5 +1,41 @@
 [
   {
+    "id": "25465c5b1942ca15",
+    "title": "fw876/helloworld v196.19",
+    "summary": "v196.19",
+    "rawTitle": "v196.19",
+    "rawBody": "# helloworld v196.19\n\nChanges since v196.18:\n\n- luci-app-ssr-plus: fix legacy SS subscription parsing with Xray (`16617be`)\n- xray-core: restore legacy VMess alterId outbound support (`baf2040`)\n\nPackages:\n- luci-app-ssr-plus\n- xray-core\n- mihomo\n- naiveproxy\n",
+    "sourceType": "github_release",
+    "sourceName": "fw876/helloworld",
+    "sourceUrl": "https://github.com/fw876/helloworld/releases/tag/v196.19",
+    "project": "helloworld",
+    "repo": "fw876/helloworld",
+    "slug": "helloworld",
+    "version": "196.19",
+    "category": "router",
+    "tags": [
+      "ssrplus",
+      "openwrt",
+      "luci",
+      "naiveproxy",
+      "release"
+    ],
+    "platforms": [
+      "openwrt",
+      "router"
+    ],
+    "importance": 2,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2026-10-07T12:36:03Z",
+    "fetchedAt": "2026-10-07T18:58:11.830Z",
+    "firstSeenAt": "2026-10-07T18:58:18.610Z",
+    "updatedAt": "2026-10-07T18:58:18.610Z",
+    "hash": "25465c5b1942ca15"
+  },
+  {
     "id": "b47f54f5245b229b",
     "title": "fw876/helloworld v196.19",
     "summary": "v196.19",
