@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 632,
-    "category": "router"
+    "count": 634,
+    "category": "ecosystem"
   },
   {
     "tag": "mihomo",
@@ -16,7 +16,7 @@
   },
   {
     "tag": "geosite",
-    "count": 240,
+    "count": 241,
     "category": "dns_rules"
   },
   {
@@ -31,12 +31,12 @@
   },
   {
     "tag": "ruleset",
-    "count": 141,
+    "count": 142,
     "category": "dns_rules"
   },
   {
     "tag": "geoip",
-    "count": 141,
+    "count": 142,
     "category": "dns_rules"
   },
   {
@@ -185,14 +185,14 @@
     "category": "core"
   },
   {
-    "tag": "dat",
+    "tag": "wireguard",
     "count": 43,
     "category": "ecosystem"
   },
   {
-    "tag": "wireguard",
-    "count": 42,
-    "category": "security"
+    "tag": "dat",
+    "count": 43,
+    "category": "ecosystem"
   },
   {
     "tag": "代理工具",
@@ -685,6 +685,11 @@
     "category": "core"
   },
   {
+    "tag": "tailscale",
+    "count": 7,
+    "category": "ecosystem"
+  },
+  {
     "tag": "xtls",
     "count": 7,
     "category": "security"
@@ -730,7 +735,7 @@
     "category": "ecosystem"
   },
   {
-    "tag": "tailscale",
+    "tag": "mesh",
     "count": 6,
     "category": "ecosystem"
   },
@@ -792,11 +797,6 @@
   {
     "tag": "openvpn",
     "count": 6,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "mesh",
-    "count": 5,
     "category": "ecosystem"
   },
   {
