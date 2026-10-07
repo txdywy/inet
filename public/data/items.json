@@ -1,5 +1,78 @@
 [
   {
+    "id": "ca0c875ed68b4804",
+    "title": "klzgrad/naiveproxy v154.0.8037.49-4",
+    "summary": "v154.0.8037.49-4",
+    "rawTitle": "v154.0.8037.49-4",
+    "rawBody": "Improved QUIC throughput to near TLS performance with higher receive window and BBR congestion control. Users are recommended to update Caddy server to [v2.11.7-naive](https://github.com/klzgrad/forwardproxy/releases/tag/v2.11.7-naive).\r\n\r\nSoftened old tunnel cleanup that breaks long-lived user connections. Now in old tunnels, long-lived connections are only closed after 1/10 idle timeout.",
+    "sourceType": "github_release",
+    "sourceName": "klzgrad/naiveproxy",
+    "sourceUrl": "https://github.com/klzgrad/naiveproxy/releases/tag/v154.0.8037.49-4",
+    "project": "naiveproxy",
+    "repo": "klzgrad/naiveproxy",
+    "slug": "naiveproxy",
+    "version": "154.0.8037.49-4",
+    "category": "security",
+    "tags": [
+      "naiveproxy",
+      "quic",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos",
+      "android"
+    ],
+    "importance": 5,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": true,
+    "isProtocolRelated": true,
+    "publishedAt": "2026-10-07T05:04:03Z",
+    "fetchedAt": "2026-10-07T06:06:11.159Z",
+    "firstSeenAt": "2026-10-07T06:06:21.913Z",
+    "updatedAt": "2026-10-07T06:06:21.913Z",
+    "hash": "ca0c875ed68b4804"
+  },
+  {
+    "id": "5ca70eb8e4d610af",
+    "title": "MetaCubeX/meta-rules-dat Release 2026-10-07 09:41",
+    "summary": "Release 2026-10-07 09:41",
+    "rawTitle": "Release 2026-10-07 09:41",
+    "rawBody": "",
+    "sourceType": "github_release",
+    "sourceName": "MetaCubeX/meta-rules-dat",
+    "sourceUrl": "https://github.com/MetaCubeX/meta-rules-dat/releases/tag/latest",
+    "project": "meta-rules-dat",
+    "repo": "MetaCubeX/meta-rules-dat",
+    "slug": "meta-rules-dat",
+    "version": "latest",
+    "category": "dns_rules",
+    "tags": [
+      "ruleset",
+      "geosite",
+      "geoip",
+      "mihomo",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-10-07T01:44:09Z",
+    "fetchedAt": "2026-10-07T06:06:19.967Z",
+    "firstSeenAt": "2026-10-07T06:06:22.724Z",
+    "updatedAt": "2026-10-07T06:06:22.724Z",
+    "hash": "5ca70eb8e4d610af"
+  },
+  {
     "id": "e5460b92d3c4efd1",
     "title": "Loyalsoldier/v2ray-rules-dat Released on 202610062207",
     "summary": "Released on 202610062207",

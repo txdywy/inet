@@ -1,12 +1,12 @@
 [
   {
     "tag": "release",
-    "count": 625,
-    "category": "dns_rules"
+    "count": 627,
+    "category": "security"
   },
   {
     "tag": "mihomo",
-    "count": 322,
+    "count": 323,
     "category": "dns_rules"
   },
   {
@@ -16,7 +16,7 @@
   },
   {
     "tag": "geosite",
-    "count": 238,
+    "count": 239,
     "category": "dns_rules"
   },
   {
@@ -31,12 +31,12 @@
   },
   {
     "tag": "ruleset",
-    "count": 140,
+    "count": 141,
     "category": "dns_rules"
   },
   {
     "tag": "geoip",
-    "count": 140,
+    "count": 141,
     "category": "dns_rules"
   },
   {
@@ -130,14 +130,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "quic",
+    "count": 59,
+    "category": "security"
+  },
+  {
     "tag": "开发版本",
     "count": 59,
     "category": "ecosystem"
-  },
-  {
-    "tag": "quic",
-    "count": 58,
-    "category": "security"
   },
   {
     "tag": "hysteria2",
@@ -250,6 +250,11 @@
     "category": "core"
   },
   {
+    "tag": "naiveproxy",
+    "count": 29,
+    "category": "security"
+  },
+  {
     "tag": "v2rayN",
     "count": 29,
     "category": "security"
@@ -258,11 +263,6 @@
     "tag": "自动化构建",
     "count": 29,
     "category": "ecosystem"
-  },
-  {
-    "tag": "naiveproxy",
-    "count": 28,
-    "category": "security"
   },
   {
     "tag": "sudoku",
