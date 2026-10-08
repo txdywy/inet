@@ -1,5 +1,110 @@
 [
   {
+    "id": "f607464fcc4e6552",
+    "title": "v2fly/domain-list-community 20261008093058",
+    "summary": "20261008093058",
+    "rawTitle": "20261008093058",
+    "rawBody": "## What's Changed\n* Change `@ads` to `@telemetry` on telemetry domains by @database64128 in https://github.com/v2fly/domain-list-community/pull/4129\n\n\n**Full Changelog**: https://github.com/v2fly/domain-list-community/compare/20261008092349...20261008093058",
+    "sourceType": "github_release",
+    "sourceName": "v2fly/domain-list-community",
+    "sourceUrl": "https://github.com/v2fly/domain-list-community/releases/tag/20261008093058",
+    "project": "domain-list-community",
+    "repo": "v2fly/domain-list-community",
+    "slug": "domain-list-community",
+    "version": "20261008093058",
+    "category": "dns_rules",
+    "tags": [
+      "geosite",
+      "domain-list",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-10-08T09:31:04Z",
+    "fetchedAt": "2026-10-08T13:38:16.362Z",
+    "firstSeenAt": "2026-10-08T13:38:17.957Z",
+    "updatedAt": "2026-10-08T13:38:17.957Z",
+    "hash": "f607464fcc4e6552"
+  },
+  {
+    "id": "7a0318470c6156f0",
+    "title": "v2fly/domain-list-community 20261008092349",
+    "summary": "20261008092349",
+    "rawTitle": "20261008092349",
+    "rawBody": "## What's Changed\n* Remove graph.whatsapp.com and graph.whatsapp.net by @database64128 in https://github.com/v2fly/domain-list-community/pull/4130\n\n\n**Full Changelog**: https://github.com/v2fly/domain-list-community/compare/20261008092148...20261008092349",
+    "sourceType": "github_release",
+    "sourceName": "v2fly/domain-list-community",
+    "sourceUrl": "https://github.com/v2fly/domain-list-community/releases/tag/20261008092349",
+    "project": "domain-list-community",
+    "repo": "v2fly/domain-list-community",
+    "slug": "domain-list-community",
+    "version": "20261008092349",
+    "category": "dns_rules",
+    "tags": [
+      "geosite",
+      "domain-list",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 5,
+    "confidence": 0.7999999999999999,
+    "isBreaking": true,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-10-08T09:23:58Z",
+    "fetchedAt": "2026-10-08T13:38:16.362Z",
+    "firstSeenAt": "2026-10-08T13:38:18.765Z",
+    "updatedAt": "2026-10-08T13:38:18.765Z",
+    "hash": "7a0318470c6156f0"
+  },
+  {
+    "id": "61db84481e2e1e0a",
+    "title": "v2fly/domain-list-community 20261008092148",
+    "summary": "20261008092148",
+    "rawTitle": "20261008092148",
+    "rawBody": "## What's Changed\n* category-speedtest: add wifiman.me by @Aethersailor in https://github.com/v2fly/domain-list-community/pull/4089\n\n\n**Full Changelog**: https://github.com/v2fly/domain-list-community/compare/20261007072548...20261008092148",
+    "sourceType": "github_release",
+    "sourceName": "v2fly/domain-list-community",
+    "sourceUrl": "https://github.com/v2fly/domain-list-community/releases/tag/20261008092148",
+    "project": "domain-list-community",
+    "repo": "v2fly/domain-list-community",
+    "slug": "domain-list-community",
+    "version": "20261008092148",
+    "category": "dns_rules",
+    "tags": [
+      "geosite",
+      "domain-list",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 2,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-10-08T09:21:57Z",
+    "fetchedAt": "2026-10-08T13:38:16.362Z",
+    "firstSeenAt": "2026-10-08T13:38:19.580Z",
+    "updatedAt": "2026-10-08T13:38:19.580Z",
+    "hash": "61db84481e2e1e0a"
+  },
+  {
     "id": "db1dbf09a48f6c74",
     "title": "MetaCubeX/meta-rules-dat Release 2026-10-08 10:09",
     "summary": "Release 2026-10-08 10:09",
@@ -54439,6 +54544,42 @@
     "firstSeenAt": "2026-05-07T04:09:04.362Z",
     "updatedAt": "2026-05-07T04:09:04.362Z",
     "hash": "5e6adb84fbb7f312"
+  },
+  {
+    "id": "a418916ffacc9878",
+    "title": "MetaCubeX/mihomo Prerelease-Alpha",
+    "summary": "Prerelease-Alpha",
+    "rawTitle": "Prerelease-Alpha",
+    "rawBody": "Release created at  Thu Oct  8 16:35:27 CST 2026\nSynchronize Alpha branch code updates, keeping only the latest version\n<br>\n[我应该下载哪个文件? / Which file should I download?](https://github.com/MetaCubeX/mihomo/wiki/FAQ)\n[二进制文件筛选 / Binary file selector](https://metacubex.github.io/Meta-Docs/startup/#_1)\n[查看文档 / Docs](https://metacubex.github.io/Meta-Docs/)\n\n\n## What's Changed\n* fix: bound doh dials so ones the query gave up on cannot pile up by @Cassian433 in https://github.com/MetaCubeX/mihomo/pull/3274\n* fix: keep fake-ip allocation state when cloning the pool on reload by @drakeo338 in https://github.com/MetaCubeX/mihomo/pull/3283\n\n## New Contributors\n* @Cassian433 made their first contribution in https://github.com/MetaCubeX/mihomo/pull/3274\n* @drakeo338 made their first contribution in https://github.com/MetaCubeX/mihomo/pull/3283\n\n**Full Changelog**: https://github.com/MetaCubeX/mihomo/compare/v1.19.32...Prerelease-Alpha",
+    "sourceType": "github_release",
+    "sourceName": "MetaCubeX/mihomo",
+    "sourceUrl": "https://github.com/MetaCubeX/mihomo/releases/tag/Prerelease-Alpha",
+    "project": "mihomo",
+    "repo": "MetaCubeX/mihomo",
+    "slug": "mihomo",
+    "version": "Prerelease-Alpha",
+    "category": "core",
+    "tags": [
+      "mihomo",
+      "clash",
+      "meta",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 2,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2024-08-12T17:01:02Z",
+    "fetchedAt": "2026-10-08T13:38:02.929Z",
+    "firstSeenAt": "2026-10-08T13:38:17.137Z",
+    "updatedAt": "2026-10-08T13:38:17.137Z",
+    "hash": "a418916ffacc9878"
   },
   {
     "id": "64c52ba40b1d29fd",
