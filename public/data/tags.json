@@ -1,7 +1,7 @@
 [
   {
     "tag": "release",
-    "count": 639,
+    "count": 641,
     "category": "dns_rules"
   },
   {
@@ -16,7 +16,7 @@
   },
   {
     "tag": "geosite",
-    "count": 245,
+    "count": 246,
     "category": "dns_rules"
   },
   {
@@ -31,17 +31,17 @@
   },
   {
     "tag": "ruleset",
-    "count": 143,
+    "count": 144,
     "category": "dns_rules"
   },
   {
     "tag": "geoip",
-    "count": 143,
+    "count": 144,
     "category": "dns_rules"
   },
   {
     "tag": "xray-core",
-    "count": 119,
+    "count": 120,
     "category": "security"
   },
   {
@@ -65,6 +65,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "x-ui",
+    "count": 86,
+    "category": "client"
+  },
+  {
     "tag": "clash",
     "count": 86,
     "category": "security"
@@ -80,13 +85,8 @@
     "category": "security"
   },
   {
-    "tag": "x-ui",
-    "count": 85,
-    "category": "client"
-  },
-  {
     "tag": "panel",
-    "count": 84,
+    "count": 85,
     "category": "security"
   },
   {

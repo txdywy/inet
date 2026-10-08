@@ -48,6 +48,23 @@
     ]
   },
   {
+    "slug": "v2ray-rules-dat",
+    "name": "v2ray-rules-dat",
+    "repo": "Loyalsoldier/v2ray-rules-dat",
+    "description": "DNS 解析、规则集、分流策略",
+    "category": "dns_rules",
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "tags": [
+      "ruleset",
+      "geosite",
+      "geoip"
+    ]
+  },
+  {
     "slug": "sub-store",
     "name": "Sub-Store",
     "repo": "sub-store-org/Sub-Store",
@@ -63,23 +80,6 @@
     "tags": [
       "sub-store",
       "subscription"
-    ]
-  },
-  {
-    "slug": "v2ray-rules-dat",
-    "name": "v2ray-rules-dat",
-    "repo": "Loyalsoldier/v2ray-rules-dat",
-    "description": "DNS 解析、规则集、分流策略",
-    "category": "dns_rules",
-    "platforms": [
-      "linux",
-      "windows",
-      "macos"
-    ],
-    "tags": [
-      "ruleset",
-      "geosite",
-      "geoip"
     ]
   },
   {

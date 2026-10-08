@@ -1,15 +1,15 @@
 {
-  "totalItems": 1826,
-  "last24h": 6,
+  "totalItems": 1828,
+  "last24h": 5,
   "last7d": 41,
   "byCategory": {
     "core": 296,
     "client": 293,
     "router": 27,
     "protocol": 57,
-    "dns_rules": 269,
+    "dns_rules": 270,
     "security": 100,
-    "ecosystem": 784,
+    "ecosystem": 785,
     "trend": 0
   },
   "topProjects": [
@@ -23,11 +23,11 @@
     },
     {
       "project": "3x-ui",
-      "count": 167
+      "count": 168
     },
     {
       "project": "v2ray-rules-dat",
-      "count": 164
+      "count": 165
     },
     {
       "project": "Sub-Store",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "release",
-      "count": 639
+      "count": 641
     },
     {
       "tag": "mihomo",
@@ -69,7 +69,7 @@
     },
     {
       "tag": "geosite",
-      "count": 245
+      "count": 246
     },
     {
       "tag": "v2fly",
@@ -81,15 +81,15 @@
     },
     {
       "tag": "ruleset",
-      "count": 143
+      "count": 144
     },
     {
       "tag": "geoip",
-      "count": 143
+      "count": 144
     },
     {
       "tag": "xray-core",
-      "count": 119
+      "count": 120
     },
     {
       "tag": "Sub-Store",
@@ -108,6 +108,10 @@
       "count": 88
     },
     {
+      "tag": "x-ui",
+      "count": 86
+    },
+    {
       "tag": "clash",
       "count": 86
     },
@@ -120,12 +124,8 @@
       "count": 85
     },
     {
-      "tag": "x-ui",
-      "count": 85
-    },
-    {
       "tag": "panel",
-      "count": 84
+      "count": 85
     },
     {
       "tag": "3x-ui",
@@ -136,8 +136,8 @@
       "count": 82
     }
   ],
-  "importantCount": 750,
+  "importantCount": 752,
   "breakingCount": 102,
   "securityCount": 154,
-  "updatedAt": "2026-10-08T18:52:51.821Z"
+  "updatedAt": "2026-10-08T23:18:12.466Z"
 }
