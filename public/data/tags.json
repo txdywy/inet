@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 645,
-    "category": "core"
+    "count": 650,
+    "category": "client"
   },
   {
     "tag": "mihomo",
@@ -16,7 +16,7 @@
   },
   {
     "tag": "geosite",
-    "count": 247,
+    "count": 251,
     "category": "dns_rules"
   },
   {
@@ -26,7 +26,7 @@
   },
   {
     "tag": "domain-list",
-    "count": 170,
+    "count": 174,
     "category": "dns_rules"
   },
   {
@@ -270,24 +270,24 @@
     "category": "ecosystem"
   },
   {
-    "tag": "sudoku",
-    "count": 27,
-    "category": "core"
-  },
-  {
     "tag": "v2raya",
-    "count": 26,
+    "count": 27,
     "category": "client"
   },
   {
     "tag": "web",
-    "count": 26,
+    "count": 27,
     "category": "client"
   },
   {
     "tag": "transparent-proxy",
-    "count": 26,
+    "count": 27,
     "category": "client"
+  },
+  {
+    "tag": "sudoku",
+    "count": 27,
+    "category": "core"
   },
   {
     "tag": "DNS",
