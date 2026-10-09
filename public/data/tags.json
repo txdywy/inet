@@ -1,13 +1,13 @@
 [
   {
     "tag": "release",
-    "count": 641,
-    "category": "dns_rules"
+    "count": 645,
+    "category": "core"
   },
   {
     "tag": "mihomo",
-    "count": 325,
-    "category": "dns_rules"
+    "count": 327,
+    "category": "client"
   },
   {
     "tag": "MetaCubeX",
@@ -16,7 +16,7 @@
   },
   {
     "tag": "geosite",
-    "count": 246,
+    "count": 247,
     "category": "dns_rules"
   },
   {
@@ -31,12 +31,12 @@
   },
   {
     "tag": "ruleset",
-    "count": 144,
+    "count": 145,
     "category": "dns_rules"
   },
   {
     "tag": "geoip",
-    "count": 144,
+    "count": 145,
     "category": "dns_rules"
   },
   {
@@ -65,6 +65,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "sing-box",
+    "count": 87,
+    "category": "core"
+  },
+  {
     "tag": "x-ui",
     "count": 86,
     "category": "client"
@@ -78,11 +83,6 @@
     "tag": "Loyalsoldier",
     "count": 86,
     "category": "ecosystem"
-  },
-  {
-    "tag": "sing-box",
-    "count": 85,
-    "category": "security"
   },
   {
     "tag": "panel",
@@ -105,6 +105,11 @@
     "category": "protocol"
   },
   {
+    "tag": "vless",
+    "count": 72,
+    "category": "core"
+  },
+  {
     "tag": "meta",
     "count": 72,
     "category": "security"
@@ -118,11 +123,6 @@
     "tag": "网络代理",
     "count": 71,
     "category": "ecosystem"
-  },
-  {
-    "tag": "vless",
-    "count": 70,
-    "category": "security"
   },
   {
     "tag": "rules",
@@ -141,8 +141,8 @@
   },
   {
     "tag": "hysteria2",
-    "count": 56,
-    "category": "security"
+    "count": 58,
+    "category": "core"
   },
   {
     "tag": "ech",
@@ -153,6 +153,11 @@
     "tag": "Android",
     "count": 51,
     "category": "client"
+  },
+  {
+    "tag": "tuic",
+    "count": 47,
+    "category": "core"
   },
   {
     "tag": "sub-store",
@@ -173,11 +178,6 @@
     "tag": "代理",
     "count": 46,
     "category": "ecosystem"
-  },
-  {
-    "tag": "tuic",
-    "count": 45,
-    "category": "security"
   },
   {
     "tag": "网络协议",
@@ -470,6 +470,11 @@
     "category": "core"
   },
   {
+    "tag": "desktop",
+    "count": 13,
+    "category": "client"
+  },
+  {
     "tag": "ssrplus",
     "count": 13,
     "category": "router"
@@ -498,11 +503,6 @@
     "tag": "grpc",
     "count": 12,
     "category": "security"
-  },
-  {
-    "tag": "desktop",
-    "count": 12,
-    "category": "client"
   },
   {
     "tag": "HTTP",
@@ -560,6 +560,11 @@
     "category": "client"
   },
   {
+    "tag": "clash-verge",
+    "count": 10,
+    "category": "client"
+  },
+  {
     "tag": "API",
     "count": 10,
     "category": "ecosystem"
@@ -573,11 +578,6 @@
     "tag": "Docker",
     "count": 10,
     "category": "ecosystem"
-  },
-  {
-    "tag": "clash-verge",
-    "count": 9,
-    "category": "client"
   },
   {
     "tag": "mihomo-party",
