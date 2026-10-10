@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 652,
-    "category": "dns_rules"
+    "count": 654,
+    "category": "security"
   },
   {
     "tag": "mihomo",
@@ -41,7 +41,7 @@
   },
   {
     "tag": "xray-core",
-    "count": 120,
+    "count": 122,
     "category": "security"
   },
   {
@@ -106,18 +106,18 @@
   },
   {
     "tag": "vless",
-    "count": 72,
-    "category": "core"
+    "count": 74,
+    "category": "security"
+  },
+  {
+    "tag": "xhttp",
+    "count": 73,
+    "category": "security"
   },
   {
     "tag": "meta",
     "count": 72,
     "category": "security"
-  },
-  {
-    "tag": "xhttp",
-    "count": 71,
-    "category": "client"
   },
   {
     "tag": "网络代理",
@@ -331,7 +331,7 @@
   },
   {
     "tag": "reality",
-    "count": 20,
+    "count": 21,
     "category": "security"
   },
   {
@@ -580,6 +580,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "xtls",
+    "count": 9,
+    "category": "security"
+  },
+  {
     "tag": "mihomo-party",
     "count": 9,
     "category": "client"
@@ -688,11 +693,6 @@
     "tag": "tailscale",
     "count": 7,
     "category": "ecosystem"
-  },
-  {
-    "tag": "xtls",
-    "count": 7,
-    "category": "security"
   },
   {
     "tag": "rust",

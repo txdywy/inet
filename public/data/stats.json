@@ -1,6 +1,6 @@
 {
-  "totalItems": 1839,
-  "last24h": 7,
+  "totalItems": 1841,
+  "last24h": 3,
   "last7d": 45,
   "byCategory": {
     "core": 298,
@@ -8,7 +8,7 @@
     "router": 27,
     "protocol": 57,
     "dns_rules": 277,
-    "security": 100,
+    "security": 102,
     "ecosystem": 785,
     "trend": 0
   },
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "release",
-      "count": 652
+      "count": 654
     },
     {
       "tag": "mihomo",
@@ -89,7 +89,7 @@
     },
     {
       "tag": "xray-core",
-      "count": 120
+      "count": 122
     },
     {
       "tag": "Sub-Store",
@@ -136,8 +136,8 @@
       "count": 82
     }
   ],
-  "importantCount": 763,
+  "importantCount": 764,
   "breakingCount": 102,
-  "securityCount": 154,
-  "updatedAt": "2026-10-10T05:58:34.709Z"
+  "securityCount": 156,
+  "updatedAt": "2026-10-10T12:39:39.612Z"
 }
