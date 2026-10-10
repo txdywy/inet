@@ -1,5 +1,42 @@
 [
   {
+    "id": "48d93c252768d063",
+    "title": "MetaCubeX/meta-rules-dat Release 2026-10-10 09:50",
+    "summary": "Release 2026-10-10 09:50",
+    "rawTitle": "Release 2026-10-10 09:50",
+    "rawBody": "",
+    "sourceType": "github_release",
+    "sourceName": "MetaCubeX/meta-rules-dat",
+    "sourceUrl": "https://github.com/MetaCubeX/meta-rules-dat/releases/tag/latest",
+    "project": "meta-rules-dat",
+    "repo": "MetaCubeX/meta-rules-dat",
+    "slug": "meta-rules-dat",
+    "version": "latest",
+    "category": "dns_rules",
+    "tags": [
+      "ruleset",
+      "geosite",
+      "geoip",
+      "mihomo",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-10-10T01:52:27Z",
+    "fetchedAt": "2026-10-10T05:58:32.280Z",
+    "firstSeenAt": "2026-10-10T05:58:34.242Z",
+    "updatedAt": "2026-10-10T05:58:34.242Z",
+    "hash": "48d93c252768d063"
+  },
+  {
     "id": "f09204459d5f6c92",
     "title": "Loyalsoldier/v2ray-rules-dat Released on 202610092207",
     "summary": "Released on 202610092207",
