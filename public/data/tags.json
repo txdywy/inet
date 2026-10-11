@@ -1,7 +1,7 @@
 [
   {
     "tag": "release",
-    "count": 663,
+    "count": 664,
     "category": "security"
   },
   {
@@ -41,7 +41,7 @@
   },
   {
     "tag": "xray-core",
-    "count": 126,
+    "count": 127,
     "category": "security"
   },
   {
@@ -60,6 +60,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "x-ui",
+    "count": 89,
+    "category": "client"
+  },
+  {
     "tag": "sing-box",
     "count": 88,
     "category": "core"
@@ -70,19 +75,14 @@
     "category": "client"
   },
   {
-    "tag": "x-ui",
+    "tag": "panel",
     "count": 88,
-    "category": "client"
+    "category": "security"
   },
   {
     "tag": "meta-rules-dat",
     "count": 88,
     "category": "ecosystem"
-  },
-  {
-    "tag": "panel",
-    "count": 87,
-    "category": "security"
   },
   {
     "tag": "Loyalsoldier",

@@ -1,5 +1,5 @@
 {
-  "totalItems": 1850,
+  "totalItems": 1851,
   "last24h": 6,
   "last7d": 44,
   "byCategory": {
@@ -9,7 +9,7 @@
     "protocol": 57,
     "dns_rules": 279,
     "security": 104,
-    "ecosystem": 787,
+    "ecosystem": 788,
     "trend": 0
   },
   "topProjects": [
@@ -23,7 +23,7 @@
     },
     {
       "project": "3x-ui",
-      "count": 170
+      "count": 171
     },
     {
       "project": "v2ray-rules-dat",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "release",
-      "count": 663
+      "count": 664
     },
     {
       "tag": "mihomo",
@@ -89,7 +89,7 @@
     },
     {
       "tag": "xray-core",
-      "count": 126
+      "count": 127
     },
     {
       "tag": "Sub-Store",
@@ -104,6 +104,10 @@
       "count": 100
     },
     {
+      "tag": "x-ui",
+      "count": 89
+    },
+    {
       "tag": "sing-box",
       "count": 88
     },
@@ -112,16 +116,12 @@
       "count": 88
     },
     {
-      "tag": "x-ui",
+      "tag": "panel",
       "count": 88
     },
     {
       "tag": "meta-rules-dat",
       "count": 88
-    },
-    {
-      "tag": "panel",
-      "count": 87
     },
     {
       "tag": "Loyalsoldier",
@@ -136,8 +136,8 @@
       "count": 82
     }
   ],
-  "importantCount": 771,
+  "importantCount": 772,
   "breakingCount": 102,
   "securityCount": 158,
-  "updatedAt": "2026-10-11T12:59:32.239Z"
+  "updatedAt": "2026-10-11T17:42:18.238Z"
 }
