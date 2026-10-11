@@ -1,5 +1,112 @@
 [
   {
+    "id": "013b2cb17c9238e9",
+    "title": "MetaCubeX/ClashMetaForAndroid Prerelease-alpha",
+    "summary": "Prerelease-alpha",
+    "rawTitle": "Prerelease-alpha",
+    "rawBody": "## What's Changed\n* Add QR code sharing for URL profiles by @jiangyuyi in https://github.com/MetaCubeX/ClashMetaForAndroid/pull/850\n\n## New Contributors\n* @jiangyuyi made their first contribution in https://github.com/MetaCubeX/ClashMetaForAndroid/pull/850\n\n**Full Changelog**: https://github.com/MetaCubeX/ClashMetaForAndroid/compare/v2.11.35...Prerelease-alpha",
+    "sourceType": "github_release",
+    "sourceName": "MetaCubeX/ClashMetaForAndroid",
+    "sourceUrl": "https://github.com/MetaCubeX/ClashMetaForAndroid/releases/tag/Prerelease-alpha",
+    "project": "ClashMetaForAndroid",
+    "repo": "MetaCubeX/ClashMetaForAndroid",
+    "slug": "clashmetaforandroid",
+    "version": "Prerelease-alpha",
+    "category": "client",
+    "tags": [
+      "clash",
+      "android",
+      "mihomo",
+      "release"
+    ],
+    "platforms": [
+      "android"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-10-11T05:29:38Z",
+    "fetchedAt": "2026-10-11T05:53:44.501Z",
+    "firstSeenAt": "2026-10-11T05:53:54.275Z",
+    "updatedAt": "2026-10-11T05:53:54.275Z",
+    "hash": "013b2cb17c9238e9"
+  },
+  {
+    "id": "9a3f88663356b6a0",
+    "title": "MetaCubeX/meta-rules-dat Release 2026-10-11 09:07",
+    "summary": "Release 2026-10-11 09:07",
+    "rawTitle": "Release 2026-10-11 09:07",
+    "rawBody": "",
+    "sourceType": "github_release",
+    "sourceName": "MetaCubeX/meta-rules-dat",
+    "sourceUrl": "https://github.com/MetaCubeX/meta-rules-dat/releases/tag/latest",
+    "project": "meta-rules-dat",
+    "repo": "MetaCubeX/meta-rules-dat",
+    "slug": "meta-rules-dat",
+    "version": "latest",
+    "category": "dns_rules",
+    "tags": [
+      "ruleset",
+      "geosite",
+      "geoip",
+      "mihomo",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-10-11T01:10:02Z",
+    "fetchedAt": "2026-10-11T05:53:51.630Z",
+    "firstSeenAt": "2026-10-11T05:53:56.762Z",
+    "updatedAt": "2026-10-11T05:53:56.762Z",
+    "hash": "9a3f88663356b6a0"
+  },
+  {
+    "id": "4c4821d546c2cc12",
+    "title": "Loyalsoldier/v2ray-rules-dat Released on 202610102207",
+    "summary": "Released on 202610102207",
+    "rawTitle": "Released on 202610102207",
+    "rawBody": "",
+    "sourceType": "github_release",
+    "sourceName": "Loyalsoldier/v2ray-rules-dat",
+    "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/tag/202610102207",
+    "project": "v2ray-rules-dat",
+    "repo": "Loyalsoldier/v2ray-rules-dat",
+    "slug": "v2ray-rules-dat",
+    "version": "202610102207",
+    "category": "dns_rules",
+    "tags": [
+      "ruleset",
+      "geosite",
+      "geoip",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-10-10T22:08:22Z",
+    "fetchedAt": "2026-10-11T05:53:51.622Z",
+    "firstSeenAt": "2026-10-11T05:53:55.937Z",
+    "updatedAt": "2026-10-11T05:53:55.937Z",
+    "hash": "4c4821d546c2cc12"
+  },
+  {
     "id": "1d1e82b2aa27ce9e",
     "title": "XTLS/Xray-core Xray-core v26.10.10",
     "summary": "Xray-core v26.10.10",
@@ -29031,6 +29138,40 @@
     "hash": "e54a070ca4e6a5bf"
   },
   {
+    "id": "4259129ed56b6c22",
+    "title": "MHSanaei/3x-ui Dev build 82c77111",
+    "summary": "Dev build 82c77111",
+    "rawTitle": "Dev build 82c77111",
+    "rawBody": "Rolling development build — installs via the panel's Dev update channel.\n\ncommit=82c77111893c8fb386bb7955cfb55186f47ad2ba\nbuilt=2026-10-11T05:30:47Z\n\nAutomated per-commit build from main. Not a stable release.",
+    "sourceType": "github_release",
+    "sourceName": "MHSanaei/3x-ui",
+    "sourceUrl": "https://github.com/MHSanaei/3x-ui/releases/tag/dev-latest",
+    "project": "3x-ui",
+    "repo": "MHSanaei/3x-ui",
+    "slug": "3x-ui",
+    "version": "dev-latest",
+    "category": "ecosystem",
+    "tags": [
+      "x-ui",
+      "panel",
+      "xray-core",
+      "release"
+    ],
+    "platforms": [
+      "linux"
+    ],
+    "importance": 4,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2026-06-24T16:17:06Z",
+    "fetchedAt": "2026-10-11T05:53:50.406Z",
+    "firstSeenAt": "2026-10-11T05:53:55.112Z",
+    "updatedAt": "2026-10-11T05:53:55.112Z",
+    "hash": "4259129ed56b6c22"
+  },
+  {
     "id": "5308670ac826414b",
     "title": "MHSanaei/3x-ui Dev build 442b7fb1",
     "summary": "Dev build 442b7fb1",
@@ -55091,6 +55232,42 @@
     "firstSeenAt": "2026-05-07T04:09:04.362Z",
     "updatedAt": "2026-05-07T04:09:04.362Z",
     "hash": "5e6adb84fbb7f312"
+  },
+  {
+    "id": "6c49804a32cf4d7d",
+    "title": "MetaCubeX/mihomo Prerelease-Alpha",
+    "summary": "Prerelease-Alpha",
+    "rawTitle": "Prerelease-Alpha",
+    "rawBody": "Release created at  Sun Oct 11 10:16:57 CST 2026\nSynchronize Alpha branch code updates, keeping only the latest version\n<br>\n[我应该下载哪个文件? / Which file should I download?](https://github.com/MetaCubeX/mihomo/wiki/FAQ)\n[二进制文件筛选 / Binary file selector](https://metacubex.github.io/Meta-Docs/startup/#_1)\n[查看文档 / Docs](https://metacubex.github.io/Meta-Docs/)\n\n\n## What's Changed\n* fix: bound doh dials so ones the query gave up on cannot pile up by @Cassian433 in https://github.com/MetaCubeX/mihomo/pull/3274\n* fix: keep fake-ip allocation state when cloning the pool on reload by @drakeo338 in https://github.com/MetaCubeX/mihomo/pull/3283\n* chore: update mieru version by @enfein in https://github.com/MetaCubeX/mihomo/pull/3304\n\n## New Contributors\n* @Cassian433 made their first contribution in https://github.com/MetaCubeX/mihomo/pull/3274\n* @drakeo338 made their first contribution in https://github.com/MetaCubeX/mihomo/pull/3283\n\n**Full Changelog**: https://github.com/MetaCubeX/mihomo/compare/v1.19.32...Prerelease-Alpha",
+    "sourceType": "github_release",
+    "sourceName": "MetaCubeX/mihomo",
+    "sourceUrl": "https://github.com/MetaCubeX/mihomo/releases/tag/Prerelease-Alpha",
+    "project": "mihomo",
+    "repo": "MetaCubeX/mihomo",
+    "slug": "mihomo",
+    "version": "Prerelease-Alpha",
+    "category": "core",
+    "tags": [
+      "mihomo",
+      "clash",
+      "meta",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 2,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2024-08-12T17:01:02Z",
+    "fetchedAt": "2026-10-11T05:53:40.173Z",
+    "firstSeenAt": "2026-10-11T05:53:53.448Z",
+    "updatedAt": "2026-10-11T05:53:53.448Z",
+    "hash": "6c49804a32cf4d7d"
   },
   {
     "id": "a418916ffacc9878",

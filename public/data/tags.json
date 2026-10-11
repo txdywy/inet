@@ -1,13 +1,13 @@
 [
   {
     "tag": "release",
-    "count": 654,
-    "category": "security"
+    "count": 659,
+    "category": "client"
   },
   {
     "tag": "mihomo",
-    "count": 328,
-    "category": "dns_rules"
+    "count": 331,
+    "category": "client"
   },
   {
     "tag": "MetaCubeX",
@@ -16,7 +16,7 @@
   },
   {
     "tag": "geosite",
-    "count": 253,
+    "count": 255,
     "category": "dns_rules"
   },
   {
@@ -31,17 +31,17 @@
   },
   {
     "tag": "ruleset",
-    "count": 147,
+    "count": 149,
     "category": "dns_rules"
   },
   {
     "tag": "geoip",
-    "count": 147,
+    "count": 149,
     "category": "dns_rules"
   },
   {
     "tag": "xray-core",
-    "count": 122,
+    "count": 123,
     "category": "security"
   },
   {
@@ -60,6 +60,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "clash",
+    "count": 88,
+    "category": "client"
+  },
+  {
     "tag": "meta-rules-dat",
     "count": 88,
     "category": "ecosystem"
@@ -71,11 +76,11 @@
   },
   {
     "tag": "x-ui",
-    "count": 86,
+    "count": 87,
     "category": "client"
   },
   {
-    "tag": "clash",
+    "tag": "panel",
     "count": 86,
     "category": "security"
   },
@@ -83,11 +88,6 @@
     "tag": "Loyalsoldier",
     "count": 86,
     "category": "ecosystem"
-  },
-  {
-    "tag": "panel",
-    "count": 85,
-    "category": "security"
   },
   {
     "tag": "3x-ui",
@@ -116,7 +116,7 @@
   },
   {
     "tag": "meta",
-    "count": 72,
+    "count": 73,
     "category": "security"
   },
   {
@@ -330,13 +330,13 @@
     "category": "core"
   },
   {
-    "tag": "reality",
+    "tag": "android",
     "count": 21,
-    "category": "security"
+    "category": "client"
   },
   {
-    "tag": "android",
-    "count": 20,
+    "tag": "reality",
+    "count": 21,
     "category": "security"
   },
   {
