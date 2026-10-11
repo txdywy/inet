@@ -167,6 +167,21 @@
     ]
   },
   {
+    "slug": "v2rayn",
+    "name": "v2rayN",
+    "repo": "2dust/v2rayN",
+    "description": "各平台代理客户端应用",
+    "category": "client",
+    "platforms": [
+      "windows"
+    ],
+    "tags": [
+      "v2rayn",
+      "windows",
+      "xray-core"
+    ]
+  },
+  {
     "slug": "v2raya",
     "name": "v2rayA",
     "repo": "v2rayA/v2rayA",
@@ -184,17 +199,17 @@
     ]
   },
   {
-    "slug": "v2rayn",
-    "name": "v2rayN",
-    "repo": "2dust/v2rayN",
+    "slug": "v2rayng",
+    "name": "v2rayNG",
+    "repo": "2dust/v2rayNG",
     "description": "各平台代理客户端应用",
     "category": "client",
     "platforms": [
-      "windows"
+      "android"
     ],
     "tags": [
-      "v2rayn",
-      "windows",
+      "v2rayng",
+      "android",
       "xray-core"
     ]
   },
@@ -213,21 +228,6 @@
       "clash-verge",
       "mihomo",
       "desktop"
-    ]
-  },
-  {
-    "slug": "v2rayng",
-    "name": "v2rayNG",
-    "repo": "2dust/v2rayNG",
-    "description": "各平台代理客户端应用",
-    "category": "client",
-    "platforms": [
-      "android"
-    ],
-    "tags": [
-      "v2rayng",
-      "android",
-      "xray-core"
     ]
   },
   {

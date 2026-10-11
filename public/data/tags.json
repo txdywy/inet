@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 659,
-    "category": "client"
+    "count": 663,
+    "category": "security"
   },
   {
     "tag": "mihomo",
@@ -41,7 +41,7 @@
   },
   {
     "tag": "xray-core",
-    "count": 123,
+    "count": 126,
     "category": "security"
   },
   {
@@ -60,7 +60,17 @@
     "category": "ecosystem"
   },
   {
+    "tag": "sing-box",
+    "count": 88,
+    "category": "core"
+  },
+  {
     "tag": "clash",
+    "count": 88,
+    "category": "client"
+  },
+  {
+    "tag": "x-ui",
     "count": 88,
     "category": "client"
   },
@@ -70,18 +80,8 @@
     "category": "ecosystem"
   },
   {
-    "tag": "sing-box",
-    "count": 87,
-    "category": "core"
-  },
-  {
-    "tag": "x-ui",
-    "count": 87,
-    "category": "client"
-  },
-  {
     "tag": "panel",
-    "count": 86,
+    "count": 87,
     "category": "security"
   },
   {
@@ -106,8 +106,8 @@
   },
   {
     "tag": "vless",
-    "count": 74,
-    "category": "security"
+    "count": 75,
+    "category": "core"
   },
   {
     "tag": "xhttp",
@@ -130,6 +130,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "hysteria2",
+    "count": 59,
+    "category": "core"
+  },
+  {
     "tag": "quic",
     "count": 59,
     "category": "security"
@@ -138,11 +143,6 @@
     "tag": "开发版本",
     "count": 59,
     "category": "ecosystem"
-  },
-  {
-    "tag": "hysteria2",
-    "count": 58,
-    "category": "core"
   },
   {
     "tag": "ech",
@@ -156,7 +156,7 @@
   },
   {
     "tag": "tuic",
-    "count": 47,
+    "count": 48,
     "category": "core"
   },
   {
@@ -180,14 +180,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "wireguard",
+    "count": 44,
+    "category": "security"
+  },
+  {
     "tag": "网络协议",
     "count": 44,
     "category": "core"
-  },
-  {
-    "tag": "wireguard",
-    "count": 43,
-    "category": "ecosystem"
   },
   {
     "tag": "dat",
@@ -320,6 +320,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "android",
+    "count": 22,
+    "category": "security"
+  },
+  {
     "tag": "用户界面",
     "count": 22,
     "category": "client"
@@ -328,11 +333,6 @@
     "tag": "Xray-core",
     "count": 22,
     "category": "core"
-  },
-  {
-    "tag": "android",
-    "count": 21,
-    "category": "client"
   },
   {
     "tag": "reality",
@@ -500,6 +500,21 @@
     "category": "client"
   },
   {
+    "tag": "v2rayng",
+    "count": 12,
+    "category": "security"
+  },
+  {
+    "tag": "v2rayn",
+    "count": 12,
+    "category": "security"
+  },
+  {
+    "tag": "windows",
+    "count": 12,
+    "category": "security"
+  },
+  {
     "tag": "grpc",
     "count": 12,
     "category": "security"
@@ -508,21 +523,6 @@
     "tag": "HTTP",
     "count": 12,
     "category": "core"
-  },
-  {
-    "tag": "v2rayn",
-    "count": 11,
-    "category": "security"
-  },
-  {
-    "tag": "windows",
-    "count": 11,
-    "category": "security"
-  },
-  {
-    "tag": "v2rayng",
-    "count": 11,
-    "category": "security"
   },
   {
     "tag": "v2ray-core",
