@@ -1,7 +1,7 @@
 [
   {
     "tag": "release",
-    "count": 664,
+    "count": 665,
     "category": "security"
   },
   {
@@ -41,7 +41,7 @@
   },
   {
     "tag": "xray-core",
-    "count": 127,
+    "count": 128,
     "category": "security"
   },
   {
@@ -61,8 +61,13 @@
   },
   {
     "tag": "x-ui",
-    "count": 89,
+    "count": 90,
     "category": "client"
+  },
+  {
+    "tag": "panel",
+    "count": 89,
+    "category": "security"
   },
   {
     "tag": "sing-box",
@@ -73,11 +78,6 @@
     "tag": "clash",
     "count": 88,
     "category": "client"
-  },
-  {
-    "tag": "panel",
-    "count": 88,
-    "category": "security"
   },
   {
     "tag": "meta-rules-dat",
