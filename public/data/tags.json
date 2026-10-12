@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 669,
-    "category": "router"
+    "count": 671,
+    "category": "security"
   },
   {
     "tag": "mihomo",
@@ -41,7 +41,7 @@
   },
   {
     "tag": "xray-core",
-    "count": 129,
+    "count": 131,
     "category": "security"
   },
   {
@@ -61,12 +61,12 @@
   },
   {
     "tag": "x-ui",
-    "count": 91,
-    "category": "client"
+    "count": 93,
+    "category": "security"
   },
   {
     "tag": "panel",
-    "count": 90,
+    "count": 92,
     "category": "security"
   },
   {
@@ -106,12 +106,12 @@
   },
   {
     "tag": "vless",
-    "count": 75,
-    "category": "core"
+    "count": 76,
+    "category": "security"
   },
   {
     "tag": "xhttp",
-    "count": 73,
+    "count": 74,
     "category": "security"
   },
   {
@@ -130,14 +130,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "quic",
+    "count": 60,
+    "category": "security"
+  },
+  {
     "tag": "hysteria2",
     "count": 59,
     "category": "core"
-  },
-  {
-    "tag": "quic",
-    "count": 59,
-    "category": "security"
   },
   {
     "tag": "开发版本",
@@ -146,8 +146,8 @@
   },
   {
     "tag": "ech",
-    "count": 55,
-    "category": "router"
+    "count": 56,
+    "category": "security"
   },
   {
     "tag": "Android",
@@ -156,8 +156,8 @@
   },
   {
     "tag": "tuic",
-    "count": 48,
-    "category": "core"
+    "count": 49,
+    "category": "security"
   },
   {
     "tag": "sub-store",
@@ -181,7 +181,7 @@
   },
   {
     "tag": "wireguard",
-    "count": 44,
+    "count": 45,
     "category": "security"
   },
   {
@@ -270,6 +270,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "sudoku",
+    "count": 28,
+    "category": "security"
+  },
+  {
     "tag": "v2raya",
     "count": 27,
     "category": "client"
@@ -283,11 +288,6 @@
     "tag": "transparent-proxy",
     "count": 27,
     "category": "client"
-  },
-  {
-    "tag": "sudoku",
-    "count": 27,
-    "category": "core"
   },
   {
     "tag": "DNS",
@@ -320,6 +320,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "reality",
+    "count": 22,
+    "category": "security"
+  },
+  {
     "tag": "android",
     "count": 22,
     "category": "security"
@@ -333,11 +338,6 @@
     "tag": "Xray-core",
     "count": 22,
     "category": "core"
-  },
-  {
-    "tag": "reality",
-    "count": 21,
-    "category": "security"
   },
   {
     "tag": "QUIC",
@@ -385,6 +385,11 @@
     "category": "core"
   },
   {
+    "tag": "shadowsocks",
+    "count": 17,
+    "category": "security"
+  },
+  {
     "tag": "TLS",
     "count": 17,
     "category": "ecosystem"
@@ -402,11 +407,6 @@
   {
     "tag": "TLSAuth",
     "count": 17,
-    "category": "client"
-  },
-  {
-    "tag": "shadowsocks",
-    "count": 16,
     "category": "client"
   },
   {
@@ -580,6 +580,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "amneziawg",
+    "count": 9,
+    "category": "security"
+  },
+  {
     "tag": "xtls",
     "count": 9,
     "category": "security"
@@ -633,11 +638,6 @@
     "tag": "CBC",
     "count": 9,
     "category": "ecosystem"
-  },
-  {
-    "tag": "amneziawg",
-    "count": 8,
-    "category": "security"
   },
   {
     "tag": "dae",
@@ -800,6 +800,16 @@
     "category": "ecosystem"
   },
   {
+    "tag": "vision",
+    "count": 5,
+    "category": "security"
+  },
+  {
+    "tag": "warp",
+    "count": 5,
+    "category": "security"
+  },
+  {
     "tag": "script",
     "count": 5,
     "category": "ecosystem"
@@ -913,16 +923,6 @@
     "tag": "subconverter",
     "count": 5,
     "category": "ecosystem"
-  },
-  {
-    "tag": "warp",
-    "count": 4,
-    "category": "security"
-  },
-  {
-    "tag": "vision",
-    "count": 4,
-    "category": "security"
   },
   {
     "tag": "中间人攻击",
@@ -1043,6 +1043,11 @@
     "tag": "nekoray",
     "count": 4,
     "category": "client"
+  },
+  {
+    "tag": "http/3",
+    "count": 3,
+    "category": "security"
   },
   {
     "tag": "CDN",
@@ -1298,11 +1303,6 @@
     "tag": "linux",
     "count": 2,
     "category": "core"
-  },
-  {
-    "tag": "http/3",
-    "count": 2,
-    "category": "security"
   },
   {
     "tag": "社区",
@@ -1807,6 +1807,11 @@
   {
     "tag": "Quantumult X",
     "count": 2,
+    "category": "security"
+  },
+  {
+    "tag": "shadowsocks-2022",
+    "count": 1,
     "category": "security"
   },
   {

@@ -1,6 +1,6 @@
 {
-  "totalItems": 1856,
-  "last24h": 5,
+  "totalItems": 1858,
+  "last24h": 4,
   "last7d": 43,
   "byCategory": {
     "core": 300,
@@ -8,8 +8,8 @@
     "router": 28,
     "protocol": 57,
     "dns_rules": 281,
-    "security": 104,
-    "ecosystem": 790,
+    "security": 105,
+    "ecosystem": 791,
     "trend": 0
   },
   "topProjects": [
@@ -23,7 +23,7 @@
     },
     {
       "project": "3x-ui",
-      "count": 173
+      "count": 175
     },
     {
       "project": "v2ray-rules-dat",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "release",
-      "count": 669
+      "count": 671
     },
     {
       "tag": "mihomo",
@@ -89,7 +89,7 @@
     },
     {
       "tag": "xray-core",
-      "count": 129
+      "count": 131
     },
     {
       "tag": "Sub-Store",
@@ -105,11 +105,11 @@
     },
     {
       "tag": "x-ui",
-      "count": 91
+      "count": 93
     },
     {
       "tag": "panel",
-      "count": 90
+      "count": 92
     },
     {
       "tag": "clash",
@@ -136,8 +136,8 @@
       "count": 82
     }
   ],
-  "importantCount": 776,
-  "breakingCount": 102,
-  "securityCount": 158,
-  "updatedAt": "2026-10-12T06:05:10.769Z"
+  "importantCount": 777,
+  "breakingCount": 103,
+  "securityCount": 159,
+  "updatedAt": "2026-10-12T15:37:45.603Z"
 }
