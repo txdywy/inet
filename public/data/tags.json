@@ -1,13 +1,13 @@
 [
   {
     "tag": "release",
-    "count": 665,
-    "category": "security"
+    "count": 669,
+    "category": "router"
   },
   {
     "tag": "mihomo",
-    "count": 331,
-    "category": "client"
+    "count": 332,
+    "category": "dns_rules"
   },
   {
     "tag": "MetaCubeX",
@@ -16,7 +16,7 @@
   },
   {
     "tag": "geosite",
-    "count": 255,
+    "count": 257,
     "category": "dns_rules"
   },
   {
@@ -31,17 +31,17 @@
   },
   {
     "tag": "ruleset",
-    "count": 149,
+    "count": 151,
     "category": "dns_rules"
   },
   {
     "tag": "geoip",
-    "count": 149,
+    "count": 151,
     "category": "dns_rules"
   },
   {
     "tag": "xray-core",
-    "count": 128,
+    "count": 129,
     "category": "security"
   },
   {
@@ -61,23 +61,23 @@
   },
   {
     "tag": "x-ui",
-    "count": 90,
+    "count": 91,
     "category": "client"
   },
   {
     "tag": "panel",
-    "count": 89,
+    "count": 90,
     "category": "security"
+  },
+  {
+    "tag": "clash",
+    "count": 89,
+    "category": "router"
   },
   {
     "tag": "sing-box",
     "count": 88,
     "category": "core"
-  },
-  {
-    "tag": "clash",
-    "count": 88,
-    "category": "client"
   },
   {
     "tag": "meta-rules-dat",
@@ -146,8 +146,8 @@
   },
   {
     "tag": "ech",
-    "count": 54,
-    "category": "security"
+    "count": 55,
+    "category": "router"
   },
   {
     "tag": "Android",
@@ -250,14 +250,14 @@
     "category": "router"
   },
   {
+    "tag": "openwrt",
+    "count": 30,
+    "category": "router"
+  },
+  {
     "tag": "Tailscale",
     "count": 30,
     "category": "core"
-  },
-  {
-    "tag": "openwrt",
-    "count": 29,
-    "category": "router"
   },
   {
     "tag": "v2rayN",
@@ -430,6 +430,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "luci",
+    "count": 15,
+    "category": "router"
+  },
+  {
     "tag": "mosdns",
     "count": 15,
     "category": "router"
@@ -443,11 +448,6 @@
     "tag": "网络规则",
     "count": 15,
     "category": "ecosystem"
-  },
-  {
-    "tag": "luci",
-    "count": 14,
-    "category": "router"
   },
   {
     "tag": "tunnel",
@@ -1270,6 +1270,11 @@
     "category": "protocol"
   },
   {
+    "tag": "openclash",
+    "count": 2,
+    "category": "router"
+  },
+  {
     "tag": "hiddify",
     "count": 2,
     "category": "security"
@@ -1803,11 +1808,6 @@
     "tag": "Quantumult X",
     "count": 2,
     "category": "security"
-  },
-  {
-    "tag": "openclash",
-    "count": 1,
-    "category": "router"
   },
   {
     "tag": "yandex",

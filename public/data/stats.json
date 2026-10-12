@@ -1,15 +1,15 @@
 {
-  "totalItems": 1852,
-  "last24h": 6,
-  "last7d": 44,
+  "totalItems": 1856,
+  "last24h": 5,
+  "last7d": 43,
   "byCategory": {
     "core": 300,
     "client": 296,
-    "router": 27,
+    "router": 28,
     "protocol": 57,
-    "dns_rules": 279,
+    "dns_rules": 281,
     "security": 104,
-    "ecosystem": 789,
+    "ecosystem": 790,
     "trend": 0
   },
   "topProjects": [
@@ -23,11 +23,11 @@
     },
     {
       "project": "3x-ui",
-      "count": 172
+      "count": 173
     },
     {
       "project": "v2ray-rules-dat",
-      "count": 167
+      "count": 168
     },
     {
       "project": "Sub-Store",
@@ -35,7 +35,7 @@
     },
     {
       "project": "meta-rules-dat",
-      "count": 161
+      "count": 162
     },
     {
       "project": "metacubexd",
@@ -57,11 +57,11 @@
   "hotTags": [
     {
       "tag": "release",
-      "count": 665
+      "count": 669
     },
     {
       "tag": "mihomo",
-      "count": 331
+      "count": 332
     },
     {
       "tag": "MetaCubeX",
@@ -69,7 +69,7 @@
     },
     {
       "tag": "geosite",
-      "count": 255
+      "count": 257
     },
     {
       "tag": "v2fly",
@@ -81,15 +81,15 @@
     },
     {
       "tag": "ruleset",
-      "count": 149
+      "count": 151
     },
     {
       "tag": "geoip",
-      "count": 149
+      "count": 151
     },
     {
       "tag": "xray-core",
-      "count": 128
+      "count": 129
     },
     {
       "tag": "Sub-Store",
@@ -105,18 +105,18 @@
     },
     {
       "tag": "x-ui",
-      "count": 90
+      "count": 91
     },
     {
       "tag": "panel",
+      "count": 90
+    },
+    {
+      "tag": "clash",
       "count": 89
     },
     {
       "tag": "sing-box",
-      "count": 88
-    },
-    {
-      "tag": "clash",
       "count": 88
     },
     {
@@ -136,8 +136,8 @@
       "count": 82
     }
   ],
-  "importantCount": 773,
+  "importantCount": 776,
   "breakingCount": 102,
   "securityCount": 158,
-  "updatedAt": "2026-10-11T21:54:11.591Z"
+  "updatedAt": "2026-10-12T06:05:10.769Z"
 }
