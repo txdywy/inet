@@ -1,9 +1,9 @@
 {
-  "totalItems": 1862,
-  "last24h": 3,
+  "totalItems": 1863,
+  "last24h": 2,
   "last7d": 38,
   "byCategory": {
-    "core": 300,
+    "core": 301,
     "client": 296,
     "router": 28,
     "protocol": 57,
@@ -19,7 +19,7 @@
     },
     {
       "project": "mihomo",
-      "count": 220
+      "count": 221
     },
     {
       "project": "3x-ui",
@@ -57,11 +57,11 @@
   "hotTags": [
     {
       "tag": "release",
-      "count": 675
+      "count": 676
     },
     {
       "tag": "mihomo",
-      "count": 333
+      "count": 334
     },
     {
       "tag": "MetaCubeX",
@@ -113,7 +113,7 @@
     },
     {
       "tag": "clash",
-      "count": 89
+      "count": 90
     },
     {
       "tag": "sing-box",
@@ -139,5 +139,5 @@
   "importantCount": 781,
   "breakingCount": 103,
   "securityCount": 159,
-  "updatedAt": "2026-10-13T14:19:16.657Z"
+  "updatedAt": "2026-10-13T19:19:36.855Z"
 }

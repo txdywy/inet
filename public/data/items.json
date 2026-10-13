@@ -55811,6 +55811,43 @@
     "hash": "5e6adb84fbb7f312"
   },
   {
+    "id": "1b5b180f74928c0e",
+    "title": "MetaCubeX/mihomo Prerelease-Alpha",
+    "summary": "Prerelease-Alpha",
+    "rawTitle": "Prerelease-Alpha",
+    "rawBody": "Release created at  Tue Oct 13 22:26:56 CST 2026\nSynchronize Alpha branch code updates, keeping only the latest version\n<br>\n[我应该下载哪个文件? / Which file should I download?](https://github.com/MetaCubeX/mihomo/wiki/FAQ)\n[二进制文件筛选 / Binary file selector](https://metacubex.github.io/Meta-Docs/startup/#_1)\n[查看文档 / Docs](https://metacubex.github.io/Meta-Docs/)\n\n\n## What's Changed\n* fix: bound doh dials so ones the query gave up on cannot pile up by @Cassian433 in https://github.com/MetaCubeX/mihomo/pull/3274\n* fix: keep fake-ip allocation state when cloning the pool on reload by @drakeo338 in https://github.com/MetaCubeX/mihomo/pull/3283\n* chore: update mieru version by @enfein in https://github.com/MetaCubeX/mihomo/pull/3304\n* fix(listener): mark the embedded shadowsocks listener closed so its accept loop exits by @TokenPLS in https://github.com/MetaCubeX/mihomo/pull/3314\n* fix: a sub-millisecond URL test is reported as a failure by @TokenPLS in https://github.com/MetaCubeX/mihomo/pull/3316\n* fix: dialer-proxy cycle check takes quadratic time and memory by @TokenPLS in https://github.com/MetaCubeX/mihomo/pull/3315\n\n## New Contributors\n* @Cassian433 made their first contribution in https://github.com/MetaCubeX/mihomo/pull/3274\n* @drakeo338 made their first contribution in https://github.com/MetaCubeX/mihomo/pull/3283\n\n**Full Changelog**: https://github.com/MetaCubeX/mihomo/compare/v1.19.32...Prerelease-Alpha",
+    "sourceType": "github_release",
+    "sourceName": "MetaCubeX/mihomo",
+    "sourceUrl": "https://github.com/MetaCubeX/mihomo/releases/tag/Prerelease-Alpha",
+    "project": "mihomo",
+    "repo": "MetaCubeX/mihomo",
+    "slug": "mihomo",
+    "version": "Prerelease-Alpha",
+    "category": "core",
+    "tags": [
+      "mihomo",
+      "clash",
+      "meta",
+      "shadowsocks",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 2,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2024-08-12T17:01:02Z",
+    "fetchedAt": "2026-10-13T19:19:19.364Z",
+    "firstSeenAt": "2026-10-13T19:19:36.291Z",
+    "updatedAt": "2026-10-13T19:19:36.291Z",
+    "hash": "1b5b180f74928c0e"
+  },
+  {
     "id": "6c49804a32cf4d7d",
     "title": "MetaCubeX/mihomo Prerelease-Alpha",
     "summary": "Prerelease-Alpha",
