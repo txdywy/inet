@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 680,
-    "category": "dns_rules"
+    "count": 681,
+    "category": "ecosystem"
   },
   {
     "tag": "mihomo",
@@ -161,13 +161,13 @@
   },
   {
     "tag": "sub-store",
-    "count": 47,
-    "category": "security"
+    "count": 48,
+    "category": "ecosystem"
   },
   {
     "tag": "subscription",
-    "count": 47,
-    "category": "security"
+    "count": 48,
+    "category": "ecosystem"
   },
   {
     "tag": "开源",

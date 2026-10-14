@@ -1,7 +1,7 @@
 {
-  "totalItems": 1867,
-  "last24h": 2,
-  "last7d": 38,
+  "totalItems": 1868,
+  "last24h": 3,
+  "last7d": 36,
   "byCategory": {
     "core": 301,
     "client": 296,
@@ -9,7 +9,7 @@
     "protocol": 57,
     "dns_rules": 285,
     "security": 105,
-    "ecosystem": 795,
+    "ecosystem": 796,
     "trend": 0
   },
   "topProjects": [
@@ -30,11 +30,11 @@
       "count": 170
     },
     {
-      "project": "meta-rules-dat",
-      "count": 164
+      "project": "Sub-Store",
+      "count": 165
     },
     {
-      "project": "Sub-Store",
+      "project": "meta-rules-dat",
       "count": 164
     },
     {
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "release",
-      "count": 680
+      "count": 681
     },
     {
       "tag": "mihomo",
@@ -136,8 +136,8 @@
       "count": 82
     }
   ],
-  "importantCount": 785,
+  "importantCount": 786,
   "breakingCount": 103,
   "securityCount": 159,
-  "updatedAt": "2026-10-14T04:59:31.928Z"
+  "updatedAt": "2026-10-14T12:00:55.984Z"
 }
