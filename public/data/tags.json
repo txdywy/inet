@@ -1,12 +1,12 @@
 [
   {
     "tag": "release",
-    "count": 678,
+    "count": 680,
     "category": "dns_rules"
   },
   {
     "tag": "mihomo",
-    "count": 334,
+    "count": 335,
     "category": "dns_rules"
   },
   {
@@ -16,7 +16,7 @@
   },
   {
     "tag": "geosite",
-    "count": 260,
+    "count": 261,
     "category": "dns_rules"
   },
   {
@@ -31,17 +31,17 @@
   },
   {
     "tag": "ruleset",
-    "count": 154,
+    "count": 155,
     "category": "dns_rules"
   },
   {
     "tag": "geoip",
-    "count": 154,
+    "count": 155,
     "category": "dns_rules"
   },
   {
     "tag": "xray-core",
-    "count": 134,
+    "count": 135,
     "category": "security"
   },
   {
@@ -61,12 +61,12 @@
   },
   {
     "tag": "x-ui",
-    "count": 96,
+    "count": 97,
     "category": "security"
   },
   {
     "tag": "panel",
-    "count": 95,
+    "count": 96,
     "category": "security"
   },
   {
