@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 681,
-    "category": "ecosystem"
+    "count": 683,
+    "category": "security"
   },
   {
     "tag": "mihomo",
@@ -41,7 +41,7 @@
   },
   {
     "tag": "xray-core",
-    "count": 135,
+    "count": 137,
     "category": "security"
   },
   {
@@ -61,12 +61,12 @@
   },
   {
     "tag": "x-ui",
-    "count": 97,
+    "count": 99,
     "category": "security"
   },
   {
     "tag": "panel",
-    "count": 96,
+    "count": 98,
     "category": "security"
   },
   {
@@ -111,7 +111,7 @@
   },
   {
     "tag": "xhttp",
-    "count": 74,
+    "count": 75,
     "category": "security"
   },
   {
@@ -130,14 +130,14 @@
     "category": "ecosystem"
   },
   {
-    "tag": "quic",
+    "tag": "hysteria2",
     "count": 60,
     "category": "security"
   },
   {
-    "tag": "hysteria2",
-    "count": 59,
-    "category": "core"
+    "tag": "quic",
+    "count": 60,
+    "category": "security"
   },
   {
     "tag": "开发版本",
@@ -350,6 +350,11 @@
     "category": "core"
   },
   {
+    "tag": "shadowsocks",
+    "count": 19,
+    "category": "security"
+  },
+  {
     "tag": "gost",
     "count": 19,
     "category": "core"
@@ -363,11 +368,6 @@
     "tag": "CHACHA20-POLY1305",
     "count": 19,
     "category": "ecosystem"
-  },
-  {
-    "tag": "shadowsocks",
-    "count": 18,
-    "category": "security"
   },
   {
     "tag": "anytls",

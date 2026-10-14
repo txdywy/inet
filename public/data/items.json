@@ -1,5 +1,42 @@
 [
   {
+    "id": "e374804dc1108249",
+    "title": "MHSanaei/3x-ui v3.10.2",
+    "summary": "v3.10.2",
+    "rawTitle": "v3.10.2",
+    "rawBody": "## 🚀 Live Shadowsocks Client Edits, Lighter Node Sync & Complete vmess Link Import\r\n\r\n- 🔄 **Shadowsocks hot apply** — Client changes on multi-user Shadowsocks inbounds no longer drop every live connection on the port.\r\n- 🗄️ **Node sync load** — The 5-second node traffic merge now writes only rows that actually changed, ending slow or timed-out client renews on large multi-node setups.\r\n- 🔗 **vmess link import** — XHTTP, mKCP and finalmask settings in vmess links now survive import, so imported outbounds connect.\r\n- 🛡️ **MTProto handshake limit** — A new per-IP cap on pending handshakes keeps one address from starving other clients.\r\n- 💥 **Core crash reports** — Xray crash logs now contain the full panic and traceback instead of a 7-byte stub.\r\n- 🪟 **Windows build** — The Windows executable is now `3x-ui.exe` with version info and an icon, reducing antivirus false positives.\r\n- 🕵️ **Less panel fingerprinting** — Sponsor data is fetched from a shared hostname that no longer identifies a server as running the panel.\r\n\r\n---\r\n\r\n## ⚠️ Before you upgrade\r\n\r\n### Action required\r\n- The Windows release zip now ships `3x-ui.exe` instead of `x-ui.exe` — **do this:** update any service definition, scheduled task, shortcut or script that launches `x-ui.exe`, and remove the old executable after replacing the files.\r\n\r\n### Automatic — no action needed\r\n- Existing MTProto inbounds render a byte-identical config and are not restarted; the new handshake limit is written only when set above 0.\r\n- The panel sidebar no longer shows a sponsor card; sponsors appear only on the Sponsors page.\r\n\r\n### Requirements\r\nGo 1.27.2 · Xray-core v26.10.10\r\n\r\n---\r\n\r\n### 🔐 Security\r\n- The panel's sponsor-data fetch no longer reveals in the TLS SNI that a server is running 3x-ui; it now uses a widely shared hostname with the path kept inside TLS ([`35b5e098`](https://github.com/MHSanaei/3x-ui/commit/35b5e098))\r\n\r\n### 🆕 New\r\n- MTProto inbounds expose the sidecar's per-IP pending-handshake limit, closing new connections from an address that already holds that many unauthenticated handshakes ([`b177b98c`](https://github.com/MHSanaei/3x-ui/commit/b177b98c))\r\n- The Windows executable is renamed to `3x-ui.exe` and carries version info, a manifest and the 3X icon, which lowers heuristic antivirus detections ([`db8b01b8`](https://github.com/MHSanaei/3x-ui/commit/db8b01b8))\r\n- The Sponsors page lists only real sponsors in larger cards, and the sidebar sponsor slot is removed ([`6f1dd0d7`](https://github.com/MHSanaei/3x-ui/commit/6f1dd0d7))\r\n\r\n### ⚡ Improved\r\n- The bundled OpenSSL for Windows is updated to 4.0.3 (MSI installer) ([`c45ffcda`](https://github.com/MHSanaei/3x-ui/commit/c45ffcda))\r\n\r\n### 🐞 Fixed\r\n\r\n**Xray & inbounds**\r\n- Adding, editing, renewing, resetting or auto-disabling a client on a multi-user Shadowsocks inbound (including 2022 ciphers) is applied in place instead of restarting the inbound and dropping live connections ([`a66b360c`](https://github.com/MHSanaei/3x-ui/commit/a66b360c))\r\n- Xray crash reports capture the whole panic and traceback, each report gets a unique file name, and ordinary log lines mentioning \"panic\" are no longer swallowed from the panel log ([`760f428c`](https://github.com/MHSanaei/3x-ui/commit/760f428c))\r\n\r\n**Nodes**\r\n- The node traffic merge skips unchanged client rows and stops flipping shared client fields between inbounds, so renewing a client on many inbounds no longer times out behind sync writes ([`f8b72de9`](https://github.com/MHSanaei/3x-ui/commit/f8b72de9))\r\n\r\n**Links & subscriptions**\r\n- vmess links now import their XHTTP settings (session/sequence placement, padding obfuscation, xmux and more), so XHTTP outbounds from subscriptions or external links connect ([#6808](https://github.com/MHSanaei/3x-ui/pull/6808)) @jayhemnani9910\r\n- vmess links now import the mKCP header, seed, MTU/TTI and finalmask, so mKCP outbounds from subscriptions, external links or the link import connect ([#6809](https://github.com/MHSanaei/3x-ui/pull/6809)) @jayhemnani9910\r\n- Clash subscriptions export Hysteria2 Gecko obfuscation with its packet-size range instead of plain salamander, so those clients can complete the handshake ([`cb4f2ec9`](https://github.com/MHSanaei/3x-ui/commit/cb4f2ec9))\r\n- Client-specific subscription routing no longer leaks one client app's routing headers into another's response, while the shared JSON routing profile is still sent to both ([#6810](https://github.com/MHSanaei/3x-ui/pull/6810)) @mvanhorn\r\n\r\n**Panel**\r\n- Long sponsor titles and descriptions wrap inside their card instead of spilling onto neighbouring cards ([`319e6932`](https://github.com/MHSanaei/3x-ui/commit/319e6932))\r\n\r\n---\r\n\r\n### Reports\r\n\r\n![Total Download](https://img.shields.io/github/downloads/mhsanaei/3x-ui/v3.10.2/total?label=Total-Download&color=success)\r\n\r\n**Full Changelog**: https://github.com/MHSanaei/3x-ui/compare/v3.10.0...v3.10.2\r\n",
+    "sourceType": "github_release",
+    "sourceName": "MHSanaei/3x-ui",
+    "sourceUrl": "https://github.com/MHSanaei/3x-ui/releases/tag/v3.10.2",
+    "project": "3x-ui",
+    "repo": "MHSanaei/3x-ui",
+    "slug": "3x-ui",
+    "version": "3.10.2",
+    "category": "security",
+    "tags": [
+      "x-ui",
+      "panel",
+      "xray-core",
+      "xhttp",
+      "hysteria2",
+      "shadowsocks",
+      "release"
+    ],
+    "platforms": [
+      "linux"
+    ],
+    "importance": 3,
+    "confidence": 0.85,
+    "isBreaking": true,
+    "isSecurityRelated": true,
+    "isProtocolRelated": true,
+    "publishedAt": "2026-10-14T15:19:26Z",
+    "fetchedAt": "2026-10-14T17:16:01.131Z",
+    "firstSeenAt": "2026-10-14T17:16:06.710Z",
+    "updatedAt": "2026-10-14T17:16:06.710Z",
+    "hash": "e374804dc1108249"
+  },
+  {
     "id": "b081a5a84b2b0eb4",
     "title": "sub-store-org/Sub-Store 2.42.4",
     "summary": "2.42.4",
@@ -29585,6 +29622,40 @@
     "firstSeenAt": "2026-06-25T04:36:16.426Z",
     "updatedAt": "2026-06-25T04:36:16.426Z",
     "hash": "e54a070ca4e6a5bf"
+  },
+  {
+    "id": "9eb1b9e46702472e",
+    "title": "MHSanaei/3x-ui Dev build 35b5e098",
+    "summary": "Dev build 35b5e098",
+    "rawTitle": "Dev build 35b5e098",
+    "rawBody": "Rolling development build — installs via the panel's Dev update channel.\n\ncommit=35b5e0989a12f31a0aec81f08039fdbec4166cf5\nbuilt=2026-10-14T15:16:19Z\n\nAutomated per-commit build from main. Not a stable release.",
+    "sourceType": "github_release",
+    "sourceName": "MHSanaei/3x-ui",
+    "sourceUrl": "https://github.com/MHSanaei/3x-ui/releases/tag/dev-latest",
+    "project": "3x-ui",
+    "repo": "MHSanaei/3x-ui",
+    "slug": "3x-ui",
+    "version": "dev-latest",
+    "category": "ecosystem",
+    "tags": [
+      "x-ui",
+      "panel",
+      "xray-core",
+      "release"
+    ],
+    "platforms": [
+      "linux"
+    ],
+    "importance": 4,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2026-06-24T16:17:06Z",
+    "fetchedAt": "2026-10-14T17:16:01.131Z",
+    "firstSeenAt": "2026-10-14T17:16:07.521Z",
+    "updatedAt": "2026-10-14T17:16:07.521Z",
+    "hash": "9eb1b9e46702472e"
   },
   {
     "id": "6f4d70bd42ce7104",
