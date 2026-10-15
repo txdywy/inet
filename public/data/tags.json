@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 685,
-    "category": "dns_rules"
+    "count": 689,
+    "category": "ecosystem"
   },
   {
     "tag": "mihomo",
@@ -16,7 +16,7 @@
   },
   {
     "tag": "geosite",
-    "count": 263,
+    "count": 266,
     "category": "dns_rules"
   },
   {
@@ -26,7 +26,7 @@
   },
   {
     "tag": "domain-list",
-    "count": 174,
+    "count": 177,
     "category": "dns_rules"
   },
   {
@@ -155,19 +155,19 @@
     "category": "client"
   },
   {
-    "tag": "tuic",
-    "count": 49,
-    "category": "security"
-  },
-  {
     "tag": "sub-store",
-    "count": 48,
+    "count": 49,
     "category": "ecosystem"
   },
   {
     "tag": "subscription",
-    "count": 48,
+    "count": 49,
     "category": "ecosystem"
+  },
+  {
+    "tag": "tuic",
+    "count": 49,
+    "category": "security"
   },
   {
     "tag": "开源",
