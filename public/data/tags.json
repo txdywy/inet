@@ -1,12 +1,12 @@
 [
   {
     "tag": "release",
-    "count": 683,
-    "category": "security"
+    "count": 685,
+    "category": "dns_rules"
   },
   {
     "tag": "mihomo",
-    "count": 335,
+    "count": 336,
     "category": "dns_rules"
   },
   {
@@ -16,7 +16,7 @@
   },
   {
     "tag": "geosite",
-    "count": 261,
+    "count": 263,
     "category": "dns_rules"
   },
   {
@@ -31,12 +31,12 @@
   },
   {
     "tag": "ruleset",
-    "count": 155,
+    "count": 157,
     "category": "dns_rules"
   },
   {
     "tag": "geoip",
-    "count": 155,
+    "count": 157,
     "category": "dns_rules"
   },
   {
