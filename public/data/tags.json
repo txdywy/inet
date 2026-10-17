@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 694,
-    "category": "core"
+    "count": 701,
+    "category": "security"
   },
   {
     "tag": "mihomo",
@@ -16,7 +16,7 @@
   },
   {
     "tag": "geosite",
-    "count": 270,
+    "count": 275,
     "category": "dns_rules"
   },
   {
@@ -26,7 +26,7 @@
   },
   {
     "tag": "domain-list",
-    "count": 177,
+    "count": 182,
     "category": "dns_rules"
   },
   {
@@ -41,7 +41,7 @@
   },
   {
     "tag": "xray-core",
-    "count": 137,
+    "count": 139,
     "category": "security"
   },
   {
@@ -106,12 +106,12 @@
   },
   {
     "tag": "vless",
-    "count": 76,
+    "count": 78,
     "category": "security"
   },
   {
     "tag": "xhttp",
-    "count": 75,
+    "count": 77,
     "category": "security"
   },
   {
@@ -146,8 +146,8 @@
   },
   {
     "tag": "ech",
-    "count": 56,
-    "category": "security"
+    "count": 57,
+    "category": "dns_rules"
   },
   {
     "tag": "Android",
@@ -310,6 +310,11 @@
     "category": "protocol"
   },
   {
+    "tag": "reality",
+    "count": 23,
+    "category": "security"
+  },
+  {
     "tag": "依赖更新",
     "count": 23,
     "category": "ecosystem"
@@ -318,11 +323,6 @@
     "tag": "VLESS",
     "count": 23,
     "category": "ecosystem"
-  },
-  {
-    "tag": "reality",
-    "count": 22,
-    "category": "security"
   },
   {
     "tag": "android",
@@ -525,6 +525,11 @@
     "category": "core"
   },
   {
+    "tag": "xtls",
+    "count": 11,
+    "category": "security"
+  },
+  {
     "tag": "v2ray-core",
     "count": 11,
     "category": "security"
@@ -581,11 +586,6 @@
   },
   {
     "tag": "amneziawg",
-    "count": 9,
-    "category": "security"
-  },
-  {
-    "tag": "xtls",
     "count": 9,
     "category": "security"
   },
