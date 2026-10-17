@@ -1,13 +1,13 @@
 {
-  "totalItems": 1878,
-  "last24h": 2,
-  "last7d": 27,
+  "totalItems": 1881,
+  "last24h": 3,
+  "last7d": 28,
   "byCategory": {
-    "core": 301,
+    "core": 302,
     "client": 296,
     "router": 28,
     "protocol": 57,
-    "dns_rules": 292,
+    "dns_rules": 294,
     "security": 106,
     "ecosystem": 798,
     "trend": 0
@@ -27,11 +27,11 @@
     },
     {
       "project": "v2ray-rules-dat",
-      "count": 172
+      "count": 173
     },
     {
       "project": "meta-rules-dat",
-      "count": 166
+      "count": 167
     },
     {
       "project": "Sub-Store",
@@ -47,7 +47,7 @@
     },
     {
       "project": "gost",
-      "count": 50
+      "count": 51
     },
     {
       "project": "ClashMetaForAndroid",
@@ -57,11 +57,11 @@
   "hotTags": [
     {
       "tag": "release",
-      "count": 691
+      "count": 694
     },
     {
       "tag": "mihomo",
-      "count": 337
+      "count": 338
     },
     {
       "tag": "MetaCubeX",
@@ -69,7 +69,7 @@
     },
     {
       "tag": "geosite",
-      "count": 268
+      "count": 270
     },
     {
       "tag": "v2fly",
@@ -81,11 +81,11 @@
     },
     {
       "tag": "ruleset",
-      "count": 159
+      "count": 161
     },
     {
       "tag": "geoip",
-      "count": 159
+      "count": 161
     },
     {
       "tag": "xray-core",
@@ -136,8 +136,8 @@
       "count": 82
     }
   ],
-  "importantCount": 795,
+  "importantCount": 797,
   "breakingCount": 104,
   "securityCount": 160,
-  "updatedAt": "2026-10-16T21:02:48.778Z"
+  "updatedAt": "2026-10-17T04:34:41.971Z"
 }

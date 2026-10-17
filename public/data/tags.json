@@ -1,12 +1,12 @@
 [
   {
     "tag": "release",
-    "count": 691,
-    "category": "dns_rules"
+    "count": 694,
+    "category": "core"
   },
   {
     "tag": "mihomo",
-    "count": 337,
+    "count": 338,
     "category": "dns_rules"
   },
   {
@@ -16,7 +16,7 @@
   },
   {
     "tag": "geosite",
-    "count": 268,
+    "count": 270,
     "category": "dns_rules"
   },
   {
@@ -31,12 +31,12 @@
   },
   {
     "tag": "ruleset",
-    "count": 159,
+    "count": 161,
     "category": "dns_rules"
   },
   {
     "tag": "geoip",
-    "count": 159,
+    "count": 161,
     "category": "dns_rules"
   },
   {
@@ -340,6 +340,11 @@
     "category": "core"
   },
   {
+    "tag": "gost",
+    "count": 20,
+    "category": "core"
+  },
+  {
     "tag": "QUIC",
     "count": 20,
     "category": "ecosystem"
@@ -353,11 +358,6 @@
     "tag": "shadowsocks",
     "count": 19,
     "category": "security"
-  },
-  {
-    "tag": "gost",
-    "count": 19,
-    "category": "core"
   },
   {
     "tag": "macOS",
@@ -430,6 +430,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "tunnel",
+    "count": 15,
+    "category": "core"
+  },
+  {
     "tag": "luci",
     "count": 15,
     "category": "router"
@@ -448,11 +453,6 @@
     "tag": "网络规则",
     "count": 15,
     "category": "ecosystem"
-  },
-  {
-    "tag": "tunnel",
-    "count": 14,
-    "category": "core"
   },
   {
     "tag": "v2rayA",
