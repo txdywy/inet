@@ -1,5 +1,76 @@
 [
   {
+    "id": "d1db8e13200a0d1c",
+    "title": "v2fly/domain-list-community 20261018123756",
+    "summary": "20261018123756",
+    "rawTitle": "20261018123756",
+    "rawBody": "## What's Changed\n* Create category-flight-simulator by @TripleA150 in https://github.com/v2fly/domain-list-community/pull/4148\n\n\n**Full Changelog**: https://github.com/v2fly/domain-list-community/compare/20261018102910...20261018123756",
+    "sourceType": "github_release",
+    "sourceName": "v2fly/domain-list-community",
+    "sourceUrl": "https://github.com/v2fly/domain-list-community/releases/tag/20261018123756",
+    "project": "domain-list-community",
+    "repo": "v2fly/domain-list-community",
+    "slug": "domain-list-community",
+    "version": "20261018123756",
+    "category": "dns_rules",
+    "tags": [
+      "geosite",
+      "domain-list",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-10-18T12:38:03Z",
+    "fetchedAt": "2026-10-18T15:55:18.921Z",
+    "firstSeenAt": "2026-10-18T15:55:20.457Z",
+    "updatedAt": "2026-10-18T15:55:20.457Z",
+    "hash": "d1db8e13200a0d1c"
+  },
+  {
+    "id": "c3beef9a2c7072a7",
+    "title": "mihomo-party-org/mihomo-party v2.0.4",
+    "summary": "v2.0.4",
+    "rawTitle": "v2.0.4",
+    "rawBody": "# 2.0.4\n\n## 新功能\n\n- 新增简易模式，可视化编辑订阅、代理组、规则、规则集、DNS 及域名嗅探配置\n- 简易模式支持本地节点管理、节点链接导入及订阅代理集合高级设置\n- 支持从连接详情快速添加简易模式规则，内联规则集支持列表编辑\n- 新增切换节点时仅关闭当前代理组连接的选项\n- 新增 DNS 覆写保护开关、日志等级筛选及 macOS 流量文字颜色设置\n- 侧边栏折叠后支持悬停展开\n\n## 性能优化\n\n- 优化历史流量统计迁移，减少磁盘写入并增加迁移提示\n- 优化跨平台连接应用识别及图标处理，改进 Linux 应用图标匹配\n\n## 修复\n\n- 修复系统唤醒后 TUN 重建时配置不完整，以及修改 TUN 设置后未重启内核的问题\n- 修复启动时未等待初始代理集合就绪及代理组选择状态未刷新的问题\n- 修复不含节点的远程订阅模板无法使用，以及订阅自动更新间隔字段不一致的问题\n- 修复配置模式切换同步、代理组编辑模式及首次使用引导的本地化问题\n- 修复 Windows 7 窗口初始化兼容问题，切换系统标题栏时增加重启确认\n- 修复拓扑图平移与卡片排序冲突、DNS 卡片切换时尺寸变化的问题\n- 修复 YAML 编辑器最大化后尺寸未更新、窄页面标题换行及内核版本名称过长的问题\n- 修复代理显示设置菜单选择后自动关闭、Smart 内核设置分隔线及内核认证提示问题\n\n## 其他\n\n- 更新依赖\n\n### 下载地址：\n\n#### Windows10/11：\n\n- 安装版：[64位](https://github.com/mihomo-party-org/clash-party/releases/download/v2.0.4/clash-party-windows-2.0.4-x64-setup.exe) | [32位](https://github.com/mihomo-party-org/clash-party/releases/download/v2.0.4/clash-party-windows-2.0.4-ia32-setup.exe) | [ARM64](https://github.com/mihomo-party-org/clash-party/releases/download/v2.0.4/clash-party-windows-2.0.4-arm64-setup.exe)\n\n- 便携版：[64位](https://github.com/mihomo-party-org/clash-party/releases/download/v2.0.4/clash-party-windows-2.0.4-x64-portable.7z) | [32位](https://github.com/mihomo-party-org/clash-party/releases/download/v2.0.4/clash-party-windows-2.0.4-ia32-portable.7z) | [ARM64](https://github.com/mihomo-party-org/clash-party/releases/download/v2.0.4/clash-party-windows-2.0.4-arm64-portable.7z)\n\n\n#### Windows7/8：\n\n- 安装版：[64位](https://github.com/mihomo-party-org/clash-party/releases/download/v2.0.4/clash-party-win7-2.0.4-x64-setup.exe) | [32位](https://github.com/mihomo-party-org/clash-party/releases/download/v2.0.4/clash-party-win7-2.0.4-ia32-setup.exe)\n\n- 便携版：[64位](https://github.com/mihomo-party-org/clash-party/releases/download/v2.0.4/clash-party-win7-2.0.4-x64-portable.7z) | [32位](https://github.com/mihomo-party-org/clash-party/releases/download/v2.0.4/clash-party-win7-2.0.4-ia32-portable.7z)\n\n\n#### macOS 11+：\n\n- PKG：[Intel](https://github.com/mihomo-party-org/clash-party/releases/download/v2.0.4/clash-party-macos-2.0.4-x64.pkg) | [Apple Silicon](https://github.com/mihomo-party-org/clash-party/releases/download/v2.0.4/clash-party-macos-2.0.4-arm64.pkg)\n\n\n#### macOS 10.15+：\n\n- PKG：[Intel](https://github.com/mihomo-party-org/clash-party/releases/download/v2.0.4/clash-party-catalina-2.0.4-x64.pkg) | [Apple Silicon](https://github.com/mihomo-party-org/clash-party/releases/download/v2.0.4/clash-party-catalina-2.0.4-arm64.pkg)\n\n\n#### Linux：\n\n- DEB：[64位](https://github.com/mihomo-party-org/clash-party/releases/download/v2.0.4/clash-party-linux-2.0.4-amd64.deb) | [ARM64](https://github.com/mihomo-party-org/clash-party/releases/download/v2.0.4/clash-party-linux-2.0.4-arm64.deb)\n\n- RPM：[64位](https://github.com/mihomo-party-org/clash-party/releases/download/v2.0.4/clash-party-linux-2.0.4-x86_64.rpm) | [ARM64](https://github.com/mihomo-party-org/clash-party/releases/download/v2.0.4/clash-party-linux-2.0.4-aarch64.rpm)\n\n- PACMAN：[64位](https://github.com/mihomo-party-org/clash-party/releases/download/v2.0.4/clash-party-linux-2.0.4-x64.pkg.tar.zst) | [ARM64](https://github.com/mihomo-party-org/clash-party/releases/download/v2.0.4/clash-party-linux-2.0.4-aarch64.pkg.tar.zst)\n\n### 机场推荐：\n- 高性能海外机场，稳定首选：[https://狗狗加速.com](https://party.dginv.click/#/register?code=ARdo0mXx)",
+    "sourceType": "github_release",
+    "sourceName": "mihomo-party-org/mihomo-party",
+    "sourceUrl": "https://github.com/mihomo-party-org/clash-party/releases/tag/v2.0.4",
+    "project": "mihomo-party",
+    "repo": "mihomo-party-org/mihomo-party",
+    "slug": "mihomo-party",
+    "version": "2.0.4",
+    "category": "client",
+    "tags": [
+      "mihomo-party",
+      "mihomo",
+      "desktop",
+      "release"
+    ],
+    "platforms": [
+      "windows",
+      "macos",
+      "linux"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-10-18T12:17:04Z",
+    "fetchedAt": "2026-10-18T15:55:11.987Z",
+    "firstSeenAt": "2026-10-18T15:55:19.639Z",
+    "updatedAt": "2026-10-18T15:55:19.639Z",
+    "hash": "c3beef9a2c7072a7"
+  },
+  {
     "id": "d8d0ca93b1f4bf06",
     "title": "v2fly/domain-list-community 20261018102910",
     "summary": "20261018102910",

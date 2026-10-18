@@ -1,13 +1,13 @@
 {
-  "totalItems": 1897,
-  "last24h": 13,
-  "last7d": 34,
+  "totalItems": 1899,
+  "last24h": 9,
+  "last7d": 36,
   "byCategory": {
     "core": 302,
-    "client": 296,
+    "client": 297,
     "router": 28,
     "protocol": 57,
-    "dns_rules": 304,
+    "dns_rules": 305,
     "security": 109,
     "ecosystem": 801,
     "trend": 0
@@ -15,7 +15,7 @@
   "topProjects": [
     {
       "project": "domain-list-community",
-      "count": 315
+      "count": 316
     },
     {
       "project": "mihomo",
@@ -57,11 +57,11 @@
   "hotTags": [
     {
       "tag": "release",
-      "count": 710
+      "count": 712
     },
     {
       "tag": "mihomo",
-      "count": 339
+      "count": 340
     },
     {
       "tag": "MetaCubeX",
@@ -69,7 +69,7 @@
     },
     {
       "tag": "geosite",
-      "count": 280
+      "count": 281
     },
     {
       "tag": "v2fly",
@@ -77,7 +77,7 @@
     },
     {
       "tag": "domain-list",
-      "count": 185
+      "count": 186
     },
     {
       "tag": "ruleset",
@@ -136,8 +136,8 @@
       "count": 82
     }
   ],
-  "importantCount": 810,
+  "importantCount": 812,
   "breakingCount": 104,
   "securityCount": 163,
-  "updatedAt": "2026-10-18T11:16:38.233Z"
+  "updatedAt": "2026-10-18T15:55:20.861Z"
 }

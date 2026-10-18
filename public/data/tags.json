@@ -1,13 +1,13 @@
 [
   {
     "tag": "release",
-    "count": 710,
+    "count": 712,
     "category": "dns_rules"
   },
   {
     "tag": "mihomo",
-    "count": 339,
-    "category": "dns_rules"
+    "count": 340,
+    "category": "client"
   },
   {
     "tag": "MetaCubeX",
@@ -16,7 +16,7 @@
   },
   {
     "tag": "geosite",
-    "count": 280,
+    "count": 281,
     "category": "dns_rules"
   },
   {
@@ -26,7 +26,7 @@
   },
   {
     "tag": "domain-list",
-    "count": 185,
+    "count": 186,
     "category": "dns_rules"
   },
   {
@@ -455,6 +455,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "desktop",
+    "count": 14,
+    "category": "client"
+  },
+  {
     "tag": "v2rayA",
     "count": 14,
     "category": "client"
@@ -473,11 +478,6 @@
     "tag": "v2rayng",
     "count": 13,
     "category": "security"
-  },
-  {
-    "tag": "desktop",
-    "count": 13,
-    "category": "client"
   },
   {
     "tag": "ssrplus",
@@ -565,6 +565,11 @@
     "category": "client"
   },
   {
+    "tag": "mihomo-party",
+    "count": 10,
+    "category": "client"
+  },
+  {
     "tag": "clash-verge",
     "count": 10,
     "category": "client"
@@ -588,11 +593,6 @@
     "tag": "amneziawg",
     "count": 9,
     "category": "security"
-  },
-  {
-    "tag": "mihomo-party",
-    "count": 9,
-    "category": "client"
   },
   {
     "tag": "配置管理",
