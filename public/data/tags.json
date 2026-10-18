@@ -1,12 +1,12 @@
 [
   {
     "tag": "release",
-    "count": 702,
-    "category": "security"
+    "count": 708,
+    "category": "ecosystem"
   },
   {
     "tag": "mihomo",
-    "count": 338,
+    "count": 339,
     "category": "dns_rules"
   },
   {
@@ -16,7 +16,7 @@
   },
   {
     "tag": "geosite",
-    "count": 275,
+    "count": 279,
     "category": "dns_rules"
   },
   {
@@ -26,22 +26,22 @@
   },
   {
     "tag": "domain-list",
-    "count": 182,
+    "count": 184,
     "category": "dns_rules"
   },
   {
     "tag": "ruleset",
-    "count": 161,
+    "count": 163,
     "category": "dns_rules"
   },
   {
     "tag": "geoip",
-    "count": 161,
+    "count": 163,
     "category": "dns_rules"
   },
   {
     "tag": "xray-core",
-    "count": 140,
+    "count": 141,
     "category": "security"
   },
   {
@@ -56,6 +56,11 @@
   },
   {
     "tag": "x-ui",
+    "count": 101,
+    "category": "security"
+  },
+  {
+    "tag": "panel",
     "count": 100,
     "category": "security"
   },
@@ -63,11 +68,6 @@
     "tag": "v2ray",
     "count": 100,
     "category": "ecosystem"
-  },
-  {
-    "tag": "panel",
-    "count": 99,
-    "category": "security"
   },
   {
     "tag": "clash",
@@ -156,12 +156,12 @@
   },
   {
     "tag": "sub-store",
-    "count": 49,
+    "count": 50,
     "category": "ecosystem"
   },
   {
     "tag": "subscription",
-    "count": 49,
+    "count": 50,
     "category": "ecosystem"
   },
   {
