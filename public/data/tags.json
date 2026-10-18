@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 708,
-    "category": "ecosystem"
+    "count": 710,
+    "category": "dns_rules"
   },
   {
     "tag": "mihomo",
@@ -16,7 +16,7 @@
   },
   {
     "tag": "geosite",
-    "count": 279,
+    "count": 280,
     "category": "dns_rules"
   },
   {
@@ -26,7 +26,7 @@
   },
   {
     "tag": "domain-list",
-    "count": 184,
+    "count": 185,
     "category": "dns_rules"
   },
   {
@@ -41,7 +41,7 @@
   },
   {
     "tag": "xray-core",
-    "count": 141,
+    "count": 142,
     "category": "security"
   },
   {
@@ -170,6 +170,11 @@
     "category": "security"
   },
   {
+    "tag": "wireguard",
+    "count": 46,
+    "category": "security"
+  },
+  {
     "tag": "开源",
     "count": 46,
     "category": "core"
@@ -178,11 +183,6 @@
     "tag": "代理",
     "count": 46,
     "category": "ecosystem"
-  },
-  {
-    "tag": "wireguard",
-    "count": 45,
-    "category": "security"
   },
   {
     "tag": "网络协议",
@@ -310,6 +310,11 @@
     "category": "protocol"
   },
   {
+    "tag": "android",
+    "count": 23,
+    "category": "security"
+  },
+  {
     "tag": "reality",
     "count": 23,
     "category": "security"
@@ -323,11 +328,6 @@
     "tag": "VLESS",
     "count": 23,
     "category": "ecosystem"
-  },
-  {
-    "tag": "android",
-    "count": 22,
-    "category": "security"
   },
   {
     "tag": "用户界面",
@@ -470,6 +470,11 @@
     "category": "core"
   },
   {
+    "tag": "v2rayng",
+    "count": 13,
+    "category": "security"
+  },
+  {
     "tag": "desktop",
     "count": 13,
     "category": "client"
@@ -498,11 +503,6 @@
     "tag": "SOCKS",
     "count": 13,
     "category": "client"
-  },
-  {
-    "tag": "v2rayng",
-    "count": 12,
-    "category": "security"
   },
   {
     "tag": "v2rayn",

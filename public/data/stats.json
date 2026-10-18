@@ -1,21 +1,21 @@
 {
-  "totalItems": 1895,
-  "last24h": 11,
-  "last7d": 36,
+  "totalItems": 1897,
+  "last24h": 13,
+  "last7d": 34,
   "byCategory": {
     "core": 302,
     "client": 296,
     "router": 28,
     "protocol": 57,
-    "dns_rules": 303,
-    "security": 108,
+    "dns_rules": 304,
+    "security": 109,
     "ecosystem": 801,
     "trend": 0
   },
   "topProjects": [
     {
       "project": "domain-list-community",
-      "count": 314
+      "count": 315
     },
     {
       "project": "mihomo",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "release",
-      "count": 708
+      "count": 710
     },
     {
       "tag": "mihomo",
@@ -69,7 +69,7 @@
     },
     {
       "tag": "geosite",
-      "count": 279
+      "count": 280
     },
     {
       "tag": "v2fly",
@@ -77,7 +77,7 @@
     },
     {
       "tag": "domain-list",
-      "count": 184
+      "count": 185
     },
     {
       "tag": "ruleset",
@@ -89,7 +89,7 @@
     },
     {
       "tag": "xray-core",
-      "count": 141
+      "count": 142
     },
     {
       "tag": "Sub-Store",
@@ -136,8 +136,8 @@
       "count": 82
     }
   ],
-  "importantCount": 809,
+  "importantCount": 810,
   "breakingCount": 104,
-  "securityCount": 162,
-  "updatedAt": "2026-10-18T04:40:06.550Z"
+  "securityCount": 163,
+  "updatedAt": "2026-10-18T11:16:38.233Z"
 }
