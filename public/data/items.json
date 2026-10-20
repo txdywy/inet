@@ -1,5 +1,40 @@
 [
   {
+    "id": "b65c5e03393457a8",
+    "title": "v2fly/v2ray-core v5.55.0",
+    "summary": "v5.55.0",
+    "rawTitle": "v5.55.0",
+    "rawBody": "this is a maintenance release containing security updates for end users. The machine generated changes includes in this release will subject to review and changes once the maintainer recovers from temporary incapacitation and is not covered by API stability policies.\r\n\r\n## What's Changed\r\n* Machine generated/update go dependencies by @xiaokangwang in https://github.com/v2fly/v2ray-core/pull/3857\r\n\r\n\r\n**Full Changelog**: https://github.com/v2fly/v2ray-core/compare/v5.54.2...v5.55.0",
+    "sourceType": "github_release",
+    "sourceName": "v2fly/v2ray-core",
+    "sourceUrl": "https://github.com/v2fly/v2ray-core/releases/tag/v5.55.0",
+    "project": "v2ray-core",
+    "repo": "v2fly/v2ray-core",
+    "slug": "v2ray-core",
+    "version": "5.55.0",
+    "category": "security",
+    "tags": [
+      "v2ray-core",
+      "vless",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 3,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": true,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-10-20T19:00:45Z",
+    "fetchedAt": "2026-10-20T21:33:37.600Z",
+    "firstSeenAt": "2026-10-20T21:33:51.992Z",
+    "updatedAt": "2026-10-20T21:33:51.992Z",
+    "hash": "b65c5e03393457a8"
+  },
+  {
     "id": "8dbb072c50149bb2",
     "title": "v2fly/domain-list-community 20261020135944",
     "summary": "20261020135944",

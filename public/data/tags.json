@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 734,
-    "category": "dns_rules"
+    "count": 735,
+    "category": "security"
   },
   {
     "tag": "mihomo",
@@ -106,7 +106,7 @@
   },
   {
     "tag": "vless",
-    "count": 78,
+    "count": 79,
     "category": "security"
   },
   {
@@ -505,6 +505,11 @@
     "category": "client"
   },
   {
+    "tag": "v2ray-core",
+    "count": 12,
+    "category": "security"
+  },
+  {
     "tag": "v2rayn",
     "count": 12,
     "category": "security"
@@ -526,11 +531,6 @@
   },
   {
     "tag": "xtls",
-    "count": 11,
-    "category": "security"
-  },
-  {
-    "tag": "v2ray-core",
     "count": 11,
     "category": "security"
   },
