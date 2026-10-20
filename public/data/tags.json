@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 728,
-    "category": "dns_rules"
+    "count": 731,
+    "category": "security"
   },
   {
     "tag": "mihomo",
@@ -16,7 +16,7 @@
   },
   {
     "tag": "geosite",
-    "count": 296,
+    "count": 298,
     "category": "dns_rules"
   },
   {
@@ -26,7 +26,7 @@
   },
   {
     "tag": "domain-list",
-    "count": 197,
+    "count": 199,
     "category": "dns_rules"
   },
   {
@@ -300,6 +300,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "reality",
+    "count": 24,
+    "category": "security"
+  },
+  {
     "tag": "dns",
     "count": 24,
     "category": "router"
@@ -311,11 +316,6 @@
   },
   {
     "tag": "android",
-    "count": 23,
-    "category": "security"
-  },
-  {
-    "tag": "reality",
     "count": 23,
     "category": "security"
   },
@@ -455,6 +455,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "v2ray-agent",
+    "count": 14,
+    "category": "security"
+  },
+  {
     "tag": "desktop",
     "count": 14,
     "category": "client"
@@ -483,11 +488,6 @@
     "tag": "ssrplus",
     "count": 13,
     "category": "router"
-  },
-  {
-    "tag": "v2ray-agent",
-    "count": 13,
-    "category": "ecosystem"
   },
   {
     "tag": "OpenWrt",
@@ -690,6 +690,11 @@
     "category": "core"
   },
   {
+    "tag": "vision",
+    "count": 7,
+    "category": "security"
+  },
+  {
     "tag": "tailscale",
     "count": 7,
     "category": "ecosystem"
@@ -735,7 +740,12 @@
     "category": "ecosystem"
   },
   {
-    "tag": "vision",
+    "tag": "script",
+    "count": 6,
+    "category": "security"
+  },
+  {
+    "tag": "vps",
     "count": 6,
     "category": "security"
   },
@@ -808,16 +818,6 @@
     "tag": "warp",
     "count": 5,
     "category": "security"
-  },
-  {
-    "tag": "script",
-    "count": 5,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "vps",
-    "count": 5,
-    "category": "ecosystem"
   },
   {
     "tag": "dashboard",
