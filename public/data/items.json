@@ -1,5 +1,77 @@
 [
   {
+    "id": "bd12e24318810b9c",
+    "title": "v2fly/domain-list-community 20261020022354",
+    "summary": "20261020022354",
+    "rawTitle": "20261020022354",
+    "rawBody": "## What's Changed\n* Update category-medicine-ru: Add hellodoc, medrocket   by @steepenergy in https://github.com/v2fly/domain-list-community/pull/4167\n\n\n**Full Changelog**: https://github.com/v2fly/domain-list-community/compare/20261019074502...20261020022354",
+    "sourceType": "github_release",
+    "sourceName": "v2fly/domain-list-community",
+    "sourceUrl": "https://github.com/v2fly/domain-list-community/releases/tag/20261020022354",
+    "project": "domain-list-community",
+    "repo": "v2fly/domain-list-community",
+    "slug": "domain-list-community",
+    "version": "20261020022354",
+    "category": "dns_rules",
+    "tags": [
+      "geosite",
+      "domain-list",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 2,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-10-20T02:24:03Z",
+    "fetchedAt": "2026-10-20T04:56:52.319Z",
+    "firstSeenAt": "2026-10-20T04:56:53.894Z",
+    "updatedAt": "2026-10-20T04:56:53.894Z",
+    "hash": "bd12e24318810b9c"
+  },
+  {
+    "id": "421f9f6e21056c74",
+    "title": "MetaCubeX/meta-rules-dat Release 2026-10-20 09:07",
+    "summary": "Release 2026-10-20 09:07",
+    "rawTitle": "Release 2026-10-20 09:07",
+    "rawBody": "",
+    "sourceType": "github_release",
+    "sourceName": "MetaCubeX/meta-rules-dat",
+    "sourceUrl": "https://github.com/MetaCubeX/meta-rules-dat/releases/tag/latest",
+    "project": "meta-rules-dat",
+    "repo": "MetaCubeX/meta-rules-dat",
+    "slug": "meta-rules-dat",
+    "version": "latest",
+    "category": "dns_rules",
+    "tags": [
+      "ruleset",
+      "geosite",
+      "geoip",
+      "mihomo",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-10-20T01:10:20Z",
+    "fetchedAt": "2026-10-20T04:56:50.995Z",
+    "firstSeenAt": "2026-10-20T04:56:53.083Z",
+    "updatedAt": "2026-10-20T04:56:53.083Z",
+    "hash": "421f9f6e21056c74"
+  },
+  {
     "id": "06e2a625688f5103",
     "title": "Loyalsoldier/v2ray-rules-dat Released on 202610192206",
     "summary": "Released on 202610192206",
