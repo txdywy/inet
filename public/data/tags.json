@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 731,
-    "category": "security"
+    "count": 734,
+    "category": "dns_rules"
   },
   {
     "tag": "mihomo",
@@ -16,7 +16,7 @@
   },
   {
     "tag": "geosite",
-    "count": 298,
+    "count": 301,
     "category": "dns_rules"
   },
   {
@@ -26,7 +26,7 @@
   },
   {
     "tag": "domain-list",
-    "count": 199,
+    "count": 202,
     "category": "dns_rules"
   },
   {
@@ -130,6 +130,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "ech",
+    "count": 60,
+    "category": "dns_rules"
+  },
+  {
     "tag": "hysteria2",
     "count": 60,
     "category": "security"
@@ -138,11 +143,6 @@
     "tag": "quic",
     "count": 60,
     "category": "security"
-  },
-  {
-    "tag": "ech",
-    "count": 59,
-    "category": "dns_rules"
   },
   {
     "tag": "开发版本",
