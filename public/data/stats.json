@@ -1,14 +1,14 @@
 {
-  "totalItems": 1931,
-  "last24h": 13,
-  "last7d": 59,
+  "totalItems": 1940,
+  "last24h": 16,
+  "last7d": 64,
   "byCategory": {
-    "core": 302,
-    "client": 297,
-    "router": 28,
+    "core": 305,
+    "client": 299,
+    "router": 29,
     "protocol": 57,
     "dns_rules": 332,
-    "security": 113,
+    "security": 116,
     "ecosystem": 802,
     "trend": 0
   },
@@ -19,7 +19,7 @@
     },
     {
       "project": "mihomo",
-      "count": 221
+      "count": 223
     },
     {
       "project": "3x-ui",
@@ -47,21 +47,21 @@
     },
     {
       "project": "gost",
-      "count": 51
+      "count": 53
     },
     {
       "project": "ClashMetaForAndroid",
-      "count": 44
+      "count": 46
     }
   ],
   "hotTags": [
     {
       "tag": "release",
-      "count": 744
+      "count": 753
     },
     {
       "tag": "mihomo",
-      "count": 343
+      "count": 347
     },
     {
       "tag": "MetaCubeX",
@@ -89,7 +89,7 @@
     },
     {
       "tag": "xray-core",
-      "count": 142
+      "count": 144
     },
     {
       "tag": "Sub-Store",
@@ -113,7 +113,7 @@
     },
     {
       "tag": "clash",
-      "count": 90
+      "count": 95
     },
     {
       "tag": "sing-box",
@@ -136,8 +136,8 @@
       "count": 82
     }
   ],
-  "importantCount": 839,
+  "importantCount": 840,
   "breakingCount": 105,
-  "securityCount": 167,
-  "updatedAt": "2026-10-21T11:58:47.468Z"
+  "securityCount": 170,
+  "updatedAt": "2026-10-21T17:16:28.538Z"
 }
