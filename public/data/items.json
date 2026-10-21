@@ -1,5 +1,77 @@
 [
   {
+    "id": "98a0f0b5206dcf14",
+    "title": "sub-store-org/Sub-Store 2.43.0",
+    "summary": "2.43.0",
+    "rawTitle": "2.43.0",
+    "rawBody": "## 2.43.0 (2026-10-21)\n\n* feat: 升级 Node.js 和依赖版本 ([fdcf324](https://github.com/sub-store-org/Sub-Store/commit/fdcf324))\n",
+    "sourceType": "github_release",
+    "sourceName": "sub-store-org/Sub-Store",
+    "sourceUrl": "https://github.com/sub-store-org/Sub-Store/releases/tag/2.43.0",
+    "project": "Sub-Store",
+    "repo": "sub-store-org/Sub-Store",
+    "slug": "sub-store",
+    "version": "2.43.0",
+    "category": "ecosystem",
+    "tags": [
+      "sub-store",
+      "subscription",
+      "release"
+    ],
+    "platforms": [
+      "ios",
+      "android",
+      "macos",
+      "windows",
+      "linux"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-10-21T19:25:52Z",
+    "fetchedAt": "2026-10-21T21:37:33.312Z",
+    "firstSeenAt": "2026-10-21T21:37:37.428Z",
+    "updatedAt": "2026-10-21T21:37:37.428Z",
+    "hash": "98a0f0b5206dcf14"
+  },
+  {
+    "id": "cc1b6c188851f65f",
+    "title": "fw876/helloworld v198.1",
+    "summary": "v198.1",
+    "rawTitle": "v198.1",
+    "rawBody": "**Full Changelog**: https://github.com/fw876/helloworld/compare/v196.19...v198.1",
+    "sourceType": "github_release",
+    "sourceName": "fw876/helloworld",
+    "sourceUrl": "https://github.com/fw876/helloworld/releases/tag/v198.1",
+    "project": "helloworld",
+    "repo": "fw876/helloworld",
+    "slug": "helloworld",
+    "version": "198.1",
+    "category": "router",
+    "tags": [
+      "ssrplus",
+      "openwrt",
+      "luci",
+      "release"
+    ],
+    "platforms": [
+      "openwrt",
+      "router"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-10-21T18:03:54Z",
+    "fetchedAt": "2026-10-21T21:37:30.408Z",
+    "firstSeenAt": "2026-10-21T21:37:36.606Z",
+    "updatedAt": "2026-10-21T21:37:36.606Z",
+    "hash": "cc1b6c188851f65f"
+  },
+  {
     "id": "654ab734517cd69b",
     "title": "MetaCubeX/mihomo v1.19.33",
     "summary": "v1.19.33",
@@ -1499,6 +1571,43 @@
     "firstSeenAt": "2026-10-18T11:16:36.958Z",
     "updatedAt": "2026-10-18T11:16:36.958Z",
     "hash": "07b1f6edc133a042"
+  },
+  {
+    "id": "49c1a857950ce089",
+    "title": "sub-store-org/Sub-Store 2.42.6",
+    "summary": "2.42.6",
+    "rawTitle": "2.42.6",
+    "rawBody": "## <small>2.42.6 (2026-10-21)</small>\n\n* feat: 升级 Node.js 和依赖版本 ([3ae9872](https://github.com/sub-store-org/Sub-Store/commit/3ae9872))\n",
+    "sourceType": "github_release",
+    "sourceName": "sub-store-org/Sub-Store",
+    "sourceUrl": "https://github.com/sub-store-org/Sub-Store/releases/tag/2.42.6",
+    "project": "Sub-Store",
+    "repo": "sub-store-org/Sub-Store",
+    "slug": "sub-store",
+    "version": "2.42.6",
+    "category": "ecosystem",
+    "tags": [
+      "sub-store",
+      "subscription",
+      "release"
+    ],
+    "platforms": [
+      "ios",
+      "android",
+      "macos",
+      "windows",
+      "linux"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-10-18T04:39:27Z",
+    "fetchedAt": "2026-10-21T21:37:33.312Z",
+    "firstSeenAt": "2026-10-21T21:37:38.245Z",
+    "updatedAt": "2026-10-21T21:37:38.245Z",
+    "hash": "49c1a857950ce089"
   },
   {
     "id": "f21ddf9e320eecd9",

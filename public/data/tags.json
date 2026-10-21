@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 753,
-    "category": "security"
+    "count": 756,
+    "category": "ecosystem"
   },
   {
     "tag": "mihomo",
@@ -150,6 +150,16 @@
     "category": "ecosystem"
   },
   {
+    "tag": "sub-store",
+    "count": 52,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "subscription",
+    "count": 52,
+    "category": "ecosystem"
+  },
+  {
     "tag": "Android",
     "count": 51,
     "category": "client"
@@ -158,16 +168,6 @@
     "tag": "tuic",
     "count": 50,
     "category": "security"
-  },
-  {
-    "tag": "sub-store",
-    "count": 50,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "subscription",
-    "count": 50,
-    "category": "ecosystem"
   },
   {
     "tag": "wireguard",
@@ -220,6 +220,11 @@
     "category": "core"
   },
   {
+    "tag": "openwrt",
+    "count": 34,
+    "category": "router"
+  },
+  {
     "tag": "WireGuard",
     "count": 34,
     "category": "core"
@@ -228,11 +233,6 @@
     "tag": "ClashMetaForAndroid",
     "count": 34,
     "category": "client"
-  },
-  {
-    "tag": "openwrt",
-    "count": 33,
-    "category": "security"
   },
   {
     "tag": "Snell",
@@ -380,6 +380,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "luci",
+    "count": 18,
+    "category": "router"
+  },
+  {
     "tag": "v2rayNG",
     "count": 18,
     "category": "client"
@@ -393,11 +398,6 @@
     "tag": "tunnel",
     "count": 17,
     "category": "core"
-  },
-  {
-    "tag": "luci",
-    "count": 17,
-    "category": "security"
   },
   {
     "tag": "TLS",
@@ -440,6 +440,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "ssrplus",
+    "count": 15,
+    "category": "router"
+  },
+  {
     "tag": "mosdns",
     "count": 15,
     "category": "router"
@@ -453,11 +458,6 @@
     "tag": "网络规则",
     "count": 15,
     "category": "ecosystem"
-  },
-  {
-    "tag": "ssrplus",
-    "count": 14,
-    "category": "security"
   },
   {
     "tag": "v2ray-agent",

@@ -1,15 +1,15 @@
 {
-  "totalItems": 1940,
-  "last24h": 16,
-  "last7d": 64,
+  "totalItems": 1943,
+  "last24h": 17,
+  "last7d": 67,
   "byCategory": {
     "core": 305,
     "client": 299,
-    "router": 29,
+    "router": 30,
     "protocol": 57,
     "dns_rules": 332,
     "security": 116,
-    "ecosystem": 802,
+    "ecosystem": 804,
     "trend": 0
   },
   "topProjects": [
@@ -35,7 +35,7 @@
     },
     {
       "project": "Sub-Store",
-      "count": 167
+      "count": 169
     },
     {
       "project": "metacubexd",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "release",
-      "count": 753
+      "count": 756
     },
     {
       "tag": "mihomo",
@@ -136,8 +136,8 @@
       "count": 82
     }
   ],
-  "importantCount": 840,
+  "importantCount": 843,
   "breakingCount": 105,
   "securityCount": 170,
-  "updatedAt": "2026-10-21T17:16:28.538Z"
+  "updatedAt": "2026-10-21T21:37:38.549Z"
 }
