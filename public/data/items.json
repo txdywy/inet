@@ -1,5 +1,46 @@
 [
   {
+    "id": "5c7e51db164aaa6a",
+    "title": "fw876/helloworld v197.3",
+    "summary": "v197.3",
+    "rawTitle": "v197.3",
+    "rawBody": "# helloworld v197.3\n\nChanges since v196.19:\n\n- xray-core: add Kcptun transport and LuCI settings (`f681871`)\n- xray-core: add ShadowTLS transport and LuCI configuration (`a8d8c74`)\n- luci-app-ssr-plus: bump to 197 and disable legacy package defaults (`12b7dd5`)\n- xray-core: add ShadowsocksR inbound and consolidate protocol patch (`63a8904`)\n- xray-core: add AnyTLS inbound and consolidate protocol patch (`a970802`)\n- xray-core: add Mihomo Snell support and LuCI integration (`092886c`)\n- xray-core: add Mihomo TUIC v4/v5 support and LuCI integration (`2a70c30`)\n- ci: replace naiveproxy release package with SSR Plus Chinese translation (`ac70ddc`)\n- xray-core: add Mihomo ShadowsocksR outbound and LuCI support (`1cea3d2`)\n- xray-core: add Cronet NaiveProxy support and SSR Plus configuration (`cc3862b`)\n- redsocks2: update to 0.72 (`0d24da0`)\n- dns2socks-rust: update to 0.2.6 (`1a7a1e4`)\n- hysteria: update to 2.13.0 (`0993f66`)\n- naiveproxy: update to 154.0.8037.49-4 (`25188df`)\n- gn: update to git HEAD (`46eff22`)\n- xray-core: update to 26.10.17 (`2e60703`)\n- luci-app-ssr-plus: fix(shadowsocksr): don't pass empty flag vars as empty arguments (`4121799`)\n- luci-app-ssr-plus: fix(shadowsocksr): read custom_ports from global config (`356dd51`)\n- luci-app-ssr-plus: fix(ssr-monitor): drop local keyword outside function scope, (`59b2880`)\n- luci-app-ssr-plus: fix(ipv6): add missing @gmlan6 rule in nftables backend Problem:   ipv6_policy_rules() in ipv6.sh (nftables backend) is missing the   gmlan6 match that the iptables backend already has. In router mode,   traffic sourced from the game-mode LAN set is not routed through   the proxy on IPv6, while IPv4 handles it correctly via the   equivalent gmlan rule. (`1f0849e`)\n- luci-app-ssr-plus: fix logger argument handling (`2d9199b`)\n- luci-app-ssr-plus: make Mihomo optional on ARM targets (`f2e92f4`)\n\nPackages:\n- luci-app-ssr-plus\n- xray-core\n- mihomo\n- luci-i18n-ssr-plus-zh-cn\n",
+    "sourceType": "github_release",
+    "sourceName": "fw876/helloworld",
+    "sourceUrl": "https://github.com/fw876/helloworld/releases/tag/v197.3",
+    "project": "helloworld",
+    "repo": "fw876/helloworld",
+    "slug": "helloworld",
+    "version": "197.3",
+    "category": "security",
+    "tags": [
+      "ssrplus",
+      "openwrt",
+      "luci",
+      "anytls",
+      "tuic",
+      "shadowtls",
+      "naiveproxy",
+      "shadowsocks",
+      "snell",
+      "release"
+    ],
+    "platforms": [
+      "openwrt",
+      "router"
+    ],
+    "importance": 3,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": true,
+    "isProtocolRelated": true,
+    "publishedAt": "2026-10-21T05:11:31Z",
+    "fetchedAt": "2026-10-21T11:58:40.591Z",
+    "firstSeenAt": "2026-10-21T11:58:47.067Z",
+    "updatedAt": "2026-10-21T11:58:47.067Z",
+    "hash": "5c7e51db164aaa6a"
+  },
+  {
     "id": "c1bc94c9015f67a8",
     "title": "tailscale/tailscale v1.104.2",
     "summary": "v1.104.2",

@@ -1,6 +1,6 @@
 {
-  "totalItems": 1930,
-  "last24h": 15,
+  "totalItems": 1931,
+  "last24h": 13,
   "last7d": 59,
   "byCategory": {
     "core": 302,
@@ -8,7 +8,7 @@
     "router": 28,
     "protocol": 57,
     "dns_rules": 332,
-    "security": 112,
+    "security": 113,
     "ecosystem": 802,
     "trend": 0
   },
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "release",
-      "count": 743
+      "count": 744
     },
     {
       "tag": "mihomo",
@@ -138,6 +138,6 @@
   ],
   "importantCount": 839,
   "breakingCount": 105,
-  "securityCount": 166,
-  "updatedAt": "2026-10-21T04:56:22.691Z"
+  "securityCount": 167,
+  "updatedAt": "2026-10-21T11:58:47.468Z"
 }

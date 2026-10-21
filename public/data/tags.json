@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 743,
-    "category": "ecosystem"
+    "count": 744,
+    "category": "security"
   },
   {
     "tag": "mihomo",
@@ -155,6 +155,11 @@
     "category": "client"
   },
   {
+    "tag": "tuic",
+    "count": 50,
+    "category": "security"
+  },
+  {
     "tag": "sub-store",
     "count": 50,
     "category": "ecosystem"
@@ -163,11 +168,6 @@
     "tag": "subscription",
     "count": 50,
     "category": "ecosystem"
-  },
-  {
-    "tag": "tuic",
-    "count": 49,
-    "category": "security"
   },
   {
     "tag": "wireguard",
@@ -240,19 +240,19 @@
     "category": "core"
   },
   {
-    "tag": "自动构建",
-    "count": 32,
-    "category": "ecosystem"
-  },
-  {
     "tag": "openwrt",
-    "count": 31,
+    "count": 32,
     "category": "security"
   },
   {
     "tag": "naiveproxy",
-    "count": 31,
-    "category": "router"
+    "count": 32,
+    "category": "security"
+  },
+  {
+    "tag": "自动构建",
+    "count": 32,
+    "category": "ecosystem"
   },
   {
     "tag": "Tailscale",
@@ -340,6 +340,11 @@
     "category": "core"
   },
   {
+    "tag": "shadowsocks",
+    "count": 20,
+    "category": "security"
+  },
+  {
     "tag": "gost",
     "count": 20,
     "category": "core"
@@ -355,7 +360,12 @@
     "category": "core"
   },
   {
-    "tag": "shadowsocks",
+    "tag": "anytls",
+    "count": 19,
+    "category": "security"
+  },
+  {
+    "tag": "snell",
     "count": 19,
     "category": "security"
   },
@@ -368,16 +378,6 @@
     "tag": "CHACHA20-POLY1305",
     "count": 19,
     "category": "ecosystem"
-  },
-  {
-    "tag": "anytls",
-    "count": 18,
-    "category": "security"
-  },
-  {
-    "tag": "snell",
-    "count": 18,
-    "category": "security"
   },
   {
     "tag": "v2rayNG",
@@ -410,6 +410,11 @@
     "category": "client"
   },
   {
+    "tag": "luci",
+    "count": 16,
+    "category": "security"
+  },
+  {
     "tag": "域名",
     "count": 16,
     "category": "ecosystem"
@@ -435,11 +440,6 @@
     "category": "core"
   },
   {
-    "tag": "luci",
-    "count": 15,
-    "category": "router"
-  },
-  {
     "tag": "mosdns",
     "count": 15,
     "category": "router"
@@ -453,6 +453,11 @@
     "tag": "网络规则",
     "count": 15,
     "category": "ecosystem"
+  },
+  {
+    "tag": "ssrplus",
+    "count": 14,
+    "category": "security"
   },
   {
     "tag": "v2ray-agent",
@@ -483,11 +488,6 @@
     "tag": "v2rayng",
     "count": 13,
     "category": "security"
-  },
-  {
-    "tag": "ssrplus",
-    "count": 13,
-    "category": "router"
   },
   {
     "tag": "OpenWrt",
@@ -1807,6 +1807,11 @@
   {
     "tag": "Quantumult X",
     "count": 2,
+    "category": "security"
+  },
+  {
+    "tag": "shadowtls",
+    "count": 1,
     "category": "security"
   },
   {
