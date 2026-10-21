@@ -1,12 +1,12 @@
 [
   {
     "tag": "release",
-    "count": 735,
-    "category": "security"
+    "count": 743,
+    "category": "ecosystem"
   },
   {
     "tag": "mihomo",
-    "count": 342,
+    "count": 343,
     "category": "dns_rules"
   },
   {
@@ -16,7 +16,12 @@
   },
   {
     "tag": "geosite",
-    "count": 301,
+    "count": 308,
+    "category": "dns_rules"
+  },
+  {
+    "tag": "domain-list",
+    "count": 207,
     "category": "dns_rules"
   },
   {
@@ -25,18 +30,13 @@
     "category": "ecosystem"
   },
   {
-    "tag": "domain-list",
-    "count": 202,
-    "category": "dns_rules"
-  },
-  {
     "tag": "ruleset",
-    "count": 167,
+    "count": 169,
     "category": "dns_rules"
   },
   {
     "tag": "geoip",
-    "count": 167,
+    "count": 169,
     "category": "dns_rules"
   },
   {
@@ -171,8 +171,8 @@
   },
   {
     "tag": "wireguard",
-    "count": 47,
-    "category": "security"
+    "count": 48,
+    "category": "ecosystem"
   },
   {
     "tag": "开源",
@@ -640,6 +640,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "tailscale",
+    "count": 8,
+    "category": "ecosystem"
+  },
+  {
     "tag": "dae",
     "count": 8,
     "category": "core"
@@ -690,14 +695,14 @@
     "category": "core"
   },
   {
+    "tag": "mesh",
+    "count": 7,
+    "category": "ecosystem"
+  },
+  {
     "tag": "vision",
     "count": 7,
     "category": "security"
-  },
-  {
-    "tag": "tailscale",
-    "count": 7,
-    "category": "ecosystem"
   },
   {
     "tag": "rust",
@@ -748,11 +753,6 @@
     "tag": "vps",
     "count": 6,
     "category": "security"
-  },
-  {
-    "tag": "mesh",
-    "count": 6,
-    "category": "ecosystem"
   },
   {
     "tag": "安全更新",
