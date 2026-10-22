@@ -1,5 +1,42 @@
 [
   {
+    "id": "9ae0f26607c6171b",
+    "title": "sub-store-org/Sub-Store 2.43.1",
+    "summary": "2.43.1",
+    "rawTitle": "2.43.1",
+    "rawBody": "## <small>2.43.1 (2026-10-22)</small>\n\n* feat: 更新依赖 ([a6d09c7](https://github.com/sub-store-org/Sub-Store/commit/a6d09c7))\n",
+    "sourceType": "github_release",
+    "sourceName": "sub-store-org/Sub-Store",
+    "sourceUrl": "https://github.com/sub-store-org/Sub-Store/releases/tag/2.43.1",
+    "project": "Sub-Store",
+    "repo": "sub-store-org/Sub-Store",
+    "slug": "sub-store",
+    "version": "2.43.1",
+    "category": "ecosystem",
+    "tags": [
+      "sub-store",
+      "subscription",
+      "release"
+    ],
+    "platforms": [
+      "ios",
+      "android",
+      "macos",
+      "windows",
+      "linux"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-10-22T12:03:09Z",
+    "fetchedAt": "2026-10-22T17:14:45.624Z",
+    "firstSeenAt": "2026-10-22T17:14:49.906Z",
+    "updatedAt": "2026-10-22T17:14:49.906Z",
+    "hash": "9ae0f26607c6171b"
+  },
+  {
     "id": "6d5fb06f1afafcd3",
     "title": "SUDOKU-ASCII/sudoku v0.5.2.0",
     "summary": "v0.5.2.0",

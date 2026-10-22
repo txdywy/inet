@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 765,
-    "category": "core"
+    "count": 766,
+    "category": "ecosystem"
   },
   {
     "tag": "mihomo",
@@ -151,12 +151,12 @@
   },
   {
     "tag": "sub-store",
-    "count": 52,
+    "count": 53,
     "category": "ecosystem"
   },
   {
     "tag": "subscription",
-    "count": 52,
+    "count": 53,
     "category": "ecosystem"
   },
   {
