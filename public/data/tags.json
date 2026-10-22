@@ -1,13 +1,13 @@
 [
   {
     "tag": "release",
-    "count": 756,
-    "category": "ecosystem"
+    "count": 764,
+    "category": "dns_rules"
   },
   {
     "tag": "mihomo",
-    "count": 347,
-    "category": "security"
+    "count": 348,
+    "category": "dns_rules"
   },
   {
     "tag": "MetaCubeX",
@@ -16,12 +16,12 @@
   },
   {
     "tag": "geosite",
-    "count": 308,
+    "count": 314,
     "category": "dns_rules"
   },
   {
     "tag": "domain-list",
-    "count": 207,
+    "count": 211,
     "category": "dns_rules"
   },
   {
@@ -31,17 +31,17 @@
   },
   {
     "tag": "ruleset",
-    "count": 169,
+    "count": 171,
     "category": "dns_rules"
   },
   {
     "tag": "geoip",
-    "count": 169,
+    "count": 171,
     "category": "dns_rules"
   },
   {
     "tag": "xray-core",
-    "count": 144,
+    "count": 145,
     "category": "security"
   },
   {
@@ -160,18 +160,18 @@
     "category": "ecosystem"
   },
   {
+    "tag": "tuic",
+    "count": 51,
+    "category": "security"
+  },
+  {
     "tag": "Android",
     "count": 51,
     "category": "client"
   },
   {
-    "tag": "tuic",
-    "count": 50,
-    "category": "security"
-  },
-  {
     "tag": "wireguard",
-    "count": 49,
+    "count": 50,
     "category": "security"
   },
   {
@@ -221,8 +221,8 @@
   },
   {
     "tag": "openwrt",
-    "count": 34,
-    "category": "router"
+    "count": 35,
+    "category": "security"
   },
   {
     "tag": "WireGuard",
@@ -235,6 +235,11 @@
     "category": "client"
   },
   {
+    "tag": "naiveproxy",
+    "count": 33,
+    "category": "security"
+  },
+  {
     "tag": "Snell",
     "count": 33,
     "category": "protocol"
@@ -243,11 +248,6 @@
     "tag": "xhttp-opts",
     "count": 33,
     "category": "core"
-  },
-  {
-    "tag": "naiveproxy",
-    "count": 32,
-    "category": "security"
   },
   {
     "tag": "自动构建",
@@ -290,14 +290,14 @@
     "category": "client"
   },
   {
+    "tag": "android",
+    "count": 26,
+    "category": "security"
+  },
+  {
     "tag": "DNS",
     "count": 26,
     "category": "dns_rules"
-  },
-  {
-    "tag": "android",
-    "count": 25,
-    "category": "client"
   },
   {
     "tag": "reality",
@@ -320,6 +320,11 @@
     "category": "protocol"
   },
   {
+    "tag": "shadowsocks",
+    "count": 23,
+    "category": "security"
+  },
+  {
     "tag": "依赖更新",
     "count": 23,
     "category": "ecosystem"
@@ -328,11 +333,6 @@
     "tag": "VLESS",
     "count": 23,
     "category": "ecosystem"
-  },
-  {
-    "tag": "shadowsocks",
-    "count": 22,
-    "category": "security"
   },
   {
     "tag": "gost",
@@ -350,6 +350,16 @@
     "category": "core"
   },
   {
+    "tag": "anytls",
+    "count": 20,
+    "category": "security"
+  },
+  {
+    "tag": "snell",
+    "count": 20,
+    "category": "security"
+  },
+  {
     "tag": "QUIC",
     "count": 20,
     "category": "ecosystem"
@@ -360,12 +370,7 @@
     "category": "core"
   },
   {
-    "tag": "anytls",
-    "count": 19,
-    "category": "security"
-  },
-  {
-    "tag": "snell",
+    "tag": "luci",
     "count": 19,
     "category": "security"
   },
@@ -378,11 +383,6 @@
     "tag": "CHACHA20-POLY1305",
     "count": 19,
     "category": "ecosystem"
-  },
-  {
-    "tag": "luci",
-    "count": 18,
-    "category": "router"
   },
   {
     "tag": "v2rayNG",
@@ -420,6 +420,11 @@
     "category": "client"
   },
   {
+    "tag": "ssrplus",
+    "count": 16,
+    "category": "security"
+  },
+  {
     "tag": "域名",
     "count": 16,
     "category": "ecosystem"
@@ -440,11 +445,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "ssrplus",
-    "count": 15,
-    "category": "router"
-  },
-  {
     "tag": "mosdns",
     "count": 15,
     "category": "router"
@@ -458,6 +458,11 @@
     "tag": "网络规则",
     "count": 15,
     "category": "ecosystem"
+  },
+  {
+    "tag": "v2rayng",
+    "count": 14,
+    "category": "security"
   },
   {
     "tag": "v2ray-agent",
@@ -486,11 +491,6 @@
   },
   {
     "tag": "xtls",
-    "count": 13,
-    "category": "security"
-  },
-  {
-    "tag": "v2rayng",
     "count": 13,
     "category": "security"
   },
@@ -1280,6 +1280,11 @@
     "category": "protocol"
   },
   {
+    "tag": "shadowtls",
+    "count": 2,
+    "category": "security"
+  },
+  {
     "tag": "hiddify",
     "count": 2,
     "category": "security"
@@ -1807,11 +1812,6 @@
   {
     "tag": "Quantumult X",
     "count": 2,
-    "category": "security"
-  },
-  {
-    "tag": "shadowtls",
-    "count": 1,
     "category": "security"
   },
   {
