@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 764,
-    "category": "dns_rules"
+    "count": 765,
+    "category": "core"
   },
   {
     "tag": "mihomo",
@@ -130,14 +130,14 @@
     "category": "ecosystem"
   },
   {
-    "tag": "quic",
+    "tag": "ech",
     "count": 62,
     "category": "core"
   },
   {
-    "tag": "ech",
-    "count": 61,
-    "category": "dns_rules"
+    "tag": "quic",
+    "count": 62,
+    "category": "core"
   },
   {
     "tag": "hysteria2",
@@ -255,14 +255,14 @@
     "category": "ecosystem"
   },
   {
-    "tag": "Tailscale",
+    "tag": "sudoku",
     "count": 30,
     "category": "core"
   },
   {
-    "tag": "sudoku",
-    "count": 29,
-    "category": "security"
+    "tag": "Tailscale",
+    "count": 30,
+    "category": "core"
   },
   {
     "tag": "v2rayN",
@@ -1045,6 +1045,11 @@
     "category": "client"
   },
   {
+    "tag": "obfuscation",
+    "count": 3,
+    "category": "core"
+  },
+  {
     "tag": "http/3",
     "count": 3,
     "category": "security"
@@ -1293,11 +1298,6 @@
     "tag": "universal",
     "count": 2,
     "category": "security"
-  },
-  {
-    "tag": "obfuscation",
-    "count": 2,
-    "category": "core"
   },
   {
     "tag": "ebpf",
