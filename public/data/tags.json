@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 766,
-    "category": "ecosystem"
+    "count": 769,
+    "category": "security"
   },
   {
     "tag": "mihomo",
@@ -41,7 +41,7 @@
   },
   {
     "tag": "xray-core",
-    "count": 145,
+    "count": 146,
     "category": "security"
   },
   {
@@ -56,12 +56,12 @@
   },
   {
     "tag": "x-ui",
-    "count": 101,
+    "count": 102,
     "category": "security"
   },
   {
     "tag": "panel",
-    "count": 100,
+    "count": 101,
     "category": "security"
   },
   {
@@ -130,12 +130,12 @@
     "category": "ecosystem"
   },
   {
-    "tag": "ech",
-    "count": 62,
+    "tag": "quic",
+    "count": 63,
     "category": "core"
   },
   {
-    "tag": "quic",
+    "tag": "ech",
     "count": 62,
     "category": "core"
   },
@@ -220,6 +220,11 @@
     "category": "core"
   },
   {
+    "tag": "naiveproxy",
+    "count": 35,
+    "category": "security"
+  },
+  {
     "tag": "openwrt",
     "count": 35,
     "category": "security"
@@ -233,11 +238,6 @@
     "tag": "ClashMetaForAndroid",
     "count": 34,
     "category": "client"
-  },
-  {
-    "tag": "naiveproxy",
-    "count": 33,
-    "category": "security"
   },
   {
     "tag": "Snell",
