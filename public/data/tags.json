@@ -1,7 +1,7 @@
 [
   {
     "tag": "release",
-    "count": 771,
+    "count": 773,
     "category": "dns_rules"
   },
   {
@@ -16,12 +16,12 @@
   },
   {
     "tag": "geosite",
-    "count": 316,
+    "count": 317,
     "category": "dns_rules"
   },
   {
     "tag": "domain-list",
-    "count": 211,
+    "count": 212,
     "category": "dns_rules"
   },
   {
@@ -41,7 +41,7 @@
   },
   {
     "tag": "xray-core",
-    "count": 146,
+    "count": 147,
     "category": "security"
   },
   {
@@ -95,24 +95,24 @@
     "category": "client"
   },
   {
+    "tag": "vless",
+    "count": 82,
+    "category": "security"
+  },
+  {
     "tag": "metacubexd",
     "count": 82,
     "category": "client"
   },
   {
-    "tag": "vless",
-    "count": 81,
+    "tag": "xhttp",
+    "count": 80,
     "category": "security"
   },
   {
     "tag": "OpenVPN",
     "count": 80,
     "category": "protocol"
-  },
-  {
-    "tag": "xhttp",
-    "count": 79,
-    "category": "security"
   },
   {
     "tag": "meta",
@@ -465,6 +465,11 @@
     "category": "security"
   },
   {
+    "tag": "xtls",
+    "count": 14,
+    "category": "security"
+  },
+  {
     "tag": "v2ray-agent",
     "count": 14,
     "category": "security"
@@ -488,11 +493,6 @@
     "tag": "SUDOKU-ASCII",
     "count": 14,
     "category": "core"
-  },
-  {
-    "tag": "xtls",
-    "count": 13,
-    "category": "security"
   },
   {
     "tag": "OpenWrt",

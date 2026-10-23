@@ -1,5 +1,40 @@
 [
   {
+    "id": "7318ac31f985abdc",
+    "title": "v2fly/domain-list-community 20261023064708",
+    "summary": "20261023064708",
+    "rawTitle": "20261023064708",
+    "rawBody": "## What's Changed\n* category-speedtest: add more speed test sites, isp hosts and mirrors by @pelunavexi in https://github.com/v2fly/domain-list-community/pull/4176\n\n\n**Full Changelog**: https://github.com/v2fly/domain-list-community/compare/20261022042620...20261023064708",
+    "sourceType": "github_release",
+    "sourceName": "v2fly/domain-list-community",
+    "sourceUrl": "https://github.com/v2fly/domain-list-community/releases/tag/20261023064708",
+    "project": "domain-list-community",
+    "repo": "v2fly/domain-list-community",
+    "slug": "domain-list-community",
+    "version": "20261023064708",
+    "category": "dns_rules",
+    "tags": [
+      "geosite",
+      "domain-list",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 2,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-10-23T06:47:16Z",
+    "fetchedAt": "2026-10-23T11:46:23.828Z",
+    "firstSeenAt": "2026-10-23T11:46:25.481Z",
+    "updatedAt": "2026-10-23T11:46:25.481Z",
+    "hash": "7318ac31f985abdc"
+  },
+  {
     "id": "202f569be607a530",
     "title": "MetaCubeX/meta-rules-dat Release 2026-10-23 08:46",
     "summary": "Release 2026-10-23 08:46",
@@ -22624,6 +22659,44 @@
     "firstSeenAt": "2026-07-28T14:41:13.651Z",
     "updatedAt": "2026-07-28T14:41:13.651Z",
     "hash": "5838536cf732d924"
+  },
+  {
+    "id": "6b6766e965435c19",
+    "title": "XTLS/Xray-core Xray-core v26.7.28",
+    "summary": "Xray-core v26.7.28",
+    "rawTitle": "Xray-core v26.7.28",
+    "rawBody": "See https://github.com/XTLS/Xray-core/releases/tag/v26.9.9",
+    "sourceType": "github_release",
+    "sourceName": "XTLS/Xray-core",
+    "sourceUrl": "https://github.com/XTLS/Xray-core/releases/tag/v26.7.28",
+    "project": "Xray-core",
+    "repo": "XTLS/Xray-core",
+    "slug": "xray-core",
+    "version": "26.7.28",
+    "category": "security",
+    "tags": [
+      "xray-core",
+      "vless",
+      "xtls",
+      "xhttp",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos",
+      "android"
+    ],
+    "importance": 5,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": true,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-07-28T08:00:45Z",
+    "fetchedAt": "2026-10-23T11:46:10.062Z",
+    "firstSeenAt": "2026-10-23T11:46:24.673Z",
+    "updatedAt": "2026-10-23T11:46:24.673Z",
+    "hash": "6b6766e965435c19"
   },
   {
     "id": "b62b6ee40c73b2e9",
