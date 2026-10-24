@@ -1,37 +1,37 @@
 {
-  "totalItems": 1962,
-  "last24h": 3,
-  "last7d": 73,
+  "totalItems": 1969,
+  "last24h": 6,
+  "last7d": 75,
   "byCategory": {
-    "core": 306,
+    "core": 309,
     "client": 299,
     "router": 30,
     "protocol": 57,
-    "dns_rules": 341,
+    "dns_rules": 344,
     "security": 121,
-    "ecosystem": 808,
+    "ecosystem": 809,
     "trend": 0
   },
   "topProjects": [
     {
       "project": "domain-list-community",
-      "count": 342
+      "count": 343
     },
     {
       "project": "mihomo",
-      "count": 223
+      "count": 224
     },
     {
       "project": "3x-ui",
-      "count": 186
+      "count": 187
     },
     {
       "project": "v2ray-rules-dat",
-      "count": 179
+      "count": 180
     },
     {
       "project": "meta-rules-dat",
-      "count": 173
+      "count": 174
     },
     {
       "project": "Sub-Store",
@@ -43,7 +43,7 @@
     },
     {
       "project": "sing-box",
-      "count": 77
+      "count": 79
     },
     {
       "project": "gost",
@@ -57,11 +57,11 @@
   "hotTags": [
     {
       "tag": "release",
-      "count": 775
+      "count": 782
     },
     {
       "tag": "mihomo",
-      "count": 349
+      "count": 351
     },
     {
       "tag": "MetaCubeX",
@@ -69,11 +69,11 @@
     },
     {
       "tag": "geosite",
-      "count": 317
+      "count": 320
     },
     {
       "tag": "domain-list",
-      "count": 212
+      "count": 213
     },
     {
       "tag": "v2fly",
@@ -81,15 +81,15 @@
     },
     {
       "tag": "ruleset",
-      "count": 173
+      "count": 175
     },
     {
       "tag": "geoip",
-      "count": 173
+      "count": 175
     },
     {
       "tag": "xray-core",
-      "count": 149
+      "count": 150
     },
     {
       "tag": "Sub-Store",
@@ -101,11 +101,11 @@
     },
     {
       "tag": "x-ui",
-      "count": 104
+      "count": 105
     },
     {
       "tag": "panel",
-      "count": 103
+      "count": 104
     },
     {
       "tag": "v2ray",
@@ -113,11 +113,11 @@
     },
     {
       "tag": "clash",
-      "count": 95
+      "count": 96
     },
     {
       "tag": "sing-box",
-      "count": 88
+      "count": 90
     },
     {
       "tag": "meta-rules-dat",
@@ -128,16 +128,16 @@
       "count": 86
     },
     {
-      "tag": "3x-ui",
-      "count": 83
+      "tag": "vless",
+      "count": 84
     },
     {
-      "tag": "vless",
-      "count": 82
+      "tag": "3x-ui",
+      "count": 83
     }
   ],
-  "importantCount": 858,
+  "importantCount": 864,
   "breakingCount": 106,
   "securityCount": 175,
-  "updatedAt": "2026-10-23T21:21:28.482Z"
+  "updatedAt": "2026-10-24T04:43:09.392Z"
 }
