@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 789,
-    "category": "dns_rules"
+    "count": 791,
+    "category": "ecosystem"
   },
   {
     "tag": "mihomo",
@@ -41,7 +41,7 @@
   },
   {
     "tag": "xray-core",
-    "count": 151,
+    "count": 152,
     "category": "security"
   },
   {
@@ -56,12 +56,12 @@
   },
   {
     "tag": "x-ui",
-    "count": 106,
+    "count": 107,
     "category": "security"
   },
   {
     "tag": "panel",
-    "count": 105,
+    "count": 106,
     "category": "security"
   },
   {
@@ -445,6 +445,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "v2ray-agent",
+    "count": 15,
+    "category": "ecosystem"
+  },
+  {
     "tag": "mosdns",
     "count": 15,
     "category": "router"
@@ -466,11 +471,6 @@
   },
   {
     "tag": "xtls",
-    "count": 14,
-    "category": "security"
-  },
-  {
-    "tag": "v2ray-agent",
     "count": 14,
     "category": "security"
   },
@@ -695,6 +695,16 @@
     "category": "core"
   },
   {
+    "tag": "script",
+    "count": 7,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "vps",
+    "count": 7,
+    "category": "ecosystem"
+  },
+  {
     "tag": "mesh",
     "count": 7,
     "category": "ecosystem"
@@ -743,16 +753,6 @@
     "tag": "luci-app-mosdns",
     "count": 7,
     "category": "ecosystem"
-  },
-  {
-    "tag": "script",
-    "count": 6,
-    "category": "security"
-  },
-  {
-    "tag": "vps",
-    "count": 6,
-    "category": "security"
   },
   {
     "tag": "安全更新",
