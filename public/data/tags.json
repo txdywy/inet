@@ -1,7 +1,7 @@
 [
   {
     "tag": "release",
-    "count": 784,
+    "count": 789,
     "category": "dns_rules"
   },
   {
@@ -10,18 +10,18 @@
     "category": "dns_rules"
   },
   {
+    "tag": "geosite",
+    "count": 326,
+    "category": "dns_rules"
+  },
+  {
     "tag": "MetaCubeX",
     "count": 322,
     "category": "ecosystem"
   },
   {
-    "tag": "geosite",
-    "count": 321,
-    "category": "dns_rules"
-  },
-  {
     "tag": "domain-list",
-    "count": 214,
+    "count": 219,
     "category": "dns_rules"
   },
   {
