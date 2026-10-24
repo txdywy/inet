@@ -1,5 +1,40 @@
 [
   {
+    "id": "997c6e0a7e839554",
+    "title": "v2fly/domain-list-community 20261024064709",
+    "summary": "20261024064709",
+    "rawTitle": "20261024064709",
+    "rawBody": "## What's Changed\n* Create cdprojekt by @TripleA150 in https://github.com/v2fly/domain-list-community/pull/4183\n\n\n**Full Changelog**: https://github.com/v2fly/domain-list-community/compare/20261024005255...20261024064709",
+    "sourceType": "github_release",
+    "sourceName": "v2fly/domain-list-community",
+    "sourceUrl": "https://github.com/v2fly/domain-list-community/releases/tag/20261024064709",
+    "project": "domain-list-community",
+    "repo": "v2fly/domain-list-community",
+    "slug": "domain-list-community",
+    "version": "20261024064709",
+    "category": "dns_rules",
+    "tags": [
+      "geosite",
+      "domain-list",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-10-24T06:47:17Z",
+    "fetchedAt": "2026-10-24T11:11:12.580Z",
+    "firstSeenAt": "2026-10-24T11:11:14.119Z",
+    "updatedAt": "2026-10-24T11:11:14.119Z",
+    "hash": "997c6e0a7e839554"
+  },
+  {
     "id": "5e5d68fdb3f48e9a",
     "title": "SagerNet/sing-box 1.15.0-alpha.13",
     "summary": "1.15.0-alpha.13",
@@ -32902,6 +32937,40 @@
     "firstSeenAt": "2026-06-25T04:36:16.426Z",
     "updatedAt": "2026-06-25T04:36:16.426Z",
     "hash": "e54a070ca4e6a5bf"
+  },
+  {
+    "id": "4b082d021bf8f70b",
+    "title": "MHSanaei/3x-ui Dev build de21c128",
+    "summary": "Dev build de21c128",
+    "rawTitle": "Dev build de21c128",
+    "rawBody": "Rolling development build — installs via the panel's Dev update channel.\n\ncommit=de21c128fcdddd5fd6e258f5e584e25f90c50c64\nbuilt=2026-10-24T11:04:20Z\n\nAutomated per-commit build from main. Not a stable release.",
+    "sourceType": "github_release",
+    "sourceName": "MHSanaei/3x-ui",
+    "sourceUrl": "https://github.com/MHSanaei/3x-ui/releases/tag/dev-latest",
+    "project": "3x-ui",
+    "repo": "MHSanaei/3x-ui",
+    "slug": "3x-ui",
+    "version": "dev-latest",
+    "category": "ecosystem",
+    "tags": [
+      "x-ui",
+      "panel",
+      "xray-core",
+      "release"
+    ],
+    "platforms": [
+      "linux"
+    ],
+    "importance": 4,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2026-06-24T16:17:06Z",
+    "fetchedAt": "2026-10-24T11:11:09.865Z",
+    "firstSeenAt": "2026-10-24T11:11:13.300Z",
+    "updatedAt": "2026-10-24T11:11:13.300Z",
+    "hash": "4b082d021bf8f70b"
   },
   {
     "id": "fe17082f2c13e782",

@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 782,
-    "category": "core"
+    "count": 784,
+    "category": "dns_rules"
   },
   {
     "tag": "mihomo",
@@ -16,12 +16,12 @@
   },
   {
     "tag": "geosite",
-    "count": 320,
+    "count": 321,
     "category": "dns_rules"
   },
   {
     "tag": "domain-list",
-    "count": 213,
+    "count": 214,
     "category": "dns_rules"
   },
   {
@@ -41,7 +41,7 @@
   },
   {
     "tag": "xray-core",
-    "count": 150,
+    "count": 151,
     "category": "security"
   },
   {
@@ -56,12 +56,12 @@
   },
   {
     "tag": "x-ui",
-    "count": 105,
+    "count": 106,
     "category": "security"
   },
   {
     "tag": "panel",
-    "count": 104,
+    "count": 105,
     "category": "security"
   },
   {
