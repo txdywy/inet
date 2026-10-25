@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 805,
-    "category": "ecosystem"
+    "count": 808,
+    "category": "client"
   },
   {
     "tag": "mihomo",
@@ -41,7 +41,7 @@
   },
   {
     "tag": "xray-core",
-    "count": 155,
+    "count": 157,
     "category": "security"
   },
   {
@@ -50,13 +50,13 @@
     "category": "ecosystem"
   },
   {
-    "tag": "panel",
-    "count": 110,
+    "tag": "x-ui",
+    "count": 112,
     "category": "security"
   },
   {
-    "tag": "x-ui",
-    "count": 110,
+    "tag": "panel",
+    "count": 112,
     "category": "security"
   },
   {
@@ -76,8 +76,8 @@
   },
   {
     "tag": "sing-box",
-    "count": 91,
-    "category": "security"
+    "count": 92,
+    "category": "client"
   },
   {
     "tag": "meta-rules-dat",
@@ -91,8 +91,8 @@
   },
   {
     "tag": "vless",
-    "count": 84,
-    "category": "core"
+    "count": 85,
+    "category": "security"
   },
   {
     "tag": "3x-ui",
@@ -106,7 +106,7 @@
   },
   {
     "tag": "xhttp",
-    "count": 80,
+    "count": 81,
     "category": "security"
   },
   {
@@ -131,12 +131,12 @@
   },
   {
     "tag": "quic",
-    "count": 64,
+    "count": 65,
     "category": "security"
   },
   {
     "tag": "ech",
-    "count": 63,
+    "count": 64,
     "category": "security"
   },
   {
@@ -161,12 +161,12 @@
   },
   {
     "tag": "tuic",
-    "count": 53,
-    "category": "core"
+    "count": 54,
+    "category": "security"
   },
   {
     "tag": "wireguard",
-    "count": 51,
+    "count": 52,
     "category": "security"
   },
   {
@@ -290,6 +290,11 @@
     "category": "client"
   },
   {
+    "tag": "reality",
+    "count": 26,
+    "category": "security"
+  },
+  {
     "tag": "android",
     "count": 26,
     "category": "security"
@@ -305,24 +310,19 @@
     "category": "router"
   },
   {
-    "tag": "reality",
-    "count": 25,
-    "category": "security"
-  },
-  {
     "tag": "网络工具",
     "count": 25,
     "category": "ecosystem"
   },
   {
+    "tag": "shadowsocks",
+    "count": 24,
+    "category": "security"
+  },
+  {
     "tag": "HTTP/2",
     "count": 24,
     "category": "protocol"
-  },
-  {
-    "tag": "shadowsocks",
-    "count": 23,
-    "category": "security"
   },
   {
     "tag": "依赖更新",
@@ -465,6 +465,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "grpc",
+    "count": 14,
+    "category": "security"
+  },
+  {
     "tag": "v2rayng",
     "count": 14,
     "category": "security"
@@ -493,11 +498,6 @@
     "tag": "SUDOKU-ASCII",
     "count": 14,
     "category": "core"
-  },
-  {
-    "tag": "grpc",
-    "count": 13,
-    "category": "security"
   },
   {
     "tag": "OpenWrt",
@@ -565,6 +565,11 @@
     "category": "client"
   },
   {
+    "tag": "amneziawg",
+    "count": 10,
+    "category": "security"
+  },
+  {
     "tag": "mihomo-party",
     "count": 10,
     "category": "client"
@@ -588,11 +593,6 @@
     "tag": "Docker",
     "count": 10,
     "category": "ecosystem"
-  },
-  {
-    "tag": "amneziawg",
-    "count": 9,
-    "category": "security"
   },
   {
     "tag": "配置管理",
@@ -925,6 +925,16 @@
     "category": "ecosystem"
   },
   {
+    "tag": "hiddify",
+    "count": 4,
+    "category": "client"
+  },
+  {
+    "tag": "universal",
+    "count": 4,
+    "category": "client"
+  },
+  {
     "tag": "中间人攻击",
     "count": 4,
     "category": "security"
@@ -1043,16 +1053,6 @@
     "tag": "nekoray",
     "count": 4,
     "category": "client"
-  },
-  {
-    "tag": "hiddify",
-    "count": 3,
-    "category": "security"
-  },
-  {
-    "tag": "universal",
-    "count": 3,
-    "category": "security"
   },
   {
     "tag": "obfuscation",

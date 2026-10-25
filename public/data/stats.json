@@ -1,15 +1,15 @@
 {
-  "totalItems": 1992,
-  "last24h": 11,
-  "last7d": 76,
+  "totalItems": 1995,
+  "last24h": 12,
+  "last7d": 78,
   "byCategory": {
     "core": 310,
-    "client": 299,
+    "client": 300,
     "router": 31,
     "protocol": 57,
     "dns_rules": 354,
-    "security": 122,
-    "ecosystem": 819,
+    "security": 123,
+    "ecosystem": 820,
     "trend": 0
   },
   "topProjects": [
@@ -23,7 +23,7 @@
     },
     {
       "project": "3x-ui",
-      "count": 192
+      "count": 194
     },
     {
       "project": "v2ray-rules-dat",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "release",
-      "count": 805
+      "count": 808
     },
     {
       "tag": "mihomo",
@@ -89,19 +89,19 @@
     },
     {
       "tag": "xray-core",
-      "count": 155
+      "count": 157
     },
     {
       "tag": "Sub-Store",
       "count": 117
     },
     {
-      "tag": "panel",
-      "count": 110
+      "tag": "x-ui",
+      "count": 112
     },
     {
-      "tag": "x-ui",
-      "count": 110
+      "tag": "panel",
+      "count": 112
     },
     {
       "tag": "domain-list-community",
@@ -117,7 +117,7 @@
     },
     {
       "tag": "sing-box",
-      "count": 91
+      "count": 92
     },
     {
       "tag": "meta-rules-dat",
@@ -129,15 +129,15 @@
     },
     {
       "tag": "vless",
-      "count": 84
+      "count": 85
     },
     {
       "tag": "3x-ui",
       "count": 83
     }
   ],
-  "importantCount": 884,
+  "importantCount": 886,
   "breakingCount": 108,
-  "securityCount": 176,
-  "updatedAt": "2026-10-25T16:28:09.837Z"
+  "securityCount": 177,
+  "updatedAt": "2026-10-25T20:46:42.026Z"
 }
