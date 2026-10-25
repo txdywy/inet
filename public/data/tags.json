@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 800,
-    "category": "ecosystem"
+    "count": 802,
+    "category": "router"
   },
   {
     "tag": "mihomo",
@@ -41,7 +41,7 @@
   },
   {
     "tag": "xray-core",
-    "count": 153,
+    "count": 154,
     "category": "security"
   },
   {
@@ -50,19 +50,19 @@
     "category": "ecosystem"
   },
   {
-    "tag": "domain-list-community",
-    "count": 109,
-    "category": "ecosystem"
-  },
-  {
     "tag": "panel",
-    "count": 108,
+    "count": 109,
     "category": "security"
   },
   {
     "tag": "x-ui",
-    "count": 108,
+    "count": 109,
     "category": "security"
+  },
+  {
+    "tag": "domain-list-community",
+    "count": 109,
+    "category": "ecosystem"
   },
   {
     "tag": "v2ray",
@@ -215,17 +215,17 @@
     "category": "client"
   },
   {
+    "tag": "openwrt",
+    "count": 36,
+    "category": "router"
+  },
+  {
     "tag": "go-gost",
     "count": 36,
     "category": "core"
   },
   {
     "tag": "naiveproxy",
-    "count": 35,
-    "category": "security"
-  },
-  {
-    "tag": "openwrt",
     "count": 35,
     "category": "security"
   },
@@ -300,6 +300,11 @@
     "category": "dns_rules"
   },
   {
+    "tag": "dns",
+    "count": 25,
+    "category": "router"
+  },
+  {
     "tag": "reality",
     "count": 25,
     "category": "security"
@@ -308,11 +313,6 @@
     "tag": "网络工具",
     "count": 25,
     "category": "ecosystem"
-  },
-  {
-    "tag": "dns",
-    "count": 24,
-    "category": "router"
   },
   {
     "tag": "HTTP/2",
@@ -420,6 +420,11 @@
     "category": "client"
   },
   {
+    "tag": "mosdns",
+    "count": 16,
+    "category": "router"
+  },
+  {
     "tag": "ssrplus",
     "count": 16,
     "category": "security"
@@ -448,11 +453,6 @@
     "tag": "v2ray-agent",
     "count": 15,
     "category": "ecosystem"
-  },
-  {
-    "tag": "mosdns",
-    "count": 15,
-    "category": "router"
   },
   {
     "tag": "xray",
