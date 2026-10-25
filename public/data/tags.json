@@ -1,17 +1,17 @@
 [
   {
     "tag": "release",
-    "count": 791,
+    "count": 800,
     "category": "ecosystem"
   },
   {
     "tag": "mihomo",
-    "count": 351,
+    "count": 353,
     "category": "dns_rules"
   },
   {
     "tag": "geosite",
-    "count": 326,
+    "count": 330,
     "category": "dns_rules"
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "tag": "domain-list",
-    "count": 219,
+    "count": 221,
     "category": "dns_rules"
   },
   {
@@ -31,17 +31,17 @@
   },
   {
     "tag": "ruleset",
-    "count": 175,
+    "count": 177,
     "category": "dns_rules"
   },
   {
     "tag": "geoip",
-    "count": 175,
+    "count": 177,
     "category": "dns_rules"
   },
   {
     "tag": "xray-core",
-    "count": 152,
+    "count": 153,
     "category": "security"
   },
   {
@@ -55,13 +55,13 @@
     "category": "ecosystem"
   },
   {
-    "tag": "x-ui",
-    "count": 107,
+    "tag": "panel",
+    "count": 108,
     "category": "security"
   },
   {
-    "tag": "panel",
-    "count": 106,
+    "tag": "x-ui",
+    "count": 108,
     "category": "security"
   },
   {
@@ -71,13 +71,13 @@
   },
   {
     "tag": "clash",
-    "count": 96,
+    "count": 97,
     "category": "security"
   },
   {
     "tag": "sing-box",
-    "count": 90,
-    "category": "core"
+    "count": 91,
+    "category": "security"
   },
   {
     "tag": "meta-rules-dat",
@@ -116,7 +116,7 @@
   },
   {
     "tag": "meta",
-    "count": 77,
+    "count": 78,
     "category": "security"
   },
   {
@@ -131,16 +131,16 @@
   },
   {
     "tag": "quic",
-    "count": 63,
-    "category": "core"
-  },
-  {
-    "tag": "hysteria2",
-    "count": 62,
-    "category": "core"
+    "count": 64,
+    "category": "security"
   },
   {
     "tag": "ech",
+    "count": 63,
+    "category": "security"
+  },
+  {
+    "tag": "hysteria2",
     "count": 62,
     "category": "core"
   },
@@ -150,29 +150,29 @@
     "category": "ecosystem"
   },
   {
+    "tag": "sub-store",
+    "count": 55,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "subscription",
+    "count": 55,
+    "category": "ecosystem"
+  },
+  {
     "tag": "tuic",
     "count": 53,
     "category": "core"
   },
   {
-    "tag": "sub-store",
-    "count": 53,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "subscription",
-    "count": 53,
-    "category": "ecosystem"
+    "tag": "wireguard",
+    "count": 51,
+    "category": "security"
   },
   {
     "tag": "Android",
     "count": 51,
     "category": "client"
-  },
-  {
-    "tag": "wireguard",
-    "count": 50,
-    "category": "security"
   },
   {
     "tag": "开源",
@@ -495,6 +495,11 @@
     "category": "core"
   },
   {
+    "tag": "grpc",
+    "count": 13,
+    "category": "security"
+  },
+  {
     "tag": "OpenWrt",
     "count": 13,
     "category": "security"
@@ -521,11 +526,6 @@
   },
   {
     "tag": "windows",
-    "count": 12,
-    "category": "security"
-  },
-  {
-    "tag": "grpc",
     "count": 12,
     "category": "security"
   },
@@ -640,6 +640,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "vision",
+    "count": 8,
+    "category": "security"
+  },
+  {
     "tag": "tailscale",
     "count": 8,
     "category": "ecosystem"
@@ -710,11 +715,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "vision",
-    "count": 7,
-    "category": "security"
-  },
-  {
     "tag": "rust",
     "count": 7,
     "category": "security"
@@ -753,6 +753,11 @@
     "tag": "luci-app-mosdns",
     "count": 7,
     "category": "ecosystem"
+  },
+  {
+    "tag": "warp",
+    "count": 6,
+    "category": "security"
   },
   {
     "tag": "安全更新",
@@ -813,11 +818,6 @@
     "tag": "openvpn",
     "count": 6,
     "category": "ecosystem"
-  },
-  {
-    "tag": "warp",
-    "count": 5,
-    "category": "security"
   },
   {
     "tag": "dashboard",
@@ -1043,6 +1043,16 @@
     "tag": "nekoray",
     "count": 4,
     "category": "client"
+  },
+  {
+    "tag": "hiddify",
+    "count": 3,
+    "category": "security"
+  },
+  {
+    "tag": "universal",
+    "count": 3,
+    "category": "security"
   },
   {
     "tag": "obfuscation",
@@ -1286,16 +1296,6 @@
   },
   {
     "tag": "shadowtls",
-    "count": 2,
-    "category": "security"
-  },
-  {
-    "tag": "hiddify",
-    "count": 2,
-    "category": "security"
-  },
-  {
-    "tag": "universal",
     "count": 2,
     "category": "security"
   },
