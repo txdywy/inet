@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 802,
-    "category": "router"
+    "count": 805,
+    "category": "ecosystem"
   },
   {
     "tag": "mihomo",
@@ -41,7 +41,7 @@
   },
   {
     "tag": "xray-core",
-    "count": 154,
+    "count": 155,
     "category": "security"
   },
   {
@@ -51,12 +51,12 @@
   },
   {
     "tag": "panel",
-    "count": 109,
+    "count": 110,
     "category": "security"
   },
   {
     "tag": "x-ui",
-    "count": 109,
+    "count": 110,
     "category": "security"
   },
   {
@@ -151,12 +151,12 @@
   },
   {
     "tag": "sub-store",
-    "count": 55,
+    "count": 56,
     "category": "ecosystem"
   },
   {
     "tag": "subscription",
-    "count": 55,
+    "count": 56,
     "category": "ecosystem"
   },
   {
@@ -420,6 +420,11 @@
     "category": "client"
   },
   {
+    "tag": "v2ray-agent",
+    "count": 16,
+    "category": "ecosystem"
+  },
+  {
     "tag": "mosdns",
     "count": 16,
     "category": "router"
@@ -447,11 +452,6 @@
   {
     "tag": "Alpha",
     "count": 16,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "v2ray-agent",
-    "count": 15,
     "category": "ecosystem"
   },
   {
@@ -640,6 +640,16 @@
     "category": "ecosystem"
   },
   {
+    "tag": "script",
+    "count": 8,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "vps",
+    "count": 8,
+    "category": "ecosystem"
+  },
+  {
     "tag": "vision",
     "count": 8,
     "category": "security"
@@ -698,16 +708,6 @@
     "tag": "QUICv2",
     "count": 8,
     "category": "core"
-  },
-  {
-    "tag": "script",
-    "count": 7,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "vps",
-    "count": 7,
-    "category": "ecosystem"
   },
   {
     "tag": "mesh",
