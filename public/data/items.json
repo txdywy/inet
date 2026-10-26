@@ -1,5 +1,43 @@
 [
   {
+    "id": "e9c5e0d1ceb2ef93",
+    "title": "hiddify/hiddify-next draft",
+    "summary": "draft",
+    "rawTitle": "draft",
+    "rawBody": "**Download based on your OS:**\n\n**بر اساس سیستم عامل خود دانلود کنید:**\n\n## Downloads\n\n<table>\n<thead><tr><th>OS</th><th>Download</th><th>Downloads</th><th>VirusTotal</th></tr></thead>\n<tbody>\n<tr>\n  <td rowspan=\"4\">Android</td>\n  <td><a href=\"https://github.com/hiddify/hiddify-app/releases/download/draft/Hiddify-Android-universal.apk\">APK Universal</a></td>\n  <td><a href=\"https://github.com/hiddify/hiddify-app/releases/download/draft/Hiddify-Android-universal.apk\"><img src=\"https://img.shields.io/github/downloads/hiddify/hiddify-app/draft/Hiddify-Android-universal.apk?displayAssetName=false&label=%20&color=green&v=17930305555931\" alt=\"downloads\"></a></td>\n  <td><a href=\"https://www.virustotal.com/gui/file/8a142a0c81d257b2dd737e0e254874761bd03cf1b325dc8dcf7001409df15057/detection\"><img src=\"https://badges.cssnr.com/vt/id/8a142a0c81d257b2dd737e0e254874761bd03cf1b325dc8dcf7001409df15057?start=green&end=red&n=8&v=179303087213244\" alt=\"VirusTotal\"></a></td>\n</tr>\n<tr>\n  <td><a href=\"https://github.com/hiddify/hiddify-app/releases/download/draft/Hiddify-Android-arm64.apk\">APK ARMv8</a></td>\n  <td><a href=\"https://github.com/hiddify/hiddify-app/releases/download/draft/Hiddify-Android-arm64.apk\"><img src=\"https://img.shields.io/github/downloads/hiddify/hiddify-app/draft/Hiddify-Android-arm64.apk?displayAssetName=false&label=%20&color=green&v=17930305555931\" alt=\"downloads\"></a></td>\n  <td><a href=\"https://www.virustotal.com/gui/file/1aed47b1291b1a0f3bc48423c4034e256c8861af1c7ce302caa845f2ac4ce5d3/detection\"><img src=\"https://badges.cssnr.com/vt/id/1aed47b1291b1a0f3bc48423c4034e256c8861af1c7ce302caa845f2ac4ce5d3?start=green&end=red&n=8&v=179303087213244\" alt=\"VirusTotal\"></a></td>\n</tr>\n<tr>\n  <td><a href=\"https://github.com/hiddify/hiddify-app/releases/download/draft/Hiddify-Android-arm7.apk\">APK ARMv7</a></td>\n  <td><a href=\"https://github.com/hiddify/hiddify-app/releases/download/draft/Hiddify-Android-arm7.apk\"><img src=\"https://img.shields.io/github/downloads/hiddify/hiddify-app/draft/Hiddify-Android-arm7.apk?displayAssetName=false&label=%20&color=green&v=17930305555931\" alt=\"downloads\"></a></td>\n  <td><a href=\"https://www.virustotal.com/gui/file/ab2fd6fe42633a58539aaf25a44aec816b4a96ec025496294eba32fc35e7f4d3/detection\"><img src=\"https://badges.cssnr.com/vt/id/ab2fd6fe42633a58539aaf25a44aec816b4a96ec025496294eba32fc35e7f4d3?start=green&end=red&n=8&v=179303087213244\" alt=\"VirusTotal\"></a></td>\n</tr>\n<tr>\n  <td><a href=\"https://github.com/hiddify/hiddify-app/releases/download/draft/Hiddify-Android-x86_64.apk\">APK x64</a></td>\n  <td><a href=\"https://github.com/hiddify/hiddify-app/releases/download/draft/Hiddify-Android-x86_64.apk\"><img src=\"https://img.shields.io/github/downloads/hiddify/hiddify-app/draft/Hiddify-Android-x86_64.apk?displayAssetName=false&label=%20&color=green&v=17930305555931\" alt=\"downloads\"></a></td>\n  <td><a href=\"https://www.virustotal.com/gui/file/3fb32152eeb184ef06c2a63fcaaa2a281656d5c3aed189d383d31845430a06f2/detection\"><img src=\"https://badges.cssnr.com/vt/id/3fb32152eeb184ef06c2a63fcaaa2a281656d5c3aed189d383d31845430a06f2?start=green&end=red&n=8&v=179303087213244\" alt=\"VirusTotal\"></a></td>\n</tr>\n<tr>\n  <td rowspan=\"3\">Windows</td>\n  <td><a href=\"https://github.com/hiddify/hiddify-app/releases/download/draft/Hiddify-Windows-Setup-x64.Msix\">OfficialSetup x64</a></td>\n  <td><a href=\"https://github.com/hiddify/hiddify-app/releases/download/draft/Hiddify-Windows-Setup-x64.Msix\"><img src=\"https://img.shields.io/github/downloads/hiddify/hiddify-app/draft/Hiddify-Windows-Setup-x64.Msix?displayAssetName=false&label=%20&color=green&v=17930305555931\" alt=\"downloads\"></a></td>\n  <td><a href=\"https://www.virustotal.com/gui/file/210d7c9f7bdb3a2bd242853165a0d741b5f3ffaa7766344a6eb817a624223c5e/detection\"><img src=\"https://badges.cssnr.com/vt/id/210d7c9f7bdb3a2bd242853165a0d741b5f3ffaa7766344a6eb817a624223c5e?start=green&end=red&n=8&v=179303087213244\" alt=\"VirusTotal\"></a></td>\n</tr>\n<tr>\n  <td><a href=\"https://github.com/hiddify/hiddify-app/releases/download/draft/Hiddify-Windows-Setup-x64.exe\">Setup x64</a></td>\n  <td><a href=\"https://github.com/hiddify/hiddify-app/releases/download/draft/Hiddify-Windows-Setup-x64.exe\"><img src=\"https://img.shields.io/github/downloads/hiddify/hiddify-app/draft/Hiddify-Windows-Setup-x64.exe?displayAssetName=false&label=%20&color=green&v=17930305555931\" alt=\"downloads\"></a></td>\n  <td><a href=\"https://www.virustotal.com/gui/file/5f8fb96ef65612e01288796473690879b838a522e1ec9b204d325ff5b50ae392/detection\"><img src=\"https://badges.cssnr.com/vt/id/5f8fb96ef65612e01288796473690879b838a522e1ec9b204d325ff5b50ae392?start=green&end=red&n=8&v=179303087213244\" alt=\"VirusTotal\"></a></td>\n</tr>\n<tr>\n  <td><a href=\"https://github.com/hiddify/hiddify-app/releases/download/draft/Hiddify-Windows-Portable-x64.zip\">Portable x64</a></td>\n  <td><a href=\"https://github.com/hiddify/hiddify-app/releases/download/draft/Hiddify-Windows-Portable-x64.zip\"><img src=\"https://img.shields.io/github/downloads/hiddify/hiddify-app/draft/Hiddify-Windows-Portable-x64.zip?displayAssetName=false&label=%20&color=green&v=17930305555931\" alt=\"downloads\"></a></td>\n  <td><a href=\"https://www.virustotal.com/gui/file/a0f55e70d346a8e2cf03e2ff15440397f799b806d24380078f23a337e1a60c86/detection\"><img src=\"https://badges.cssnr.com/vt/id/a0f55e70d346a8e2cf03e2ff15440397f799b806d24380078f23a337e1a60c86?start=green&end=red&n=8&v=179303087213244\" alt=\"VirusTotal\"></a></td>\n</tr>\n<tr>\n  <td rowspan=\"2\">macOS (v10.15+)</td>\n  <td><a href=\"https://github.com/hiddify/hiddify-app/releases/download/draft/Hiddify-MacOS.dmg\">DMG Universal</a></td>\n  <td><a href=\"https://github.com/hiddify/hiddify-app/releases/download/draft/Hiddify-MacOS.dmg\"><img src=\"https://img.shields.io/github/downloads/hiddify/hiddify-app/draft/Hiddify-MacOS.dmg?displayAssetName=false&label=%20&color=green&v=17930305555931\" alt=\"downloads\"></a></td>\n  <td><a href=\"https://www.virustotal.com/gui/file/d74cdf1108fab1729fa4369934c0c29f1cb51500d84147a8cbb76aed34c8794a/detection\"><img src=\"https://badges.cssnr.com/vt/id/d74cdf1108fab1729fa4369934c0c29f1cb51500d84147a8cbb76aed34c8794a?start=green&end=red&n=8&v=179303087213244\" alt=\"VirusTotal\"></a></td>\n</tr>\n<tr>\n  <td><a href=\"https://github.com/hiddify/hiddify-app/releases/download/draft/Hiddify-MacOS-Installer.pkg\">PKG Universal</a></td>\n  <td><a href=\"https://github.com/hiddify/hiddify-app/releases/download/draft/Hiddify-MacOS-Installer.pkg\"><img src=\"https://img.shields.io/github/downloads/hiddify/hiddify-app/draft/Hiddify-MacOS-Installer.pkg?displayAssetName=false&label=%20&color=green&v=17930305555931\" alt=\"downloads\"></a></td>\n  <td><a href=\"https://www.virustotal.com/gui/file/c3e04bcc8ecc7d7a9f3a24bdd6a73cb048251264783c9cb8d2366ef22f40a03b/detection\"><img src=\"https://badges.cssnr.com/vt/id/c3e04bcc8ecc7d7a9f3a24bdd6a73cb048251264783c9cb8d2366ef22f40a03b?start=green&end=red&n=8&v=179303087213244\" alt=\"VirusTotal\"></a></td>\n</tr>\n<tr>\n  <td>Linux</td>\n  <td><a href=\"https://github.com/hiddify/hiddify-app/releases/download/draft/Hiddify-Debian-x64.deb\">DebPackage x64</a></td>\n  <td><a href=\"https://github.com/hiddify/hiddify-app/releases/download/draft/Hiddify-Debian-x64.deb\"><img src=\"https://img.shields.io/github/downloads/hiddify/hiddify-app/draft/Hiddify-Debian-x64.deb?displayAssetName=false&label=%20&color=green&v=17930305555931\" alt=\"downloads\"></a></td>\n  <td><a href=\"https://www.virustotal.com/gui/file/baf1432a02ca9366668d0d8aeab69507b10352f703709e64e006de3b72c3e959/detection\"><img src=\"https://badges.cssnr.com/vt/id/baf1432a02ca9366668d0d8aeab69507b10352f703709e64e006de3b72c3e959?start=green&end=red&n=8&v=179303087213244\" alt=\"VirusTotal\"></a></td>\n</tr>\n</tbody>\n</table>\n\n\n**List of all changes:** [ChangeLog](https://github.com/hiddify/hiddify-app/blob/main/HISTORY.md)\n\n",
+    "sourceType": "github_release",
+    "sourceName": "hiddify/hiddify-next",
+    "sourceUrl": "https://github.com/hiddify/hiddify-app/releases/tag/draft",
+    "project": "hiddify-next",
+    "repo": "hiddify/hiddify-next",
+    "slug": "hiddify-next",
+    "version": "draft",
+    "category": "client",
+    "tags": [
+      "hiddify",
+      "sing-box",
+      "universal",
+      "release"
+    ],
+    "platforms": [
+      "android",
+      "ios",
+      "windows",
+      "macos",
+      "linux"
+    ],
+    "importance": 2,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2026-10-26T16:02:37Z",
+    "fetchedAt": "2026-10-26T18:42:08.592Z",
+    "firstSeenAt": "2026-10-26T18:42:18.178Z",
+    "updatedAt": "2026-10-26T18:42:18.178Z",
+    "hash": "e9c5e0d1ceb2ef93"
+  },
+  {
     "id": "007e18d005927034",
     "title": "v2fly/domain-list-community 20261026102707",
     "summary": "20261026102707",
@@ -60686,6 +60724,42 @@
     "firstSeenAt": "2026-05-07T04:09:04.362Z",
     "updatedAt": "2026-05-07T04:09:04.362Z",
     "hash": "5e6adb84fbb7f312"
+  },
+  {
+    "id": "3fa53334eb5cd260",
+    "title": "MetaCubeX/mihomo Prerelease-Alpha",
+    "summary": "Prerelease-Alpha",
+    "rawTitle": "Prerelease-Alpha",
+    "rawBody": "Release created at  Tue Oct 27 00:33:07 CST 2026\nSynchronize Alpha branch code updates, keeping only the latest version\n<br>\n[我应该下载哪个文件? / Which file should I download?](https://github.com/MetaCubeX/mihomo/wiki/FAQ)\n[二进制文件筛选 / Binary file selector](https://metacubex.github.io/Meta-Docs/startup/#_1)\n[查看文档 / Docs](https://metacubex.github.io/Meta-Docs/)\n\n\n## What's Changed\n* chore: allow mieru inbound to actively close idle TCP connection by @enfein in https://github.com/MetaCubeX/mihomo/pull/3354\n* fix: prevent SOCKS domain length arithmetic overflow by @SaladDay in https://github.com/MetaCubeX/mihomo/pull/3359\n\n## New Contributors\n* @SaladDay made their first contribution in https://github.com/MetaCubeX/mihomo/pull/3359\n\n**Full Changelog**: https://github.com/MetaCubeX/mihomo/compare/v1.19.33...Prerelease-Alpha",
+    "sourceType": "github_release",
+    "sourceName": "MetaCubeX/mihomo",
+    "sourceUrl": "https://github.com/MetaCubeX/mihomo/releases/tag/Prerelease-Alpha",
+    "project": "mihomo",
+    "repo": "MetaCubeX/mihomo",
+    "slug": "mihomo",
+    "version": "Prerelease-Alpha",
+    "category": "core",
+    "tags": [
+      "mihomo",
+      "clash",
+      "meta",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 2,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2024-08-12T17:01:02Z",
+    "fetchedAt": "2026-10-26T18:42:01.900Z",
+    "firstSeenAt": "2026-10-26T18:42:17.368Z",
+    "updatedAt": "2026-10-26T18:42:17.368Z",
+    "hash": "3fa53334eb5cd260"
   },
   {
     "id": "fc4a5ac25459c590",

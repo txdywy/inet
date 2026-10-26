@@ -1,12 +1,12 @@
 [
   {
     "tag": "release",
-    "count": 816,
-    "category": "dns_rules"
+    "count": 818,
+    "category": "client"
   },
   {
     "tag": "mihomo",
-    "count": 355,
+    "count": 356,
     "category": "dns_rules"
   },
   {
@@ -71,12 +71,12 @@
   },
   {
     "tag": "clash",
-    "count": 98,
+    "count": 99,
     "category": "security"
   },
   {
     "tag": "sing-box",
-    "count": 92,
+    "count": 93,
     "category": "client"
   },
   {
@@ -110,14 +110,14 @@
     "category": "security"
   },
   {
+    "tag": "meta",
+    "count": 80,
+    "category": "security"
+  },
+  {
     "tag": "OpenVPN",
     "count": 80,
     "category": "protocol"
-  },
-  {
-    "tag": "meta",
-    "count": 79,
-    "category": "security"
   },
   {
     "tag": "网络代理",
@@ -820,6 +820,16 @@
     "category": "ecosystem"
   },
   {
+    "tag": "hiddify",
+    "count": 5,
+    "category": "client"
+  },
+  {
+    "tag": "universal",
+    "count": 5,
+    "category": "client"
+  },
+  {
     "tag": "dashboard",
     "count": 5,
     "category": "ecosystem"
@@ -923,16 +933,6 @@
     "tag": "subconverter",
     "count": 5,
     "category": "ecosystem"
-  },
-  {
-    "tag": "hiddify",
-    "count": 4,
-    "category": "client"
-  },
-  {
-    "tag": "universal",
-    "count": 4,
-    "category": "client"
   },
   {
     "tag": "中间人攻击",

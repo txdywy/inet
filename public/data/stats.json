@@ -1,10 +1,10 @@
 {
-  "totalItems": 2003,
+  "totalItems": 2005,
   "last24h": 10,
-  "last7d": 72,
+  "last7d": 73,
   "byCategory": {
-    "core": 311,
-    "client": 300,
+    "core": 312,
+    "client": 301,
     "router": 31,
     "protocol": 57,
     "dns_rules": 360,
@@ -19,7 +19,7 @@
     },
     {
       "project": "mihomo",
-      "count": 226
+      "count": 227
     },
     {
       "project": "3x-ui",
@@ -57,11 +57,11 @@
   "hotTags": [
     {
       "tag": "release",
-      "count": 816
+      "count": 818
     },
     {
       "tag": "mihomo",
-      "count": 355
+      "count": 356
     },
     {
       "tag": "geosite",
@@ -113,11 +113,11 @@
     },
     {
       "tag": "clash",
-      "count": 98
+      "count": 99
     },
     {
       "tag": "sing-box",
-      "count": 92
+      "count": 93
     },
     {
       "tag": "meta-rules-dat",
@@ -139,5 +139,5 @@
   "importantCount": 892,
   "breakingCount": 108,
   "securityCount": 177,
-  "updatedAt": "2026-10-26T13:13:17.150Z"
+  "updatedAt": "2026-10-26T18:42:18.625Z"
 }
