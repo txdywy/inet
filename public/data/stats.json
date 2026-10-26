@@ -1,13 +1,13 @@
 {
-  "totalItems": 1995,
-  "last24h": 12,
-  "last7d": 78,
+  "totalItems": 1996,
+  "last24h": 6,
+  "last7d": 71,
   "byCategory": {
     "core": 310,
     "client": 300,
     "router": 31,
     "protocol": 57,
-    "dns_rules": 354,
+    "dns_rules": 355,
     "security": 123,
     "ecosystem": 820,
     "trend": 0
@@ -31,7 +31,7 @@
     },
     {
       "project": "meta-rules-dat",
-      "count": 175
+      "count": 176
     },
     {
       "project": "Sub-Store",
@@ -57,15 +57,15 @@
   "hotTags": [
     {
       "tag": "release",
-      "count": 808
+      "count": 809
     },
     {
       "tag": "mihomo",
-      "count": 353
+      "count": 354
     },
     {
       "tag": "geosite",
-      "count": 330
+      "count": 331
     },
     {
       "tag": "MetaCubeX",
@@ -81,11 +81,11 @@
     },
     {
       "tag": "ruleset",
-      "count": 177
+      "count": 178
     },
     {
       "tag": "geoip",
-      "count": 177
+      "count": 178
     },
     {
       "tag": "xray-core",
@@ -136,8 +136,8 @@
       "count": 83
     }
   ],
-  "importantCount": 886,
+  "importantCount": 887,
   "breakingCount": 108,
   "securityCount": 177,
-  "updatedAt": "2026-10-25T20:46:42.026Z"
+  "updatedAt": "2026-10-26T04:54:18.376Z"
 }
