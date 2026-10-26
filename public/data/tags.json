@@ -1,17 +1,17 @@
 [
   {
     "tag": "release",
-    "count": 809,
+    "count": 816,
     "category": "dns_rules"
   },
   {
     "tag": "mihomo",
-    "count": 354,
+    "count": 355,
     "category": "dns_rules"
   },
   {
     "tag": "geosite",
-    "count": 331,
+    "count": 336,
     "category": "dns_rules"
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "tag": "domain-list",
-    "count": 221,
+    "count": 226,
     "category": "dns_rules"
   },
   {
@@ -71,7 +71,7 @@
   },
   {
     "tag": "clash",
-    "count": 97,
+    "count": 98,
     "category": "security"
   },
   {
@@ -116,7 +116,7 @@
   },
   {
     "tag": "meta",
-    "count": 78,
+    "count": 79,
     "category": "security"
   },
   {
@@ -395,6 +395,11 @@
     "category": "core"
   },
   {
+    "tag": "v2ray-agent",
+    "count": 17,
+    "category": "ecosystem"
+  },
+  {
     "tag": "tunnel",
     "count": 17,
     "category": "core"
@@ -418,11 +423,6 @@
     "tag": "TLSAuth",
     "count": 17,
     "category": "client"
-  },
-  {
-    "tag": "v2ray-agent",
-    "count": 16,
-    "category": "ecosystem"
   },
   {
     "tag": "mosdns",
@@ -595,6 +595,16 @@
     "category": "ecosystem"
   },
   {
+    "tag": "script",
+    "count": 9,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "vps",
+    "count": 9,
+    "category": "ecosystem"
+  },
+  {
     "tag": "配置管理",
     "count": 9,
     "category": "ecosystem"
@@ -637,16 +647,6 @@
   {
     "tag": "CBC",
     "count": 9,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "script",
-    "count": 8,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "vps",
-    "count": 8,
     "category": "ecosystem"
   },
   {
