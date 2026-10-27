@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 822,
-    "category": "dns_rules"
+    "count": 825,
+    "category": "ecosystem"
   },
   {
     "tag": "mihomo",
@@ -11,7 +11,7 @@
   },
   {
     "tag": "geosite",
-    "count": 340,
+    "count": 342,
     "category": "dns_rules"
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "tag": "domain-list",
-    "count": 228,
+    "count": 230,
     "category": "dns_rules"
   },
   {
@@ -385,6 +385,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "v2ray-agent",
+    "count": 18,
+    "category": "ecosystem"
+  },
+  {
     "tag": "v2rayNG",
     "count": 18,
     "category": "client"
@@ -393,11 +398,6 @@
     "tag": "Xray",
     "count": 18,
     "category": "core"
-  },
-  {
-    "tag": "v2ray-agent",
-    "count": 17,
-    "category": "ecosystem"
   },
   {
     "tag": "tunnel",
@@ -565,6 +565,16 @@
     "category": "client"
   },
   {
+    "tag": "script",
+    "count": 10,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "vps",
+    "count": 10,
+    "category": "ecosystem"
+  },
+  {
     "tag": "amneziawg",
     "count": 10,
     "category": "security"
@@ -592,16 +602,6 @@
   {
     "tag": "Docker",
     "count": 10,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "script",
-    "count": 9,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "vps",
-    "count": 9,
     "category": "ecosystem"
   },
   {
