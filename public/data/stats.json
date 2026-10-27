@@ -1,10 +1,10 @@
 {
-  "totalItems": 2012,
-  "last24h": 8,
-  "last7d": 73,
+  "totalItems": 2015,
+  "last24h": 10,
+  "last7d": 74,
   "byCategory": {
-    "core": 312,
-    "client": 301,
+    "core": 314,
+    "client": 302,
     "router": 31,
     "protocol": 57,
     "dns_rules": 366,
@@ -47,7 +47,7 @@
     },
     {
       "project": "gost",
-      "count": 53
+      "count": 55
     },
     {
       "project": "ClashMetaForAndroid",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "release",
-      "count": 825
+      "count": 828
     },
     {
       "tag": "mihomo",
@@ -117,7 +117,7 @@
     },
     {
       "tag": "sing-box",
-      "count": 93
+      "count": 94
     },
     {
       "tag": "meta-rules-dat",
@@ -136,8 +136,8 @@
       "count": 83
     }
   ],
-  "importantCount": 898,
+  "importantCount": 899,
   "breakingCount": 108,
   "securityCount": 177,
-  "updatedAt": "2026-10-27T12:21:13.792Z"
+  "updatedAt": "2026-10-27T18:02:52.621Z"
 }

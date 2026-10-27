@@ -415,20 +415,6 @@
     ]
   },
   {
-    "slug": "openwrt",
-    "name": "openwrt",
-    "repo": "openwrt/openwrt",
-    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
-    "category": "ecosystem",
-    "platforms": [
-      "openwrt",
-      "router"
-    ],
-    "tags": [
-      "openwrt"
-    ]
-  },
-  {
     "slug": "hiddify-next",
     "name": "hiddify-next",
     "repo": "hiddify/hiddify-next",
@@ -445,6 +431,20 @@
       "hiddify",
       "sing-box",
       "universal"
+    ]
+  },
+  {
+    "slug": "openwrt",
+    "name": "openwrt",
+    "repo": "openwrt/openwrt",
+    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
+    "category": "ecosystem",
+    "platforms": [
+      "openwrt",
+      "router"
+    ],
+    "tags": [
+      "openwrt"
     ]
   },
   {
