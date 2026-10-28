@@ -1,17 +1,17 @@
 [
   {
     "tag": "release",
-    "count": 832,
-    "category": "security"
+    "count": 834,
+    "category": "dns_rules"
   },
   {
     "tag": "mihomo",
-    "count": 358,
+    "count": 359,
     "category": "dns_rules"
   },
   {
     "tag": "geosite",
-    "count": 344,
+    "count": 345,
     "category": "dns_rules"
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "tag": "domain-list",
-    "count": 230,
+    "count": 231,
     "category": "dns_rules"
   },
   {
@@ -65,14 +65,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "clash",
+    "count": 100,
+    "category": "security"
+  },
+  {
     "tag": "v2ray",
     "count": 100,
     "category": "ecosystem"
-  },
-  {
-    "tag": "clash",
-    "count": 99,
-    "category": "security"
   },
   {
     "tag": "sing-box",
@@ -111,7 +111,7 @@
   },
   {
     "tag": "meta",
-    "count": 80,
+    "count": 81,
     "category": "security"
   },
   {

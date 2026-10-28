@@ -1,5 +1,40 @@
 [
   {
+    "id": "5186ff56e000883e",
+    "title": "v2fly/domain-list-community 20261028111806",
+    "summary": "20261028111806",
+    "rawTitle": "20261028111806",
+    "rawBody": "## What's Changed\n* Add ivi.tv to entertainment category by @manhole6328 in https://github.com/v2fly/domain-list-community/pull/4197\n\n## New Contributors\n* @manhole6328 made their first contribution in https://github.com/v2fly/domain-list-community/pull/4197\n\n**Full Changelog**: https://github.com/v2fly/domain-list-community/compare/20261027070632...20261028111806",
+    "sourceType": "github_release",
+    "sourceName": "v2fly/domain-list-community",
+    "sourceUrl": "https://github.com/v2fly/domain-list-community/releases/tag/20261028111806",
+    "project": "domain-list-community",
+    "repo": "v2fly/domain-list-community",
+    "slug": "domain-list-community",
+    "version": "20261028111806",
+    "category": "dns_rules",
+    "tags": [
+      "geosite",
+      "domain-list",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-10-28T11:18:16Z",
+    "fetchedAt": "2026-10-28T13:05:13.699Z",
+    "firstSeenAt": "2026-10-28T13:05:15.405Z",
+    "updatedAt": "2026-10-28T13:05:15.405Z",
+    "hash": "5186ff56e000883e"
+  },
+  {
     "id": "3ea0f724a5b1cf50",
     "title": "2dust/v2rayNG 2.3.14",
     "summary": "2.3.14",
@@ -61225,6 +61260,42 @@
     "firstSeenAt": "2026-05-07T04:09:04.362Z",
     "updatedAt": "2026-05-07T04:09:04.362Z",
     "hash": "5e6adb84fbb7f312"
+  },
+  {
+    "id": "75beb7687cadc64a",
+    "title": "MetaCubeX/mihomo Prerelease-Alpha",
+    "summary": "Prerelease-Alpha",
+    "rawTitle": "Prerelease-Alpha",
+    "rawBody": "Release created at  Wed Oct 28 19:45:40 CST 2026\nSynchronize Alpha branch code updates, keeping only the latest version\n<br>\n[我应该下载哪个文件? / Which file should I download?](https://github.com/MetaCubeX/mihomo/wiki/FAQ)\n[二进制文件筛选 / Binary file selector](https://metacubex.github.io/Meta-Docs/startup/#_1)\n[查看文档 / Docs](https://metacubex.github.io/Meta-Docs/)\n\n\n## What's Changed\n* chore: allow mieru inbound to actively close idle TCP connection by @enfein in https://github.com/MetaCubeX/mihomo/pull/3354\n* fix: prevent SOCKS domain length arithmetic overflow by @SaladDay in https://github.com/MetaCubeX/mihomo/pull/3359\n* feat: add ss-password generation functionality to the command line tool by @Zephyruso in https://github.com/MetaCubeX/mihomo/pull/3372\n\n## New Contributors\n* @SaladDay made their first contribution in https://github.com/MetaCubeX/mihomo/pull/3359\n\n**Full Changelog**: https://github.com/MetaCubeX/mihomo/compare/v1.19.33...Prerelease-Alpha",
+    "sourceType": "github_release",
+    "sourceName": "MetaCubeX/mihomo",
+    "sourceUrl": "https://github.com/MetaCubeX/mihomo/releases/tag/Prerelease-Alpha",
+    "project": "mihomo",
+    "repo": "MetaCubeX/mihomo",
+    "slug": "mihomo",
+    "version": "Prerelease-Alpha",
+    "category": "core",
+    "tags": [
+      "mihomo",
+      "clash",
+      "meta",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 2,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2024-08-12T17:01:02Z",
+    "fetchedAt": "2026-10-28T13:04:59.139Z",
+    "firstSeenAt": "2026-10-28T13:05:14.595Z",
+    "updatedAt": "2026-10-28T13:05:14.595Z",
+    "hash": "75beb7687cadc64a"
   },
   {
     "id": "3fa53334eb5cd260",
