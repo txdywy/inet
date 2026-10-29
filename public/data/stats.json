@@ -1,5 +1,5 @@
 {
-  "totalItems": 2027,
+  "totalItems": 2028,
   "last24h": 6,
   "last7d": 56,
   "byCategory": {
@@ -7,7 +7,7 @@
     "client": 303,
     "router": 31,
     "protocol": 57,
-    "dns_rules": 371,
+    "dns_rules": 372,
     "security": 126,
     "ecosystem": 824,
     "trend": 0
@@ -27,7 +27,7 @@
     },
     {
       "project": "v2ray-rules-dat",
-      "count": 184
+      "count": 185
     },
     {
       "project": "meta-rules-dat",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "release",
-      "count": 840
+      "count": 841
     },
     {
       "tag": "mihomo",
@@ -65,7 +65,7 @@
     },
     {
       "tag": "geosite",
-      "count": 347
+      "count": 348
     },
     {
       "tag": "MetaCubeX",
@@ -81,11 +81,11 @@
     },
     {
       "tag": "ruleset",
-      "count": 184
+      "count": 185
     },
     {
       "tag": "geoip",
-      "count": 184
+      "count": 185
     },
     {
       "tag": "xray-core",
@@ -136,8 +136,8 @@
       "count": 83
     }
   ],
-  "importantCount": 907,
+  "importantCount": 908,
   "breakingCount": 108,
   "securityCount": 180,
-  "updatedAt": "2026-10-29T18:30:26.802Z"
+  "updatedAt": "2026-10-29T22:42:16.352Z"
 }
