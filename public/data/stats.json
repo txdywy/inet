@@ -1,6 +1,6 @@
 {
-  "totalItems": 2026,
-  "last24h": 5,
+  "totalItems": 2027,
+  "last24h": 6,
   "last7d": 56,
   "byCategory": {
     "core": 315,
@@ -9,7 +9,7 @@
     "protocol": 57,
     "dns_rules": 371,
     "security": 126,
-    "ecosystem": 823,
+    "ecosystem": 824,
     "trend": 0
   },
   "topProjects": [
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "release",
-      "count": 839
+      "count": 840
     },
     {
       "tag": "mihomo",
@@ -136,8 +136,8 @@
       "count": 83
     }
   ],
-  "importantCount": 906,
+  "importantCount": 907,
   "breakingCount": 108,
   "securityCount": 180,
-  "updatedAt": "2026-10-29T13:11:50.061Z"
+  "updatedAt": "2026-10-29T18:30:26.802Z"
 }

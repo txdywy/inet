@@ -1,5 +1,39 @@
 [
   {
+    "id": "b3bdc8fe9cfcf580",
+    "title": "mack-a/v2ray-agent v3.5.32",
+    "summary": "v3.5.32",
+    "rawTitle": "v3.5.32",
+    "rawBody": "feat(脚本): 修复xray-core 正式版回退版本问题",
+    "sourceType": "github_release",
+    "sourceName": "mack-a/v2ray-agent",
+    "sourceUrl": "https://github.com/mack-a/v2ray-agent/releases/tag/v3.5.32",
+    "project": "v2ray-agent",
+    "repo": "mack-a/v2ray-agent",
+    "slug": "v2ray-agent",
+    "version": "3.5.32",
+    "category": "ecosystem",
+    "tags": [
+      "v2ray-agent",
+      "script",
+      "vps",
+      "release"
+    ],
+    "platforms": [
+      "linux"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-10-29T13:16:59Z",
+    "fetchedAt": "2026-10-29T18:30:22.583Z",
+    "firstSeenAt": "2026-10-29T18:30:26.290Z",
+    "updatedAt": "2026-10-29T18:30:26.290Z",
+    "hash": "b3bdc8fe9cfcf580"
+  },
+  {
     "id": "aa165bd66a4e6add",
     "title": "XTLS/Xray-core Xray-core v26.10.29",
     "summary": "Xray-core v26.10.29",

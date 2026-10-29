@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 839,
-    "category": "security"
+    "count": 840,
+    "category": "ecosystem"
   },
   {
     "tag": "mihomo",
@@ -350,6 +350,11 @@
     "category": "core"
   },
   {
+    "tag": "v2ray-agent",
+    "count": 20,
+    "category": "ecosystem"
+  },
+  {
     "tag": "anytls",
     "count": 20,
     "category": "security"
@@ -368,11 +373,6 @@
     "tag": "rematch",
     "count": 20,
     "category": "core"
-  },
-  {
-    "tag": "v2ray-agent",
-    "count": 19,
-    "category": "security"
   },
   {
     "tag": "tunnel",
@@ -515,6 +515,16 @@
     "category": "client"
   },
   {
+    "tag": "script",
+    "count": 12,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "vps",
+    "count": 12,
+    "category": "ecosystem"
+  },
+  {
     "tag": "v2ray-core",
     "count": 12,
     "category": "security"
@@ -533,16 +543,6 @@
     "tag": "HTTP",
     "count": 12,
     "category": "core"
-  },
-  {
-    "tag": "script",
-    "count": 11,
-    "category": "security"
-  },
-  {
-    "tag": "vps",
-    "count": 11,
-    "category": "security"
   },
   {
     "tag": "TUN",
