@@ -1,17 +1,17 @@
 [
   {
     "tag": "release",
-    "count": 835,
+    "count": 838,
     "category": "dns_rules"
   },
   {
     "tag": "mihomo",
-    "count": 359,
+    "count": 360,
     "category": "dns_rules"
   },
   {
     "tag": "geosite",
-    "count": 346,
+    "count": 347,
     "category": "dns_rules"
   },
   {
@@ -31,12 +31,12 @@
   },
   {
     "tag": "ruleset",
-    "count": 183,
+    "count": 184,
     "category": "dns_rules"
   },
   {
     "tag": "geoip",
-    "count": 183,
+    "count": 184,
     "category": "dns_rules"
   },
   {
@@ -76,7 +76,7 @@
   },
   {
     "tag": "sing-box",
-    "count": 94,
+    "count": 95,
     "category": "client"
   },
   {
@@ -275,6 +275,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "reality",
+    "count": 27,
+    "category": "security"
+  },
+  {
     "tag": "android",
     "count": 27,
     "category": "security"
@@ -293,11 +298,6 @@
     "tag": "transparent-proxy",
     "count": 27,
     "category": "client"
-  },
-  {
-    "tag": "reality",
-    "count": 26,
-    "category": "security"
   },
   {
     "tag": "DNS",
@@ -370,6 +370,11 @@
     "category": "core"
   },
   {
+    "tag": "v2ray-agent",
+    "count": 19,
+    "category": "security"
+  },
+  {
     "tag": "tunnel",
     "count": 19,
     "category": "core"
@@ -387,11 +392,6 @@
   {
     "tag": "CHACHA20-POLY1305",
     "count": 19,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "v2ray-agent",
-    "count": 18,
     "category": "ecosystem"
   },
   {
@@ -535,6 +535,16 @@
     "category": "core"
   },
   {
+    "tag": "script",
+    "count": 11,
+    "category": "security"
+  },
+  {
+    "tag": "vps",
+    "count": 11,
+    "category": "security"
+  },
+  {
     "tag": "TUN",
     "count": 11,
     "category": "client"
@@ -565,16 +575,6 @@
     "category": "client"
   },
   {
-    "tag": "script",
-    "count": 10,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "vps",
-    "count": 10,
-    "category": "ecosystem"
-  },
-  {
     "tag": "amneziawg",
     "count": 10,
     "category": "security"
@@ -603,6 +603,11 @@
     "tag": "Docker",
     "count": 10,
     "category": "ecosystem"
+  },
+  {
+    "tag": "vision",
+    "count": 9,
+    "category": "security"
   },
   {
     "tag": "tailscale",
@@ -660,11 +665,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "vision",
-    "count": 8,
-    "category": "security"
-  },
-  {
     "tag": "dae",
     "count": 8,
     "category": "core"
@@ -715,6 +715,16 @@
     "category": "core"
   },
   {
+    "tag": "hiddify",
+    "count": 7,
+    "category": "client"
+  },
+  {
+    "tag": "universal",
+    "count": 7,
+    "category": "client"
+  },
+  {
     "tag": "rust",
     "count": 7,
     "category": "security"
@@ -753,16 +763,6 @@
     "tag": "luci-app-mosdns",
     "count": 7,
     "category": "ecosystem"
-  },
-  {
-    "tag": "hiddify",
-    "count": 6,
-    "category": "client"
-  },
-  {
-    "tag": "universal",
-    "count": 6,
-    "category": "client"
   },
   {
     "tag": "warp",

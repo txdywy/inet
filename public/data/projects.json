@@ -317,6 +317,21 @@
     ]
   },
   {
+    "slug": "v2ray-agent",
+    "name": "v2ray-agent",
+    "repo": "mack-a/v2ray-agent",
+    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
+    "category": "ecosystem",
+    "platforms": [
+      "linux"
+    ],
+    "tags": [
+      "v2ray-agent",
+      "script",
+      "vps"
+    ]
+  },
+  {
     "slug": "naiveproxy",
     "name": "naiveproxy",
     "repo": "klzgrad/naiveproxy",
@@ -330,21 +345,6 @@
     ],
     "tags": [
       "naiveproxy"
-    ]
-  },
-  {
-    "slug": "v2ray-agent",
-    "name": "v2ray-agent",
-    "repo": "mack-a/v2ray-agent",
-    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
-    "category": "ecosystem",
-    "platforms": [
-      "linux"
-    ],
-    "tags": [
-      "v2ray-agent",
-      "script",
-      "vps"
     ]
   },
   {
@@ -381,6 +381,25 @@
     ]
   },
   {
+    "slug": "hiddify-next",
+    "name": "hiddify-next",
+    "repo": "hiddify/hiddify-next",
+    "description": "各平台代理客户端应用",
+    "category": "client",
+    "platforms": [
+      "android",
+      "ios",
+      "windows",
+      "macos",
+      "linux"
+    ],
+    "tags": [
+      "hiddify",
+      "sing-box",
+      "universal"
+    ]
+  },
+  {
     "slug": "mihomo-party",
     "name": "mihomo-party",
     "repo": "mihomo-party-org/mihomo-party",
@@ -412,25 +431,6 @@
       "openwrt",
       "luci",
       "clash"
-    ]
-  },
-  {
-    "slug": "hiddify-next",
-    "name": "hiddify-next",
-    "repo": "hiddify/hiddify-next",
-    "description": "各平台代理客户端应用",
-    "category": "client",
-    "platforms": [
-      "android",
-      "ios",
-      "windows",
-      "macos",
-      "linux"
-    ],
-    "tags": [
-      "hiddify",
-      "sing-box",
-      "universal"
     ]
   },
   {
