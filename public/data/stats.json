@@ -1,14 +1,14 @@
 {
-  "totalItems": 2025,
+  "totalItems": 2026,
   "last24h": 5,
-  "last7d": 57,
+  "last7d": 56,
   "byCategory": {
     "core": 315,
     "client": 303,
     "router": 31,
     "protocol": 57,
     "dns_rules": 371,
-    "security": 125,
+    "security": 126,
     "ecosystem": 823,
     "trend": 0
   },
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "release",
-      "count": 838
+      "count": 839
     },
     {
       "tag": "mihomo",
@@ -89,7 +89,7 @@
     },
     {
       "tag": "xray-core",
-      "count": 158
+      "count": 159
     },
     {
       "tag": "Sub-Store",
@@ -124,12 +124,12 @@
       "count": 88
     },
     {
-      "tag": "Loyalsoldier",
+      "tag": "vless",
       "count": 86
     },
     {
-      "tag": "vless",
-      "count": 85
+      "tag": "Loyalsoldier",
+      "count": 86
     },
     {
       "tag": "3x-ui",
@@ -138,6 +138,6 @@
   ],
   "importantCount": 906,
   "breakingCount": 108,
-  "securityCount": 179,
-  "updatedAt": "2026-10-29T05:54:07.880Z"
+  "securityCount": 180,
+  "updatedAt": "2026-10-29T13:11:50.061Z"
 }

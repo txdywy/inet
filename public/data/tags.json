@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 838,
-    "category": "dns_rules"
+    "count": 839,
+    "category": "security"
   },
   {
     "tag": "mihomo",
@@ -41,7 +41,7 @@
   },
   {
     "tag": "xray-core",
-    "count": 158,
+    "count": 159,
     "category": "security"
   },
   {
@@ -85,14 +85,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "vless",
+    "count": 86,
+    "category": "security"
+  },
+  {
     "tag": "Loyalsoldier",
     "count": 86,
     "category": "ecosystem"
-  },
-  {
-    "tag": "vless",
-    "count": 85,
-    "category": "security"
   },
   {
     "tag": "3x-ui",
@@ -100,14 +100,14 @@
     "category": "client"
   },
   {
+    "tag": "xhttp",
+    "count": 82,
+    "category": "security"
+  },
+  {
     "tag": "metacubexd",
     "count": 82,
     "category": "client"
-  },
-  {
-    "tag": "xhttp",
-    "count": 81,
-    "category": "security"
   },
   {
     "tag": "meta",
@@ -276,7 +276,7 @@
   },
   {
     "tag": "reality",
-    "count": 27,
+    "count": 28,
     "category": "security"
   },
   {
@@ -455,6 +455,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "xtls",
+    "count": 15,
+    "category": "security"
+  },
+  {
     "tag": "v2rayng",
     "count": 15,
     "category": "security"
@@ -471,11 +476,6 @@
   },
   {
     "tag": "grpc",
-    "count": 14,
-    "category": "security"
-  },
-  {
-    "tag": "xtls",
     "count": 14,
     "category": "security"
   },
