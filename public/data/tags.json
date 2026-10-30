@@ -1,7 +1,7 @@
 [
   {
     "tag": "release",
-    "count": 846,
+    "count": 850,
     "category": "dns_rules"
   },
   {
@@ -11,7 +11,7 @@
   },
   {
     "tag": "geosite",
-    "count": 350,
+    "count": 354,
     "category": "dns_rules"
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "tag": "domain-list",
-    "count": 232,
+    "count": 236,
     "category": "dns_rules"
   },
   {
