@@ -1,17 +1,17 @@
 [
   {
     "tag": "release",
-    "count": 843,
+    "count": 846,
     "category": "dns_rules"
   },
   {
     "tag": "mihomo",
-    "count": 361,
+    "count": 362,
     "category": "dns_rules"
   },
   {
     "tag": "geosite",
-    "count": 349,
+    "count": 350,
     "category": "dns_rules"
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "tag": "domain-list",
-    "count": 231,
+    "count": 232,
     "category": "dns_rules"
   },
   {
@@ -66,7 +66,7 @@
   },
   {
     "tag": "clash",
-    "count": 100,
+    "count": 101,
     "category": "security"
   },
   {
@@ -105,14 +105,14 @@
     "category": "security"
   },
   {
+    "tag": "meta",
+    "count": 82,
+    "category": "security"
+  },
+  {
     "tag": "metacubexd",
     "count": 82,
     "category": "client"
-  },
-  {
-    "tag": "meta",
-    "count": 81,
-    "category": "security"
   },
   {
     "tag": "OpenVPN",
@@ -351,7 +351,7 @@
   },
   {
     "tag": "v2ray-agent",
-    "count": 20,
+    "count": 21,
     "category": "ecosystem"
   },
   {
@@ -500,6 +500,16 @@
     "category": "core"
   },
   {
+    "tag": "script",
+    "count": 13,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "vps",
+    "count": 13,
+    "category": "ecosystem"
+  },
+  {
     "tag": "OpenWrt",
     "count": 13,
     "category": "security"
@@ -513,16 +523,6 @@
     "tag": "SOCKS",
     "count": 13,
     "category": "client"
-  },
-  {
-    "tag": "script",
-    "count": 12,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "vps",
-    "count": 12,
-    "category": "ecosystem"
   },
   {
     "tag": "v2ray-core",

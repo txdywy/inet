@@ -1,5 +1,74 @@
 [
   {
+    "id": "d3f46b4084e419a0",
+    "title": "v2fly/domain-list-community 20261030130235",
+    "summary": "20261030130235",
+    "rawTitle": "20261030130235",
+    "rawBody": "## What's Changed\n* category-ai-cn: add favonis by @ShangYJQ in https://github.com/v2fly/domain-list-community/pull/4198\n\n## New Contributors\n* @ShangYJQ made their first contribution in https://github.com/v2fly/domain-list-community/pull/4198\n\n**Full Changelog**: https://github.com/v2fly/domain-list-community/compare/20261028111806...20261030130235",
+    "sourceType": "github_release",
+    "sourceName": "v2fly/domain-list-community",
+    "sourceUrl": "https://github.com/v2fly/domain-list-community/releases/tag/20261030130235",
+    "project": "domain-list-community",
+    "repo": "v2fly/domain-list-community",
+    "slug": "domain-list-community",
+    "version": "20261030130235",
+    "category": "dns_rules",
+    "tags": [
+      "geosite",
+      "domain-list",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-10-30T13:02:46Z",
+    "fetchedAt": "2026-10-30T13:04:33.999Z",
+    "firstSeenAt": "2026-10-30T13:04:36.464Z",
+    "updatedAt": "2026-10-30T13:04:36.464Z",
+    "hash": "d3f46b4084e419a0"
+  },
+  {
+    "id": "f24bf87582cd11b8",
+    "title": "mack-a/v2ray-agent v3.5.33",
+    "summary": "v3.5.33",
+    "rawTitle": "v3.5.33",
+    "rawBody": "feat(socks5): 支持多落地机和按入站 tag 分流\r\nfeat(socks5): 支持独立安装与事务化管理 SOCKS5 入站",
+    "sourceType": "github_release",
+    "sourceName": "mack-a/v2ray-agent",
+    "sourceUrl": "https://github.com/mack-a/v2ray-agent/releases/tag/v3.5.33",
+    "project": "v2ray-agent",
+    "repo": "mack-a/v2ray-agent",
+    "slug": "v2ray-agent",
+    "version": "3.5.33",
+    "category": "ecosystem",
+    "tags": [
+      "v2ray-agent",
+      "script",
+      "vps",
+      "release"
+    ],
+    "platforms": [
+      "linux"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-10-30T11:13:31Z",
+    "fetchedAt": "2026-10-30T13:04:31.107Z",
+    "firstSeenAt": "2026-10-30T13:04:35.652Z",
+    "updatedAt": "2026-10-30T13:04:35.652Z",
+    "hash": "f24bf87582cd11b8"
+  },
+  {
     "id": "229ee379cd50cfa1",
     "title": "MetaCubeX/meta-rules-dat Release 2026-10-30 10:03",
     "summary": "Release 2026-10-30 10:03",
@@ -61591,6 +61660,42 @@
     "firstSeenAt": "2026-05-07T04:09:04.362Z",
     "updatedAt": "2026-05-07T04:09:04.362Z",
     "hash": "5e6adb84fbb7f312"
+  },
+  {
+    "id": "cfd5d87c46d9699b",
+    "title": "MetaCubeX/mihomo Prerelease-Alpha",
+    "summary": "Prerelease-Alpha",
+    "rawTitle": "Prerelease-Alpha",
+    "rawBody": "Release created at  Fri Oct 30 17:50:47 CST 2026\nSynchronize Alpha branch code updates, keeping only the latest version\n<br>\n[我应该下载哪个文件? / Which file should I download?](https://github.com/MetaCubeX/mihomo/wiki/FAQ)\n[二进制文件筛选 / Binary file selector](https://metacubex.github.io/Meta-Docs/startup/#_1)\n[查看文档 / Docs](https://metacubex.github.io/Meta-Docs/)\n\n\n## What's Changed\n* chore: allow mieru inbound to actively close idle TCP connection by @enfein in https://github.com/MetaCubeX/mihomo/pull/3354\n* fix: prevent SOCKS domain length arithmetic overflow by @SaladDay in https://github.com/MetaCubeX/mihomo/pull/3359\n* feat: add ss-password generation functionality to the command line tool by @Zephyruso in https://github.com/MetaCubeX/mihomo/pull/3372\n* fix: keep bytes that arrive with the HTTP proxy's CONNECT response by @gtoxlili in https://github.com/MetaCubeX/mihomo/pull/3382\n\n## New Contributors\n* @SaladDay made their first contribution in https://github.com/MetaCubeX/mihomo/pull/3359\n* @gtoxlili made their first contribution in https://github.com/MetaCubeX/mihomo/pull/3382\n\n**Full Changelog**: https://github.com/MetaCubeX/mihomo/compare/v1.19.33...Prerelease-Alpha",
+    "sourceType": "github_release",
+    "sourceName": "MetaCubeX/mihomo",
+    "sourceUrl": "https://github.com/MetaCubeX/mihomo/releases/tag/Prerelease-Alpha",
+    "project": "mihomo",
+    "repo": "MetaCubeX/mihomo",
+    "slug": "mihomo",
+    "version": "Prerelease-Alpha",
+    "category": "core",
+    "tags": [
+      "mihomo",
+      "clash",
+      "meta",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 2,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2024-08-12T17:01:02Z",
+    "fetchedAt": "2026-10-30T13:04:19.964Z",
+    "firstSeenAt": "2026-10-30T13:04:34.841Z",
+    "updatedAt": "2026-10-30T13:04:34.841Z",
+    "hash": "cfd5d87c46d9699b"
   },
   {
     "id": "75beb7687cadc64a",
