@@ -1,17 +1,17 @@
 [
   {
     "tag": "release",
-    "count": 841,
+    "count": 843,
     "category": "dns_rules"
   },
   {
     "tag": "mihomo",
-    "count": 360,
+    "count": 361,
     "category": "dns_rules"
   },
   {
     "tag": "geosite",
-    "count": 348,
+    "count": 349,
     "category": "dns_rules"
   },
   {
@@ -31,12 +31,12 @@
   },
   {
     "tag": "ruleset",
-    "count": 185,
+    "count": 186,
     "category": "dns_rules"
   },
   {
     "tag": "geoip",
-    "count": 185,
+    "count": 186,
     "category": "dns_rules"
   },
   {
@@ -76,7 +76,7 @@
   },
   {
     "tag": "sing-box",
-    "count": 95,
+    "count": 96,
     "category": "client"
   },
   {
@@ -660,6 +660,16 @@
     "category": "ecosystem"
   },
   {
+    "tag": "hiddify",
+    "count": 8,
+    "category": "client"
+  },
+  {
+    "tag": "universal",
+    "count": 8,
+    "category": "client"
+  },
+  {
     "tag": "mesh",
     "count": 8,
     "category": "ecosystem"
@@ -713,16 +723,6 @@
     "tag": "QUICv2",
     "count": 8,
     "category": "core"
-  },
-  {
-    "tag": "hiddify",
-    "count": 7,
-    "category": "client"
-  },
-  {
-    "tag": "universal",
-    "count": 7,
-    "category": "client"
   },
   {
     "tag": "rust",
