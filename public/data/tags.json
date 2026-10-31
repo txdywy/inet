@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 855,
-    "category": "dns_rules"
+    "count": 857,
+    "category": "security"
   },
   {
     "tag": "mihomo",
@@ -41,7 +41,7 @@
   },
   {
     "tag": "xray-core",
-    "count": 159,
+    "count": 160,
     "category": "security"
   },
   {
@@ -86,7 +86,7 @@
   },
   {
     "tag": "vless",
-    "count": 86,
+    "count": 87,
     "category": "security"
   },
   {
@@ -95,14 +95,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "xhttp",
+    "count": 83,
+    "category": "security"
+  },
+  {
     "tag": "3x-ui",
     "count": 83,
     "category": "client"
-  },
-  {
-    "tag": "xhttp",
-    "count": 82,
-    "category": "security"
   },
   {
     "tag": "meta",
@@ -256,13 +256,18 @@
   },
   {
     "tag": "sudoku",
-    "count": 30,
-    "category": "core"
+    "count": 31,
+    "category": "security"
   },
   {
     "tag": "Tailscale",
     "count": 30,
     "category": "core"
+  },
+  {
+    "tag": "reality",
+    "count": 29,
+    "category": "security"
   },
   {
     "tag": "v2rayN",
@@ -273,11 +278,6 @@
     "tag": "自动化构建",
     "count": 29,
     "category": "ecosystem"
-  },
-  {
-    "tag": "reality",
-    "count": 28,
-    "category": "security"
   },
   {
     "tag": "android",
@@ -425,6 +425,11 @@
     "category": "client"
   },
   {
+    "tag": "xtls",
+    "count": 16,
+    "category": "security"
+  },
+  {
     "tag": "mosdns",
     "count": 16,
     "category": "router"
@@ -453,11 +458,6 @@
     "tag": "Alpha",
     "count": 16,
     "category": "ecosystem"
-  },
-  {
-    "tag": "xtls",
-    "count": 15,
-    "category": "security"
   },
   {
     "tag": "v2rayng",
@@ -935,6 +935,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "obfuscation",
+    "count": 4,
+    "category": "security"
+  },
+  {
     "tag": "中间人攻击",
     "count": 4,
     "category": "security"
@@ -1053,11 +1058,6 @@
     "tag": "nekoray",
     "count": 4,
     "category": "client"
-  },
-  {
-    "tag": "obfuscation",
-    "count": 3,
-    "category": "core"
   },
   {
     "tag": "http/3",
