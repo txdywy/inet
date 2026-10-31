@@ -1,17 +1,17 @@
 [
   {
     "tag": "release",
-    "count": 852,
+    "count": 855,
     "category": "dns_rules"
   },
   {
     "tag": "mihomo",
-    "count": 362,
+    "count": 363,
     "category": "dns_rules"
   },
   {
     "tag": "geosite",
-    "count": 355,
+    "count": 356,
     "category": "dns_rules"
   },
   {
@@ -31,12 +31,12 @@
   },
   {
     "tag": "ruleset",
-    "count": 187,
+    "count": 188,
     "category": "dns_rules"
   },
   {
     "tag": "geoip",
-    "count": 187,
+    "count": 188,
     "category": "dns_rules"
   },
   {
@@ -76,7 +76,7 @@
   },
   {
     "tag": "sing-box",
-    "count": 97,
+    "count": 99,
     "category": "client"
   },
   {
@@ -545,6 +545,16 @@
     "category": "core"
   },
   {
+    "tag": "hiddify",
+    "count": 11,
+    "category": "client"
+  },
+  {
+    "tag": "universal",
+    "count": 11,
+    "category": "client"
+  },
+  {
     "tag": "TUN",
     "count": 11,
     "category": "client"
@@ -603,16 +613,6 @@
     "tag": "Docker",
     "count": 10,
     "category": "ecosystem"
-  },
-  {
-    "tag": "hiddify",
-    "count": 9,
-    "category": "client"
-  },
-  {
-    "tag": "universal",
-    "count": 9,
-    "category": "client"
   },
   {
     "tag": "vision",
