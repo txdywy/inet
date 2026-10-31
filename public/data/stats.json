@@ -1,7 +1,7 @@
 {
-  "totalItems": 2044,
+  "totalItems": 2045,
   "last24h": 7,
-  "last7d": 57,
+  "last7d": 58,
   "byCategory": {
     "core": 316,
     "client": 307,
@@ -9,7 +9,7 @@
     "protocol": 57,
     "dns_rules": 380,
     "security": 128,
-    "ecosystem": 825,
+    "ecosystem": 826,
     "trend": 0
   },
   "topProjects": [
@@ -39,7 +39,7 @@
     },
     {
       "project": "metacubexd",
-      "count": 91
+      "count": 92
     },
     {
       "project": "sing-box",
@@ -57,11 +57,11 @@
   "hotTags": [
     {
       "tag": "release",
-      "count": 857
+      "count": 858
     },
     {
       "tag": "mihomo",
-      "count": 363
+      "count": 364
     },
     {
       "tag": "geosite",
@@ -109,7 +109,7 @@
     },
     {
       "tag": "clash",
-      "count": 101
+      "count": 102
     },
     {
       "tag": "v2ray",
@@ -136,8 +136,8 @@
       "count": 83
     }
   ],
-  "importantCount": 917,
+  "importantCount": 918,
   "breakingCount": 108,
   "securityCount": 182,
-  "updatedAt": "2026-10-31T17:16:24.017Z"
+  "updatedAt": "2026-10-31T21:29:46.638Z"
 }

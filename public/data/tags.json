@@ -1,13 +1,13 @@
 [
   {
     "tag": "release",
-    "count": 857,
-    "category": "security"
+    "count": 858,
+    "category": "ecosystem"
   },
   {
     "tag": "mihomo",
-    "count": 363,
-    "category": "dns_rules"
+    "count": 364,
+    "category": "ecosystem"
   },
   {
     "tag": "geosite",
@@ -66,8 +66,8 @@
   },
   {
     "tag": "clash",
-    "count": 101,
-    "category": "security"
+    "count": 102,
+    "category": "ecosystem"
   },
   {
     "tag": "v2ray",
@@ -765,6 +765,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "dashboard",
+    "count": 6,
+    "category": "ecosystem"
+  },
+  {
     "tag": "warp",
     "count": 6,
     "category": "security"
@@ -827,11 +832,6 @@
   {
     "tag": "openvpn",
     "count": 6,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "dashboard",
-    "count": 5,
     "category": "ecosystem"
   },
   {

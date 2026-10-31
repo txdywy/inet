@@ -1,5 +1,39 @@
 [
   {
+    "id": "1febbabd95703c34",
+    "title": "MetaCubeX/metacubexd v1.274.0",
+    "summary": "v1.274.0",
+    "rawTitle": "v1.274.0",
+    "rawBody": "## [1.274.0](https://github.com/MetaCubeX/metacubexd/compare/v1.273.1...v1.274.0) (2026-10-31)\n\n\n### Features\n\n* **proxies:** add persistent per-group node search ([#2204](https://github.com/MetaCubeX/metacubexd/issues/2204)) ([dbc9ee8](https://github.com/MetaCubeX/metacubexd/commit/dbc9ee8261a7652d741ac0d03fc33f84d7d4638a))\n\n\n### Bug Fixes\n\n* **ui:** avoid replaying connection totals in data usage ([#2227](https://github.com/MetaCubeX/metacubexd/issues/2227)) ([75470e8](https://github.com/MetaCubeX/metacubexd/commit/75470e81f035e2207db5cf94ad70fe902eb0bd13))",
+    "sourceType": "github_release",
+    "sourceName": "MetaCubeX/metacubexd",
+    "sourceUrl": "https://github.com/MetaCubeX/metacubexd/releases/tag/v1.274.0",
+    "project": "metacubexd",
+    "repo": "MetaCubeX/metacubexd",
+    "slug": "metacubexd",
+    "version": "1.274.0",
+    "category": "ecosystem",
+    "tags": [
+      "dashboard",
+      "mihomo",
+      "clash",
+      "release"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-10-31T21:19:50Z",
+    "fetchedAt": "2026-10-31T21:29:44.163Z",
+    "firstSeenAt": "2026-10-31T21:29:46.270Z",
+    "updatedAt": "2026-10-31T21:29:46.270Z",
+    "hash": "1febbabd95703c34"
+  },
+  {
     "id": "5cdb7358fd0f5980",
     "title": "SUDOKU-ASCII/sudoku v0.5.2-1",
     "summary": "v0.5.2-1",
