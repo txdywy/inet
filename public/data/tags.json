@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 872,
-    "category": "ecosystem"
+    "count": 875,
+    "category": "security"
   },
   {
     "tag": "mihomo",
@@ -41,7 +41,7 @@
   },
   {
     "tag": "xray-core",
-    "count": 161,
+    "count": 162,
     "category": "security"
   },
   {
@@ -51,12 +51,12 @@
   },
   {
     "tag": "x-ui",
-    "count": 112,
+    "count": 113,
     "category": "security"
   },
   {
     "tag": "panel",
-    "count": 112,
+    "count": 113,
     "category": "security"
   },
   {
@@ -80,14 +80,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "vless",
+    "count": 88,
+    "category": "security"
+  },
+  {
     "tag": "meta-rules-dat",
     "count": 88,
     "category": "ecosystem"
-  },
-  {
-    "tag": "vless",
-    "count": 87,
-    "category": "security"
   },
   {
     "tag": "Loyalsoldier",
@@ -96,7 +96,7 @@
   },
   {
     "tag": "xhttp",
-    "count": 83,
+    "count": 84,
     "category": "security"
   },
   {
@@ -260,14 +260,14 @@
     "category": "security"
   },
   {
+    "tag": "reality",
+    "count": 30,
+    "category": "security"
+  },
+  {
     "tag": "Tailscale",
     "count": 30,
     "category": "core"
-  },
-  {
-    "tag": "reality",
-    "count": 29,
-    "category": "security"
   },
   {
     "tag": "v2rayN",
@@ -330,6 +330,11 @@
     "category": "protocol"
   },
   {
+    "tag": "v2ray-agent",
+    "count": 23,
+    "category": "security"
+  },
+  {
     "tag": "依赖更新",
     "count": 23,
     "category": "ecosystem"
@@ -337,11 +342,6 @@
   {
     "tag": "VLESS",
     "count": 23,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "v2ray-agent",
-    "count": 22,
     "category": "ecosystem"
   },
   {
@@ -465,6 +465,16 @@
     "category": "ecosystem"
   },
   {
+    "tag": "script",
+    "count": 15,
+    "category": "security"
+  },
+  {
+    "tag": "vps",
+    "count": 15,
+    "category": "security"
+  },
+  {
     "tag": "xray",
     "count": 15,
     "category": "security"
@@ -472,16 +482,6 @@
   {
     "tag": "网络规则",
     "count": 15,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "script",
-    "count": 14,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "vps",
-    "count": 14,
     "category": "ecosystem"
   },
   {
@@ -510,6 +510,11 @@
     "category": "core"
   },
   {
+    "tag": "v2ray-core",
+    "count": 13,
+    "category": "security"
+  },
+  {
     "tag": "hiddify",
     "count": 13,
     "category": "client"
@@ -533,11 +538,6 @@
     "tag": "SOCKS",
     "count": 13,
     "category": "client"
-  },
-  {
-    "tag": "v2ray-core",
-    "count": 12,
-    "category": "security"
   },
   {
     "tag": "v2rayn",

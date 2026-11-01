@@ -1,5 +1,76 @@
 [
   {
+    "id": "7679839520bcacbc",
+    "title": "mack-a/v2ray-agent v3.5.35",
+    "summary": "v3.5.35",
+    "rawTitle": "v3.5.35",
+    "rawBody": "fix(xhttp): 修正 REALITY 与 TLS 的 CDN 支持描述\r\n\r\nfix(reality): 完善 Mihomo ML-KEM 配置及 pqv 导出规则",
+    "sourceType": "github_release",
+    "sourceName": "mack-a/v2ray-agent",
+    "sourceUrl": "https://github.com/mack-a/v2ray-agent/releases/tag/v3.5.35",
+    "project": "v2ray-agent",
+    "repo": "mack-a/v2ray-agent",
+    "slug": "v2ray-agent",
+    "version": "3.5.35",
+    "category": "security",
+    "tags": [
+      "v2ray-agent",
+      "script",
+      "vps",
+      "xhttp",
+      "reality",
+      "release"
+    ],
+    "platforms": [
+      "linux"
+    ],
+    "importance": 5,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": true,
+    "isProtocolRelated": true,
+    "publishedAt": "2026-11-01T16:08:56Z",
+    "fetchedAt": "2026-11-01T17:57:18.118Z",
+    "firstSeenAt": "2026-11-01T17:57:23.315Z",
+    "updatedAt": "2026-11-01T17:57:23.315Z",
+    "hash": "7679839520bcacbc"
+  },
+  {
+    "id": "dafac37775d7b6b6",
+    "title": "v2fly/v2ray-core v5.56.0",
+    "summary": "v5.56.0",
+    "rawTitle": "v5.56.0",
+    "rawBody": "The machine generated changes includes in this release will subject to review and changes once the maintainer recovers from temporary incapacitation and is not covered by API stability policies.\r\n\r\nMptcp is now disabled by default, for next 8 mid version releases to compensate for Linux tcp stack vulnerabilities. \r\n\r\nDependencies updated.\r\n\r\n## What's Changed\r\n* Machine generated/mptcp default and dependencies 20261101 by @xiaokangwang in https://github.com/v2fly/v2ray-core/pull/3865\r\n\r\n\r\n**Full Changelog**: https://github.com/v2fly/v2ray-core/compare/v5.55.0...v5.56.0",
+    "sourceType": "github_release",
+    "sourceName": "v2fly/v2ray-core",
+    "sourceUrl": "https://github.com/v2fly/v2ray-core/releases/tag/v5.56.0",
+    "project": "v2ray-core",
+    "repo": "v2fly/v2ray-core",
+    "slug": "v2ray-core",
+    "version": "5.56.0",
+    "category": "security",
+    "tags": [
+      "v2ray-core",
+      "vless",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 3,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": true,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-11-01T13:38:48Z",
+    "fetchedAt": "2026-11-01T17:57:07.388Z",
+    "firstSeenAt": "2026-11-01T17:57:21.702Z",
+    "updatedAt": "2026-11-01T17:57:21.702Z",
+    "hash": "dafac37775d7b6b6"
+  },
+  {
     "id": "66aa12f244e72b39",
     "title": "mack-a/v2ray-agent v3.5.34",
     "summary": "v3.5.34",
@@ -35748,6 +35819,40 @@
     "firstSeenAt": "2026-06-25T04:36:16.426Z",
     "updatedAt": "2026-06-25T04:36:16.426Z",
     "hash": "e54a070ca4e6a5bf"
+  },
+  {
+    "id": "5475afa5cc97849f",
+    "title": "MHSanaei/3x-ui Dev build 1bdb517b",
+    "summary": "Dev build 1bdb517b",
+    "rawTitle": "Dev build 1bdb517b",
+    "rawBody": "Rolling development build — installs via the panel's Dev update channel.\n\ncommit=1bdb517b88b582288cebdac5197b7f9d2133a5e5\nbuilt=2026-11-01T15:53:10Z\n\nAutomated per-commit build from main. Not a stable release.",
+    "sourceType": "github_release",
+    "sourceName": "MHSanaei/3x-ui",
+    "sourceUrl": "https://github.com/MHSanaei/3x-ui/releases/tag/dev-latest",
+    "project": "3x-ui",
+    "repo": "MHSanaei/3x-ui",
+    "slug": "3x-ui",
+    "version": "dev-latest",
+    "category": "ecosystem",
+    "tags": [
+      "x-ui",
+      "panel",
+      "xray-core",
+      "release"
+    ],
+    "platforms": [
+      "linux"
+    ],
+    "importance": 4,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2026-06-24T16:17:06Z",
+    "fetchedAt": "2026-11-01T17:57:18.239Z",
+    "firstSeenAt": "2026-11-01T17:57:22.509Z",
+    "updatedAt": "2026-11-01T17:57:22.509Z",
+    "hash": "5475afa5cc97849f"
   },
   {
     "id": "260c34ff4b6352e2",
