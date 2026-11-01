@@ -1,17 +1,17 @@
 [
   {
     "tag": "release",
-    "count": 858,
-    "category": "ecosystem"
+    "count": 865,
+    "category": "dns_rules"
   },
   {
     "tag": "mihomo",
-    "count": 364,
-    "category": "ecosystem"
+    "count": 368,
+    "category": "dns_rules"
   },
   {
     "tag": "geosite",
-    "count": 356,
+    "count": 358,
     "category": "dns_rules"
   },
   {
@@ -31,12 +31,12 @@
   },
   {
     "tag": "ruleset",
-    "count": 188,
+    "count": 190,
     "category": "dns_rules"
   },
   {
     "tag": "geoip",
-    "count": 188,
+    "count": 190,
     "category": "dns_rules"
   },
   {
@@ -66,18 +66,18 @@
   },
   {
     "tag": "clash",
-    "count": 102,
+    "count": 105,
     "category": "ecosystem"
+  },
+  {
+    "tag": "sing-box",
+    "count": 101,
+    "category": "client"
   },
   {
     "tag": "v2ray",
     "count": 100,
     "category": "ecosystem"
-  },
-  {
-    "tag": "sing-box",
-    "count": 99,
-    "category": "client"
   },
   {
     "tag": "meta-rules-dat",
@@ -500,6 +500,16 @@
     "category": "core"
   },
   {
+    "tag": "hiddify",
+    "count": 13,
+    "category": "client"
+  },
+  {
+    "tag": "universal",
+    "count": 13,
+    "category": "client"
+  },
+  {
     "tag": "script",
     "count": 13,
     "category": "ecosystem"
@@ -543,16 +553,6 @@
     "tag": "HTTP",
     "count": 12,
     "category": "core"
-  },
-  {
-    "tag": "hiddify",
-    "count": 11,
-    "category": "client"
-  },
-  {
-    "tag": "universal",
-    "count": 11,
-    "category": "client"
   },
   {
     "tag": "TUN",
@@ -612,6 +612,11 @@
   {
     "tag": "Docker",
     "count": 10,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "dashboard",
+    "count": 9,
     "category": "ecosystem"
   },
   {
@@ -762,11 +767,6 @@
   {
     "tag": "luci-app-mosdns",
     "count": 7,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "dashboard",
-    "count": 6,
     "category": "ecosystem"
   },
   {
