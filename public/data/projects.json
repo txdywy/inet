@@ -199,6 +199,21 @@
     ]
   },
   {
+    "slug": "v2rayng",
+    "name": "v2rayNG",
+    "repo": "2dust/v2rayNG",
+    "description": "各平台代理客户端应用",
+    "category": "client",
+    "platforms": [
+      "android"
+    ],
+    "tags": [
+      "v2rayng",
+      "android",
+      "xray-core"
+    ]
+  },
+  {
     "slug": "xray-core",
     "name": "Xray-core",
     "repo": "XTLS/Xray-core",
@@ -215,21 +230,6 @@
       "vless",
       "xtls",
       "xhttp"
-    ]
-  },
-  {
-    "slug": "v2rayng",
-    "name": "v2rayNG",
-    "repo": "2dust/v2rayNG",
-    "description": "各平台代理客户端应用",
-    "category": "client",
-    "platforms": [
-      "android"
-    ],
-    "tags": [
-      "v2rayng",
-      "android",
-      "xray-core"
     ]
   },
   {
@@ -282,6 +282,21 @@
     ]
   },
   {
+    "slug": "v2ray-agent",
+    "name": "v2ray-agent",
+    "repo": "mack-a/v2ray-agent",
+    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
+    "category": "ecosystem",
+    "platforms": [
+      "linux"
+    ],
+    "tags": [
+      "v2ray-agent",
+      "script",
+      "vps"
+    ]
+  },
+  {
     "slug": "hysteria",
     "name": "hysteria",
     "repo": "apernet/hysteria",
@@ -295,21 +310,6 @@
     "tags": [
       "hysteria2",
       "quic"
-    ]
-  },
-  {
-    "slug": "v2ray-agent",
-    "name": "v2ray-agent",
-    "repo": "mack-a/v2ray-agent",
-    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
-    "category": "ecosystem",
-    "platforms": [
-      "linux"
-    ],
-    "tags": [
-      "v2ray-agent",
-      "script",
-      "vps"
     ]
   },
   {

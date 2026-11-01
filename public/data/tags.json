@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 865,
-    "category": "dns_rules"
+    "count": 872,
+    "category": "ecosystem"
   },
   {
     "tag": "mihomo",
@@ -11,7 +11,7 @@
   },
   {
     "tag": "geosite",
-    "count": 358,
+    "count": 363,
     "category": "dns_rules"
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "tag": "domain-list",
-    "count": 236,
+    "count": 241,
     "category": "dns_rules"
   },
   {
@@ -41,7 +41,7 @@
   },
   {
     "tag": "xray-core",
-    "count": 160,
+    "count": 161,
     "category": "security"
   },
   {
@@ -141,8 +141,8 @@
   },
   {
     "tag": "hysteria2",
-    "count": 62,
-    "category": "core"
+    "count": 63,
+    "category": "ecosystem"
   },
   {
     "tag": "开发版本",
@@ -161,7 +161,7 @@
   },
   {
     "tag": "wireguard",
-    "count": 54,
+    "count": 55,
     "category": "security"
   },
   {
@@ -281,7 +281,7 @@
   },
   {
     "tag": "android",
-    "count": 27,
+    "count": 28,
     "category": "security"
   },
   {
@@ -340,6 +340,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "v2ray-agent",
+    "count": 22,
+    "category": "ecosystem"
+  },
+  {
     "tag": "用户界面",
     "count": 22,
     "category": "client"
@@ -348,11 +353,6 @@
     "tag": "Xray-core",
     "count": 22,
     "category": "core"
-  },
-  {
-    "tag": "v2ray-agent",
-    "count": 21,
-    "category": "ecosystem"
   },
   {
     "tag": "anytls",
@@ -425,6 +425,11 @@
     "category": "client"
   },
   {
+    "tag": "v2rayng",
+    "count": 16,
+    "category": "security"
+  },
+  {
     "tag": "xtls",
     "count": 16,
     "category": "security"
@@ -460,11 +465,6 @@
     "category": "ecosystem"
   },
   {
-    "tag": "v2rayng",
-    "count": 15,
-    "category": "security"
-  },
-  {
     "tag": "xray",
     "count": 15,
     "category": "security"
@@ -472,6 +472,16 @@
   {
     "tag": "网络规则",
     "count": 15,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "script",
+    "count": 14,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "vps",
+    "count": 14,
     "category": "ecosystem"
   },
   {
@@ -508,16 +518,6 @@
     "tag": "universal",
     "count": 13,
     "category": "client"
-  },
-  {
-    "tag": "script",
-    "count": 13,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "vps",
-    "count": 13,
-    "category": "ecosystem"
   },
   {
     "tag": "OpenWrt",
