@@ -1,17 +1,17 @@
 [
   {
     "tag": "release",
-    "count": 875,
-    "category": "security"
+    "count": 880,
+    "category": "client"
   },
   {
     "tag": "mihomo",
-    "count": 368,
+    "count": 369,
     "category": "dns_rules"
   },
   {
     "tag": "geosite",
-    "count": 363,
+    "count": 365,
     "category": "dns_rules"
   },
   {
@@ -31,12 +31,12 @@
   },
   {
     "tag": "ruleset",
-    "count": 190,
+    "count": 192,
     "category": "dns_rules"
   },
   {
     "tag": "geoip",
-    "count": 190,
+    "count": 192,
     "category": "dns_rules"
   },
   {
@@ -71,7 +71,7 @@
   },
   {
     "tag": "sing-box",
-    "count": 101,
+    "count": 103,
     "category": "client"
   },
   {
@@ -280,24 +280,24 @@
     "category": "ecosystem"
   },
   {
-    "tag": "android",
-    "count": 28,
-    "category": "security"
-  },
-  {
     "tag": "v2raya",
-    "count": 27,
+    "count": 28,
     "category": "client"
   },
   {
     "tag": "web",
-    "count": 27,
+    "count": 28,
     "category": "client"
   },
   {
     "tag": "transparent-proxy",
-    "count": 27,
+    "count": 28,
     "category": "client"
+  },
+  {
+    "tag": "android",
+    "count": 28,
+    "category": "security"
   },
   {
     "tag": "DNS",
@@ -465,6 +465,16 @@
     "category": "ecosystem"
   },
   {
+    "tag": "hiddify",
+    "count": 15,
+    "category": "client"
+  },
+  {
+    "tag": "universal",
+    "count": 15,
+    "category": "client"
+  },
+  {
     "tag": "script",
     "count": 15,
     "category": "security"
@@ -513,16 +523,6 @@
     "tag": "v2ray-core",
     "count": 13,
     "category": "security"
-  },
-  {
-    "tag": "hiddify",
-    "count": 13,
-    "category": "client"
-  },
-  {
-    "tag": "universal",
-    "count": 13,
-    "category": "client"
   },
   {
     "tag": "OpenWrt",
