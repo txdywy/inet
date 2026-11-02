@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 886,
-    "category": "security"
+    "count": 888,
+    "category": "dns_rules"
   },
   {
     "tag": "mihomo",
@@ -11,7 +11,7 @@
   },
   {
     "tag": "geosite",
-    "count": 366,
+    "count": 367,
     "category": "dns_rules"
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "tag": "domain-list",
-    "count": 242,
+    "count": 243,
     "category": "dns_rules"
   },
   {
@@ -130,14 +130,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "hysteria2",
+    "count": 65,
+    "category": "ecosystem"
+  },
+  {
     "tag": "quic",
     "count": 65,
     "category": "security"
-  },
-  {
-    "tag": "hysteria2",
-    "count": 64,
-    "category": "ecosystem"
   },
   {
     "tag": "ech",
@@ -310,6 +310,11 @@
     "category": "dns_rules"
   },
   {
+    "tag": "v2ray-agent",
+    "count": 25,
+    "category": "ecosystem"
+  },
+  {
     "tag": "dns",
     "count": 25,
     "category": "router"
@@ -317,11 +322,6 @@
   {
     "tag": "网络工具",
     "count": 25,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "v2ray-agent",
-    "count": 24,
     "category": "ecosystem"
   },
   {
@@ -405,6 +405,16 @@
     "category": "core"
   },
   {
+    "tag": "script",
+    "count": 17,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "vps",
+    "count": 17,
+    "category": "ecosystem"
+  },
+  {
     "tag": "TLS",
     "count": 17,
     "category": "ecosystem"
@@ -423,16 +433,6 @@
     "tag": "TLSAuth",
     "count": 17,
     "category": "client"
-  },
-  {
-    "tag": "script",
-    "count": 16,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "vps",
-    "count": 16,
-    "category": "ecosystem"
   },
   {
     "tag": "v2rayng",
