@@ -1,17 +1,17 @@
 [
   {
     "tag": "release",
-    "count": 880,
-    "category": "client"
+    "count": 886,
+    "category": "security"
   },
   {
     "tag": "mihomo",
-    "count": 369,
-    "category": "dns_rules"
+    "count": 370,
+    "category": "client"
   },
   {
     "tag": "geosite",
-    "count": 365,
+    "count": 366,
     "category": "dns_rules"
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "tag": "domain-list",
-    "count": 241,
+    "count": 242,
     "category": "dns_rules"
   },
   {
@@ -41,7 +41,7 @@
   },
   {
     "tag": "xray-core",
-    "count": 162,
+    "count": 163,
     "category": "security"
   },
   {
@@ -51,12 +51,12 @@
   },
   {
     "tag": "x-ui",
-    "count": 113,
+    "count": 114,
     "category": "security"
   },
   {
     "tag": "panel",
-    "count": 113,
+    "count": 114,
     "category": "security"
   },
   {
@@ -135,14 +135,14 @@
     "category": "security"
   },
   {
+    "tag": "hysteria2",
+    "count": 64,
+    "category": "ecosystem"
+  },
+  {
     "tag": "ech",
     "count": 64,
     "category": "security"
-  },
-  {
-    "tag": "hysteria2",
-    "count": 63,
-    "category": "ecosystem"
   },
   {
     "tag": "开发版本",
@@ -300,6 +300,11 @@
     "category": "security"
   },
   {
+    "tag": "gost",
+    "count": 26,
+    "category": "security"
+  },
+  {
     "tag": "DNS",
     "count": 26,
     "category": "dns_rules"
@@ -315,9 +320,9 @@
     "category": "ecosystem"
   },
   {
-    "tag": "gost",
+    "tag": "v2ray-agent",
     "count": 24,
-    "category": "core"
+    "category": "ecosystem"
   },
   {
     "tag": "shadowsocks",
@@ -328,11 +333,6 @@
     "tag": "HTTP/2",
     "count": 24,
     "category": "protocol"
-  },
-  {
-    "tag": "v2ray-agent",
-    "count": 23,
-    "category": "security"
   },
   {
     "tag": "依赖更新",
@@ -355,6 +355,11 @@
     "category": "core"
   },
   {
+    "tag": "tunnel",
+    "count": 21,
+    "category": "security"
+  },
+  {
     "tag": "anytls",
     "count": 20,
     "category": "security"
@@ -372,11 +377,6 @@
   {
     "tag": "rematch",
     "count": 20,
-    "category": "core"
-  },
-  {
-    "tag": "tunnel",
-    "count": 19,
     "category": "core"
   },
   {
@@ -425,6 +425,16 @@
     "category": "client"
   },
   {
+    "tag": "script",
+    "count": 16,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "vps",
+    "count": 16,
+    "category": "ecosystem"
+  },
+  {
     "tag": "v2rayng",
     "count": 16,
     "category": "security"
@@ -465,6 +475,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "desktop",
+    "count": 15,
+    "category": "client"
+  },
+  {
     "tag": "hiddify",
     "count": 15,
     "category": "client"
@@ -473,16 +488,6 @@
     "tag": "universal",
     "count": 15,
     "category": "client"
-  },
-  {
-    "tag": "script",
-    "count": 15,
-    "category": "security"
-  },
-  {
-    "tag": "vps",
-    "count": 15,
-    "category": "security"
   },
   {
     "tag": "xray",
@@ -498,11 +503,6 @@
     "tag": "grpc",
     "count": 14,
     "category": "security"
-  },
-  {
-    "tag": "desktop",
-    "count": 14,
-    "category": "client"
   },
   {
     "tag": "v2rayA",
@@ -555,6 +555,11 @@
     "category": "core"
   },
   {
+    "tag": "clash-verge",
+    "count": 11,
+    "category": "client"
+  },
+  {
     "tag": "TUN",
     "count": 11,
     "category": "client"
@@ -591,11 +596,6 @@
   },
   {
     "tag": "mihomo-party",
-    "count": 10,
-    "category": "client"
-  },
-  {
-    "tag": "clash-verge",
     "count": 10,
     "category": "client"
   },

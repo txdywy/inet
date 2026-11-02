@@ -1,21 +1,21 @@
 {
-  "totalItems": 2067,
-  "last24h": 14,
-  "last7d": 66,
+  "totalItems": 2073,
+  "last24h": 10,
+  "last7d": 64,
   "byCategory": {
     "core": 316,
-    "client": 312,
+    "client": 313,
     "router": 31,
     "protocol": 57,
-    "dns_rules": 389,
-    "security": 131,
-    "ecosystem": 831,
+    "dns_rules": 390,
+    "security": 133,
+    "ecosystem": 833,
     "trend": 0
   },
   "topProjects": [
     {
       "project": "domain-list-community",
-      "count": 371
+      "count": 372
     },
     {
       "project": "mihomo",
@@ -23,7 +23,7 @@
     },
     {
       "project": "3x-ui",
-      "count": 195
+      "count": 196
     },
     {
       "project": "v2ray-rules-dat",
@@ -47,7 +47,7 @@
     },
     {
       "project": "gost",
-      "count": 55
+      "count": 57
     },
     {
       "project": "ClashMetaForAndroid",
@@ -57,15 +57,15 @@
   "hotTags": [
     {
       "tag": "release",
-      "count": 880
+      "count": 886
     },
     {
       "tag": "mihomo",
-      "count": 369
+      "count": 370
     },
     {
       "tag": "geosite",
-      "count": 365
+      "count": 366
     },
     {
       "tag": "MetaCubeX",
@@ -73,7 +73,7 @@
     },
     {
       "tag": "domain-list",
-      "count": 241
+      "count": 242
     },
     {
       "tag": "v2fly",
@@ -89,7 +89,7 @@
     },
     {
       "tag": "xray-core",
-      "count": 162
+      "count": 163
     },
     {
       "tag": "Sub-Store",
@@ -97,11 +97,11 @@
     },
     {
       "tag": "x-ui",
-      "count": 113
+      "count": 114
     },
     {
       "tag": "panel",
-      "count": 113
+      "count": 114
     },
     {
       "tag": "domain-list-community",
@@ -136,8 +136,8 @@
       "count": 84
     }
   ],
-  "importantCount": 937,
+  "importantCount": 941,
   "breakingCount": 108,
-  "securityCount": 185,
-  "updatedAt": "2026-11-02T06:17:23.973Z"
+  "securityCount": 187,
+  "updatedAt": "2026-11-02T16:09:11.067Z"
 }
