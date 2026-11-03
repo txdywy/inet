@@ -1,5 +1,42 @@
 [
   {
+    "id": "7af32940d3250a84",
+    "title": "MetaCubeX/meta-rules-dat Release 2026-11-03 11:32",
+    "summary": "Release 2026-11-03 11:32",
+    "rawTitle": "Release 2026-11-03 11:32",
+    "rawBody": "",
+    "sourceType": "github_release",
+    "sourceName": "MetaCubeX/meta-rules-dat",
+    "sourceUrl": "https://github.com/MetaCubeX/meta-rules-dat/releases/tag/latest",
+    "project": "meta-rules-dat",
+    "repo": "MetaCubeX/meta-rules-dat",
+    "slug": "meta-rules-dat",
+    "version": "latest",
+    "category": "dns_rules",
+    "tags": [
+      "ruleset",
+      "geosite",
+      "geoip",
+      "mihomo",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-11-03T03:35:02Z",
+    "fetchedAt": "2026-11-03T06:55:18.039Z",
+    "firstSeenAt": "2026-11-03T06:55:20.449Z",
+    "updatedAt": "2026-11-03T06:55:20.449Z",
+    "hash": "7af32940d3250a84"
+  },
+  {
     "id": "bedf070386af4eb7",
     "title": "tailscale/tailscale v1.104.5",
     "summary": "v1.104.5",
