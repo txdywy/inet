@@ -281,6 +281,25 @@
     ]
   },
   {
+    "slug": "hiddify-next",
+    "name": "hiddify-next",
+    "repo": "hiddify/hiddify-next",
+    "description": "各平台代理客户端应用",
+    "category": "client",
+    "platforms": [
+      "android",
+      "ios",
+      "windows",
+      "macos",
+      "linux"
+    ],
+    "tags": [
+      "hiddify",
+      "sing-box",
+      "universal"
+    ]
+  },
+  {
     "slug": "luci-app-mosdns",
     "name": "luci-app-mosdns",
     "repo": "sbwml/luci-app-mosdns",
@@ -310,25 +329,6 @@
     "tags": [
       "hysteria2",
       "quic"
-    ]
-  },
-  {
-    "slug": "hiddify-next",
-    "name": "hiddify-next",
-    "repo": "hiddify/hiddify-next",
-    "description": "各平台代理客户端应用",
-    "category": "client",
-    "platforms": [
-      "android",
-      "ios",
-      "windows",
-      "macos",
-      "linux"
-    ],
-    "tags": [
-      "hiddify",
-      "sing-box",
-      "universal"
     ]
   },
   {

@@ -1,7 +1,7 @@
 [
   {
     "tag": "release",
-    "count": 893,
+    "count": 896,
     "category": "client"
   },
   {
@@ -41,7 +41,7 @@
   },
   {
     "tag": "xray-core",
-    "count": 163,
+    "count": 164,
     "category": "security"
   },
   {
@@ -51,12 +51,12 @@
   },
   {
     "tag": "x-ui",
-    "count": 114,
+    "count": 115,
     "category": "security"
   },
   {
     "tag": "panel",
-    "count": 114,
+    "count": 115,
     "category": "security"
   },
   {
@@ -65,14 +65,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "sing-box",
+    "count": 105,
+    "category": "client"
+  },
+  {
     "tag": "clash",
     "count": 105,
     "category": "ecosystem"
-  },
-  {
-    "tag": "sing-box",
-    "count": 103,
-    "category": "client"
   },
   {
     "tag": "v2ray",
@@ -405,6 +405,16 @@
     "category": "core"
   },
   {
+    "tag": "hiddify",
+    "count": 17,
+    "category": "client"
+  },
+  {
+    "tag": "universal",
+    "count": 17,
+    "category": "client"
+  },
+  {
     "tag": "script",
     "count": 17,
     "category": "ecosystem"
@@ -478,16 +488,6 @@
     "tag": "Alpha",
     "count": 16,
     "category": "ecosystem"
-  },
-  {
-    "tag": "hiddify",
-    "count": 15,
-    "category": "client"
-  },
-  {
-    "tag": "universal",
-    "count": 15,
-    "category": "client"
   },
   {
     "tag": "xray",
