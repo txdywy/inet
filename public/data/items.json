@@ -1,5 +1,76 @@
 [
   {
+    "id": "52c42fe1c94aec48",
+    "title": "clash-verge-rev/clash-verge-rev Clash Verge Rev v2.5.10",
+    "summary": "Clash Verge Rev v2.5.10",
+    "rawTitle": "Clash Verge Rev v2.5.10",
+    "rawBody": "## v2.5.10\n\n<details>\n<summary><strong> 🐞 修复问题 </strong></summary>\n\n- 修复全局模式缺少 `GLOBAL` 策略组，无法单独选择全局出口\n- 修复服务模式下，SSH 节点的 `private-key` 使用私钥文件时内核无法启动\n- 修复服务模式下，内核更新的 GEO 数据库不会同步回应用目录，导致使用新分类的规则无法通过校验\n- 修复订阅的 DNS 配置变化后，「DNS 覆写」实际已关闭但开关仍显示开启且没有提示\n\n**🖥️ Windows**\n\n- Windows：修复安装程序重新安装或覆盖时未提示退出运行中应用，导致卸载报错或覆盖失败\n\n</details>\n\n<details>\n<summary><strong> ✨ 新增功能 </strong></summary>\n\n\n</details>\n\n<details>\n<summary><strong> 🚀 优化改进 </strong></summary>\n\n\n</details>\n\n## 下载地址\n\n### Windows (不再支持Win7)\n#### 正常版本(推荐)\n- [64位(常用)](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.10/Clash.Verge_2.5.10_x64-setup.exe) | [ARM64(不常用)](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.10/Clash.Verge_2.5.10_arm64-setup.exe)\n\n#### 内置Webview2版(体积较大，仅在企业版系统或无法安装webview2时使用)\n- [64位](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.10/Clash.Verge_2.5.10_x64_fixed_webview2-setup.exe) | [ARM64](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.10/Clash.Verge_2.5.10_arm64_fixed_webview2-setup.exe)\n\n### macOS\n- [Apple M芯片](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.10/Clash.Verge_2.5.10_aarch64.dmg) | [Intel芯片](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.10/Clash.Verge_2.5.10_x64.dmg)\n\n### Linux\n#### DEB包(Debian系) 使用 apt ./路径 安装\n- [64位](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.10/Clash.Verge_2.5.10_amd64.deb) | [ARM64](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.10/Clash.Verge_2.5.10_arm64.deb) | [ARMv7](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.10/Clash.Verge_2.5.10_armhf.deb)\n\n#### RPM包(Redhat系) 使用 dnf ./路径 安装\n- [64位](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.10/Clash.Verge-2.5.10-1.x86_64.rpm) | [ARM64](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.10/Clash.Verge-2.5.10-1.aarch64.rpm) | [ARMv7](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.10/Clash.Verge-2.5.10-1.armhfp.rpm)\n\n### FAQ\n- [常见问题](https://clash-verge-rev.github.io/faq/windows.html)\n\n### 稳定机场VPN推荐\n- [狗狗加速](https://cvr.dginv.click/#/register?code=oaxsAGo6)\n\nCreated at Tue Nov  3 18:04:20 CST 2026.\n",
+    "sourceType": "github_release",
+    "sourceName": "clash-verge-rev/clash-verge-rev",
+    "sourceUrl": "https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/v2.5.10",
+    "project": "clash-verge-rev",
+    "repo": "clash-verge-rev/clash-verge-rev",
+    "slug": "clash-verge-rev",
+    "version": "2.5.10",
+    "category": "client",
+    "tags": [
+      "clash-verge",
+      "mihomo",
+      "desktop",
+      "release"
+    ],
+    "platforms": [
+      "windows",
+      "macos",
+      "linux"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-11-03T10:04:21Z",
+    "fetchedAt": "2026-11-03T14:25:50.438Z",
+    "firstSeenAt": "2026-11-03T14:25:59.264Z",
+    "updatedAt": "2026-11-03T14:25:59.264Z",
+    "hash": "52c42fe1c94aec48"
+  },
+  {
+    "id": "757671d81fe271a1",
+    "title": "v2fly/domain-list-community 20261103081536",
+    "summary": "20261103081536",
+    "rawTitle": "20261103081536",
+    "rawBody": "## What's Changed\n* add beget.email by @TripleA150 in https://github.com/v2fly/domain-list-community/pull/4245\n\n\n**Full Changelog**: https://github.com/v2fly/domain-list-community/compare/20261102203016...20261103081536",
+    "sourceType": "github_release",
+    "sourceName": "v2fly/domain-list-community",
+    "sourceUrl": "https://github.com/v2fly/domain-list-community/releases/tag/20261103081536",
+    "project": "domain-list-community",
+    "repo": "v2fly/domain-list-community",
+    "slug": "domain-list-community",
+    "version": "20261103081536",
+    "category": "dns_rules",
+    "tags": [
+      "geosite",
+      "domain-list",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-11-03T08:15:45Z",
+    "fetchedAt": "2026-11-03T14:25:58.388Z",
+    "firstSeenAt": "2026-11-03T14:26:00.073Z",
+    "updatedAt": "2026-11-03T14:26:00.073Z",
+    "hash": "757671d81fe271a1"
+  },
+  {
     "id": "7af32940d3250a84",
     "title": "MetaCubeX/meta-rules-dat Release 2026-11-03 11:32",
     "summary": "Release 2026-11-03 11:32",

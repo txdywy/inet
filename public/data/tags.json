@@ -1,17 +1,17 @@
 [
   {
     "tag": "release",
-    "count": 891,
-    "category": "dns_rules"
+    "count": 893,
+    "category": "client"
   },
   {
     "tag": "mihomo",
-    "count": 371,
-    "category": "dns_rules"
+    "count": 372,
+    "category": "client"
   },
   {
     "tag": "geosite",
-    "count": 369,
+    "count": 370,
     "category": "dns_rules"
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "tag": "domain-list",
-    "count": 243,
+    "count": 244,
     "category": "dns_rules"
   },
   {
@@ -435,6 +435,11 @@
     "category": "client"
   },
   {
+    "tag": "desktop",
+    "count": 16,
+    "category": "client"
+  },
+  {
     "tag": "v2rayng",
     "count": 16,
     "category": "security"
@@ -473,11 +478,6 @@
     "tag": "Alpha",
     "count": 16,
     "category": "ecosystem"
-  },
-  {
-    "tag": "desktop",
-    "count": 15,
-    "category": "client"
   },
   {
     "tag": "hiddify",
@@ -540,6 +540,11 @@
     "category": "client"
   },
   {
+    "tag": "clash-verge",
+    "count": 12,
+    "category": "client"
+  },
+  {
     "tag": "v2rayn",
     "count": 12,
     "category": "security"
@@ -553,11 +558,6 @@
     "tag": "HTTP",
     "count": 12,
     "category": "core"
-  },
-  {
-    "tag": "clash-verge",
-    "count": 11,
-    "category": "client"
   },
   {
     "tag": "TUN",
