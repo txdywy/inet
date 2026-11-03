@@ -1,13 +1,13 @@
 {
-  "totalItems": 2083,
+  "totalItems": 2085,
   "last24h": 8,
-  "last7d": 63,
+  "last7d": 64,
   "byCategory": {
     "core": 316,
     "client": 316,
     "router": 31,
     "protocol": 57,
-    "dns_rules": 394,
+    "dns_rules": 396,
     "security": 133,
     "ecosystem": 836,
     "trend": 0
@@ -15,7 +15,7 @@
   "topProjects": [
     {
       "project": "domain-list-community",
-      "count": 374
+      "count": 375
     },
     {
       "project": "mihomo",
@@ -27,7 +27,7 @@
     },
     {
       "project": "v2ray-rules-dat",
-      "count": 189
+      "count": 190
     },
     {
       "project": "meta-rules-dat",
@@ -57,15 +57,15 @@
   "hotTags": [
     {
       "tag": "release",
-      "count": 896
+      "count": 898
+    },
+    {
+      "tag": "geosite",
+      "count": 372
     },
     {
       "tag": "mihomo",
       "count": 372
-    },
-    {
-      "tag": "geosite",
-      "count": 370
     },
     {
       "tag": "MetaCubeX",
@@ -73,7 +73,7 @@
     },
     {
       "tag": "domain-list",
-      "count": 244
+      "count": 245
     },
     {
       "tag": "v2fly",
@@ -81,11 +81,11 @@
     },
     {
       "tag": "ruleset",
-      "count": 194
+      "count": 195
     },
     {
       "tag": "geoip",
-      "count": 194
+      "count": 195
     },
     {
       "tag": "xray-core",
@@ -136,8 +136,8 @@
       "count": 84
     }
   ],
-  "importantCount": 950,
-  "breakingCount": 108,
+  "importantCount": 951,
+  "breakingCount": 109,
   "securityCount": 187,
-  "updatedAt": "2026-11-03T19:31:42.865Z"
+  "updatedAt": "2026-11-03T23:16:57.720Z"
 }
