@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 888,
-    "category": "dns_rules"
+    "count": 890,
+    "category": "ecosystem"
   },
   {
     "tag": "mihomo",
@@ -11,7 +11,7 @@
   },
   {
     "tag": "geosite",
-    "count": 367,
+    "count": 368,
     "category": "dns_rules"
   },
   {
@@ -31,12 +31,12 @@
   },
   {
     "tag": "ruleset",
-    "count": 192,
+    "count": 193,
     "category": "dns_rules"
   },
   {
     "tag": "geoip",
-    "count": 192,
+    "count": 193,
     "category": "dns_rules"
   },
   {
@@ -150,6 +150,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "wireguard",
+    "count": 56,
+    "category": "ecosystem"
+  },
+  {
     "tag": "sub-store",
     "count": 56,
     "category": "ecosystem"
@@ -158,11 +163,6 @@
     "tag": "subscription",
     "count": 56,
     "category": "ecosystem"
-  },
-  {
-    "tag": "wireguard",
-    "count": 55,
-    "category": "security"
   },
   {
     "tag": "tuic",
@@ -590,6 +590,11 @@
     "category": "client"
   },
   {
+    "tag": "tailscale",
+    "count": 10,
+    "category": "ecosystem"
+  },
+  {
     "tag": "amneziawg",
     "count": 10,
     "category": "security"
@@ -615,6 +620,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "mesh",
+    "count": 9,
+    "category": "ecosystem"
+  },
+  {
     "tag": "dashboard",
     "count": 9,
     "category": "ecosystem"
@@ -623,11 +633,6 @@
     "tag": "vision",
     "count": 9,
     "category": "security"
-  },
-  {
-    "tag": "tailscale",
-    "count": 9,
-    "category": "ecosystem"
   },
   {
     "tag": "配置管理",
@@ -672,11 +677,6 @@
   {
     "tag": "CBC",
     "count": 9,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "mesh",
-    "count": 8,
     "category": "ecosystem"
   },
   {
