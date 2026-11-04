@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 903,
-    "category": "dns_rules"
+    "count": 904,
+    "category": "ecosystem"
   },
   {
     "tag": "geosite",
@@ -11,8 +11,8 @@
   },
   {
     "tag": "mihomo",
-    "count": 373,
-    "category": "dns_rules"
+    "count": 374,
+    "category": "ecosystem"
   },
   {
     "tag": "MetaCubeX",
@@ -65,14 +65,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "clash",
+    "count": 106,
+    "category": "ecosystem"
+  },
+  {
     "tag": "sing-box",
     "count": 105,
     "category": "client"
-  },
-  {
-    "tag": "clash",
-    "count": 105,
-    "category": "ecosystem"
   },
   {
     "tag": "v2ray",
@@ -590,6 +590,11 @@
     "category": "client"
   },
   {
+    "tag": "dashboard",
+    "count": 10,
+    "category": "ecosystem"
+  },
+  {
     "tag": "tailscale",
     "count": 10,
     "category": "ecosystem"
@@ -621,11 +626,6 @@
   },
   {
     "tag": "mesh",
-    "count": 9,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "dashboard",
     "count": 9,
     "category": "ecosystem"
   },

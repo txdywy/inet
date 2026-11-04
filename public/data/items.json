@@ -1,5 +1,39 @@
 [
   {
+    "id": "5d1b6f25523e4e14",
+    "title": "MetaCubeX/metacubexd v1.274.4",
+    "summary": "v1.274.4",
+    "rawTitle": "v1.274.4",
+    "rawBody": "## [1.274.4](https://github.com/MetaCubeX/metacubexd/compare/v1.274.3...v1.274.4) (2026-11-04)\n\n\n### Bug Fixes\n\n* **desktop:** avoid duplicate __dirname declaration in main bundle ([#2241](https://github.com/MetaCubeX/metacubexd/issues/2241)) ([62aa58f](https://github.com/MetaCubeX/metacubexd/commit/62aa58ffaf912c51045d50d68f405e056d00ef84))\n* **desktop:** use static AppImage runtime toolset to avoid libfuse2 dependency ([#2242](https://github.com/MetaCubeX/metacubexd/issues/2242)) ([42788e2](https://github.com/MetaCubeX/metacubexd/commit/42788e2238e3df35c264b3e5e5686f7a88ffe23b))",
+    "sourceType": "github_release",
+    "sourceName": "MetaCubeX/metacubexd",
+    "sourceUrl": "https://github.com/MetaCubeX/metacubexd/releases/tag/v1.274.4",
+    "project": "metacubexd",
+    "repo": "MetaCubeX/metacubexd",
+    "slug": "metacubexd",
+    "version": "1.274.4",
+    "category": "ecosystem",
+    "tags": [
+      "dashboard",
+      "mihomo",
+      "clash",
+      "release"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-11-04T17:42:05Z",
+    "fetchedAt": "2026-11-04T19:49:45.681Z",
+    "firstSeenAt": "2026-11-04T19:49:47.839Z",
+    "updatedAt": "2026-11-04T19:49:47.839Z",
+    "hash": "5d1b6f25523e4e14"
+  },
+  {
     "id": "a320156708211ac6",
     "title": "v2fly/domain-list-community 20261104112839",
     "summary": "20261104112839",
