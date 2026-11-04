@@ -1,12 +1,12 @@
 [
   {
     "tag": "release",
-    "count": 900,
+    "count": 903,
     "category": "dns_rules"
   },
   {
     "tag": "geosite",
-    "count": 374,
+    "count": 376,
     "category": "dns_rules"
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "tag": "domain-list",
-    "count": 245,
+    "count": 247,
     "category": "dns_rules"
   },
   {
@@ -131,8 +131,8 @@
   },
   {
     "tag": "hysteria2",
-    "count": 65,
-    "category": "ecosystem"
+    "count": 66,
+    "category": "router"
   },
   {
     "tag": "quic",
@@ -216,6 +216,11 @@
   },
   {
     "tag": "openwrt",
+    "count": 37,
+    "category": "router"
+  },
+  {
+    "tag": "naiveproxy",
     "count": 36,
     "category": "router"
   },
@@ -223,11 +228,6 @@
     "tag": "go-gost",
     "count": 36,
     "category": "core"
-  },
-  {
-    "tag": "naiveproxy",
-    "count": 35,
-    "category": "security"
   },
   {
     "tag": "WireGuard",
@@ -360,6 +360,11 @@
     "category": "security"
   },
   {
+    "tag": "luci",
+    "count": 20,
+    "category": "router"
+  },
+  {
     "tag": "anytls",
     "count": 20,
     "category": "security"
@@ -380,11 +385,6 @@
     "category": "core"
   },
   {
-    "tag": "luci",
-    "count": 19,
-    "category": "security"
-  },
-  {
     "tag": "macOS",
     "count": 19,
     "category": "client"
@@ -403,6 +403,11 @@
     "tag": "Xray",
     "count": 18,
     "category": "core"
+  },
+  {
+    "tag": "ssrplus",
+    "count": 17,
+    "category": "router"
   },
   {
     "tag": "hiddify",
@@ -463,11 +468,6 @@
     "tag": "mosdns",
     "count": 16,
     "category": "router"
-  },
-  {
-    "tag": "ssrplus",
-    "count": 16,
-    "category": "security"
   },
   {
     "tag": "域名",
