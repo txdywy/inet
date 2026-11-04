@@ -1,14 +1,14 @@
 {
-  "totalItems": 2091,
+  "totalItems": 2094,
   "last24h": 8,
-  "last7d": 66,
+  "last7d": 67,
   "byCategory": {
     "core": 316,
-    "client": 316,
+    "client": 317,
     "router": 32,
     "protocol": 57,
-    "dns_rules": 400,
-    "security": 133,
+    "dns_rules": 401,
+    "security": 134,
     "ecosystem": 837,
     "trend": 0
   },
@@ -27,7 +27,7 @@
     },
     {
       "project": "v2ray-rules-dat",
-      "count": 191
+      "count": 192
     },
     {
       "project": "meta-rules-dat",
@@ -57,11 +57,11 @@
   "hotTags": [
     {
       "tag": "release",
-      "count": 904
+      "count": 907
     },
     {
       "tag": "geosite",
-      "count": 376
+      "count": 377
     },
     {
       "tag": "mihomo",
@@ -81,11 +81,11 @@
     },
     {
       "tag": "ruleset",
-      "count": 197
+      "count": 198
     },
     {
       "tag": "geoip",
-      "count": 197
+      "count": 198
     },
     {
       "tag": "xray-core",
@@ -108,12 +108,12 @@
       "count": 109
     },
     {
-      "tag": "clash",
-      "count": 106
+      "tag": "sing-box",
+      "count": 107
     },
     {
-      "tag": "sing-box",
-      "count": 105
+      "tag": "clash",
+      "count": 106
     },
     {
       "tag": "v2ray",
@@ -121,7 +121,7 @@
     },
     {
       "tag": "vless",
-      "count": 88
+      "count": 89
     },
     {
       "tag": "meta-rules-dat",
@@ -133,11 +133,11 @@
     },
     {
       "tag": "xhttp",
-      "count": 84
+      "count": 85
     }
   ],
-  "importantCount": 956,
+  "importantCount": 958,
   "breakingCount": 109,
-  "securityCount": 187,
-  "updatedAt": "2026-11-04T19:49:48.268Z"
+  "securityCount": 188,
+  "updatedAt": "2026-11-04T23:37:56.044Z"
 }
