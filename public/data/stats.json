@@ -1,15 +1,15 @@
 {
-  "totalItems": 2095,
-  "last24h": 8,
+  "totalItems": 2098,
+  "last24h": 7,
   "last7d": 66,
   "byCategory": {
-    "core": 316,
+    "core": 317,
     "client": 317,
     "router": 32,
     "protocol": 57,
     "dns_rules": 402,
     "security": 134,
-    "ecosystem": 837,
+    "ecosystem": 839,
     "trend": 0
   },
   "topProjects": [
@@ -19,7 +19,7 @@
     },
     {
       "project": "mihomo",
-      "count": 229
+      "count": 230
     },
     {
       "project": "3x-ui",
@@ -35,7 +35,7 @@
     },
     {
       "project": "Sub-Store",
-      "count": 173
+      "count": 175
     },
     {
       "project": "metacubexd",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "release",
-      "count": 908
+      "count": 911
     },
     {
       "tag": "geosite",
@@ -65,7 +65,7 @@
     },
     {
       "tag": "mihomo",
-      "count": 375
+      "count": 376
     },
     {
       "tag": "MetaCubeX",
@@ -113,7 +113,7 @@
     },
     {
       "tag": "clash",
-      "count": 106
+      "count": 107
     },
     {
       "tag": "v2ray",
@@ -136,8 +136,8 @@
       "count": 85
     }
   ],
-  "importantCount": 959,
+  "importantCount": 961,
   "breakingCount": 109,
   "securityCount": 188,
-  "updatedAt": "2026-11-05T06:55:48.076Z"
+  "updatedAt": "2026-11-05T14:45:01.465Z"
 }

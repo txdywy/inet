@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 908,
-    "category": "dns_rules"
+    "count": 911,
+    "category": "ecosystem"
   },
   {
     "tag": "geosite",
@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 375,
+    "count": 376,
     "category": "dns_rules"
   },
   {
@@ -71,7 +71,7 @@
   },
   {
     "tag": "clash",
-    "count": 106,
+    "count": 107,
     "category": "ecosystem"
   },
   {
@@ -100,14 +100,14 @@
     "category": "security"
   },
   {
+    "tag": "meta",
+    "count": 83,
+    "category": "security"
+  },
+  {
     "tag": "3x-ui",
     "count": 83,
     "category": "client"
-  },
-  {
-    "tag": "meta",
-    "count": 82,
-    "category": "security"
   },
   {
     "tag": "metacubexd",
@@ -150,19 +150,19 @@
     "category": "ecosystem"
   },
   {
-    "tag": "wireguard",
-    "count": 57,
-    "category": "security"
-  },
-  {
     "tag": "sub-store",
-    "count": 56,
+    "count": 58,
     "category": "ecosystem"
   },
   {
     "tag": "subscription",
-    "count": 56,
+    "count": 58,
     "category": "ecosystem"
+  },
+  {
+    "tag": "wireguard",
+    "count": 57,
+    "category": "security"
   },
   {
     "tag": "tuic",
@@ -345,6 +345,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "snell",
+    "count": 22,
+    "category": "ecosystem"
+  },
+  {
     "tag": "用户界面",
     "count": 22,
     "category": "client"
@@ -366,11 +371,6 @@
   },
   {
     "tag": "anytls",
-    "count": 20,
-    "category": "security"
-  },
-  {
-    "tag": "snell",
     "count": 20,
     "category": "security"
   },
