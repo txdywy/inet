@@ -1,5 +1,73 @@
 [
   {
+    "id": "5078c689840ea699",
+    "title": "mack-a/v2ray-agent v3.5.39",
+    "summary": "v3.5.39",
+    "rawTitle": "v3.5.39",
+    "rawBody": "docs(socks5): 新增入站与出站分流教程并优化交互排版\n\n- 新增 SOCKS5 入站搭建、出站连接、分流规则及连通性测试教程\n- 补充教程配图、交互记录和截图生成工具\n- README 增加 SOCKS5 简明教程入口\n- 调整中英文入站安装提示间距\n- 优化出站菜单、节点录入及入站和用户选择的展示间距",
+    "sourceType": "github_release",
+    "sourceName": "mack-a/v2ray-agent",
+    "sourceUrl": "https://github.com/mack-a/v2ray-agent/releases/tag/v3.5.39",
+    "project": "v2ray-agent",
+    "repo": "mack-a/v2ray-agent",
+    "slug": "v2ray-agent",
+    "version": "3.5.39",
+    "category": "ecosystem",
+    "tags": [
+      "v2ray-agent",
+      "script",
+      "vps",
+      "release"
+    ],
+    "platforms": [
+      "linux"
+    ],
+    "importance": 2,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-11-06T18:26:10Z",
+    "fetchedAt": "2026-11-06T19:28:11.368Z",
+    "firstSeenAt": "2026-11-06T19:28:15.490Z",
+    "updatedAt": "2026-11-06T19:28:15.490Z",
+    "hash": "5078c689840ea699"
+  },
+  {
+    "id": "89c7a690fa69fda0",
+    "title": "mack-a/v2ray-agent v3.5.38",
+    "summary": "v3.5.38",
+    "rawTitle": "v3.5.38",
+    "rawBody": "feat: 增强 SOCKS5 用户分流并统一订阅展示\r\n\r\n- 支持按入站及认证用户配置 SOCKS5 分流\r\n- 支持落地节点默认用户选择、规则继承及编辑保留\r\n- 增加失效用户引用校验和账号删除保护\r\n- 优化 SOCKS5 节点、规则管理及入站配置展示\r\n- 完善配置事务、核心重启和失败回滚处理\r\n- 统一 Xray 与 sing-box 服务清理，失败时中止卸载或切换\r\n- 自定义 Xray 安装时清理未选协议配置\r\n- 合并查看订阅与生成订阅后的展示逻辑\r\n- 恢复重复查看订阅时的二维码输出，确保二维码使用纯链接\r\n- 优化订阅配色、信息层次及标签与链接间距\r\n- 未初始化订阅服务时自动进入生成流程",
+    "sourceType": "github_release",
+    "sourceName": "mack-a/v2ray-agent",
+    "sourceUrl": "https://github.com/mack-a/v2ray-agent/releases/tag/v3.5.38",
+    "project": "v2ray-agent",
+    "repo": "mack-a/v2ray-agent",
+    "slug": "v2ray-agent",
+    "version": "3.5.38",
+    "category": "ecosystem",
+    "tags": [
+      "v2ray-agent",
+      "script",
+      "vps",
+      "release"
+    ],
+    "platforms": [
+      "linux"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-11-06T16:25:16Z",
+    "fetchedAt": "2026-11-06T19:28:11.368Z",
+    "firstSeenAt": "2026-11-06T19:28:16.301Z",
+    "updatedAt": "2026-11-06T19:28:16.301Z",
+    "hash": "89c7a690fa69fda0"
+  },
+  {
     "id": "6d4e3a42c75dd048",
     "title": "hiddify/hiddify-next draft",
     "summary": "draft",
@@ -37383,6 +37451,40 @@
     "firstSeenAt": "2026-06-25T04:36:16.426Z",
     "updatedAt": "2026-06-25T04:36:16.426Z",
     "hash": "e54a070ca4e6a5bf"
+  },
+  {
+    "id": "4f4428a54471cb90",
+    "title": "MHSanaei/3x-ui Dev build e535df03",
+    "summary": "Dev build e535df03",
+    "rawTitle": "Dev build e535df03",
+    "rawBody": "Rolling development build — installs via the panel's Dev update channel.\n\ncommit=e535df03745c5ad003ae48e812024eb5fdc2124d\nbuilt=2026-11-06T17:58:19Z\n\nAutomated per-commit build from main. Not a stable release.",
+    "sourceType": "github_release",
+    "sourceName": "MHSanaei/3x-ui",
+    "sourceUrl": "https://github.com/MHSanaei/3x-ui/releases/tag/dev-latest",
+    "project": "3x-ui",
+    "repo": "MHSanaei/3x-ui",
+    "slug": "3x-ui",
+    "version": "dev-latest",
+    "category": "ecosystem",
+    "tags": [
+      "x-ui",
+      "panel",
+      "xray-core",
+      "release"
+    ],
+    "platforms": [
+      "linux"
+    ],
+    "importance": 4,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2026-06-24T16:17:06Z",
+    "fetchedAt": "2026-11-06T19:28:11.138Z",
+    "firstSeenAt": "2026-11-06T19:28:14.680Z",
+    "updatedAt": "2026-11-06T19:28:14.680Z",
+    "hash": "4f4428a54471cb90"
   },
   {
     "id": "f709a81bd9494616",

@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 923,
-    "category": "client"
+    "count": 926,
+    "category": "ecosystem"
   },
   {
     "tag": "geosite",
@@ -41,23 +41,23 @@
   },
   {
     "tag": "xray-core",
-    "count": 165,
+    "count": 166,
+    "category": "security"
+  },
+  {
+    "tag": "x-ui",
+    "count": 117,
+    "category": "security"
+  },
+  {
+    "tag": "panel",
+    "count": 117,
     "category": "security"
   },
   {
     "tag": "Sub-Store",
     "count": 117,
     "category": "ecosystem"
-  },
-  {
-    "tag": "x-ui",
-    "count": 116,
-    "category": "security"
-  },
-  {
-    "tag": "panel",
-    "count": 116,
-    "category": "security"
   },
   {
     "tag": "domain-list-community",
@@ -300,6 +300,11 @@
     "category": "security"
   },
   {
+    "tag": "v2ray-agent",
+    "count": 27,
+    "category": "ecosystem"
+  },
+  {
     "tag": "gost",
     "count": 26,
     "category": "security"
@@ -308,11 +313,6 @@
     "tag": "DNS",
     "count": 26,
     "category": "dns_rules"
-  },
-  {
-    "tag": "v2ray-agent",
-    "count": 25,
-    "category": "ecosystem"
   },
   {
     "tag": "shadowsocks",
@@ -395,6 +395,16 @@
     "category": "core"
   },
   {
+    "tag": "script",
+    "count": 19,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "vps",
+    "count": 19,
+    "category": "ecosystem"
+  },
+  {
     "tag": "macOS",
     "count": 19,
     "category": "client"
@@ -418,16 +428,6 @@
     "tag": "ssrplus",
     "count": 17,
     "category": "router"
-  },
-  {
-    "tag": "script",
-    "count": 17,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "vps",
-    "count": 17,
-    "category": "ecosystem"
   },
   {
     "tag": "TLS",

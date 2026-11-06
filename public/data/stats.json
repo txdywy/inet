@@ -1,7 +1,7 @@
 {
-  "totalItems": 2110,
-  "last24h": 10,
-  "last7d": 67,
+  "totalItems": 2113,
+  "last24h": 12,
+  "last7d": 68,
   "byCategory": {
     "core": 318,
     "client": 318,
@@ -9,7 +9,7 @@
     "protocol": 57,
     "dns_rules": 410,
     "security": 134,
-    "ecosystem": 841,
+    "ecosystem": 844,
     "trend": 0
   },
   "topProjects": [
@@ -23,7 +23,7 @@
     },
     {
       "project": "3x-ui",
-      "count": 198
+      "count": 199
     },
     {
       "project": "v2ray-rules-dat",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "release",
-      "count": 923
+      "count": 926
     },
     {
       "tag": "geosite",
@@ -89,19 +89,19 @@
     },
     {
       "tag": "xray-core",
-      "count": 165
+      "count": 166
+    },
+    {
+      "tag": "x-ui",
+      "count": 117
+    },
+    {
+      "tag": "panel",
+      "count": 117
     },
     {
       "tag": "Sub-Store",
       "count": 117
-    },
-    {
-      "tag": "x-ui",
-      "count": 116
-    },
-    {
-      "tag": "panel",
-      "count": 116
     },
     {
       "tag": "domain-list-community",
@@ -136,8 +136,8 @@
       "count": 85
     }
   ],
-  "importantCount": 972,
+  "importantCount": 974,
   "breakingCount": 109,
   "securityCount": 188,
-  "updatedAt": "2026-11-06T14:23:33.207Z"
+  "updatedAt": "2026-11-06T19:28:16.717Z"
 }
