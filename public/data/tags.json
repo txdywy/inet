@@ -1,12 +1,12 @@
 [
   {
     "tag": "release",
-    "count": 917,
-    "category": "ecosystem"
+    "count": 923,
+    "category": "client"
   },
   {
     "tag": "geosite",
-    "count": 381,
+    "count": 386,
     "category": "dns_rules"
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "tag": "domain-list",
-    "count": 248,
+    "count": 253,
     "category": "dns_rules"
   },
   {
@@ -65,14 +65,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "sing-box",
+    "count": 108,
+    "category": "client"
+  },
+  {
     "tag": "clash",
     "count": 108,
     "category": "ecosystem"
-  },
-  {
-    "tag": "sing-box",
-    "count": 107,
-    "category": "client"
   },
   {
     "tag": "v2ray",
@@ -365,6 +365,16 @@
     "category": "security"
   },
   {
+    "tag": "hiddify",
+    "count": 20,
+    "category": "client"
+  },
+  {
+    "tag": "universal",
+    "count": 20,
+    "category": "client"
+  },
+  {
     "tag": "luci",
     "count": 20,
     "category": "router"
@@ -383,16 +393,6 @@
     "tag": "rematch",
     "count": 20,
     "category": "core"
-  },
-  {
-    "tag": "hiddify",
-    "count": 19,
-    "category": "client"
-  },
-  {
-    "tag": "universal",
-    "count": 19,
-    "category": "client"
   },
   {
     "tag": "macOS",
