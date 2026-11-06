@@ -1,17 +1,17 @@
 [
   {
     "tag": "release",
-    "count": 913,
-    "category": "dns_rules"
+    "count": 917,
+    "category": "ecosystem"
   },
   {
     "tag": "geosite",
-    "count": 379,
+    "count": 381,
     "category": "dns_rules"
   },
   {
     "tag": "mihomo",
-    "count": 376,
+    "count": 378,
     "category": "dns_rules"
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "tag": "domain-list",
-    "count": 247,
+    "count": 248,
     "category": "dns_rules"
   },
   {
@@ -31,12 +31,12 @@
   },
   {
     "tag": "ruleset",
-    "count": 200,
+    "count": 201,
     "category": "dns_rules"
   },
   {
     "tag": "geoip",
-    "count": 200,
+    "count": 201,
     "category": "dns_rules"
   },
   {
@@ -65,14 +65,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "clash",
+    "count": 108,
+    "category": "ecosystem"
+  },
+  {
     "tag": "sing-box",
     "count": 107,
     "category": "client"
-  },
-  {
-    "tag": "clash",
-    "count": 107,
-    "category": "ecosystem"
   },
   {
     "tag": "v2ray",
@@ -101,7 +101,7 @@
   },
   {
     "tag": "meta",
-    "count": 83,
+    "count": 84,
     "category": "security"
   },
   {
@@ -145,24 +145,24 @@
     "category": "security"
   },
   {
+    "tag": "sub-store",
+    "count": 59,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "subscription",
+    "count": 59,
+    "category": "ecosystem"
+  },
+  {
     "tag": "开发版本",
     "count": 59,
     "category": "ecosystem"
   },
   {
-    "tag": "sub-store",
-    "count": 58,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "subscription",
-    "count": 58,
-    "category": "ecosystem"
-  },
-  {
     "tag": "wireguard",
-    "count": 57,
-    "category": "security"
+    "count": 58,
+    "category": "ecosystem"
   },
   {
     "tag": "tuic",
@@ -315,6 +315,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "shadowsocks",
+    "count": 25,
+    "category": "security"
+  },
+  {
     "tag": "dns",
     "count": 25,
     "category": "router"
@@ -325,14 +330,14 @@
     "category": "ecosystem"
   },
   {
-    "tag": "shadowsocks",
-    "count": 24,
-    "category": "security"
-  },
-  {
     "tag": "HTTP/2",
     "count": 24,
     "category": "protocol"
+  },
+  {
+    "tag": "snell",
+    "count": 23,
+    "category": "ecosystem"
   },
   {
     "tag": "依赖更新",
@@ -342,11 +347,6 @@
   {
     "tag": "VLESS",
     "count": 23,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "snell",
-    "count": 22,
     "category": "ecosystem"
   },
   {
