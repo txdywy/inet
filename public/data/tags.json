@@ -1,17 +1,17 @@
 [
   {
     "tag": "release",
-    "count": 927,
+    "count": 929,
     "category": "dns_rules"
   },
   {
     "tag": "geosite",
-    "count": 387,
+    "count": 389,
     "category": "dns_rules"
   },
   {
     "tag": "mihomo",
-    "count": 378,
+    "count": 379,
     "category": "dns_rules"
   },
   {
@@ -21,23 +21,23 @@
   },
   {
     "tag": "domain-list",
-    "count": 253,
+    "count": 254,
+    "category": "dns_rules"
+  },
+  {
+    "tag": "ruleset",
+    "count": 203,
+    "category": "dns_rules"
+  },
+  {
+    "tag": "geoip",
+    "count": 203,
     "category": "dns_rules"
   },
   {
     "tag": "v2fly",
     "count": 203,
     "category": "ecosystem"
-  },
-  {
-    "tag": "ruleset",
-    "count": 202,
-    "category": "dns_rules"
-  },
-  {
-    "tag": "geoip",
-    "count": 202,
-    "category": "dns_rules"
   },
   {
     "tag": "xray-core",

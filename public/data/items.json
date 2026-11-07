@@ -1,5 +1,77 @@
 [
   {
+    "id": "0f461cc49df6e4bd",
+    "title": "v2fly/domain-list-community 20261107053621",
+    "summary": "20261107053621",
+    "rawTitle": "20261107053621",
+    "rawBody": "## What's Changed\n* anthropic: add Claude Code telemetry host by @8023 in https://github.com/v2fly/domain-list-community/pull/4268\n\n## New Contributors\n* @8023 made their first contribution in https://github.com/v2fly/domain-list-community/pull/4268\n\n**Full Changelog**: https://github.com/v2fly/domain-list-community/compare/20261106131544...20261107053621",
+    "sourceType": "github_release",
+    "sourceName": "v2fly/domain-list-community",
+    "sourceUrl": "https://github.com/v2fly/domain-list-community/releases/tag/20261107053621",
+    "project": "domain-list-community",
+    "repo": "v2fly/domain-list-community",
+    "slug": "domain-list-community",
+    "version": "20261107053621",
+    "category": "dns_rules",
+    "tags": [
+      "geosite",
+      "domain-list",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-11-07T05:36:34Z",
+    "fetchedAt": "2026-11-07T06:06:00.888Z",
+    "firstSeenAt": "2026-11-07T06:06:02.489Z",
+    "updatedAt": "2026-11-07T06:06:02.489Z",
+    "hash": "0f461cc49df6e4bd"
+  },
+  {
+    "id": "d681f0605c152806",
+    "title": "MetaCubeX/meta-rules-dat Release 2026-11-07 10:06",
+    "summary": "Release 2026-11-07 10:06",
+    "rawTitle": "Release 2026-11-07 10:06",
+    "rawBody": "",
+    "sourceType": "github_release",
+    "sourceName": "MetaCubeX/meta-rules-dat",
+    "sourceUrl": "https://github.com/MetaCubeX/meta-rules-dat/releases/tag/latest",
+    "project": "meta-rules-dat",
+    "repo": "MetaCubeX/meta-rules-dat",
+    "slug": "meta-rules-dat",
+    "version": "latest",
+    "category": "dns_rules",
+    "tags": [
+      "ruleset",
+      "geosite",
+      "geoip",
+      "mihomo",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-11-07T02:09:03Z",
+    "fetchedAt": "2026-11-07T06:05:59.571Z",
+    "firstSeenAt": "2026-11-07T06:06:01.671Z",
+    "updatedAt": "2026-11-07T06:06:01.671Z",
+    "hash": "d681f0605c152806"
+  },
+  {
     "id": "a7e4f82ec0f5890c",
     "title": "Loyalsoldier/v2ray-rules-dat Released on 202611062204",
     "summary": "Released on 202611062204",
