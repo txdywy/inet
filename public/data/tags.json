@@ -1,12 +1,12 @@
 [
   {
     "tag": "release",
-    "count": 931,
+    "count": 934,
     "category": "dns_rules"
   },
   {
     "tag": "geosite",
-    "count": 390,
+    "count": 392,
     "category": "dns_rules"
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "tag": "domain-list",
-    "count": 255,
+    "count": 257,
     "category": "dns_rules"
   },
   {
@@ -125,6 +125,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "hysteria2",
+    "count": 67,
+    "category": "ecosystem"
+  },
+  {
     "tag": "rules",
     "count": 67,
     "category": "ecosystem"
@@ -133,11 +138,6 @@
     "tag": "quic",
     "count": 66,
     "category": "security"
-  },
-  {
-    "tag": "hysteria2",
-    "count": 66,
-    "category": "router"
   },
   {
     "tag": "ech",
@@ -280,6 +280,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "v2ray-agent",
+    "count": 28,
+    "category": "ecosystem"
+  },
+  {
     "tag": "v2raya",
     "count": 28,
     "category": "client"
@@ -298,11 +303,6 @@
     "tag": "android",
     "count": 28,
     "category": "security"
-  },
-  {
-    "tag": "v2ray-agent",
-    "count": 27,
-    "category": "ecosystem"
   },
   {
     "tag": "gost",
@@ -365,6 +365,16 @@
     "category": "security"
   },
   {
+    "tag": "script",
+    "count": 20,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "vps",
+    "count": 20,
+    "category": "ecosystem"
+  },
+  {
     "tag": "hiddify",
     "count": 20,
     "category": "client"
@@ -393,16 +403,6 @@
     "tag": "rematch",
     "count": 20,
     "category": "core"
-  },
-  {
-    "tag": "script",
-    "count": 19,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "vps",
-    "count": 19,
-    "category": "ecosystem"
   },
   {
     "tag": "macOS",
