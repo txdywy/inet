@@ -1,18 +1,18 @@
 [
   {
     "tag": "release",
-    "count": 929,
+    "count": 931,
     "category": "dns_rules"
   },
   {
     "tag": "geosite",
-    "count": 389,
+    "count": 390,
     "category": "dns_rules"
   },
   {
     "tag": "mihomo",
-    "count": 379,
-    "category": "dns_rules"
+    "count": 380,
+    "category": "ecosystem"
   },
   {
     "tag": "MetaCubeX",
@@ -21,7 +21,7 @@
   },
   {
     "tag": "domain-list",
-    "count": 254,
+    "count": 255,
     "category": "dns_rules"
   },
   {
@@ -60,6 +60,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "clash",
+    "count": 109,
+    "category": "ecosystem"
+  },
+  {
     "tag": "domain-list-community",
     "count": 109,
     "category": "ecosystem"
@@ -68,11 +73,6 @@
     "tag": "sing-box",
     "count": 108,
     "category": "client"
-  },
-  {
-    "tag": "clash",
-    "count": 108,
-    "category": "ecosystem"
   },
   {
     "tag": "v2ray",
@@ -560,6 +560,11 @@
     "category": "core"
   },
   {
+    "tag": "dashboard",
+    "count": 11,
+    "category": "ecosystem"
+  },
+  {
     "tag": "amneziawg",
     "count": 11,
     "category": "security"
@@ -593,11 +598,6 @@
     "tag": "用户体验",
     "count": 11,
     "category": "client"
-  },
-  {
-    "tag": "dashboard",
-    "count": 10,
-    "category": "ecosystem"
   },
   {
     "tag": "tailscale",
