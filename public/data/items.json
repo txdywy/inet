@@ -1,5 +1,42 @@
 [
   {
+    "id": "d9e05690b6a0fc79",
+    "title": "sub-store-org/Sub-Store 2.44.6",
+    "summary": "2.44.6",
+    "rawTitle": "2.44.6",
+    "rawBody": "## <small>2.44.6 (2026-11-08)</small>\n\n* feat: YAML 逻辑优化 #667 ([2888806](https://github.com/sub-store-org/Sub-Store/commit/2888806)), closes [#667](https://github.com/sub-store-org/Sub-Store/issues/667)\n",
+    "sourceType": "github_release",
+    "sourceName": "sub-store-org/Sub-Store",
+    "sourceUrl": "https://github.com/sub-store-org/Sub-Store/releases/tag/2.44.6",
+    "project": "Sub-Store",
+    "repo": "sub-store-org/Sub-Store",
+    "slug": "sub-store",
+    "version": "2.44.6",
+    "category": "ecosystem",
+    "tags": [
+      "sub-store",
+      "subscription",
+      "release"
+    ],
+    "platforms": [
+      "ios",
+      "android",
+      "macos",
+      "windows",
+      "linux"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-11-08T11:45:34Z",
+    "fetchedAt": "2026-11-08T13:34:42.628Z",
+    "firstSeenAt": "2026-11-08T13:34:46.210Z",
+    "updatedAt": "2026-11-08T13:34:46.210Z",
+    "hash": "d9e05690b6a0fc79"
+  },
+  {
     "id": "f04889d31d26c863",
     "title": "MetaCubeX/meta-rules-dat Release 2026-11-08 09:39",
     "summary": "Release 2026-11-08 09:39",

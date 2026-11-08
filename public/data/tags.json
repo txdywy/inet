@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 937,
-    "category": "dns_rules"
+    "count": 938,
+    "category": "ecosystem"
   },
   {
     "tag": "geosite",
@@ -146,12 +146,12 @@
   },
   {
     "tag": "sub-store",
-    "count": 59,
+    "count": 60,
     "category": "ecosystem"
   },
   {
     "tag": "subscription",
-    "count": 59,
+    "count": 60,
     "category": "ecosystem"
   },
   {
