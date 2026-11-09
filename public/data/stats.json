@@ -1,15 +1,15 @@
 {
-  "totalItems": 2129,
-  "last24h": 5,
-  "last7d": 56,
+  "totalItems": 2135,
+  "last24h": 9,
+  "last7d": 57,
   "byCategory": {
     "core": 318,
-    "client": 318,
+    "client": 321,
     "router": 32,
     "protocol": 57,
     "dns_rules": 421,
-    "security": 135,
-    "ecosystem": 848,
+    "security": 136,
+    "ecosystem": 850,
     "trend": 0
   },
   "topProjects": [
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "release",
-      "count": 942
+      "count": 948
     },
     {
       "tag": "geosite",
@@ -89,7 +89,7 @@
     },
     {
       "tag": "xray-core",
-      "count": 167
+      "count": 168
     },
     {
       "tag": "x-ui",
@@ -104,6 +104,10 @@
       "count": 117
     },
     {
+      "tag": "sing-box",
+      "count": 110
+    },
+    {
       "tag": "clash",
       "count": 110
     },
@@ -112,16 +116,12 @@
       "count": 109
     },
     {
-      "tag": "sing-box",
-      "count": 108
-    },
-    {
       "tag": "v2ray",
       "count": 100
     },
     {
       "tag": "vless",
-      "count": 90
+      "count": 91
     },
     {
       "tag": "meta-rules-dat",
@@ -129,15 +129,15 @@
     },
     {
       "tag": "xhttp",
-      "count": 86
+      "count": 87
     },
     {
       "tag": "Loyalsoldier",
       "count": 86
     }
   ],
-  "importantCount": 989,
+  "importantCount": 992,
   "breakingCount": 109,
-  "securityCount": 189,
-  "updatedAt": "2026-11-09T06:44:32.501Z"
+  "securityCount": 190,
+  "updatedAt": "2026-11-09T16:32:00.626Z"
 }

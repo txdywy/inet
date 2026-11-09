@@ -265,22 +265,6 @@
     ]
   },
   {
-    "slug": "helloworld",
-    "name": "helloworld",
-    "repo": "fw876/helloworld",
-    "description": "OpenWrt / 路由器固件及插件",
-    "category": "router",
-    "platforms": [
-      "openwrt",
-      "router"
-    ],
-    "tags": [
-      "ssrplus",
-      "openwrt",
-      "luci"
-    ]
-  },
-  {
     "slug": "hiddify-next",
     "name": "hiddify-next",
     "repo": "hiddify/hiddify-next",
@@ -297,6 +281,22 @@
       "hiddify",
       "sing-box",
       "universal"
+    ]
+  },
+  {
+    "slug": "helloworld",
+    "name": "helloworld",
+    "repo": "fw876/helloworld",
+    "description": "OpenWrt / 路由器固件及插件",
+    "category": "router",
+    "platforms": [
+      "openwrt",
+      "router"
+    ],
+    "tags": [
+      "ssrplus",
+      "openwrt",
+      "luci"
     ]
   },
   {
