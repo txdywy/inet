@@ -1,18 +1,18 @@
 [
   {
     "tag": "release",
-    "count": 938,
-    "category": "ecosystem"
+    "count": 942,
+    "category": "security"
   },
   {
     "tag": "geosite",
-    "count": 395,
+    "count": 397,
     "category": "dns_rules"
   },
   {
     "tag": "mihomo",
-    "count": 381,
-    "category": "dns_rules"
+    "count": 383,
+    "category": "ecosystem"
   },
   {
     "tag": "MetaCubeX",
@@ -26,12 +26,12 @@
   },
   {
     "tag": "ruleset",
-    "count": 205,
+    "count": 207,
     "category": "dns_rules"
   },
   {
     "tag": "geoip",
-    "count": 205,
+    "count": 207,
     "category": "dns_rules"
   },
   {
@@ -41,7 +41,7 @@
   },
   {
     "tag": "xray-core",
-    "count": 166,
+    "count": 167,
     "category": "security"
   },
   {
@@ -61,7 +61,7 @@
   },
   {
     "tag": "clash",
-    "count": 109,
+    "count": 110,
     "category": "ecosystem"
   },
   {
@@ -81,7 +81,7 @@
   },
   {
     "tag": "vless",
-    "count": 89,
+    "count": 90,
     "category": "security"
   },
   {
@@ -90,14 +90,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "xhttp",
+    "count": 86,
+    "category": "security"
+  },
+  {
     "tag": "Loyalsoldier",
     "count": 86,
     "category": "ecosystem"
-  },
-  {
-    "tag": "xhttp",
-    "count": 85,
-    "category": "security"
   },
   {
     "tag": "meta",
@@ -261,7 +261,7 @@
   },
   {
     "tag": "reality",
-    "count": 30,
+    "count": 31,
     "category": "security"
   },
   {
@@ -425,6 +425,11 @@
     "category": "core"
   },
   {
+    "tag": "xtls",
+    "count": 17,
+    "category": "security"
+  },
+  {
     "tag": "ssrplus",
     "count": 17,
     "category": "router"
@@ -456,11 +461,6 @@
   },
   {
     "tag": "v2rayng",
-    "count": 16,
-    "category": "security"
-  },
-  {
-    "tag": "xtls",
     "count": 16,
     "category": "security"
   },
@@ -540,6 +540,11 @@
     "category": "client"
   },
   {
+    "tag": "dashboard",
+    "count": 12,
+    "category": "ecosystem"
+  },
+  {
     "tag": "clash-verge",
     "count": 12,
     "category": "client"
@@ -558,11 +563,6 @@
     "tag": "HTTP",
     "count": 12,
     "category": "core"
-  },
-  {
-    "tag": "dashboard",
-    "count": 11,
-    "category": "ecosystem"
   },
   {
     "tag": "amneziawg",
