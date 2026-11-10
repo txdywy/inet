@@ -1,18 +1,18 @@
 [
   {
     "tag": "release",
-    "count": 951,
+    "count": 955,
     "category": "dns_rules"
   },
   {
     "tag": "geosite",
-    "count": 400,
+    "count": 403,
     "category": "dns_rules"
   },
   {
     "tag": "mihomo",
-    "count": 383,
-    "category": "ecosystem"
+    "count": 384,
+    "category": "dns_rules"
   },
   {
     "tag": "MetaCubeX",
@@ -21,17 +21,17 @@
   },
   {
     "tag": "domain-list",
-    "count": 260,
+    "count": 262,
     "category": "dns_rules"
   },
   {
     "tag": "ruleset",
-    "count": 208,
+    "count": 209,
     "category": "dns_rules"
   },
   {
     "tag": "geoip",
-    "count": 208,
+    "count": 209,
     "category": "dns_rules"
   },
   {
@@ -146,12 +146,12 @@
   },
   {
     "tag": "sub-store",
-    "count": 60,
+    "count": 61,
     "category": "ecosystem"
   },
   {
     "tag": "subscription",
-    "count": 60,
+    "count": 61,
     "category": "ecosystem"
   },
   {
@@ -305,6 +305,11 @@
     "category": "security"
   },
   {
+    "tag": "shadowsocks",
+    "count": 26,
+    "category": "ecosystem"
+  },
+  {
     "tag": "gost",
     "count": 26,
     "category": "security"
@@ -313,11 +318,6 @@
     "tag": "DNS",
     "count": 26,
     "category": "dns_rules"
-  },
-  {
-    "tag": "shadowsocks",
-    "count": 25,
-    "category": "security"
   },
   {
     "tag": "dns",
