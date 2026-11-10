@@ -1,5 +1,41 @@
 [
   {
+    "id": "b39d896debbce228",
+    "title": "Loyalsoldier/v2ray-rules-dat Released on 202611102204",
+    "summary": "Released on 202611102204",
+    "rawTitle": "Released on 202611102204",
+    "rawBody": "",
+    "sourceType": "github_release",
+    "sourceName": "Loyalsoldier/v2ray-rules-dat",
+    "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/tag/202611102204",
+    "project": "v2ray-rules-dat",
+    "repo": "Loyalsoldier/v2ray-rules-dat",
+    "slug": "v2ray-rules-dat",
+    "version": "202611102204",
+    "category": "dns_rules",
+    "tags": [
+      "ruleset",
+      "geosite",
+      "geoip",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-11-10T22:04:48Z",
+    "fetchedAt": "2026-11-10T23:15:39.118Z",
+    "firstSeenAt": "2026-11-10T23:15:41.233Z",
+    "updatedAt": "2026-11-10T23:15:41.233Z",
+    "hash": "b39d896debbce228"
+  },
+  {
     "id": "e6cff3b1bc4f3be3",
     "title": "hiddify/hiddify-next draft",
     "summary": "draft",
