@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 955,
-    "category": "dns_rules"
+    "count": 956,
+    "category": "client"
   },
   {
     "tag": "geosite",
@@ -61,7 +61,7 @@
   },
   {
     "tag": "sing-box",
-    "count": 110,
+    "count": 111,
     "category": "client"
   },
   {
@@ -335,6 +335,16 @@
     "category": "protocol"
   },
   {
+    "tag": "hiddify",
+    "count": 23,
+    "category": "client"
+  },
+  {
+    "tag": "universal",
+    "count": 23,
+    "category": "client"
+  },
+  {
     "tag": "snell",
     "count": 23,
     "category": "ecosystem"
@@ -348,16 +358,6 @@
     "tag": "VLESS",
     "count": 23,
     "category": "ecosystem"
-  },
-  {
-    "tag": "hiddify",
-    "count": 22,
-    "category": "client"
-  },
-  {
-    "tag": "universal",
-    "count": 22,
-    "category": "client"
   },
   {
     "tag": "script",
