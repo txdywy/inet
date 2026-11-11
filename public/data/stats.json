@@ -1,14 +1,14 @@
 {
-  "totalItems": 2147,
-  "last24h": 4,
+  "totalItems": 2150,
+  "last24h": 6,
   "last7d": 55,
   "byCategory": {
     "core": 319,
-    "client": 322,
+    "client": 324,
     "router": 32,
     "protocol": 57,
     "dns_rules": 429,
-    "security": 136,
+    "security": 137,
     "ecosystem": 852,
     "trend": 0
   },
@@ -19,7 +19,7 @@
     },
     {
       "project": "mihomo",
-      "count": 232
+      "count": 233
     },
     {
       "project": "3x-ui",
@@ -51,13 +51,13 @@
     },
     {
       "project": "ClashMetaForAndroid",
-      "count": 46
+      "count": 48
     }
   ],
   "hotTags": [
     {
       "tag": "release",
-      "count": 960
+      "count": 963
     },
     {
       "tag": "geosite",
@@ -65,7 +65,7 @@
     },
     {
       "tag": "mihomo",
-      "count": 386
+      "count": 389
     },
     {
       "tag": "MetaCubeX",
@@ -104,11 +104,11 @@
       "count": 117
     },
     {
-      "tag": "sing-box",
-      "count": 111
+      "tag": "clash",
+      "count": 114
     },
     {
-      "tag": "clash",
+      "tag": "sing-box",
       "count": 111
     },
     {
@@ -132,12 +132,12 @@
       "count": 87
     },
     {
-      "tag": "Loyalsoldier",
+      "tag": "meta",
       "count": 86
     }
   ],
   "importantCount": 1003,
   "breakingCount": 109,
-  "securityCount": 190,
-  "updatedAt": "2026-11-11T06:35:13.516Z"
+  "securityCount": 191,
+  "updatedAt": "2026-11-11T14:30:39.074Z"
 }

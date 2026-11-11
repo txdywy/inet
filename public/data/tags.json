@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 960,
-    "category": "dns_rules"
+    "count": 963,
+    "category": "security"
   },
   {
     "tag": "geosite",
@@ -11,8 +11,8 @@
   },
   {
     "tag": "mihomo",
-    "count": 386,
-    "category": "dns_rules"
+    "count": 389,
+    "category": "security"
   },
   {
     "tag": "MetaCubeX",
@@ -60,14 +60,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "clash",
+    "count": 114,
+    "category": "security"
+  },
+  {
     "tag": "sing-box",
     "count": 111,
     "category": "client"
-  },
-  {
-    "tag": "clash",
-    "count": 111,
-    "category": "ecosystem"
   },
   {
     "tag": "domain-list-community",
@@ -95,14 +95,14 @@
     "category": "security"
   },
   {
+    "tag": "meta",
+    "count": 86,
+    "category": "security"
+  },
+  {
     "tag": "Loyalsoldier",
     "count": 86,
     "category": "ecosystem"
-  },
-  {
-    "tag": "meta",
-    "count": 85,
-    "category": "security"
   },
   {
     "tag": "3x-ui",
@@ -265,6 +265,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "android",
+    "count": 30,
+    "category": "client"
+  },
+  {
     "tag": "v2ray-agent",
     "count": 30,
     "category": "ecosystem"
@@ -300,14 +305,9 @@
     "category": "ecosystem"
   },
   {
-    "tag": "android",
+    "tag": "shadowsocks",
     "count": 28,
     "category": "security"
-  },
-  {
-    "tag": "shadowsocks",
-    "count": 27,
-    "category": "ecosystem"
   },
   {
     "tag": "gost",
@@ -320,6 +320,11 @@
     "category": "dns_rules"
   },
   {
+    "tag": "snell",
+    "count": 25,
+    "category": "security"
+  },
+  {
     "tag": "dns",
     "count": 25,
     "category": "router"
@@ -327,11 +332,6 @@
   {
     "tag": "网络工具",
     "count": 25,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "snell",
-    "count": 24,
     "category": "ecosystem"
   },
   {
