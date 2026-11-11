@@ -1,17 +1,17 @@
 [
   {
     "tag": "release",
-    "count": 957,
+    "count": 960,
     "category": "dns_rules"
   },
   {
     "tag": "geosite",
-    "count": 404,
+    "count": 405,
     "category": "dns_rules"
   },
   {
     "tag": "mihomo",
-    "count": 384,
+    "count": 386,
     "category": "dns_rules"
   },
   {
@@ -26,12 +26,12 @@
   },
   {
     "tag": "ruleset",
-    "count": 210,
+    "count": 211,
     "category": "dns_rules"
   },
   {
     "tag": "geoip",
-    "count": 210,
+    "count": 211,
     "category": "dns_rules"
   },
   {
@@ -66,7 +66,7 @@
   },
   {
     "tag": "clash",
-    "count": 110,
+    "count": 111,
     "category": "ecosystem"
   },
   {
@@ -101,7 +101,7 @@
   },
   {
     "tag": "meta",
-    "count": 84,
+    "count": 85,
     "category": "security"
   },
   {
@@ -155,13 +155,13 @@
     "category": "ecosystem"
   },
   {
-    "tag": "开发版本",
+    "tag": "wireguard",
     "count": 59,
     "category": "ecosystem"
   },
   {
-    "tag": "wireguard",
-    "count": 58,
+    "tag": "开发版本",
+    "count": 59,
     "category": "ecosystem"
   },
   {
@@ -306,7 +306,7 @@
   },
   {
     "tag": "shadowsocks",
-    "count": 26,
+    "count": 27,
     "category": "ecosystem"
   },
   {
@@ -330,6 +330,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "snell",
+    "count": 24,
+    "category": "ecosystem"
+  },
+  {
     "tag": "HTTP/2",
     "count": 24,
     "category": "protocol"
@@ -343,11 +348,6 @@
     "tag": "universal",
     "count": 23,
     "category": "client"
-  },
-  {
-    "tag": "snell",
-    "count": 23,
-    "category": "ecosystem"
   },
   {
     "tag": "依赖更新",
@@ -565,6 +565,11 @@
     "category": "core"
   },
   {
+    "tag": "tailscale",
+    "count": 11,
+    "category": "ecosystem"
+  },
+  {
     "tag": "amneziawg",
     "count": 11,
     "category": "security"
@@ -600,7 +605,7 @@
     "category": "client"
   },
   {
-    "tag": "tailscale",
+    "tag": "mesh",
     "count": 10,
     "category": "ecosystem"
   },
@@ -622,11 +627,6 @@
   {
     "tag": "Docker",
     "count": 10,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "mesh",
-    "count": 9,
     "category": "ecosystem"
   },
   {
