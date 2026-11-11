@@ -1,5 +1,40 @@
 [
   {
+    "id": "7b58f487ee3c1bec",
+    "title": "go-gost/gost v3.3.4-nightly.20261111",
+    "summary": "v3.3.4-nightly.20261111",
+    "rawTitle": "v3.3.4-nightly.20261111",
+    "rawBody": "## Changelog\n* abae271e7a924f22cafe02c04306820c921754fe Merge pull request #928: Rewrite install.sh to improve usability\n* 1c02fa4382fdb608240ee323c229e8823a26b563 Rewrite install.sh to improve usability\n* 02d70cb1f68eecf505188ee90ceed4e02469c2ad fix(install): stop offering releases the script cannot install\n\n",
+    "sourceType": "github_release",
+    "sourceName": "go-gost/gost",
+    "sourceUrl": "https://github.com/go-gost/gost/releases/tag/v3.3.4-nightly.20261111",
+    "project": "gost",
+    "repo": "go-gost/gost",
+    "slug": "gost",
+    "version": "3.3.4-nightly.20261111",
+    "category": "core",
+    "tags": [
+      "gost",
+      "tunnel",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-11-11T15:29:59Z",
+    "fetchedAt": "2026-11-11T19:40:03.978Z",
+    "firstSeenAt": "2026-11-11T19:40:15.844Z",
+    "updatedAt": "2026-11-11T19:40:15.844Z",
+    "hash": "7b58f487ee3c1bec"
+  },
+  {
     "id": "952d0525b39b5cc6",
     "title": "MetaCubeX/mihomo v1.19.34",
     "summary": "v1.19.34",

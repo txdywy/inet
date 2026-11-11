@@ -1,9 +1,9 @@
 {
-  "totalItems": 2150,
-  "last24h": 6,
+  "totalItems": 2151,
+  "last24h": 7,
   "last7d": 55,
   "byCategory": {
-    "core": 319,
+    "core": 320,
     "client": 324,
     "router": 32,
     "protocol": 57,
@@ -47,7 +47,7 @@
     },
     {
       "project": "gost",
-      "count": 57
+      "count": 58
     },
     {
       "project": "ClashMetaForAndroid",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "release",
-      "count": 963
+      "count": 964
     },
     {
       "tag": "geosite",
@@ -136,8 +136,8 @@
       "count": 86
     }
   ],
-  "importantCount": 1003,
+  "importantCount": 1004,
   "breakingCount": 109,
   "securityCount": 191,
-  "updatedAt": "2026-11-11T14:30:39.074Z"
+  "updatedAt": "2026-11-11T19:40:16.364Z"
 }
