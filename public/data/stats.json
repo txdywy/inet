@@ -1,14 +1,14 @@
 {
-  "totalItems": 2153,
-  "last24h": 7,
-  "last7d": 54,
+  "totalItems": 2156,
+  "last24h": 5,
+  "last7d": 55,
   "byCategory": {
-    "core": 320,
+    "core": 321,
     "client": 325,
     "router": 32,
     "protocol": 57,
-    "dns_rules": 430,
-    "security": 137,
+    "dns_rules": 431,
+    "security": 138,
     "ecosystem": 852,
     "trend": 0
   },
@@ -19,7 +19,7 @@
     },
     {
       "project": "mihomo",
-      "count": 233
+      "count": 234
     },
     {
       "project": "v2ray-rules-dat",
@@ -31,7 +31,7 @@
     },
     {
       "project": "meta-rules-dat",
-      "count": 192
+      "count": 193
     },
     {
       "project": "Sub-Store",
@@ -57,15 +57,15 @@
   "hotTags": [
     {
       "tag": "release",
-      "count": 966
+      "count": 969
     },
     {
       "tag": "geosite",
-      "count": 406
+      "count": 407
     },
     {
       "tag": "mihomo",
-      "count": 389
+      "count": 391
     },
     {
       "tag": "MetaCubeX",
@@ -77,11 +77,11 @@
     },
     {
       "tag": "ruleset",
-      "count": 212
+      "count": 213
     },
     {
       "tag": "geoip",
-      "count": 212
+      "count": 213
     },
     {
       "tag": "v2fly",
@@ -89,7 +89,7 @@
     },
     {
       "tag": "xray-core",
-      "count": 168
+      "count": 169
     },
     {
       "tag": "x-ui",
@@ -105,7 +105,7 @@
     },
     {
       "tag": "clash",
-      "count": 114
+      "count": 115
     },
     {
       "tag": "sing-box",
@@ -128,16 +128,16 @@
       "count": 88
     },
     {
-      "tag": "xhttp",
+      "tag": "meta",
       "count": 87
     },
     {
-      "tag": "meta",
-      "count": 86
+      "tag": "xhttp",
+      "count": 87
     }
   ],
-  "importantCount": 1006,
+  "importantCount": 1008,
   "breakingCount": 109,
-  "securityCount": 191,
-  "updatedAt": "2026-11-12T00:37:03.718Z"
+  "securityCount": 192,
+  "updatedAt": "2026-11-12T07:18:15.660Z"
 }
