@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 970,
-    "category": "ecosystem"
+    "count": 973,
+    "category": "client"
   },
   {
     "tag": "geosite",
@@ -41,17 +41,17 @@
   },
   {
     "tag": "xray-core",
-    "count": 169,
+    "count": 170,
     "category": "security"
   },
   {
     "tag": "x-ui",
-    "count": 117,
+    "count": 118,
     "category": "security"
   },
   {
     "tag": "panel",
-    "count": 117,
+    "count": 118,
     "category": "security"
   },
   {
@@ -66,7 +66,7 @@
   },
   {
     "tag": "sing-box",
-    "count": 112,
+    "count": 114,
     "category": "client"
   },
   {
@@ -315,6 +315,16 @@
     "category": "core"
   },
   {
+    "tag": "hiddify",
+    "count": 26,
+    "category": "client"
+  },
+  {
+    "tag": "universal",
+    "count": 26,
+    "category": "client"
+  },
+  {
     "tag": "DNS",
     "count": 26,
     "category": "dns_rules"
@@ -333,16 +343,6 @@
     "tag": "网络工具",
     "count": 25,
     "category": "ecosystem"
-  },
-  {
-    "tag": "hiddify",
-    "count": 24,
-    "category": "client"
-  },
-  {
-    "tag": "universal",
-    "count": 24,
-    "category": "client"
   },
   {
     "tag": "HTTP/2",
