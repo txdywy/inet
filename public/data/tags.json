@@ -1,12 +1,12 @@
 [
   {
     "tag": "release",
-    "count": 973,
-    "category": "client"
+    "count": 977,
+    "category": "ecosystem"
   },
   {
     "tag": "geosite",
-    "count": 407,
+    "count": 409,
     "category": "dns_rules"
   },
   {
@@ -21,17 +21,17 @@
   },
   {
     "tag": "domain-list",
-    "count": 262,
+    "count": 263,
     "category": "dns_rules"
   },
   {
     "tag": "ruleset",
-    "count": 213,
+    "count": 214,
     "category": "dns_rules"
   },
   {
     "tag": "geoip",
-    "count": 213,
+    "count": 214,
     "category": "dns_rules"
   },
   {
@@ -41,17 +41,17 @@
   },
   {
     "tag": "xray-core",
-    "count": 170,
+    "count": 171,
     "category": "security"
   },
   {
     "tag": "x-ui",
-    "count": 118,
+    "count": 119,
     "category": "security"
   },
   {
     "tag": "panel",
-    "count": 118,
+    "count": 119,
     "category": "security"
   },
   {
@@ -156,7 +156,7 @@
   },
   {
     "tag": "wireguard",
-    "count": 59,
+    "count": 60,
     "category": "ecosystem"
   },
   {
@@ -540,6 +540,11 @@
     "category": "client"
   },
   {
+    "tag": "tailscale",
+    "count": 12,
+    "category": "ecosystem"
+  },
+  {
     "tag": "dashboard",
     "count": 12,
     "category": "ecosystem"
@@ -565,7 +570,7 @@
     "category": "core"
   },
   {
-    "tag": "tailscale",
+    "tag": "mesh",
     "count": 11,
     "category": "ecosystem"
   },
@@ -603,11 +608,6 @@
     "tag": "用户体验",
     "count": 11,
     "category": "client"
-  },
-  {
-    "tag": "mesh",
-    "count": 10,
-    "category": "ecosystem"
   },
   {
     "tag": "mihomo-party",
