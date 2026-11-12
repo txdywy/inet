@@ -1,13 +1,13 @@
 {
-  "totalItems": 2151,
+  "totalItems": 2153,
   "last24h": 7,
-  "last7d": 55,
+  "last7d": 54,
   "byCategory": {
     "core": 320,
-    "client": 324,
+    "client": 325,
     "router": 32,
     "protocol": 57,
-    "dns_rules": 429,
+    "dns_rules": 430,
     "security": 137,
     "ecosystem": 852,
     "trend": 0
@@ -22,12 +22,12 @@
       "count": 233
     },
     {
-      "project": "3x-ui",
+      "project": "v2ray-rules-dat",
       "count": 199
     },
     {
-      "project": "v2ray-rules-dat",
-      "count": 198
+      "project": "3x-ui",
+      "count": 199
     },
     {
       "project": "meta-rules-dat",
@@ -57,11 +57,11 @@
   "hotTags": [
     {
       "tag": "release",
-      "count": 964
+      "count": 966
     },
     {
       "tag": "geosite",
-      "count": 405
+      "count": 406
     },
     {
       "tag": "mihomo",
@@ -77,11 +77,11 @@
     },
     {
       "tag": "ruleset",
-      "count": 211
+      "count": 212
     },
     {
       "tag": "geoip",
-      "count": 211
+      "count": 212
     },
     {
       "tag": "v2fly",
@@ -109,7 +109,7 @@
     },
     {
       "tag": "sing-box",
-      "count": 111
+      "count": 112
     },
     {
       "tag": "domain-list-community",
@@ -136,8 +136,8 @@
       "count": 86
     }
   ],
-  "importantCount": 1004,
+  "importantCount": 1006,
   "breakingCount": 109,
   "securityCount": 191,
-  "updatedAt": "2026-11-11T19:40:16.364Z"
+  "updatedAt": "2026-11-12T00:37:03.718Z"
 }

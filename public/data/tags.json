@@ -1,12 +1,12 @@
 [
   {
     "tag": "release",
-    "count": 964,
-    "category": "core"
+    "count": 966,
+    "category": "client"
   },
   {
     "tag": "geosite",
-    "count": 405,
+    "count": 406,
     "category": "dns_rules"
   },
   {
@@ -26,12 +26,12 @@
   },
   {
     "tag": "ruleset",
-    "count": 211,
+    "count": 212,
     "category": "dns_rules"
   },
   {
     "tag": "geoip",
-    "count": 211,
+    "count": 212,
     "category": "dns_rules"
   },
   {
@@ -66,7 +66,7 @@
   },
   {
     "tag": "sing-box",
-    "count": 111,
+    "count": 112,
     "category": "client"
   },
   {
@@ -335,19 +335,19 @@
     "category": "ecosystem"
   },
   {
-    "tag": "HTTP/2",
-    "count": 24,
-    "category": "protocol"
-  },
-  {
     "tag": "hiddify",
-    "count": 23,
+    "count": 24,
     "category": "client"
   },
   {
     "tag": "universal",
-    "count": 23,
+    "count": 24,
     "category": "client"
+  },
+  {
+    "tag": "HTTP/2",
+    "count": 24,
+    "category": "protocol"
   },
   {
     "tag": "依赖更新",
