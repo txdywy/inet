@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 969,
-    "category": "dns_rules"
+    "count": 970,
+    "category": "ecosystem"
   },
   {
     "tag": "geosite",
@@ -81,8 +81,8 @@
   },
   {
     "tag": "vless",
-    "count": 91,
-    "category": "security"
+    "count": 92,
+    "category": "ecosystem"
   },
   {
     "tag": "meta-rules-dat",
@@ -146,12 +146,12 @@
   },
   {
     "tag": "sub-store",
-    "count": 61,
+    "count": 62,
     "category": "ecosystem"
   },
   {
     "tag": "subscription",
-    "count": 61,
+    "count": 62,
     "category": "ecosystem"
   },
   {

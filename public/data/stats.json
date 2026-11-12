@@ -1,7 +1,7 @@
 {
-  "totalItems": 2156,
-  "last24h": 5,
-  "last7d": 55,
+  "totalItems": 2157,
+  "last24h": 6,
+  "last7d": 54,
   "byCategory": {
     "core": 321,
     "client": 325,
@@ -9,7 +9,7 @@
     "protocol": 57,
     "dns_rules": 431,
     "security": 138,
-    "ecosystem": 852,
+    "ecosystem": 853,
     "trend": 0
   },
   "topProjects": [
@@ -35,7 +35,7 @@
     },
     {
       "project": "Sub-Store",
-      "count": 178
+      "count": 179
     },
     {
       "project": "metacubexd",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "release",
-      "count": 969
+      "count": 970
     },
     {
       "tag": "geosite",
@@ -121,7 +121,7 @@
     },
     {
       "tag": "vless",
-      "count": 91
+      "count": 92
     },
     {
       "tag": "meta-rules-dat",
@@ -136,8 +136,8 @@
       "count": 87
     }
   ],
-  "importantCount": 1008,
+  "importantCount": 1009,
   "breakingCount": 109,
   "securityCount": 192,
-  "updatedAt": "2026-11-12T07:18:15.660Z"
+  "updatedAt": "2026-11-12T15:23:01.657Z"
 }

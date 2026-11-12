@@ -1,5 +1,43 @@
 [
   {
+    "id": "7996b20ccaf6effd",
+    "title": "sub-store-org/Sub-Store 2.44.8",
+    "summary": "2.44.8",
+    "rawTitle": "2.44.8",
+    "rawBody": "## <small>2.44.8 (2026-11-12)</small>\n\n* feat: Surge 支持 VLESS; Surge Trust Tunnel 支持 client-random-auth-key ([091e6f8](https://github.com/sub-store-org/Sub-Store/commit/091e6f8))\n",
+    "sourceType": "github_release",
+    "sourceName": "sub-store-org/Sub-Store",
+    "sourceUrl": "https://github.com/sub-store-org/Sub-Store/releases/tag/2.44.8",
+    "project": "Sub-Store",
+    "repo": "sub-store-org/Sub-Store",
+    "slug": "sub-store",
+    "version": "2.44.8",
+    "category": "ecosystem",
+    "tags": [
+      "sub-store",
+      "subscription",
+      "vless",
+      "release"
+    ],
+    "platforms": [
+      "ios",
+      "android",
+      "macos",
+      "windows",
+      "linux"
+    ],
+    "importance": 4,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2026-11-12T10:41:39Z",
+    "fetchedAt": "2026-11-12T15:22:57.742Z",
+    "firstSeenAt": "2026-11-12T15:23:01.270Z",
+    "updatedAt": "2026-11-12T15:23:01.270Z",
+    "hash": "7996b20ccaf6effd"
+  },
+  {
     "id": "ccd3b90ee6f43580",
     "title": "MetaCubeX/meta-rules-dat Release 2026-11-12 11:11",
     "summary": "Release 2026-11-12 11:11",
