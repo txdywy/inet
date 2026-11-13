@@ -1,17 +1,17 @@
 [
   {
     "tag": "release",
-    "count": 977,
+    "count": 982,
     "category": "ecosystem"
   },
   {
     "tag": "geosite",
-    "count": 409,
+    "count": 410,
     "category": "dns_rules"
   },
   {
     "tag": "mihomo",
-    "count": 391,
+    "count": 392,
     "category": "dns_rules"
   },
   {
@@ -26,12 +26,12 @@
   },
   {
     "tag": "ruleset",
-    "count": 214,
+    "count": 215,
     "category": "dns_rules"
   },
   {
     "tag": "geoip",
-    "count": 214,
+    "count": 215,
     "category": "dns_rules"
   },
   {
@@ -41,17 +41,17 @@
   },
   {
     "tag": "xray-core",
-    "count": 171,
+    "count": 172,
     "category": "security"
   },
   {
     "tag": "x-ui",
-    "count": 119,
+    "count": 120,
     "category": "security"
   },
   {
     "tag": "panel",
-    "count": 119,
+    "count": 120,
     "category": "security"
   },
   {
@@ -81,8 +81,8 @@
   },
   {
     "tag": "vless",
-    "count": 92,
-    "category": "ecosystem"
+    "count": 93,
+    "category": "client"
   },
   {
     "tag": "meta-rules-dat",
@@ -141,17 +141,17 @@
   },
   {
     "tag": "ech",
-    "count": 64,
-    "category": "security"
+    "count": 65,
+    "category": "client"
   },
   {
     "tag": "sub-store",
-    "count": 62,
+    "count": 63,
     "category": "ecosystem"
   },
   {
     "tag": "subscription",
-    "count": 62,
+    "count": 63,
     "category": "ecosystem"
   },
   {
@@ -205,6 +205,11 @@
     "category": "core"
   },
   {
+    "tag": "openwrt",
+    "count": 38,
+    "category": "router"
+  },
+  {
     "tag": "Linux",
     "count": 38,
     "category": "client"
@@ -213,11 +218,6 @@
     "tag": "Windows",
     "count": 38,
     "category": "client"
-  },
-  {
-    "tag": "openwrt",
-    "count": 37,
-    "category": "router"
   },
   {
     "tag": "naiveproxy",
@@ -270,6 +270,21 @@
     "category": "security"
   },
   {
+    "tag": "v2raya",
+    "count": 30,
+    "category": "client"
+  },
+  {
+    "tag": "web",
+    "count": 30,
+    "category": "client"
+  },
+  {
+    "tag": "transparent-proxy",
+    "count": 30,
+    "category": "client"
+  },
+  {
     "tag": "v2ray-agent",
     "count": 30,
     "category": "ecosystem"
@@ -278,21 +293,6 @@
     "tag": "Tailscale",
     "count": 30,
     "category": "core"
-  },
-  {
-    "tag": "v2raya",
-    "count": 29,
-    "category": "client"
-  },
-  {
-    "tag": "web",
-    "count": 29,
-    "category": "client"
-  },
-  {
-    "tag": "transparent-proxy",
-    "count": 29,
-    "category": "client"
   },
   {
     "tag": "v2rayN",
@@ -386,7 +386,7 @@
   },
   {
     "tag": "luci",
-    "count": 20,
+    "count": 21,
     "category": "router"
   },
   {
@@ -415,6 +415,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "ssrplus",
+    "count": 18,
+    "category": "router"
+  },
+  {
     "tag": "xtls",
     "count": 18,
     "category": "security"
@@ -433,11 +438,6 @@
     "tag": "v2rayng",
     "count": 17,
     "category": "security"
-  },
-  {
-    "tag": "ssrplus",
-    "count": 17,
-    "category": "router"
   },
   {
     "tag": "TLS",
