@@ -1,12 +1,12 @@
 [
   {
     "tag": "release",
-    "count": 987,
-    "category": "client"
+    "count": 991,
+    "category": "core"
   },
   {
     "tag": "geosite",
-    "count": 410,
+    "count": 411,
     "category": "dns_rules"
   },
   {
@@ -26,12 +26,12 @@
   },
   {
     "tag": "ruleset",
-    "count": 215,
+    "count": 216,
     "category": "dns_rules"
   },
   {
     "tag": "geoip",
-    "count": 215,
+    "count": 216,
     "category": "dns_rules"
   },
   {
@@ -55,14 +55,14 @@
     "category": "security"
   },
   {
+    "tag": "sing-box",
+    "count": 118,
+    "category": "client"
+  },
+  {
     "tag": "Sub-Store",
     "count": 117,
     "category": "ecosystem"
-  },
-  {
-    "tag": "sing-box",
-    "count": 116,
-    "category": "client"
   },
   {
     "tag": "clash",
@@ -270,6 +270,16 @@
     "category": "security"
   },
   {
+    "tag": "hiddify",
+    "count": 30,
+    "category": "client"
+  },
+  {
+    "tag": "universal",
+    "count": 30,
+    "category": "client"
+  },
+  {
     "tag": "v2raya",
     "count": 30,
     "category": "client"
@@ -303,16 +313,6 @@
     "tag": "自动化构建",
     "count": 29,
     "category": "ecosystem"
-  },
-  {
-    "tag": "hiddify",
-    "count": 28,
-    "category": "client"
-  },
-  {
-    "tag": "universal",
-    "count": 28,
-    "category": "client"
   },
   {
     "tag": "shadowsocks",
@@ -630,6 +630,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "dae",
+    "count": 9,
+    "category": "core"
+  },
+  {
     "tag": "vision",
     "count": 9,
     "category": "security"
@@ -683,11 +688,6 @@
     "tag": "warp",
     "count": 8,
     "category": "security"
-  },
-  {
-    "tag": "dae",
-    "count": 8,
-    "category": "core"
   },
   {
     "tag": "更新",
@@ -1060,6 +1060,16 @@
     "category": "client"
   },
   {
+    "tag": "ebpf",
+    "count": 3,
+    "category": "core"
+  },
+  {
+    "tag": "linux",
+    "count": 3,
+    "category": "core"
+  },
+  {
     "tag": "http/3",
     "count": 3,
     "category": "security"
@@ -1298,16 +1308,6 @@
     "tag": "shadowtls",
     "count": 2,
     "category": "security"
-  },
-  {
-    "tag": "ebpf",
-    "count": 2,
-    "category": "core"
-  },
-  {
-    "tag": "linux",
-    "count": 2,
-    "category": "core"
   },
   {
     "tag": "社区",
