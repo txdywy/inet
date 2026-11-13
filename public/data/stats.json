@@ -1,15 +1,15 @@
 {
-  "totalItems": 2170,
-  "last24h": 10,
+  "totalItems": 2174,
+  "last24h": 11,
   "last7d": 54,
   "byCategory": {
     "core": 321,
-    "client": 328,
+    "client": 330,
     "router": 33,
     "protocol": 57,
     "dns_rules": 434,
     "security": 138,
-    "ecosystem": 859,
+    "ecosystem": 861,
     "trend": 0
   },
   "topProjects": [
@@ -23,7 +23,7 @@
     },
     {
       "project": "3x-ui",
-      "count": 202
+      "count": 203
     },
     {
       "project": "v2ray-rules-dat",
@@ -35,7 +35,7 @@
     },
     {
       "project": "Sub-Store",
-      "count": 181
+      "count": 182
     },
     {
       "project": "metacubexd",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "release",
-      "count": 983
+      "count": 987
     },
     {
       "tag": "geosite",
@@ -89,27 +89,27 @@
     },
     {
       "tag": "xray-core",
-      "count": 172
+      "count": 173
     },
     {
       "tag": "x-ui",
-      "count": 120
+      "count": 121
     },
     {
       "tag": "panel",
-      "count": 120
+      "count": 121
     },
     {
       "tag": "Sub-Store",
       "count": 117
     },
     {
-      "tag": "clash",
-      "count": 115
+      "tag": "sing-box",
+      "count": 116
     },
     {
-      "tag": "sing-box",
-      "count": 114
+      "tag": "clash",
+      "count": 115
     },
     {
       "tag": "domain-list-community",
@@ -121,7 +121,11 @@
     },
     {
       "tag": "vless",
-      "count": 93
+      "count": 94
+    },
+    {
+      "tag": "xhttp",
+      "count": 88
     },
     {
       "tag": "meta-rules-dat",
@@ -130,14 +134,10 @@
     {
       "tag": "meta",
       "count": 87
-    },
-    {
-      "tag": "xhttp",
-      "count": 87
     }
   ],
-  "importantCount": 1021,
+  "importantCount": 1025,
   "breakingCount": 109,
   "securityCount": 192,
-  "updatedAt": "2026-11-13T14:41:21.218Z"
+  "updatedAt": "2026-11-13T19:47:12.734Z"
 }

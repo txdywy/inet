@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 983,
-    "category": "ecosystem"
+    "count": 987,
+    "category": "client"
   },
   {
     "tag": "geosite",
@@ -41,17 +41,17 @@
   },
   {
     "tag": "xray-core",
-    "count": 172,
+    "count": 173,
     "category": "security"
   },
   {
     "tag": "x-ui",
-    "count": 120,
+    "count": 121,
     "category": "security"
   },
   {
     "tag": "panel",
-    "count": 120,
+    "count": 121,
     "category": "security"
   },
   {
@@ -60,14 +60,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "sing-box",
+    "count": 116,
+    "category": "client"
+  },
+  {
     "tag": "clash",
     "count": 115,
     "category": "security"
-  },
-  {
-    "tag": "sing-box",
-    "count": 114,
-    "category": "client"
   },
   {
     "tag": "domain-list-community",
@@ -81,8 +81,13 @@
   },
   {
     "tag": "vless",
-    "count": 93,
-    "category": "client"
+    "count": 94,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "xhttp",
+    "count": 88,
+    "category": "ecosystem"
   },
   {
     "tag": "meta-rules-dat",
@@ -91,11 +96,6 @@
   },
   {
     "tag": "meta",
-    "count": 87,
-    "category": "security"
-  },
-  {
-    "tag": "xhttp",
     "count": 87,
     "category": "security"
   },
@@ -140,19 +140,19 @@
     "category": "security"
   },
   {
-    "tag": "ech",
-    "count": 65,
-    "category": "client"
-  },
-  {
     "tag": "sub-store",
-    "count": 64,
+    "count": 65,
     "category": "ecosystem"
   },
   {
     "tag": "subscription",
-    "count": 64,
+    "count": 65,
     "category": "ecosystem"
+  },
+  {
+    "tag": "ech",
+    "count": 65,
+    "category": "client"
   },
   {
     "tag": "wireguard",
@@ -305,6 +305,16 @@
     "category": "ecosystem"
   },
   {
+    "tag": "hiddify",
+    "count": 28,
+    "category": "client"
+  },
+  {
+    "tag": "universal",
+    "count": 28,
+    "category": "client"
+  },
+  {
     "tag": "shadowsocks",
     "count": 28,
     "category": "security"
@@ -313,16 +323,6 @@
     "tag": "gost",
     "count": 27,
     "category": "core"
-  },
-  {
-    "tag": "hiddify",
-    "count": 26,
-    "category": "client"
-  },
-  {
-    "tag": "universal",
-    "count": 26,
-    "category": "client"
   },
   {
     "tag": "DNS",

@@ -233,23 +233,6 @@
     ]
   },
   {
-    "slug": "clash-verge-rev",
-    "name": "clash-verge-rev",
-    "repo": "clash-verge-rev/clash-verge-rev",
-    "description": "各平台代理客户端应用",
-    "category": "client",
-    "platforms": [
-      "windows",
-      "macos",
-      "linux"
-    ],
-    "tags": [
-      "clash-verge",
-      "mihomo",
-      "desktop"
-    ]
-  },
-  {
     "slug": "hiddify-next",
     "name": "hiddify-next",
     "repo": "hiddify/hiddify-next",
@@ -266,6 +249,23 @@
       "hiddify",
       "sing-box",
       "universal"
+    ]
+  },
+  {
+    "slug": "clash-verge-rev",
+    "name": "clash-verge-rev",
+    "repo": "clash-verge-rev/clash-verge-rev",
+    "description": "各平台代理客户端应用",
+    "category": "client",
+    "platforms": [
+      "windows",
+      "macos",
+      "linux"
+    ],
+    "tags": [
+      "clash-verge",
+      "mihomo",
+      "desktop"
     ]
   },
   {
