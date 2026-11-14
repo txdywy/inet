@@ -1,7 +1,7 @@
 [
   {
     "tag": "release",
-    "count": 993,
+    "count": 995,
     "category": "ecosystem"
   },
   {
@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 393,
+    "count": 394,
     "category": "dns_rules"
   },
   {
@@ -66,7 +66,7 @@
   },
   {
     "tag": "clash",
-    "count": 115,
+    "count": 116,
     "category": "security"
   },
   {
@@ -90,14 +90,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "meta",
+    "count": 88,
+    "category": "security"
+  },
+  {
     "tag": "meta-rules-dat",
     "count": 88,
     "category": "ecosystem"
-  },
-  {
-    "tag": "meta",
-    "count": 87,
-    "category": "security"
   },
   {
     "tag": "Loyalsoldier",
@@ -130,18 +130,18 @@
     "category": "ecosystem"
   },
   {
-    "tag": "rules",
+    "tag": "sub-store",
     "count": 67,
     "category": "ecosystem"
   },
   {
-    "tag": "sub-store",
-    "count": 66,
+    "tag": "subscription",
+    "count": 67,
     "category": "ecosystem"
   },
   {
-    "tag": "subscription",
-    "count": 66,
+    "tag": "rules",
+    "count": 67,
     "category": "ecosystem"
   },
   {
@@ -320,6 +320,11 @@
     "category": "security"
   },
   {
+    "tag": "snell",
+    "count": 27,
+    "category": "ecosystem"
+  },
+  {
     "tag": "gost",
     "count": 27,
     "category": "core"
@@ -328,11 +333,6 @@
     "tag": "DNS",
     "count": 26,
     "category": "dns_rules"
-  },
-  {
-    "tag": "snell",
-    "count": 25,
-    "category": "security"
   },
   {
     "tag": "dns",

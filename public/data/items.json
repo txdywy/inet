@@ -1,5 +1,43 @@
 [
   {
+    "id": "26a17f2381aa7a38",
+    "title": "sub-store-org/Sub-Store 2.44.13",
+    "summary": "2.44.13",
+    "rawTitle": "2.44.13",
+    "rawBody": "## <small>2.44.13 (2026-11-14)</small>\n\n* feat: sing-box Snell 支持 mihomo 格式字段 userkey ([a9028cd](https://github.com/sub-store-org/Sub-Store/commit/a9028cd))\n",
+    "sourceType": "github_release",
+    "sourceName": "sub-store-org/Sub-Store",
+    "sourceUrl": "https://github.com/sub-store-org/Sub-Store/releases/tag/2.44.13",
+    "project": "Sub-Store",
+    "repo": "sub-store-org/Sub-Store",
+    "slug": "sub-store",
+    "version": "2.44.13",
+    "category": "ecosystem",
+    "tags": [
+      "sub-store",
+      "subscription",
+      "snell",
+      "release"
+    ],
+    "platforms": [
+      "ios",
+      "android",
+      "macos",
+      "windows",
+      "linux"
+    ],
+    "importance": 4,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2026-11-14T09:02:39Z",
+    "fetchedAt": "2026-11-14T13:38:17.937Z",
+    "firstSeenAt": "2026-11-14T13:38:22.044Z",
+    "updatedAt": "2026-11-14T13:38:22.044Z",
+    "hash": "26a17f2381aa7a38"
+  },
+  {
     "id": "3bf5ead51a5083e5",
     "title": "sub-store-org/Sub-Store 2.44.12",
     "summary": "2.44.12",
@@ -66825,6 +66863,43 @@
     "firstSeenAt": "2026-05-07T04:09:04.362Z",
     "updatedAt": "2026-05-07T04:09:04.362Z",
     "hash": "5e6adb84fbb7f312"
+  },
+  {
+    "id": "3c978dcec29be541",
+    "title": "MetaCubeX/mihomo Prerelease-Alpha",
+    "summary": "Prerelease-Alpha",
+    "rawTitle": "Prerelease-Alpha",
+    "rawBody": "Release created at  Sat Nov 14 17:02:01 CST 2026\nSynchronize Alpha branch code updates, keeping only the latest version\n<br>\n[我应该下载哪个文件? / Which file should I download?](https://github.com/MetaCubeX/mihomo/wiki/FAQ)\n[二进制文件筛选 / Binary file selector](https://metacubex.github.io/Meta-Docs/startup/#_1)\n[查看文档 / Docs](https://metacubex.github.io/Meta-Docs/)\n\n\n## What's Changed\n* fix: use correct format verb for subscription-userinfo parse errors by @AaronChen0 in https://github.com/MetaCubeX/mihomo/pull/3455\n* feat(snell): support optional userkey for Snell v6 outbound by @CatMsg in https://github.com/MetaCubeX/mihomo/pull/3460\n\n## New Contributors\n* @CatMsg made their first contribution in https://github.com/MetaCubeX/mihomo/pull/3460\n\n**Full Changelog**: https://github.com/MetaCubeX/mihomo/compare/v1.19.34...Prerelease-Alpha",
+    "sourceType": "github_release",
+    "sourceName": "MetaCubeX/mihomo",
+    "sourceUrl": "https://github.com/MetaCubeX/mihomo/releases/tag/Prerelease-Alpha",
+    "project": "mihomo",
+    "repo": "MetaCubeX/mihomo",
+    "slug": "mihomo",
+    "version": "Prerelease-Alpha",
+    "category": "core",
+    "tags": [
+      "mihomo",
+      "clash",
+      "meta",
+      "snell",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 2,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2024-08-12T17:01:02Z",
+    "fetchedAt": "2026-11-14T13:38:07.785Z",
+    "firstSeenAt": "2026-11-14T13:38:21.232Z",
+    "updatedAt": "2026-11-14T13:38:21.232Z",
+    "hash": "3c978dcec29be541"
   },
   {
     "id": "f4eca956708e7d56",
