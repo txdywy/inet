@@ -1,15 +1,15 @@
 {
-  "totalItems": 2182,
-  "last24h": 10,
+  "totalItems": 2184,
+  "last24h": 8,
   "last7d": 56,
   "byCategory": {
-    "core": 323,
+    "core": 324,
     "client": 332,
     "router": 33,
     "protocol": 57,
     "dns_rules": 436,
     "security": 138,
-    "ecosystem": 863,
+    "ecosystem": 864,
     "trend": 0
   },
   "topProjects": [
@@ -19,7 +19,7 @@
     },
     {
       "project": "mihomo",
-      "count": 235
+      "count": 236
     },
     {
       "project": "3x-ui",
@@ -35,7 +35,7 @@
     },
     {
       "project": "Sub-Store",
-      "count": 184
+      "count": 185
     },
     {
       "project": "metacubexd",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "release",
-      "count": 995
+      "count": 997
     },
     {
       "tag": "geosite",
@@ -65,7 +65,7 @@
     },
     {
       "tag": "mihomo",
-      "count": 394
+      "count": 395
     },
     {
       "tag": "MetaCubeX",
@@ -104,12 +104,12 @@
       "count": 118
     },
     {
-      "tag": "Sub-Store",
+      "tag": "clash",
       "count": 117
     },
     {
-      "tag": "clash",
-      "count": 116
+      "tag": "Sub-Store",
+      "count": 117
     },
     {
       "tag": "domain-list-community",
@@ -121,7 +121,7 @@
     },
     {
       "tag": "vless",
-      "count": 95
+      "count": 96
     },
     {
       "tag": "xhttp",
@@ -129,15 +129,15 @@
     },
     {
       "tag": "meta",
-      "count": 88
+      "count": 89
     },
     {
       "tag": "meta-rules-dat",
       "count": 88
     }
   ],
-  "importantCount": 1031,
+  "importantCount": 1032,
   "breakingCount": 109,
   "securityCount": 192,
-  "updatedAt": "2026-11-14T13:38:22.430Z"
+  "updatedAt": "2026-11-14T18:10:59.934Z"
 }

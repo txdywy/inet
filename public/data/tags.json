@@ -1,7 +1,7 @@
 [
   {
     "tag": "release",
-    "count": 995,
+    "count": 997,
     "category": "ecosystem"
   },
   {
@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 394,
+    "count": 395,
     "category": "dns_rules"
   },
   {
@@ -60,14 +60,14 @@
     "category": "client"
   },
   {
+    "tag": "clash",
+    "count": 117,
+    "category": "security"
+  },
+  {
     "tag": "Sub-Store",
     "count": 117,
     "category": "ecosystem"
-  },
-  {
-    "tag": "clash",
-    "count": 116,
-    "category": "security"
   },
   {
     "tag": "domain-list-community",
@@ -81,7 +81,7 @@
   },
   {
     "tag": "vless",
-    "count": 95,
+    "count": 96,
     "category": "ecosystem"
   },
   {
@@ -91,7 +91,7 @@
   },
   {
     "tag": "meta",
-    "count": 88,
+    "count": 89,
     "category": "security"
   },
   {
@@ -125,18 +125,18 @@
     "category": "ecosystem"
   },
   {
-    "tag": "hysteria2",
+    "tag": "sub-store",
     "count": 68,
     "category": "ecosystem"
   },
   {
-    "tag": "sub-store",
-    "count": 67,
+    "tag": "subscription",
+    "count": 68,
     "category": "ecosystem"
   },
   {
-    "tag": "subscription",
-    "count": 67,
+    "tag": "hysteria2",
+    "count": 68,
     "category": "ecosystem"
   },
   {
@@ -315,14 +315,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "snell",
+    "count": 28,
+    "category": "ecosystem"
+  },
+  {
     "tag": "shadowsocks",
     "count": 28,
     "category": "security"
-  },
-  {
-    "tag": "snell",
-    "count": 27,
-    "category": "ecosystem"
   },
   {
     "tag": "gost",
