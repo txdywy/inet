@@ -1,12 +1,12 @@
 [
   {
     "tag": "release",
-    "count": 1005,
-    "category": "ecosystem"
+    "count": 1012,
+    "category": "client"
   },
   {
     "tag": "geosite",
-    "count": 415,
+    "count": 420,
     "category": "dns_rules"
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "tag": "domain-list",
-    "count": 264,
+    "count": 269,
     "category": "dns_rules"
   },
   {
@@ -45,6 +45,11 @@
     "category": "security"
   },
   {
+    "tag": "sing-box",
+    "count": 122,
+    "category": "client"
+  },
+  {
     "tag": "x-ui",
     "count": 121,
     "category": "security"
@@ -53,11 +58,6 @@
     "tag": "panel",
     "count": 121,
     "category": "security"
-  },
-  {
-    "tag": "sing-box",
-    "count": 120,
-    "category": "client"
   },
   {
     "tag": "clash",
@@ -156,8 +156,8 @@
   },
   {
     "tag": "wireguard",
-    "count": 60,
-    "category": "ecosystem"
+    "count": 61,
+    "category": "client"
   },
   {
     "tag": "开发版本",
@@ -230,6 +230,16 @@
     "category": "core"
   },
   {
+    "tag": "hiddify",
+    "count": 34,
+    "category": "client"
+  },
+  {
+    "tag": "universal",
+    "count": 34,
+    "category": "client"
+  },
+  {
     "tag": "WireGuard",
     "count": 34,
     "category": "core"
@@ -248,16 +258,6 @@
     "tag": "xhttp-opts",
     "count": 33,
     "category": "core"
-  },
-  {
-    "tag": "hiddify",
-    "count": 32,
-    "category": "client"
-  },
-  {
-    "tag": "universal",
-    "count": 32,
-    "category": "client"
   },
   {
     "tag": "reality",
