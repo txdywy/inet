@@ -67160,6 +67160,43 @@
     "hash": "5e6adb84fbb7f312"
   },
   {
+    "id": "da6720bcb402e68b",
+    "title": "MetaCubeX/mihomo Prerelease-Alpha",
+    "summary": "Prerelease-Alpha",
+    "rawTitle": "Prerelease-Alpha",
+    "rawBody": "Release created at  Sun Nov 15 18:16:49 CST 2026\nSynchronize Alpha branch code updates, keeping only the latest version\n<br>\n[我应该下载哪个文件? / Which file should I download?](https://github.com/MetaCubeX/mihomo/wiki/FAQ)\n[二进制文件筛选 / Binary file selector](https://metacubex.github.io/Meta-Docs/startup/#_1)\n[查看文档 / Docs](https://metacubex.github.io/Meta-Docs/)\n\n\n## What's Changed\n* fix: use correct format verb for subscription-userinfo parse errors by @AaronChen0 in https://github.com/MetaCubeX/mihomo/pull/3455\n* feat(snell): support optional userkey for Snell v6 outbound by @CatMsg in https://github.com/MetaCubeX/mihomo/pull/3460\n\n## New Contributors\n* @CatMsg made their first contribution in https://github.com/MetaCubeX/mihomo/pull/3460\n\n**Full Changelog**: https://github.com/MetaCubeX/mihomo/compare/v1.19.34...Prerelease-Alpha",
+    "sourceType": "github_release",
+    "sourceName": "MetaCubeX/mihomo",
+    "sourceUrl": "https://github.com/MetaCubeX/mihomo/releases/tag/Prerelease-Alpha",
+    "project": "mihomo",
+    "repo": "MetaCubeX/mihomo",
+    "slug": "mihomo",
+    "version": "Prerelease-Alpha",
+    "category": "core",
+    "tags": [
+      "mihomo",
+      "clash",
+      "meta",
+      "snell",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 2,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2024-08-12T17:01:02Z",
+    "fetchedAt": "2026-11-15T14:01:58.745Z",
+    "firstSeenAt": "2026-11-15T14:02:12.733Z",
+    "updatedAt": "2026-11-15T14:02:12.733Z",
+    "hash": "da6720bcb402e68b"
+  },
+  {
     "id": "6de1437ca703dc7a",
     "title": "MetaCubeX/mihomo Prerelease-Alpha",
     "summary": "Prerelease-Alpha",
