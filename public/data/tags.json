@@ -1,17 +1,17 @@
 [
   {
     "tag": "release",
-    "count": 998,
-    "category": "dns_rules"
+    "count": 1004,
+    "category": "ecosystem"
   },
   {
     "tag": "geosite",
-    "count": 413,
+    "count": 415,
     "category": "dns_rules"
   },
   {
     "tag": "mihomo",
-    "count": 395,
+    "count": 396,
     "category": "dns_rules"
   },
   {
@@ -21,17 +21,17 @@
   },
   {
     "tag": "domain-list",
-    "count": 263,
+    "count": 264,
     "category": "dns_rules"
   },
   {
     "tag": "ruleset",
-    "count": 218,
+    "count": 219,
     "category": "dns_rules"
   },
   {
     "tag": "geoip",
-    "count": 218,
+    "count": 219,
     "category": "dns_rules"
   },
   {
@@ -56,7 +56,7 @@
   },
   {
     "tag": "sing-box",
-    "count": 118,
+    "count": 120,
     "category": "client"
   },
   {
@@ -126,18 +126,23 @@
   },
   {
     "tag": "sub-store",
-    "count": 68,
+    "count": 69,
     "category": "ecosystem"
   },
   {
     "tag": "subscription",
-    "count": 68,
+    "count": 69,
     "category": "ecosystem"
   },
   {
     "tag": "hysteria2",
-    "count": 68,
-    "category": "ecosystem"
+    "count": 69,
+    "category": "core"
+  },
+  {
+    "tag": "quic",
+    "count": 67,
+    "category": "core"
   },
   {
     "tag": "rules",
@@ -145,14 +150,9 @@
     "category": "ecosystem"
   },
   {
-    "tag": "quic",
-    "count": 66,
-    "category": "security"
-  },
-  {
     "tag": "ech",
-    "count": 65,
-    "category": "client"
+    "count": 66,
+    "category": "dns_rules"
   },
   {
     "tag": "wireguard",
@@ -250,6 +250,16 @@
     "category": "core"
   },
   {
+    "tag": "hiddify",
+    "count": 32,
+    "category": "client"
+  },
+  {
+    "tag": "universal",
+    "count": 32,
+    "category": "client"
+  },
+  {
     "tag": "reality",
     "count": 32,
     "category": "security"
@@ -268,16 +278,6 @@
     "tag": "android",
     "count": 31,
     "category": "security"
-  },
-  {
-    "tag": "hiddify",
-    "count": 30,
-    "category": "client"
-  },
-  {
-    "tag": "universal",
-    "count": 30,
-    "category": "client"
   },
   {
     "tag": "v2raya",
