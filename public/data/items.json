@@ -1,5 +1,42 @@
 [
   {
+    "id": "c98639af738ccfb2",
+    "title": "sub-store-org/Sub-Store 2.44.16",
+    "summary": "2.44.16",
+    "rawTitle": "2.44.16",
+    "rawBody": "## <small>2.44.16 (2026-11-16)</small>\n\n* feat: Surge/Surfboard 处理不合法的节点名 ([2a173b8](https://github.com/sub-store-org/Sub-Store/commit/2a173b8))\n",
+    "sourceType": "github_release",
+    "sourceName": "sub-store-org/Sub-Store",
+    "sourceUrl": "https://github.com/sub-store-org/Sub-Store/releases/tag/2.44.16",
+    "project": "Sub-Store",
+    "repo": "sub-store-org/Sub-Store",
+    "slug": "sub-store",
+    "version": "2.44.16",
+    "category": "ecosystem",
+    "tags": [
+      "sub-store",
+      "subscription",
+      "release"
+    ],
+    "platforms": [
+      "ios",
+      "android",
+      "macos",
+      "windows",
+      "linux"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-11-16T07:50:49Z",
+    "fetchedAt": "2026-11-16T15:58:37.203Z",
+    "firstSeenAt": "2026-11-16T15:58:40.791Z",
+    "updatedAt": "2026-11-16T15:58:40.791Z",
+    "hash": "c98639af738ccfb2"
+  },
+  {
     "id": "6ccd42cc47526408",
     "title": "v2fly/domain-list-community 20261116043813",
     "summary": "20261116043813",
