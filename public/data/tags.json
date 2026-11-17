@@ -1,17 +1,17 @@
 [
   {
     "tag": "release",
-    "count": 1019,
-    "category": "dns_rules"
+    "count": 1021,
+    "category": "router"
   },
   {
     "tag": "geosite",
-    "count": 426,
+    "count": 427,
     "category": "dns_rules"
   },
   {
     "tag": "mihomo",
-    "count": 398,
+    "count": 399,
     "category": "dns_rules"
   },
   {
@@ -26,12 +26,12 @@
   },
   {
     "tag": "ruleset",
-    "count": 222,
+    "count": 223,
     "category": "dns_rules"
   },
   {
     "tag": "geoip",
-    "count": 222,
+    "count": 223,
     "category": "dns_rules"
   },
   {
@@ -206,7 +206,7 @@
   },
   {
     "tag": "openwrt",
-    "count": 38,
+    "count": 39,
     "category": "router"
   },
   {
@@ -360,6 +360,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "luci",
+    "count": 22,
+    "category": "router"
+  },
+  {
     "tag": "tunnel",
     "count": 22,
     "category": "core"
@@ -385,11 +390,6 @@
     "category": "core"
   },
   {
-    "tag": "luci",
-    "count": 21,
-    "category": "router"
-  },
-  {
     "tag": "anytls",
     "count": 20,
     "category": "security"
@@ -405,6 +405,11 @@
     "category": "core"
   },
   {
+    "tag": "ssrplus",
+    "count": 19,
+    "category": "router"
+  },
+  {
     "tag": "macOS",
     "count": 19,
     "category": "client"
@@ -413,11 +418,6 @@
     "tag": "CHACHA20-POLY1305",
     "count": 19,
     "category": "ecosystem"
-  },
-  {
-    "tag": "ssrplus",
-    "count": 18,
-    "category": "router"
   },
   {
     "tag": "xtls",
