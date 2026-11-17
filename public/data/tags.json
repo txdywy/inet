@@ -1,7 +1,7 @@
 [
   {
     "tag": "release",
-    "count": 1022,
+    "count": 1024,
     "category": "client"
   },
   {
@@ -46,7 +46,7 @@
   },
   {
     "tag": "sing-box",
-    "count": 123,
+    "count": 125,
     "category": "client"
   },
   {
@@ -220,6 +220,16 @@
     "category": "client"
   },
   {
+    "tag": "hiddify",
+    "count": 37,
+    "category": "client"
+  },
+  {
+    "tag": "universal",
+    "count": 37,
+    "category": "client"
+  },
+  {
     "tag": "naiveproxy",
     "count": 36,
     "category": "router"
@@ -228,16 +238,6 @@
     "tag": "go-gost",
     "count": 36,
     "category": "core"
-  },
-  {
-    "tag": "hiddify",
-    "count": 35,
-    "category": "client"
-  },
-  {
-    "tag": "universal",
-    "count": 35,
-    "category": "client"
   },
   {
     "tag": "WireGuard",

@@ -1,10 +1,10 @@
 {
-  "totalItems": 2209,
-  "last24h": 4,
-  "last7d": 57,
+  "totalItems": 2211,
+  "last24h": 6,
+  "last7d": 59,
   "byCategory": {
     "core": 326,
-    "client": 337,
+    "client": 339,
     "router": 34,
     "protocol": 57,
     "dns_rules": 451,
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "release",
-      "count": 1022
+      "count": 1024
     },
     {
       "tag": "geosite",
@@ -93,7 +93,7 @@
     },
     {
       "tag": "sing-box",
-      "count": 123
+      "count": 125
     },
     {
       "tag": "x-ui",
@@ -136,8 +136,8 @@
       "count": 88
     }
   ],
-  "importantCount": 1053,
+  "importantCount": 1055,
   "breakingCount": 109,
   "securityCount": 192,
-  "updatedAt": "2026-11-17T16:09:40.768Z"
+  "updatedAt": "2026-11-17T21:00:00.822Z"
 }
