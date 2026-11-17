@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 1021,
-    "category": "router"
+    "count": 1022,
+    "category": "client"
   },
   {
     "tag": "geosite",
@@ -46,7 +46,7 @@
   },
   {
     "tag": "sing-box",
-    "count": 122,
+    "count": 123,
     "category": "client"
   },
   {
@@ -231,12 +231,12 @@
   },
   {
     "tag": "hiddify",
-    "count": 34,
+    "count": 35,
     "category": "client"
   },
   {
     "tag": "universal",
-    "count": 34,
+    "count": 35,
     "category": "client"
   },
   {
