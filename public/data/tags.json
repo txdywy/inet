@@ -1,12 +1,12 @@
 [
   {
     "tag": "release",
-    "count": 1033,
+    "count": 1037,
     "category": "dns_rules"
   },
   {
     "tag": "geosite",
-    "count": 431,
+    "count": 434,
     "category": "dns_rules"
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "tag": "domain-list",
-    "count": 274,
+    "count": 277,
     "category": "dns_rules"
   },
   {
@@ -280,24 +280,24 @@
     "category": "ecosystem"
   },
   {
-    "tag": "snell",
-    "count": 30,
-    "category": "ecosystem"
-  },
-  {
     "tag": "v2raya",
-    "count": 30,
+    "count": 31,
     "category": "client"
   },
   {
     "tag": "web",
-    "count": 30,
+    "count": 31,
     "category": "client"
   },
   {
     "tag": "transparent-proxy",
-    "count": 30,
+    "count": 31,
     "category": "client"
+  },
+  {
+    "tag": "snell",
+    "count": 30,
+    "category": "ecosystem"
   },
   {
     "tag": "v2ray-agent",

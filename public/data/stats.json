@@ -1,13 +1,13 @@
 {
-  "totalItems": 2220,
-  "last24h": 11,
-  "last7d": 61,
+  "totalItems": 2224,
+  "last24h": 14,
+  "last7d": 64,
   "byCategory": {
     "core": 327,
-    "client": 340,
+    "client": 341,
     "router": 34,
     "protocol": 57,
-    "dns_rules": 455,
+    "dns_rules": 458,
     "security": 138,
     "ecosystem": 869,
     "trend": 0
@@ -15,7 +15,7 @@
   "topProjects": [
     {
       "project": "domain-list-community",
-      "count": 404
+      "count": 407
     },
     {
       "project": "mihomo",
@@ -57,11 +57,11 @@
   "hotTags": [
     {
       "tag": "release",
-      "count": 1033
+      "count": 1037
     },
     {
       "tag": "geosite",
-      "count": 431
+      "count": 434
     },
     {
       "tag": "mihomo",
@@ -73,7 +73,7 @@
     },
     {
       "tag": "domain-list",
-      "count": 274
+      "count": 277
     },
     {
       "tag": "ruleset",
@@ -136,8 +136,8 @@
       "count": 88
     }
   ],
-  "importantCount": 1062,
+  "importantCount": 1065,
   "breakingCount": 111,
   "securityCount": 192,
-  "updatedAt": "2026-11-18T07:37:23.834Z"
+  "updatedAt": "2026-11-18T15:46:58.714Z"
 }
