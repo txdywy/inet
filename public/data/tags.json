@@ -1,18 +1,18 @@
 [
   {
     "tag": "release",
-    "count": 1031,
-    "category": "client"
+    "count": 1033,
+    "category": "dns_rules"
   },
   {
     "tag": "geosite",
-    "count": 430,
+    "count": 431,
     "category": "dns_rules"
   },
   {
     "tag": "mihomo",
-    "count": 403,
-    "category": "client"
+    "count": 405,
+    "category": "dns_rules"
   },
   {
     "tag": "MetaCubeX",
@@ -26,12 +26,12 @@
   },
   {
     "tag": "ruleset",
-    "count": 224,
+    "count": 225,
     "category": "dns_rules"
   },
   {
     "tag": "geoip",
-    "count": 224,
+    "count": 225,
     "category": "dns_rules"
   },
   {
@@ -51,7 +51,7 @@
   },
   {
     "tag": "clash",
-    "count": 122,
+    "count": 123,
     "category": "client"
   },
   {
@@ -86,12 +86,12 @@
   },
   {
     "tag": "meta",
-    "count": 90,
+    "count": 91,
     "category": "security"
   },
   {
     "tag": "xhttp",
-    "count": 89,
+    "count": 90,
     "category": "ecosystem"
   },
   {
@@ -145,14 +145,14 @@
     "category": "core"
   },
   {
+    "tag": "ech",
+    "count": 67,
+    "category": "dns_rules"
+  },
+  {
     "tag": "rules",
     "count": 67,
     "category": "ecosystem"
-  },
-  {
-    "tag": "ech",
-    "count": 66,
-    "category": "dns_rules"
   },
   {
     "tag": "wireguard",
@@ -280,6 +280,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "snell",
+    "count": 30,
+    "category": "ecosystem"
+  },
+  {
     "tag": "v2raya",
     "count": 30,
     "category": "client"
@@ -303,11 +308,6 @@
     "tag": "Tailscale",
     "count": 30,
     "category": "core"
-  },
-  {
-    "tag": "snell",
-    "count": 29,
-    "category": "ecosystem"
   },
   {
     "tag": "v2rayN",
