@@ -1,21 +1,21 @@
 {
-  "totalItems": 2211,
-  "last24h": 6,
-  "last7d": 59,
+  "totalItems": 2218,
+  "last24h": 12,
+  "last7d": 64,
   "byCategory": {
     "core": 326,
-    "client": 339,
+    "client": 340,
     "router": 34,
     "protocol": 57,
-    "dns_rules": 451,
+    "dns_rules": 454,
     "security": 138,
-    "ecosystem": 866,
+    "ecosystem": 869,
     "trend": 0
   },
   "topProjects": [
     {
       "project": "domain-list-community",
-      "count": 402
+      "count": 404
     },
     {
       "project": "mihomo",
@@ -23,7 +23,7 @@
     },
     {
       "project": "v2ray-rules-dat",
-      "count": 204
+      "count": 205
     },
     {
       "project": "3x-ui",
@@ -39,7 +39,7 @@
     },
     {
       "project": "metacubexd",
-      "count": 98
+      "count": 101
     },
     {
       "project": "sing-box",
@@ -51,21 +51,21 @@
     },
     {
       "project": "ClashMetaForAndroid",
-      "count": 48
+      "count": 49
     }
   ],
   "hotTags": [
     {
       "tag": "release",
-      "count": 1024
+      "count": 1031
     },
     {
       "tag": "geosite",
-      "count": 427
+      "count": 430
     },
     {
       "tag": "mihomo",
-      "count": 399
+      "count": 403
     },
     {
       "tag": "MetaCubeX",
@@ -73,15 +73,15 @@
     },
     {
       "tag": "domain-list",
-      "count": 272
+      "count": 274
     },
     {
       "tag": "ruleset",
-      "count": 223
+      "count": 224
     },
     {
       "tag": "geoip",
-      "count": 223
+      "count": 224
     },
     {
       "tag": "v2fly",
@@ -96,16 +96,16 @@
       "count": 125
     },
     {
+      "tag": "clash",
+      "count": 122
+    },
+    {
       "tag": "x-ui",
       "count": 121
     },
     {
       "tag": "panel",
       "count": 121
-    },
-    {
-      "tag": "clash",
-      "count": 118
     },
     {
       "tag": "Sub-Store",
@@ -136,8 +136,8 @@
       "count": 88
     }
   ],
-  "importantCount": 1055,
-  "breakingCount": 109,
+  "importantCount": 1061,
+  "breakingCount": 111,
   "securityCount": 192,
-  "updatedAt": "2026-11-17T21:00:00.822Z"
+  "updatedAt": "2026-11-18T00:56:07.288Z"
 }

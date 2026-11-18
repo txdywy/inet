@@ -1,18 +1,18 @@
 [
   {
     "tag": "release",
-    "count": 1024,
+    "count": 1031,
     "category": "client"
   },
   {
     "tag": "geosite",
-    "count": 427,
+    "count": 430,
     "category": "dns_rules"
   },
   {
     "tag": "mihomo",
-    "count": 399,
-    "category": "dns_rules"
+    "count": 403,
+    "category": "client"
   },
   {
     "tag": "MetaCubeX",
@@ -21,17 +21,17 @@
   },
   {
     "tag": "domain-list",
-    "count": 272,
+    "count": 274,
     "category": "dns_rules"
   },
   {
     "tag": "ruleset",
-    "count": 223,
+    "count": 224,
     "category": "dns_rules"
   },
   {
     "tag": "geoip",
-    "count": 223,
+    "count": 224,
     "category": "dns_rules"
   },
   {
@@ -50,6 +50,11 @@
     "category": "client"
   },
   {
+    "tag": "clash",
+    "count": 122,
+    "category": "client"
+  },
+  {
     "tag": "x-ui",
     "count": 121,
     "category": "security"
@@ -57,11 +62,6 @@
   {
     "tag": "panel",
     "count": 121,
-    "category": "security"
-  },
-  {
-    "tag": "clash",
-    "count": 118,
     "category": "security"
   },
   {
@@ -260,6 +260,11 @@
     "category": "core"
   },
   {
+    "tag": "android",
+    "count": 32,
+    "category": "client"
+  },
+  {
     "tag": "reality",
     "count": 32,
     "category": "security"
@@ -273,11 +278,6 @@
     "tag": "自动构建",
     "count": 32,
     "category": "ecosystem"
-  },
-  {
-    "tag": "android",
-    "count": 31,
-    "category": "security"
   },
   {
     "tag": "v2raya",
@@ -490,6 +490,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "dashboard",
+    "count": 15,
+    "category": "ecosystem"
+  },
+  {
     "tag": "xray",
     "count": 15,
     "category": "security"
@@ -541,11 +546,6 @@
   },
   {
     "tag": "tailscale",
-    "count": 12,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "dashboard",
     "count": 12,
     "category": "ecosystem"
   },
