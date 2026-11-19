@@ -1,5 +1,41 @@
 [
   {
+    "id": "53d7b9818e0d83b7",
+    "title": "Loyalsoldier/v2ray-rules-dat Released on 202611182204",
+    "summary": "Released on 202611182204",
+    "rawTitle": "Released on 202611182204",
+    "rawBody": "",
+    "sourceType": "github_release",
+    "sourceName": "Loyalsoldier/v2ray-rules-dat",
+    "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/tag/202611182204",
+    "project": "v2ray-rules-dat",
+    "repo": "Loyalsoldier/v2ray-rules-dat",
+    "slug": "v2ray-rules-dat",
+    "version": "202611182204",
+    "category": "dns_rules",
+    "tags": [
+      "ruleset",
+      "geosite",
+      "geoip",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-11-18T22:04:50Z",
+    "fetchedAt": "2026-11-19T00:19:25.832Z",
+    "firstSeenAt": "2026-11-19T00:19:27.840Z",
+    "updatedAt": "2026-11-19T00:19:27.840Z",
+    "hash": "53d7b9818e0d83b7"
+  },
+  {
     "id": "8feb4b44379b41fe",
     "title": "v2fly/domain-list-community 20261118141523",
     "summary": "20261118141523",

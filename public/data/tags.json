@@ -1,12 +1,12 @@
 [
   {
     "tag": "release",
-    "count": 1037,
+    "count": 1038,
     "category": "dns_rules"
   },
   {
     "tag": "geosite",
-    "count": 434,
+    "count": 435,
     "category": "dns_rules"
   },
   {
@@ -26,12 +26,12 @@
   },
   {
     "tag": "ruleset",
-    "count": 225,
+    "count": 226,
     "category": "dns_rules"
   },
   {
     "tag": "geoip",
-    "count": 225,
+    "count": 226,
     "category": "dns_rules"
   },
   {
