@@ -1,5 +1,43 @@
 [
   {
+    "id": "b455da2ba1b0e222",
+    "title": "sub-store-org/Sub-Store 2.44.20",
+    "summary": "2.44.20",
+    "rawTitle": "2.44.20",
+    "rawBody": "## <small>2.44.20 (2026-11-19)</small>\n\n* feat: Surge 支持 ech-config ([0b96a8f](https://github.com/sub-store-org/Sub-Store/commit/0b96a8f))\n",
+    "sourceType": "github_release",
+    "sourceName": "sub-store-org/Sub-Store",
+    "sourceUrl": "https://github.com/sub-store-org/Sub-Store/releases/tag/2.44.20",
+    "project": "Sub-Store",
+    "repo": "sub-store-org/Sub-Store",
+    "slug": "sub-store",
+    "version": "2.44.20",
+    "category": "ecosystem",
+    "tags": [
+      "sub-store",
+      "subscription",
+      "ech",
+      "release"
+    ],
+    "platforms": [
+      "ios",
+      "android",
+      "macos",
+      "windows",
+      "linux"
+    ],
+    "importance": 4,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2026-11-19T16:21:40Z",
+    "fetchedAt": "2026-11-19T20:43:12.736Z",
+    "firstSeenAt": "2026-11-19T20:43:16.023Z",
+    "updatedAt": "2026-11-19T20:43:16.023Z",
+    "hash": "b455da2ba1b0e222"
+  },
+  {
     "id": "d51330dcdd8ae578",
     "title": "sub-store-org/Sub-Store 2.44.19",
     "summary": "2.44.19",

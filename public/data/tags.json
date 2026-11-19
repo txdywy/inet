@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 1044,
-    "category": "security"
+    "count": 1045,
+    "category": "ecosystem"
   },
   {
     "tag": "geosite",
@@ -121,13 +121,13 @@
   },
   {
     "tag": "sub-store",
-    "count": 73,
-    "category": "security"
+    "count": 74,
+    "category": "ecosystem"
   },
   {
     "tag": "subscription",
-    "count": 73,
-    "category": "security"
+    "count": 74,
+    "category": "ecosystem"
   },
   {
     "tag": "网络代理",
@@ -140,14 +140,14 @@
     "category": "core"
   },
   {
+    "tag": "ech",
+    "count": 68,
+    "category": "ecosystem"
+  },
+  {
     "tag": "quic",
     "count": 67,
     "category": "core"
-  },
-  {
-    "tag": "ech",
-    "count": 67,
-    "category": "dns_rules"
   },
   {
     "tag": "rules",
