@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 1039,
-    "category": "dns_rules"
+    "count": 1044,
+    "category": "security"
   },
   {
     "tag": "geosite",
@@ -46,7 +46,7 @@
   },
   {
     "tag": "sing-box",
-    "count": 125,
+    "count": 127,
     "category": "client"
   },
   {
@@ -81,18 +81,18 @@
   },
   {
     "tag": "vless",
-    "count": 96,
+    "count": 97,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "xhttp",
+    "count": 91,
     "category": "ecosystem"
   },
   {
     "tag": "meta",
     "count": 91,
     "category": "security"
-  },
-  {
-    "tag": "xhttp",
-    "count": 90,
-    "category": "ecosystem"
   },
   {
     "tag": "meta-rules-dat",
@@ -120,18 +120,18 @@
     "category": "protocol"
   },
   {
-    "tag": "网络代理",
-    "count": 71,
-    "category": "ecosystem"
-  },
-  {
     "tag": "sub-store",
-    "count": 70,
-    "category": "ecosystem"
+    "count": 73,
+    "category": "security"
   },
   {
     "tag": "subscription",
-    "count": 70,
+    "count": 73,
+    "category": "security"
+  },
+  {
+    "tag": "网络代理",
+    "count": 71,
     "category": "ecosystem"
   },
   {
@@ -205,6 +205,16 @@
     "category": "core"
   },
   {
+    "tag": "hiddify",
+    "count": 39,
+    "category": "client"
+  },
+  {
+    "tag": "universal",
+    "count": 39,
+    "category": "client"
+  },
+  {
     "tag": "openwrt",
     "count": 39,
     "category": "router"
@@ -217,16 +227,6 @@
   {
     "tag": "Windows",
     "count": 38,
-    "category": "client"
-  },
-  {
-    "tag": "hiddify",
-    "count": 37,
-    "category": "client"
-  },
-  {
-    "tag": "universal",
-    "count": 37,
     "category": "client"
   },
   {
@@ -280,6 +280,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "snell",
+    "count": 31,
+    "category": "ecosystem"
+  },
+  {
     "tag": "v2raya",
     "count": 31,
     "category": "client"
@@ -293,11 +298,6 @@
     "tag": "transparent-proxy",
     "count": 31,
     "category": "client"
-  },
-  {
-    "tag": "snell",
-    "count": 30,
-    "category": "ecosystem"
   },
   {
     "tag": "v2ray-agent",

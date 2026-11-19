@@ -1,15 +1,15 @@
 {
-  "totalItems": 2226,
-  "last24h": 6,
-  "last7d": 62,
+  "totalItems": 2231,
+  "last24h": 7,
+  "last7d": 66,
   "byCategory": {
     "core": 327,
-    "client": 341,
+    "client": 343,
     "router": 34,
     "protocol": 57,
     "dns_rules": 460,
-    "security": 138,
-    "ecosystem": 869,
+    "security": 139,
+    "ecosystem": 871,
     "trend": 0
   },
   "topProjects": [
@@ -35,7 +35,7 @@
     },
     {
       "project": "Sub-Store",
-      "count": 187
+      "count": 190
     },
     {
       "project": "metacubexd",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "release",
-      "count": 1039
+      "count": 1044
     },
     {
       "tag": "geosite",
@@ -93,7 +93,7 @@
     },
     {
       "tag": "sing-box",
-      "count": 125
+      "count": 127
     },
     {
       "tag": "clash",
@@ -121,23 +121,23 @@
     },
     {
       "tag": "vless",
-      "count": 96
+      "count": 97
+    },
+    {
+      "tag": "xhttp",
+      "count": 91
     },
     {
       "tag": "meta",
       "count": 91
     },
     {
-      "tag": "xhttp",
-      "count": 90
-    },
-    {
       "tag": "meta-rules-dat",
       "count": 88
     }
   ],
-  "importantCount": 1067,
+  "importantCount": 1072,
   "breakingCount": 111,
-  "securityCount": 192,
-  "updatedAt": "2026-11-19T07:33:19.513Z"
+  "securityCount": 193,
+  "updatedAt": "2026-11-19T15:51:48.622Z"
 }
