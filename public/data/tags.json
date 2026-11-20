@@ -1,12 +1,12 @@
 [
   {
     "tag": "release",
-    "count": 1050,
-    "category": "client"
+    "count": 1053,
+    "category": "dns_rules"
   },
   {
     "tag": "geosite",
-    "count": 438,
+    "count": 441,
     "category": "dns_rules"
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "tag": "domain-list",
-    "count": 277,
+    "count": 280,
     "category": "dns_rules"
   },
   {
@@ -130,13 +130,13 @@
     "category": "ecosystem"
   },
   {
-    "tag": "网络代理",
+    "tag": "ech",
     "count": 71,
-    "category": "ecosystem"
+    "category": "dns_rules"
   },
   {
-    "tag": "ech",
-    "count": 70,
+    "tag": "网络代理",
+    "count": 71,
     "category": "ecosystem"
   },
   {
