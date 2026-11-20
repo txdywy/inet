@@ -1,18 +1,18 @@
 [
   {
     "tag": "release",
-    "count": 1047,
-    "category": "dns_rules"
+    "count": 1050,
+    "category": "client"
   },
   {
     "tag": "geosite",
-    "count": 437,
+    "count": 438,
     "category": "dns_rules"
   },
   {
     "tag": "mihomo",
-    "count": 407,
-    "category": "dns_rules"
+    "count": 410,
+    "category": "client"
   },
   {
     "tag": "MetaCubeX",
@@ -26,12 +26,12 @@
   },
   {
     "tag": "ruleset",
-    "count": 228,
+    "count": 229,
     "category": "dns_rules"
   },
   {
     "tag": "geoip",
-    "count": 228,
+    "count": 229,
     "category": "dns_rules"
   },
   {
@@ -51,7 +51,7 @@
   },
   {
     "tag": "clash",
-    "count": 124,
+    "count": 125,
     "category": "client"
   },
   {
@@ -86,12 +86,12 @@
   },
   {
     "tag": "xhttp",
-    "count": 92,
+    "count": 93,
     "category": "ecosystem"
   },
   {
     "tag": "meta",
-    "count": 92,
+    "count": 93,
     "category": "security"
   },
   {
@@ -136,7 +136,7 @@
   },
   {
     "tag": "ech",
-    "count": 69,
+    "count": 70,
     "category": "ecosystem"
   },
   {
@@ -250,6 +250,16 @@
     "category": "client"
   },
   {
+    "tag": "reality",
+    "count": 33,
+    "category": "client"
+  },
+  {
+    "tag": "snell",
+    "count": 33,
+    "category": "ecosystem"
+  },
+  {
     "tag": "Snell",
     "count": 33,
     "category": "protocol"
@@ -260,19 +270,9 @@
     "category": "core"
   },
   {
-    "tag": "snell",
-    "count": 32,
-    "category": "ecosystem"
-  },
-  {
     "tag": "android",
     "count": 32,
     "category": "client"
-  },
-  {
-    "tag": "reality",
-    "count": 32,
-    "category": "security"
   },
   {
     "tag": "sudoku",
@@ -435,6 +435,11 @@
     "category": "core"
   },
   {
+    "tag": "desktop",
+    "count": 17,
+    "category": "client"
+  },
+  {
     "tag": "v2rayng",
     "count": 17,
     "category": "security"
@@ -457,11 +462,6 @@
   {
     "tag": "TLSAuth",
     "count": 17,
-    "category": "client"
-  },
-  {
-    "tag": "desktop",
-    "count": 16,
     "category": "client"
   },
   {
@@ -570,6 +570,11 @@
     "category": "core"
   },
   {
+    "tag": "mihomo-party",
+    "count": 11,
+    "category": "client"
+  },
+  {
     "tag": "mesh",
     "count": 11,
     "category": "ecosystem"
@@ -607,11 +612,6 @@
   {
     "tag": "用户体验",
     "count": 11,
-    "category": "client"
-  },
-  {
-    "tag": "mihomo-party",
-    "count": 10,
     "category": "client"
   },
   {
