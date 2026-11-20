@@ -1,17 +1,17 @@
 [
   {
     "tag": "release",
-    "count": 1045,
-    "category": "ecosystem"
+    "count": 1047,
+    "category": "dns_rules"
   },
   {
     "tag": "geosite",
-    "count": 436,
+    "count": 437,
     "category": "dns_rules"
   },
   {
     "tag": "mihomo",
-    "count": 406,
+    "count": 407,
     "category": "dns_rules"
   },
   {
@@ -26,12 +26,12 @@
   },
   {
     "tag": "ruleset",
-    "count": 227,
+    "count": 228,
     "category": "dns_rules"
   },
   {
     "tag": "geoip",
-    "count": 227,
+    "count": 228,
     "category": "dns_rules"
   },
   {
@@ -51,7 +51,7 @@
   },
   {
     "tag": "clash",
-    "count": 123,
+    "count": 124,
     "category": "client"
   },
   {
@@ -86,12 +86,12 @@
   },
   {
     "tag": "xhttp",
-    "count": 91,
+    "count": 92,
     "category": "ecosystem"
   },
   {
     "tag": "meta",
-    "count": 91,
+    "count": 92,
     "category": "security"
   },
   {
@@ -135,14 +135,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "ech",
+    "count": 69,
+    "category": "ecosystem"
+  },
+  {
     "tag": "hysteria2",
     "count": 69,
     "category": "core"
-  },
-  {
-    "tag": "ech",
-    "count": 68,
-    "category": "ecosystem"
   },
   {
     "tag": "quic",
@@ -260,6 +260,11 @@
     "category": "core"
   },
   {
+    "tag": "snell",
+    "count": 32,
+    "category": "ecosystem"
+  },
+  {
     "tag": "android",
     "count": 32,
     "category": "client"
@@ -277,11 +282,6 @@
   {
     "tag": "自动构建",
     "count": 32,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "snell",
-    "count": 31,
     "category": "ecosystem"
   },
   {

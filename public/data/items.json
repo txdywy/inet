@@ -1,5 +1,41 @@
 [
   {
+    "id": "824de32c02733cf3",
+    "title": "Loyalsoldier/v2ray-rules-dat Released on 202611192204",
+    "summary": "Released on 202611192204",
+    "rawTitle": "Released on 202611192204",
+    "rawBody": "",
+    "sourceType": "github_release",
+    "sourceName": "Loyalsoldier/v2ray-rules-dat",
+    "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/tag/202611192204",
+    "project": "v2ray-rules-dat",
+    "repo": "Loyalsoldier/v2ray-rules-dat",
+    "slug": "v2ray-rules-dat",
+    "version": "202611192204",
+    "category": "dns_rules",
+    "tags": [
+      "ruleset",
+      "geosite",
+      "geoip",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-11-19T22:04:58Z",
+    "fetchedAt": "2026-11-20T00:35:38.871Z",
+    "firstSeenAt": "2026-11-20T00:35:41.705Z",
+    "updatedAt": "2026-11-20T00:35:41.705Z",
+    "hash": "824de32c02733cf3"
+  },
+  {
     "id": "b455da2ba1b0e222",
     "title": "sub-store-org/Sub-Store 2.44.20",
     "summary": "2.44.20",
@@ -68568,6 +68604,45 @@
     "firstSeenAt": "2026-05-07T04:09:04.362Z",
     "updatedAt": "2026-05-07T04:09:04.362Z",
     "hash": "5e6adb84fbb7f312"
+  },
+  {
+    "id": "dc9065115d3053d1",
+    "title": "MetaCubeX/mihomo Prerelease-Alpha",
+    "summary": "Prerelease-Alpha",
+    "rawTitle": "Prerelease-Alpha",
+    "rawBody": "Release created at  Fri Nov 20 08:14:43 CST 2026\nSynchronize Alpha branch code updates, keeping only the latest version\n<br>\n[我应该下载哪个文件? / Which file should I download?](https://github.com/MetaCubeX/mihomo/wiki/FAQ)\n[二进制文件筛选 / Binary file selector](https://metacubex.github.io/Meta-Docs/startup/#_1)\n[查看文档 / Docs](https://metacubex.github.io/Meta-Docs/)\n\n\n## What's Changed\n* fix: use correct format verb for subscription-userinfo parse errors by @AaronChen0 in https://github.com/MetaCubeX/mihomo/pull/3455\n* feat(snell): support optional userkey for Snell v6 outbound by @CatMsg in https://github.com/MetaCubeX/mihomo/pull/3460\n* fix(xhttp): skip expired entries when picking reusable connections by @echoowall in https://github.com/MetaCubeX/mihomo/pull/3479\n* feat: allow disable redir-host mapping in fake-ip mode by @i40e in https://github.com/MetaCubeX/mihomo/pull/3496\n\n## New Contributors\n* @CatMsg made their first contribution in https://github.com/MetaCubeX/mihomo/pull/3460\n* @echoowall made their first contribution in https://github.com/MetaCubeX/mihomo/pull/3479\n* @i40e made their first contribution in https://github.com/MetaCubeX/mihomo/pull/3496\n\n**Full Changelog**: https://github.com/MetaCubeX/mihomo/compare/v1.19.34...Prerelease-Alpha",
+    "sourceType": "github_release",
+    "sourceName": "MetaCubeX/mihomo",
+    "sourceUrl": "https://github.com/MetaCubeX/mihomo/releases/tag/Prerelease-Alpha",
+    "project": "mihomo",
+    "repo": "MetaCubeX/mihomo",
+    "slug": "mihomo",
+    "version": "Prerelease-Alpha",
+    "category": "core",
+    "tags": [
+      "mihomo",
+      "clash",
+      "meta",
+      "xhttp",
+      "ech",
+      "snell",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 2,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2024-08-12T17:01:02Z",
+    "fetchedAt": "2026-11-20T00:35:27.068Z",
+    "firstSeenAt": "2026-11-20T00:35:40.891Z",
+    "updatedAt": "2026-11-20T00:35:40.891Z",
+    "hash": "dc9065115d3053d1"
   },
   {
     "id": "a5ea680acd86bb4a",
