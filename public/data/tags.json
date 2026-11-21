@@ -1,18 +1,18 @@
 [
   {
     "tag": "release",
-    "count": 1054,
+    "count": 1058,
     "category": "dns_rules"
   },
   {
     "tag": "geosite",
-    "count": 442,
+    "count": 444,
     "category": "dns_rules"
   },
   {
     "tag": "mihomo",
-    "count": 410,
-    "category": "client"
+    "count": 411,
+    "category": "dns_rules"
   },
   {
     "tag": "MetaCubeX",
@@ -21,17 +21,17 @@
   },
   {
     "tag": "domain-list",
-    "count": 280,
+    "count": 281,
     "category": "dns_rules"
   },
   {
     "tag": "ruleset",
-    "count": 230,
+    "count": 231,
     "category": "dns_rules"
   },
   {
     "tag": "geoip",
-    "count": 230,
+    "count": 231,
     "category": "dns_rules"
   },
   {
@@ -41,8 +41,8 @@
   },
   {
     "tag": "xray-core",
-    "count": 173,
-    "category": "security"
+    "count": 174,
+    "category": "client"
   },
   {
     "tag": "sing-box",
@@ -525,6 +525,16 @@
     "category": "core"
   },
   {
+    "tag": "v2rayn",
+    "count": 13,
+    "category": "client"
+  },
+  {
+    "tag": "windows",
+    "count": 13,
+    "category": "client"
+  },
+  {
     "tag": "v2ray-core",
     "count": 13,
     "category": "security"
@@ -553,16 +563,6 @@
     "tag": "clash-verge",
     "count": 12,
     "category": "client"
-  },
-  {
-    "tag": "v2rayn",
-    "count": 12,
-    "category": "security"
-  },
-  {
-    "tag": "windows",
-    "count": 12,
-    "category": "security"
   },
   {
     "tag": "HTTP",
@@ -615,6 +615,11 @@
     "category": "client"
   },
   {
+    "tag": "dae",
+    "count": 10,
+    "category": "core"
+  },
+  {
     "tag": "API",
     "count": 10,
     "category": "ecosystem"
@@ -630,9 +635,9 @@
     "category": "ecosystem"
   },
   {
-    "tag": "dae",
+    "tag": "warp",
     "count": 9,
-    "category": "core"
+    "category": "client"
   },
   {
     "tag": "vision",
@@ -683,11 +688,6 @@
     "tag": "CBC",
     "count": 9,
     "category": "ecosystem"
-  },
-  {
-    "tag": "warp",
-    "count": 8,
-    "category": "security"
   },
   {
     "tag": "更新",
@@ -935,6 +935,16 @@
     "category": "ecosystem"
   },
   {
+    "tag": "ebpf",
+    "count": 4,
+    "category": "core"
+  },
+  {
+    "tag": "linux",
+    "count": 4,
+    "category": "core"
+  },
+  {
     "tag": "obfuscation",
     "count": 4,
     "category": "security"
@@ -1058,16 +1068,6 @@
     "tag": "nekoray",
     "count": 4,
     "category": "client"
-  },
-  {
-    "tag": "ebpf",
-    "count": 3,
-    "category": "core"
-  },
-  {
-    "tag": "linux",
-    "count": 3,
-    "category": "core"
   },
   {
     "tag": "http/3",
