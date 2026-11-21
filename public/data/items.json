@@ -1,5 +1,39 @@
 [
   {
+    "id": "260a3f31a319e417",
+    "title": "MetaCubeX/metacubexd v1.276.0",
+    "summary": "v1.276.0",
+    "rawTitle": "v1.276.0",
+    "rawBody": "## [1.276.0](https://github.com/MetaCubeX/metacubexd/compare/v1.275.2...v1.276.0) (2026-11-21)\n\n\n### Features\n\n* **ui:** add InternetData as an IP info provider ([#2261](https://github.com/MetaCubeX/metacubexd/issues/2261)) ([97b922d](https://github.com/MetaCubeX/metacubexd/commit/97b922d42ed489896e1935e7255913fdf962c7bd))\n\n\n### Bug Fixes\n\n* **ui:** keep Twemoji flags when a custom font is selected ([#2268](https://github.com/MetaCubeX/metacubexd/issues/2268)) ([dd27ccf](https://github.com/MetaCubeX/metacubexd/commit/dd27ccf8f5f4cc5899437bc84f24de4588559f06))",
+    "sourceType": "github_release",
+    "sourceName": "MetaCubeX/metacubexd",
+    "sourceUrl": "https://github.com/MetaCubeX/metacubexd/releases/tag/v1.276.0",
+    "project": "metacubexd",
+    "repo": "MetaCubeX/metacubexd",
+    "slug": "metacubexd",
+    "version": "1.276.0",
+    "category": "ecosystem",
+    "tags": [
+      "dashboard",
+      "mihomo",
+      "clash",
+      "release"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-11-21T14:54:24Z",
+    "fetchedAt": "2026-11-21T19:21:23.292Z",
+    "firstSeenAt": "2026-11-21T19:21:25.205Z",
+    "updatedAt": "2026-11-21T19:21:25.205Z",
+    "hash": "260a3f31a319e417"
+  },
+  {
     "id": "358efc142591a211",
     "title": "v2fly/domain-list-community 20261121130529",
     "summary": "20261121130529",

@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 1063,
-    "category": "dns_rules"
+    "count": 1064,
+    "category": "ecosystem"
   },
   {
     "tag": "geosite",
@@ -11,8 +11,8 @@
   },
   {
     "tag": "mihomo",
-    "count": 411,
-    "category": "dns_rules"
+    "count": 412,
+    "category": "ecosystem"
   },
   {
     "tag": "MetaCubeX",
@@ -51,8 +51,8 @@
   },
   {
     "tag": "clash",
-    "count": 125,
-    "category": "client"
+    "count": 126,
+    "category": "ecosystem"
   },
   {
     "tag": "x-ui",
@@ -465,6 +465,11 @@
     "category": "client"
   },
   {
+    "tag": "dashboard",
+    "count": 16,
+    "category": "ecosystem"
+  },
+  {
     "tag": "mosdns",
     "count": 16,
     "category": "router"
@@ -487,11 +492,6 @@
   {
     "tag": "Alpha",
     "count": 16,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "dashboard",
-    "count": 15,
     "category": "ecosystem"
   },
   {
