@@ -1,5 +1,41 @@
 [
   {
+    "id": "88e6d14837264c4d",
+    "title": "Loyalsoldier/v2ray-rules-dat Released on 202611212204",
+    "summary": "Released on 202611212204",
+    "rawTitle": "Released on 202611212204",
+    "rawBody": "",
+    "sourceType": "github_release",
+    "sourceName": "Loyalsoldier/v2ray-rules-dat",
+    "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/tag/202611212204",
+    "project": "v2ray-rules-dat",
+    "repo": "Loyalsoldier/v2ray-rules-dat",
+    "slug": "v2ray-rules-dat",
+    "version": "202611212204",
+    "category": "dns_rules",
+    "tags": [
+      "ruleset",
+      "geosite",
+      "geoip",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-11-21T22:04:56Z",
+    "fetchedAt": "2026-11-21T23:09:55.795Z",
+    "firstSeenAt": "2026-11-21T23:09:57.757Z",
+    "updatedAt": "2026-11-21T23:09:57.757Z",
+    "hash": "88e6d14837264c4d"
+  },
+  {
     "id": "260a3f31a319e417",
     "title": "MetaCubeX/metacubexd v1.276.0",
     "summary": "v1.276.0",

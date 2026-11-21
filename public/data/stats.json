@@ -1,5 +1,5 @@
 {
-  "totalItems": 2251,
+  "totalItems": 2252,
   "last24h": 11,
   "last7d": 63,
   "byCategory": {
@@ -7,7 +7,7 @@
     "client": 345,
     "router": 34,
     "protocol": 57,
-    "dns_rules": 470,
+    "dns_rules": 471,
     "security": 139,
     "ecosystem": 876,
     "trend": 0
@@ -23,7 +23,7 @@
     },
     {
       "project": "v2ray-rules-dat",
-      "count": 208
+      "count": 209
     },
     {
       "project": "3x-ui",
@@ -57,11 +57,11 @@
   "hotTags": [
     {
       "tag": "release",
-      "count": 1064
+      "count": 1065
     },
     {
       "tag": "geosite",
-      "count": 446
+      "count": 447
     },
     {
       "tag": "mihomo",
@@ -77,11 +77,11 @@
     },
     {
       "tag": "ruleset",
-      "count": 231
+      "count": 232
     },
     {
       "tag": "geoip",
-      "count": 231
+      "count": 232
     },
     {
       "tag": "v2fly",
@@ -136,8 +136,8 @@
       "count": 88
     }
   ],
-  "importantCount": 1089,
+  "importantCount": 1090,
   "breakingCount": 112,
   "securityCount": 193,
-  "updatedAt": "2026-11-21T19:21:25.585Z"
+  "updatedAt": "2026-11-21T23:09:58.212Z"
 }
