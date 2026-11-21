@@ -1,12 +1,12 @@
 [
   {
     "tag": "release",
-    "count": 1058,
+    "count": 1063,
     "category": "dns_rules"
   },
   {
     "tag": "geosite",
-    "count": 444,
+    "count": 446,
     "category": "dns_rules"
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "tag": "domain-list",
-    "count": 281,
+    "count": 283,
     "category": "dns_rules"
   },
   {
@@ -81,7 +81,7 @@
   },
   {
     "tag": "vless",
-    "count": 97,
+    "count": 98,
     "category": "ecosystem"
   },
   {
@@ -121,12 +121,12 @@
   },
   {
     "tag": "sub-store",
-    "count": 74,
+    "count": 77,
     "category": "ecosystem"
   },
   {
     "tag": "subscription",
-    "count": 74,
+    "count": 77,
     "category": "ecosystem"
   },
   {
