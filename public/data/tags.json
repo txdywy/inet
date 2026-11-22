@@ -1,7 +1,7 @@
 [
   {
     "tag": "release",
-    "count": 1071,
+    "count": 1072,
     "category": "ecosystem"
   },
   {
@@ -46,7 +46,7 @@
   },
   {
     "tag": "sing-box",
-    "count": 127,
+    "count": 128,
     "category": "client"
   },
   {
@@ -81,12 +81,12 @@
   },
   {
     "tag": "vless",
-    "count": 98,
+    "count": 99,
     "category": "ecosystem"
   },
   {
     "tag": "xhttp",
-    "count": 93,
+    "count": 94,
     "category": "ecosystem"
   },
   {
@@ -131,7 +131,7 @@
   },
   {
     "tag": "ech",
-    "count": 71,
+    "count": 72,
     "category": "dns_rules"
   },
   {
@@ -146,8 +146,8 @@
   },
   {
     "tag": "quic",
-    "count": 67,
-    "category": "core"
+    "count": 68,
+    "category": "security"
   },
   {
     "tag": "rules",
@@ -156,8 +156,8 @@
   },
   {
     "tag": "wireguard",
-    "count": 61,
-    "category": "client"
+    "count": 62,
+    "category": "security"
   },
   {
     "tag": "开发版本",
@@ -206,12 +206,12 @@
   },
   {
     "tag": "hiddify",
-    "count": 39,
+    "count": 40,
     "category": "client"
   },
   {
     "tag": "universal",
-    "count": 39,
+    "count": 40,
     "category": "client"
   },
   {
@@ -240,6 +240,11 @@
     "category": "core"
   },
   {
+    "tag": "reality",
+    "count": 34,
+    "category": "client"
+  },
+  {
     "tag": "WireGuard",
     "count": 34,
     "category": "core"
@@ -247,11 +252,6 @@
   {
     "tag": "ClashMetaForAndroid",
     "count": 34,
-    "category": "client"
-  },
-  {
-    "tag": "reality",
-    "count": 33,
     "category": "client"
   },
   {
@@ -555,6 +555,11 @@
     "category": "client"
   },
   {
+    "tag": "amneziawg",
+    "count": 12,
+    "category": "security"
+  },
+  {
     "tag": "tailscale",
     "count": 12,
     "category": "ecosystem"
@@ -570,6 +575,11 @@
     "category": "core"
   },
   {
+    "tag": "warp",
+    "count": 11,
+    "category": "client"
+  },
+  {
     "tag": "mihomo-party",
     "count": 11,
     "category": "client"
@@ -578,11 +588,6 @@
     "tag": "mesh",
     "count": 11,
     "category": "ecosystem"
-  },
-  {
-    "tag": "amneziawg",
-    "count": 11,
-    "category": "security"
   },
   {
     "tag": "TUN",
@@ -612,11 +617,6 @@
   {
     "tag": "用户体验",
     "count": 11,
-    "category": "client"
-  },
-  {
-    "tag": "warp",
-    "count": 10,
     "category": "client"
   },
   {

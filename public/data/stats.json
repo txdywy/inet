@@ -1,14 +1,14 @@
 {
-  "totalItems": 2258,
-  "last24h": 8,
-  "last7d": 63,
+  "totalItems": 2259,
+  "last24h": 7,
+  "last7d": 57,
   "byCategory": {
     "core": 330,
     "client": 346,
     "router": 34,
     "protocol": 57,
     "dns_rules": 473,
-    "security": 139,
+    "security": 140,
     "ecosystem": 879,
     "trend": 0
   },
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "release",
-      "count": 1071
+      "count": 1072
     },
     {
       "tag": "geosite",
@@ -93,7 +93,7 @@
     },
     {
       "tag": "sing-box",
-      "count": 127
+      "count": 128
     },
     {
       "tag": "clash",
@@ -121,11 +121,11 @@
     },
     {
       "tag": "vless",
-      "count": 98
+      "count": 99
     },
     {
       "tag": "xhttp",
-      "count": 93
+      "count": 94
     },
     {
       "tag": "meta",
@@ -138,6 +138,6 @@
   ],
   "importantCount": 1096,
   "breakingCount": 112,
-  "securityCount": 193,
-  "updatedAt": "2026-11-22T14:41:21.799Z"
+  "securityCount": 194,
+  "updatedAt": "2026-11-22T19:45:56.125Z"
 }
