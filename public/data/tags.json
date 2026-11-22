@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 1067,
-    "category": "dns_rules"
+    "count": 1071,
+    "category": "ecosystem"
   },
   {
     "tag": "geosite",
@@ -41,7 +41,7 @@
   },
   {
     "tag": "xray-core",
-    "count": 174,
+    "count": 175,
     "category": "client"
   },
   {
@@ -115,19 +115,19 @@
     "category": "client"
   },
   {
-    "tag": "OpenVPN",
-    "count": 80,
-    "category": "protocol"
-  },
-  {
     "tag": "sub-store",
-    "count": 77,
+    "count": 80,
     "category": "ecosystem"
   },
   {
     "tag": "subscription",
-    "count": 77,
+    "count": 80,
     "category": "ecosystem"
+  },
+  {
+    "tag": "OpenVPN",
+    "count": 80,
+    "category": "protocol"
   },
   {
     "tag": "ech",
@@ -505,6 +505,16 @@
     "category": "ecosystem"
   },
   {
+    "tag": "v2rayn",
+    "count": 14,
+    "category": "client"
+  },
+  {
+    "tag": "windows",
+    "count": 14,
+    "category": "client"
+  },
+  {
     "tag": "grpc",
     "count": 14,
     "category": "security"
@@ -523,16 +533,6 @@
     "tag": "SUDOKU-ASCII",
     "count": 14,
     "category": "core"
-  },
-  {
-    "tag": "v2rayn",
-    "count": 13,
-    "category": "client"
-  },
-  {
-    "tag": "windows",
-    "count": 13,
-    "category": "client"
   },
   {
     "tag": "v2ray-core",
@@ -615,6 +615,11 @@
     "category": "client"
   },
   {
+    "tag": "warp",
+    "count": 10,
+    "category": "client"
+  },
+  {
     "tag": "dae",
     "count": 10,
     "category": "core"
@@ -633,11 +638,6 @@
     "tag": "Docker",
     "count": 10,
     "category": "ecosystem"
-  },
-  {
-    "tag": "warp",
-    "count": 9,
-    "category": "client"
   },
   {
     "tag": "vision",

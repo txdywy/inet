@@ -1,15 +1,15 @@
 {
-  "totalItems": 2254,
-  "last24h": 9,
-  "last7d": 59,
+  "totalItems": 2258,
+  "last24h": 8,
+  "last7d": 63,
   "byCategory": {
     "core": 330,
-    "client": 345,
+    "client": 346,
     "router": 34,
     "protocol": 57,
     "dns_rules": 473,
     "security": 139,
-    "ecosystem": 876,
+    "ecosystem": 879,
     "trend": 0
   },
   "topProjects": [
@@ -35,7 +35,7 @@
     },
     {
       "project": "Sub-Store",
-      "count": 194
+      "count": 197
     },
     {
       "project": "metacubexd",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "release",
-      "count": 1067
+      "count": 1071
     },
     {
       "tag": "geosite",
@@ -89,7 +89,7 @@
     },
     {
       "tag": "xray-core",
-      "count": 174
+      "count": 175
     },
     {
       "tag": "sing-box",
@@ -136,8 +136,8 @@
       "count": 88
     }
   ],
-  "importantCount": 1092,
+  "importantCount": 1096,
   "breakingCount": 112,
   "securityCount": 193,
-  "updatedAt": "2026-11-22T06:58:44.804Z"
+  "updatedAt": "2026-11-22T14:41:21.799Z"
 }
