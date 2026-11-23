@@ -1,12 +1,12 @@
 [
   {
     "tag": "release",
-    "count": 1074,
-    "category": "dns_rules"
+    "count": 1078,
+    "category": "ecosystem"
   },
   {
     "tag": "geosite",
-    "count": 451,
+    "count": 453,
     "category": "dns_rules"
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "tag": "domain-list",
-    "count": 284,
+    "count": 286,
     "category": "dns_rules"
   },
   {
@@ -75,18 +75,18 @@
     "category": "ecosystem"
   },
   {
+    "tag": "vless",
+    "count": 100,
+    "category": "ecosystem"
+  },
+  {
     "tag": "v2ray",
     "count": 100,
     "category": "ecosystem"
   },
   {
-    "tag": "vless",
-    "count": 99,
-    "category": "ecosystem"
-  },
-  {
     "tag": "xhttp",
-    "count": 94,
+    "count": 95,
     "category": "ecosystem"
   },
   {
@@ -116,12 +116,12 @@
   },
   {
     "tag": "sub-store",
-    "count": 80,
+    "count": 81,
     "category": "ecosystem"
   },
   {
     "tag": "subscription",
-    "count": 80,
+    "count": 81,
     "category": "ecosystem"
   },
   {
@@ -141,8 +141,8 @@
   },
   {
     "tag": "hysteria2",
-    "count": 69,
-    "category": "core"
+    "count": 70,
+    "category": "ecosystem"
   },
   {
     "tag": "quic",
@@ -241,8 +241,8 @@
   },
   {
     "tag": "reality",
-    "count": 34,
-    "category": "client"
+    "count": 35,
+    "category": "ecosystem"
   },
   {
     "tag": "WireGuard",
@@ -285,6 +285,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "v2ray-agent",
+    "count": 31,
+    "category": "ecosystem"
+  },
+  {
     "tag": "v2raya",
     "count": 31,
     "category": "client"
@@ -298,11 +303,6 @@
     "tag": "transparent-proxy",
     "count": 31,
     "category": "client"
-  },
-  {
-    "tag": "v2ray-agent",
-    "count": 30,
-    "category": "ecosystem"
   },
   {
     "tag": "Tailscale",
@@ -350,6 +350,16 @@
     "category": "protocol"
   },
   {
+    "tag": "script",
+    "count": 23,
+    "category": "ecosystem"
+  },
+  {
+    "tag": "vps",
+    "count": 23,
+    "category": "ecosystem"
+  },
+  {
     "tag": "依赖更新",
     "count": 23,
     "category": "ecosystem"
@@ -368,16 +378,6 @@
     "tag": "tunnel",
     "count": 22,
     "category": "core"
-  },
-  {
-    "tag": "script",
-    "count": 22,
-    "category": "ecosystem"
-  },
-  {
-    "tag": "vps",
-    "count": 22,
-    "category": "ecosystem"
   },
   {
     "tag": "用户界面",

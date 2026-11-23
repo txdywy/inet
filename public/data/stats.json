@@ -1,21 +1,21 @@
 {
-  "totalItems": 2261,
+  "totalItems": 2265,
   "last24h": 6,
-  "last7d": 54,
+  "last7d": 57,
   "byCategory": {
     "core": 330,
     "client": 346,
     "router": 34,
     "protocol": 57,
-    "dns_rules": 475,
+    "dns_rules": 477,
     "security": 140,
-    "ecosystem": 879,
+    "ecosystem": 881,
     "trend": 0
   },
   "topProjects": [
     {
       "project": "domain-list-community",
-      "count": 414
+      "count": 416
     },
     {
       "project": "mihomo",
@@ -35,7 +35,7 @@
     },
     {
       "project": "Sub-Store",
-      "count": 197
+      "count": 198
     },
     {
       "project": "metacubexd",
@@ -57,11 +57,11 @@
   "hotTags": [
     {
       "tag": "release",
-      "count": 1074
+      "count": 1078
     },
     {
       "tag": "geosite",
-      "count": 451
+      "count": 453
     },
     {
       "tag": "mihomo",
@@ -73,7 +73,7 @@
     },
     {
       "tag": "domain-list",
-      "count": 284
+      "count": 286
     },
     {
       "tag": "ruleset",
@@ -116,16 +116,16 @@
       "count": 109
     },
     {
+      "tag": "vless",
+      "count": 100
+    },
+    {
       "tag": "v2ray",
       "count": 100
     },
     {
-      "tag": "vless",
-      "count": 99
-    },
-    {
       "tag": "xhttp",
-      "count": 94
+      "count": 95
     },
     {
       "tag": "meta",
@@ -136,8 +136,8 @@
       "count": 88
     }
   ],
-  "importantCount": 1098,
+  "importantCount": 1102,
   "breakingCount": 112,
   "securityCount": 194,
-  "updatedAt": "2026-11-23T07:47:29.829Z"
+  "updatedAt": "2026-11-23T18:22:05.272Z"
 }
