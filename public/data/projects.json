@@ -50,21 +50,6 @@
     ]
   },
   {
-    "slug": "3x-ui",
-    "name": "3x-ui",
-    "repo": "MHSanaei/3x-ui",
-    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
-    "category": "ecosystem",
-    "platforms": [
-      "linux"
-    ],
-    "tags": [
-      "x-ui",
-      "panel",
-      "xray-core"
-    ]
-  },
-  {
     "slug": "meta-rules-dat",
     "name": "meta-rules-dat",
     "repo": "MetaCubeX/meta-rules-dat",
@@ -80,6 +65,21 @@
       "geosite",
       "geoip",
       "mihomo"
+    ]
+  },
+  {
+    "slug": "3x-ui",
+    "name": "3x-ui",
+    "repo": "MHSanaei/3x-ui",
+    "description": "Tailscale、WireGuard、OpenWrt 等生态项目",
+    "category": "ecosystem",
+    "platforms": [
+      "linux"
+    ],
+    "tags": [
+      "x-ui",
+      "panel",
+      "xray-core"
     ]
   },
   {

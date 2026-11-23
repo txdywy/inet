@@ -1,13 +1,13 @@
 {
-  "totalItems": 2260,
-  "last24h": 7,
-  "last7d": 57,
+  "totalItems": 2261,
+  "last24h": 6,
+  "last7d": 54,
   "byCategory": {
     "core": 330,
     "client": 346,
     "router": 34,
     "protocol": 57,
-    "dns_rules": 474,
+    "dns_rules": 475,
     "security": 140,
     "ecosystem": 879,
     "trend": 0
@@ -27,7 +27,7 @@
     },
     {
       "project": "meta-rules-dat",
-      "count": 203
+      "count": 204
     },
     {
       "project": "3x-ui",
@@ -57,15 +57,15 @@
   "hotTags": [
     {
       "tag": "release",
-      "count": 1073
+      "count": 1074
     },
     {
       "tag": "geosite",
-      "count": 450
+      "count": 451
     },
     {
       "tag": "mihomo",
-      "count": 413
+      "count": 414
     },
     {
       "tag": "MetaCubeX",
@@ -77,11 +77,11 @@
     },
     {
       "tag": "ruleset",
-      "count": 234
+      "count": 235
     },
     {
       "tag": "geoip",
-      "count": 234
+      "count": 235
     },
     {
       "tag": "v2fly",
@@ -136,8 +136,8 @@
       "count": 88
     }
   ],
-  "importantCount": 1097,
+  "importantCount": 1098,
   "breakingCount": 112,
   "securityCount": 194,
-  "updatedAt": "2026-11-22T23:34:54.947Z"
+  "updatedAt": "2026-11-23T07:47:29.829Z"
 }
