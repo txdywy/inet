@@ -1,12 +1,12 @@
 [
   {
     "tag": "release",
-    "count": 1078,
-    "category": "ecosystem"
+    "count": 1081,
+    "category": "dns_rules"
   },
   {
     "tag": "geosite",
-    "count": 453,
+    "count": 454,
     "category": "dns_rules"
   },
   {
@@ -26,12 +26,12 @@
   },
   {
     "tag": "ruleset",
-    "count": 235,
+    "count": 236,
     "category": "dns_rules"
   },
   {
     "tag": "geoip",
-    "count": 235,
+    "count": 236,
     "category": "dns_rules"
   },
   {
@@ -41,7 +41,7 @@
   },
   {
     "tag": "xray-core",
-    "count": 175,
+    "count": 176,
     "category": "client"
   },
   {
@@ -56,12 +56,12 @@
   },
   {
     "tag": "x-ui",
-    "count": 121,
+    "count": 122,
     "category": "security"
   },
   {
     "tag": "panel",
-    "count": 121,
+    "count": 122,
     "category": "security"
   },
   {
@@ -110,19 +110,19 @@
     "category": "client"
   },
   {
-    "tag": "metacubexd",
-    "count": 82,
-    "category": "client"
-  },
-  {
     "tag": "sub-store",
-    "count": 81,
+    "count": 82,
     "category": "ecosystem"
   },
   {
     "tag": "subscription",
-    "count": 81,
+    "count": 82,
     "category": "ecosystem"
+  },
+  {
+    "tag": "metacubexd",
+    "count": 82,
+    "category": "client"
   },
   {
     "tag": "OpenVPN",

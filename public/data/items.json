@@ -1,5 +1,78 @@
 [
   {
+    "id": "ef9ff4db60733b2c",
+    "title": "Loyalsoldier/v2ray-rules-dat Released on 202611232203",
+    "summary": "Released on 202611232203",
+    "rawTitle": "Released on 202611232203",
+    "rawBody": "",
+    "sourceType": "github_release",
+    "sourceName": "Loyalsoldier/v2ray-rules-dat",
+    "sourceUrl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/tag/202611232203",
+    "project": "v2ray-rules-dat",
+    "repo": "Loyalsoldier/v2ray-rules-dat",
+    "slug": "v2ray-rules-dat",
+    "version": "202611232203",
+    "category": "dns_rules",
+    "tags": [
+      "ruleset",
+      "geosite",
+      "geoip",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-11-23T22:04:18Z",
+    "fetchedAt": "2026-11-23T23:58:37.955Z",
+    "firstSeenAt": "2026-11-23T23:58:41.692Z",
+    "updatedAt": "2026-11-23T23:58:41.692Z",
+    "hash": "ef9ff4db60733b2c"
+  },
+  {
+    "id": "6ba0a4fbba253511",
+    "title": "sub-store-org/Sub-Store 2.44.28",
+    "summary": "2.44.28",
+    "rawTitle": "2.44.28",
+    "rawBody": "## <small>2.44.28 (2026-11-23)</small>\n\n* feat: Surge ECN 逻辑调整 ([8edb26f](https://github.com/sub-store-org/Sub-Store/commit/8edb26f))\n",
+    "sourceType": "github_release",
+    "sourceName": "sub-store-org/Sub-Store",
+    "sourceUrl": "https://github.com/sub-store-org/Sub-Store/releases/tag/2.44.28",
+    "project": "Sub-Store",
+    "repo": "sub-store-org/Sub-Store",
+    "slug": "sub-store",
+    "version": "2.44.28",
+    "category": "ecosystem",
+    "tags": [
+      "sub-store",
+      "subscription",
+      "release"
+    ],
+    "platforms": [
+      "ios",
+      "android",
+      "macos",
+      "windows",
+      "linux"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-11-23T18:25:40Z",
+    "fetchedAt": "2026-11-23T23:58:36.582Z",
+    "firstSeenAt": "2026-11-23T23:58:40.873Z",
+    "updatedAt": "2026-11-23T23:58:40.873Z",
+    "hash": "6ba0a4fbba253511"
+  },
+  {
     "id": "a3f6e32a07e73069",
     "title": "sub-store-org/Sub-Store 2.44.27",
     "summary": "2.44.27",
@@ -42545,6 +42618,40 @@
     "firstSeenAt": "2026-06-25T04:36:16.426Z",
     "updatedAt": "2026-06-25T04:36:16.426Z",
     "hash": "e54a070ca4e6a5bf"
+  },
+  {
+    "id": "a3e5250a86d21a1e",
+    "title": "MHSanaei/3x-ui Dev build 04be3da8",
+    "summary": "Dev build 04be3da8",
+    "rawTitle": "Dev build 04be3da8",
+    "rawBody": "Rolling development build — installs via the panel's Dev update channel.\n\ncommit=04be3da8fc9bb6ba9f7f178400f667a499ef500c\nbuilt=2026-11-23T23:49:30Z\n\nAutomated per-commit build from main. Not a stable release.",
+    "sourceType": "github_release",
+    "sourceName": "MHSanaei/3x-ui",
+    "sourceUrl": "https://github.com/MHSanaei/3x-ui/releases/tag/dev-latest",
+    "project": "3x-ui",
+    "repo": "MHSanaei/3x-ui",
+    "slug": "3x-ui",
+    "version": "dev-latest",
+    "category": "ecosystem",
+    "tags": [
+      "x-ui",
+      "panel",
+      "xray-core",
+      "release"
+    ],
+    "platforms": [
+      "linux"
+    ],
+    "importance": 4,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2026-06-24T16:17:06Z",
+    "fetchedAt": "2026-11-23T23:58:36.646Z",
+    "firstSeenAt": "2026-11-23T23:58:40.062Z",
+    "updatedAt": "2026-11-23T23:58:40.062Z",
+    "hash": "a3e5250a86d21a1e"
   },
   {
     "id": "d54df423c29fc4e8",
