@@ -1,7 +1,7 @@
 [
   {
     "tag": "release",
-    "count": 1090,
+    "count": 1092,
     "category": "ecosystem"
   },
   {
@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 416,
+    "count": 417,
     "category": "dns_rules"
   },
   {
@@ -41,8 +41,13 @@
   },
   {
     "tag": "xray-core",
-    "count": 179,
+    "count": 180,
     "category": "security"
+  },
+  {
+    "tag": "clash",
+    "count": 128,
+    "category": "ecosystem"
   },
   {
     "tag": "sing-box",
@@ -50,18 +55,13 @@
     "category": "client"
   },
   {
-    "tag": "clash",
-    "count": 127,
-    "category": "ecosystem"
-  },
-  {
     "tag": "x-ui",
-    "count": 124,
+    "count": 125,
     "category": "security"
   },
   {
     "tag": "panel",
-    "count": 124,
+    "count": 125,
     "category": "security"
   },
   {
@@ -86,12 +86,12 @@
   },
   {
     "tag": "xhttp",
-    "count": 96,
+    "count": 97,
     "category": "ecosystem"
   },
   {
     "tag": "meta",
-    "count": 94,
+    "count": 95,
     "category": "security"
   },
   {
@@ -131,7 +131,7 @@
   },
   {
     "tag": "ech",
-    "count": 73,
+    "count": 74,
     "category": "dns_rules"
   },
   {
@@ -246,7 +246,7 @@
   },
   {
     "tag": "snell",
-    "count": 34,
+    "count": 35,
     "category": "ecosystem"
   },
   {
@@ -320,14 +320,14 @@
     "category": "ecosystem"
   },
   {
+    "tag": "gost",
+    "count": 28,
+    "category": "core"
+  },
+  {
     "tag": "shadowsocks",
     "count": 28,
     "category": "security"
-  },
-  {
-    "tag": "gost",
-    "count": 27,
-    "category": "core"
   },
   {
     "tag": "DNS",
