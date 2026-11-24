@@ -1,18 +1,18 @@
 [
   {
     "tag": "release",
-    "count": 1092,
-    "category": "ecosystem"
+    "count": 1096,
+    "category": "dns_rules"
   },
   {
     "tag": "geosite",
-    "count": 458,
+    "count": 459,
     "category": "dns_rules"
   },
   {
     "tag": "mihomo",
-    "count": 417,
-    "category": "dns_rules"
+    "count": 418,
+    "category": "ecosystem"
   },
   {
     "tag": "MetaCubeX",
@@ -26,12 +26,12 @@
   },
   {
     "tag": "ruleset",
-    "count": 237,
+    "count": 238,
     "category": "dns_rules"
   },
   {
     "tag": "geoip",
-    "count": 237,
+    "count": 238,
     "category": "dns_rules"
   },
   {
@@ -41,12 +41,12 @@
   },
   {
     "tag": "xray-core",
-    "count": 180,
+    "count": 181,
     "category": "security"
   },
   {
     "tag": "clash",
-    "count": 128,
+    "count": 129,
     "category": "ecosystem"
   },
   {
@@ -56,12 +56,12 @@
   },
   {
     "tag": "x-ui",
-    "count": 125,
+    "count": 126,
     "category": "security"
   },
   {
     "tag": "panel",
-    "count": 125,
+    "count": 126,
     "category": "security"
   },
   {
@@ -86,7 +86,7 @@
   },
   {
     "tag": "xhttp",
-    "count": 97,
+    "count": 98,
     "category": "ecosystem"
   },
   {
@@ -106,12 +106,12 @@
   },
   {
     "tag": "sub-store",
-    "count": 83,
+    "count": 84,
     "category": "ecosystem"
   },
   {
     "tag": "subscription",
-    "count": 83,
+    "count": 84,
     "category": "ecosystem"
   },
   {
@@ -230,6 +230,11 @@
     "category": "client"
   },
   {
+    "tag": "reality",
+    "count": 36,
+    "category": "ecosystem"
+  },
+  {
     "tag": "naiveproxy",
     "count": 36,
     "category": "router"
@@ -238,11 +243,6 @@
     "tag": "go-gost",
     "count": 36,
     "category": "core"
-  },
-  {
-    "tag": "reality",
-    "count": 35,
-    "category": "ecosystem"
   },
   {
     "tag": "snell",
@@ -440,6 +440,11 @@
     "category": "core"
   },
   {
+    "tag": "dashboard",
+    "count": 17,
+    "category": "ecosystem"
+  },
+  {
     "tag": "desktop",
     "count": 17,
     "category": "client"
@@ -463,11 +468,6 @@
     "tag": "TLSAuth",
     "count": 17,
     "category": "client"
-  },
-  {
-    "tag": "dashboard",
-    "count": 16,
-    "category": "ecosystem"
   },
   {
     "tag": "mosdns",
