@@ -1,17 +1,17 @@
 [
   {
     "tag": "release",
-    "count": 1083,
-    "category": "dns_rules"
+    "count": 1090,
+    "category": "ecosystem"
   },
   {
     "tag": "geosite",
-    "count": 454,
+    "count": 458,
     "category": "dns_rules"
   },
   {
     "tag": "mihomo",
-    "count": 415,
+    "count": 416,
     "category": "dns_rules"
   },
   {
@@ -21,17 +21,17 @@
   },
   {
     "tag": "domain-list",
-    "count": 286,
+    "count": 289,
     "category": "dns_rules"
   },
   {
     "tag": "ruleset",
-    "count": 236,
+    "count": 237,
     "category": "dns_rules"
   },
   {
     "tag": "geoip",
-    "count": 236,
+    "count": 237,
     "category": "dns_rules"
   },
   {
@@ -41,8 +41,8 @@
   },
   {
     "tag": "xray-core",
-    "count": 177,
-    "category": "client"
+    "count": 179,
+    "category": "security"
   },
   {
     "tag": "sing-box",
@@ -56,12 +56,12 @@
   },
   {
     "tag": "x-ui",
-    "count": 123,
+    "count": 124,
     "category": "security"
   },
   {
     "tag": "panel",
-    "count": 123,
+    "count": 124,
     "category": "security"
   },
   {
@@ -105,19 +105,19 @@
     "category": "ecosystem"
   },
   {
-    "tag": "3x-ui",
-    "count": 83,
-    "category": "client"
-  },
-  {
     "tag": "sub-store",
-    "count": 82,
+    "count": 83,
     "category": "ecosystem"
   },
   {
     "tag": "subscription",
-    "count": 82,
+    "count": 83,
     "category": "ecosystem"
+  },
+  {
+    "tag": "3x-ui",
+    "count": 83,
+    "category": "client"
   },
   {
     "tag": "metacubexd",
@@ -260,6 +260,11 @@
     "category": "client"
   },
   {
+    "tag": "android",
+    "count": 33,
+    "category": "security"
+  },
+  {
     "tag": "Snell",
     "count": 33,
     "category": "protocol"
@@ -268,11 +273,6 @@
     "tag": "xhttp-opts",
     "count": 33,
     "category": "core"
-  },
-  {
-    "tag": "android",
-    "count": 32,
-    "category": "client"
   },
   {
     "tag": "sudoku",
@@ -420,6 +420,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "v2rayng",
+    "count": 18,
+    "category": "security"
+  },
+  {
     "tag": "xtls",
     "count": 18,
     "category": "security"
@@ -438,11 +443,6 @@
     "tag": "desktop",
     "count": 17,
     "category": "client"
-  },
-  {
-    "tag": "v2rayng",
-    "count": 17,
-    "category": "security"
   },
   {
     "tag": "TLS",
@@ -555,6 +555,11 @@
     "category": "client"
   },
   {
+    "tag": "warp",
+    "count": 12,
+    "category": "security"
+  },
+  {
     "tag": "amneziawg",
     "count": 12,
     "category": "security"
@@ -573,11 +578,6 @@
     "tag": "HTTP",
     "count": 12,
     "category": "core"
-  },
-  {
-    "tag": "warp",
-    "count": 11,
-    "category": "client"
   },
   {
     "tag": "mihomo-party",

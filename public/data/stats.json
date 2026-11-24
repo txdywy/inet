@@ -1,21 +1,21 @@
 {
-  "totalItems": 2270,
-  "last24h": 6,
-  "last7d": 58,
+  "totalItems": 2277,
+  "last24h": 10,
+  "last7d": 62,
   "byCategory": {
     "core": 331,
     "client": 346,
     "router": 34,
     "protocol": 57,
-    "dns_rules": 478,
-    "security": 140,
-    "ecosystem": 884,
+    "dns_rules": 482,
+    "security": 141,
+    "ecosystem": 886,
     "trend": 0
   },
   "topProjects": [
     {
       "project": "domain-list-community",
-      "count": 416
+      "count": 419
     },
     {
       "project": "mihomo",
@@ -27,15 +27,15 @@
     },
     {
       "project": "3x-ui",
-      "count": 205
+      "count": 206
     },
     {
       "project": "meta-rules-dat",
-      "count": 204
+      "count": 205
     },
     {
       "project": "Sub-Store",
-      "count": 199
+      "count": 200
     },
     {
       "project": "metacubexd",
@@ -57,15 +57,15 @@
   "hotTags": [
     {
       "tag": "release",
-      "count": 1083
+      "count": 1090
     },
     {
       "tag": "geosite",
-      "count": 454
+      "count": 458
     },
     {
       "tag": "mihomo",
-      "count": 415
+      "count": 416
     },
     {
       "tag": "MetaCubeX",
@@ -73,15 +73,15 @@
     },
     {
       "tag": "domain-list",
-      "count": 286
+      "count": 289
     },
     {
       "tag": "ruleset",
-      "count": 236
+      "count": 237
     },
     {
       "tag": "geoip",
-      "count": 236
+      "count": 237
     },
     {
       "tag": "v2fly",
@@ -89,7 +89,7 @@
     },
     {
       "tag": "xray-core",
-      "count": 177
+      "count": 179
     },
     {
       "tag": "sing-box",
@@ -101,11 +101,11 @@
     },
     {
       "tag": "x-ui",
-      "count": 123
+      "count": 124
     },
     {
       "tag": "panel",
-      "count": 123
+      "count": 124
     },
     {
       "tag": "Sub-Store",
@@ -136,8 +136,8 @@
       "count": 88
     }
   ],
-  "importantCount": 1106,
+  "importantCount": 1113,
   "breakingCount": 112,
-  "securityCount": 194,
-  "updatedAt": "2026-11-24T03:57:24.807Z"
+  "securityCount": 195,
+  "updatedAt": "2026-11-24T10:00:28.917Z"
 }
