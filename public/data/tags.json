@@ -1,7 +1,7 @@
 [
   {
     "tag": "release",
-    "count": 1081,
+    "count": 1083,
     "category": "dns_rules"
   },
   {
@@ -11,7 +11,7 @@
   },
   {
     "tag": "mihomo",
-    "count": 414,
+    "count": 415,
     "category": "dns_rules"
   },
   {
@@ -41,7 +41,7 @@
   },
   {
     "tag": "xray-core",
-    "count": 176,
+    "count": 177,
     "category": "client"
   },
   {
@@ -51,17 +51,17 @@
   },
   {
     "tag": "clash",
-    "count": 126,
+    "count": 127,
     "category": "ecosystem"
   },
   {
     "tag": "x-ui",
-    "count": 122,
+    "count": 123,
     "category": "security"
   },
   {
     "tag": "panel",
-    "count": 122,
+    "count": 123,
     "category": "security"
   },
   {
@@ -86,12 +86,12 @@
   },
   {
     "tag": "xhttp",
-    "count": 95,
+    "count": 96,
     "category": "ecosystem"
   },
   {
     "tag": "meta",
-    "count": 93,
+    "count": 94,
     "category": "security"
   },
   {
@@ -131,7 +131,7 @@
   },
   {
     "tag": "ech",
-    "count": 72,
+    "count": 73,
     "category": "dns_rules"
   },
   {
@@ -245,6 +245,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "snell",
+    "count": 34,
+    "category": "ecosystem"
+  },
+  {
     "tag": "WireGuard",
     "count": 34,
     "category": "core"
@@ -253,11 +258,6 @@
     "tag": "ClashMetaForAndroid",
     "count": 34,
     "category": "client"
-  },
-  {
-    "tag": "snell",
-    "count": 33,
-    "category": "ecosystem"
   },
   {
     "tag": "Snell",
