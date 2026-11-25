@@ -1,9 +1,9 @@
 {
-  "totalItems": 2283,
+  "totalItems": 2284,
   "last24h": 9,
-  "last7d": 61,
+  "last7d": 55,
   "byCategory": {
-    "core": 332,
+    "core": 333,
     "client": 346,
     "router": 34,
     "protocol": 57,
@@ -19,7 +19,7 @@
     },
     {
       "project": "mihomo",
-      "count": 242
+      "count": 243
     },
     {
       "project": "v2ray-rules-dat",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "release",
-      "count": 1096
+      "count": 1097
     },
     {
       "tag": "geosite",
@@ -65,7 +65,7 @@
     },
     {
       "tag": "mihomo",
-      "count": 418
+      "count": 419
     },
     {
       "tag": "MetaCubeX",
@@ -93,7 +93,7 @@
     },
     {
       "tag": "clash",
-      "count": 129
+      "count": 130
     },
     {
       "tag": "sing-box",
@@ -125,11 +125,11 @@
     },
     {
       "tag": "xhttp",
-      "count": 98
+      "count": 99
     },
     {
       "tag": "meta",
-      "count": 95
+      "count": 96
     },
     {
       "tag": "meta-rules-dat",
@@ -139,5 +139,5 @@
   "importantCount": 1118,
   "breakingCount": 113,
   "securityCount": 195,
-  "updatedAt": "2026-11-24T22:30:59.931Z"
+  "updatedAt": "2026-11-25T02:22:05.568Z"
 }
