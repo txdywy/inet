@@ -1,9 +1,9 @@
 {
-  "totalItems": 2292,
-  "last24h": 8,
-  "last7d": 55,
+  "totalItems": 2293,
+  "last24h": 7,
+  "last7d": 56,
   "byCategory": {
-    "core": 334,
+    "core": 335,
     "client": 346,
     "router": 34,
     "protocol": 57,
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "release",
-      "count": 1105
+      "count": 1106
     },
     {
       "tag": "geosite",
@@ -116,11 +116,11 @@
       "count": 109
     },
     {
-      "tag": "xhttp",
-      "count": 100
+      "tag": "vless",
+      "count": 101
     },
     {
-      "tag": "vless",
+      "tag": "xhttp",
       "count": 100
     },
     {
@@ -139,5 +139,5 @@
   "importantCount": 1125,
   "breakingCount": 113,
   "securityCount": 195,
-  "updatedAt": "2026-11-25T17:20:43.452Z"
+  "updatedAt": "2026-11-25T21:46:12.912Z"
 }

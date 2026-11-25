@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 1105,
-    "category": "dns_rules"
+    "count": 1106,
+    "category": "core"
   },
   {
     "tag": "geosite",
@@ -75,12 +75,12 @@
     "category": "ecosystem"
   },
   {
-    "tag": "xhttp",
-    "count": 100,
-    "category": "ecosystem"
+    "tag": "vless",
+    "count": 101,
+    "category": "core"
   },
   {
-    "tag": "vless",
+    "tag": "xhttp",
     "count": 100,
     "category": "ecosystem"
   },
@@ -505,6 +505,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "v2ray-core",
+    "count": 14,
+    "category": "core"
+  },
+  {
     "tag": "v2rayn",
     "count": 14,
     "category": "client"
@@ -533,11 +538,6 @@
     "tag": "SUDOKU-ASCII",
     "count": 14,
     "category": "core"
-  },
-  {
-    "tag": "v2ray-core",
-    "count": 13,
-    "category": "security"
   },
   {
     "tag": "OpenWrt",

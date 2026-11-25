@@ -1,5 +1,40 @@
 [
   {
+    "id": "61950c922c47d667",
+    "title": "v2fly/v2ray-core v5.57.0",
+    "summary": "v5.57.0",
+    "rawTitle": "v5.57.0",
+    "rawBody": "The machine generated changes includes in this release will subject to review and changes once the maintainer recovers from temporary incapacitation and is not covered by API stability policies.\r\n\r\n\r\n\r\n## What's Changed\r\n* Chore: fix typos by @Loyalsoldier with @Copilot in https://github.com/v2fly/v2ray-core/pull/3867\r\n* Machine generated/refresh go dependencies 20261125 in https://github.com/v2fly/v2ray-core/pull/3883\r\n\r\n\r\n**Full Changelog**: https://github.com/v2fly/v2ray-core/compare/v5.56.0...v5.57.0",
+    "sourceType": "github_release",
+    "sourceName": "v2fly/v2ray-core",
+    "sourceUrl": "https://github.com/v2fly/v2ray-core/releases/tag/v5.57.0",
+    "project": "v2ray-core",
+    "repo": "v2fly/v2ray-core",
+    "slug": "v2ray-core",
+    "version": "5.57.0",
+    "category": "core",
+    "tags": [
+      "v2ray-core",
+      "vless",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 2,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-11-25T21:06:58Z",
+    "fetchedAt": "2026-11-25T21:45:55.261Z",
+    "firstSeenAt": "2026-11-25T21:46:12.498Z",
+    "updatedAt": "2026-11-25T21:46:12.498Z",
+    "hash": "61950c922c47d667"
+  },
+  {
     "id": "d76f715d303ab802",
     "title": "v2fly/domain-list-community 20261125093047",
     "summary": "20261125093047",
