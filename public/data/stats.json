@@ -1,25 +1,25 @@
 {
-  "totalItems": 2284,
-  "last24h": 9,
-  "last7d": 55,
+  "totalItems": 2290,
+  "last24h": 10,
+  "last7d": 58,
   "byCategory": {
-    "core": 333,
+    "core": 334,
     "client": 346,
     "router": 34,
     "protocol": 57,
-    "dns_rules": 483,
+    "dns_rules": 487,
     "security": 141,
-    "ecosystem": 890,
+    "ecosystem": 891,
     "trend": 0
   },
   "topProjects": [
     {
       "project": "domain-list-community",
-      "count": 419
+      "count": 422
     },
     {
       "project": "mihomo",
-      "count": 243
+      "count": 244
     },
     {
       "project": "v2ray-rules-dat",
@@ -27,11 +27,11 @@
     },
     {
       "project": "3x-ui",
-      "count": 208
+      "count": 209
     },
     {
       "project": "meta-rules-dat",
-      "count": 205
+      "count": 206
     },
     {
       "project": "Sub-Store",
@@ -57,15 +57,15 @@
   "hotTags": [
     {
       "tag": "release",
-      "count": 1097
+      "count": 1103
     },
     {
       "tag": "geosite",
-      "count": 459
+      "count": 463
     },
     {
       "tag": "mihomo",
-      "count": 419
+      "count": 421
     },
     {
       "tag": "MetaCubeX",
@@ -73,15 +73,15 @@
     },
     {
       "tag": "domain-list",
-      "count": 289
+      "count": 292
     },
     {
       "tag": "ruleset",
-      "count": 238
+      "count": 239
     },
     {
       "tag": "geoip",
-      "count": 238
+      "count": 239
     },
     {
       "tag": "v2fly",
@@ -89,11 +89,11 @@
     },
     {
       "tag": "xray-core",
-      "count": 181
+      "count": 182
     },
     {
       "tag": "clash",
-      "count": 130
+      "count": 131
     },
     {
       "tag": "sing-box",
@@ -101,11 +101,11 @@
     },
     {
       "tag": "x-ui",
-      "count": 126
+      "count": 127
     },
     {
       "tag": "panel",
-      "count": 126
+      "count": 127
     },
     {
       "tag": "Sub-Store",
@@ -116,6 +116,10 @@
       "count": 109
     },
     {
+      "tag": "xhttp",
+      "count": 100
+    },
+    {
       "tag": "vless",
       "count": 100
     },
@@ -124,20 +128,16 @@
       "count": 100
     },
     {
-      "tag": "xhttp",
-      "count": 99
-    },
-    {
       "tag": "meta",
-      "count": 96
+      "count": 97
     },
     {
       "tag": "meta-rules-dat",
       "count": 88
     }
   ],
-  "importantCount": 1118,
+  "importantCount": 1123,
   "breakingCount": 113,
   "securityCount": 195,
-  "updatedAt": "2026-11-25T02:22:05.568Z"
+  "updatedAt": "2026-11-25T08:44:16.989Z"
 }
