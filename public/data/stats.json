@@ -1,6 +1,6 @@
 {
-  "totalItems": 2299,
-  "last24h": 6,
+  "totalItems": 2300,
+  "last24h": 5,
   "last7d": 52,
   "byCategory": {
     "core": 335,
@@ -9,7 +9,7 @@
     "protocol": 57,
     "dns_rules": 490,
     "security": 142,
-    "ecosystem": 895,
+    "ecosystem": 896,
     "trend": 0
   },
   "topProjects": [
@@ -27,7 +27,7 @@
     },
     {
       "project": "3x-ui",
-      "count": 211
+      "count": 212
     },
     {
       "project": "meta-rules-dat",
@@ -57,7 +57,7 @@
   "hotTags": [
     {
       "tag": "release",
-      "count": 1112
+      "count": 1113
     },
     {
       "tag": "geosite",
@@ -89,7 +89,7 @@
     },
     {
       "tag": "xray-core",
-      "count": 185
+      "count": 186
     },
     {
       "tag": "clash",
@@ -97,11 +97,11 @@
     },
     {
       "tag": "x-ui",
-      "count": 129
+      "count": 130
     },
     {
       "tag": "panel",
-      "count": 129
+      "count": 130
     },
     {
       "tag": "sing-box",
@@ -136,8 +136,8 @@
       "count": 88
     }
   ],
-  "importantCount": 1131,
+  "importantCount": 1132,
   "breakingCount": 113,
   "securityCount": 196,
-  "updatedAt": "2026-11-26T17:01:23.091Z"
+  "updatedAt": "2026-11-26T21:39:08.777Z"
 }
