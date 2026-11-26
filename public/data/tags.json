@@ -1,17 +1,17 @@
 [
   {
     "tag": "release",
-    "count": 1107,
-    "category": "dns_rules"
+    "count": 1109,
+    "category": "security"
   },
   {
     "tag": "geosite",
-    "count": 465,
+    "count": 466,
     "category": "dns_rules"
   },
   {
     "tag": "mihomo",
-    "count": 421,
+    "count": 422,
     "category": "dns_rules"
   },
   {
@@ -26,12 +26,12 @@
   },
   {
     "tag": "ruleset",
-    "count": 240,
+    "count": 241,
     "category": "dns_rules"
   },
   {
     "tag": "geoip",
-    "count": 240,
+    "count": 241,
     "category": "dns_rules"
   },
   {
@@ -41,7 +41,7 @@
   },
   {
     "tag": "xray-core",
-    "count": 183,
+    "count": 184,
     "category": "security"
   },
   {
@@ -250,6 +250,11 @@
     "category": "core"
   },
   {
+    "tag": "android",
+    "count": 34,
+    "category": "security"
+  },
+  {
     "tag": "WireGuard",
     "count": 34,
     "category": "core"
@@ -258,11 +263,6 @@
     "tag": "ClashMetaForAndroid",
     "count": 34,
     "category": "client"
-  },
-  {
-    "tag": "android",
-    "count": 33,
-    "category": "security"
   },
   {
     "tag": "Snell",
@@ -405,6 +405,11 @@
     "category": "core"
   },
   {
+    "tag": "v2rayng",
+    "count": 19,
+    "category": "security"
+  },
+  {
     "tag": "ssrplus",
     "count": 19,
     "category": "router"
@@ -418,11 +423,6 @@
     "tag": "CHACHA20-POLY1305",
     "count": 19,
     "category": "ecosystem"
-  },
-  {
-    "tag": "v2rayng",
-    "count": 18,
-    "category": "security"
   },
   {
     "tag": "xtls",
@@ -540,6 +540,11 @@
     "category": "core"
   },
   {
+    "tag": "warp",
+    "count": 13,
+    "category": "security"
+  },
+  {
     "tag": "OpenWrt",
     "count": 13,
     "category": "security"
@@ -553,11 +558,6 @@
     "tag": "SOCKS",
     "count": 13,
     "category": "client"
-  },
-  {
-    "tag": "warp",
-    "count": 12,
-    "category": "security"
   },
   {
     "tag": "amneziawg",

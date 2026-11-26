@@ -1,5 +1,77 @@
 [
   {
+    "id": "7f77524cdbd85868",
+    "title": "2dust/v2rayNG 2.4.2",
+    "summary": "2.4.2",
+    "rawTitle": "2.4.2",
+    "rawBody": "### 本次更新\r\n\r\n- 添加 MASQUE (+WARP) 协议支持 - #6402\r\n- 支持从 JSON 导入自定义出站配置 - #6401\r\n- 修复保留备注中包含逗号的代理链成员 #6438\r\n- Android TV 用户界面，主屏幕和设置界面优化 - #6441\r\n- 支持从剪贴板和二维码中的网络 URL 导入路由规则集\r\n- 添加 Hy2 全局端口跳转间隔设置\r\n- 添加 xdrive 传输支持 - #6464\r\n- 订阅信息从主界面移除， 订阅分组设置中添加流量信息并添加更新单个订阅\r\n- 修复一些已知的问题和改进 UI\r\n- https://github.com/XTLS/Xray-core/releases/tag/v26.11.9  \r\n\r\n### [发布文件介绍，不知道下载哪个文件的请看](https://github.com/2dust/v2rayNG/wiki/Release-files-introduction-for-Android)\r\n\r\n### [关于 跳过证书验证 allowInsecure 参数被移除的说明 ](https://github.com/2dust/v2rayN/discussions/9460)\r\n",
+    "sourceType": "github_release",
+    "sourceName": "2dust/v2rayNG",
+    "sourceUrl": "https://github.com/2dust/v2rayNG/releases/tag/2.4.2",
+    "project": "v2rayNG",
+    "repo": "2dust/v2rayNG",
+    "slug": "v2rayng",
+    "version": "2.4.2",
+    "category": "security",
+    "tags": [
+      "v2rayng",
+      "android",
+      "xray-core",
+      "warp",
+      "release"
+    ],
+    "platforms": [
+      "android"
+    ],
+    "importance": 5,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": true,
+    "isProtocolRelated": true,
+    "publishedAt": "2026-11-26T07:59:07Z",
+    "fetchedAt": "2026-11-26T08:28:50.711Z",
+    "firstSeenAt": "2026-11-26T08:29:00.124Z",
+    "updatedAt": "2026-11-26T08:29:00.124Z",
+    "hash": "7f77524cdbd85868"
+  },
+  {
+    "id": "def9078b9cde2491",
+    "title": "MetaCubeX/meta-rules-dat Release 2026-11-26 12:14",
+    "summary": "Release 2026-11-26 12:14",
+    "rawTitle": "Release 2026-11-26 12:14",
+    "rawBody": "",
+    "sourceType": "github_release",
+    "sourceName": "MetaCubeX/meta-rules-dat",
+    "sourceUrl": "https://github.com/MetaCubeX/meta-rules-dat/releases/tag/latest",
+    "project": "meta-rules-dat",
+    "repo": "MetaCubeX/meta-rules-dat",
+    "slug": "meta-rules-dat",
+    "version": "latest",
+    "category": "dns_rules",
+    "tags": [
+      "ruleset",
+      "geosite",
+      "geoip",
+      "mihomo",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-11-26T04:16:13Z",
+    "fetchedAt": "2026-11-26T08:28:58.072Z",
+    "firstSeenAt": "2026-11-26T08:29:00.937Z",
+    "updatedAt": "2026-11-26T08:29:00.937Z",
+    "hash": "def9078b9cde2491"
+  },
+  {
     "id": "a4c76912a76d91f6",
     "title": "Loyalsoldier/v2ray-rules-dat Released on 202611252204",
     "summary": "Released on 202611252204",
