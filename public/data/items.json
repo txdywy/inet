@@ -1,5 +1,76 @@
 [
   {
+    "id": "42cad5a323001ad0",
+    "title": "sub-store-org/Sub-Store 2.44.31",
+    "summary": "2.44.31",
+    "rawTitle": "2.44.31",
+    "rawBody": "## <small>2.44.31 (2026-11-26)</small>\n\n* feat: Surge 节点参数逻辑优化 ([d0bf093](https://github.com/sub-store-org/Sub-Store/commit/d0bf093))\n",
+    "sourceType": "github_release",
+    "sourceName": "sub-store-org/Sub-Store",
+    "sourceUrl": "https://github.com/sub-store-org/Sub-Store/releases/tag/2.44.31",
+    "project": "Sub-Store",
+    "repo": "sub-store-org/Sub-Store",
+    "slug": "sub-store",
+    "version": "2.44.31",
+    "category": "ecosystem",
+    "tags": [
+      "sub-store",
+      "subscription",
+      "release"
+    ],
+    "platforms": [
+      "ios",
+      "android",
+      "macos",
+      "windows",
+      "linux"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-11-26T15:50:26Z",
+    "fetchedAt": "2026-11-26T17:01:17.306Z",
+    "firstSeenAt": "2026-11-26T17:01:21.762Z",
+    "updatedAt": "2026-11-26T17:01:21.762Z",
+    "hash": "42cad5a323001ad0"
+  },
+  {
+    "id": "6fc8f6899e5eb20c",
+    "title": "MetaCubeX/metacubexd v1.277.1",
+    "summary": "v1.277.1",
+    "rawTitle": "v1.277.1",
+    "rawBody": "## [1.277.1](https://github.com/MetaCubeX/metacubexd/compare/v1.277.0...v1.277.1) (2026-11-26)\n\n\n### Bug Fixes\n\n* **agent:** stop re-fetching a failing subscription on every scheduler tick ([#2279](https://github.com/MetaCubeX/metacubexd/issues/2279)) ([194b3e7](https://github.com/MetaCubeX/metacubexd/commit/194b3e7ffbbb1b7304b7427882ce2bda84787ef5)), closes [#2278](https://github.com/MetaCubeX/metacubexd/issues/2278)",
+    "sourceType": "github_release",
+    "sourceName": "MetaCubeX/metacubexd",
+    "sourceUrl": "https://github.com/MetaCubeX/metacubexd/releases/tag/v1.277.1",
+    "project": "metacubexd",
+    "repo": "MetaCubeX/metacubexd",
+    "slug": "metacubexd",
+    "version": "1.277.1",
+    "category": "ecosystem",
+    "tags": [
+      "dashboard",
+      "mihomo",
+      "clash",
+      "release"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-11-26T08:49:34Z",
+    "fetchedAt": "2026-11-26T17:01:18.764Z",
+    "firstSeenAt": "2026-11-26T17:01:22.590Z",
+    "updatedAt": "2026-11-26T17:01:22.590Z",
+    "hash": "6fc8f6899e5eb20c"
+  },
+  {
     "id": "7f77524cdbd85868",
     "title": "2dust/v2rayNG 2.4.2",
     "summary": "2.4.2",
@@ -43261,6 +43332,40 @@
     "firstSeenAt": "2026-06-25T04:36:16.426Z",
     "updatedAt": "2026-06-25T04:36:16.426Z",
     "hash": "e54a070ca4e6a5bf"
+  },
+  {
+    "id": "d5a274636d608a54",
+    "title": "MHSanaei/3x-ui Dev build e7717fb1",
+    "summary": "Dev build e7717fb1",
+    "rawTitle": "Dev build e7717fb1",
+    "rawBody": "Rolling development build — installs via the panel's Dev update channel.\n\ncommit=e7717fb18510e0c889267b9a91f9b8a8271a4d47\nbuilt=2026-11-26T09:38:18Z\n\nAutomated per-commit build from main. Not a stable release.",
+    "sourceType": "github_release",
+    "sourceName": "MHSanaei/3x-ui",
+    "sourceUrl": "https://github.com/MHSanaei/3x-ui/releases/tag/dev-latest",
+    "project": "3x-ui",
+    "repo": "MHSanaei/3x-ui",
+    "slug": "3x-ui",
+    "version": "dev-latest",
+    "category": "ecosystem",
+    "tags": [
+      "x-ui",
+      "panel",
+      "xray-core",
+      "release"
+    ],
+    "platforms": [
+      "linux"
+    ],
+    "importance": 4,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2026-06-24T16:17:06Z",
+    "fetchedAt": "2026-11-26T17:01:17.315Z",
+    "firstSeenAt": "2026-11-26T17:01:20.949Z",
+    "updatedAt": "2026-11-26T17:01:20.949Z",
+    "hash": "d5a274636d608a54"
   },
   {
     "id": "6680e7c96f318057",

@@ -1,8 +1,8 @@
 [
   {
     "tag": "release",
-    "count": 1109,
-    "category": "security"
+    "count": 1112,
+    "category": "ecosystem"
   },
   {
     "tag": "geosite",
@@ -11,8 +11,8 @@
   },
   {
     "tag": "mihomo",
-    "count": 422,
-    "category": "dns_rules"
+    "count": 423,
+    "category": "ecosystem"
   },
   {
     "tag": "MetaCubeX",
@@ -41,28 +41,28 @@
   },
   {
     "tag": "xray-core",
-    "count": 184,
+    "count": 185,
     "category": "security"
   },
   {
     "tag": "clash",
-    "count": 131,
+    "count": 132,
     "category": "ecosystem"
+  },
+  {
+    "tag": "x-ui",
+    "count": 129,
+    "category": "security"
+  },
+  {
+    "tag": "panel",
+    "count": 129,
+    "category": "security"
   },
   {
     "tag": "sing-box",
     "count": 128,
     "category": "client"
-  },
-  {
-    "tag": "x-ui",
-    "count": 128,
-    "category": "security"
-  },
-  {
-    "tag": "panel",
-    "count": 128,
-    "category": "security"
   },
   {
     "tag": "Sub-Store",
@@ -106,12 +106,12 @@
   },
   {
     "tag": "sub-store",
-    "count": 84,
+    "count": 85,
     "category": "ecosystem"
   },
   {
     "tag": "subscription",
-    "count": 84,
+    "count": 85,
     "category": "ecosystem"
   },
   {
@@ -425,6 +425,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "dashboard",
+    "count": 18,
+    "category": "ecosystem"
+  },
+  {
     "tag": "xtls",
     "count": 18,
     "category": "security"
@@ -438,11 +443,6 @@
     "tag": "Xray",
     "count": 18,
     "category": "core"
-  },
-  {
-    "tag": "dashboard",
-    "count": 17,
-    "category": "ecosystem"
   },
   {
     "tag": "desktop",
