@@ -1,18 +1,18 @@
 [
   {
     "tag": "release",
-    "count": 1117,
-    "category": "dns_rules"
+    "count": 1121,
+    "category": "security"
   },
   {
     "tag": "geosite",
-    "count": 468,
+    "count": 470,
     "category": "dns_rules"
   },
   {
     "tag": "mihomo",
-    "count": 423,
-    "category": "ecosystem"
+    "count": 424,
+    "category": "dns_rules"
   },
   {
     "tag": "MetaCubeX",
@@ -21,17 +21,17 @@
   },
   {
     "tag": "domain-list",
-    "count": 294,
+    "count": 295,
     "category": "dns_rules"
   },
   {
     "tag": "ruleset",
-    "count": 242,
+    "count": 243,
     "category": "dns_rules"
   },
   {
     "tag": "geoip",
-    "count": 242,
+    "count": 243,
     "category": "dns_rules"
   },
   {
@@ -41,7 +41,7 @@
   },
   {
     "tag": "xray-core",
-    "count": 186,
+    "count": 188,
     "category": "security"
   },
   {
@@ -251,7 +251,7 @@
   },
   {
     "tag": "android",
-    "count": 34,
+    "count": 35,
     "category": "security"
   },
   {
@@ -390,6 +390,11 @@
     "category": "core"
   },
   {
+    "tag": "v2rayng",
+    "count": 20,
+    "category": "security"
+  },
+  {
     "tag": "anytls",
     "count": 20,
     "category": "security"
@@ -403,11 +408,6 @@
     "tag": "rematch",
     "count": 20,
     "category": "core"
-  },
-  {
-    "tag": "v2rayng",
-    "count": 19,
-    "category": "security"
   },
   {
     "tag": "ssrplus",
@@ -495,6 +495,21 @@
     "category": "ecosystem"
   },
   {
+    "tag": "warp",
+    "count": 15,
+    "category": "security"
+  },
+  {
+    "tag": "v2rayn",
+    "count": 15,
+    "category": "client"
+  },
+  {
+    "tag": "windows",
+    "count": 15,
+    "category": "client"
+  },
+  {
     "tag": "xray",
     "count": 15,
     "category": "security"
@@ -508,16 +523,6 @@
     "tag": "v2ray-core",
     "count": 14,
     "category": "core"
-  },
-  {
-    "tag": "v2rayn",
-    "count": 14,
-    "category": "client"
-  },
-  {
-    "tag": "windows",
-    "count": 14,
-    "category": "client"
   },
   {
     "tag": "grpc",
@@ -538,11 +543,6 @@
     "tag": "SUDOKU-ASCII",
     "count": 14,
     "category": "core"
-  },
-  {
-    "tag": "warp",
-    "count": 13,
-    "category": "security"
   },
   {
     "tag": "OpenWrt",
