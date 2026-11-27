@@ -1,13 +1,13 @@
 {
-  "totalItems": 2300,
-  "last24h": 5,
-  "last7d": 52,
+  "totalItems": 2304,
+  "last24h": 8,
+  "last7d": 55,
   "byCategory": {
-    "core": 335,
+    "core": 337,
     "client": 346,
     "router": 34,
     "protocol": 57,
-    "dns_rules": 490,
+    "dns_rules": 492,
     "security": 142,
     "ecosystem": 896,
     "trend": 0
@@ -15,7 +15,7 @@
   "topProjects": [
     {
       "project": "domain-list-community",
-      "count": 423
+      "count": 424
     },
     {
       "project": "mihomo",
@@ -23,7 +23,7 @@
     },
     {
       "project": "v2ray-rules-dat",
-      "count": 213
+      "count": 214
     },
     {
       "project": "3x-ui",
@@ -43,7 +43,7 @@
     },
     {
       "project": "sing-box",
-      "count": 79
+      "count": 81
     },
     {
       "project": "gost",
@@ -57,11 +57,11 @@
   "hotTags": [
     {
       "tag": "release",
-      "count": 1113
+      "count": 1117
     },
     {
       "tag": "geosite",
-      "count": 466
+      "count": 468
     },
     {
       "tag": "mihomo",
@@ -73,15 +73,15 @@
     },
     {
       "tag": "domain-list",
-      "count": 293
+      "count": 294
     },
     {
       "tag": "ruleset",
-      "count": 241
+      "count": 242
     },
     {
       "tag": "geoip",
-      "count": 241
+      "count": 242
     },
     {
       "tag": "v2fly",
@@ -96,16 +96,16 @@
       "count": 132
     },
     {
+      "tag": "sing-box",
+      "count": 130
+    },
+    {
       "tag": "x-ui",
       "count": 130
     },
     {
       "tag": "panel",
       "count": 130
-    },
-    {
-      "tag": "sing-box",
-      "count": 128
     },
     {
       "tag": "Sub-Store",
@@ -117,7 +117,7 @@
     },
     {
       "tag": "vless",
-      "count": 101
+      "count": 103
     },
     {
       "tag": "xhttp",
@@ -136,8 +136,8 @@
       "count": 88
     }
   ],
-  "importantCount": 1132,
-  "breakingCount": 113,
+  "importantCount": 1136,
+  "breakingCount": 115,
   "securityCount": 196,
-  "updatedAt": "2026-11-26T21:39:08.777Z"
+  "updatedAt": "2026-11-27T01:42:14.721Z"
 }

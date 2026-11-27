@@ -1,12 +1,12 @@
 [
   {
     "tag": "release",
-    "count": 1113,
-    "category": "ecosystem"
+    "count": 1117,
+    "category": "dns_rules"
   },
   {
     "tag": "geosite",
-    "count": 466,
+    "count": 468,
     "category": "dns_rules"
   },
   {
@@ -21,17 +21,17 @@
   },
   {
     "tag": "domain-list",
-    "count": 293,
+    "count": 294,
     "category": "dns_rules"
   },
   {
     "tag": "ruleset",
-    "count": 241,
+    "count": 242,
     "category": "dns_rules"
   },
   {
     "tag": "geoip",
-    "count": 241,
+    "count": 242,
     "category": "dns_rules"
   },
   {
@@ -50,6 +50,11 @@
     "category": "ecosystem"
   },
   {
+    "tag": "sing-box",
+    "count": 130,
+    "category": "core"
+  },
+  {
     "tag": "x-ui",
     "count": 130,
     "category": "security"
@@ -58,11 +63,6 @@
     "tag": "panel",
     "count": 130,
     "category": "security"
-  },
-  {
-    "tag": "sing-box",
-    "count": 128,
-    "category": "client"
   },
   {
     "tag": "Sub-Store",
@@ -76,7 +76,7 @@
   },
   {
     "tag": "vless",
-    "count": 101,
+    "count": 103,
     "category": "core"
   },
   {
@@ -131,8 +131,13 @@
   },
   {
     "tag": "ech",
-    "count": 76,
+    "count": 77,
     "category": "dns_rules"
+  },
+  {
+    "tag": "hysteria2",
+    "count": 72,
+    "category": "core"
   },
   {
     "tag": "网络代理",
@@ -140,14 +145,9 @@
     "category": "ecosystem"
   },
   {
-    "tag": "hysteria2",
-    "count": 70,
-    "category": "ecosystem"
-  },
-  {
     "tag": "quic",
-    "count": 68,
-    "category": "security"
+    "count": 69,
+    "category": "core"
   },
   {
     "tag": "rules",
@@ -166,8 +166,8 @@
   },
   {
     "tag": "tuic",
-    "count": 54,
-    "category": "security"
+    "count": 56,
+    "category": "core"
   },
   {
     "tag": "Android",
@@ -230,6 +230,11 @@
     "category": "client"
   },
   {
+    "tag": "naiveproxy",
+    "count": 37,
+    "category": "core"
+  },
+  {
     "tag": "snell",
     "count": 37,
     "category": "ecosystem"
@@ -238,11 +243,6 @@
     "tag": "reality",
     "count": 36,
     "category": "ecosystem"
-  },
-  {
-    "tag": "naiveproxy",
-    "count": 36,
-    "category": "router"
   },
   {
     "tag": "go-gost",
