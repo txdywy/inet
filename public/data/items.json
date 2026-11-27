@@ -1,5 +1,40 @@
 [
   {
+    "id": "e8548f474a45c0ff",
+    "title": "v2fly/domain-list-community 20261127135030",
+    "summary": "20261127135030",
+    "rawTitle": "20261127135030",
+    "rawBody": "## What's Changed\n* faceit: add new domain by @TripleA150 in https://github.com/v2fly/domain-list-community/pull/4330\n\n\n**Full Changelog**: https://github.com/v2fly/domain-list-community/compare/20261127060932...20261127135030",
+    "sourceType": "github_release",
+    "sourceName": "v2fly/domain-list-community",
+    "sourceUrl": "https://github.com/v2fly/domain-list-community/releases/tag/20261127135030",
+    "project": "domain-list-community",
+    "repo": "v2fly/domain-list-community",
+    "slug": "domain-list-community",
+    "version": "20261127135030",
+    "category": "dns_rules",
+    "tags": [
+      "geosite",
+      "domain-list",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 4,
+    "confidence": 0.7999999999999999,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": false,
+    "publishedAt": "2026-11-27T13:50:39Z",
+    "fetchedAt": "2026-11-27T16:46:34.948Z",
+    "firstSeenAt": "2026-11-27T16:46:36.445Z",
+    "updatedAt": "2026-11-27T16:46:36.445Z",
+    "hash": "e8548f474a45c0ff"
+  },
+  {
     "id": "2f4faae32f51c5d1",
     "title": "2dust/v2rayNG 2.4.3",
     "summary": "2.4.3",
@@ -71082,6 +71117,46 @@
     "firstSeenAt": "2026-05-07T04:09:04.362Z",
     "updatedAt": "2026-05-07T04:09:04.362Z",
     "hash": "5e6adb84fbb7f312"
+  },
+  {
+    "id": "89ca1e714fa75daf",
+    "title": "MetaCubeX/mihomo Prerelease-Alpha",
+    "summary": "Prerelease-Alpha",
+    "rawTitle": "Prerelease-Alpha",
+    "rawBody": "Release created at  Fri Nov 27 23:43:15 CST 2026\nSynchronize Alpha branch code updates, keeping only the latest version\n<br>\n[我应该下载哪个文件? / Which file should I download?](https://github.com/MetaCubeX/mihomo/wiki/FAQ)\n[二进制文件筛选 / Binary file selector](https://metacubex.github.io/Meta-Docs/startup/#_1)\n[查看文档 / Docs](https://metacubex.github.io/Meta-Docs/)\n\n\n## What's Changed\n* fix: use correct format verb for subscription-userinfo parse errors by @AaronChen0 in https://github.com/MetaCubeX/mihomo/pull/3455\n* feat(snell): support optional userkey for Snell v6 outbound by @CatMsg in https://github.com/MetaCubeX/mihomo/pull/3460\n* fix(xhttp): skip expired entries when picking reusable connections by @echoowall in https://github.com/MetaCubeX/mihomo/pull/3479\n* feat: allow disable redir-host mapping in fake-ip mode by @i40e in https://github.com/MetaCubeX/mihomo/pull/3496\n* fix: correct msftncsi hostname typo in default fake-ip-filter by @xiky in https://github.com/MetaCubeX/mihomo/pull/3481\n* chore: update mieru version by @enfein in https://github.com/MetaCubeX/mihomo/pull/3514\n* feat: add WebSocket support to GOST relay by @ztywyj in https://github.com/MetaCubeX/mihomo/pull/3507\n* fix(adapter): close the outbound when smux options are invalid by @lovitus in https://github.com/MetaCubeX/mihomo/pull/3517\n* fix: avoid xhttp init panic when the system clock is wrong by @BukeLy in https://github.com/MetaCubeX/mihomo/pull/3521\n* fix: pass valid rAddrPort in Tailscale SystemPacketListener by @chenx-dust in https://github.com/MetaCubeX/mihomo/pull/3535\n\n## New Contributors\n* @CatMsg made their first contribution in https://github.com/MetaCubeX/mihomo/pull/3460\n* @echoowall made their first contribution in https://github.com/MetaCubeX/mihomo/pull/3479\n* @i40e made their first contribution in https://github.com/MetaCubeX/mihomo/pull/3496\n* @xiky made their first contribution in https://github.com/MetaCubeX/mihomo/pull/3481\n* @lovitus made their first contribution in https://github.com/MetaCubeX/mihomo/pull/3517\n* @BukeLy made their first contribution in https://github.com/MetaCubeX/mihomo/pull/3521\n\n**Full Changelog**: https://github.com/MetaCubeX/mihomo/compare/v1.19.34...Prerelease-Alpha",
+    "sourceType": "github_release",
+    "sourceName": "MetaCubeX/mihomo",
+    "sourceUrl": "https://github.com/MetaCubeX/mihomo/releases/tag/Prerelease-Alpha",
+    "project": "mihomo",
+    "repo": "MetaCubeX/mihomo",
+    "slug": "mihomo",
+    "version": "Prerelease-Alpha",
+    "category": "core",
+    "tags": [
+      "mihomo",
+      "clash",
+      "meta",
+      "xhttp",
+      "ech",
+      "gost",
+      "snell",
+      "release"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "importance": 2,
+    "confidence": 0.85,
+    "isBreaking": false,
+    "isSecurityRelated": false,
+    "isProtocolRelated": true,
+    "publishedAt": "2024-08-12T17:01:02Z",
+    "fetchedAt": "2026-11-27T16:46:21.529Z",
+    "firstSeenAt": "2026-11-27T16:46:35.641Z",
+    "updatedAt": "2026-11-27T16:46:35.641Z",
+    "hash": "89ca1e714fa75daf"
   },
   {
     "id": "a06da0dabbe32441",

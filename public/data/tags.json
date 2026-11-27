@@ -1,17 +1,17 @@
 [
   {
     "tag": "release",
-    "count": 1121,
-    "category": "security"
+    "count": 1123,
+    "category": "dns_rules"
   },
   {
     "tag": "geosite",
-    "count": 470,
+    "count": 471,
     "category": "dns_rules"
   },
   {
     "tag": "mihomo",
-    "count": 424,
+    "count": 425,
     "category": "dns_rules"
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "tag": "domain-list",
-    "count": 295,
+    "count": 296,
     "category": "dns_rules"
   },
   {
@@ -46,7 +46,7 @@
   },
   {
     "tag": "clash",
-    "count": 132,
+    "count": 133,
     "category": "ecosystem"
   },
   {
@@ -81,7 +81,7 @@
   },
   {
     "tag": "xhttp",
-    "count": 100,
+    "count": 101,
     "category": "ecosystem"
   },
   {
@@ -91,7 +91,7 @@
   },
   {
     "tag": "meta",
-    "count": 97,
+    "count": 98,
     "category": "security"
   },
   {
@@ -131,7 +131,7 @@
   },
   {
     "tag": "ech",
-    "count": 77,
+    "count": 78,
     "category": "dns_rules"
   },
   {
@@ -220,6 +220,11 @@
     "category": "router"
   },
   {
+    "tag": "snell",
+    "count": 38,
+    "category": "ecosystem"
+  },
+  {
     "tag": "Linux",
     "count": 38,
     "category": "client"
@@ -233,11 +238,6 @@
     "tag": "naiveproxy",
     "count": 37,
     "category": "core"
-  },
-  {
-    "tag": "snell",
-    "count": 37,
-    "category": "ecosystem"
   },
   {
     "tag": "reality",
@@ -306,7 +306,7 @@
   },
   {
     "tag": "gost",
-    "count": 30,
+    "count": 31,
     "category": "core"
   },
   {

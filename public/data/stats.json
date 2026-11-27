@@ -1,13 +1,13 @@
 {
-  "totalItems": 2308,
-  "last24h": 10,
-  "last7d": 57,
+  "totalItems": 2310,
+  "last24h": 9,
+  "last7d": 55,
   "byCategory": {
-    "core": 337,
+    "core": 338,
     "client": 347,
     "router": 34,
     "protocol": 57,
-    "dns_rules": 494,
+    "dns_rules": 495,
     "security": 143,
     "ecosystem": 896,
     "trend": 0
@@ -15,11 +15,11 @@
   "topProjects": [
     {
       "project": "domain-list-community",
-      "count": 425
+      "count": 426
     },
     {
       "project": "mihomo",
-      "count": 244
+      "count": 245
     },
     {
       "project": "v2ray-rules-dat",
@@ -57,15 +57,15 @@
   "hotTags": [
     {
       "tag": "release",
-      "count": 1121
+      "count": 1123
     },
     {
       "tag": "geosite",
-      "count": 470
+      "count": 471
     },
     {
       "tag": "mihomo",
-      "count": 424
+      "count": 425
     },
     {
       "tag": "MetaCubeX",
@@ -73,7 +73,7 @@
     },
     {
       "tag": "domain-list",
-      "count": 295
+      "count": 296
     },
     {
       "tag": "ruleset",
@@ -93,7 +93,7 @@
     },
     {
       "tag": "clash",
-      "count": 132
+      "count": 133
     },
     {
       "tag": "sing-box",
@@ -121,7 +121,7 @@
     },
     {
       "tag": "xhttp",
-      "count": 100
+      "count": 101
     },
     {
       "tag": "v2ray",
@@ -129,15 +129,15 @@
     },
     {
       "tag": "meta",
-      "count": 97
+      "count": 98
     },
     {
       "tag": "meta-rules-dat",
       "count": 88
     }
   ],
-  "importantCount": 1140,
+  "importantCount": 1141,
   "breakingCount": 115,
   "securityCount": 197,
-  "updatedAt": "2026-11-27T08:43:41.635Z"
+  "updatedAt": "2026-11-27T16:46:36.802Z"
 }
