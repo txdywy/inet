@@ -1,12 +1,12 @@
 [
   {
     "tag": "release",
-    "count": 1123,
-    "category": "dns_rules"
+    "count": 1126,
+    "category": "core"
   },
   {
     "tag": "geosite",
-    "count": 471,
+    "count": 472,
     "category": "dns_rules"
   },
   {
@@ -26,12 +26,12 @@
   },
   {
     "tag": "ruleset",
-    "count": 243,
+    "count": 244,
     "category": "dns_rules"
   },
   {
     "tag": "geoip",
-    "count": 243,
+    "count": 244,
     "category": "dns_rules"
   },
   {
@@ -51,7 +51,7 @@
   },
   {
     "tag": "sing-box",
-    "count": 130,
+    "count": 132,
     "category": "core"
   },
   {
@@ -76,7 +76,7 @@
   },
   {
     "tag": "vless",
-    "count": 103,
+    "count": 105,
     "category": "core"
   },
   {
@@ -136,7 +136,7 @@
   },
   {
     "tag": "hysteria2",
-    "count": 72,
+    "count": 74,
     "category": "core"
   },
   {
@@ -166,7 +166,7 @@
   },
   {
     "tag": "tuic",
-    "count": 56,
+    "count": 58,
     "category": "core"
   },
   {
